@@ -1,0 +1,11 @@
+{
+  "name": "musicz-pygm",
+  "version": "0.1.0",
+  "summary": "键盘弹钢琴，keyboard to play piano",
+  "author": "Zzz",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/buildCodeZ/musicz_pygm",
+  "download_filename": "musicz_pygm-0.1.0.tar.gz",
+  "download_time": "2026-03-07T17:44:35.375206",
+  "package_url": "https://pypi.org/project/musicz-pygm/"
+}

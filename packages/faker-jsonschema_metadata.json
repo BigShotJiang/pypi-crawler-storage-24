@@ -1,0 +1,11 @@
+{
+  "name": "faker-jsonschema",
+  "version": "1.0.0",
+  "summary": "Generate fake data matching a JSON schema with Faker.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faker_jsonschema-1.0.0.tar.gz",
+  "download_time": "2026-03-07T17:45:11.730267",
+  "package_url": "https://pypi.org/project/faker-jsonschema/"
+}

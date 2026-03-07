@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-utils-workflow",
+  "version": "0.9.4",
+  "summary": "llama-index utils for workflows",
+  "author": "Adrian Lyjak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_utils_workflow-0.9.4.tar.gz",
+  "download_time": "2026-03-07T17:44:51.843241",
+  "package_url": "https://pypi.org/project/llama-index-utils-workflow/"
+}

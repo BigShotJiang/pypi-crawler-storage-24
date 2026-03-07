@@ -1,11 +1,11 @@
 {
   "name": "bussdcc",
-  "version": "0.33.1",
+  "version": "0.34.0",
   "summary": "A strongly-typed cybernetic kernel for building durable event-driven systems in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bussdcc-0.33.1.tar.gz",
-  "download_time": "2026-03-07T06:33:09.195272",
+  "download_filename": "bussdcc-0.34.0.tar.gz",
+  "download_time": "2026-03-07T17:44:39.702626",
   "package_url": "https://pypi.org/project/bussdcc/"
 }

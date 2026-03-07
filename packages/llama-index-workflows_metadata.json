@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-workflows",
+  "version": "2.15.1",
+  "summary": "An event-driven, async-first, step-based way to control the execution flow of AI applications like Agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_workflows-2.15.1.tar.gz",
+  "download_time": "2026-03-07T17:44:48.973650",
+  "package_url": "https://pypi.org/project/llama-index-workflows/"
+}

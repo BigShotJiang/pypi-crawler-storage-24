@@ -1,0 +1,11 @@
+{
+  "name": "rare-identity-protocol",
+  "version": "0.1.0",
+  "summary": "Rare identity protocol primitives and signing helpers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rare_identity_protocol-0.1.0.tar.gz",
+  "download_time": "2026-03-07T17:45:01.467661",
+  "package_url": "https://pypi.org/project/rare-identity-protocol/"
+}

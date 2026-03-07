@@ -1,11 +1,11 @@
 {
   "name": "drmeter",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "summary": "Dynamic Range (DR) algorithm implementation in python",
   "author": "Jan Willhaus",
   "license": null,
   "home_page": null,
-  "download_filename": "drmeter-0.4.8.tar.gz",
-  "download_time": "2026-03-07T16:26:09.510006",
+  "download_filename": "drmeter-0.4.9.tar.gz",
+  "download_time": "2026-03-07T17:44:54.719398",
   "package_url": "https://pypi.org/project/drmeter/"
 }

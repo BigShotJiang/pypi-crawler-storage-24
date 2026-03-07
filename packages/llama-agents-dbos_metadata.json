@@ -1,0 +1,11 @@
+{
+  "name": "llama-agents-dbos",
+  "version": "0.1.1",
+  "summary": "DBOS durable runtime plugin for LlamaIndex Workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_agents_dbos-0.1.1.tar.gz",
+  "download_time": "2026-03-07T17:44:50.122997",
+  "package_url": "https://pypi.org/project/llama-agents-dbos/"
+}

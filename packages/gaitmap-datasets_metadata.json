@@ -1,0 +1,11 @@
+{
+  "name": "gaitmap-datasets",
+  "version": "0.15.0",
+  "summary": "Helper to access open-source gait datasets used by MaD-Lab",
+  "author": "Arne Küderle, Nils Roth, Liv Herzer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gaitmap_datasets-0.15.0.tar.gz",
+  "download_time": "2026-03-07T17:45:08.310054",
+  "package_url": "https://pypi.org/project/gaitmap-datasets/"
+}

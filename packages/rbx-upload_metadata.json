@@ -1,0 +1,11 @@
+{
+  "name": "rbx-upload",
+  "version": "0.2.1",
+  "summary": "Roblox asset upload client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rbx_upload-0.2.1.tar.gz",
+  "download_time": "2026-03-07T17:44:38.116330",
+  "package_url": "https://pypi.org/project/rbx-upload/"
+}
