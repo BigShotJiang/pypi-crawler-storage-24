@@ -1,0 +1,11 @@
+{
+  "name": "django-map-widgets",
+  "version": "0.5.2",
+  "summary": "Configurable and user-friendly map widgets for GeoDjango fields",
+  "author": "Erdem Ozkol",
+  "license": "MIT",
+  "home_page": "https://github.com/erdem/django-map-widgets",
+  "download_filename": "django_map_widgets-0.5.2.tar.gz",
+  "download_time": "2026-03-07T19:43:00.788186",
+  "package_url": "https://pypi.org/project/django-map-widgets/"
+}

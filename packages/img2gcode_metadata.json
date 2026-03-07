@@ -1,0 +1,11 @@
+{
+  "name": "img2gcode",
+  "version": "1.0.2",
+  "summary": "Convert image to gcode for laser printing",
+  "author": "0CBH0",
+  "license": "MIT",
+  "home_page": "https://github.com/0CBH0/img2gcode",
+  "download_filename": "img2gcode-1.0.2.tar.gz",
+  "download_time": "2026-03-07T19:43:09.997182",
+  "package_url": "https://pypi.org/project/img2gcode/"
+}

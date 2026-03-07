@@ -1,0 +1,11 @@
+{
+  "name": "incv-community-detection",
+  "version": "0.1.0",
+  "summary": "Inductive Node-Splitting Cross-Validation for community detection in networks",
+  "author": "Bokai Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "incv_community_detection-0.1.0.tar.gz",
+  "download_time": "2026-03-07T19:43:08.778575",
+  "package_url": "https://pypi.org/project/incv-community-detection/"
+}

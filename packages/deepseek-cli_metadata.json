@@ -1,0 +1,11 @@
+{
+  "name": "deepseek-cli",
+  "version": "0.3.1",
+  "summary": "A powerful CLI for interacting with DeepSeek's AI models",
+  "author": "PierrunoYT",
+  "license": null,
+  "home_page": "https://github.com/PierrunoYT/deepseek-cli",
+  "download_filename": "deepseek_cli-0.3.1.tar.gz",
+  "download_time": "2026-03-07T19:42:49.657956",
+  "package_url": "https://pypi.org/project/deepseek-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dominusnode-moltbook",
+  "version": "1.2.0",
+  "summary": "Dominus Node integration for Moltbook -- interact with the AI agent social network through rotating proxies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dominusnode_moltbook-1.2.0.tar.gz",
+  "download_time": "2026-03-07T19:42:39.769867",
+  "package_url": "https://pypi.org/project/dominusnode-moltbook/"
+}

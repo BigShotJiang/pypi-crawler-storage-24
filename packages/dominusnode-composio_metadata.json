@@ -1,0 +1,11 @@
+{
+  "name": "dominusnode-composio",
+  "version": "1.2.0",
+  "summary": "Dominus Node tools for Composio -- 22 proxy, wallet, and team management actions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dominusnode_composio-1.2.0.tar.gz",
+  "download_time": "2026-03-07T19:42:47.742475",
+  "package_url": "https://pypi.org/project/dominusnode-composio/"
+}

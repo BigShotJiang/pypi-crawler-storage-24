@@ -1,0 +1,11 @@
+{
+  "name": "dominusnode-pydanticai",
+  "version": "1.2.0",
+  "summary": "Dominus Node rotating proxy tools for PydanticAI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dominusnode_pydanticai-1.2.0.tar.gz",
+  "download_time": "2026-03-07T19:42:39.135669",
+  "package_url": "https://pypi.org/project/dominusnode-pydanticai/"
+}

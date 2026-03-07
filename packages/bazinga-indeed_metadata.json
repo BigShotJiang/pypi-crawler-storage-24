@@ -1,0 +1,11 @@
+{
+  "name": "bazinga-indeed",
+  "version": "5.2.1",
+  "summary": "BAZINGA - The first AI you actually own. Free, private, works offline. Multi-AI consensus through φ-coherence.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bazinga_indeed-5.2.1.tar.gz",
+  "download_time": "2026-03-07T19:42:37.328109",
+  "package_url": "https://pypi.org/project/bazinga-indeed/"
+}

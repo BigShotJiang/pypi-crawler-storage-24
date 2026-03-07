@@ -1,0 +1,11 @@
+{
+  "name": "ya-tracker-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for Yandex Tracker API — issues, projects, boards, sprints, worklog and more",
+  "author": "Daniil Pavlyuchik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ya_tracker_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-07T19:43:05.161361",
+  "package_url": "https://pypi.org/project/ya-tracker-mcp/"
+}

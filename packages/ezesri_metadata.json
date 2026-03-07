@@ -1,0 +1,11 @@
+{
+  "name": "ezesri",
+  "version": "0.3.3",
+  "summary": "A lightweight Python package for extracting data from Esri REST API endpoints.",
+  "author": "Justin Myles",
+  "license": null,
+  "home_page": "https://github.com/stiles/ezesri",
+  "download_filename": "ezesri-0.3.3.tar.gz",
+  "download_time": "2026-03-07T19:42:33.475480",
+  "package_url": "https://pypi.org/project/ezesri/"
+}

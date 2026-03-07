@@ -1,0 +1,11 @@
+{
+  "name": "sym-quaternions",
+  "version": "0.1.0",
+  "summary": "This is a symbolic quaternion library for 3D rotation algebra built on SymPy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sym_quaternions-0.1.0.tar.gz",
+  "download_time": "2026-03-07T19:42:32.833259",
+  "package_url": "https://pypi.org/project/sym-quaternions/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "eltdx",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "通达信行情协议 Python 库，支持快照、分时、逐笔、K 线、集合竞价等接口",
   "author": "ax",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eltdx-0.1.4.tar.gz",
-  "download_time": "2026-03-07T14:47:41.222534",
+  "download_filename": "eltdx-0.2.0.tar.gz",
+  "download_time": "2026-03-07T19:43:02.722089",
   "package_url": "https://pypi.org/project/eltdx/"
 }

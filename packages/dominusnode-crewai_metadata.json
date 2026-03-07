@@ -1,0 +1,11 @@
+{
+  "name": "dominusnode-crewai",
+  "version": "1.2.0",
+  "summary": "CrewAI tools for Dominus Node rotating proxy service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dominusnode_crewai-1.2.0.tar.gz",
+  "download_time": "2026-03-07T19:42:47.092583",
+  "package_url": "https://pypi.org/project/dominusnode-crewai/"
+}

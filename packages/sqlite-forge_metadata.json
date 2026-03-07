@@ -1,0 +1,11 @@
+{
+  "name": "sqlite-forge",
+  "version": "1.1.1",
+  "summary": "Common tool for forging and maintaining sqlite databases",
+  "author": "Tom",
+  "license": "MIT",
+  "home_page": "https://github.com/Tom3man/sqlite-forge",
+  "download_filename": "sqlite_forge-1.1.1.tar.gz",
+  "download_time": "2026-03-07T19:42:52.550895",
+  "package_url": "https://pypi.org/project/sqlite-forge/"
+}
