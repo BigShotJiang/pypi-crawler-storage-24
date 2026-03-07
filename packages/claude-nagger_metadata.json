@@ -1,0 +1,11 @@
+{
+  "name": "claude-nagger",
+  "version": "3.0.0",
+  "summary": "Claude Code統合ツールシステム - フック・規約管理CLI",
+  "author": "HollySizzle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_nagger-3.0.0.tar.gz",
+  "download_time": "2026-03-07T11:16:01.486935",
+  "package_url": "https://pypi.org/project/claude-nagger/"
+}

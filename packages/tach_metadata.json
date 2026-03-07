@@ -1,0 +1,11 @@
+{
+  "name": "tach",
+  "version": "0.34.0",
+  "summary": "A Python tool to maintain a modular package architecture.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tach-0.34.0.tar.gz",
+  "download_time": "2026-03-07T11:15:46.878388",
+  "package_url": "https://pypi.org/project/tach/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wonderwallai",
+  "version": "0.1.0",
+  "summary": "AI firewall SDK — protect LLM applications from prompt injection, data leaks, and off-topic abuse",
+  "author": "WonderwallAi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wonderwallai-0.1.0.tar.gz",
+  "download_time": "2026-03-07T11:16:05.525536",
+  "package_url": "https://pypi.org/project/wonderwallai/"
+}

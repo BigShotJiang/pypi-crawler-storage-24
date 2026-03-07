@@ -1,0 +1,11 @@
+{
+  "name": "buildstream-plugins",
+  "version": "2.7.0",
+  "summary": "A collection of plugins for BuildStream.",
+  "author": "The Apache Software Foundation",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://buildstream.build",
+  "download_filename": "buildstream_plugins-2.7.0.tar.gz",
+  "download_time": "2026-03-07T11:15:35.875364",
+  "package_url": "https://pypi.org/project/buildstream-plugins/"
+}

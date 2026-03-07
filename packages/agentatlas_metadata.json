@@ -1,0 +1,11 @@
+{
+  "name": "agentatlas",
+  "version": "0.3.1",
+  "summary": "Shared browser interaction schema registry for AI agents. Reduces LLM token usage by 80-100% on known sites.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentatlas-0.3.1.tar.gz",
+  "download_time": "2026-03-07T11:16:07.632047",
+  "package_url": "https://pypi.org/project/agentatlas/"
+}

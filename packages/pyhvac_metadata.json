@@ -1,0 +1,11 @@
+{
+  "name": "pyhvac",
+  "version": "0.1.4",
+  "summary": "Python liberary/Utility to generate A/C IR signals",
+  "author": "François Wautier",
+  "license": null,
+  "home_page": "http://github.com/frawau/pyhvac",
+  "download_filename": "pyhvac-0.1.4-cp310-cp310-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-03-07T11:15:44.734769",
+  "package_url": "https://pypi.org/project/pyhvac/"
+}
