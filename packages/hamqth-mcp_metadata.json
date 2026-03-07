@@ -1,0 +1,11 @@
+{
+  "name": "hamqth-mcp",
+  "version": "0.2.2",
+  "summary": "MCP server for HamQTH.com — callsign lookup, DX spots, RBN, QSO verification",
+  "author": "Greg Beam, KI7MT",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "hamqth_mcp-0.2.2.tar.gz",
+  "download_time": "2026-03-07T15:44:39.544136",
+  "package_url": "https://pypi.org/project/hamqth-mcp/"
+}

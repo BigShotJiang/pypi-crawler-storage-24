@@ -1,0 +1,11 @@
+{
+  "name": "covenant-ai",
+  "version": "0.1.0",
+  "summary": "Behavioral regression testing of AI agents",
+  "author": "CovenantAI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "covenant_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-07T15:44:16.511933",
+  "package_url": "https://pypi.org/project/covenant-ai/"
+}

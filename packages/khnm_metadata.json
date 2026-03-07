@@ -1,0 +1,11 @@
+{
+  "name": "khnm",
+  "version": "1.1.5",
+  "summary": "Micro-framework for implementing data pipelines over RabbitMQ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "khnm-1.1.5.tar.gz",
+  "download_time": "2026-03-07T15:44:14.952842",
+  "package_url": "https://pypi.org/project/khnm/"
+}

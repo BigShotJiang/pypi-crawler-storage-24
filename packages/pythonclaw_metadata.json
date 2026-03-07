@@ -1,11 +1,11 @@
 {
   "name": "pythonclaw",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": "OpenClaw reimagined in pure Python — autonomous AI agent with memory, RAG, skills, web dashboard, and multi-channel support.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pythonclaw-0.6.4.tar.gz",
-  "download_time": "2026-03-07T12:35:23.671639",
+  "download_filename": "pythonclaw-0.6.5.tar.gz",
+  "download_time": "2026-03-07T15:44:40.584934",
   "package_url": "https://pypi.org/project/pythonclaw/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "LZGraphs",
+  "version": "2.3.1",
+  "summary": "An Implementation of LZ76 Based Graphs for Repertoire Representation and Analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lzgraphs-2.3.1.tar.gz",
+  "download_time": "2026-03-07T15:44:54.724363",
+  "package_url": "https://pypi.org/project/LZGraphs/"
+}

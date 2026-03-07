@@ -1,0 +1,11 @@
+{
+  "name": "scitex-writer",
+  "version": "2.8.1",
+  "summary": "LaTeX manuscript compilation system for scientific documents with MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_writer-2.8.1.tar.gz",
+  "download_time": "2026-03-07T15:45:01.074217",
+  "package_url": "https://pypi.org/project/scitex-writer/"
+}

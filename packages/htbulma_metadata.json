@@ -1,0 +1,11 @@
+{
+  "name": "htbulma",
+  "version": "1.0.0",
+  "summary": "GUI toolkit for creating beautiful applications for mobile, web, and desktop from a single python3 codebase",
+  "author": "manatlan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "htbulma-1.0.0.tar.gz",
+  "download_time": "2026-03-07T15:44:30.988654",
+  "package_url": "https://pypi.org/project/htbulma/"
+}

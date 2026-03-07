@@ -1,0 +1,11 @@
+{
+  "name": "intercom-docs-exporter",
+  "version": "0.4.0",
+  "summary": "Export Intercom Help Center article URLs — ready to feed into AI tools like NotebookLM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "intercom_docs_exporter-0.4.0.tar.gz",
+  "download_time": "2026-03-07T15:44:51.077215",
+  "package_url": "https://pypi.org/project/intercom-docs-exporter/"
+}

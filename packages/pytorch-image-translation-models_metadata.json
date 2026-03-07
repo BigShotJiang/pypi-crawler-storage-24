@@ -1,11 +1,11 @@
 {
   "name": "pytorch-image-translation-models",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "A PyTorch library for multi-modal image translation with diffusion bridges, GANs, and transformer backbones.",
   "author": "Bili-Sakura, EarthBridge Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytorch_image_translation_models-0.2.1.tar.gz",
-  "download_time": "2026-03-07T10:47:42.853737",
+  "download_filename": "pytorch_image_translation_models-0.2.3.tar.gz",
+  "download_time": "2026-03-07T15:44:55.243617",
   "package_url": "https://pypi.org/project/pytorch-image-translation-models/"
 }

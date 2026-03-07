@@ -1,0 +1,11 @@
+{
+  "name": "lotw-mcp",
+  "version": "0.2.1",
+  "summary": "MCP server for ARRL Logbook of The World — QSO query, QSL status, DXCC credit",
+  "author": "Greg Beam, KI7MT",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "lotw_mcp-0.2.1.tar.gz",
+  "download_time": "2026-03-07T15:44:40.062628",
+  "package_url": "https://pypi.org/project/lotw-mcp/"
+}

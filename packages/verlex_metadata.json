@@ -1,11 +1,11 @@
 {
   "name": "verlex",
-  "version": "0.8.22",
+  "version": "0.8.25",
   "summary": "Run your code in the cloud with a single function call",
   "author": "Verlex Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "verlex-0.8.22.tar.gz",
-  "download_time": "2026-03-07T05:13:23.223849",
+  "download_filename": "verlex-0.8.25.tar.gz",
+  "download_time": "2026-03-07T15:44:23.632539",
   "package_url": "https://pypi.org/project/verlex/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "differential-coverage",
+  "version": "1.0.2",
+  "summary": "Compute differential coverage, a better way of comparing testing tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "differential_coverage-1.0.2.tar.gz",
+  "download_time": "2026-03-07T15:44:44.801576",
+  "package_url": "https://pypi.org/project/differential-coverage/"
+}

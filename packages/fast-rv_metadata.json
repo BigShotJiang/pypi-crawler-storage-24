@@ -1,0 +1,11 @@
+{
+  "name": "fast-rv",
+  "version": "0.1.1",
+  "summary": "A lightweight toolkit for first-order single-planet radial velocity fitting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_rv-0.1.1.tar.gz",
+  "download_time": "2026-03-07T15:44:24.669700",
+  "package_url": "https://pypi.org/project/fast-rv/"
+}

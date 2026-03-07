@@ -1,11 +1,11 @@
 {
   "name": "filesystemwatcher-mcp",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "An event-driven file system watcher for AI agents via the Model Context Protocol (MCP).",
   "author": "Kamal Raj Sekar",
   "license": null,
   "home_page": null,
-  "download_filename": "filesystemwatcher_mcp-0.1.1.tar.gz",
-  "download_time": "2026-03-07T11:53:11.117846",
+  "download_filename": "filesystemwatcher_mcp-0.1.5.tar.gz",
+  "download_time": "2026-03-07T15:44:29.929413",
   "package_url": "https://pypi.org/project/filesystemwatcher-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rho-eval",
+  "version": "2.5.0",
+  "summary": "Behavioral auditing toolkit for LLMs — audit any model across 8 dimensions (factual, toxicity, bias, sycophancy, reasoning, refusal, deception, over-refusal) using teacher-forced confidence probes.",
+  "author": "Bryan Sanchez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rho_eval-2.5.0.tar.gz",
+  "download_time": "2026-03-07T15:44:27.781972",
+  "package_url": "https://pypi.org/project/rho-eval/"
+}

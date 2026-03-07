@@ -1,0 +1,11 @@
+{
+  "name": "garl-protocol",
+  "version": "1.0.2",
+  "summary": "GARL Protocol Python SDK — Universal Trust Standard for AI Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "garl_protocol-1.0.2.tar.gz",
+  "download_time": "2026-03-07T15:44:53.685406",
+  "package_url": "https://pypi.org/project/garl-protocol/"
+}
