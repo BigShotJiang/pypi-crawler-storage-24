@@ -1,0 +1,11 @@
+{
+  "name": "agentscaffold",
+  "version": "0.2.3",
+  "summary": "Structured AI-assisted development framework with plan lifecycle, review gates, and continuous improvement.",
+  "author": "Dave Robb",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentscaffold-0.2.3.tar.gz",
+  "download_time": "2026-03-07T07:07:46.812370",
+  "package_url": "https://pypi.org/project/agentscaffold/"
+}

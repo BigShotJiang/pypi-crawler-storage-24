@@ -1,11 +1,11 @@
 {
   "name": "pyrainbird",
-  "version": "6.1.1",
+  "version": "6.1.2",
   "summary": "Rain Bird Controller",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyrainbird-6.1.1.tar.gz",
-  "download_time": "2026-03-07T06:32:57.523011",
+  "download_filename": "pyrainbird-6.1.2.tar.gz",
+  "download_time": "2026-03-07T07:08:16.942534",
   "package_url": "https://pypi.org/project/pyrainbird/"
 }
