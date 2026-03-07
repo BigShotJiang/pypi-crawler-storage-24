@@ -1,0 +1,11 @@
+{
+  "name": "tra-algorithm",
+  "version": "1.0.5",
+  "summary": "Track/Rail Algorithm (TRA) - A novel machine learning algorithm for dynamic model selection",
+  "author": "Dasari Ranga Eswar",
+  "license": "MIT",
+  "home_page": "https://github.com/eswaroy/tra_algorithm",
+  "download_filename": "tra_algorithm-1.0.5.tar.gz",
+  "download_time": "2026-03-07T05:53:16.308961",
+  "package_url": "https://pypi.org/project/tra-algorithm/"
+}

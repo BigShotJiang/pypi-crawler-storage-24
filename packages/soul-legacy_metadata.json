@@ -1,0 +1,11 @@
+{
+  "name": "soul-legacy",
+  "version": "0.1.4",
+  "summary": "Digital estate vault — local-first, encrypted, LLM-queryable",
+  "author": null,
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "soul_legacy-0.1.4.tar.gz",
+  "download_time": "2026-03-07T05:53:19.462441",
+  "package_url": "https://pypi.org/project/soul-legacy/"
+}
