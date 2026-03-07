@@ -1,0 +1,11 @@
+{
+  "name": "aalink",
+  "version": "0.2",
+  "summary": "Async Python interface for Ableton Link",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aalink-0.2.tar.gz",
+  "download_time": "2026-03-07T23:18:18.430476",
+  "package_url": "https://pypi.org/project/aalink/"
+}

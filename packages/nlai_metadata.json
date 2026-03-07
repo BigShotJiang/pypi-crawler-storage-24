@@ -1,11 +1,11 @@
 {
   "name": "nlai",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "NLAI: evidence-gated claims, continuity anchors, and receipts for agent workflows",
   "author": "James Beck",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nlai-0.2.1.tar.gz",
-  "download_time": "2026-03-07T20:47:35.503016",
+  "download_filename": "nlai-0.3.0.tar.gz",
+  "download_time": "2026-03-07T23:17:48.499728",
   "package_url": "https://pypi.org/project/nlai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "reqstool-python-hatch-plugin",
+  "version": "0.2.0",
+  "summary": "Hatch plugin to process reqstool-python-decorators when building with Hatch",
+  "author": "reqstool",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reqstool_python_hatch_plugin-0.2.0.tar.gz",
+  "download_time": "2026-03-07T23:18:33.837497",
+  "package_url": "https://pypi.org/project/reqstool-python-hatch-plugin/"
+}

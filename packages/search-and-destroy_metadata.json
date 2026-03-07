@@ -1,11 +1,11 @@
 {
   "name": "search-and-destroy",
-  "version": "2026.0.0",
+  "version": "2026.1.1",
   "summary": "A CLI tool to clean up build files from all types of tech stacks. It’s like a Roomba for your project directory, but instead of dust, it sucks up those pesky `dist/`, `build/`, and `*.egg-info/` folders.",
   "author": "Bro Code Technologies LLC",
   "license": "MIT",
   "home_page": "https://github.com/Bro-Code-Technologies/search-and-destroy",
-  "download_filename": "search_and_destroy-2026.0.0.tar.gz",
-  "download_time": "2026-03-07T09:50:20.974367",
+  "download_filename": "search_and_destroy-2026.1.1.tar.gz",
+  "download_time": "2026-03-07T23:17:50.207636",
   "package_url": "https://pypi.org/project/search-and-destroy/"
 }

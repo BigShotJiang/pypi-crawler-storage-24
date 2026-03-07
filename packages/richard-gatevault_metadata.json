@@ -1,0 +1,11 @@
+{
+  "name": "richard-gatevault",
+  "version": "1.0.1",
+  "summary": "A Python auth library that handles JWT token management, password hashing, OAuth2 login flow, and route protection — so you don't have to wire it together yourself.",
+  "author": "Richard Oyelowo",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "richard_gatevault-1.0.1.tar.gz",
+  "download_time": "2026-03-07T23:18:02.979663",
+  "package_url": "https://pypi.org/project/richard-gatevault/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tabimpute",
+  "version": "0.0.4",
+  "summary": "TabImpute: A Pre-trained Transformer for Missing Data Imputation",
+  "author": "Jacob Feitelberg, Dwaipayan Saha, Zaid Ahmad, Kyuseong Choi, Anish Agarwal, Raaz Dwivedi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tabimpute-0.0.4.tar.gz",
+  "download_time": "2026-03-07T23:18:01.048929",
+  "package_url": "https://pypi.org/project/tabimpute/"
+}

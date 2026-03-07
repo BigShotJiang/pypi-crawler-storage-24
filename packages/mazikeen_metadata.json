@@ -1,0 +1,11 @@
+{
+  "name": "mazikeen",
+  "version": "1.2.9",
+  "summary": "Test enviroment for CLI application",
+  "author": "Neaga Septimiu",
+  "license": "MIT",
+  "home_page": "https://github.com/hanniballar/mazikeen",
+  "download_filename": "mazikeen-1.2.9.tar.gz",
+  "download_time": "2026-03-07T23:18:32.221438",
+  "package_url": "https://pypi.org/project/mazikeen/"
+}

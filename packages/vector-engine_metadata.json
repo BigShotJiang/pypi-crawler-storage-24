@@ -1,0 +1,11 @@
+{
+  "name": "vector-engine",
+  "version": "1.0.0",
+  "summary": "ML-first vector computation and retrieval engine.",
+  "author": "Vector Engine Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vector_engine-1.0.0.tar.gz",
+  "download_time": "2026-03-07T23:18:04.718918",
+  "package_url": "https://pypi.org/project/vector-engine/"
+}

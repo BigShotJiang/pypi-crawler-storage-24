@@ -1,0 +1,11 @@
+{
+  "name": "antaris-forge",
+  "version": "1.1.2",
+  "summary": "Antaris Forge — memory, safety, and context for AI agent bots",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "antaris_forge-1.1.2.tar.gz",
+  "download_time": "2026-03-07T23:17:47.926256",
+  "package_url": "https://pypi.org/project/antaris-forge/"
+}

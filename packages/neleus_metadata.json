@@ -1,11 +1,11 @@
 {
   "name": "neleus",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "neleus-0.1.5-cp310-cp310-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-07T22:18:26.119480",
+  "download_filename": "neleus-0.1.6-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-07T23:18:11.217099",
   "package_url": "https://pypi.org/project/neleus/"
 }

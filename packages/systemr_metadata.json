@@ -1,0 +1,11 @@
+{
+  "name": "systemr",
+  "version": "1.0.0",
+  "summary": "Python SDK for agents.systemr.ai - AI-native risk intelligence for trading agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "systemr-1.0.0.tar.gz",
+  "download_time": "2026-03-07T23:18:08.798616",
+  "package_url": "https://pypi.org/project/systemr/"
+}

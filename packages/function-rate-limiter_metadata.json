@@ -1,11 +1,11 @@
 {
   "name": "function-rate-limiter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python library to rate limit functions and commands.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "function_rate_limiter-0.1.0.tar.gz",
-  "download_time": "2026-03-07T15:18:03.289213",
+  "download_filename": "function_rate_limiter-0.1.1.tar.gz",
+  "download_time": "2026-03-07T23:18:09.367259",
   "package_url": "https://pypi.org/project/function-rate-limiter/"
 }

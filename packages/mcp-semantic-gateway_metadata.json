@@ -1,0 +1,11 @@
+{
+  "name": "mcp-semantic-gateway",
+  "version": "0.1.1",
+  "summary": "Semantic Tool Discovery Middleware for MCP",
+  "author": "Dallas Pool",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_semantic_gateway-0.1.1.tar.gz",
+  "download_time": "2026-03-07T23:18:05.860042",
+  "package_url": "https://pypi.org/project/mcp-semantic-gateway/"
+}
