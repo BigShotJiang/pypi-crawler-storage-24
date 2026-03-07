@@ -1,0 +1,11 @@
+{
+  "name": "ddutil",
+  "version": "0.1.0",
+  "summary": "A CLI tool for managing DataDog AWS integrations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ddutil-0.1.0.tar.gz",
+  "download_time": "2026-03-07T20:19:25.049039",
+  "package_url": "https://pypi.org/project/ddutil/"
+}

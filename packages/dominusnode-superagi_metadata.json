@@ -1,11 +1,11 @@
 {
   "name": "dominusnode-superagi",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Dominus Node toolkit for SuperAGI -- 22 proxy, wallet, and team management tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dominusnode_superagi-1.2.0.tar.gz",
-  "download_time": "2026-03-07T19:42:37.912191",
+  "download_filename": "dominusnode_superagi-1.2.1.tar.gz",
+  "download_time": "2026-03-07T20:19:03.129871",
   "package_url": "https://pypi.org/project/dominusnode-superagi/"
 }

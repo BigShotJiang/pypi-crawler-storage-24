@@ -1,0 +1,11 @@
+{
+  "name": "tibet-ci-audit",
+  "version": "0.2.0",
+  "summary": "TIBET CI/CD Audit — lightweight validators for pipelines, AI, and B2B (alias for tibet-ci)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet_ci_audit-0.2.0.tar.gz",
+  "download_time": "2026-03-07T20:19:04.173272",
+  "package_url": "https://pypi.org/project/tibet-ci-audit/"
+}

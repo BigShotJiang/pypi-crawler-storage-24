@@ -1,0 +1,11 @@
+{
+  "name": "besshouka",
+  "version": "0.1.0",
+  "summary": "Local-first Japanese PII anonymization engine",
+  "author": "akhi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "besshouka-0.1.0.tar.gz",
+  "download_time": "2026-03-07T20:19:26.091283",
+  "package_url": "https://pypi.org/project/besshouka/"
+}

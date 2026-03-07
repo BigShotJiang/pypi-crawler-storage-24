@@ -1,0 +1,11 @@
+{
+  "name": "extra-http",
+  "version": "1.0.13",
+  "summary": "A toolkit to write HTTP/1.1 web services and applications, with first class support for streaming",
+  "author": "Sébastien Pierre",
+  "license": null,
+  "home_page": "https://github.com/sebastien/extra",
+  "download_filename": "extra_http-1.0.13.tar.gz",
+  "download_time": "2026-03-07T20:19:30.250548",
+  "package_url": "https://pypi.org/project/extra-http/"
+}
