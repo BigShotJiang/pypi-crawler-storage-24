@@ -1,11 +1,11 @@
 {
   "name": "lobster-visualization",
-  "version": "1.1.403",
+  "version": "1.1.404",
   "summary": "Visualization agent for Lobster AI - publication-quality plots and interactive visualizations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lobster_visualization-1.1.403.tar.gz",
-  "download_time": "2026-03-07T10:47:49.830897",
+  "download_filename": "lobster_visualization-1.1.404.tar.gz",
+  "download_time": "2026-03-07T15:56:49.912582",
   "package_url": "https://pypi.org/project/lobster-visualization/"
 }

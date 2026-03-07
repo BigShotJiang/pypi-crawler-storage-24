@@ -1,0 +1,11 @@
+{
+  "name": "nirmi-events-sdk",
+  "version": "1.1.1",
+  "summary": "Python SDK for Nirmi Events API - No API keys needed, connects to your Nirmi backend",
+  "author": "Nirmi",
+  "license": null,
+  "home_page": "https://github.com/narmiAI/nirmi-events-sdk",
+  "download_filename": "nirmi_events_sdk-1.1.1.tar.gz",
+  "download_time": "2026-03-07T15:57:13.956214",
+  "package_url": "https://pypi.org/project/nirmi-events-sdk/"
+}

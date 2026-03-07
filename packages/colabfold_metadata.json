@@ -1,0 +1,11 @@
+{
+  "name": "colabfold",
+  "version": "1.6.0",
+  "summary": "Making protein folding accessible to all. Predict proteins structures both in google colab and on your machine",
+  "author": "Milot Mirdita",
+  "license": "MIT, but separate licenses for the trained weights",
+  "home_page": "https://github.com/sokrypton/ColabFold",
+  "download_filename": "colabfold-1.6.0.tar.gz",
+  "download_time": "2026-03-07T15:57:08.702371",
+  "package_url": "https://pypi.org/project/colabfold/"
+}

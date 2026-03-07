@@ -1,0 +1,11 @@
+{
+  "name": "easierqr",
+  "version": "0.1.1",
+  "summary": "GUI based QR code generator",
+  "author": "Porwix",
+  "license": "MIT",
+  "home_page": "https://github.com/kullanici/easierqr",
+  "download_filename": "easierqr-0.1.1.tar.gz",
+  "download_time": "2026-03-07T15:57:01.421906",
+  "package_url": "https://pypi.org/project/easierqr/"
+}
