@@ -1,0 +1,11 @@
+{
+  "name": "sdb-debugger",
+  "version": "0.5.0",
+  "summary": "The Slick/Simple Debugger",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdb_debugger-0.5.0.tar.gz",
+  "download_time": "2026-03-07T10:18:10.681133",
+  "package_url": "https://pypi.org/project/sdb-debugger/"
+}

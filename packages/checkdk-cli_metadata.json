@@ -1,11 +1,11 @@
 {
   "name": "checkdk-cli",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "checkDK CLI – AI-powered Docker/Kubernetes issue detector and pod failure predictor",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "checkdk_cli-0.2.6.tar.gz",
-  "download_time": "2026-03-07T09:23:58.607681",
+  "download_filename": "checkdk_cli-0.2.7.tar.gz",
+  "download_time": "2026-03-07T10:17:58.805458",
   "package_url": "https://pypi.org/project/checkdk-cli/"
 }

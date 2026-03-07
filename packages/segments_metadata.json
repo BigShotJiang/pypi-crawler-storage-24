@@ -1,0 +1,11 @@
+{
+  "name": "segments",
+  "version": "2.4.0",
+  "summary": "Segmentation with orthography profiles",
+  "author": "Steven Moran and Robert Forkel",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/cldf/segments",
+  "download_filename": "segments-2.4.0.tar.gz",
+  "download_time": "2026-03-07T10:18:11.703554",
+  "package_url": "https://pypi.org/project/segments/"
+}

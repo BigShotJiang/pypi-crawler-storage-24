@@ -1,0 +1,11 @@
+{
+  "name": "qibolab-qblox",
+  "version": "0.0.4",
+  "summary": "Quantum hardware module and drivers for Qibo",
+  "author": "The Qibo team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qibolab_qblox-0.0.4.tar.gz",
+  "download_time": "2026-03-07T10:17:56.753423",
+  "package_url": "https://pypi.org/project/qibolab-qblox/"
+}

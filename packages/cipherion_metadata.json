@@ -1,0 +1,11 @@
+{
+  "name": "cipherion",
+  "version": "0.1.4",
+  "summary": "Python SDK for the Cipherion field-level encryption API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cipherion-0.1.4.tar.gz",
+  "download_time": "2026-03-07T10:18:16.309386",
+  "package_url": "https://pypi.org/project/cipherion/"
+}

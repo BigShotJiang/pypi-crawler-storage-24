@@ -1,0 +1,11 @@
+{
+  "name": "sharp-context",
+  "version": "0.2.0",
+  "summary": "Information-theoretic context optimization for AI coding agents. Knapsack-optimal token budgeting, Shannon entropy scoring, SimHash dedup, predictive pre-fetch. MCP server.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sharp_context-0.2.0.tar.gz",
+  "download_time": "2026-03-07T10:18:06.052097",
+  "package_url": "https://pypi.org/project/sharp-context/"
+}
