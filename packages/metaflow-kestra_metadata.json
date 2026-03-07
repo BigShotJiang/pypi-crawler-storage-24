@@ -1,0 +1,11 @@
+{
+  "name": "metaflow-kestra",
+  "version": "0.3.3",
+  "summary": "Run Metaflow flows as Kestra workflows",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "metaflow_kestra-0.3.3.tar.gz",
+  "download_time": "2026-03-07T07:56:56.441741",
+  "package_url": "https://pypi.org/project/metaflow-kestra/"
+}

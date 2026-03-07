@@ -1,0 +1,11 @@
+{
+  "name": "waku",
+  "version": "0.35.1",
+  "summary": "Python framework for backends that grow",
+  "author": "Daniil Kharkov, Doctor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "waku-0.35.1.tar.gz",
+  "download_time": "2026-03-07T07:56:53.848671",
+  "package_url": "https://pypi.org/project/waku/"
+}

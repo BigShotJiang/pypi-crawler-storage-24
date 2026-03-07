@@ -1,0 +1,11 @@
+{
+  "name": "flagr-sdk",
+  "version": "0.1.7",
+  "summary": "Python SDK for Flagr — OpenFeature-compatible",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flagr_sdk-0.1.7.tar.gz",
+  "download_time": "2026-03-07T07:57:12.029008",
+  "package_url": "https://pypi.org/project/flagr-sdk/"
+}
