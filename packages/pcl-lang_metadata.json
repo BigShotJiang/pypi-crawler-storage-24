@@ -1,0 +1,11 @@
+{
+  "name": "pcl-lang",
+  "version": "0.1.0",
+  "summary": "A DSL for authoring, composing, and managing LLM prompts as modular, version-controlled artifacts",
+  "author": "Tanay Deshmukh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pcl_lang-0.1.0.tar.gz",
+  "download_time": "2026-03-07T21:42:35.488401",
+  "package_url": "https://pypi.org/project/pcl-lang/"
+}

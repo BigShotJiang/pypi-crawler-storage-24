@@ -1,0 +1,11 @@
+{
+  "name": "ph-units",
+  "version": "1.5.27",
+  "summary": "Tools for working with common Passive House unit types",
+  "author": "PH-Tools",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/PH-Tools/PH_units",
+  "download_filename": "ph_units-1.5.27.tar.gz",
+  "download_time": "2026-03-07T21:42:51.434346",
+  "package_url": "https://pypi.org/project/ph-units/"
+}

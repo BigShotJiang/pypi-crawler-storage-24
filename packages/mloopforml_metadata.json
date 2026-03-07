@@ -1,11 +1,11 @@
 {
   "name": "mloopforml",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Neural network surrogate hyperparameter optimization via a simple decorator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mloopforml-0.1.0.tar.gz",
-  "download_time": "2026-03-07T14:48:04.711009",
+  "download_filename": "mloopforml-1.0.0.tar.gz",
+  "download_time": "2026-03-07T21:42:53.358027",
   "package_url": "https://pypi.org/project/mloopforml/"
 }

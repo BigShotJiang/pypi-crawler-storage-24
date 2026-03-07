@@ -1,0 +1,11 @@
+{
+  "name": "provara-protocol",
+  "version": "1.0.2",
+  "summary": "Self-sovereign cryptographic event logs. Ed25519 · SHA-256 · RFC 8785",
+  "author": "Provara",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "provara_protocol-1.0.2.tar.gz",
+  "download_time": "2026-03-07T21:42:34.210381",
+  "package_url": "https://pypi.org/project/provara-protocol/"
+}

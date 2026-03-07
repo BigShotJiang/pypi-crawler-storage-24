@@ -1,11 +1,11 @@
 {
   "name": "ascii-colors",
-  "version": "0.11.18",
+  "version": "0.11.19",
   "summary": "A Python library for rich terminal output with advanced logging features.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ascii_colors-0.11.18.tar.gz",
-  "download_time": "2026-03-07T12:34:45.820971",
+  "download_filename": "ascii_colors-0.11.19.tar.gz",
+  "download_time": "2026-03-07T21:42:41.163954",
   "package_url": "https://pypi.org/project/ascii-colors/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aldertech-asg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "ASG (Aldertech Storage Governor): Health monitoring, capacity planning, and intelligent scrub scheduling for BTRFS RAID pools with mismatched drives",
   "author": "Aldertech",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aldertech_asg-1.0.1.tar.gz",
-  "download_time": "2026-03-07T21:16:50.292501",
+  "download_filename": "aldertech_asg-1.0.2.tar.gz",
+  "download_time": "2026-03-07T21:42:55.274919",
   "package_url": "https://pypi.org/project/aldertech-asg/"
 }
