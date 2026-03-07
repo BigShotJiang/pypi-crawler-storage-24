@@ -1,0 +1,11 @@
+{
+  "name": "featurehub-sdk",
+  "version": "1.1.0",
+  "summary": "Official Python SDK for FeatureHub",
+  "author": "FeatureHub.io",
+  "license": "MIT",
+  "home_page": "https://github.com/featurehub-io/featurehub-python-sdk",
+  "download_filename": "featurehub_sdk-1.1.0.tar.gz",
+  "download_time": "2026-03-07T23:57:19.627555",
+  "package_url": "https://pypi.org/project/featurehub-sdk/"
+}

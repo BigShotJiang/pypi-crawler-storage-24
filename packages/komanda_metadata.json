@@ -1,0 +1,11 @@
+{
+  "name": "komanda",
+  "version": "0.1.0",
+  "summary": "Komanda is a case management system for digital forensic investigations. Part of the ShadowStrike War Room Suite.",
+  "author": "ShadowStrike-CTF",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "komanda-0.1.0.tar.gz",
+  "download_time": "2026-03-07T23:57:06.474392",
+  "package_url": "https://pypi.org/project/komanda/"
+}
