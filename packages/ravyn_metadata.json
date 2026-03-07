@@ -1,0 +1,11 @@
+{
+  "name": "ravyn",
+  "version": "0.3.10",
+  "summary": "Ravyn combines performance, type safety, and elegance. A next-generation async Python framework for APIs, microservices, and web applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ravyn-0.3.10.tar.gz",
+  "download_time": "2026-03-07T11:53:05.270940",
+  "package_url": "https://pypi.org/project/ravyn/"
+}

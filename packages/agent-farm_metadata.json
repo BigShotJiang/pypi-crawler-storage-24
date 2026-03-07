@@ -1,0 +1,11 @@
+{
+  "name": "agent-farm",
+  "version": "0.2.0",
+  "summary": "DuckDB multi-org agent swarm with Spec Engine, 175+ SQL macros, meta-learning, MCP Apps, and smart extensions",
+  "author": "Björn Bethge",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_farm-0.2.0.tar.gz",
+  "download_time": "2026-03-07T11:53:07.454408",
+  "package_url": "https://pypi.org/project/agent-farm/"
+}

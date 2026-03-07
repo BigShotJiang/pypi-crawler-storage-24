@@ -1,0 +1,11 @@
+{
+  "name": "imagekit-python",
+  "version": "0.0.1a1",
+  "summary": "A Python library that provides a unified interface for handling images across multiple formats and performing common image processing tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imagekit_python-0.0.1a1.tar.gz",
+  "download_time": "2026-03-07T11:53:10.083347",
+  "package_url": "https://pypi.org/project/imagekit-python/"
+}

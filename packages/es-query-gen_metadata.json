@@ -1,0 +1,11 @@
+{
+  "name": "es-query-gen",
+  "version": "1.14.0",
+  "summary": "Library to build complex ES queries from simple Python dictionaries using typed Pydantic models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "es_query_gen-1.14.0.tar.gz",
+  "download_time": "2026-03-07T11:53:26.157087",
+  "package_url": "https://pypi.org/project/es-query-gen/"
+}

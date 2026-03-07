@@ -1,0 +1,11 @@
+{
+  "name": "sentinelml",
+  "version": "0.1.0",
+  "summary": "Runtime trust layer for machine learning systems",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentinelml-0.1.0.tar.gz",
+  "download_time": "2026-03-07T11:53:07.990441",
+  "package_url": "https://pypi.org/project/sentinelml/"
+}

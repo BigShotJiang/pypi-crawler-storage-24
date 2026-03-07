@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-07T11:42:05.489297
-- **Total Packages**: 86
-- **Total Size**: 58.74 MB
+- **Download Time**: 2026-03-07T11:53:52.268865
+- **Total Packages**: 90
+- **Total Size**: 20.91 MB
 
 ## Packages List
+- ravyn
+- prodigy-teams
+- mailgateway-mcp
+- ai-pipeline-core
+- agent-farm
+- sentinelml
+- dykit
+- video-research-mcp
+- clore-ai
+- imagekit-python
+- django-cfg
+- filesystemwatcher-mcp
+- receipt-chain
+- receipt-binding
+- model-receipts
+- llm-receipts
+- llm-attestation
+- inference-receipts
+- inference-integrity
+- inference-audit
+- inference-attestation
+- bounded-autonomy
+- attestable-inference
+- attestable-ai
+- ai-receipts
+- ai-provenance
+- ai-integrity-receipts
+- ai-inference-receipts
+- ai-bounded-autonomy
+- ai-audit-receipts
+- ai-attestation
+- aiir
+- haute
+- willow-runtime
+- algosjohn
+- myk-claude-tools
+- jax-lnn
+- langfuse-instrumented-dspy-lm
+- invar-tools
+- isitcredible
+- es-query-gen
+- memcite
+- ok-script
+- daylily-ursa
+- risicare
+- iil-researchfw
+- envdrift
+- dve-lumipy-testing
 - cydms
 - markdown-macros-extension
 - manuscript-tools
@@ -18,10 +66,8 @@
 - autoforgeai
 - cherrypy-foundation
 - maibot-plugin-sdk
-- filesystemwatcher-mcp
 - ducpy
 - pythonclaw
-- memcite
 - jmstate
 - pm-agent-full
 - rbx-cp
@@ -38,7 +84,6 @@
 - dispersionrelations
 - semantica
 - altscore
-- algosjohn
 - torchft-nightly
 - scrapy-tw-rental-house
 - itamar-agentcli
@@ -51,44 +96,3 @@
 - dogcat
 - hle-client
 - robotframework-browserpom
-- SatVision
-- cyberwave-cli
-- pyreqwest
-- splusdata
-- newcode
-- prodigy-teams
-- pv-audit
-- mysql-mcp-dolphin
-- meerkat-sdk
-- llmdebug
-- everstaff
-- unite
-- x-ipe
-- aiinbx
-- tensorbored-nightly
-- tnfr
-- tf-keras-nightly
-- codebrain
-- nmea2000
-- nd2py
-- finamt
-- openvfs
-- mtrader
-- cremalink-thesammykins
-- binaryornot
-- walrasquant
-- buildstream-plugins
-- flyr
-- fasttext-rs
-- mcp-warden
-- tractusx-sdk
-- checkdk-cli
-- pozalabs-pydub
-- datavow
-- narumii
-- skill-scanner
-- pyhvac
-- easyclaw-tui
-- looper-dashboard
-- meshcore
-- tach
