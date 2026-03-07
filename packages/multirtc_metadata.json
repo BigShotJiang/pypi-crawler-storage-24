@@ -1,0 +1,11 @@
+{
+  "name": "multirtc",
+  "version": "0.5.4",
+  "summary": "Python library for multi-sensor RTC processing using the OPERA algorithm",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "multirtc-0.5.4.tar.gz",
+  "download_time": "2026-03-07T17:17:07.527926",
+  "package_url": "https://pypi.org/project/multirtc/"
+}

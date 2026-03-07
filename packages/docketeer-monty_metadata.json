@@ -1,0 +1,11 @@
+{
+  "name": "docketeer-monty",
+  "version": "0.0.16",
+  "summary": "Sandboxed Python execution plugin for Docketeer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docketeer_monty-0.0.16.tar.gz",
+  "download_time": "2026-03-07T17:17:29.669722",
+  "package_url": "https://pypi.org/project/docketeer-monty/"
+}

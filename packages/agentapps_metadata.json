@@ -1,0 +1,11 @@
+{
+  "name": "agentapps",
+  "version": "0.2.1",
+  "summary": "AgentApps — A flexible multi-agent orchestration framework with visual Flow Builder",
+  "author": "AgentApps Team",
+  "license": null,
+  "home_page": "https://github.com/91abdul/agentapps",
+  "download_filename": "agentapps-0.2.1-py3-none-any.whl",
+  "download_time": "2026-03-07T17:17:11.682806",
+  "package_url": "https://pypi.org/project/agentapps/"
+}

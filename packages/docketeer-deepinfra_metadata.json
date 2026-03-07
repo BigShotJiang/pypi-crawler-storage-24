@@ -1,0 +1,11 @@
+{
+  "name": "docketeer-deepinfra",
+  "version": "0.0.16",
+  "summary": "DeepInfra inference backend plugin for Docketeer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docketeer_deepinfra-0.0.16.tar.gz",
+  "download_time": "2026-03-07T17:17:27.107618",
+  "package_url": "https://pypi.org/project/docketeer-deepinfra/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docketeer-subprocess",
+  "version": "0.0.16",
+  "summary": "Unsandboxed subprocess executor plugin for Docketeer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docketeer_subprocess-0.0.16.tar.gz",
+  "download_time": "2026-03-07T17:17:25.571313",
+  "package_url": "https://pypi.org/project/docketeer-subprocess/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "heurilab",
+  "version": "2.0.0",
+  "summary": "100 metaheuristic optimization algorithms with automated experiment runner, CSV, plots & statistical analysis",
+  "author": "HeuriLab Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "heurilab-2.0.0.tar.gz",
+  "download_time": "2026-03-07T17:17:14.778705",
+  "package_url": "https://pypi.org/project/heurilab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codenarrator",
+  "version": "0.1.0",
+  "summary": "CLI utility for automatic documentation generation from source code and GitHub Issues using AI",
+  "author": "CodeNarrator Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codenarrator-0.1.0.tar.gz",
+  "download_time": "2026-03-07T17:17:38.947782",
+  "package_url": "https://pypi.org/project/codenarrator/"
+}

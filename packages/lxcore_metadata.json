@@ -1,0 +1,11 @@
+{
+  "name": "lxcore",
+  "version": "0.1.0",
+  "summary": "Fast crash-safe binary key-value database backed by mmap",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lxcore-0.1.0.tar.gz",
+  "download_time": "2026-03-07T17:17:50.265029",
+  "package_url": "https://pypi.org/project/lxcore/"
+}

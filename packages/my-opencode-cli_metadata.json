@@ -1,0 +1,11 @@
+{
+  "name": "my-opencode-cli",
+  "version": "0.2.0",
+  "summary": "A modern Python client library for OpenCode server",
+  "author": "iibyteCoder",
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_opencode_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-07T17:17:51.293907",
+  "package_url": "https://pypi.org/project/my-opencode-cli/"
+}
