@@ -1,0 +1,11 @@
+{
+  "name": "dbgprobe-mcp-server",
+  "version": "0.1.2",
+  "summary": "Debug probe Model Context Protocol server for AI agents and developer tooling",
+  "author": "Enrico Santagati",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbgprobe_mcp_server-0.1.2.tar.gz",
+  "download_time": "2026-03-07T22:18:20.963783",
+  "package_url": "https://pypi.org/project/dbgprobe-mcp-server/"
+}

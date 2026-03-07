@@ -1,11 +1,11 @@
 {
   "name": "langchain-kserve",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "LangChain integration for KServe inference services",
   "author": "bitkaio LLC",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_kserve-0.2.2.tar.gz",
-  "download_time": "2026-03-07T21:42:40.516931",
+  "download_filename": "langchain_kserve-0.2.3.tar.gz",
+  "download_time": "2026-03-07T22:18:34.692825",
   "package_url": "https://pypi.org/project/langchain-kserve/"
 }

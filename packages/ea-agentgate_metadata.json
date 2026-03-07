@@ -1,0 +1,11 @@
+{
+  "name": "ea-agentgate",
+  "version": "1.0.0",
+  "summary": "Enterprise-grade security gateway for AI agents with middleware, tracing, and auto-rollback",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ea_agentgate-1.0.0.tar.gz",
+  "download_time": "2026-03-07T22:18:07.072160",
+  "package_url": "https://pypi.org/project/ea-agentgate/"
+}

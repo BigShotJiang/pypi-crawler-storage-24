@@ -1,0 +1,11 @@
+{
+  "name": "device-detect",
+  "version": "0.11.0",
+  "summary": "Automatic network device type detection using SNMP and SSH",
+  "author": "Mohamed RABAH",
+  "license": "MIT",
+  "home_page": "https://github.com/mdrbh/device-detect",
+  "download_filename": "device_detect-0.11.0.tar.gz",
+  "download_time": "2026-03-07T22:18:22.501905",
+  "package_url": "https://pypi.org/project/device-detect/"
+}

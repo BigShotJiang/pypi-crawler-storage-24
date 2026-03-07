@@ -1,0 +1,11 @@
+{
+  "name": "argus-debate-ai",
+  "version": "3.2.0",
+  "summary": "ARGUS: Production-ready multi-agent AI debate framework with RAG, Bayesian reasoning, provenance tracking, 50+ tool integrations, OpenAPI REST generation, context caching/compression, and advanced LLM orchestration for scientific discovery, fact-checking, and evidence-based decision-making",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "argus_debate_ai-3.2.0.tar.gz",
+  "download_time": "2026-03-07T22:18:25.578234",
+  "package_url": "https://pypi.org/project/argus-debate-ai/"
+}

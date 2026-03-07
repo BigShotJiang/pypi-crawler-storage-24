@@ -1,0 +1,11 @@
+{
+  "name": "ai-regulation-scanner",
+  "version": "1.0.0",
+  "summary": "Scan AI systems for EU/UK/NIST AI regulation compliance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_regulation_scanner-1.0.0.tar.gz",
+  "download_time": "2026-03-07T22:18:35.222013",
+  "package_url": "https://pypi.org/project/ai-regulation-scanner/"
+}

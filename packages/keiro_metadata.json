@@ -1,0 +1,11 @@
+{
+  "name": "keiro",
+  "version": "0.4.0",
+  "summary": "Keiro client — call the EB1 multi-model ensemble API.",
+  "author": "Keiro Engineering",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keiro-0.4.0.tar.gz",
+  "download_time": "2026-03-07T22:18:14.822156",
+  "package_url": "https://pypi.org/project/keiro/"
+}

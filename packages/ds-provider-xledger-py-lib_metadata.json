@@ -1,0 +1,11 @@
+{
+  "name": "ds-provider-xledger-py-lib",
+  "version": "0.1.0a1",
+  "summary": "A Python package from the DS library collection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ds_provider_xledger_py_lib-0.1.0a1.tar.gz",
+  "download_time": "2026-03-07T22:18:41.493775",
+  "package_url": "https://pypi.org/project/ds-provider-xledger-py-lib/"
+}

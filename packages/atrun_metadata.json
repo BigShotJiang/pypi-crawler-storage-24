@@ -1,11 +1,11 @@
 {
   "name": "atrun",
-  "version": "0.14.2",
+  "version": "0.14.3",
   "summary": "Social package distribution on AT Protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atrun-0.14.2.tar.gz",
-  "download_time": "2026-03-07T21:53:36.127041",
+  "download_filename": "atrun-0.14.3.tar.gz",
+  "download_time": "2026-03-07T22:18:45.658933",
   "package_url": "https://pypi.org/project/atrun/"
 }

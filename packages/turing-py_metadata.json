@@ -1,11 +1,11 @@
 {
   "name": "turing-py",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Education Turing Machine simulator in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turing_py-0.1.1.tar.gz",
-  "download_time": "2026-03-07T21:53:48.972076",
+  "download_filename": "turing_py-0.2.1.tar.gz",
+  "download_time": "2026-03-07T22:18:08.610625",
   "package_url": "https://pypi.org/project/turing-py/"
 }

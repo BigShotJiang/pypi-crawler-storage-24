@@ -1,11 +1,11 @@
 {
   "name": "women",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "The women project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "women-0.0.1.tar.gz",
-  "download_time": "2026-03-07T20:47:02.000497",
+  "download_filename": "women-0.0.2.tar.gz",
+  "download_time": "2026-03-07T22:18:05.396347",
   "package_url": "https://pypi.org/project/women/"
 }
