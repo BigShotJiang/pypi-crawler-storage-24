@@ -1,11 +1,11 @@
 {
   "name": "andlake",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Andlake platform SDK — pre-configured connections to Trino, Nessie, MLflow, S3, and Iceberg.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "andlake-0.1.2.tar.gz",
-  "download_time": "2026-03-07T13:54:40.781695",
+  "download_filename": "andlake-0.1.3.tar.gz",
+  "download_time": "2026-03-07T14:19:28.161251",
   "package_url": "https://pypi.org/project/andlake/"
 }

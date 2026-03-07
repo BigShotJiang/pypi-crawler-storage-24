@@ -1,8 +1,11 @@
 {
-  "download_time": "2026-03-07T13:55:23.026939",
-  "total_packages_downloaded": 92,
-  "total_size_mb": 44.93,
+  "download_time": "2026-03-07T14:20:13.025780",
+  "total_packages_downloaded": 91,
+  "total_size_mb": 2.61,
   "packages": [
+    "captcha-font-sdk",
+    "maibot-dashboard",
+    "solveit-dmtools",
     "pixlvault",
     "universal-pii-firewall",
     "excel-schema-engine",
@@ -75,7 +78,6 @@
     "mcpzoo-random-string",
     "mcpzoo-random",
     "django-resaas",
-    "maibot-dashboard",
     "xiaomi-ble",
     "claude-jacked",
     "mcpzoo-prompt",
@@ -91,9 +93,6 @@
     "mcpzoo-morse",
     "planasonix-airflow",
     "repomaestro",
-    "cydms",
-    "kiwilog",
-    "stackforge",
-    "isage-common"
+    "cydms"
   ]
 }

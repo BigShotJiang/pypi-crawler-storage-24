@@ -1,11 +1,11 @@
 {
   "name": "memcite",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Repo memory for AI agents — every memory has a source, every source gets verified.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memcite-0.5.0.tar.gz",
-  "download_time": "2026-03-07T13:54:36.169239",
+  "download_filename": "memcite-0.5.1.tar.gz",
+  "download_time": "2026-03-07T14:19:22.964158",
   "package_url": "https://pypi.org/project/memcite/"
 }
