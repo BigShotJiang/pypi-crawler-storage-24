@@ -1,0 +1,11 @@
+{
+  "name": "mllense",
+  "version": "0.1.1",
+  "summary": "A foundational linear algebra and ML modeling framework built with educational traceability.",
+  "author": "SANJAYRAM-DS",
+  "license": null,
+  "home_page": "https://github.com/SANJAYRAM-DS/ml-lens",
+  "download_filename": "mllense-0.1.1.tar.gz",
+  "download_time": "2026-03-07T05:13:15.618935",
+  "package_url": "https://pypi.org/project/mllense/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mastiff",
+  "version": "0.3.5",
+  "summary": "AI code review agent that detects dangerous patterns in LLM-generated code",
+  "author": "Mastiff Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mastiff-0.3.5.tar.gz",
+  "download_time": "2026-03-07T05:13:18.908046",
+  "package_url": "https://pypi.org/project/mastiff/"
+}

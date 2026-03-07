@@ -1,0 +1,11 @@
+{
+  "name": "afribase",
+  "version": "0.2.2",
+  "summary": "The official Python SDK for Afribase — an open-source backend-as-a-service platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "afribase-0.2.2.tar.gz",
+  "download_time": "2026-03-07T05:12:48.485077",
+  "package_url": "https://pypi.org/project/afribase/"
+}

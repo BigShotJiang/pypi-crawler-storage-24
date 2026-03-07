@@ -1,0 +1,11 @@
+{
+  "name": "owm",
+  "version": "0.4.0",
+  "summary": "OpenWeatherMap CLI client",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "owm-0.4.0.tar.gz",
+  "download_time": "2026-03-07T05:13:13.425642",
+  "package_url": "https://pypi.org/project/owm/"
+}

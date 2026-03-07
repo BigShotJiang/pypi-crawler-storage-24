@@ -1,0 +1,11 @@
+{
+  "name": "transx",
+  "version": "0.8.0",
+  "summary": "A lightweight, zero-dependency Python library for internationalization and translation management.",
+  "author": "longhao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "transx-0.8.0.tar.gz",
+  "download_time": "2026-03-07T05:13:11.208069",
+  "package_url": "https://pypi.org/project/transx/"
+}

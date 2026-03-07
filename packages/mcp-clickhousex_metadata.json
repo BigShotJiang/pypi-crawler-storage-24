@@ -1,0 +1,11 @@
+{
+  "name": "mcp-clickhousex",
+  "version": "0.1.0",
+  "summary": "A read-only Model Context Protocol (MCP) server for ClickHouse: metadata discovery, parameterized queries, and execution plan analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_clickhousex-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-07T05:12:52.265389",
+  "package_url": "https://pypi.org/project/mcp-clickhousex/"
+}

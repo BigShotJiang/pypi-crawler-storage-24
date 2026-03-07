@@ -1,0 +1,11 @@
+{
+  "name": "huntertrace",
+  "version": "1.0.2",
+  "summary": "A forensic analysis system for email threat detection and geolocation.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/huntertrace",
+  "download_filename": "huntertrace-1.0.2.tar.gz",
+  "download_time": "2026-03-07T05:12:50.672619",
+  "package_url": "https://pypi.org/project/huntertrace/"
+}

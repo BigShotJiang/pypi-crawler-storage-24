@@ -1,0 +1,11 @@
+{
+  "name": "bnbpy",
+  "version": "0.1.0",
+  "summary": "A Python general Branch & Bound framework.",
+  "author": "Bruno Scalia C. F. Leite",
+  "license": "MIT",
+  "home_page": "https://github.com/bruscalia/bnbpy",
+  "download_filename": "bnbpy-0.1.0.tar.gz",
+  "download_time": "2026-03-07T05:12:57.801084",
+  "package_url": "https://pypi.org/project/bnbpy/"
+}

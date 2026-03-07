@@ -1,0 +1,11 @@
+{
+  "name": "huan",
+  "version": "0.2.1",
+  "summary": "A tool that converts web pages to Markdown files, preserving URL structure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "huan-0.2.1.tar.gz",
+  "download_time": "2026-03-07T05:13:29.140061",
+  "package_url": "https://pypi.org/project/huan/"
+}

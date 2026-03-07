@@ -1,0 +1,11 @@
+{
+  "name": "zhushou",
+  "version": "0.1.2",
+  "summary": "AI-powered development assistant with multi-model support, desktop GUI, web interface, and autonomous coding pipeline",
+  "author": "cycleuser",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "zhushou-0.1.2.tar.gz",
+  "download_time": "2026-03-07T05:13:25.950248",
+  "package_url": "https://pypi.org/project/zhushou/"
+}

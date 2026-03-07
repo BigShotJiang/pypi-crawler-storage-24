@@ -1,0 +1,11 @@
+{
+  "name": "autofilecreate",
+  "version": "3.0.0",
+  "summary": "Automated file creator for Jupyter notebook projects",
+  "author": "Semire Ajayi (serenebliss0)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autofilecreate-3.0.0.tar.gz",
+  "download_time": "2026-03-07T05:13:11.761316",
+  "package_url": "https://pypi.org/project/autofilecreate/"
+}

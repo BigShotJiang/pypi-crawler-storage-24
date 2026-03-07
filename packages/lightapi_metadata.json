@@ -1,0 +1,11 @@
+{
+  "name": "lightapi",
+  "version": "0.1.20",
+  "summary": "A lightweight framework for building API endpoints using Python's native libraries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightapi-0.1.20.tar.gz",
+  "download_time": "2026-03-07T05:13:16.153623",
+  "package_url": "https://pypi.org/project/lightapi/"
+}

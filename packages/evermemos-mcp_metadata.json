@@ -1,0 +1,11 @@
+{
+  "name": "evermemos-mcp",
+  "version": "0.4.3",
+  "summary": "MCP Server that brings long-term memory to AI coding tools via EverMemOS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evermemos_mcp-0.4.3.tar.gz",
+  "download_time": "2026-03-07T05:13:24.323166",
+  "package_url": "https://pypi.org/project/evermemos-mcp/"
+}

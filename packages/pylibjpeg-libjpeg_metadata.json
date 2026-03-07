@@ -1,0 +1,11 @@
+{
+  "name": "pylibjpeg-libjpeg",
+  "version": "2.4.0",
+  "summary": "A Python wrapper for libjpeg, with a focus on use as a plugin for for pylibjpeg",
+  "author": "pylibjpeg-libjpeg contributors",
+  "license": "GPL V3.0",
+  "home_page": "https://github.com/pydicom/pylibjpeg-libjpeg",
+  "download_filename": "pylibjpeg_libjpeg-2.4.0.tar.gz",
+  "download_time": "2026-03-07T05:13:14.535384",
+  "package_url": "https://pypi.org/project/pylibjpeg-libjpeg/"
+}

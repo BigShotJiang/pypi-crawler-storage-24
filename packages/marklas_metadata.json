@@ -1,0 +1,11 @@
+{
+  "name": "marklas",
+  "version": "0.4.0",
+  "summary": "Bidirectional converter between GitHub Flavored Markdown and Atlassian Document Format",
+  "author": "byExist",
+  "license": null,
+  "home_page": null,
+  "download_filename": "marklas-0.4.0.tar.gz",
+  "download_time": "2026-03-07T05:13:17.806820",
+  "package_url": "https://pypi.org/project/marklas/"
+}
