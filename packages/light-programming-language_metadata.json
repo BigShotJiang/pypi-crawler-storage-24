@@ -1,0 +1,11 @@
+{
+  "name": "light-programming-language",
+  "version": "0.1.0",
+  "summary": "Light: Linguagem de programação compilada para .clighted",
+  "author": "Seu Nome",
+  "license": "MIT",
+  "home_page": "https://github.com/seuusuario/light-programming-language",
+  "download_filename": "light_programming_language-0.1.0.tar.gz",
+  "download_time": "2026-03-07T21:17:01.900923",
+  "package_url": "https://pypi.org/project/light-programming-language/"
+}

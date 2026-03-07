@@ -1,0 +1,11 @@
+{
+  "name": "markpub",
+  "version": "2.1.2",
+  "summary": "Build (web publish) Markdown and Massive Wiki sites.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markpub-2.1.2.tar.gz",
+  "download_time": "2026-03-07T21:16:35.209747",
+  "package_url": "https://pypi.org/project/markpub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cluster-yield-snapshot",
+  "version": "0.3.22",
+  "summary": "Capture Spark plans, config, and table metadata for Cluster Yield analysis",
+  "author": "Cluster Yield",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cluster_yield_snapshot-0.3.22.tar.gz",
+  "download_time": "2026-03-07T21:16:19.913775",
+  "package_url": "https://pypi.org/project/cluster-yield-snapshot/"
+}

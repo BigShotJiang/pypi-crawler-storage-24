@@ -1,0 +1,11 @@
+{
+  "name": "lithops",
+  "version": "3.6.4",
+  "summary": "Lithops lets you transparently run your Python applications in the Cloud",
+  "author": "Gil Vernik, Josep Sampe",
+  "license": null,
+  "home_page": "https://github.com/lithops-cloud/lithops",
+  "download_filename": "lithops-3.6.4.tar.gz",
+  "download_time": "2026-03-07T21:16:21.610982",
+  "package_url": "https://pypi.org/project/lithops/"
+}

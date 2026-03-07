@@ -1,0 +1,11 @@
+{
+  "name": "mysql-ch-replicator",
+  "version": "0.1.11",
+  "summary": "Tool for replication of MySQL databases to ClickHouse",
+  "author": "Filipp Ozinov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mysql_ch_replicator-0.1.11.tar.gz",
+  "download_time": "2026-03-07T21:16:56.183438",
+  "package_url": "https://pypi.org/project/mysql-ch-replicator/"
+}

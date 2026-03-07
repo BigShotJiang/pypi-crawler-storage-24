@@ -1,0 +1,11 @@
+{
+  "name": "exportify",
+  "version": "0.1.4",
+  "summary": "Export, __all__, and lazy import management for Python projects.",
+  "author": "Knitli Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exportify-0.1.4.tar.gz",
+  "download_time": "2026-03-07T21:16:41.915487",
+  "package_url": "https://pypi.org/project/exportify/"
+}

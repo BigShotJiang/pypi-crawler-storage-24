@@ -1,11 +1,11 @@
 {
   "name": "ralphkit",
-  "version": "0.1.2",
-  "summary": "Iterative work/review loop for Claude Code",
+  "version": "0.1.3",
+  "summary": "Agent pipes and loops for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ralphkit-0.1.2.tar.gz",
-  "download_time": "2026-03-07T20:19:05.224641",
+  "download_filename": "ralphkit-0.1.3.tar.gz",
+  "download_time": "2026-03-07T21:16:37.282191",
   "package_url": "https://pypi.org/project/ralphkit/"
 }
