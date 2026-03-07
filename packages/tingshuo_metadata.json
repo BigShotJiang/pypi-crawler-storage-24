@@ -1,11 +1,11 @@
 {
   "name": "tingshuo",
-  "version": "0.1.2",
-  "summary": "Generate SRT/LRC subtitles from audio/video files using multiple STT engines with optional LLM polishing",
+  "version": "0.1.4",
+  "summary": "Generate SRT/LRC subtitles and Markdown transcripts from audio/video files with auto-correction, content summarization, and multimodal video analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tingshuo-0.1.2.tar.gz",
-  "download_time": "2026-03-07T05:13:26.482311",
+  "download_filename": "tingshuo-0.1.4.tar.gz",
+  "download_time": "2026-03-07T07:42:34.586899",
   "package_url": "https://pypi.org/project/tingshuo/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "metaflow-prefect",
-  "version": "0.3.4",
+  "version": "0.3.7",
   "summary": "Metaflow extension: deploy and run flows as Prefect deployments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metaflow_prefect-0.3.4.tar.gz",
-  "download_time": "2026-03-07T05:53:18.169871",
+  "download_filename": "metaflow_prefect-0.3.7.tar.gz",
+  "download_time": "2026-03-07T07:42:38.377485",
   "package_url": "https://pypi.org/project/metaflow-prefect/"
 }

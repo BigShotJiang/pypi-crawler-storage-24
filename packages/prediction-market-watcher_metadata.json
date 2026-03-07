@@ -1,0 +1,11 @@
+{
+  "name": "prediction-market-watcher",
+  "version": "0.1.0",
+  "summary": "A tracker for Polymarket and Kalshi prediction markets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prediction_market_watcher-0.1.0.tar.gz",
+  "download_time": "2026-03-07T07:43:05.389731",
+  "package_url": "https://pypi.org/project/prediction-market-watcher/"
+}

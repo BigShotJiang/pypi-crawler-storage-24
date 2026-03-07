@@ -1,0 +1,11 @@
+{
+  "name": "genflowly-encoding-library",
+  "version": "0.1.6",
+  "summary": "Text encoding and chunking library.",
+  "author": "Genflowly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genflowly_encoding_library-0.1.6.tar.gz",
+  "download_time": "2026-03-07T07:42:35.226546",
+  "package_url": "https://pypi.org/project/genflowly-encoding-library/"
+}

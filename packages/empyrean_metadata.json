@@ -1,0 +1,11 @@
+{
+  "name": "empyrean",
+  "version": "0.0.1",
+  "summary": "High-performance astrodynamics in Python. Orbit propagation, ephemeris generation, and orbit determination powered by automatic differentiation.",
+  "author": "Empyrean Dynamics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "empyrean-0.0.1.tar.gz",
+  "download_time": "2026-03-07T07:43:00.264622",
+  "package_url": "https://pypi.org/project/empyrean/"
+}

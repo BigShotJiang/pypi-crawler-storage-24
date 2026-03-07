@@ -1,0 +1,11 @@
+{
+  "name": "kinexon-handball-api",
+  "version": "0.1.1",
+  "summary": "A Python wrapper for accessing and processing Kinexon Handball data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kinexon_handball_api-0.1.1.tar.gz",
+  "download_time": "2026-03-07T07:42:53.499003",
+  "package_url": "https://pypi.org/project/kinexon-handball-api/"
+}

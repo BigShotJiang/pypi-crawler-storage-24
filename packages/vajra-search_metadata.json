@@ -1,0 +1,11 @@
+{
+  "name": "vajra-search",
+  "version": "0.2.1",
+  "summary": "High-performance BM25 + HNSW vector search using category theory, written in Rust",
+  "author": "Rajesh Sampathkumar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vajra_search-0.2.1.tar.gz",
+  "download_time": "2026-03-07T07:42:55.421780",
+  "package_url": "https://pypi.org/project/vajra-search/"
+}
