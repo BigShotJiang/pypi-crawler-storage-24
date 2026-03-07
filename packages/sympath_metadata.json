@@ -1,0 +1,11 @@
+{
+  "name": "sympath",
+  "version": "0.1.0",
+  "summary": "A powerful symlink-based path manager for developers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sympath-0.1.0.tar.gz",
+  "download_time": "2026-03-07T08:55:35.496656",
+  "package_url": "https://pypi.org/project/sympath/"
+}

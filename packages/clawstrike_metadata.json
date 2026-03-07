@@ -1,0 +1,11 @@
+{
+  "name": "clawstrike",
+  "version": "0.1.0",
+  "summary": "Security guardrails for AI agents — prompt injection detection, trust-aware input scanning, and advisory action gating",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clawstrike-0.1.0.tar.gz",
+  "download_time": "2026-03-07T08:56:13.336888",
+  "package_url": "https://pypi.org/project/clawstrike/"
+}

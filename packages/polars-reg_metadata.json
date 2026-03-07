@@ -1,0 +1,11 @@
+{
+  "name": "polars-reg",
+  "version": "0.1.0",
+  "summary": "Econometric regression methods using Polars DataFrames",
+  "author": "Alex Sullivan Mora",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_reg-0.1.0.tar.gz",
+  "download_time": "2026-03-07T08:55:36.592995",
+  "package_url": "https://pypi.org/project/polars-reg/"
+}

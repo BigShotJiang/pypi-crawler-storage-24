@@ -1,0 +1,11 @@
+{
+  "name": "ovrtx",
+  "version": "0.2.0.280040",
+  "summary": "Omniverse RTX",
+  "author": "Kit Team",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": null,
+  "download_filename": "ovrtx-0.2.0.280040.tar.gz",
+  "download_time": "2026-03-07T08:56:02.605694",
+  "package_url": "https://pypi.org/project/ovrtx/"
+}

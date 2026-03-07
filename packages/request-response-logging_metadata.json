@@ -1,0 +1,11 @@
+{
+  "name": "request-response-logging",
+  "version": "1.0.7",
+  "summary": "Django logger to log request response",
+  "author": "Pravin Tiwari",
+  "license": null,
+  "home_page": null,
+  "download_filename": "request_response_logging-1.0.7.tar.gz",
+  "download_time": "2026-03-07T08:56:00.532024",
+  "package_url": "https://pypi.org/project/request-response-logging/"
+}

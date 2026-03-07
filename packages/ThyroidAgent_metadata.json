@@ -1,0 +1,11 @@
+{
+  "name": "ThyroidAgent",
+  "version": "0.1.1",
+  "summary": "DINOv3 + UNet for single-task segmentation and multi-task models (segmentation / malignancy classification / TIRADS), with dataset and training utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thyroidagent-0.1.1.tar.gz",
+  "download_time": "2026-03-07T08:56:16.447699",
+  "package_url": "https://pypi.org/project/ThyroidAgent/"
+}

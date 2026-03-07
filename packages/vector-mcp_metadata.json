@@ -1,0 +1,11 @@
+{
+  "name": "vector-mcp",
+  "version": "1.1.36",
+  "summary": "Integrate RAG into AI Agents via MCP Server. Supports multiple Vector database technologies.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vector_mcp-1.1.36.tar.gz",
+  "download_time": "2026-03-07T08:55:39.188214",
+  "package_url": "https://pypi.org/project/vector-mcp/"
+}

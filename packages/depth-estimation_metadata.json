@@ -1,11 +1,11 @@
 {
   "name": "depth-estimation",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A Transformers-style Python library for monocular depth estimation",
   "author": "shriarul5273",
   "license": null,
   "home_page": null,
-  "download_filename": "depth_estimation-0.0.4.tar.gz",
-  "download_time": "2026-03-07T08:28:46.423649",
+  "download_filename": "depth_estimation-0.0.5.tar.gz",
+  "download_time": "2026-03-07T08:56:08.367895",
   "package_url": "https://pypi.org/project/depth-estimation/"
 }
