@@ -1,0 +1,11 @@
+{
+  "name": "kgn-mcp",
+  "version": "0.11.4",
+  "summary": "CLI tool for parsing .kgn/.kge files, ingesting them into a PostgreSQL knowledge graph DB, and generating AI agent context packages via subgraph queries",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kgn_mcp-0.11.4.tar.gz",
+  "download_time": "2026-03-07T13:54:49.482771",
+  "package_url": "https://pypi.org/project/kgn-mcp/"
+}

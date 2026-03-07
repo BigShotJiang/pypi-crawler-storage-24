@@ -1,11 +1,11 @@
 {
   "name": "algosjohn",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Une collection d'algorithmes simples en Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "algosjohn-0.1.1.tar.gz",
-  "download_time": "2026-03-07T11:53:23.037871",
+  "download_filename": "algosjohn-0.1.4.tar.gz",
+  "download_time": "2026-03-07T13:54:42.317141",
   "package_url": "https://pypi.org/project/algosjohn/"
 }

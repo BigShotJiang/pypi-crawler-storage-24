@@ -1,0 +1,11 @@
+{
+  "name": "sqliteplus-enhanced",
+  "version": "1.0.12",
+  "summary": "SQLite mejorado con cifrado SQLCipher y API REST asincrónica con FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqliteplus_enhanced-1.0.12.tar.gz",
+  "download_time": "2026-03-07T13:54:45.905365",
+  "package_url": "https://pypi.org/project/sqliteplus-enhanced/"
+}

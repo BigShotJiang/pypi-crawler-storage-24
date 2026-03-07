@@ -1,0 +1,11 @@
+{
+  "name": "jcodemunch-mcp",
+  "version": "0.2.30",
+  "summary": "Token-efficient MCP server for source code exploration via tree-sitter AST parsing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jcodemunch_mcp-0.2.30.tar.gz",
+  "download_time": "2026-03-07T13:54:51.535936",
+  "package_url": "https://pypi.org/project/jcodemunch-mcp/"
+}

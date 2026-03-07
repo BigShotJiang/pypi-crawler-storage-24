@@ -1,0 +1,11 @@
+{
+  "name": "body-models",
+  "version": "0.6.0",
+  "summary": "Multi-backend parametric body models (SMPL, SMPLX, FLAME, SKEL, ANNY, MHR) for NumPy, PyTorch, and JAX",
+  "author": "Andrea Boscolo Camiletto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "body_models-0.6.0.tar.gz",
+  "download_time": "2026-03-07T13:54:38.731213",
+  "package_url": "https://pypi.org/project/body-models/"
+}

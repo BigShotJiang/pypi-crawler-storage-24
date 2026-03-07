@@ -1,0 +1,11 @@
+{
+  "name": "flowboost",
+  "version": "0.2.2",
+  "summary": "Multi-objective Bayesian optimization library for OpenFOAM",
+  "author": "Daniel Virokannas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowboost-0.2.2.tar.gz",
+  "download_time": "2026-03-07T13:55:06.615479",
+  "package_url": "https://pypi.org/project/flowboost/"
+}

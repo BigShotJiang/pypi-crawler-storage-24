@@ -1,0 +1,11 @@
+{
+  "name": "planasonix-airflow",
+  "version": "1.0.4",
+  "summary": "Apache Airflow provider for Planasonix data integration platform",
+  "author": "Planasonix",
+  "license": null,
+  "home_page": "https://github.com/planasonix/planasonix-airflow",
+  "download_filename": "planasonix_airflow-1.0.4.tar.gz",
+  "download_time": "2026-03-07T13:55:19.933605",
+  "package_url": "https://pypi.org/project/planasonix-airflow/"
+}

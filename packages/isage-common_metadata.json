@@ -1,0 +1,11 @@
+{
+  "name": "isage-common",
+  "version": "0.2.4.31",
+  "summary": "SAGE Core — 公共工具包 + Platform 运行时抽象 (原 L1+L2 合并)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_common-0.2.4.31-py3-none-any.whl",
+  "download_time": "2026-03-07T13:55:22.526136",
+  "package_url": "https://pypi.org/project/isage-common/"
+}

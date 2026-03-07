@@ -1,0 +1,11 @@
+{
+  "name": "rapha-ai",
+  "version": "0.1.0",
+  "summary": "The official SDK for Rapha Protocol: Compute-to-Data AI Training",
+  "author": "Rapha Protocol Team",
+  "license": null,
+  "home_page": "https://rapha.ltd",
+  "download_filename": "rapha_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-07T13:55:01.963732",
+  "package_url": "https://pypi.org/project/rapha-ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "iil-researchfw",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Platform research framework — search, citations, analysis, export",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iil_researchfw-0.2.2.tar.gz",
-  "download_time": "2026-03-07T13:26:10.526387",
+  "download_filename": "iil_researchfw-0.2.4.tar.gz",
+  "download_time": "2026-03-07T13:54:54.670805",
   "package_url": "https://pypi.org/project/iil-researchfw/"
 }

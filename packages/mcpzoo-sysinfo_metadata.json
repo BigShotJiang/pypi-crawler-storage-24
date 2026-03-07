@@ -1,0 +1,11 @@
+{
+  "name": "mcpzoo-sysinfo",
+  "version": "0.1.0",
+  "summary": "MCP tool: 获取操作系统和 Python 环境信息",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpzoo_sysinfo-0.1.0.tar.gz",
+  "download_time": "2026-03-07T13:55:08.147187",
+  "package_url": "https://pypi.org/project/mcpzoo-sysinfo/"
+}

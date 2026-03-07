@@ -1,0 +1,11 @@
+{
+  "name": "article-backup",
+  "version": "0.3.11",
+  "summary": "Локальный бэкап статей с Sponsr.ru и Boosty.to в Markdown с Hugo-интеграцией",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "article_backup-0.3.11.tar.gz",
+  "download_time": "2026-03-07T13:54:58.369769",
+  "package_url": "https://pypi.org/project/article-backup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcpzoo-random",
+  "version": "0.1.0",
+  "summary": "MCP tool: 生成指定范围内的随机数",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpzoo_random-0.1.0.tar.gz",
+  "download_time": "2026-03-07T13:55:11.731243",
+  "package_url": "https://pypi.org/project/mcpzoo-random/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wp-docker",
+  "version": "0.1.7",
+  "summary": "WordPress Docker Installer CLI tool with Docker setup and preconfigured theme",
+  "author": "Jacek Labudda",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wp_docker-0.1.7.tar.gz",
+  "download_time": "2026-03-07T13:54:44.368382",
+  "package_url": "https://pypi.org/project/wp-docker/"
+}
