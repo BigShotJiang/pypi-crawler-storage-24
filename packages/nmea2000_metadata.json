@@ -1,11 +1,11 @@
 {
   "name": "nmea2000",
-  "version": "2026.3.0",
+  "version": "2026.3.1",
   "summary": "NMEA 2000 encoder and decoder",
-  "author": "Tomer-W",
-  "license": "Apache-2.0",
-  "home_page": "https://github.com/tomer-w/nmea2000",
-  "download_filename": "nmea2000-2026.3.0.tar.gz",
-  "download_time": "2026-03-07T08:28:49.036172",
+  "author": "Tomer-w",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nmea2000-2026.3.1.tar.gz",
+  "download_time": "2026-03-07T11:41:52.855089",
   "package_url": "https://pypi.org/project/nmea2000/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nd2py",
+  "version": "3.0.0",
+  "summary": "nd2py (Neural Discovery of Network Dynamics) symbolic regression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nd2py-3.0.0.tar.gz",
+  "download_time": "2026-03-07T11:41:53.418698",
+  "package_url": "https://pypi.org/project/nd2py/"
+}

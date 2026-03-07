@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-tw-rental-house",
+  "version": "2.1.8",
+  "summary": "Scrapy spider for TW Rental House",
+  "author": "ddio",
+  "license": "MIT",
+  "home_page": "https://github.com/g0v/tw-rental-house-data/tree/master/scrapy-tw-rental-house",
+  "download_filename": "scrapy_tw_rental_house-2.1.8.tar.gz",
+  "download_time": "2026-03-07T11:41:36.365147",
+  "package_url": "https://pypi.org/project/scrapy-tw-rental-house/"
+}

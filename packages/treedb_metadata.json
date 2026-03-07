@@ -1,0 +1,11 @@
+{
+  "name": "treedb",
+  "version": "2.7.2",
+  "summary": "Glottolog languoid tree as SQLite database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "treedb-2.7.2.tar.gz",
+  "download_time": "2026-03-07T11:41:37.474071",
+  "package_url": "https://pypi.org/project/treedb/"
+}

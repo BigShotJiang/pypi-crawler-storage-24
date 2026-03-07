@@ -1,11 +1,11 @@
 {
   "name": "codebrain",
-  "version": "0.1.0",
-  "summary": "Persistent structural knowledge graph for codebases — lets LLM agents skip grep and understand repos in seconds.",
+  "version": "0.1.1",
+  "summary": "Know what breaks before you break it. Structural knowledge graph for codebases — impact analysis, dead code detection, health scores. No LLM required.",
   "author": "CodeBrain Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codebrain-0.1.0.tar.gz",
-  "download_time": "2026-03-07T11:15:35.302925",
+  "download_filename": "codebrain-0.1.1.tar.gz",
+  "download_time": "2026-03-07T11:41:52.291741",
   "package_url": "https://pypi.org/project/codebrain/"
 }

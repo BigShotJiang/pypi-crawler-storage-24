@@ -1,11 +1,11 @@
 {
   "name": "atrophy",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Your coding skills have a half-life. atrophy measures it.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "atrophy-0.1.4.tar.gz",
-  "download_time": "2026-03-07T11:15:41.003457",
+  "download_filename": "atrophy-0.1.5.tar.gz",
+  "download_time": "2026-03-07T11:41:27.900578",
   "package_url": "https://pypi.org/project/atrophy/"
 }

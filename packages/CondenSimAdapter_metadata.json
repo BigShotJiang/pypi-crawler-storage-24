@@ -1,0 +1,11 @@
+{
+  "name": "CondenSimAdapter",
+  "version": "1.0.3",
+  "summary": "An automated workflow for protein condensate simulations, covering the main stages from coarse-grained (CG) to all-atom (AA)",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "condensimadapter-1.0.3.tar.gz",
+  "download_time": "2026-03-07T11:41:32.973087",
+  "package_url": "https://pypi.org/project/CondenSimAdapter/"
+}
