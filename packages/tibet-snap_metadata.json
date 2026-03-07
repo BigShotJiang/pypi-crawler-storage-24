@@ -1,0 +1,11 @@
+{
+  "name": "tibet-snap",
+  "version": "0.1.1",
+  "summary": "Cryptographic State Snapshots & Rollback — TIBET-sealed system state with verifiable rollback after incidents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet_snap-0.1.1.tar.gz",
+  "download_time": "2026-03-07T17:56:45.663737",
+  "package_url": "https://pypi.org/project/tibet-snap/"
+}

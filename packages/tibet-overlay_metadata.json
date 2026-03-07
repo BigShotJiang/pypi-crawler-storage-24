@@ -1,0 +1,11 @@
+{
+  "name": "tibet-overlay",
+  "version": "0.1.1",
+  "summary": "Decentralized Identity Overlay — crypto-based device identity over broken IPv4/CGNAT networks with TIBET provenance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet_overlay-0.1.1.tar.gz",
+  "download_time": "2026-03-07T17:56:46.245359",
+  "package_url": "https://pypi.org/project/tibet-overlay/"
+}

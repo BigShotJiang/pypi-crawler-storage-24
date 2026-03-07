@@ -1,0 +1,11 @@
+{
+  "name": "eulumdat-quiz",
+  "version": "0.6.0",
+  "summary": "Photometric knowledge quiz engine for lighting professionals",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "eulumdat_quiz-0.6.0.tar.gz",
+  "download_time": "2026-03-07T17:56:47.976669",
+  "package_url": "https://pypi.org/project/eulumdat-quiz/"
+}
