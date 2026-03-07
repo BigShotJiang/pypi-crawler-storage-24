@@ -1,0 +1,11 @@
+{
+  "name": "testmind",
+  "version": "0.1.0",
+  "summary": "CLI tool to ingest test reports, detect flaky/regression patterns, and predict failures.",
+  "author": "TestMind Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "testmind-0.1.0.tar.gz",
+  "download_time": "2026-03-07T23:44:04.410113",
+  "package_url": "https://pypi.org/project/testmind/"
+}

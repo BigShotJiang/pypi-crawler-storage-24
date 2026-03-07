@@ -1,0 +1,11 @@
+{
+  "name": "astlab",
+  "version": "0.6.0",
+  "summary": "provides an intuitive API for building and manipulating Abstract Syntax Trees (ASTs) to generate Python code.",
+  "author": "zerlok",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "astlab-0.6.0.tar.gz",
+  "download_time": "2026-03-07T23:44:23.894269",
+  "package_url": "https://pypi.org/project/astlab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-rehive-extras",
+  "version": "1.3.14",
+  "summary": "Extras for Django",
+  "author": "Rehive",
+  "license": "MIT",
+  "home_page": "https://github.com/rehive/django-rehive-extras",
+  "download_filename": "django_rehive_extras-1.3.14.tar.gz",
+  "download_time": "2026-03-07T23:44:06.491898",
+  "package_url": "https://pypi.org/project/django-rehive-extras/"
+}

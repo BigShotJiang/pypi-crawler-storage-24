@@ -1,11 +1,11 @@
 {
   "name": "buildathena-sdk",
-  "version": "0.1.47",
+  "version": "0.1.48",
   "summary": "Athena Labs Python SDK for agentic ML workflow orchestration",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "buildathena_sdk-0.1.47.tar.gz",
-  "download_time": "2026-03-07T23:18:30.587327",
+  "download_filename": "buildathena_sdk-0.1.48.tar.gz",
+  "download_time": "2026-03-07T23:44:19.380108",
   "package_url": "https://pypi.org/project/buildathena-sdk/"
 }

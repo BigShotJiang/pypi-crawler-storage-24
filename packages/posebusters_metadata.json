@@ -1,0 +1,11 @@
+{
+  "name": "posebusters",
+  "version": "0.6.5",
+  "summary": "PoseBusters: Plausibility checks for generated molecule poses.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "posebusters-0.6.5.tar.gz",
+  "download_time": "2026-03-07T23:44:25.466800",
+  "package_url": "https://pypi.org/project/posebusters/"
+}

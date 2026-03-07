@@ -1,0 +1,11 @@
+{
+  "name": "nokrashi-tools",
+  "version": "0.1.0",
+  "summary": "Code quality checks and test analysis toolkit for Python projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nokrashi_tools-0.1.0.tar.gz",
+  "download_time": "2026-03-07T23:44:09.088743",
+  "package_url": "https://pypi.org/project/nokrashi-tools/"
+}
