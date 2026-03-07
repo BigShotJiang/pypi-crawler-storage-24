@@ -1,11 +1,11 @@
 {
   "name": "dawn-shuttle-novel",
-  "version": "0.2.1",
-  "summary": "AI 小说生成器 - 完整的多 Agent 协作系统",
+  "version": "0.3.1",
+  "summary": "AI 小说生成器 - 支持长篇小说自动生成",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dawn_shuttle_novel-0.2.1.tar.gz",
-  "download_time": "2026-03-07T05:13:32.880341",
+  "download_filename": "dawn_shuttle_novel-0.3.1.tar.gz",
+  "download_time": "2026-03-07T09:24:03.778241",
   "package_url": "https://pypi.org/project/dawn-shuttle-novel/"
 }

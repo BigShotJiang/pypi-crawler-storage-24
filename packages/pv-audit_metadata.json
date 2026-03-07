@@ -1,0 +1,11 @@
+{
+  "name": "pv-audit",
+  "version": "0.1.2",
+  "summary": "Industrial AI Robustness Audit SDK",
+  "author": "shef9432",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pv_audit-0.1.2.tar.gz",
+  "download_time": "2026-03-07T09:23:53.968792",
+  "package_url": "https://pypi.org/project/pv-audit/"
+}

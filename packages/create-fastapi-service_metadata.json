@@ -1,0 +1,11 @@
+{
+  "name": "create-fastapi-service",
+  "version": "0.1.0",
+  "summary": "Production-grade FastAPI microservice generator — like create-react-app, but for FastAPI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "create_fastapi_service-0.1.0.tar.gz",
+  "download_time": "2026-03-07T09:24:02.227119",
+  "package_url": "https://pypi.org/project/create-fastapi-service/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wren-gateway",
+  "version": "1.0.3",
+  "summary": "Wren AI Security Gateway SDK",
+  "author": "Kushagra Shukla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wren_gateway-1.0.3.tar.gz",
+  "download_time": "2026-03-07T09:24:01.204913",
+  "package_url": "https://pypi.org/project/wren-gateway/"
+}

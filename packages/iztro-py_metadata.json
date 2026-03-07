@@ -1,0 +1,11 @@
+{
+  "name": "iztro-py",
+  "version": "0.3.4",
+  "summary": "A pure Python implementation of iztro - A lightweight Zi Wei Dou Shu (Purple Star Astrology) library with full i18n support (6 languages)",
+  "author": "iztro-py Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iztro_py-0.3.4.tar.gz",
+  "download_time": "2026-03-07T09:24:29.751480",
+  "package_url": "https://pypi.org/project/iztro-py/"
+}

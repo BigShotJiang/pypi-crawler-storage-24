@@ -1,0 +1,11 @@
+{
+  "name": "matter-python-client",
+  "version": "0.5.3",
+  "summary": "Python Client for the OHF Matter Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matter_python_client-0.5.3.tar.gz",
+  "download_time": "2026-03-07T09:23:51.410537",
+  "package_url": "https://pypi.org/project/matter-python-client/"
+}
