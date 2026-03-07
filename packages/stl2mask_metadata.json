@@ -1,0 +1,11 @@
+{
+  "name": "stl2mask",
+  "version": "0.3.0",
+  "summary": "Convert STL segmentations to binary masks.",
+  "author": "Corné Haasjes, Jan-Willem Beenakker",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stl2mask-0.3.0.tar.gz",
+  "download_time": "2026-03-07T18:57:50.382752",
+  "package_url": "https://pypi.org/project/stl2mask/"
+}

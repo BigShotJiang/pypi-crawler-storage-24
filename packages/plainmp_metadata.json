@@ -1,0 +1,11 @@
+{
+  "name": "plainmp",
+  "version": "0.3.5",
+  "summary": "Very fast motion planning for articulated robot, through a bit of premature-optimization (C++ core with Python bindings) *less than 1ms for moderate problems",
+  "author": "Hirokazu Ishida",
+  "license": "MPL2.0 for C++ core and BSD3 for Python bindings",
+  "home_page": null,
+  "download_filename": "plainmp-0.3.5.tar.gz",
+  "download_time": "2026-03-07T18:57:42.497481",
+  "package_url": "https://pypi.org/project/plainmp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-airq",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "MCP server for direct HTTP communication with air-Q air quality sensor devices",
   "author": "Corant GmbH",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_airq-1.0.2.tar.gz",
-  "download_time": "2026-03-07T16:26:23.308826",
+  "download_filename": "mcp_airq-1.1.0.tar.gz",
+  "download_time": "2026-03-07T18:57:49.339084",
   "package_url": "https://pypi.org/project/mcp-airq/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "salim",
-  "version": "2.1.4",
+  "version": "2.1.7",
   "summary": "Control your entire laptop from Telegram — screenshots, shell, files, processes, power, browser automation, SSH, vision AI, TTS, scheduler, QR, speed test, file watcher, and more.",
   "author": "Salim Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "salim-2.1.4.tar.gz",
-  "download_time": "2026-03-07T17:17:06.476798",
+  "download_filename": "salim-2.1.7.tar.gz",
+  "download_time": "2026-03-07T18:57:35.675568",
   "package_url": "https://pypi.org/project/salim/"
 }

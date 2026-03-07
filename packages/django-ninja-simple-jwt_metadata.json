@@ -1,0 +1,11 @@
+{
+  "name": "django-ninja-simple-jwt",
+  "version": "0.8.1",
+  "summary": "Simple JWT-based authentication using Django and Django-ninja",
+  "author": "Oscar Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/oscarychen/django-ninja-simple-jwt",
+  "download_filename": "django_ninja_simple_jwt-0.8.1.tar.gz",
+  "download_time": "2026-03-07T18:58:08.714573",
+  "package_url": "https://pypi.org/project/django-ninja-simple-jwt/"
+}

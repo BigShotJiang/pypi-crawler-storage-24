@@ -1,0 +1,11 @@
+{
+  "name": "dep-audit",
+  "version": "0.5.0",
+  "summary": "Identify unnecessary dependencies in software projects",
+  "author": "zfoq",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dep_audit-0.5.0.tar.gz",
+  "download_time": "2026-03-07T18:58:09.753803",
+  "package_url": "https://pypi.org/project/dep-audit/"
+}

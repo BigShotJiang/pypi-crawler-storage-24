@@ -1,0 +1,11 @@
+{
+  "name": "siliconbridge",
+  "version": "0.4.0",
+  "summary": "Python SDK for SiliconBridge — Human-in-the-loop API for AI agents. AutoDetect automatically resolves CAPTCHAs, OTPs, KYC, and verification barriers.",
+  "author": "SiliconBridge",
+  "license": "MIT",
+  "home_page": "https://siliconbridge.xyz",
+  "download_filename": "siliconbridge-0.4.0.tar.gz",
+  "download_time": "2026-03-07T18:57:46.678200",
+  "package_url": "https://pypi.org/project/siliconbridge/"
+}

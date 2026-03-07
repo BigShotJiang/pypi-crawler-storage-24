@@ -1,0 +1,11 @@
+{
+  "name": "skillbroker-crewai",
+  "version": "0.1.0",
+  "summary": "CrewAI integration for SkillBroker - Access expert knowledge in your AI crews",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skillbroker_crewai-0.1.0.tar.gz",
+  "download_time": "2026-03-07T18:57:43.534312",
+  "package_url": "https://pypi.org/project/skillbroker-crewai/"
+}

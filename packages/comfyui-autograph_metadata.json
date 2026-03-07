@@ -1,0 +1,11 @@
+{
+  "name": "comfyui-autograph",
+  "version": "2.0.0",
+  "summary": "Pure Python automation for ComfyUI: convert workflows, submit jobs, fetch images—no GUI required",
+  "author": "Chris Reid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "comfyui_autograph-2.0.0.tar.gz",
+  "download_time": "2026-03-07T18:58:05.059761",
+  "package_url": "https://pypi.org/project/comfyui-autograph/"
+}

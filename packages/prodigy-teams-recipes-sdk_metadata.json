@@ -1,0 +1,11 @@
+{
+  "name": "prodigy-teams-recipes-sdk",
+  "version": "0.2.2",
+  "summary": "Recipes SDK for Prodigy Teams",
+  "author": "ExplosionAI GmbH",
+  "license": "All rights reserved",
+  "home_page": "https://prodi.gy",
+  "download_filename": "prodigy_teams_recipes_sdk-0.2.2.tar.gz",
+  "download_time": "2026-03-07T18:57:54.033885",
+  "package_url": "https://pypi.org/project/prodigy-teams-recipes-sdk/"
+}
