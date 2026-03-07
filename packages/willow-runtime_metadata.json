@@ -1,11 +1,11 @@
 {
   "name": "willow-runtime",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "summary": "Willow 5 Runtime: Action Recognition, Retargeting, & Edge Evaluator",
   "author": "Willow Dynamics",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "willow_runtime-5.2.0.tar.gz",
-  "download_time": "2026-03-07T11:53:22.528151",
+  "download_filename": "willow_runtime-5.2.1.tar.gz",
+  "download_time": "2026-03-07T13:26:45.999113",
   "package_url": "https://pypi.org/project/willow-runtime/"
 }

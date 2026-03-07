@@ -1,0 +1,11 @@
+{
+  "name": "vibe-memory",
+  "version": "0.1.1",
+  "summary": "Portable project memory for coding agents across Codex, Claude Code, Cursor, OpenCode, and MCP clients.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibe_memory-0.1.1.tar.gz",
+  "download_time": "2026-03-07T13:26:19.446139",
+  "package_url": "https://pypi.org/project/vibe-memory/"
+}

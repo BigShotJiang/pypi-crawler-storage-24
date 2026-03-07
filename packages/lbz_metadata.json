@@ -1,0 +1,11 @@
+{
+  "name": "lbz",
+  "version": "0.7.2",
+  "summary": "AWS Lambda REST ToolBox",
+  "author": "Piotr Dyba",
+  "license": "LICENSE",
+  "home_page": "https://github.com/pdyba/lambdalizator",
+  "download_filename": "lbz-0.7.2.tar.gz",
+  "download_time": "2026-03-07T13:26:27.702915",
+  "package_url": "https://pypi.org/project/lbz/"
+}

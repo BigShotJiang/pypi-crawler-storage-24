@@ -1,0 +1,11 @@
+{
+  "name": "rofi-rbw",
+  "version": "1.6.1",
+  "summary": "Rofi frontend for Bitwarden",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rofi_rbw-1.6.1.tar.gz",
+  "download_time": "2026-03-07T13:26:36.344713",
+  "package_url": "https://pypi.org/project/rofi-rbw/"
+}

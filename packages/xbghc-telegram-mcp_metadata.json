@@ -1,0 +1,11 @@
+{
+  "name": "xbghc-telegram-mcp",
+  "version": "0.1.2",
+  "summary": "Telegram MCP server for Claude Code — provides wait_for_message and send_message tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xbghc_telegram_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-07T13:26:08.926862",
+  "package_url": "https://pypi.org/project/xbghc-telegram-mcp/"
+}

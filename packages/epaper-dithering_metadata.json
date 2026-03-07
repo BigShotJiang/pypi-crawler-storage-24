@@ -1,0 +1,11 @@
+{
+  "name": "epaper-dithering",
+  "version": "0.6.3",
+  "summary": "Dithering algorithms for e-paper/e-ink displays",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "epaper_dithering-0.6.3-py3-none-any.whl",
+  "download_time": "2026-03-07T13:26:41.059213",
+  "package_url": "https://pypi.org/project/epaper-dithering/"
+}
