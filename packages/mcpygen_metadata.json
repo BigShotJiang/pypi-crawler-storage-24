@@ -1,0 +1,11 @@
+{
+  "name": "mcpygen",
+  "version": "0.1.1",
+  "summary": "MCP tooling infrastructure: client, code generation, tool server, and approval workflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpygen-0.1.1.tar.gz",
+  "download_time": "2026-03-07T06:33:11.986070",
+  "package_url": "https://pypi.org/project/mcpygen/"
+}

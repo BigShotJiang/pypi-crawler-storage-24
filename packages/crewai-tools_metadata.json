@@ -1,0 +1,11 @@
+{
+  "name": "crewai-tools",
+  "version": "1.10.1",
+  "summary": "Set of tools for the crewAI framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crewai_tools-1.10.1.tar.gz",
+  "download_time": "2026-03-07T06:33:04.128842",
+  "package_url": "https://pypi.org/project/crewai-tools/"
+}

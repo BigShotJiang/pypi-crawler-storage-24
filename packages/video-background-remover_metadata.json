@@ -1,0 +1,11 @@
+{
+  "name": "video-background-remover",
+  "version": "0.1.4",
+  "summary": "CLI tool to remove video backgrounds with rembg and OpenCV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "video_background_remover-0.1.4.tar.gz",
+  "download_time": "2026-03-07T06:33:10.289860",
+  "package_url": "https://pypi.org/project/video-background-remover/"
+}

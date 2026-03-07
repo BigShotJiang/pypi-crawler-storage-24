@@ -1,0 +1,11 @@
+{
+  "name": "mformat",
+  "version": "0.5",
+  "summary": "Uniform way to write simple text to different file formats",
+  "author": "Tom Björkholm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mformat-0.5.tar.gz",
+  "download_time": "2026-03-07T06:32:35.157064",
+  "package_url": "https://pypi.org/project/mformat/"
+}

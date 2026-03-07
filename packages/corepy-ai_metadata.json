@@ -1,0 +1,11 @@
+{
+  "name": "corepy-ai",
+  "version": "3.0.0",
+  "summary": "A unified, high-performance core runtime for data, computation, and AI workflows.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/ai-foundation-software/corepy",
+  "download_filename": "corepy_ai-3.0.0.tar.gz",
+  "download_time": "2026-03-07T06:32:38.977229",
+  "package_url": "https://pypi.org/project/corepy-ai/"
+}

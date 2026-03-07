@@ -1,0 +1,11 @@
+{
+  "name": "rag-consistency-scorer",
+  "version": "0.1.0",
+  "summary": "MMD-based semantic consistency scoring for RAG pipeline outputs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rag_consistency_scorer-0.1.0.tar.gz",
+  "download_time": "2026-03-07T06:32:36.245248",
+  "package_url": "https://pypi.org/project/rag-consistency-scorer/"
+}

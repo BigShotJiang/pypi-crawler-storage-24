@@ -1,0 +1,11 @@
+{
+  "name": "eyetrace",
+  "version": "0.1.1",
+  "summary": "Open-source toolkit for ocular metrics and fatigue detection",
+  "author": "Fildouindé Ariel Shadrac OUEDRAOGO",
+  "license": null,
+  "home_page": "https://github.com/Xcept-Health/EyeTrace.git",
+  "download_filename": "eyetrace-0.1.1.tar.gz",
+  "download_time": "2026-03-07T06:33:13.605516",
+  "package_url": "https://pypi.org/project/eyetrace/"
+}
