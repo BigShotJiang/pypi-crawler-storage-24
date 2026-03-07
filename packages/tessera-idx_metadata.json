@@ -1,0 +1,11 @@
+{
+  "name": "tessera-idx",
+  "version": "0.9.0",
+  "summary": "Fast code and document search for AI agents via MCP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tessera_idx-0.9.0.tar.gz",
+  "download_time": "2026-03-07T22:47:29.743023",
+  "package_url": "https://pypi.org/project/tessera-idx/"
+}

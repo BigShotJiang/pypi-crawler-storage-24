@@ -1,11 +1,11 @@
 {
   "name": "earlyai-agent",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "LLM-powered automatic test generation for Python",
   "author": null,
   "license": "commercial",
   "home_page": null,
-  "download_filename": "earlyai_agent-0.2.0.tar.gz",
-  "download_time": "2026-03-07T13:54:41.807155",
+  "download_filename": "earlyai_agent-0.2.1.tar.gz",
+  "download_time": "2026-03-07T22:47:35.429914",
   "package_url": "https://pypi.org/project/earlyai-agent/"
 }

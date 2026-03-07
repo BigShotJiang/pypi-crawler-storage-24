@@ -1,0 +1,11 @@
+{
+  "name": "agent-lint-cli",
+  "version": "0.1.0",
+  "summary": "Quality and security platform for AI agents. Validate MCP servers, scan for vulnerabilities, ship reliable agents.",
+  "author": "agent-lint contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_lint_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-07T22:47:25.632576",
+  "package_url": "https://pypi.org/project/agent-lint-cli/"
+}
