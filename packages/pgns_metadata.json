@@ -1,0 +1,11 @@
+{
+  "name": "pgns",
+  "version": "0.4.0",
+  "summary": "Python SDK for the pgns webhook relay API",
+  "author": "pgns",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgns-0.4.0.tar.gz",
+  "download_time": "2026-03-07T19:21:42.861956",
+  "package_url": "https://pypi.org/project/pgns/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "free-d6",
+  "version": "0.3.2",
+  "summary": "The FREEd6 RPG System",
+  "author": "Jeremy Deram",
+  "license": "This game is released under the CC BY-SA 4.0 license.\n        https://creativecommons.org/licenses/by-sa/4.0/",
+  "home_page": null,
+  "download_filename": "free_d6-0.3.2.tar.gz",
+  "download_time": "2026-03-07T19:21:40.927468",
+  "package_url": "https://pypi.org/project/free-d6/"
+}
