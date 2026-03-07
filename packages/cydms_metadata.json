@@ -1,11 +1,11 @@
 {
   "name": "cydms",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "summary": "EEG + MRI source localization library — no FreeSurfer required",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cydms-1.8.0.tar.gz",
-  "download_time": "2026-03-07T14:47:38.804770",
+  "download_filename": "cydms-1.9.0.tar.gz",
+  "download_time": "2026-03-07T15:18:12.487269",
   "package_url": "https://pypi.org/project/cydms/"
 }

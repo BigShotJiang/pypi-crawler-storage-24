@@ -1,0 +1,11 @@
+{
+  "name": "pytshade",
+  "version": "0.1.0",
+  "summary": "Python toolkit for generating StratoScript files for Nightshade planetarium systems",
+  "author": "Justin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytshade-0.1.0.tar.gz",
+  "download_time": "2026-03-07T15:18:02.070308",
+  "package_url": "https://pypi.org/project/pytshade/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scrapernhl",
+  "version": "0.3.2",
+  "summary": "A comprehensive Python package for scraping and analyzing NHL data with built-in Expected Goals (xG) modeling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scrapernhl-0.3.2.tar.gz",
+  "download_time": "2026-03-07T15:18:07.096317",
+  "package_url": "https://pypi.org/project/scrapernhl/"
+}

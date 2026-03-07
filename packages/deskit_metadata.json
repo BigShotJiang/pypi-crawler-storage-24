@@ -1,11 +1,11 @@
 {
   "name": "deskit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python library for Dynamic Ensemble Selection",
   "author": "Tikhon Vodyanov",
   "license": null,
   "home_page": null,
-  "download_filename": "deskit-0.1.0.tar.gz",
-  "download_time": "2026-03-07T09:50:28.199471",
+  "download_filename": "deskit-0.2.0.tar.gz",
+  "download_time": "2026-03-07T15:18:08.972457",
   "package_url": "https://pypi.org/project/deskit/"
 }

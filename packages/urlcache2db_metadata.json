@@ -1,0 +1,11 @@
+{
+  "name": "urlcache2db",
+  "version": "0.1.2",
+  "summary": "A lightweight Python library that fetches URL content and stores it in a local SQLite database for a specified amount of time.",
+  "author": "ArtOfScripting",
+  "license": null,
+  "home_page": "https://github.com/artofscripting/urlcache2db",
+  "download_filename": "urlcache2db-0.1.2.tar.gz",
+  "download_time": "2026-03-07T15:17:55.259629",
+  "package_url": "https://pypi.org/project/urlcache2db/"
+}

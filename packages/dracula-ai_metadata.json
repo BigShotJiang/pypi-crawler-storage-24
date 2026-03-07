@@ -1,0 +1,11 @@
+{
+  "name": "dracula-ai",
+  "version": "1.1.0",
+  "summary": "A simple and elegant Python Mini SDK for Google Gemini AI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dracula_ai-1.1.0.tar.gz",
+  "download_time": "2026-03-07T15:18:33.161436",
+  "package_url": "https://pypi.org/project/dracula-ai/"
+}

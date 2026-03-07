@@ -1,0 +1,11 @@
+{
+  "name": "osu-wiki-tools",
+  "version": "2.5.0",
+  "summary": "Various tools for osu! wiki contributors",
+  "author": "Walavouchey",
+  "license": "MIT",
+  "home_page": "https://github.com/Walavouchey/osu-wiki-tools",
+  "download_filename": "osu_wiki_tools-2.5.0.tar.gz",
+  "download_time": "2026-03-07T15:18:15.775410",
+  "package_url": "https://pypi.org/project/osu-wiki-tools/"
+}

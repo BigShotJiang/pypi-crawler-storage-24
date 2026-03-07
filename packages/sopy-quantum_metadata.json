@@ -1,0 +1,11 @@
+{
+  "name": "sopy-quantum",
+  "version": "1.8.2",
+  "summary": "Representation and Decomposition with Sums of Product for Operations in separated dimensions. Now using bandlimit place data on lattice.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sopy_quantum-1.8.2.tar.gz",
+  "download_time": "2026-03-07T15:18:29.509171",
+  "package_url": "https://pypi.org/project/sopy-quantum/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xlsx-formula-compiler",
+  "version": "0.1.3",
+  "summary": "Translate modern Excel formulas into OOXML syntax (e.g., _xlfn. prefixes) to work perfectly with xlsxwriter.",
+  "author": "erwin314",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlsx_formula_compiler-0.1.3.tar.gz",
+  "download_time": "2026-03-07T15:18:25.806477",
+  "package_url": "https://pypi.org/project/xlsx-formula-compiler/"
+}
