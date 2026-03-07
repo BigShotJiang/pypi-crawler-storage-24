@@ -1,11 +1,11 @@
 {
   "name": "pybinbot",
-  "version": "0.7.10",
+  "version": "0.7.12",
   "summary": "Utility functions for the binbot project.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybinbot-0.7.10.tar.gz",
-  "download_time": "2026-03-07T16:26:12.579685",
+  "download_filename": "pybinbot-0.7.12.tar.gz",
+  "download_time": "2026-03-07T16:50:07.450719",
   "package_url": "https://pypi.org/project/pybinbot/"
 }

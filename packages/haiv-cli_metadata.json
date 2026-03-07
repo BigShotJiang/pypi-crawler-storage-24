@@ -1,0 +1,11 @@
+{
+  "name": "haiv-cli",
+  "version": "0.1.0",
+  "summary": "Seamless management of a collaborative AI team",
+  "author": "Casey Marquis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "haiv_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-07T16:49:33.909196",
+  "package_url": "https://pypi.org/project/haiv-cli/"
+}

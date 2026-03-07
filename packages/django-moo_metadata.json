@@ -1,11 +1,11 @@
 {
   "name": "django-moo",
-  "version": "0.57.5",
+  "version": "0.57.8",
   "summary": "A game server for hosting text-based online MOO-like games.",
   "author": null,
   "license": "AGPL",
   "home_page": null,
-  "download_filename": "django_moo-0.57.5.tar.gz",
-  "download_time": "2026-03-07T15:56:57.785093",
+  "download_filename": "django_moo-0.57.8.tar.gz",
+  "download_time": "2026-03-07T16:49:39.616644",
   "package_url": "https://pypi.org/project/django-moo/"
 }

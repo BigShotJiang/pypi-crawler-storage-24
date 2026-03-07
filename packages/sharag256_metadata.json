@@ -1,11 +1,11 @@
 {
   "name": "sharag256",
-  "version": "0.1.3",
-  "summary": "SHARAG-256 hashing algorithm with complex randomization",
+  "version": "0.1.6",
+  "summary": "SHARAG-256: A patented cryptographic hashing algorithm combining SHA-256 compression rounds with complex mathematical randomization using trigonometric, exponential, and factorial functions. Patent-protected, production-ready, and designed for blockchain, federated learning, and distributed systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sharag256-0.1.3.tar.gz",
-  "download_time": "2026-03-07T16:26:21.268319",
+  "download_filename": "sharag256-0.1.6.tar.gz",
+  "download_time": "2026-03-07T16:49:43.045011",
   "package_url": "https://pypi.org/project/sharag256/"
 }

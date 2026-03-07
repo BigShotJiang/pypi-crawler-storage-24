@@ -1,11 +1,11 @@
 {
   "name": "dcert",
-  "version": "3.0.26",
+  "version": "3.0.27",
   "summary": "MCP server for TLS certificate analysis via the Model Context Protocol",
   "author": "sreengineer",
   "license": null,
   "home_page": null,
-  "download_filename": "dcert-3.0.26-py3-none-any.whl",
-  "download_time": "2026-03-07T15:56:56.211897",
+  "download_filename": "dcert-3.0.27-py3-none-any.whl",
+  "download_time": "2026-03-07T16:50:17.725408",
   "package_url": "https://pypi.org/project/dcert/"
 }

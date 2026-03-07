@@ -1,0 +1,11 @@
+{
+  "name": "PyChromecast",
+  "version": "14.0.10",
+  "summary": "Python module to talk to Google Chromecast.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pychromecast-14.0.10.tar.gz",
+  "download_time": "2026-03-07T16:49:59.840906",
+  "package_url": "https://pypi.org/project/PyChromecast/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "famiterm",
+  "version": "0.2.1",
+  "summary": "A NES emulator running in the terminal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "famiterm-0.2.1.tar.gz",
+  "download_time": "2026-03-07T16:49:36.699036",
+  "package_url": "https://pypi.org/project/famiterm/"
+}

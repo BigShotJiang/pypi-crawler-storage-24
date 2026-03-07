@@ -1,11 +1,11 @@
 {
   "name": "goal",
-  "version": "2.1.81",
+  "version": "2.1.87",
   "summary": "Goal - Automated git push with enterprise-grade commit intelligence, smart conventional commit generation based on deep code analysis, and interactive release workflow management.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "goal-2.1.81.tar.gz",
-  "download_time": "2026-03-07T08:55:54.824078",
+  "download_filename": "goal-2.1.87.tar.gz",
+  "download_time": "2026-03-07T16:49:58.224957",
   "package_url": "https://pypi.org/project/goal/"
 }

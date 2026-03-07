@@ -1,0 +1,11 @@
+{
+  "name": "fastdotcom",
+  "version": "0.0.7",
+  "summary": "Python API for testing internet speed on Fast.com",
+  "author": "Nolan Gilley",
+  "license": "MIT",
+  "home_page": "https://github.com/nkgilley/fast.com",
+  "download_filename": "fastdotcom-0.0.7.tar.gz",
+  "download_time": "2026-03-07T16:49:54.955425",
+  "package_url": "https://pypi.org/project/fastdotcom/"
+}

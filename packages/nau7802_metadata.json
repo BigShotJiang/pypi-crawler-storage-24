@@ -1,0 +1,11 @@
+{
+  "name": "nau7802",
+  "version": "0.6.0",
+  "summary": "A typed, register-accurate Python driver for the NAU7802 24-bit ADC load-cell amplifier.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nau7802-0.6.0.tar.gz",
+  "download_time": "2026-03-07T16:49:35.619886",
+  "package_url": "https://pypi.org/project/nau7802/"
+}

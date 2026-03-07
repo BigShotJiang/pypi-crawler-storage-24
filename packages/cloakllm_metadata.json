@@ -1,0 +1,11 @@
+{
+  "name": "cloakllm",
+  "version": "0.1.8",
+  "summary": "AI Compliance Middleware — PII protection, tamper-evident audit logs, and EU AI Act compliance for LLM gateways",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloakllm-0.1.8.tar.gz",
+  "download_time": "2026-03-07T16:50:14.481129",
+  "package_url": "https://pypi.org/project/cloakllm/"
+}

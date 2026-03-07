@@ -1,0 +1,11 @@
+{
+  "name": "git-graphable",
+  "version": "0.6.0",
+  "summary": "A powerful Git history visualizer and hygiene linter with CI gating.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_graphable-0.6.0.tar.gz",
+  "download_time": "2026-03-07T16:49:57.148806",
+  "package_url": "https://pypi.org/project/git-graphable/"
+}

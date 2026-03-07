@@ -1,0 +1,11 @@
+{
+  "name": "docuware-client",
+  "version": "0.6.3",
+  "summary": "DocuWare REST-API client",
+  "author": "Stefan Schönberger",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "docuware_client-0.6.3.tar.gz",
+  "download_time": "2026-03-07T16:50:04.148827",
+  "package_url": "https://pypi.org/project/docuware-client/"
+}

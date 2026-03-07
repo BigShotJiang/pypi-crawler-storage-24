@@ -1,0 +1,11 @@
+{
+  "name": "torrent-edit",
+  "version": "0.1.0",
+  "summary": "Edit BitTorrent metadata (trackers and private flag)",
+  "author": "Ysard",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/ysard/torrent-edit",
+  "download_filename": "torrent_edit-0.1.0.tar.gz",
+  "download_time": "2026-03-07T16:49:56.073760",
+  "package_url": "https://pypi.org/project/torrent-edit/"
+}

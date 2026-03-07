@@ -1,11 +1,11 @@
 {
   "name": "isage-middleware",
-  "version": "0.2.4.51",
+  "version": "0.2.4.52",
   "summary": "SAGE Middleware - Domain Operators and Service Components (L3)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isage_middleware-0.2.4.51.tar.gz",
-  "download_time": "2026-03-07T16:26:21.777664",
+  "download_filename": "isage_middleware-0.2.4.52.tar.gz",
+  "download_time": "2026-03-07T16:49:52.773469",
   "package_url": "https://pypi.org/project/isage-middleware/"
 }

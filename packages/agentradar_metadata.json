@@ -1,0 +1,11 @@
+{
+  "name": "agentradar",
+  "version": "1.0.2",
+  "summary": "Local-first visual debugger for multi-agent AI systems",
+  "author": "Yossef Ayman Zedan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentradar-1.0.2.tar.gz",
+  "download_time": "2026-03-07T16:49:39.059481",
+  "package_url": "https://pypi.org/project/agentradar/"
+}
