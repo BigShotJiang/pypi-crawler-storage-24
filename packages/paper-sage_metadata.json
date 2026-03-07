@@ -1,0 +1,11 @@
+{
+  "name": "paper-sage",
+  "version": "1.0.3",
+  "summary": "AI-powered literature reading assistant with multi-agent orchestration and hybrid RAG",
+  "author": "0verL1nk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "paper_sage-1.0.3.tar.gz",
+  "download_time": "2026-03-07T12:34:39.282198",
+  "package_url": "https://pypi.org/project/paper-sage/"
+}

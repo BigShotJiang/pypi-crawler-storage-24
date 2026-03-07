@@ -1,11 +1,11 @@
 {
   "name": "maibot-plugin-sdk",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "MaiBot 插件开发 SDK",
   "author": "MaiBot Team",
   "license": null,
   "home_page": null,
-  "download_filename": "maibot_plugin_sdk-1.0.0.tar.gz",
-  "download_time": "2026-03-07T11:41:22.535812",
+  "download_filename": "maibot_plugin_sdk-1.1.0.tar.gz",
+  "download_time": "2026-03-07T12:35:22.464544",
   "package_url": "https://pypi.org/project/maibot-plugin-sdk/"
 }
