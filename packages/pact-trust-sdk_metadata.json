@@ -1,0 +1,11 @@
+{
+  "name": "pact-trust-sdk",
+  "version": "0.5.0",
+  "summary": "PACT — Protocol for Agent Credentials and Trust",
+  "author": "Brenden Kauhl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pact_trust_sdk-0.5.0.tar.gz",
+  "download_time": "2026-03-07T16:26:10.529062",
+  "package_url": "https://pypi.org/project/pact-trust-sdk/"
+}

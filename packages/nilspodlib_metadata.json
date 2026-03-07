@@ -1,0 +1,11 @@
+{
+  "name": "nilspodlib",
+  "version": "4.1.2",
+  "summary": "A Python library to load and convert sensor data recorded by a NilsPod by Portablies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nilspodlib-4.1.2.tar.gz",
+  "download_time": "2026-03-07T16:26:05.405749",
+  "package_url": "https://pypi.org/project/nilspodlib/"
+}

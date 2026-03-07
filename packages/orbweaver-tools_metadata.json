@@ -1,0 +1,11 @@
+{
+  "name": "orbweaver-tools",
+  "version": "1.1.0",
+  "summary": "Stealth-oriented utilities for web scraping with rotating user agents, proxies, and Selenium helpers.",
+  "author": "Tom Freeman",
+  "license": "MIT",
+  "home_page": "https://github.com/Tom3man/orb-weaver",
+  "download_filename": "orbweaver_tools-1.1.0.tar.gz",
+  "download_time": "2026-03-07T16:26:03.228879",
+  "package_url": "https://pypi.org/project/orbweaver-tools/"
+}

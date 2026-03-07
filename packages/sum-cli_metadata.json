@@ -1,0 +1,11 @@
+{
+  "name": "sum-cli",
+  "version": "3.3.4",
+  "summary": "SUM Platform CLI: single control plane for site lifecycle management",
+  "author": "Mark Ashton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sum_cli-3.3.4.tar.gz",
+  "download_time": "2026-03-07T16:26:19.222355",
+  "package_url": "https://pypi.org/project/sum-cli/"
+}

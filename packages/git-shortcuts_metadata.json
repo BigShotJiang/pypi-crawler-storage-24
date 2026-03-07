@@ -1,0 +1,11 @@
+{
+  "name": "git-shortcuts",
+  "version": "1.708.26066",
+  "summary": "Enhanced git workflow utilities with smart conflict resolution and branch management",
+  "author": "Kyle Lahnakoski",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/klahnakoski/git-shortcuts",
+  "download_filename": "git_shortcuts-1.708.26066.tar.gz",
+  "download_time": "2026-03-07T16:25:45.618145",
+  "package_url": "https://pypi.org/project/git-shortcuts/"
+}

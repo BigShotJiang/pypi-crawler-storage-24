@@ -1,0 +1,11 @@
+{
+  "name": "swiftnode",
+  "version": "4.0.0",
+  "summary": "Ultra-Light Personal AI Agent with Multi-Device Control, Telegram integration, and 20+ tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swiftnode-4.0.0.tar.gz",
+  "download_time": "2026-03-07T16:26:06.933375",
+  "package_url": "https://pypi.org/project/swiftnode/"
+}
