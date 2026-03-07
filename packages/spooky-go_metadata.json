@@ -1,0 +1,11 @@
+{
+  "name": "spooky-go",
+  "version": "0.4.0",
+  "summary": "High-performance go library with arbitrary board sizes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spooky_go-0.4.0.tar.gz",
+  "download_time": "2026-03-07T14:47:37.574208",
+  "package_url": "https://pypi.org/project/spooky-go/"
+}

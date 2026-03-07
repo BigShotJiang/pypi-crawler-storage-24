@@ -1,0 +1,11 @@
+{
+  "name": "agenticraft-types",
+  "version": "0.1.0",
+  "summary": "Shared type definitions, protocols, and error hierarchy for AgentiCraft packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agenticraft_types-0.1.0.tar.gz",
+  "download_time": "2026-03-07T14:48:00.568335",
+  "package_url": "https://pypi.org/project/agenticraft-types/"
+}

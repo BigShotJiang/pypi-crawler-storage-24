@@ -1,0 +1,11 @@
+{
+  "name": "muleline",
+  "version": "0.1.0",
+  "summary": "Universal file sync engine. Chunked resumable uploads, SHA-256 dedup, storage backend connectors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "muleline-0.1.0.tar.gz",
+  "download_time": "2026-03-07T14:47:42.283748",
+  "package_url": "https://pypi.org/project/muleline/"
+}

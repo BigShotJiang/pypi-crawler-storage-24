@@ -1,0 +1,11 @@
+{
+  "name": "agentobs",
+  "version": "1.0.6",
+  "summary": "AgentOBS — reference implementation of RFC-0001 AGENTOBS, the Observability Schema Standard for Agentic AI Systems",
+  "author": "LLM Toolkit Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentobs-1.0.6.tar.gz",
+  "download_time": "2026-03-07T14:47:48.644633",
+  "package_url": "https://pypi.org/project/agentobs/"
+}

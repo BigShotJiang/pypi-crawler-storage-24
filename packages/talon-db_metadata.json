@@ -1,0 +1,11 @@
+{
+  "name": "talon-db",
+  "version": "0.1.0",
+  "summary": "Talon — AI-native multi-model data engine (SQL + KV + Vector + TimeSeries + MQ + FTS + GEO + Graph + AI)",
+  "author": "Talon Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "talon_db-0.1.0.tar.gz",
+  "download_time": "2026-03-07T14:48:14.608901",
+  "package_url": "https://pypi.org/project/talon-db/"
+}

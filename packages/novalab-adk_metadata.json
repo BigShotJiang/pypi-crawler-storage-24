@@ -1,0 +1,11 @@
+{
+  "name": "novalab-adk",
+  "version": "1.1.0",
+  "summary": "NovaLab Agent Development Kit — Build, test, and deploy Nova AI agents with multi-agent orchestration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "novalab_adk-1.1.0.tar.gz",
+  "download_time": "2026-03-07T14:48:02.430001",
+  "package_url": "https://pypi.org/project/novalab-adk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pybullet-planning",
+  "version": "0.6.1",
+  "summary": "a suite of utility functions to facilitate robotic planning related research on the pybullet physics simulation engine.",
+  "author": "Caelan Garrett",
+  "license": "MIT license",
+  "home_page": "https://github.com/yijiangh/pybullet_planning",
+  "download_filename": "pybullet_planning-0.6.1.tar.gz",
+  "download_time": "2026-03-07T14:47:36.926939",
+  "package_url": "https://pypi.org/project/pybullet-planning/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reviewd",
+  "version": "0.3.0",
+  "summary": "Local AI code reviewer for GitHub and BitBucket PRs — uses Claude or Gemini CLI to review pull requests and post structured comments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reviewd-0.3.0.tar.gz",
+  "download_time": "2026-03-07T14:47:53.286226",
+  "package_url": "https://pypi.org/project/reviewd/"
+}

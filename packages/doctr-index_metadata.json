@@ -1,0 +1,11 @@
+{
+  "name": "doctr-index",
+  "version": "0.1.2",
+  "summary": "Open-source document indexing library for building hierarchical trees from PDF and Markdown.",
+  "author": "PDFIndexing Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "doctr_index-0.1.2.tar.gz",
+  "download_time": "2026-03-07T14:48:15.846079",
+  "package_url": "https://pypi.org/project/doctr-index/"
+}

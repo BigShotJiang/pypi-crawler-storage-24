@@ -1,0 +1,11 @@
+{
+  "name": "ReflectX",
+  "version": "1.0.1",
+  "summary": "Reflected Light planet models",
+  "author": "Logan Pearce",
+  "license": null,
+  "home_page": "https://reflectx.readthedocs.io/en/latest/",
+  "download_filename": "reflectx-1.0.1.tar.gz",
+  "download_time": "2026-03-07T14:48:21.808056",
+  "package_url": "https://pypi.org/project/ReflectX/"
+}

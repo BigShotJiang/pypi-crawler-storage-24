@@ -1,0 +1,11 @@
+{
+  "name": "iil-authoringfw",
+  "version": "0.6.2",
+  "summary": "Authoring Framework — domain schemas and orchestration base for AI-assisted creative writing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iil_authoringfw-0.6.2.tar.gz",
+  "download_time": "2026-03-07T14:48:23.564352",
+  "package_url": "https://pypi.org/project/iil-authoringfw/"
+}

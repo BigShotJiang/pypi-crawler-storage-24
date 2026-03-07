@@ -1,0 +1,11 @@
+{
+  "name": "mft-fortableau",
+  "version": "1.0.769",
+  "summary": "Manager for Tableau - Custom Task Framework for building workflow tasks",
+  "author": "Laszlo Nemes",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "mft_fortableau-1.0.769.tar.gz",
+  "download_time": "2026-03-07T14:47:57.683010",
+  "package_url": "https://pypi.org/project/mft-fortableau/"
+}

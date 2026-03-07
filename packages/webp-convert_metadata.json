@@ -1,0 +1,11 @@
+{
+  "name": "webp-convert",
+  "version": "1.0.0",
+  "summary": "Automatically convert PNG/JPG images to WebP with responsive sizes. CLI, file watcher, and Python API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webp_convert-1.0.0.tar.gz",
+  "download_time": "2026-03-07T14:48:10.252644",
+  "package_url": "https://pypi.org/project/webp-convert/"
+}
