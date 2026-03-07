@@ -1,0 +1,11 @@
+{
+  "name": "essentials-openapi",
+  "version": "1.4.0",
+  "summary": "Classes to generate OpenAPI Documentation v3 and v2, in JSON and YAML.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "essentials_openapi-1.4.0.tar.gz",
+  "download_time": "2026-03-07T09:50:27.688577",
+  "package_url": "https://pypi.org/project/essentials-openapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "manuscript-tools",
+  "version": "0.1.0",
+  "summary": "Validation, sanitization and metrics for Markdown manuscripts.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "manuscript_tools-0.1.0.tar.gz",
+  "download_time": "2026-03-07T09:50:10.857255",
+  "package_url": "https://pypi.org/project/manuscript-tools/"
+}

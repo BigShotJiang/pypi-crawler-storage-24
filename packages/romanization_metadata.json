@@ -1,0 +1,11 @@
+{
+  "name": "romanization",
+  "version": "2.0.0",
+  "summary": "Revised Romanization of Korean",
+  "author": "Joumaico Maulas",
+  "license": null,
+  "home_page": "https://github.com/joumaico/romanization",
+  "download_filename": "romanization-2.0.0.tar.gz",
+  "download_time": "2026-03-07T09:50:21.993737",
+  "package_url": "https://pypi.org/project/romanization/"
+}

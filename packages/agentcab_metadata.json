@@ -1,11 +1,11 @@
 {
   "name": "agentcab",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Official Python SDK for AgentCab - AI Agent API Marketplace",
   "author": "AgentCab",
   "license": null,
   "home_page": "https://github.com/moyaForHY/agenthub",
-  "download_filename": "agentcab-0.5.3.tar.gz",
-  "download_time": "2026-03-07T09:23:58.096367",
+  "download_filename": "agentcab-0.5.4.tar.gz",
+  "download_time": "2026-03-07T09:50:31.302113",
   "package_url": "https://pypi.org/project/agentcab/"
 }

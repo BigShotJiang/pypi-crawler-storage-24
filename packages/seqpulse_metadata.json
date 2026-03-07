@@ -1,11 +1,11 @@
 {
   "name": "seqpulse",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "SeqPulse SDK for metrics endpoint instrumentation and HMAC validation",
   "author": "Nassir",
   "license": null,
   "home_page": null,
-  "download_filename": "seqpulse-0.3.0.tar.gz",
-  "download_time": "2026-03-07T08:56:06.805288",
+  "download_filename": "seqpulse-0.4.0.tar.gz",
+  "download_time": "2026-03-07T09:50:11.872300",
   "package_url": "https://pypi.org/project/seqpulse/"
 }

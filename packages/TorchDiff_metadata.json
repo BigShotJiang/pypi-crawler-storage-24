@@ -1,0 +1,11 @@
+{
+  "name": "TorchDiff",
+  "version": "2.6.0",
+  "summary": "A PyTorch-based library for diffusion models",
+  "author": "Loghman Samani",
+  "license": "MIT",
+  "home_page": "https://github.com/LoqmanSamani/TorchDiff",
+  "download_filename": "torchdiff-2.6.0.tar.gz",
+  "download_time": "2026-03-07T09:50:35.427690",
+  "package_url": "https://pypi.org/project/TorchDiff/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ttyping",
+  "version": "0.1.1",
+  "summary": "A minimal terminal typing test — English & Korean, monkeytype-inspired",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ttyping-0.1.1.tar.gz",
+  "download_time": "2026-03-07T09:50:24.034695",
+  "package_url": "https://pypi.org/project/ttyping/"
+}
