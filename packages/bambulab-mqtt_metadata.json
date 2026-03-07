@@ -1,0 +1,11 @@
+{
+  "name": "bambulab-mqtt",
+  "version": "1.0.1",
+  "summary": "A simple Python MQTT client for Bambu Lab printers",
+  "author": "William",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bambulab_mqtt-1.0.1.tar.gz",
+  "download_time": "2026-03-07T08:29:06.462684",
+  "package_url": "https://pypi.org/project/bambulab-mqtt/"
+}

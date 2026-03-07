@@ -1,0 +1,11 @@
+{
+  "name": "isard",
+  "version": "0.1.1",
+  "summary": "CLI tool for managing IsardVDI virtual desktops on the Gencat educational platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isard-0.1.1.tar.gz",
+  "download_time": "2026-03-07T08:29:05.424228",
+  "package_url": "https://pypi.org/project/isard/"
+}

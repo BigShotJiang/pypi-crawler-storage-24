@@ -1,11 +1,11 @@
 {
   "name": "cremalink-thesammykins",
-  "version": "0.1.0b21",
+  "version": "0.1.0b22",
   "summary": "Python library and local API server for monitoring and controlling IoT coffee machines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cremalink_thesammykins-0.1.0b21.tar.gz",
-  "download_time": "2026-03-07T07:56:52.807114",
+  "download_filename": "cremalink_thesammykins-0.1.0b22.tar.gz",
+  "download_time": "2026-03-07T08:28:54.890586",
   "package_url": "https://pypi.org/project/cremalink-thesammykins/"
 }

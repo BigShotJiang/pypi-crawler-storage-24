@@ -1,11 +1,11 @@
 {
   "name": "promptshields",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "summary": "Production-Grade LLM Security Framework - Protect against prompt injection, jailbreaks, and data leakage",
   "author": "Neuralchemy",
   "license": "MIT",
   "home_page": "https://github.com/Neural-alchemy/promptshield",
-  "download_filename": "promptshields-2.6.0.tar.gz",
-  "download_time": "2026-03-07T07:56:44.945482",
+  "download_filename": "promptshields-2.7.0.tar.gz",
+  "download_time": "2026-03-07T08:28:59.154592",
   "package_url": "https://pypi.org/project/promptshields/"
 }

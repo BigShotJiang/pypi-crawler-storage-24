@@ -1,0 +1,11 @@
+{
+  "name": "AoE2ScenarioParser",
+  "version": "0.7.2",
+  "summary": "This is a project for editing parts of an 'aoe2scenario' file from Age of Empires 2 Definitive Edition",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aoe2scenarioparser-0.7.2.tar.gz",
+  "download_time": "2026-03-07T08:29:06.992364",
+  "package_url": "https://pypi.org/project/AoE2ScenarioParser/"
+}

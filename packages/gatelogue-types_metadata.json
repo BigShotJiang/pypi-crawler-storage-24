@@ -1,0 +1,11 @@
+{
+  "name": "gatelogue-types",
+  "version": "3.0.6",
+  "summary": "Types for loading and reading Gatelogue data",
+  "author": "MRT Mapping Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gatelogue_types-3.0.6.tar.gz",
+  "download_time": "2026-03-07T08:29:10.653009",
+  "package_url": "https://pypi.org/project/gatelogue-types/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mosaic-search",
+  "version": "0.1.0",
+  "summary": "Multi-source Scientific Article Index and Collector",
+  "author": null,
+  "license": "GPL-3.0-or-later OR BSD-2-Clause OR BSD-3-Clause OR MIT",
+  "home_page": null,
+  "download_filename": "mosaic_search-0.1.0.tar.gz",
+  "download_time": "2026-03-07T08:29:11.171276",
+  "package_url": "https://pypi.org/project/mosaic-search/"
+}

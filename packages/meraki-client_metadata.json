@@ -1,0 +1,11 @@
+{
+  "name": "meraki-client",
+  "version": "0.11.0",
+  "summary": "Python client for Meraki Dashboard API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meraki_client-0.11.0.tar.gz",
+  "download_time": "2026-03-07T08:29:03.310973",
+  "package_url": "https://pypi.org/project/meraki-client/"
+}

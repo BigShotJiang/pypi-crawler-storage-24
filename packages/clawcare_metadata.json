@@ -1,0 +1,11 @@
+{
+  "name": "clawcare",
+  "version": "0.9.0",
+  "summary": "Guardian engine for agentic-tool extension supply-chain security",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clawcare-0.9.0.tar.gz",
+  "download_time": "2026-03-07T08:29:00.708685",
+  "package_url": "https://pypi.org/project/clawcare/"
+}
