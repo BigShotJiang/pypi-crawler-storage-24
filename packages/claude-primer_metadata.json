@@ -1,11 +1,11 @@
 {
   "name": "claude-primer",
-  "version": "1.3.4",
+  "version": "1.4.0",
   "summary": "Prime your repo for Claude Code with context-aware knowledge architecture",
   "author": "Ronaldo Lima, Breno Lima",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_primer-1.3.4.tar.gz",
-  "download_time": "2026-03-07T18:57:39.359318",
+  "download_filename": "claude_primer-1.4.0.tar.gz",
+  "download_time": "2026-03-07T19:53:52.804656",
   "package_url": "https://pypi.org/project/claude-primer/"
 }

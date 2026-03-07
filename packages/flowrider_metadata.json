@@ -1,0 +1,11 @@
+{
+  "name": "flowrider",
+  "version": "0.2.0",
+  "summary": "High-performance PyTorch-compatible streaming dataset with distributed caching for on-the-fly remote dataset fetching",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/fpgaminer/flowrider",
+  "download_filename": "flowrider-0.2.0.tar.gz",
+  "download_time": "2026-03-07T19:53:49.658548",
+  "package_url": "https://pypi.org/project/flowrider/"
+}

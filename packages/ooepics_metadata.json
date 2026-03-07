@@ -1,0 +1,11 @@
+{
+  "name": "ooepics",
+  "version": "2.0.1",
+  "summary": "Python framework for soft IOC.",
+  "author": "Zheqiao Geng",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/aaqiao/ooEpicsPy",
+  "download_filename": "ooepics-2.0.1.tar.gz",
+  "download_time": "2026-03-07T19:53:59.691039",
+  "package_url": "https://pypi.org/project/ooepics/"
+}

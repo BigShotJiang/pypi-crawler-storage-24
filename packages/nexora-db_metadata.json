@@ -1,0 +1,11 @@
+{
+  "name": "nexora-db",
+  "version": "0.2.5",
+  "summary": "Shared database layer for Nexora monitoring platform",
+  "author": "Derradji Senani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexora_db-0.2.5.tar.gz",
+  "download_time": "2026-03-07T19:54:16.533936",
+  "package_url": "https://pypi.org/project/nexora-db/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qview",
+  "version": "8.1.1",
+  "summary": "QView visualization and monitoring",
+  "author": "Quantum Leaps",
+  "license": "GPL/commercial",
+  "home_page": "https://www.state-machine.com/qtools/qview.html",
+  "download_filename": "qview-8.1.1.tar.gz",
+  "download_time": "2026-03-07T19:53:50.177291",
+  "package_url": "https://pypi.org/project/qview/"
+}

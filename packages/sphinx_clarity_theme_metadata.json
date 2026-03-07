@@ -1,0 +1,11 @@
+{
+  "name": "sphinx_clarity_theme",
+  "version": "1.2.0",
+  "summary": "A clean and professional documentation theme for Sphinx. Modern design with light/dark mode, responsive layout, and beautiful typography.",
+  "author": "Documatt.com, s.r.o.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_clarity_theme-1.2.0.tar.gz",
+  "download_time": "2026-03-07T19:54:00.779744",
+  "package_url": "https://pypi.org/project/sphinx_clarity_theme/"
+}

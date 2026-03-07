@@ -1,0 +1,11 @@
+{
+  "name": "json-castle",
+  "version": "0.2.0",
+  "summary": "Built on top of native json module for deserialization from JSON to data classes with additional support for nested objects with variables, environment variables, and post-load overrides.",
+  "author": "Marian Pekár",
+  "license": "MIT",
+  "home_page": "https://github.com/marianpekar/json-castle",
+  "download_filename": "json_castle-0.2.0.tar.gz",
+  "download_time": "2026-03-07T19:54:18.083279",
+  "package_url": "https://pypi.org/project/json-castle/"
+}

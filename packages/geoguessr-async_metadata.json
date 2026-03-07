@@ -1,0 +1,11 @@
+{
+  "name": "geoguessr-async",
+  "version": "2.0.2",
+  "summary": "An asynchronous API integrator for Geoguessr",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geoguessr_async-2.0.2.tar.gz",
+  "download_time": "2026-03-07T19:53:55.457066",
+  "package_url": "https://pypi.org/project/geoguessr-async/"
+}

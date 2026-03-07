@@ -1,0 +1,11 @@
+{
+  "name": "bombahead-py",
+  "version": "0.1.1",
+  "summary": "Python SDK for Bombahead Bomberman bot competition",
+  "author": "n3moahead",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bombahead_py-0.1.1.tar.gz",
+  "download_time": "2026-03-07T19:53:44.975364",
+  "package_url": "https://pypi.org/project/bombahead-py/"
+}

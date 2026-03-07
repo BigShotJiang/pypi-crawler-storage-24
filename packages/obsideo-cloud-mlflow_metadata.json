@@ -1,0 +1,11 @@
+{
+  "name": "obsideo-cloud-mlflow",
+  "version": "0.1.0b1",
+  "summary": "MLflow artifact store plugin — stores artifacts with mlvault encrypted cloud storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "obsideo_cloud_mlflow-0.1.0b1-py3-none-any.whl",
+  "download_time": "2026-03-07T19:54:13.396234",
+  "package_url": "https://pypi.org/project/obsideo-cloud-mlflow/"
+}

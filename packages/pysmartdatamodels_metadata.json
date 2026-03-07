@@ -1,0 +1,11 @@
+{
+  "name": "pysmartdatamodels",
+  "version": "0.8.0.9",
+  "summary": "Open-licensed and free data models to model your digital twins, share data in data spaces or develop smart applications",
+  "author": "Alberto Abella",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysmartdatamodels-0.8.0.9.tar.gz",
+  "download_time": "2026-03-07T19:53:53.896549",
+  "package_url": "https://pypi.org/project/pysmartdatamodels/"
+}

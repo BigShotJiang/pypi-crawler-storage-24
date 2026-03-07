@@ -1,0 +1,11 @@
+{
+  "name": "yua",
+  "version": "0.2.0",
+  "summary": "YUA AI SDK — OpenAI-compatible Python client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yua-0.2.0.tar.gz",
+  "download_time": "2026-03-07T19:53:47.575995",
+  "package_url": "https://pypi.org/project/yua/"
+}
