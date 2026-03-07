@@ -1,0 +1,11 @@
+{
+  "name": "hybgensea",
+  "version": "0.1.1",
+  "summary": "Wrapper for the Hybrid Genetic Search algorithm for Capacitated Vehicle Routing Problems (HGS-CVRP)",
+  "author": "Changhyun Kwon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hybgensea-0.1.1.tar.gz",
+  "download_time": "2026-03-07T10:48:08.414306",
+  "package_url": "https://pypi.org/project/hybgensea/"
+}

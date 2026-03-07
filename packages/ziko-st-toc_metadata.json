@@ -1,0 +1,11 @@
+{
+  "name": "ziko-st-toc",
+  "version": "0.4.0",
+  "summary": "Zikojs based Interactive Table of Contents component for Streamlit.",
+  "author": "zakaria elalaoui",
+  "license": null,
+  "home_page": "https://ziko-st-toc.streamlit.app/",
+  "download_filename": "ziko_st_toc-0.4.0.tar.gz",
+  "download_time": "2026-03-07T10:47:31.020974",
+  "package_url": "https://pypi.org/project/ziko-st-toc/"
+}

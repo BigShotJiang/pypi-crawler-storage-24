@@ -1,0 +1,11 @@
+{
+  "name": "lobster-genomics",
+  "version": "1.1.403",
+  "summary": "Genomics agent for Lobster AI (VCF, PLINK, GWAS, variant annotation)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lobster_genomics-1.1.403.tar.gz",
+  "download_time": "2026-03-07T10:47:47.149552",
+  "package_url": "https://pypi.org/project/lobster-genomics/"
+}

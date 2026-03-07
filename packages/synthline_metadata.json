@@ -1,0 +1,11 @@
+{
+  "name": "synthline",
+  "version": "0.2.0",
+  "summary": "Constrained LLM-based Synthetic Data Generation",
+  "author": "Abdelkarim El Hajjami",
+  "license": null,
+  "home_page": null,
+  "download_filename": "synthline-0.2.0.tar.gz",
+  "download_time": "2026-03-07T10:47:28.831022",
+  "package_url": "https://pypi.org/project/synthline/"
+}

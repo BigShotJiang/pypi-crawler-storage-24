@@ -1,0 +1,11 @@
+{
+  "name": "code-atlas-mcp",
+  "version": "0.3.1",
+  "summary": "A code intelligence graph that gives AI coding agents deep, token-efficient understanding of your codebase.",
+  "author": "SerPeter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "code_atlas_mcp-0.3.1.tar.gz",
+  "download_time": "2026-03-07T10:47:27.760395",
+  "package_url": "https://pypi.org/project/code-atlas-mcp/"
+}

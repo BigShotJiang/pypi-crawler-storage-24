@@ -1,0 +1,11 @@
+{
+  "name": "polar-python",
+  "version": "1.0.0",
+  "summary": "polar-python is a Python library for connecting to Polar devices via Bluetooth Low Energy (BLE) using Bleak. It allows querying device capabilities (e.g., ECG, ACC, PPG), exploring configurable options, and streaming parsed data through callback functions.",
+  "author": "zHElEARN",
+  "license": "MIT",
+  "home_page": "https://github.com/zHElEARN/polar-python",
+  "download_filename": "polar_python-1.0.0.tar.gz",
+  "download_time": "2026-03-07T10:48:08.949075",
+  "package_url": "https://pypi.org/project/polar-python/"
+}

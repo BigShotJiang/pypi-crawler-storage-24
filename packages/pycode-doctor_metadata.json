@@ -1,0 +1,11 @@
+{
+  "name": "pycode-doctor",
+  "version": "0.1.0",
+  "summary": "Fast, local-first CLI that gives your Python codebase a 0-100 health score",
+  "author": "Nabeel S. Qureshi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycode_doctor-0.1.0.tar.gz",
+  "download_time": "2026-03-07T10:47:37.450066",
+  "package_url": "https://pypi.org/project/pycode-doctor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cad2scad",
+  "version": "0.2.0",
+  "summary": "Convert CAD/mesh files to parameterized OpenSCAD .scad with physics-aware Customizer sliders",
+  "author": "Joel Ajitesh Varun",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cad2scad-0.2.0.tar.gz",
+  "download_time": "2026-03-07T10:48:10.019422",
+  "package_url": "https://pypi.org/project/cad2scad/"
+}

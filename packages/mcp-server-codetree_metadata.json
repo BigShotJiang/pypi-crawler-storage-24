@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-codetree",
+  "version": "0.1.0",
+  "summary": "MCP server that gives coding agents structured code understanding via tree-sitter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_codetree-0.1.0.tar.gz",
+  "download_time": "2026-03-07T10:47:57.000279",
+  "package_url": "https://pypi.org/project/mcp-server-codetree/"
+}

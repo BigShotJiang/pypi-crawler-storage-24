@@ -1,0 +1,11 @@
+{
+  "name": "binpan",
+  "version": "0.9.2",
+  "summary": "Binance API wrapper with backtesting tools.",
+  "author": "Fernando Alfonso",
+  "license": "MIT",
+  "home_page": "https://github.com/nand0san/binpan_studio",
+  "download_filename": "binpan-0.9.2.tar.gz",
+  "download_time": "2026-03-07T10:48:03.513430",
+  "package_url": "https://pypi.org/project/binpan/"
+}

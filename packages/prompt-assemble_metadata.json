@@ -1,0 +1,11 @@
+{
+  "name": "prompt-assemble",
+  "version": "0.2.2",
+  "summary": "A lightweight prompt assembly library using sigil-based substitution with no template logic",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prompt_assemble-0.2.2.tar.gz",
+  "download_time": "2026-03-07T10:47:35.840232",
+  "package_url": "https://pypi.org/project/prompt-assemble/"
+}
