@@ -1,0 +1,11 @@
+{
+  "name": "imagecodecs-numcodecs",
+  "version": "2026.3.6",
+  "summary": "Numcodecs entry points for the imagecodecs package",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "imagecodecs_numcodecs-2026.3.6-py3-none-any.whl",
+  "download_time": "2026-03-07T18:30:13.789745",
+  "package_url": "https://pypi.org/project/imagecodecs-numcodecs/"
+}

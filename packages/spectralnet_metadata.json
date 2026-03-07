@@ -1,0 +1,11 @@
+{
+  "name": "spectralnet",
+  "version": "1.0.1",
+  "summary": "Spectral Clustering Using Deep Neural Networks",
+  "author": "Amitai",
+  "license": null,
+  "home_page": "https://github.com/shaham-lab/SpectralNet.git",
+  "download_filename": "spectralnet-1.0.1.tar.gz",
+  "download_time": "2026-03-07T18:29:39.873303",
+  "package_url": "https://pypi.org/project/spectralnet/"
+}

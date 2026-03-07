@@ -1,0 +1,11 @@
+{
+  "name": "castai-mcp-server",
+  "version": "0.2.8",
+  "summary": "Model Context Protocol server for CAST.AI - manage Kubernetes clusters via natural language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "castai_mcp_server-0.2.8.tar.gz",
+  "download_time": "2026-03-07T18:30:14.839433",
+  "package_url": "https://pypi.org/project/castai-mcp-server/"
+}

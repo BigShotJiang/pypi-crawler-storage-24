@@ -1,0 +1,11 @@
+{
+  "name": "three-dice-words",
+  "version": "0.1.0",
+  "summary": "Generate human-readable 3-word identifiers from the EFF long Diceware wordlist",
+  "author": "Tim Cotten",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "three_dice_words-0.1.0.tar.gz",
+  "download_time": "2026-03-07T18:29:57.088709",
+  "package_url": "https://pypi.org/project/three-dice-words/"
+}

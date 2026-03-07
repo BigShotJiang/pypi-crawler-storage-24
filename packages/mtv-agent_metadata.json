@@ -1,11 +1,11 @@
 {
   "name": "mtv-agent",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "AI agent for MTV/Forklift VM migrations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mtv_agent-0.1.0.tar.gz",
-  "download_time": "2026-03-07T11:41:39.680281",
+  "download_filename": "mtv_agent-0.1.3.tar.gz",
+  "download_time": "2026-03-07T18:30:15.362955",
   "package_url": "https://pypi.org/project/mtv-agent/"
 }

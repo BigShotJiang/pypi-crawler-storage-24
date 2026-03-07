@@ -1,0 +1,11 @@
+{
+  "name": "ggxs",
+  "version": "1.4b3",
+  "summary": "GoodGame Empire websocket engine.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ggxs-1.4b3.tar.gz",
+  "download_time": "2026-03-07T18:30:18.477395",
+  "package_url": "https://pypi.org/project/ggxs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bitcoin-mcp",
+  "version": "0.2.2",
+  "summary": "MCP server for Bitcoin Core/Knots nodes — 32 tools for AI agents",
+  "author": "Bortlesboat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitcoin_mcp-0.2.2.tar.gz",
+  "download_time": "2026-03-07T18:29:40.915538",
+  "package_url": "https://pypi.org/project/bitcoin-mcp/"
+}

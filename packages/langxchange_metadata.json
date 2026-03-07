@@ -1,0 +1,11 @@
+{
+  "name": "langxchange",
+  "version": "0.7.0",
+  "summary": "AI Framework for fast integration of Private Data and LLM, Agent Ochestration Platform",
+  "author": "Timothy Owusu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langxchange-0.7.0.tar.gz",
+  "download_time": "2026-03-07T18:30:03.334390",
+  "package_url": "https://pypi.org/project/langxchange/"
+}

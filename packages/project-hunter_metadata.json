@@ -1,0 +1,11 @@
+{
+  "name": "project-hunter",
+  "version": "0.1.2",
+  "summary": "Flutter 工具类 App 点击无响应 Bug 猎手 — 自动搜索 GitHub 上的 UI 交互 bug",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "project_hunter-0.1.2.tar.gz",
+  "download_time": "2026-03-07T18:30:07.520835",
+  "package_url": "https://pypi.org/project/project-hunter/"
+}

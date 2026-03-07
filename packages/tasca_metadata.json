@@ -1,0 +1,11 @@
+{
+  "name": "tasca",
+  "version": "0.1.24",
+  "summary": "Tasca - A discussion table service for coding agents",
+  "author": "Tasca Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tasca-0.1.24-py3-none-any.whl",
+  "download_time": "2026-03-07T18:30:17.440270",
+  "package_url": "https://pypi.org/project/tasca/"
+}

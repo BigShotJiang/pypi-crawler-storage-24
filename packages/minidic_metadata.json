@@ -1,11 +1,11 @@
 {
   "name": "minidic",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Tiny macOS dictation tool on your menubar",
   "author": "Yejun Su",
   "license": null,
   "home_page": null,
-  "download_filename": "minidic-1.0.5.tar.gz",
-  "download_time": "2026-03-07T17:44:48.400721",
+  "download_filename": "minidic-1.0.6.tar.gz",
+  "download_time": "2026-03-07T18:29:58.646601",
   "package_url": "https://pypi.org/project/minidic/"
 }
