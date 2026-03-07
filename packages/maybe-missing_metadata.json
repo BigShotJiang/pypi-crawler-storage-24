@@ -1,0 +1,11 @@
+{
+  "name": "maybe-missing",
+  "version": "0.1",
+  "summary": "A tiny typed sentinel for distinguishing None from not provided",
+  "author": "Alexander Tikhonov",
+  "license": null,
+  "home_page": "https://github.com/Fatal1ty/maybe-missing",
+  "download_filename": "maybe_missing-0.1.tar.gz",
+  "download_time": "2026-03-07T21:53:46.318633",
+  "package_url": "https://pypi.org/project/maybe-missing/"
+}

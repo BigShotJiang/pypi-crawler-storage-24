@@ -1,0 +1,11 @@
+{
+  "name": "pyseventeentrack",
+  "version": "1.1.2",
+  "summary": "A Simple Python API for 17track.net",
+  "author": "Shai Ungar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyseventeentrack-1.1.2.tar.gz",
+  "download_time": "2026-03-07T21:53:28.532670",
+  "package_url": "https://pypi.org/project/pyseventeentrack/"
+}

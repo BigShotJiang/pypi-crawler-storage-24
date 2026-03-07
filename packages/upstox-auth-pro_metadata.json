@@ -1,11 +1,11 @@
 {
   "name": "upstox-auth-pro",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "Automation library for Upstox login and token management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "upstox_auth_pro-1.0.2.tar.gz",
-  "download_time": "2026-03-07T21:42:24.850137",
+  "download_filename": "upstox_auth_pro-1.1.0.tar.gz",
+  "download_time": "2026-03-07T21:53:54.184901",
   "package_url": "https://pypi.org/project/upstox-auth-pro/"
 }

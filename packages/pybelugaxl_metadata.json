@@ -1,0 +1,11 @@
+{
+  "name": "pybelugaxl",
+  "version": "0.1.6",
+  "summary": "A Python library to track the Airbus BelugaXL flights in real time using FlightRadar24",
+  "author": "TGA25dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybelugaxl-0.1.6.tar.gz",
+  "download_time": "2026-03-07T21:53:32.227928",
+  "package_url": "https://pypi.org/project/pybelugaxl/"
+}

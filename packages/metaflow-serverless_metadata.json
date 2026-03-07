@@ -1,0 +1,11 @@
+{
+  "name": "metaflow-serverless",
+  "version": "0.2.0",
+  "summary": "Run the Metaflow metadata service on serverless Postgres — no always-on servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaflow_serverless-0.2.0.tar.gz",
+  "download_time": "2026-03-07T21:53:42.993312",
+  "package_url": "https://pypi.org/project/metaflow-serverless/"
+}

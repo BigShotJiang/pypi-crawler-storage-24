@@ -1,0 +1,11 @@
+{
+  "name": "perpetual-compute",
+  "version": "0.1.0",
+  "summary": "Signal workload completion from any Perpetual Compute container",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "perpetual_compute-0.1.0.tar.gz",
+  "download_time": "2026-03-07T21:53:43.511207",
+  "package_url": "https://pypi.org/project/perpetual-compute/"
+}

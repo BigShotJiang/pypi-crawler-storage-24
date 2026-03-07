@@ -1,11 +1,11 @@
 {
   "name": "color-palette-extractor",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Extract dominant colors, generate PNG palettes, JSON exports, and name colors using custom palettes.",
   "author": "Youssef Helioui",
-  "license": "MIT License\n        \n        Copyright (c) 2026\n        ",
+  "license": null,
   "home_page": null,
-  "download_filename": "color_palette_extractor-1.2.0.tar.gz",
-  "download_time": "2026-03-07T17:17:32.739772",
+  "download_filename": "color_palette_extractor-1.2.1.tar.gz",
+  "download_time": "2026-03-07T21:53:51.610894",
   "package_url": "https://pypi.org/project/color-palette-extractor/"
 }

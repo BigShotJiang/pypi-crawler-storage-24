@@ -1,11 +1,11 @@
 {
   "name": "gloggur",
-  "version": "0.2.15",
+  "version": "0.2.16",
   "summary": "Symbol-level, incremental codebase indexer for semantic search and precedent retrieval.",
   "author": "Gloggur Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "gloggur-0.2.15.tar.gz",
-  "download_time": "2026-03-07T18:58:06.630787",
+  "download_filename": "gloggur-0.2.16.tar.gz",
+  "download_time": "2026-03-07T21:53:39.250570",
   "package_url": "https://pypi.org/project/gloggur/"
 }
