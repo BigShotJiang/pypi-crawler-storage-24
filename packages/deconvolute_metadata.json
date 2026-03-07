@@ -1,0 +1,11 @@
+{
+  "name": "deconvolute",
+  "version": "0.1.1",
+  "summary": "MCP firewall for AI Agents. Blocks rug pull attacks, tool poisoning, and prompt injection via schema integrity checks and policy-as-code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deconvolute-0.1.1.tar.gz",
+  "download_time": "2026-03-07T20:47:12.518706",
+  "package_url": "https://pypi.org/project/deconvolute/"
+}

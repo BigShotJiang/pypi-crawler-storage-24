@@ -1,0 +1,11 @@
+{
+  "name": "interop-router",
+  "version": "0.1.12",
+  "summary": "Interoperate between AI providers using the OpenAI Responses API as a common interface.",
+  "author": "David Koleczek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "interop_router-0.1.12.tar.gz",
+  "download_time": "2026-03-07T20:46:51.782127",
+  "package_url": "https://pypi.org/project/interop-router/"
+}

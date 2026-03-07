@@ -1,0 +1,11 @@
+{
+  "name": "myalgo-core",
+  "version": "0.1.3",
+  "summary": "ML algorithms with C++ backends",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "myalgo_core-0.1.3-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-07T20:46:52.969528",
+  "package_url": "https://pypi.org/project/myalgo-core/"
+}

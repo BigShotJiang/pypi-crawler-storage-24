@@ -1,0 +1,11 @@
+{
+  "name": "canopy-mcp",
+  "version": "0.7.0",
+  "summary": "An MCP proxy server that allows you to write and enforce policies on MCP tool flows",
+  "author": "Josiah Bruner",
+  "license": "Canopy is available for personal use or non-profits. A license is needed for commercial use.",
+  "home_page": "https://github.com/riskytrees/canopy",
+  "download_filename": "canopy_mcp-0.7.0.tar.gz",
+  "download_time": "2026-03-07T20:47:01.450779",
+  "package_url": "https://pypi.org/project/canopy-mcp/"
+}

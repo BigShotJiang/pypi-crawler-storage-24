@@ -1,0 +1,11 @@
+{
+  "name": "qvncwidget6",
+  "version": "0.1.1",
+  "summary": "VNC Qt Widget for Python using PyQt6",
+  "author": "zocker_160",
+  "license": "GPLv3+",
+  "home_page": null,
+  "download_filename": "qvncwidget6-0.1.1.tar.gz",
+  "download_time": "2026-03-07T20:46:55.719853",
+  "package_url": "https://pypi.org/project/qvncwidget6/"
+}

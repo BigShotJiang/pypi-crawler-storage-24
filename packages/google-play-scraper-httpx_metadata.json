@@ -1,0 +1,11 @@
+{
+  "name": "google-play-scraper-httpx",
+  "version": "0.1.2",
+  "summary": "A fast, modern Google Play Store scraper using httpx and selectolax",
+  "author": "mdrakibhasanbd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_play_scraper_httpx-0.1.2.tar.gz",
+  "download_time": "2026-03-07T20:47:33.844045",
+  "package_url": "https://pypi.org/project/google-play-scraper-httpx/"
+}

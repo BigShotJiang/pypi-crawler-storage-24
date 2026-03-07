@@ -1,0 +1,11 @@
+{
+  "name": "llm-council-core",
+  "version": "0.24.29",
+  "summary": "Multi-LLM council system with peer review and synthesis",
+  "author": "Amiable",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_council_core-0.24.29.tar.gz",
+  "download_time": "2026-03-07T20:46:59.307268",
+  "package_url": "https://pypi.org/project/llm-council-core/"
+}

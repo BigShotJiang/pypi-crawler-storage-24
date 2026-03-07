@@ -1,11 +1,11 @@
 {
   "name": "napsack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "NAPsack records and aggregates your computer use — screenshots plus input events (click, keypress, scroll, cursor move). It groups activity into event bursts and uses a VLM pipeline to generate human-readable captions describing what happened.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "napsack-0.1.0.tar.gz",
-  "download_time": "2026-03-07T20:19:20.882180",
+  "download_filename": "napsack-0.1.1.tar.gz",
+  "download_time": "2026-03-07T20:47:21.695468",
   "package_url": "https://pypi.org/project/napsack/"
 }
