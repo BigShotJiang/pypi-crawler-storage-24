@@ -1,0 +1,11 @@
+{
+  "name": "azure-functions-openapi",
+  "version": "0.12.0",
+  "summary": "OpenAPI (Swagger) integration for Azure Functions Python v2 programming model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "azure_functions_openapi-0.12.0.tar.gz",
+  "download_time": "2026-03-08T15:45:24.862284",
+  "package_url": "https://pypi.org/project/azure-functions-openapi/"
+}

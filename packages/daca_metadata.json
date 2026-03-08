@@ -1,0 +1,11 @@
+{
+  "name": "daca",
+  "version": "0.1.3",
+  "summary": "DaVinci Accelerated Compute Architecture - Ascend NPU Platform Library",
+  "author": "DACA Contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/changcheng967/DACA",
+  "download_filename": "daca-0.1.3.tar.gz",
+  "download_time": "2026-03-08T15:46:08.834101",
+  "package_url": "https://pypi.org/project/daca/"
+}

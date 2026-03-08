@@ -1,11 +1,11 @@
 {
   "name": "wowbits-cli",
-  "version": "0.1.0a8",
+  "version": "0.1.0b0",
   "summary": "WowBits AI Platform CLI - Manage connectors and integrations for AI workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wowbits_cli-0.1.0a8.tar.gz",
-  "download_time": "2026-03-07T13:26:12.125179",
+  "download_filename": "wowbits_cli-0.1.0b0.tar.gz",
+  "download_time": "2026-03-08T15:45:37.759526",
   "package_url": "https://pypi.org/project/wowbits-cli/"
 }

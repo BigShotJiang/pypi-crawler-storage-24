@@ -1,0 +1,11 @@
+{
+  "name": "JoBase",
+  "version": "3.2",
+  "summary": "JoBase is a fast Python game library for beginner coders",
+  "author": "Reuben Grey Ford",
+  "license": null,
+  "home_page": "https://jobase.org",
+  "download_filename": "jobase-3.2-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-08T15:46:07.555441",
+  "package_url": "https://pypi.org/project/JoBase/"
+}

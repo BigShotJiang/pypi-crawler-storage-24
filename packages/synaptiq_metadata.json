@@ -1,0 +1,11 @@
+{
+  "name": "synaptiq",
+  "version": "0.4.0",
+  "summary": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.",
+  "author": "Stevica Canadi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "synaptiq-0.4.0.tar.gz",
+  "download_time": "2026-03-08T15:45:28.035388",
+  "package_url": "https://pypi.org/project/synaptiq/"
+}

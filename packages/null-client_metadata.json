@@ -1,11 +1,11 @@
 {
   "name": "null-client",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "summary": "Python client for the null content-addressable storage system",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "null_client-0.14.0.tar.gz",
-  "download_time": "2026-03-08T11:43:30.696159",
+  "download_filename": "null_client-0.15.0.tar.gz",
+  "download_time": "2026-03-08T15:45:40.671353",
   "package_url": "https://pypi.org/project/null-client/"
 }

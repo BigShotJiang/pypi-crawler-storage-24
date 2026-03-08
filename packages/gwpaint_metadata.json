@@ -1,0 +1,11 @@
+{
+  "name": "gwpaint",
+  "version": "0.1.0",
+  "summary": "Convert gravitational-wave spectrograms into paint-by-numbers grids for visualization and printable posters.",
+  "author": "Narenraju Nagarajan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwpaint-0.1.0.tar.gz",
+  "download_time": "2026-03-08T15:45:45.197875",
+  "package_url": "https://pypi.org/project/gwpaint/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flet-android-notifications",
+  "version": "0.7.3",
+  "summary": "Native local notifications for Flet apps (Android)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_android_notifications-0.7.3.tar.gz",
+  "download_time": "2026-03-08T15:45:22.346204",
+  "package_url": "https://pypi.org/project/flet-android-notifications/"
+}

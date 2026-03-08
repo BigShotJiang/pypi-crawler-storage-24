@@ -1,0 +1,11 @@
+{
+  "name": "georesistpy",
+  "version": "0.2.2",
+  "summary": "Python library for Electrical Resistivity Tomography (ERT) data processing with Web UI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "georesistpy-0.2.2.tar.gz",
+  "download_time": "2026-03-08T15:46:18.497515",
+  "package_url": "https://pypi.org/project/georesistpy/"
+}
