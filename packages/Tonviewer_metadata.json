@@ -1,0 +1,11 @@
+{
+  "name": "Tonviewer",
+  "version": "1.1.9",
+  "summary": "Tonviewer is a Python library that allows you to fetch ( real-time balance of wallet , transactions , price ) data .",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tonviewer-1.1.9.tar.gz",
+  "download_time": "2026-03-08T20:21:10.249851",
+  "package_url": "https://pypi.org/project/Tonviewer/"
+}

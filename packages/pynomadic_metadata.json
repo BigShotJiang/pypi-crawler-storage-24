@@ -1,11 +1,11 @@
 {
   "name": "pynomadic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "一个python工具包,包括自动配置系统,常用工具包,控制台输出系统,日志系统,命名系统,缓存系统,返回值封装类",
   "author": "nomadicooer",
   "license": null,
   "home_page": null,
-  "download_filename": "pynomadic-0.1.0.tar.gz",
-  "download_time": "2026-03-08T10:20:06.771826",
+  "download_filename": "pynomadic-0.1.1.tar.gz",
+  "download_time": "2026-03-08T20:21:16.417137",
   "package_url": "https://pypi.org/project/pynomadic/"
 }

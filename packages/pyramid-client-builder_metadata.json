@@ -1,0 +1,11 @@
+{
+  "name": "pyramid-client-builder",
+  "version": "0.5.1",
+  "summary": "Introspect Pyramid views and generate an HTTP client for the app",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyramid_client_builder-0.5.1.tar.gz",
+  "download_time": "2026-03-08T20:21:31.457128",
+  "package_url": "https://pypi.org/project/pyramid-client-builder/"
+}

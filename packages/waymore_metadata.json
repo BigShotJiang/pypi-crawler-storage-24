@@ -1,0 +1,11 @@
+{
+  "name": "waymore",
+  "version": "8.7",
+  "summary": "Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal & Intelligence X!",
+  "author": "xnl-h4ck3r",
+  "license": "MIT",
+  "home_page": "https://github.com/xnl-h4ck3r/waymore",
+  "download_filename": "waymore-8.7.tar.gz",
+  "download_time": "2026-03-08T20:21:06.640458",
+  "package_url": "https://pypi.org/project/waymore/"
+}

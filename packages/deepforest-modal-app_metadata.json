@@ -1,0 +1,11 @@
+{
+  "name": "deepforest-modal-app",
+  "version": "0.2.0",
+  "summary": "Modal app for training and inference of DeepForest models",
+  "author": "Martí Bosch",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "deepforest_modal_app-0.2.0.tar.gz",
+  "download_time": "2026-03-08T20:21:36.648124",
+  "package_url": "https://pypi.org/project/deepforest-modal-app/"
+}

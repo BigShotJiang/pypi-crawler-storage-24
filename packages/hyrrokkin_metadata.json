@@ -1,0 +1,11 @@
+{
+  "name": "hyrrokkin",
+  "version": "0.1.6",
+  "summary": "A lightweight asynchronous DAG execution engine for Python and other languages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyrrokkin-0.1.6.tar.gz",
+  "download_time": "2026-03-08T20:21:48.187390",
+  "package_url": "https://pypi.org/project/hyrrokkin/"
+}

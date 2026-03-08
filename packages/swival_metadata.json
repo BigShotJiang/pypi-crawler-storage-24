@@ -1,11 +1,11 @@
 {
   "name": "swival",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "A small, powerful CLI coding agent for open AI models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "swival-0.1.18.tar.gz",
-  "download_time": "2026-03-08T19:22:52.788754",
+  "download_filename": "swival-0.1.19.tar.gz",
+  "download_time": "2026-03-08T20:21:07.158472",
   "package_url": "https://pypi.org/project/swival/"
 }

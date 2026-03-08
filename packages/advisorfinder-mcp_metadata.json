@@ -1,0 +1,11 @@
+{
+  "name": "advisorfinder-mcp",
+  "version": "1.1.0",
+  "summary": "MCP server for querying SEC-registered financial advisor data from IAPD and FINRA BrokerCheck",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "advisorfinder_mcp-1.1.0.tar.gz",
+  "download_time": "2026-03-08T20:21:05.059937",
+  "package_url": "https://pypi.org/project/advisorfinder-mcp/"
+}

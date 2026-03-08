@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-app-custom-tunnel-builder",
+  "version": "0.2.1",
+  "summary": "Nautobot app to build IPsec tunnels on Cisco IOS-XE devices",
+  "author": "NRTC Ops",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_app_custom_tunnel_builder-0.2.1.tar.gz",
+  "download_time": "2026-03-08T20:21:05.593306",
+  "package_url": "https://pypi.org/project/nautobot-app-custom-tunnel-builder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slingsync",
+  "version": "0.1.0",
+  "summary": "Sync Slack Lists into Things3 with two-way completion sync",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slingsync-0.1.0.tar.gz",
+  "download_time": "2026-03-08T20:21:12.812988",
+  "package_url": "https://pypi.org/project/slingsync/"
+}

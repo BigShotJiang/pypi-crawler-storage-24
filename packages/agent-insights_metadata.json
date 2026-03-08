@@ -1,0 +1,11 @@
+{
+  "name": "agent-insights",
+  "version": "1.2.5",
+  "summary": "Deep insights into every AI agent session",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_insights-1.2.5.tar.gz",
+  "download_time": "2026-03-08T20:21:39.242101",
+  "package_url": "https://pypi.org/project/agent-insights/"
+}

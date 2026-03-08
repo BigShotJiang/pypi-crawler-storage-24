@@ -1,0 +1,11 @@
+{
+  "name": "rampart",
+  "version": "0.2.0",
+  "summary": "A runtime that makes LLM agents production-safe by default.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rampart-0.2.0.tar.gz",
+  "download_time": "2026-03-08T20:21:40.819647",
+  "package_url": "https://pypi.org/project/rampart/"
+}

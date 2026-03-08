@@ -1,0 +1,11 @@
+{
+  "name": "xnlinkfinder",
+  "version": "8.2",
+  "summary": "A python script to find endpoints from a URL, a file of URLs, a directory of files, a Burp XML file or a ZAP ASCII message file. It also gets potential parameters and a target specific wordlist.",
+  "author": "@xnl-h4ck3r",
+  "license": null,
+  "home_page": "https://github.com/xnl-h4ck3r/xnlLinkFinder",
+  "download_filename": "xnlinkfinder-8.2.tar.gz",
+  "download_time": "2026-03-08T20:21:30.432844",
+  "package_url": "https://pypi.org/project/xnlinkfinder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coinbase-agentkit-kevros",
+  "version": "0.1.8",
+  "summary": "Kevros governance ActionProvider for Coinbase AgentKit — verify actions, attest provenance, bind intents, check peer trust.",
+  "author": null,
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "coinbase_agentkit_kevros-0.1.8.tar.gz",
+  "download_time": "2026-03-08T20:21:45.557412",
+  "package_url": "https://pypi.org/project/coinbase-agentkit-kevros/"
+}
