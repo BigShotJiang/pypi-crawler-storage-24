@@ -1,11 +1,11 @@
 {
   "name": "pytest-elegant",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A pytest plugin that provides elegant, beautiful test output",
-  "author": "Einenlum",
+  "author": "einenlum",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_elegant-0.1.1.tar.gz",
-  "download_time": "2026-03-08T16:33:54.329960",
+  "download_filename": "pytest_elegant-0.1.2.tar.gz",
+  "download_time": "2026-03-08T17:00:30.127708",
   "package_url": "https://pypi.org/project/pytest-elegant/"
 }

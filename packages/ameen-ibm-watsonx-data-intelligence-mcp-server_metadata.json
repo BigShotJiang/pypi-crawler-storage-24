@@ -1,11 +1,11 @@
 {
   "name": "ameen-ibm-watsonx-data-intelligence-mcp-server",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "summary": "MCP Server implementation for IBM Data Intelligence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ameen_ibm_watsonx_data_intelligence_mcp_server-0.6.5.tar.gz",
-  "download_time": "2026-03-08T16:33:51.073262",
+  "download_filename": "ameen_ibm_watsonx_data_intelligence_mcp_server-0.6.6.tar.gz",
+  "download_time": "2026-03-08T17:00:36.917033",
   "package_url": "https://pypi.org/project/ameen-ibm-watsonx-data-intelligence-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "words-to-data",
+  "version": "0.1.2",
+  "summary": "Convert Legal Documents Into Diffable Data Structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "words_to_data-0.1.2.tar.gz",
+  "download_time": "2026-03-08T17:00:27.809917",
+  "package_url": "https://pypi.org/project/words-to-data/"
+}

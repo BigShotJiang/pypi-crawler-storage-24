@@ -1,0 +1,11 @@
+{
+  "name": "venn-abers",
+  "version": "1.5.1",
+  "summary": "Venn-ABERS calibration package",
+  "author": "Ivan Petej",
+  "license": "MIT",
+  "home_page": "https://github.com/ip200/venn-abers",
+  "download_filename": "venn_abers-1.5.1.tar.gz",
+  "download_time": "2026-03-08T17:00:17.212938",
+  "package_url": "https://pypi.org/project/venn-abers/"
+}

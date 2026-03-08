@@ -1,11 +1,11 @@
 {
   "name": "geoplotpy",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geoplotpy-0.1.2.tar.gz",
-  "download_time": "2026-03-08T16:34:01.475846",
+  "download_filename": "geoplotpy-0.1.4.tar.gz",
+  "download_time": "2026-03-08T17:00:14.978422",
   "package_url": "https://pypi.org/project/geoplotpy/"
 }

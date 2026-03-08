@@ -1,0 +1,11 @@
+{
+  "name": "jinkies-monitor",
+  "version": "0.1.0",
+  "summary": "Django infrastructure monitoring with Slack alerts via Jinkies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jinkies_monitor-0.1.0.tar.gz",
+  "download_time": "2026-03-08T17:00:12.735952",
+  "package_url": "https://pypi.org/project/jinkies-monitor/"
+}
