@@ -1,11 +1,11 @@
 {
   "name": "pypinch",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Schemaless binary serialization format without limitations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypinch-0.0.13.tar.gz",
-  "download_time": "2026-03-08T18:57:48.462730",
+  "download_filename": "pypinch-0.0.14.tar.gz",
+  "download_time": "2026-03-08T21:44:50.542594",
   "package_url": "https://pypi.org/project/pypinch/"
 }

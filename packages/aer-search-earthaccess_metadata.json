@@ -1,11 +1,11 @@
 {
   "name": "aer-search-earthaccess",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Polylith project for the earthaccess search plugin",
   "author": "Fran Dorr",
   "license": null,
   "home_page": null,
-  "download_filename": "aer_search_earthaccess-1.0.2.tar.gz",
-  "download_time": "2026-03-08T21:18:49.784296",
+  "download_filename": "aer_search_earthaccess-1.0.3.tar.gz",
+  "download_time": "2026-03-08T21:45:05.652371",
   "package_url": "https://pypi.org/project/aer-search-earthaccess/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastcausal",
+  "version": "0.1.2",
+  "summary": "Fast, easy-to-use causal discovery analysis tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastcausal-0.1.2.tar.gz",
+  "download_time": "2026-03-08T21:45:20.669650",
+  "package_url": "https://pypi.org/project/fastcausal/"
+}

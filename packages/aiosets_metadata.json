@@ -1,0 +1,11 @@
+{
+  "name": "aiosets",
+  "version": "1.1.0",
+  "summary": "Python Asyncio Set Up",
+  "author": "Muhammad Alphauddie",
+  "license": "BSD",
+  "home_page": "https://aiosets.tech/api/info/faq/",
+  "download_filename": "aiosets-1.1.0.tar.gz",
+  "download_time": "2026-03-08T21:45:11.883141",
+  "package_url": "https://pypi.org/project/aiosets/"
+}

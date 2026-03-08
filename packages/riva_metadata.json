@@ -1,11 +1,11 @@
 {
   "name": "riva",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "summary": "AI Agent Command Center - discover and monitor AI coding agents running on your machine",
   "author": "Riva Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "riva-0.3.9.tar.gz",
-  "download_time": "2026-03-08T10:20:08.342447",
+  "download_filename": "riva-0.3.10.tar.gz",
+  "download_time": "2026-03-08T21:45:06.684166",
   "package_url": "https://pypi.org/project/riva/"
 }

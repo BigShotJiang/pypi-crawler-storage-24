@@ -1,0 +1,11 @@
+{
+  "name": "sciexp2-expdef",
+  "version": "2.2.1",
+  "summary": "Experiment definition framework for SciExp²",
+  "author": "Lluís Vilanova",
+  "license": "GNU General Public License (GPL) version 3 or later",
+  "home_page": "https://sciexp2-expdef.readthedocs.io/",
+  "download_filename": "sciexp2_expdef-2.2.1.tar.gz",
+  "download_time": "2026-03-08T21:44:58.409380",
+  "package_url": "https://pypi.org/project/sciexp2-expdef/"
+}

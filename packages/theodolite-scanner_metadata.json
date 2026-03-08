@@ -1,0 +1,11 @@
+{
+  "name": "theodolite-scanner",
+  "version": "1.0.7",
+  "summary": "Scan cloud storage for sensitive data (PII, PHI, financial, credentials)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "theodolite_scanner-1.0.7.tar.gz",
+  "download_time": "2026-03-08T21:45:03.595901",
+  "package_url": "https://pypi.org/project/theodolite-scanner/"
+}
