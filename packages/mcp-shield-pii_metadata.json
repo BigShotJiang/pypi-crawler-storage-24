@@ -1,0 +1,11 @@
+{
+  "name": "mcp-shield-pii",
+  "version": "1.0.0",
+  "summary": "Intercepting gateway proxy for MCP clients/servers — real-time PII redaction with regex, NLP, and optional subinterpreter concurrency",
+  "author": "Goutam Adwant",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_shield_pii-1.0.0.tar.gz",
+  "download_time": "2026-03-08T18:26:50.788919",
+  "package_url": "https://pypi.org/project/mcp-shield-pii/"
+}

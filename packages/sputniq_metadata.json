@@ -1,0 +1,11 @@
+{
+  "name": "sputniq",
+  "version": "0.0.1",
+  "summary": "In-process async background task runner",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sputniq-0.0.1.tar.gz",
+  "download_time": "2026-03-08T18:26:45.605179",
+  "package_url": "https://pypi.org/project/sputniq/"
+}

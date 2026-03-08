@@ -1,0 +1,11 @@
+{
+  "name": "livef1",
+  "version": "1.1.105",
+  "summary": "A Python toolkit for seamless access to live and historical Formula 1 data.",
+  "author": "Göktuğ Öcal",
+  "license": "MIT",
+  "home_page": "https://github.com/GoktugOcal/LiveF1",
+  "download_filename": "livef1-1.1.105.tar.gz",
+  "download_time": "2026-03-08T18:26:24.932485",
+  "package_url": "https://pypi.org/project/livef1/"
+}

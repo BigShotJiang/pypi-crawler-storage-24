@@ -1,0 +1,11 @@
+{
+  "name": "llmlab-ai",
+  "version": "0.1.0",
+  "summary": "Unified LLM testing lab - test, compare, and interact with multiple AI providers through a single UI",
+  "author": "LLMLab Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmlab_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-08T18:26:46.629255",
+  "package_url": "https://pypi.org/project/llmlab-ai/"
+}

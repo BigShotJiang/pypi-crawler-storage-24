@@ -1,11 +1,11 @@
 {
   "name": "cppgolf",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "C++ multi-file merge & code golf / minifier tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cppgolf-0.1.5.tar.gz",
-  "download_time": "2026-03-08T15:46:16.574739",
+  "download_filename": "cppgolf-0.1.6.tar.gz",
+  "download_time": "2026-03-08T18:26:54.378924",
   "package_url": "https://pypi.org/project/cppgolf/"
 }

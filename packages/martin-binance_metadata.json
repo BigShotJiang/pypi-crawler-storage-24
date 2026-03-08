@@ -1,0 +1,11 @@
+{
+  "name": "martin-binance",
+  "version": "3.1.1",
+  "summary": "Free trading system for Binance SPOT API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "martin_binance-3.1.1.tar.gz",
+  "download_time": "2026-03-08T18:26:19.662380",
+  "package_url": "https://pypi.org/project/martin-binance/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyramid-introspector",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A library that helps introspect Pyramid views and extract their metadata and information.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyramid_introspector-0.2.0.tar.gz",
-  "download_time": "2026-03-08T17:48:42.675319",
+  "download_filename": "pyramid_introspector-0.2.1.tar.gz",
+  "download_time": "2026-03-08T18:26:57.983675",
   "package_url": "https://pypi.org/project/pyramid-introspector/"
 }

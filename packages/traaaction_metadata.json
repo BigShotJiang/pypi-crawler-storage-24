@@ -1,0 +1,11 @@
+{
+  "name": "traaaction",
+  "version": "1.2.0",
+  "summary": "Python SDK for Traaaction affiliate tracking and management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "traaaction-1.2.0.tar.gz",
+  "download_time": "2026-03-08T18:26:28.079417",
+  "package_url": "https://pypi.org/project/traaaction/"
+}

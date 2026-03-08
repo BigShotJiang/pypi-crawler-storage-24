@@ -1,0 +1,11 @@
+{
+  "name": "kobject",
+  "version": "0.7.2",
+  "summary": "Know your object is a attribute type checker",
+  "author": "Marco Sievers de Almeida Ximit Gaia",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kobject-0.7.2.tar.gz",
+  "download_time": "2026-03-08T18:26:38.357448",
+  "package_url": "https://pypi.org/project/kobject/"
+}

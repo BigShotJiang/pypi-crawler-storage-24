@@ -1,11 +1,11 @@
 {
   "name": "custom-warnings",
-  "version": "0.0.0",
-  "summary": "Add your description here",
-  "author": null,
-  "license": null,
+  "version": "1.0.0",
+  "summary": "Implements Custom Warnings",
+  "author": "JetVolcano",
+  "license": "# Nice Product License\n        \n        **Copyright &copy; 2026 JetVolcano**\n        \n        ## 1. Definitions\n        \n        - **Owner:**\\\n        &emsp;The owner(s) of the product.\n        - **Software:**\\\n        &emsp;The product.\n        - **Dependent:**\\\n        &emsp; Any product that depends on the Software.\n        \n        ## 2. Terms\n        \n        ### What's allowed\n        \n        - Using/Modifying the Software for private use.\n        - Modifying the Software to contribute to the Software\n        - Using the Software as a dependency (if applicable)\n        \n        ### What isn't allowed\n        \n        - Publishing/Distrubuting a copy of the Software without proof of the Owner's permission is prohibited.\n        - Selling the product or it's Dependent is prohibited\n        - Modifying the Software with malicious intent is prohibited.\n        ",
   "home_page": null,
-  "download_filename": "custom_warnings-0.0.0.tar.gz",
-  "download_time": "2026-03-08T05:15:23.765966",
+  "download_filename": "custom_warnings-1.0.0.tar.gz",
+  "download_time": "2026-03-08T18:26:25.989445",
   "package_url": "https://pypi.org/project/custom-warnings/"
 }

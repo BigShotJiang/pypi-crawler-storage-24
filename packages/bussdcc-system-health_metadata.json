@@ -1,11 +1,11 @@
 {
   "name": "bussdcc-system-health",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "summary": "bussdcc-system-health",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bussdcc_system_health-0.18.0.tar.gz",
-  "download_time": "2026-03-08T15:59:12.775290",
+  "download_filename": "bussdcc_system_health-0.18.1.tar.gz",
+  "download_time": "2026-03-08T18:26:48.692846",
   "package_url": "https://pypi.org/project/bussdcc-system-health/"
 }

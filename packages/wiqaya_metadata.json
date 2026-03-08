@@ -1,11 +1,11 @@
 {
   "name": "wiqaya",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "A Python library for multilingual profanity detection and filtering. It identifies and censors offensive or abusive words across multiple languages.",
   "author": "Ahmed Nagi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wiqaya-0.2.2.tar.gz",
-  "download_time": "2026-03-08T15:45:32.872153",
+  "download_filename": "wiqaya-0.2.4.tar.gz",
+  "download_time": "2026-03-08T18:26:52.327586",
   "package_url": "https://pypi.org/project/wiqaya/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "meu-investimento-py",
+  "version": "0.1.1",
+  "summary": "Uma biblioteca para cálculos de investimentos.",
+  "author": "Thiago de Melo Lima",
+  "license": null,
+  "home_page": "https://github.com/thiago-roock/meu_investimento_py",
+  "download_filename": "meu_investimento_py-0.1.1.tar.gz",
+  "download_time": "2026-03-08T18:27:04.261559",
+  "package_url": "https://pypi.org/project/meu-investimento-py/"
+}
