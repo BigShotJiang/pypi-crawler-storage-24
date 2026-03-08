@@ -1,0 +1,11 @@
+{
+  "name": "swarmtorch",
+  "version": "0.1.3",
+  "summary": "Professional PyTorch library for 120+ metaheuristic optimization algorithms (Swarm, Evolutionary, Physics, Hybrid).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmtorch-0.1.3.tar.gz",
+  "download_time": "2026-03-08T18:57:51.938539",
+  "package_url": "https://pypi.org/project/swarmtorch/"
+}

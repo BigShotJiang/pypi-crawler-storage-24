@@ -1,0 +1,11 @@
+{
+  "name": "state-machine-framework",
+  "version": "0.2.0",
+  "summary": "A flexible state machine framework for Python",
+  "author": "Abhigya Shridhar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "state_machine_framework-0.2.0.tar.gz",
+  "download_time": "2026-03-08T18:58:27.026354",
+  "package_url": "https://pypi.org/project/state-machine-framework/"
+}

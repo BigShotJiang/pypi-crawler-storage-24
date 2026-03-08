@@ -1,0 +1,11 @@
+{
+  "name": "zipzap",
+  "version": "0.1.0.post1",
+  "summary": "Fast batch image compression for Dropbox, folders and ZIP files using zipzap",
+  "author": "Abhiraj Adhikary",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zipzap-0.1.0.post1.tar.gz",
+  "download_time": "2026-03-08T18:58:03.272876",
+  "package_url": "https://pypi.org/project/zipzap/"
+}

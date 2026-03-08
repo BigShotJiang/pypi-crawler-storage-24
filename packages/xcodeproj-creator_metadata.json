@@ -1,0 +1,11 @@
+{
+  "name": "xcodeproj-creator",
+  "version": "0.1.0",
+  "summary": "Generate Xcode .xcodeproj bundles from scratch — no macOS required",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xcodeproj_creator-0.1.0.tar.gz",
+  "download_time": "2026-03-08T18:58:07.432026",
+  "package_url": "https://pypi.org/project/xcodeproj-creator/"
+}

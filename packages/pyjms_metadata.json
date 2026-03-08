@@ -1,0 +1,11 @@
+{
+  "name": "pyjms",
+  "version": "0.0.1",
+  "summary": "A Python library for working with Java Message Service (JMS) APIs.",
+  "author": "Til Schwarze",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyjms-0.0.1.tar.gz",
+  "download_time": "2026-03-08T18:58:26.006906",
+  "package_url": "https://pypi.org/project/pyjms/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nwf-vision",
+  "version": "0.1.0",
+  "summary": "NWF for computer vision - ConvVAE, pretrained encoders, continual learning",
+  "author": "Belousov Roman Sergeevich",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nwf_vision-0.1.0.tar.gz",
+  "download_time": "2026-03-08T18:58:08.449087",
+  "package_url": "https://pypi.org/project/nwf-vision/"
+}

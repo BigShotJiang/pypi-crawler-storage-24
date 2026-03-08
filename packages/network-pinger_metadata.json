@@ -1,11 +1,11 @@
 {
   "name": "network-pinger",
-  "version": "2.5.4.1753",
+  "version": "2.5.4.2147",
   "summary": "Async network monitoring tool with real-time terminal UI, alerts, and connection quality analysis",
   "author": "meshlg",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "network_pinger-2.5.4.1753.tar.gz",
-  "download_time": "2026-03-08T15:46:19.146767",
+  "download_filename": "network_pinger-2.5.4.2147.tar.gz",
+  "download_time": "2026-03-08T18:57:55.867882",
   "package_url": "https://pypi.org/project/network-pinger/"
 }
