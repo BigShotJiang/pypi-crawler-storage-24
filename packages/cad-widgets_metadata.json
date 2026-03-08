@@ -1,0 +1,11 @@
+{
+  "name": "cad-widgets",
+  "version": "0.1.5",
+  "summary": "OpenCascade PySide6 3D CAD domain widgets with modular architecture",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cad_widgets-0.1.5.tar.gz",
+  "download_time": "2026-03-08T16:34:20.087987",
+  "package_url": "https://pypi.org/project/cad-widgets/"
+}

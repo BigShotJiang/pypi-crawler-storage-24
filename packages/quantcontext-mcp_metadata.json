@@ -1,11 +1,11 @@
 {
   "name": "quantcontext-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for trade research and strategy backtesting. Deterministic quant tools for AI agents — stock screening, backtesting, and factor analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantcontext_mcp-0.1.1.tar.gz",
-  "download_time": "2026-03-07T23:18:28.175086",
+  "download_filename": "quantcontext_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-08T16:34:07.059357",
   "package_url": "https://pypi.org/project/quantcontext-mcp/"
 }

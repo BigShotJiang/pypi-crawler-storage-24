@@ -1,11 +1,11 @@
 {
   "name": "openartemis",
-  "version": "1.0.9",
+  "version": "1.1.2",
   "summary": "Artemis CLI - AI-powered research and development tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openartemis-1.0.9-py3-none-any.whl",
-  "download_time": "2026-03-08T15:19:00.440959",
+  "download_filename": "openartemis-1.1.2-py3-none-any.whl",
+  "download_time": "2026-03-08T16:34:21.261080",
   "package_url": "https://pypi.org/project/openartemis/"
 }

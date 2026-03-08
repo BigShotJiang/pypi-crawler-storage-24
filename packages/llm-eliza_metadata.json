@@ -1,0 +1,11 @@
+{
+  "name": "llm-eliza",
+  "version": "0.1.1",
+  "summary": "LLM plugin providing access to the ELIZA chatbot",
+  "author": "Evan Hahn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_eliza-0.1.1.tar.gz",
+  "download_time": "2026-03-08T16:34:00.410916",
+  "package_url": "https://pypi.org/project/llm-eliza/"
+}

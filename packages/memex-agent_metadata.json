@@ -1,0 +1,11 @@
+{
+  "name": "memex-agent",
+  "version": "0.1.0",
+  "summary": "Drop-in persistent memory for any Python AI agent. Zero infrastructure. Any model. Own your data.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memex_agent-0.1.0.tar.gz",
+  "download_time": "2026-03-08T16:34:12.436797",
+  "package_url": "https://pypi.org/project/memex-agent/"
+}

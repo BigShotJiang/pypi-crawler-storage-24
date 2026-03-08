@@ -1,0 +1,11 @@
+{
+  "name": "jude-agent",
+  "version": "0.3.1",
+  "summary": "智能 Agent，支持多渠道对话和 RAG 能力",
+  "author": "Jude",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "jude_agent-0.3.1.tar.gz",
+  "download_time": "2026-03-08T16:33:48.304695",
+  "package_url": "https://pypi.org/project/jude-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vtop-auth-lite",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A lightweight, ONNX-powered session handshake utility for VTOP VIT Bhopal.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vtop_auth_lite-0.1.0.tar.gz",
-  "download_time": "2026-03-08T15:59:32.544289",
+  "download_filename": "vtop_auth_lite-0.1.2.tar.gz",
+  "download_time": "2026-03-08T16:34:09.219242",
   "package_url": "https://pypi.org/project/vtop-auth-lite/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "binaryornot",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Ultra-lightweight pure Python package to check if a file is binary or text.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "binaryornot-0.5.0.tar.gz",
-  "download_time": "2026-03-07T11:15:34.219697",
+  "download_filename": "binaryornot-0.6.0.tar.gz",
+  "download_time": "2026-03-08T16:33:49.444833",
   "package_url": "https://pypi.org/project/binaryornot/"
 }

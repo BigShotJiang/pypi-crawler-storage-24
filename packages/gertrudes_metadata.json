@@ -1,0 +1,11 @@
+{
+  "name": "gertrudes",
+  "version": "0.1.1",
+  "summary": "Picks up GitHub issues with a configurable tag and implements them using a configurable LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gertrudes-0.1.1.tar.gz",
+  "download_time": "2026-03-08T16:33:52.157766",
+  "package_url": "https://pypi.org/project/gertrudes/"
+}
