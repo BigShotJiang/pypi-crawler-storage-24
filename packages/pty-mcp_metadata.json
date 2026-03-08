@@ -1,0 +1,11 @@
+{
+  "name": "pty-mcp",
+  "version": "0.1.2",
+  "summary": "A PTY runner for MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pty_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-08T10:50:29.305081",
+  "package_url": "https://pypi.org/project/pty-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "my-sire-that-is-an-outlier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Outlier detection for semi-normal distributions using the mirroring technique",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "my_sire_that_is_an_outlier-0.1.0.tar.gz",
-  "download_time": "2026-03-07T11:16:03.209053",
+  "download_filename": "my_sire_that_is_an_outlier-0.1.1.tar.gz",
+  "download_time": "2026-03-08T10:50:22.954456",
   "package_url": "https://pypi.org/project/my-sire-that-is-an-outlier/"
 }

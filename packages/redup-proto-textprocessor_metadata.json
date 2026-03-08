@@ -1,0 +1,11 @@
+{
+  "name": "redup-proto-textprocessor",
+  "version": "1.0.0",
+  "summary": "Example proto for text processing.",
+  "author": "REDUP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "redup_proto_textprocessor-1.0.0.tar.gz",
+  "download_time": "2026-03-08T10:50:07.427437",
+  "package_url": "https://pypi.org/project/redup-proto-textprocessor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-live-mcp",
+  "version": "0.2.2",
+  "summary": "B站 MCP Server - 查询直播状态、粉丝牌、历史评论、历史弹幕，支持直播内容 ASR+视觉分析",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bilibili_live_mcp-0.2.2.tar.gz",
+  "download_time": "2026-03-08T10:49:56.598793",
+  "package_url": "https://pypi.org/project/bilibili-live-mcp/"
+}

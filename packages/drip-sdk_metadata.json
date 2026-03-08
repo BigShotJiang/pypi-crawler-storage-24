@@ -1,0 +1,11 @@
+{
+  "name": "drip-sdk",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for Drip - usage-based billing infrastructure with on-chain settlement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drip_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-08T10:49:58.200087",
+  "package_url": "https://pypi.org/project/drip-sdk/"
+}

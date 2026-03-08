@@ -1,0 +1,11 @@
+{
+  "name": "vyper-guard",
+  "version": "0.3.0",
+  "summary": "Real-time vulnerability monitoring and auto-remediation for Vyper smart contracts",
+  "author": "preethamak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vyper_guard-0.3.0.tar.gz",
+  "download_time": "2026-03-08T10:50:00.773968",
+  "package_url": "https://pypi.org/project/vyper-guard/"
+}

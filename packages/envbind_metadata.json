@@ -1,0 +1,11 @@
+{
+  "name": "envbind",
+  "version": "1.0.4",
+  "summary": "Pydantic-style environment parsing with typed descriptors.",
+  "author": "Pedro Guzmán",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envbind-1.0.4.tar.gz",
+  "download_time": "2026-03-08T10:50:26.130373",
+  "package_url": "https://pypi.org/project/envbind/"
+}

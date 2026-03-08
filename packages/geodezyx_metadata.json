@@ -1,0 +1,11 @@
+{
+  "name": "geodezyx",
+  "version": "5.1.1",
+  "summary": "geodezyx (formerly known as The GeodeZYX toolbox) aims to provide simple but useful functions for Geodesy and Geophysics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geodezyx-5.1.1.tar.gz",
+  "download_time": "2026-03-08T10:49:52.269940",
+  "package_url": "https://pypi.org/project/geodezyx/"
+}

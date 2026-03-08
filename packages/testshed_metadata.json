@@ -1,0 +1,11 @@
+{
+  "name": "testshed",
+  "version": "0.0.11",
+  "summary": "🛠️ PyTest's tool shed: Docker up, Playwright on, cleanup done",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "testshed-0.0.11.tar.gz",
+  "download_time": "2026-03-08T10:50:11.086526",
+  "package_url": "https://pypi.org/project/testshed/"
+}

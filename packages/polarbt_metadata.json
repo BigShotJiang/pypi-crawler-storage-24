@@ -1,0 +1,11 @@
+{
+  "name": "polarbt",
+  "version": "0.1.5",
+  "summary": "Lightweight backtesting library built on polars",
+  "author": "PolarBT Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polarbt-0.1.5.tar.gz",
+  "download_time": "2026-03-08T10:50:06.396444",
+  "package_url": "https://pypi.org/project/polarbt/"
+}

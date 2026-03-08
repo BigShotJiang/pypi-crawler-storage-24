@@ -1,11 +1,11 @@
 {
   "name": "rbac-infra",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Secure, DIP-based reusable RBAC infrastructure",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rbac_infra-0.1.6.tar.gz",
-  "download_time": "2026-03-08T10:20:28.177157",
+  "download_filename": "rbac_infra-0.1.7.tar.gz",
+  "download_time": "2026-03-08T10:50:09.491958",
   "package_url": "https://pypi.org/project/rbac-infra/"
 }

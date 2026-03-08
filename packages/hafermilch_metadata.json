@@ -1,0 +1,11 @@
+{
+  "name": "hafermilch",
+  "version": "0.1.0",
+  "summary": "Multi-persona LLM agents that evaluate your product's UI/UX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hafermilch-0.1.0.tar.gz",
+  "download_time": "2026-03-08T10:50:04.861957",
+  "package_url": "https://pypi.org/project/hafermilch/"
+}
