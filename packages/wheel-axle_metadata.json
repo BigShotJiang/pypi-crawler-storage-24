@@ -1,0 +1,11 @@
+{
+  "name": "wheel-axle",
+  "version": "0.0.12",
+  "summary": "Axle is Python wheel enhancement library",
+  "author": "Karellen, Inc.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/karellen/wheel-axle",
+  "download_filename": "wheel_axle-0.0.12.tar.gz",
+  "download_time": "2026-03-08T05:15:27.415400",
+  "package_url": "https://pypi.org/project/wheel-axle/"
+}

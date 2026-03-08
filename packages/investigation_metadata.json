@@ -1,11 +1,11 @@
 {
   "name": "investigation",
-  "version": "0.1.2a1",
+  "version": "0.1.2a3",
   "summary": "Investigation is an machine learning experiment management library that couple with project source code to provide version dependent experiment assistance.",
   "author": "Yuxiang Luo",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "investigation-0.1.2a1.tar.gz",
-  "download_time": "2026-03-08T04:06:52.503481",
+  "download_filename": "investigation-0.1.2a3.tar.gz",
+  "download_time": "2026-03-08T05:15:15.939234",
   "package_url": "https://pypi.org/project/investigation/"
 }

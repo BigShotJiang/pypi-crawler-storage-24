@@ -1,0 +1,11 @@
+{
+  "name": "better-tts-mcp",
+  "version": "0.2.0",
+  "summary": "A feature-rich MCP server for Microsoft Edge Text-to-Speech, supporting voice listing, speech synthesis with subtitles, parameter tuning, and batch processing.",
+  "author": "chengaoshen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "better_tts_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-08T05:15:16.456912",
+  "package_url": "https://pypi.org/project/better-tts-mcp/"
+}

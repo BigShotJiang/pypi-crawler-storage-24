@@ -1,0 +1,11 @@
+{
+  "name": "django-silk",
+  "version": "5.5.0",
+  "summary": "Silky smooth profiling for the Django Framework",
+  "author": "Michael Ford",
+  "license": "MIT License",
+  "home_page": "https://github.com/jazzband/django-silk",
+  "download_filename": "django_silk-5.5.0.tar.gz",
+  "download_time": "2026-03-08T05:15:09.133271",
+  "package_url": "https://pypi.org/project/django-silk/"
+}

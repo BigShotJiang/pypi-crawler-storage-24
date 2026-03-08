@@ -1,0 +1,11 @@
+{
+  "name": "potato-annotation",
+  "version": "2.3.0",
+  "summary": "A flexible, stand-alone, web-based platform for text annotation tasks",
+  "author": "Potato Development Team",
+  "license": null,
+  "home_page": "https://github.com/davidjurgens/potato",
+  "download_filename": "potato_annotation-2.3.0.tar.gz",
+  "download_time": "2026-03-08T05:15:28.982112",
+  "package_url": "https://pypi.org/project/potato-annotation/"
+}

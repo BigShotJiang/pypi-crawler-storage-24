@@ -1,11 +1,11 @@
 {
   "name": "obsideo-cloud",
-  "version": "0.1.0b1",
+  "version": "0.1.0b2",
   "summary": "CLI for capturing and restoring ML training artifacts with encrypted cloud storage",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "obsideo_cloud-0.1.0b1-py3-none-any.whl",
-  "download_time": "2026-03-07T19:54:14.425635",
+  "download_filename": "obsideo_cloud-0.1.0b2.tar.gz",
+  "download_time": "2026-03-08T05:15:03.842292",
   "package_url": "https://pypi.org/project/obsideo-cloud/"
 }

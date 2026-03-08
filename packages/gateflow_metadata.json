@@ -1,0 +1,11 @@
+{
+  "name": "gateflow",
+  "version": "0.1.0a3",
+  "summary": "Standalone GateFlow planning CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gateflow-0.1.0a3.tar.gz",
+  "download_time": "2026-03-08T05:15:38.866095",
+  "package_url": "https://pypi.org/project/gateflow/"
+}

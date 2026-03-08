@@ -1,0 +1,11 @@
+{
+  "name": "matter-web-controller",
+  "version": "0.16.0",
+  "summary": "Using websocket matter server to query/control matter-enabled lights/sensors via a HTTP GET interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matter_web_controller-0.16.0.tar.gz",
+  "download_time": "2026-03-08T05:15:29.503100",
+  "package_url": "https://pypi.org/project/matter-web-controller/"
+}

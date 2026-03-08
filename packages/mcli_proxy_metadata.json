@@ -1,0 +1,11 @@
+{
+  "name": "mcli_proxy",
+  "version": "0.2.2",
+  "summary": "Anthropic API Proxy CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcli_proxy-0.2.2.tar.gz",
+  "download_time": "2026-03-08T05:15:40.413987",
+  "package_url": "https://pypi.org/project/mcli_proxy/"
+}
