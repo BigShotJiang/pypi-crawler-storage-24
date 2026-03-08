@@ -1,0 +1,11 @@
+{
+  "name": "django-openstax-accounts",
+  "version": "1.1.2",
+  "summary": "A Django app to read data from the logged-in user OpenStax account using the SSO cookie.",
+  "author": "Michael Volo",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://github.com/openstax/django-openstax-accounts",
+  "download_filename": "django_openstax_accounts-1.1.2.tar.gz",
+  "download_time": "2026-03-08T22:21:39.943584",
+  "package_url": "https://pypi.org/project/django-openstax-accounts/"
+}

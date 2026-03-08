@@ -1,0 +1,11 @@
+{
+  "name": "antaris-context",
+  "version": "4.9.20",
+  "summary": "Context window optimization for AI agents. Zero dependencies.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "antaris_context-4.9.20.tar.gz",
+  "download_time": "2026-03-08T22:21:00.475717",
+  "package_url": "https://pypi.org/project/antaris-context/"
+}

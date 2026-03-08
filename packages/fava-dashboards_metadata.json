@@ -1,0 +1,11 @@
+{
+  "name": "fava-dashboards",
+  "version": "1.2.2",
+  "summary": "Custom Dashboards for Beancount in Fava",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "fava_dashboards-1.2.2.tar.gz",
+  "download_time": "2026-03-08T22:21:11.676006",
+  "package_url": "https://pypi.org/project/fava-dashboards/"
+}

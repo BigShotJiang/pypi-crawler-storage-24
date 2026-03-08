@@ -1,11 +1,11 @@
 {
   "name": "servonaut",
-  "version": "2.3.6",
+  "version": "2.4.0",
   "summary": "Interactive TUI for managing servers — SSH, SCP, scanning & more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "servonaut-2.3.6.tar.gz",
-  "download_time": "2026-03-08T01:48:46.515644",
+  "download_filename": "servonaut-2.4.0.tar.gz",
+  "download_time": "2026-03-08T22:21:32.333782",
   "package_url": "https://pypi.org/project/servonaut/"
 }

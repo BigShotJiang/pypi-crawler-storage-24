@@ -1,11 +1,11 @@
 {
   "name": "tmuxp",
-  "version": "1.64.2",
+  "version": "1.66.0",
   "summary": "Session manager for tmux, which allows users to save and load tmux sessions through simple configuration files.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tmuxp-1.64.2.tar.gz",
-  "download_time": "2026-03-08T15:59:09.022708",
+  "download_filename": "tmuxp-1.66.0.tar.gz",
+  "download_time": "2026-03-08T22:21:33.492872",
   "package_url": "https://pypi.org/project/tmuxp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "graphfla",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A Python package for Graph-based Fitness Landscape Analysis.",
   "author": "Mingyu Huang",
   "license": null,
   "home_page": "https://github.com/COLA-Laboratory/GraphFLA/tree/main",
-  "download_filename": "graphfla-0.2.3.tar.gz",
-  "download_time": "2026-03-08T14:49:29.450707",
+  "download_filename": "graphfla-0.2.4.tar.gz",
+  "download_time": "2026-03-08T22:21:05.553726",
   "package_url": "https://pypi.org/project/graphfla/"
 }

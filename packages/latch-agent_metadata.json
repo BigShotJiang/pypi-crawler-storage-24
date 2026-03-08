@@ -1,0 +1,11 @@
+{
+  "name": "latch-agent",
+  "version": "0.1.1",
+  "summary": "Universal gating and audit layer for AI agents — policy-based tool gating with WebAuthn approval flows",
+  "author": "Latch Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "latch_agent-0.1.1.tar.gz",
+  "download_time": "2026-03-08T22:21:43.973444",
+  "package_url": "https://pypi.org/project/latch-agent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pathview",
+  "version": "0.8.3",
+  "summary": "Visual node editor for building and simulating dynamic systems with PathSim",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pathview-0.8.3.tar.gz",
+  "download_time": "2026-03-08T22:20:54.269085",
+  "package_url": "https://pypi.org/project/pathview/"
+}

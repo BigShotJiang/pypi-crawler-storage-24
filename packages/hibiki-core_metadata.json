@@ -1,0 +1,11 @@
+{
+  "name": "hibiki-core",
+  "version": "2.1.0",
+  "summary": "A complete logging solution with console, database, and Discord notification support",
+  "author": "Matt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hibiki_core-2.1.0.tar.gz",
+  "download_time": "2026-03-08T22:21:14.559544",
+  "package_url": "https://pypi.org/project/hibiki-core/"
+}

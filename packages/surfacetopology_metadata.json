@@ -1,0 +1,11 @@
+{
+  "name": "surfacetopology",
+  "version": "0.2.0",
+  "summary": "Check the validity and determine the topology of a triangulated surface",
+  "author": "Vincent Jacquemet",
+  "license": "MIT",
+  "home_page": "https://github.com/jacquemv/surfacetopology",
+  "download_filename": "surfacetopology-0.2.0.tar.gz",
+  "download_time": "2026-03-08T22:21:12.249937",
+  "package_url": "https://pypi.org/project/surfacetopology/"
+}

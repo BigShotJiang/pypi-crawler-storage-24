@@ -1,0 +1,11 @@
+{
+  "name": "mhn",
+  "version": "1.2.1",
+  "summary": "A package to train and work with Mutual Hazard Networks",
+  "author": "Stefan Vocht, Kevin Rupp, Y. Linda Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mhn-1.2.1.tar.gz",
+  "download_time": "2026-03-08T22:21:46.224556",
+  "package_url": "https://pypi.org/project/mhn/"
+}

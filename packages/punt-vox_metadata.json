@@ -1,11 +1,11 @@
 {
   "name": "punt-vox",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Text-to-speech CLI, MCP server, and Claude Code plugin (ElevenLabs, AWS Polly, OpenAI)",
   "author": "Punt Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "punt_vox-1.2.1.tar.gz",
-  "download_time": "2026-03-07T07:57:13.591648",
+  "download_filename": "punt_vox-1.2.2.tar.gz",
+  "download_time": "2026-03-08T22:21:43.400540",
   "package_url": "https://pypi.org/project/punt-vox/"
 }

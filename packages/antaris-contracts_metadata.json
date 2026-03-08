@@ -1,0 +1,11 @@
+{
+  "name": "antaris-contracts",
+  "version": "4.9.20",
+  "summary": "Versioned state schemas, failure semantics, and debug CLI for the Antaris Analytics Suite.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "antaris_contracts-4.9.20.tar.gz",
+  "download_time": "2026-03-08T22:20:58.752123",
+  "package_url": "https://pypi.org/project/antaris-contracts/"
+}
