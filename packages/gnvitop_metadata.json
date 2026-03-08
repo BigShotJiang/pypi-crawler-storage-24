@@ -1,0 +1,11 @@
+{
+  "name": "gnvitop",
+  "version": "0.1.1",
+  "summary": "Global nvitop: web-based GPU monitoring dashboard for all your remote servers via SSH",
+  "author": "Linwei94",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnvitop-0.1.1.tar.gz",
+  "download_time": "2026-03-08T11:43:03.089906",
+  "package_url": "https://pypi.org/project/gnvitop/"
+}

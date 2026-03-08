@@ -1,0 +1,11 @@
+{
+  "name": "curses-fzf",
+  "version": "0.3.0",
+  "summary": "A pure python implementation of fzf (fuzzyfinder) with some additional features using the curses library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "curses_fzf-0.3.0.tar.gz",
+  "download_time": "2026-03-08T11:43:04.666763",
+  "package_url": "https://pypi.org/project/curses-fzf/"
+}

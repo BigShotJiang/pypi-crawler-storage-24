@@ -1,11 +1,11 @@
 {
   "name": "pypi-client",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "PyPI command-line tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypi_client-0.2.5.tar.gz",
-  "download_time": "2026-03-08T11:16:45.293511",
+  "download_filename": "pypi_client-0.2.6.tar.gz",
+  "download_time": "2026-03-08T11:43:00.492665",
   "package_url": "https://pypi.org/project/pypi-client/"
 }

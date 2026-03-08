@@ -1,0 +1,11 @@
+{
+  "name": "dagpipe-core",
+  "version": "0.2.0",
+  "summary": "A lightweight framework for deterministic LLM workflows",
+  "author": "Herbert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagpipe_core-0.2.0.tar.gz",
+  "download_time": "2026-03-08T11:43:13.796825",
+  "package_url": "https://pypi.org/project/dagpipe-core/"
+}

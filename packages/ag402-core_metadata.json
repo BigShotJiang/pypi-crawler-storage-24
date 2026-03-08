@@ -1,0 +1,11 @@
+{
+  "name": "ag402-core",
+  "version": "0.1.13",
+  "summary": "Payment engine for AI Agents — automatic HTTP 402 payment with Solana USDC",
+  "author": "Ag402 Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ag402_core-0.1.13.tar.gz",
+  "download_time": "2026-03-08T11:42:59.442521",
+  "package_url": "https://pypi.org/project/ag402-core/"
+}

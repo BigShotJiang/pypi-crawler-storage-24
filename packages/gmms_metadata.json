@@ -1,0 +1,11 @@
+{
+  "name": "gmms",
+  "version": "1.0.0",
+  "summary": "Ground motion models and supporting tools.",
+  "author": "A. Renmin Pretell Ductram",
+  "license": null,
+  "home_page": "https://github.com/RPretellD/gmms",
+  "download_filename": "gmms-1.0.0.tar.gz",
+  "download_time": "2026-03-08T11:43:33.832973",
+  "package_url": "https://pypi.org/project/gmms/"
+}

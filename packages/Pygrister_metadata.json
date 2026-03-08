@@ -1,0 +1,11 @@
+{
+  "name": "Pygrister",
+  "version": "0.10.0",
+  "summary": "A Python client for the Grist API.",
+  "author": "Riccardo Polignieri",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygrister-0.10.0.tar.gz",
+  "download_time": "2026-03-08T11:43:20.175668",
+  "package_url": "https://pypi.org/project/Pygrister/"
+}

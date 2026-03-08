@@ -1,0 +1,11 @@
+{
+  "name": "arvak-lite",
+  "version": "0.1.0",
+  "summary": "Lightweight quantum circuit compiler. Drop-in replacement for Qiskit transpile, Cirq optimize, and more. Powered by Arvak.",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "arvak_lite-0.1.0.tar.gz",
+  "download_time": "2026-03-08T11:43:25.989700",
+  "package_url": "https://pypi.org/project/arvak-lite/"
+}

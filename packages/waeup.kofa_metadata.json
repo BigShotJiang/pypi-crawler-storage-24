@@ -1,0 +1,11 @@
+{
+  "name": "waeup.kofa",
+  "version": "1.9",
+  "summary": "A student online information and  registration portal",
+  "author": "The WAeUP team.",
+  "license": "GPL",
+  "home_page": "http://www.waeup.org/",
+  "download_filename": "waeup_kofa-1.9.tar.gz",
+  "download_time": "2026-03-08T11:43:05.789351",
+  "package_url": "https://pypi.org/project/waeup.kofa/"
+}

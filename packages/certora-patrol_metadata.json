@@ -1,11 +1,11 @@
 {
   "name": "certora-patrol",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "summary": "Automated smart contract security analysis powered by formal verification",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "certora_patrol-0.1.10-py3-none-any.whl",
-  "download_time": "2026-03-07T17:44:42.844928",
+  "download_filename": "certora_patrol-0.1.12-py3-none-any.whl",
+  "download_time": "2026-03-08T11:43:34.878701",
   "package_url": "https://pypi.org/project/certora-patrol/"
 }

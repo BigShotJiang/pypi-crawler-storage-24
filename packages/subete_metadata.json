@@ -1,0 +1,11 @@
+{
+  "name": "subete",
+  "version": "0.22.2",
+  "summary": "The Sample Programs API in Python",
+  "author": "Jeremy Grifski",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "subete-0.22.2.tar.gz",
+  "download_time": "2026-03-08T11:43:25.471038",
+  "package_url": "https://pypi.org/project/subete/"
+}

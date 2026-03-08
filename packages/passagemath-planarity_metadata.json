@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-planarity",
+  "version": "10.8.1",
+  "summary": "passagemath: Graph planarity with the edge addition planarity suite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_planarity-10.8.1.tar.gz",
+  "download_time": "2026-03-08T11:43:08.475068",
+  "package_url": "https://pypi.org/project/passagemath-planarity/"
+}
