@@ -1,0 +1,11 @@
+{
+  "name": "mancp",
+  "version": "0.2.0",
+  "summary": "MCP profile manager for Claude Code — pick which MCP servers load per project",
+  "author": "Dumky de Wilde",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mancp-0.2.0.tar.gz",
+  "download_time": "2026-03-08T19:56:34.546855",
+  "package_url": "https://pypi.org/project/mancp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "odoorecursiveaddons",
-  "version": "0.1.0",
-  "summary": "Expande addons_path recursivamente desde configuracion de Odoo",
+  "version": "0.1.1",
+  "summary": "Expand addons_path recursively from Odoo configuration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoorecursiveaddons-0.1.0.tar.gz",
-  "download_time": "2026-03-08T18:58:24.444603",
+  "download_filename": "odoorecursiveaddons-0.1.1.tar.gz",
+  "download_time": "2026-03-08T19:56:31.605020",
   "package_url": "https://pypi.org/project/odoorecursiveaddons/"
 }

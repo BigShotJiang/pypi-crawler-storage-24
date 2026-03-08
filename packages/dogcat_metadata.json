@@ -1,11 +1,11 @@
 {
   "name": "dogcat",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "summary": "lightweight, file-based issue tracking for AI agents (and humans)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dogcat-0.11.2.tar.gz",
-  "download_time": "2026-03-08T13:28:40.313920",
+  "download_filename": "dogcat-0.11.3.tar.gz",
+  "download_time": "2026-03-08T19:57:03.765241",
   "package_url": "https://pypi.org/project/dogcat/"
 }

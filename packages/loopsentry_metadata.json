@@ -1,0 +1,11 @@
+{
+  "name": "loopsentry",
+  "version": "1.1.1",
+  "summary": "asyncio Eventloop Blockers Detector/Analyzer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loopsentry-1.1.1.tar.gz",
+  "download_time": "2026-03-08T19:56:37.928150",
+  "package_url": "https://pypi.org/project/loopsentry/"
+}

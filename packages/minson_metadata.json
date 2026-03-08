@@ -1,0 +1,11 @@
+{
+  "name": "minson",
+  "version": "0.1.0",
+  "summary": "Minify JSON to reduce LLM API token costs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minson-0.1.0.tar.gz",
+  "download_time": "2026-03-08T19:56:37.316868",
+  "package_url": "https://pypi.org/project/minson/"
+}

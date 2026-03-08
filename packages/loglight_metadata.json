@@ -1,0 +1,11 @@
+{
+  "name": "loglight",
+  "version": "2.0.0",
+  "summary": "A lightweight structured logging library with traceability for Python apps.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "loglight-2.0.0.tar.gz",
+  "download_time": "2026-03-08T19:56:56.891328",
+  "package_url": "https://pypi.org/project/loglight/"
+}

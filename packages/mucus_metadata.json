@@ -1,11 +1,11 @@
 {
   "name": "mucus",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "mucus",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mucus-0.1.9.tar.gz",
-  "download_time": "2026-03-08T18:27:01.622479",
+  "download_filename": "mucus-0.1.10.tar.gz",
+  "download_time": "2026-03-08T19:56:44.195108",
   "package_url": "https://pypi.org/project/mucus/"
 }

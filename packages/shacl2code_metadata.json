@@ -1,0 +1,11 @@
+{
+  "name": "shacl2code",
+  "version": "1.0.0",
+  "summary": "Convert SHACL model file to code bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shacl2code-1.0.0.tar.gz",
+  "download_time": "2026-03-08T19:57:04.344569",
+  "package_url": "https://pypi.org/project/shacl2code/"
+}

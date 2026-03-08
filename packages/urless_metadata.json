@@ -1,0 +1,11 @@
+{
+  "name": "urless",
+  "version": "2.7",
+  "summary": "De-clutter a list of URLs",
+  "author": "@xnl-h4ck3r",
+  "license": null,
+  "home_page": "https://github.com/xnl-h4ck3r/urless",
+  "download_filename": "urless-2.7.tar.gz",
+  "download_time": "2026-03-08T19:56:39.009268",
+  "package_url": "https://pypi.org/project/urless/"
+}

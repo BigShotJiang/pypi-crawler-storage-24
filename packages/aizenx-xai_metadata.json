@@ -1,0 +1,11 @@
+{
+  "name": "aizenx-xai",
+  "version": "0.1.0",
+  "summary": "AizenX - Explainable AI toolkit for model interpretability and fairness",
+  "author": "Bhageeratha Reddy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aizenx_xai-0.1.0.tar.gz",
+  "download_time": "2026-03-08T19:56:33.909218",
+  "package_url": "https://pypi.org/project/aizenx-xai/"
+}

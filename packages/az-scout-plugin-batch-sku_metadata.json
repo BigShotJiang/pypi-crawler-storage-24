@@ -1,0 +1,11 @@
+{
+  "name": "az-scout-plugin-batch-sku",
+  "version": "2026.3.3",
+  "summary": "Plugin for az-scout to list batch SKUs in Azure per region.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "az_scout_plugin_batch_sku-2026.3.3.tar.gz",
+  "download_time": "2026-03-08T19:56:47.064972",
+  "package_url": "https://pypi.org/project/az-scout-plugin-batch-sku/"
+}

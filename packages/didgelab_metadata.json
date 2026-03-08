@@ -1,0 +1,11 @@
+{
+  "name": "didgelab",
+  "version": "3.0.8",
+  "summary": "Acoustical simulation and computer-aided design of didgeridoos",
+  "author": null,
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": null,
+  "download_filename": "didgelab-3.0.8.tar.gz",
+  "download_time": "2026-03-08T19:56:28.173266",
+  "package_url": "https://pypi.org/project/didgelab/"
+}
