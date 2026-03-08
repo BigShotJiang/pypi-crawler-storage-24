@@ -1,0 +1,11 @@
+{
+  "name": "daylily-ephemeral-cluster",
+  "version": "0.7.607",
+  "summary": "Infrastructure-as-code for ephemeral AWS ParallelCluster environments for bioinformatics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daylily_ephemeral_cluster-0.7.607-py3-none-any.whl",
+  "download_time": "2026-03-08T14:23:03.768171",
+  "package_url": "https://pypi.org/project/daylily-ephemeral-cluster/"
+}

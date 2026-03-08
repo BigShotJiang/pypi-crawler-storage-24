@@ -1,0 +1,11 @@
+{
+  "name": "py-transgpt",
+  "version": "2.2",
+  "summary": "Platform translation interface encapsulation: ChatGPT, Baidu, Tencent",
+  "author": "EXP",
+  "license": null,
+  "home_page": "https://github.com/EXP-Codes/py-transgpt",
+  "download_filename": "py_transgpt-2.2.tar.gz",
+  "download_time": "2026-03-08T14:23:40.817302",
+  "package_url": "https://pypi.org/project/py-transgpt/"
+}

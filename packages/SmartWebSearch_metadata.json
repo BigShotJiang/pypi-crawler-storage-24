@@ -1,0 +1,11 @@
+{
+  "name": "SmartWebSearch",
+  "version": "1.5.0",
+  "summary": "SmartWebSearch is a Python package that combines the Tavily search API with Retrieval-Augmented Generation (RAG), LLM-powered query expansion, and web content extraction to perform intelligent, deep web searches with automated summarization.",
+  "author": "LIN WAI CHON",
+  "license": "MIT",
+  "home_page": "https://github.com/LittleWai07/smart-web-search-package",
+  "download_filename": "smartwebsearch-1.5.0.tar.gz",
+  "download_time": "2026-03-08T14:23:41.959105",
+  "package_url": "https://pypi.org/project/SmartWebSearch/"
+}

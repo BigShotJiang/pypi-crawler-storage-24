@@ -1,11 +1,11 @@
 {
   "name": "pyinspect-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A CLI tool to inspect practical source codes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyinspect_cli-0.1.0.tar.gz",
-  "download_time": "2026-03-07T17:45:12.827986",
+  "download_filename": "pyinspect_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-08T14:23:31.010346",
   "package_url": "https://pypi.org/project/pyinspect-cli/"
 }

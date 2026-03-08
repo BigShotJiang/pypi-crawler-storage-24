@@ -1,11 +1,11 @@
 {
   "name": "bearhouse",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A Python package for working with parquet data lakes.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bearhouse-0.3.0.tar.gz",
-  "download_time": "2026-03-08T13:56:57.976172",
+  "download_filename": "bearhouse-0.4.0.tar.gz",
+  "download_time": "2026-03-08T14:23:22.408179",
   "package_url": "https://pypi.org/project/bearhouse/"
 }

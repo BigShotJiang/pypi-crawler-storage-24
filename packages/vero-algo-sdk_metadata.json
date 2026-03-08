@@ -1,0 +1,11 @@
+{
+  "name": "vero-algo-sdk",
+  "version": "1.0.47",
+  "summary": "Python SDK for Vero Algo trading platform",
+  "author": "Vero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vero_algo_sdk-1.0.47-cp314-cp314-macosx_10_15_universal2.whl",
+  "download_time": "2026-03-08T14:22:57.622359",
+  "package_url": "https://pypi.org/project/vero-algo-sdk/"
+}
