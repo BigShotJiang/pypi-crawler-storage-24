@@ -1,0 +1,11 @@
+{
+  "name": "beacon-skill",
+  "version": "2.16.0",
+  "summary": "Beacon - the AI agent orchestrator. 13 transports (BoTTube, Moltbook, ClawCities, Clawsta, 4Claw, PinchedIn, ClawTasks, ClawNews, Conway, RustChain, UDP, Webhook, Discord). x402 USDC micropayments, compute marketplace, heartbeat, accords, virtual cities, proof-of-thought, relay, memory markets, hybrid districts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beacon_skill-2.16.0.tar.gz",
+  "download_time": "2026-03-08T23:46:17.539762",
+  "package_url": "https://pypi.org/project/beacon-skill/"
+}

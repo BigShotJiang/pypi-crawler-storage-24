@@ -1,0 +1,11 @@
+{
+  "name": "tepilora-mcp",
+  "version": "0.5.0",
+  "summary": "MCP server for Tepilora financial API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tepilora_mcp-0.5.0.tar.gz",
+  "download_time": "2026-03-08T23:46:18.579177",
+  "package_url": "https://pypi.org/project/tepilora-mcp/"
+}

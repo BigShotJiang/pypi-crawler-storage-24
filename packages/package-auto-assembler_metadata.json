@@ -1,0 +1,11 @@
+{
+  "name": "package-auto-assembler",
+  "version": "1.0.0",
+  "summary": "A tool to automate package creation within ci based on just .py and optionally .ipynb file.",
+  "author": "Kyrylo Mordan",
+  "license": "mit",
+  "home_page": "https://kiril-mordan.github.io/reusables/package_auto_assembler/",
+  "download_filename": "package_auto_assembler-1.0.0.tar.gz",
+  "download_time": "2026-03-08T23:46:35.484501",
+  "package_url": "https://pypi.org/project/package-auto-assembler/"
+}

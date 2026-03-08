@@ -1,0 +1,11 @@
+{
+  "name": "navcli",
+  "version": "0.4.8",
+  "summary": "可交互、可探索的浏览器命令行工具，专为 AI Agent 设计的低摩擦度工具",
+  "author": "NavCLI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "navcli-0.4.8-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-03-08T23:46:06.832413",
+  "package_url": "https://pypi.org/project/navcli/"
+}

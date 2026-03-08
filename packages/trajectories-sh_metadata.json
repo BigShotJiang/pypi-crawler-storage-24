@@ -1,0 +1,11 @@
+{
+  "name": "trajectories-sh",
+  "version": "0.1.1",
+  "summary": "CLI for uploading Harbor trajectory jobs to trajectories.sh",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trajectories_sh-0.1.1.tar.gz",
+  "download_time": "2026-03-08T23:46:25.385239",
+  "package_url": "https://pypi.org/project/trajectories-sh/"
+}

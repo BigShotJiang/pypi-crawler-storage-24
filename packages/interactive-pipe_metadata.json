@@ -1,0 +1,11 @@
+{
+  "name": "interactive-pipe",
+  "version": "0.8.10",
+  "summary": "Library to create flexible interactive image processing pipelines and automatically add a graphical user interface without knowing anything about GUI coding!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interactive_pipe-0.8.10.tar.gz",
+  "download_time": "2026-03-08T23:46:03.607622",
+  "package_url": "https://pypi.org/project/interactive-pipe/"
+}

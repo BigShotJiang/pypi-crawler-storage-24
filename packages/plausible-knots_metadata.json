@@ -1,0 +1,11 @@
+{
+  "name": "plausible-knots",
+  "version": "2.1.2",
+  "summary": "Database of plausibly slice knots",
+  "author": "Nathan M. Dunfield, Sherry Gong",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plausible_knots-2.1.2.tar.gz",
+  "download_time": "2026-03-08T23:46:26.428402",
+  "package_url": "https://pypi.org/project/plausible-knots/"
+}

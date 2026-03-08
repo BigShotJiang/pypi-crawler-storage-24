@@ -1,0 +1,11 @@
+{
+  "name": "iaes",
+  "version": "0.1.0",
+  "summary": "Industrial Asset Event Standard — vendor-neutral event models for industrial asset intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iaes-0.1.0.tar.gz",
+  "download_time": "2026-03-08T23:45:59.311044",
+  "package_url": "https://pypi.org/project/iaes/"
+}

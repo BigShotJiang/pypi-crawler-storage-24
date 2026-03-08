@@ -1,11 +1,11 @@
 {
   "name": "cire",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Dashscope modules for Pipecat",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cire-1.0.0.tar.gz",
-  "download_time": "2026-03-08T22:48:32.781892",
+  "download_filename": "cire-1.0.2.tar.gz",
+  "download_time": "2026-03-08T23:46:04.130682",
   "package_url": "https://pypi.org/project/cire/"
 }

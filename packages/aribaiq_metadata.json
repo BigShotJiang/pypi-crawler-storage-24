@@ -1,0 +1,11 @@
+{
+  "name": "aribaiq",
+  "version": "0.1.1",
+  "summary": "AI-powered procurement and sourcing analytics toolkit inspired by modern Ariba-style workflows.",
+  "author": "Jagadeesh Vasanthada",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aribaiq-0.1.1.tar.gz",
+  "download_time": "2026-03-08T23:45:57.744973",
+  "package_url": "https://pypi.org/project/aribaiq/"
+}

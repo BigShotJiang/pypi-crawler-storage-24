@@ -1,11 +1,11 @@
 {
   "name": "matrixpfn",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "GNN-based learned preconditioner for sparse linear systems",
   "author": "Jozef Mikyta",
   "license": null,
   "home_page": null,
-  "download_filename": "matrixpfn-0.1.5.tar.gz",
-  "download_time": "2026-03-08T22:20:55.941343",
+  "download_filename": "matrixpfn-0.1.7.tar.gz",
+  "download_time": "2026-03-08T23:45:56.421357",
   "package_url": "https://pypi.org/project/matrixpfn/"
 }
