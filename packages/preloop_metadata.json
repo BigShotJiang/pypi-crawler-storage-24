@@ -1,0 +1,11 @@
+{
+  "name": "preloop",
+  "version": "0.8.0",
+  "summary": "Preloop - Event-driven AI automation platform with built-in human-in-the-loop safety",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "preloop-0.8.0.tar.gz",
+  "download_time": "2026-03-08T19:23:11.512249",
+  "package_url": "https://pypi.org/project/preloop/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "slurm-term",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A Terminal User Interface for the Slurm workload manager",
   "author": "Matteo Caviglia",
   "license": "MIT",
   "home_page": "https://github.com/22cav/slurm-term",
-  "download_filename": "slurm_term-0.1.4-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-08T11:43:31.749361",
+  "download_filename": "slurm_term-0.1.5-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-08T19:22:52.228491",
   "package_url": "https://pypi.org/project/slurm-term/"
 }

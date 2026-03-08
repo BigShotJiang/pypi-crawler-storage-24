@@ -1,11 +1,11 @@
 {
   "name": "fastreact",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "FastAPI + React unified stack — zero config, one server, Python tracebacks in browser",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastreact-0.1.0.tar.gz",
-  "download_time": "2026-03-07T19:43:23.399072",
+  "download_filename": "fastreact-0.1.1.tar.gz",
+  "download_time": "2026-03-08T19:23:12.553362",
   "package_url": "https://pypi.org/project/fastreact/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pynterp",
-  "version": "0.1.3",
+  "version": "0.2.1",
   "summary": "AST-walk interpreter for a meaningful Python subset",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pynterp-0.1.3.tar.gz",
-  "download_time": "2026-03-08T06:50:27.645629",
+  "download_filename": "pynterp-0.2.1.tar.gz",
+  "download_time": "2026-03-08T19:23:14.654727",
   "package_url": "https://pypi.org/project/pynterp/"
 }

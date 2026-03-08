@@ -1,0 +1,11 @@
+{
+  "name": "telegram-acp-bot",
+  "version": "0.1.2",
+  "summary": "A Telegram bot that implements Agent Client Protocol to interact with AI agents",
+  "author": "Martín Gaitán",
+  "license": null,
+  "home_page": null,
+  "download_filename": "telegram_acp_bot-0.1.2.tar.gz",
+  "download_time": "2026-03-08T19:23:27.449340",
+  "package_url": "https://pypi.org/project/telegram-acp-bot/"
+}

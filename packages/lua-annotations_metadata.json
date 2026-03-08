@@ -1,0 +1,11 @@
+{
+  "name": "lua-annotations",
+  "version": "0.2.0",
+  "summary": "lua-annotations build-time processor/validator",
+  "author": "pigxity",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lua_annotations-0.2.0.tar.gz",
+  "download_time": "2026-03-08T19:23:08.879252",
+  "package_url": "https://pypi.org/project/lua-annotations/"
+}

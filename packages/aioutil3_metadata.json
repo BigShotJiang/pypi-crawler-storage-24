@@ -1,0 +1,11 @@
+{
+  "name": "aioutil3",
+  "version": "3.9.1",
+  "summary": "Python Utils is a module with some convenient utilities not included with the standard Python install",
+  "author": "Rick van Hattem",
+  "license": "BSD",
+  "home_page": "https://github.com/WoLpH/aioutil3",
+  "download_filename": "aioutil3-3.9.1.tar.gz",
+  "download_time": "2026-03-08T19:22:56.902944",
+  "package_url": "https://pypi.org/project/aioutil3/"
+}

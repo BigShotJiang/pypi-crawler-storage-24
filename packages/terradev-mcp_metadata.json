@@ -1,0 +1,11 @@
+{
+  "name": "terradev-mcp",
+  "version": "2.0.7",
+  "summary": "Complete Agentic GPU Infrastructure for Claude Code",
+  "author": null,
+  "license": "BUSL-1.1",
+  "home_page": null,
+  "download_filename": "terradev_mcp-2.0.7.tar.gz",
+  "download_time": "2026-03-08T19:23:09.413285",
+  "package_url": "https://pypi.org/project/terradev-mcp/"
+}

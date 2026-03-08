@@ -1,11 +1,11 @@
 {
   "name": "uqdeepnn",
-  "version": "0.1.10",
-  "summary": "PyTorch uncertainty quantification toolkit with Bayes-by-Backprop VI, Laplace, SGLD, MC Dropout, and Gaussian Processes.",
+  "version": "0.1.11",
+  "summary": "PyTorch uncertainty quantification toolkit with deep ensembles, Bayes-by-Backprop VI, Laplace, SGLD, MC Dropout, Gaussian Processes, and scientific ML backbones.",
   "author": "Vispi Nevile Karkaria, Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uqdeepnn-0.1.10.tar.gz",
-  "download_time": "2026-03-08T18:26:41.999654",
+  "download_filename": "uqdeepnn-0.1.11.tar.gz",
+  "download_time": "2026-03-08T19:22:48.325823",
   "package_url": "https://pypi.org/project/uqdeepnn/"
 }

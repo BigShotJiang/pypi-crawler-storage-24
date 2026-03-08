@@ -1,0 +1,11 @@
+{
+  "name": "aquilia",
+  "version": "1.0.0",
+  "summary": "Async-native Python web framework with flow-first routing",
+  "author": "Aquilia Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/axiomchronicles/aquilia",
+  "download_filename": "aquilia-1.0.0.tar.gz",
+  "download_time": "2026-03-08T19:23:02.051577",
+  "package_url": "https://pypi.org/project/aquilia/"
+}

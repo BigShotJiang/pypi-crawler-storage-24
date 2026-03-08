@@ -1,0 +1,11 @@
+{
+  "name": "kotharcomputing",
+  "version": "0.80.1",
+  "summary": "Python SDK for the Kothar API",
+  "author": "Kothar Computing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kotharcomputing-0.80.1.tar.gz",
+  "download_time": "2026-03-08T19:22:51.023507",
+  "package_url": "https://pypi.org/project/kotharcomputing/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iscc-lib",
+  "version": "0.3.1",
+  "summary": "High-performance Python bindings for ISO 24138:2024 (ISCC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iscc_lib-0.3.1.tar.gz",
+  "download_time": "2026-03-08T19:22:53.322540",
+  "package_url": "https://pypi.org/project/iscc-lib/"
+}
