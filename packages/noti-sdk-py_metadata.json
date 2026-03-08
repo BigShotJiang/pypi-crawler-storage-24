@@ -1,0 +1,11 @@
+{
+  "name": "noti-sdk-py",
+  "version": "1.0.2",
+  "summary": "Lightweight Python SDK for WhatsApp messaging and bulk messaging via the Notibuzz Cloud REST API.",
+  "author": "Diego Quiroz Ramirez - CEO NotiBuzz Cloud",
+  "license": "MIT",
+  "home_page": "https://github.com/notibuzzcloud/noti-sdk-py",
+  "download_filename": "noti_sdk_py-1.0.2.tar.gz",
+  "download_time": "2026-03-08T08:54:31.523287",
+  "package_url": "https://pypi.org/project/noti-sdk-py/"
+}

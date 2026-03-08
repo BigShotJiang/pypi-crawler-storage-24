@@ -1,11 +1,11 @@
 {
   "name": "tgiot-device-simulator",
-  "version": "1.0.0.7",
+  "version": "1.0.0.9",
   "summary": "A comprehensive IoT device simulator for Azure IoT Hub and IoT Platform servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tgiot_device_simulator-1.0.0.7.tar.gz",
-  "download_time": "2026-03-07T18:30:07.000104",
+  "download_filename": "tgiot_device_simulator-1.0.0.9.tar.gz",
+  "download_time": "2026-03-08T08:54:39.228276",
   "package_url": "https://pypi.org/project/tgiot-device-simulator/"
 }

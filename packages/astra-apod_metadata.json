@@ -1,11 +1,11 @@
 {
   "name": "astra-apod",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A NASA Astronomy Picture of the Day CLI tool.",
   "author": "Asutosh Shrestha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "astra_apod-0.2.2.tar.gz",
-  "download_time": "2026-03-07T12:35:20.574396",
+  "download_filename": "astra_apod-0.2.3.tar.gz",
+  "download_time": "2026-03-08T08:54:49.103616",
   "package_url": "https://pypi.org/project/astra-apod/"
 }

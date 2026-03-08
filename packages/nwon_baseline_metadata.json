@@ -1,0 +1,11 @@
+{
+  "name": "nwon_baseline",
+  "version": "0.3.1",
+  "summary": "Python Code that is used in several projects",
+  "author": "Reik Stiebeling",
+  "license": "MIT",
+  "home_page": "https://nwon.de",
+  "download_filename": "nwon_baseline-0.3.1.tar.gz",
+  "download_time": "2026-03-08T08:54:11.976054",
+  "package_url": "https://pypi.org/project/nwon_baseline/"
+}

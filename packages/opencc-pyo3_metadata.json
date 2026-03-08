@@ -1,0 +1,11 @@
+{
+  "name": "opencc-pyo3",
+  "version": "0.8.9",
+  "summary": "A Python extension module powered by Rust and PyO3, providing fast and accurate Chinese text conversion.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opencc_pyo3-0.8.9-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-08T08:54:36.666566",
+  "package_url": "https://pypi.org/project/opencc-pyo3/"
+}

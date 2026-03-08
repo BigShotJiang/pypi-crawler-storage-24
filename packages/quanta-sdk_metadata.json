@@ -1,11 +1,11 @@
 {
   "name": "quanta-sdk",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Multi-paradigm quantum computing SDK — Grover, QAOA, VQE, Shor, QSVM, surface code, entity resolution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quanta_sdk-0.6.0.tar.gz",
-  "download_time": "2026-03-07T13:54:38.218767",
+  "download_filename": "quanta_sdk-0.6.1.tar.gz",
+  "download_time": "2026-03-08T08:54:48.592294",
   "package_url": "https://pypi.org/project/quanta-sdk/"
 }

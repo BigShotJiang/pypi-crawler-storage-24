@@ -1,0 +1,11 @@
+{
+  "name": "aiooctopusenergy",
+  "version": "0.4.2",
+  "summary": "Async Python client for the Octopus Energy REST and GraphQL APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiooctopusenergy-0.4.2.tar.gz",
+  "download_time": "2026-03-08T08:54:34.089364",
+  "package_url": "https://pypi.org/project/aiooctopusenergy/"
+}

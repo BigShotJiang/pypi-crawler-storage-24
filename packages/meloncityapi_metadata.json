@@ -1,0 +1,11 @@
+{
+  "name": "meloncityapi",
+  "version": "0.2.0",
+  "summary": "CLI tool and library for Pycord Discord bots",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meloncityapi-0.2.0.tar.gz",
+  "download_time": "2026-03-08T08:54:30.491581",
+  "package_url": "https://pypi.org/project/meloncityapi/"
+}

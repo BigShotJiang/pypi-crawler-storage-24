@@ -1,0 +1,11 @@
+{
+  "name": "nwon_django_toolbox",
+  "version": "0.7.1",
+  "summary": "Some Django Wizardry",
+  "author": "Reik Stiebeling",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nwon_django_toolbox-0.7.1.tar.gz",
+  "download_time": "2026-03-08T08:54:05.281180",
+  "package_url": "https://pypi.org/project/nwon_django_toolbox/"
+}

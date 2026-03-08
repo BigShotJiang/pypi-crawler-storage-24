@@ -1,0 +1,11 @@
+{
+  "name": "mofclassifier",
+  "version": "0.1.2",
+  "summary": "A Machine Learning Approach for Validating Computation-Ready Metal-Organic Frameworks",
+  "author": "Guobin Zhao",
+  "license": "CC-BY-4.0",
+  "home_page": "https://github.com/Chung-Research-Group/MOFClassifier",
+  "download_filename": "mofclassifier-0.1.2.tar.gz",
+  "download_time": "2026-03-08T08:54:41.279288",
+  "package_url": "https://pypi.org/project/mofclassifier/"
+}

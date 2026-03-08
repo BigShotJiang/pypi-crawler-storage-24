@@ -1,0 +1,11 @@
+{
+  "name": "pywingui",
+  "version": "5.0.4",
+  "summary": "PyWinGUI GUI Automation Library for Windows Forms (Binary Distribution)",
+  "author": "User",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pywingui-5.0.4-cp311-none-win32.whl",
+  "download_time": "2026-03-08T08:54:49.617306",
+  "package_url": "https://pypi.org/project/pywingui/"
+}

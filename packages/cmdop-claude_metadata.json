@@ -1,11 +1,11 @@
 {
   "name": "cmdop-claude",
-  "version": "0.1.31",
+  "version": "0.1.34",
   "summary": "Self-maintaining .claude/ runtime — LLM-powered doc review, project map, task queue, auto-fix, and project init",
   "author": "markinmatrix",
   "license": null,
   "home_page": null,
-  "download_filename": "cmdop_claude-0.1.31.tar.gz",
-  "download_time": "2026-03-08T08:25:02.018238",
+  "download_filename": "cmdop_claude-0.1.34.tar.gz",
+  "download_time": "2026-03-08T08:54:08.371662",
   "package_url": "https://pypi.org/project/cmdop-claude/"
 }

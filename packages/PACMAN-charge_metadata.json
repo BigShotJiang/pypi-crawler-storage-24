@@ -1,0 +1,11 @@
+{
+  "name": "PACMAN-charge",
+  "version": "1.4.2",
+  "summary": "Partial Atomic Charges for Porous Materials based on Graph Convolutional Neural Network (PACMAN)",
+  "author": "Guobin Zhao",
+  "license": "MIT",
+  "home_page": "https://github.com/mtap-research/PACMAN-charge/",
+  "download_filename": "pacman_charge-1.4.2.tar.gz",
+  "download_time": "2026-03-08T08:54:48.080289",
+  "package_url": "https://pypi.org/project/PACMAN-charge/"
+}

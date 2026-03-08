@@ -1,0 +1,11 @@
+{
+  "name": "pymdown-symbolic-snippets",
+  "version": "0.1.0",
+  "summary": "Symbol-aware markdown snippet references for pymdownx.snippets",
+  "author": "Jakob Guldberg Aaes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymdown_symbolic_snippets-0.1.0.tar.gz",
+  "download_time": "2026-03-08T08:54:37.179031",
+  "package_url": "https://pypi.org/project/pymdown-symbolic-snippets/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-first-data",
+  "version": "0.6.0",
+  "summary": "Agent-First Data (AFDATA) — suffix-driven output formatting and protocol templates for AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_first_data-0.6.0.tar.gz",
+  "download_time": "2026-03-08T08:54:18.645165",
+  "package_url": "https://pypi.org/project/agent-first-data/"
+}
