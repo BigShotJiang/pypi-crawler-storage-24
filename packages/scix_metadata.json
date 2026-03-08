@@ -1,11 +1,11 @@
 {
   "name": "scix",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "PyPI-first scaffold for a dual Codex and Claude science workspace.",
-  "author": "Zoey",
+  "author": "Zoey Hu",
   "license": null,
   "home_page": null,
-  "download_filename": "scix-0.1.0.tar.gz",
-  "download_time": "2026-03-07T20:47:37.123778",
+  "download_filename": "scix-0.1.3.tar.gz",
+  "download_time": "2026-03-08T05:59:02.524175",
   "package_url": "https://pypi.org/project/scix/"
 }

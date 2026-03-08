@@ -1,11 +1,11 @@
 {
   "name": "neleus",
-  "version": "0.1.7",
-  "summary": null,
-  "author": null,
-  "license": "Apache-2.0",
+  "version": "0.1.13",
+  "summary": "Hyperliquid-first trading CLI and Python toolkit for terminal-first trading workflows",
+  "author": "Neleus Team",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "neleus-0.1.7-cp310-cp310-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-07T23:44:19.914175",
+  "download_filename": "neleus-0.1.13.tar.gz",
+  "download_time": "2026-03-08T05:59:16.745277",
   "package_url": "https://pypi.org/project/neleus/"
 }

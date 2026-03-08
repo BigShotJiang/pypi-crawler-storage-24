@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-improvmx",
+  "version": "0.1.2",
+  "summary": "Manage ImprovMX email forwarding resources.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulumi_improvmx-0.1.2.tar.gz",
+  "download_time": "2026-03-08T05:58:58.313069",
+  "package_url": "https://pypi.org/project/pulumi-improvmx/"
+}

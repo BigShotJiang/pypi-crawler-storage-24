@@ -1,0 +1,11 @@
+{
+  "name": "tiptoi-tools",
+  "version": "0.1.0",
+  "summary": "Tiptoi GME inspection and extraction tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiptoi_tools-0.1.0.tar.gz",
+  "download_time": "2026-03-08T05:59:14.660581",
+  "package_url": "https://pypi.org/project/tiptoi-tools/"
+}

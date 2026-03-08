@@ -1,0 +1,11 @@
+{
+  "name": "zoomy-core",
+  "version": "0.1.19",
+  "summary": "zoomy_core is the pure Python core of Zoomy: A simulation software for dimensionally-reduced free surface flows.",
+  "author": null,
+  "license": "GNU",
+  "home_page": null,
+  "download_filename": "zoomy_core-0.1.19.tar.gz",
+  "download_time": "2026-03-08T05:59:17.789357",
+  "package_url": "https://pypi.org/project/zoomy-core/"
+}

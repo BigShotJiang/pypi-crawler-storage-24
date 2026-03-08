@@ -1,0 +1,11 @@
+{
+  "name": "gh-stars-organizer",
+  "version": "1.0.2",
+  "summary": "Organize GitHub starred repositories into intelligent Star Lists with LLMs and embeddings.",
+  "author": "gh-stars-organizer contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gh_stars_organizer-1.0.2.tar.gz",
+  "download_time": "2026-03-08T05:59:28.270329",
+  "package_url": "https://pypi.org/project/gh-stars-organizer/"
+}

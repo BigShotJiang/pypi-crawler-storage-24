@@ -1,11 +1,11 @@
 {
   "name": "drive-editor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Biblioteca Python para interagir com o Google Drive via links de compartilhamento",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drive_editor-1.0.1.tar.gz",
-  "download_time": "2026-03-08T05:15:14.898909",
+  "download_filename": "drive_editor-1.0.2.tar.gz",
+  "download_time": "2026-03-08T05:59:41.817550",
   "package_url": "https://pypi.org/project/drive-editor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "clang-build-ext",
+  "version": "0.0.3",
+  "summary": "Clang-based extension builder",
+  "author": "Karellen, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/karellen/clang-build-ext",
+  "download_filename": "clang_build_ext-0.0.3.tar.gz",
+  "download_time": "2026-03-08T05:59:09.870569",
+  "package_url": "https://pypi.org/project/clang-build-ext/"
+}

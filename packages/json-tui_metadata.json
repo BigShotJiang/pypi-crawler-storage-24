@@ -1,11 +1,11 @@
 {
   "name": "json-tui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A terminal JSON viewer with columnar navigation like JSON Hero",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "json_tui-1.0.0.tar.gz",
-  "download_time": "2026-03-08T04:07:22.451629",
+  "download_filename": "json_tui-1.0.1.tar.gz",
+  "download_time": "2026-03-08T05:59:24.097923",
   "package_url": "https://pypi.org/project/json-tui/"
 }

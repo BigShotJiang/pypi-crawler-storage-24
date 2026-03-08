@@ -1,0 +1,11 @@
+{
+  "name": "kdocs-sql-model",
+  "version": "1.0.0",
+  "summary": "A sqlite3-like Python interface for KDocsSQL database operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdocs_sql_model-1.0.0.tar.gz",
+  "download_time": "2026-03-08T05:59:10.388741",
+  "package_url": "https://pypi.org/project/kdocs-sql-model/"
+}

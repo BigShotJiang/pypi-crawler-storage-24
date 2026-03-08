@@ -1,0 +1,11 @@
+{
+  "name": "pyfabricops",
+  "version": "0.4.2",
+  "summary": "A Python wrapper library for Microsoft Fabric and Power BI that provides a simple, consistent interface to the official Fabric REST APIs, with automatic fallback to Power BI REST APIs when required. Designed to run in Fabric notebooks, pure Python scripts, or as part of YAML-based CI/CD workflows.",
+  "author": "alisonpezzott",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfabricops-0.4.2.tar.gz",
+  "download_time": "2026-03-08T05:59:32.465507",
+  "package_url": "https://pypi.org/project/pyfabricops/"
+}

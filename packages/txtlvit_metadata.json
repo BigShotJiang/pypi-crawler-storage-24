@@ -1,11 +1,11 @@
 {
   "name": "txtlvit",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A Python CLI for common text processing tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "txtlvit-0.2.0.tar.gz",
-  "download_time": "2026-03-08T05:15:09.651050",
+  "download_filename": "txtlvit-0.3.0.tar.gz",
+  "download_time": "2026-03-08T05:59:41.299747",
   "package_url": "https://pypi.org/project/txtlvit/"
 }

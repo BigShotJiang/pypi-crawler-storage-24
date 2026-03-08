@@ -1,0 +1,11 @@
+{
+  "name": "safedrive-ai",
+  "version": "0.2.1",
+  "summary": "Real-time driver monitoring SDK — drowsiness, phone, seatbelt and smoking detection",
+  "author": "Sayan Raj",
+  "license": "MIT",
+  "home_page": "https://github.com/RAj5517/SafeDrive-sdk",
+  "download_filename": "safedrive_ai-0.2.1.tar.gz",
+  "download_time": "2026-03-08T05:59:22.009641",
+  "package_url": "https://pypi.org/project/safedrive-ai/"
+}
