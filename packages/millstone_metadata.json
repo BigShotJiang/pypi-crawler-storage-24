@@ -1,11 +1,11 @@
 {
   "name": "millstone",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Orchestrator for agentic coding tools",
   "author": "millstone contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "millstone-0.4.1.tar.gz",
-  "download_time": "2026-03-08T01:48:16.145175",
+  "download_filename": "millstone-0.4.2.tar.gz",
+  "download_time": "2026-03-08T04:06:53.580593",
   "package_url": "https://pypi.org/project/millstone/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "andon-for-llm-agents",
+  "version": "0.1.0",
+  "summary": "TPS-inspired ANDON safety hooks for LLM coding agents",
+  "author": "AllNew LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "andon_for_llm_agents-0.1.0.tar.gz",
+  "download_time": "2026-03-08T04:06:48.704689",
+  "package_url": "https://pypi.org/project/andon-for-llm-agents/"
+}

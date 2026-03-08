@@ -1,11 +1,11 @@
 {
   "name": "orderwave",
-  "version": "0.4.4",
+  "version": "0.4.7",
   "summary": "An order-flow-driven synthetic market simulator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orderwave-0.4.4.tar.gz",
-  "download_time": "2026-03-08T01:48:36.571148",
+  "download_filename": "orderwave-0.4.7.tar.gz",
+  "download_time": "2026-03-08T04:07:24.055614",
   "package_url": "https://pypi.org/project/orderwave/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pypi-cleanup",
+  "version": "0.1.10",
+  "summary": "PyPI Bulk Release Version Cleanup Utility",
+  "author": "Arcadiy Ivanov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/arcivanov/pypi-cleanup",
+  "download_filename": "pypi_cleanup-0.1.10.tar.gz",
+  "download_time": "2026-03-08T04:07:16.357871",
+  "package_url": "https://pypi.org/project/pypi-cleanup/"
+}

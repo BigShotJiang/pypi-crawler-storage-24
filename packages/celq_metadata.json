@@ -1,0 +1,11 @@
+{
+  "name": "celq",
+  "version": "0.3.4",
+  "summary": "A CEL command-line query tool for JSON data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "celq-0.3.4.tar.gz",
+  "download_time": "2026-03-08T04:06:58.412426",
+  "package_url": "https://pypi.org/project/celq/"
+}

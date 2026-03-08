@@ -1,0 +1,11 @@
+{
+  "name": "l3chu-ytdl",
+  "version": "1.0.0",
+  "summary": "Descargador de YouTube interactivo: MP4 con video + audio",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "l3chu_ytdl-1.0.0.tar.gz",
+  "download_time": "2026-03-08T04:07:23.521429",
+  "package_url": "https://pypi.org/project/l3chu-ytdl/"
+}

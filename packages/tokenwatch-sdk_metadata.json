@@ -1,0 +1,11 @@
+{
+  "name": "tokenwatch-sdk",
+  "version": "0.1.4",
+  "summary": "Zero-config AI usage tracking — wrap any OpenAI/Anthropic client and log to your TokenWatch dashboard",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokenwatch_sdk-0.1.4.tar.gz",
+  "download_time": "2026-03-08T04:06:48.169947",
+  "package_url": "https://pypi.org/project/tokenwatch-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "avakill",
+  "version": "1.2.0",
+  "summary": "Open-source safety firewall for AI agents. Intercept tool calls. Enforce policies. Kill dangerous operations.",
+  "author": "Copyright 2026 AvaKill Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "avakill-1.2.0.tar.gz",
+  "download_time": "2026-03-08T04:07:14.166304",
+  "package_url": "https://pypi.org/project/avakill/"
+}

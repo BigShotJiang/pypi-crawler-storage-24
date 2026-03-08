@@ -1,11 +1,11 @@
 {
   "name": "kintera",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Atmospheric Chemistry and Thermodynamics Library",
   "author": null,
   "license": "LICENSE",
   "home_page": null,
-  "download_filename": "kintera-2.0.0-cp310-cp310-macosx_15_0_arm64.whl",
-  "download_time": "2026-03-07T18:30:04.915987",
+  "download_filename": "kintera-2.0.1-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-03-08T04:07:30.527185",
   "package_url": "https://pypi.org/project/kintera/"
 }

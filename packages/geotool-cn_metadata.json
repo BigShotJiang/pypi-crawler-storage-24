@@ -1,0 +1,11 @@
+{
+  "name": "geotool-cn",
+  "version": "2.0.0",
+  "summary": "Offline geocoding and reverse geocoding for Chinese administrative regions",
+  "author": "Cohen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geotool_cn-2.0.0.tar.gz",
+  "download_time": "2026-03-08T04:07:11.954641",
+  "package_url": "https://pypi.org/project/geotool-cn/"
+}

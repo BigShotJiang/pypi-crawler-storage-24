@@ -1,0 +1,11 @@
+{
+  "name": "gag",
+  "version": "0.0.1",
+  "summary": "Namespace package for the GAG (Git/Github Agentic) tool suite.",
+  "author": "Takashi Sasaki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gag-0.0.1.tar.gz",
+  "download_time": "2026-03-08T04:06:51.412894",
+  "package_url": "https://pypi.org/project/gag/"
+}
