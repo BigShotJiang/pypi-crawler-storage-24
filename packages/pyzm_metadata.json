@@ -1,0 +1,11 @@
+{
+  "name": "pyzm",
+  "version": "2.3.2",
+  "summary": "ZoneMinder API, Logger and other base utilities for python programmers",
+  "author": "Pliable Pixels",
+  "license": "GPL",
+  "home_page": "https://github.com/pliablepixels/pyzm",
+  "download_filename": "pyzm-2.3.2.tar.gz",
+  "download_time": "2026-03-08T12:36:48.355512",
+  "package_url": "https://pypi.org/project/pyzm/"
+}

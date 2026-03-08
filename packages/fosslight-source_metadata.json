@@ -1,0 +1,11 @@
+{
+  "name": "fosslight-source",
+  "version": "2.2.9",
+  "summary": "FOSSLight Source Scanner",
+  "author": "LG Electronics",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/fosslight/fosslight_source_scanner",
+  "download_filename": "fosslight_source-2.2.9.tar.gz",
+  "download_time": "2026-03-08T12:36:23.464196",
+  "package_url": "https://pypi.org/project/fosslight-source/"
+}

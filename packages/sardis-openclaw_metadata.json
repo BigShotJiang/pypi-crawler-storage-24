@@ -1,0 +1,11 @@
+{
+  "name": "sardis-openclaw",
+  "version": "1.0.0",
+  "summary": "OpenClaw skill for Sardis - Payment OS for AI Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sardis_openclaw-1.0.0.tar.gz",
+  "download_time": "2026-03-08T12:36:54.805963",
+  "package_url": "https://pypi.org/project/sardis-openclaw/"
+}

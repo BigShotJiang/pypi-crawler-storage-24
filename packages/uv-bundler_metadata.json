@@ -1,0 +1,11 @@
+{
+  "name": "uv-bundler",
+  "version": "1.0.0",
+  "summary": "Universal cross-platform Python packager powered by uv",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_bundler-1.0.0.tar.gz",
+  "download_time": "2026-03-08T12:36:15.977153",
+  "package_url": "https://pypi.org/project/uv-bundler/"
+}

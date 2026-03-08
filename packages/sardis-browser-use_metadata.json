@@ -1,0 +1,11 @@
+{
+  "name": "sardis-browser-use",
+  "version": "1.0.0",
+  "summary": "Sardis payment tools for Browser Use - enable browser agents to make policy-controlled payments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sardis_browser_use-1.0.0.tar.gz",
+  "download_time": "2026-03-08T12:36:56.397812",
+  "package_url": "https://pypi.org/project/sardis-browser-use/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ts4k",
+  "version": "0.1.8",
+  "summary": "Token-efficient messaging gateway for LLM agents",
+  "author": "Peter Drier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ts4k-0.1.8.tar.gz",
+  "download_time": "2026-03-08T12:36:12.257679",
+  "package_url": "https://pypi.org/project/ts4k/"
+}

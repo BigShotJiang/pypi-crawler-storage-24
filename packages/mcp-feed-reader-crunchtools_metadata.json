@@ -1,0 +1,11 @@
+{
+  "name": "mcp-feed-reader-crunchtools",
+  "version": "0.1.2",
+  "summary": "Secure MCP server for RSS/Atom feed reading — SQLite-backed, self-contained",
+  "author": "crunchtools.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_feed_reader_crunchtools-0.1.2.tar.gz",
+  "download_time": "2026-03-08T12:36:29.432990",
+  "package_url": "https://pypi.org/project/mcp-feed-reader-crunchtools/"
+}

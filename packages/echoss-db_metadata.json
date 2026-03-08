@@ -1,0 +1,11 @@
+{
+  "name": "echoss-db",
+  "version": "1.2.4",
+  "summary": "echoss AI Bigdata Solution - Database Query Package",
+  "author": "ckkim",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/12cmlab/echoss-query",
+  "download_filename": "echoss_db-1.2.4.tar.gz",
+  "download_time": "2026-03-08T12:36:26.122466",
+  "package_url": "https://pypi.org/project/echoss-db/"
+}

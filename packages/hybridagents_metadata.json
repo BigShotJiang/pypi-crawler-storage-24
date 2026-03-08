@@ -1,11 +1,11 @@
 {
   "name": "hybridagents",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Modular agentic framework - hybrid LLM (Ollama + Azure AI Foundry + GitHub Copilot) with privacy filters",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hybridagents-1.2.0.tar.gz",
-  "download_time": "2026-03-08T11:55:00.124624",
+  "download_filename": "hybridagents-1.2.1.tar.gz",
+  "download_time": "2026-03-08T12:36:49.435376",
   "package_url": "https://pypi.org/project/hybridagents/"
 }

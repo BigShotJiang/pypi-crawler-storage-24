@@ -1,0 +1,11 @@
+{
+  "name": "treska",
+  "version": "0.1.0",
+  "summary": "Treska is a fast forensic parser for zipped logical extractions in CTF competitions.",
+  "author": "ShadowStrike-CTF",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "treska-0.1.0.tar.gz",
+  "download_time": "2026-03-08T12:36:33.172942",
+  "package_url": "https://pypi.org/project/treska/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "i2psam",
+  "version": "1.0.0",
+  "summary": "Async Python client for the I2P SAM (Simple Anonymous Messaging) protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "i2psam-1.0.0.tar.gz",
+  "download_time": "2026-03-08T12:36:13.319570",
+  "package_url": "https://pypi.org/project/i2psam/"
+}

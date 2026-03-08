@@ -1,11 +1,11 @@
 {
   "name": "mutation",
-  "version": "0.5.5",
+  "version": "0.6.0",
   "summary": "Your tests pass. But do they actually test anything?",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mutation-0.5.5.tar.gz",
-  "download_time": "2026-03-07T16:26:10.019906",
+  "download_filename": "mutation-0.6.0.tar.gz",
+  "download_time": "2026-03-08T12:36:22.401653",
   "package_url": "https://pypi.org/project/mutation/"
 }

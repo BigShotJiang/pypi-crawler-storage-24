@@ -1,0 +1,11 @@
+{
+  "name": "sardis-adk",
+  "version": "1.0.0",
+  "summary": "Google Agent Development Kit (ADK) integration for Sardis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sardis_adk-1.0.0.tar.gz",
+  "download_time": "2026-03-08T12:36:56.946378",
+  "package_url": "https://pypi.org/project/sardis-adk/"
+}

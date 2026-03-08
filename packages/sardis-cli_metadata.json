@@ -1,0 +1,11 @@
+{
+  "name": "sardis-cli",
+  "version": "1.0.0",
+  "summary": "Sardis command-line interface for agent payments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sardis_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-08T12:36:52.664751",
+  "package_url": "https://pypi.org/project/sardis-cli/"
+}

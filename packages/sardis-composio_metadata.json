@@ -1,0 +1,11 @@
+{
+  "name": "sardis-composio",
+  "version": "1.0.0",
+  "summary": "Sardis payment tools for Composio's tool marketplace",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sardis_composio-1.0.0.tar.gz",
+  "download_time": "2026-03-08T12:36:55.867781",
+  "package_url": "https://pypi.org/project/sardis-composio/"
+}

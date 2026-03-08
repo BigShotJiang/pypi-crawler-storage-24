@@ -1,0 +1,11 @@
+{
+  "name": "teachbooks-zoomies",
+  "version": "0.2.3",
+  "summary": "A Sphinx extension to integrate Viewer.js for image zooming into Sphinx documentation (designed for JupyterBook v1).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "teachbooks_zoomies-0.2.3.tar.gz",
+  "download_time": "2026-03-08T12:36:39.098132",
+  "package_url": "https://pypi.org/project/teachbooks-zoomies/"
+}
