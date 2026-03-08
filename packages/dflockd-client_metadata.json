@@ -1,11 +1,11 @@
 {
   "name": "dflockd-client",
-  "version": "1.8.7",
+  "version": "1.8.9",
   "summary": "dflockd python client",
   "author": "Matth Ingersoll",
   "license": null,
   "home_page": null,
-  "download_filename": "dflockd_client-1.8.7.tar.gz",
-  "download_time": "2026-03-07T16:49:56.610760",
+  "download_filename": "dflockd_client-1.8.9.tar.gz",
+  "download_time": "2026-03-08T17:48:37.018643",
   "package_url": "https://pypi.org/project/dflockd-client/"
 }

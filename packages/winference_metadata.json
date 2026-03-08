@@ -1,0 +1,11 @@
+{
+  "name": "winference",
+  "version": "0.1.0",
+  "summary": "Win rate calibration under non-transitivity via Hodge decomposition and heterogeneous group testing",
+  "author": "gaurav sood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "winference-0.1.0.tar.gz",
+  "download_time": "2026-03-08T17:48:43.187247",
+  "package_url": "https://pypi.org/project/winference/"
+}

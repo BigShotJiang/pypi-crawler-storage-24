@@ -1,0 +1,11 @@
+{
+  "name": "ai-semantic-engine",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the AI Semantic Engine",
+  "author": "Olaiwola Akeem Salau",
+  "license": null,
+  "home_page": "https://github.com/ai-semantic-engine/python-sdk",
+  "download_filename": "ai_semantic_engine-1.0.0.tar.gz",
+  "download_time": "2026-03-08T17:48:40.112007",
+  "package_url": "https://pypi.org/project/ai-semantic-engine/"
+}

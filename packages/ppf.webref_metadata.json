@@ -1,0 +1,11 @@
+{
+  "name": "ppf.webref",
+  "version": "0.2.0",
+  "summary": "Flask app providing a web-interface to a JabRef database",
+  "author": "Adrian Schlatter",
+  "license": "MIT",
+  "home_page": "https://github.com/adrianschlatter/ppf.webref/tree/master",
+  "download_filename": "ppf_webref-0.2.0-py3-none-any.whl",
+  "download_time": "2026-03-08T17:49:00.446110",
+  "package_url": "https://pypi.org/project/ppf.webref/"
+}

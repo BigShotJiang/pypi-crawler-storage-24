@@ -1,0 +1,11 @@
+{
+  "name": "understudy",
+  "version": "0.1.0",
+  "summary": "Simulation and trace-based evaluation for agentic systems",
+  "author": "Gaurav Sood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "understudy-0.1.0.tar.gz",
+  "download_time": "2026-03-08T17:48:42.161406",
+  "package_url": "https://pypi.org/project/understudy/"
+}

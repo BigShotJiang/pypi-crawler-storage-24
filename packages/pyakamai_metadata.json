@@ -1,11 +1,11 @@
 {
   "name": "pyakamai",
-  "version": "3.3",
+  "version": "3.4",
   "summary": "A Boto3 like SDK for Akamai",
   "author": "Achuthananda M P",
   "license": null,
   "home_page": "https://github.com/Achuthananda/pyakamai",
-  "download_filename": "pyakamai-3.3-py3-none-any.whl",
-  "download_time": "2026-03-08T15:59:25.999692",
+  "download_filename": "pyakamai-3.4-py3-none-any.whl",
+  "download_time": "2026-03-08T17:48:44.269855",
   "package_url": "https://pypi.org/project/pyakamai/"
 }
