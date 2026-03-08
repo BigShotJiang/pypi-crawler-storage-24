@@ -1,0 +1,11 @@
+{
+  "name": "ados",
+  "version": "0.1.0",
+  "summary": "AI-powered coding agent for your terminal - like Claude Code",
+  "author": "Yash Khalkar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ados-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-08T11:55:01.219684",
+  "package_url": "https://pypi.org/project/ados/"
+}

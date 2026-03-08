@@ -1,0 +1,11 @@
+{
+  "name": "twmcp",
+  "version": "1.0.0",
+  "summary": "MCP configuration compiler for multiple AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twmcp-1.0.0.tar.gz",
+  "download_time": "2026-03-08T11:55:15.961617",
+  "package_url": "https://pypi.org/project/twmcp/"
+}
