@@ -1,0 +1,11 @@
+{
+  "name": "atomrdf",
+  "version": "0.11.4",
+  "summary": "Ontology based structural manipulation and quering",
+  "author": "Abril Azocar Guzman, Sarath Menon",
+  "license": null,
+  "home_page": "https://pyscal.org",
+  "download_filename": "atomrdf-0.11.4.tar.gz",
+  "download_time": "2026-03-08T07:51:12.059852",
+  "package_url": "https://pypi.org/project/atomrdf/"
+}

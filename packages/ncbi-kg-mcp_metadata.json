@@ -1,11 +1,11 @@
 {
   "name": "ncbi-kg-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "MCP server for the NCBI Knowledge Graph - query 82K biomedical nodes via any LLM",
   "author": "Monideep Chakraborti",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ncbi_kg_mcp-1.0.0.tar.gz",
-  "download_time": "2026-03-08T07:28:07.962627",
+  "download_filename": "ncbi_kg_mcp-1.0.1.tar.gz",
+  "download_time": "2026-03-08T07:51:40.672383",
   "package_url": "https://pypi.org/project/ncbi-kg-mcp/"
 }

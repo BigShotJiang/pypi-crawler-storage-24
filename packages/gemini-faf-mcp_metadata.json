@@ -1,11 +1,11 @@
 {
   "name": "gemini-faf-mcp",
-  "version": "1.1.0",
-  "summary": "Universal Context Landing Pad for FAF (Foundational AI-context Format)",
+  "version": "2.0.1",
+  "summary": "FAF MCP Server for Gemini — Read, validate, and score IANA-registered .faf project DNA",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gemini_faf_mcp-1.1.0.tar.gz",
-  "download_time": "2026-03-07T06:32:48.920119",
+  "download_filename": "gemini_faf_mcp-2.0.1.tar.gz",
+  "download_time": "2026-03-08T07:51:31.117031",
   "package_url": "https://pypi.org/project/gemini-faf-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flockmem",
+  "version": "0.2.0",
+  "summary": "Lightweight long-term memory system for local/edge AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flockmem-0.2.0.tar.gz",
+  "download_time": "2026-03-08T07:51:32.556186",
+  "package_url": "https://pypi.org/project/flockmem/"
+}
