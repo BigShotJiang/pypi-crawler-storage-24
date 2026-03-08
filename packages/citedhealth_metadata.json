@@ -1,0 +1,11 @@
+{
+  "name": "citedhealth",
+  "version": "0.1.0",
+  "summary": "Evidence-based supplement research API client — search ingredients, conditions, evidence grades, and PubMed papers from Cited Health.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "citedhealth-0.1.0.tar.gz",
+  "download_time": "2026-03-08T08:25:06.634858",
+  "package_url": "https://pypi.org/project/citedhealth/"
+}

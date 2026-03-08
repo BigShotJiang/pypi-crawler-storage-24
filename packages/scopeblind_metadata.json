@@ -1,11 +1,11 @@
 {
   "name": "scopeblind",
-  "version": "1.1.1",
-  "summary": "API abuse protection with DPoP proof-of-possession and cryptographic device proofs (VOPRF). Replaces CAPTCHAs for browsers and AI agents. No PII, no friction, ~20ms at the edge.",
+  "version": "1.1.2",
+  "summary": "JWT verification middleware and agent-safe access control for public APIs. Supports trusted-agent verification, browser protection, and secure backend enforcement.",
   "author": null,
-  "license": null,
+  "license": "FSL-1.1-MIT",
   "home_page": null,
-  "download_filename": "scopeblind-1.1.1.tar.gz",
-  "download_time": "2026-03-07T08:56:17.486864",
+  "download_filename": "scopeblind-1.1.2.tar.gz",
+  "download_time": "2026-03-08T08:25:15.407282",
   "package_url": "https://pypi.org/project/scopeblind/"
 }

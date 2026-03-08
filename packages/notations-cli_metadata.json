@@ -1,0 +1,11 @@
+{
+  "name": "notations-cli",
+  "version": "0.1.0",
+  "summary": "Extract notation tables from arXiv papers using LLMs",
+  "author": "Takashi Ishida",
+  "license": null,
+  "home_page": null,
+  "download_filename": "notations_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-08T08:25:09.194631",
+  "package_url": "https://pypi.org/project/notations-cli/"
+}

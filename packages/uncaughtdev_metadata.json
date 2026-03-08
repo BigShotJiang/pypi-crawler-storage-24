@@ -1,0 +1,11 @@
+{
+  "name": "uncaughtdev",
+  "version": "0.1.0",
+  "summary": "Local-first, AI-ready error monitoring for Python — catch bugs, get AI-powered fixes",
+  "author": "Uncaught Dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uncaughtdev-0.1.0.tar.gz",
+  "download_time": "2026-03-08T08:25:01.507407",
+  "package_url": "https://pypi.org/project/uncaughtdev/"
+}

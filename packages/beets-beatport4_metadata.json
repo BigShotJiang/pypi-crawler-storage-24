@@ -1,0 +1,11 @@
+{
+  "name": "beets-beatport4",
+  "version": "1.1.0",
+  "summary": "Plugin for beets (http://beets.io) to replace stock beatport plugin which is not yet compatible with Beatport API v4.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beets_beatport4-1.1.0.tar.gz",
+  "download_time": "2026-03-08T08:24:57.888812",
+  "package_url": "https://pypi.org/project/beets-beatport4/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "synapseTools",
+  "version": "0.1.1",
+  "summary": "Utility toolkit for data exploration, audio mel-spectrogram generation, and Spanish phonetic processing.",
+  "author": "SYNAPSE AI SAS",
+  "license": null,
+  "home_page": "https://github.com/synapse-ai-hub/synapseTools",
+  "download_filename": "synapsetools-0.1.1.tar.gz",
+  "download_time": "2026-03-08T08:25:20.672100",
+  "package_url": "https://pypi.org/project/synapseTools/"
+}

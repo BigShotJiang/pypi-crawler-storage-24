@@ -1,0 +1,11 @@
+{
+  "name": "librelyrics-spotify",
+  "version": "1.0.1",
+  "summary": "Spotify lyrics provider plugin for LibreLyrics",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "librelyrics_spotify-1.0.1.tar.gz",
+  "download_time": "2026-03-08T08:24:40.593010",
+  "package_url": "https://pypi.org/project/librelyrics-spotify/"
+}

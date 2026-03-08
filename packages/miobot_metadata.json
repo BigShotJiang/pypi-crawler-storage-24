@@ -1,0 +1,11 @@
+{
+  "name": "miobot",
+  "version": "0.1.7",
+  "summary": "A lightweight personal AI assistant framework",
+  "author": "miobot contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miobot-0.1.7.tar.gz",
+  "download_time": "2026-03-08T08:25:06.124988",
+  "package_url": "https://pypi.org/project/miobot/"
+}

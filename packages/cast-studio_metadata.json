@@ -1,0 +1,11 @@
+{
+  "name": "cast-studio",
+  "version": "0.1.1",
+  "summary": "Convert asciinema .cast files to GIF and MP4, with a generic demo-recording engine",
+  "author": "Avi Zaguri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cast_studio-0.1.1.tar.gz",
+  "download_time": "2026-03-08T08:24:49.112160",
+  "package_url": "https://pypi.org/project/cast-studio/"
+}

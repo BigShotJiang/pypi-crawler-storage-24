@@ -1,0 +1,11 @@
+{
+  "name": "uv-upsync",
+  "version": "2.2.0",
+  "summary": "uv-upsync - is a tool for automated dependency updates and version bumping in pyproject.toml.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_upsync-2.2.0.tar.gz",
+  "download_time": "2026-03-08T08:24:58.399928",
+  "package_url": "https://pypi.org/project/uv-upsync/"
+}

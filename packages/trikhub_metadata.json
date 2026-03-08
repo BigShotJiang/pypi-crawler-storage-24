@@ -1,0 +1,11 @@
+{
+  "name": "trikhub",
+  "version": "0.18.0",
+  "summary": "Python SDK for TrikHub - AI skills marketplace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trikhub-0.18.0.tar.gz",
+  "download_time": "2026-03-08T08:24:50.689226",
+  "package_url": "https://pypi.org/project/trikhub/"
+}

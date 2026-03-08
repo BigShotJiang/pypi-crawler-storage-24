@@ -1,0 +1,11 @@
+{
+  "name": "ihroteka-converter",
+  "version": "1.2.0",
+  "summary": "A lightweight package for converting Markdown into Steam-compatible markup.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ihroteka_converter-1.2.0.tar.gz",
+  "download_time": "2026-03-08T08:24:58.912336",
+  "package_url": "https://pypi.org/project/ihroteka-converter/"
+}

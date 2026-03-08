@@ -1,0 +1,11 @@
+{
+  "name": "clawaimail",
+  "version": "0.1.0",
+  "summary": "ClawAIMail SDK - Email inbox API for AI agents",
+  "author": "ClawAIMail",
+  "license": "MIT",
+  "home_page": "https://clawaimail.com",
+  "download_filename": "clawaimail-0.1.0.tar.gz",
+  "download_time": "2026-03-08T08:25:27.920992",
+  "package_url": "https://pypi.org/project/clawaimail/"
+}

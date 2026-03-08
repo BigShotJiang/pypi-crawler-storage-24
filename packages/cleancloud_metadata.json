@@ -1,11 +1,11 @@
 {
   "name": "cleancloud",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "summary": "Reduce cloud costs through safe, read-only hygiene evaluation. Built for production environments with confidence-scored signals for AWS and Azure.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cleancloud-1.7.0.tar.gz",
-  "download_time": "2026-03-07T20:47:05.320164",
+  "download_filename": "cleancloud-1.7.1.tar.gz",
+  "download_time": "2026-03-08T08:25:26.358714",
   "package_url": "https://pypi.org/project/cleancloud/"
 }
