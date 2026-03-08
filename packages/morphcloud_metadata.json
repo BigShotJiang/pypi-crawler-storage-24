@@ -1,0 +1,11 @@
+{
+  "name": "morphcloud",
+  "version": "0.1.106",
+  "summary": "A Python SDK and CLI tool for creating, managing, and interacting with Morph Cloud VMs.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "morphcloud-0.1.106.tar.gz",
+  "download_time": "2026-03-08T15:19:01.026747",
+  "package_url": "https://pypi.org/project/morphcloud/"
+}

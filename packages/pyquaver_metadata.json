@@ -1,0 +1,11 @@
+{
+  "name": "pyquaver",
+  "version": "0.1.0",
+  "summary": "Standalone PyPI library for quantitative trading signal generation and backtesting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyquaver-0.1.0.tar.gz",
+  "download_time": "2026-03-08T15:18:52.154259",
+  "package_url": "https://pypi.org/project/pyquaver/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pkpm",
+  "version": "1.0.0",
+  "summary": "A Python-based CLI package manager that works like npm.",
+  "author": "pkpm authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkpm-1.0.0.tar.gz",
+  "download_time": "2026-03-08T15:18:53.423734",
+  "package_url": "https://pypi.org/project/pkpm/"
+}
