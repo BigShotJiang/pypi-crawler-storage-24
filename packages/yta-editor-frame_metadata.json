@@ -1,11 +1,11 @@
 {
   "name": "yta-editor-frame",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "Youtube Autonomous Main Editor Frame module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_editor_frame-0.0.6.tar.gz",
-  "download_time": "2026-03-07T19:42:32.247201",
+  "download_filename": "yta_editor_frame-0.0.8.tar.gz",
+  "download_time": "2026-03-08T10:20:10.442355",
   "package_url": "https://pypi.org/project/yta-editor-frame/"
 }

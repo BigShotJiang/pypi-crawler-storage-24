@@ -1,0 +1,11 @@
+{
+  "name": "a2a-smol-adapter",
+  "version": "0.1.0",
+  "summary": "Bridge between smolagents and the A2A (Agent2Agent) protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "a2a_smol_adapter-0.1.0.tar.gz",
+  "download_time": "2026-03-08T10:20:15.179242",
+  "package_url": "https://pypi.org/project/a2a-smol-adapter/"
+}

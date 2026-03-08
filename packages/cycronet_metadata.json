@@ -1,0 +1,11 @@
+{
+  "name": "cycronet",
+  "version": "144.0.9",
+  "summary": "Python bindings for Cronet-Cloak - Authentic Chrome TLS/HTTP2 fingerprints with async support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cycronet-144.0.9-cp37-abi3-win_amd64.whl",
+  "download_time": "2026-03-08T10:20:12.570896",
+  "package_url": "https://pypi.org/project/cycronet/"
+}

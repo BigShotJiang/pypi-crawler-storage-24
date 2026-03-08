@@ -1,11 +1,11 @@
 {
   "name": "codryx",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python developer toolkit for code safety and health",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codryx-0.1.1.tar.gz",
-  "download_time": "2026-03-07T22:18:12.182505",
+  "download_filename": "codryx-0.1.2.tar.gz",
+  "download_time": "2026-03-08T10:20:25.566952",
   "package_url": "https://pypi.org/project/codryx/"
 }

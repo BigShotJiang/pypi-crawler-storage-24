@@ -1,11 +1,11 @@
 {
   "name": "walrasquant",
-  "version": "0.3.11",
+  "version": "0.3.14",
   "summary": "fastest python trading bot",
   "author": "River-Shi",
   "license": "MIT LICENSE",
   "home_page": null,
-  "download_filename": "walrasquant-0.3.11.tar.gz",
-  "download_time": "2026-03-07T11:41:57.216395",
+  "download_filename": "walrasquant-0.3.14.tar.gz",
+  "download_time": "2026-03-08T10:20:24.529289",
   "package_url": "https://pypi.org/project/walrasquant/"
 }

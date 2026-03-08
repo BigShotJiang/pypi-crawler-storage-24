@@ -1,0 +1,11 @@
+{
+  "name": "fxpyd365api",
+  "version": "2.3.1",
+  "summary": "Wrapper classes for working with Dynamics 365 web API entities.",
+  "author": "Flexit developers",
+  "license": "BSD",
+  "home_page": "https://github.com/flexitdev/fxpyD365api",
+  "download_filename": "fxpyd365api-2.3.1.tar.gz",
+  "download_time": "2026-03-08T10:20:05.214075",
+  "package_url": "https://pypi.org/project/fxpyd365api/"
+}

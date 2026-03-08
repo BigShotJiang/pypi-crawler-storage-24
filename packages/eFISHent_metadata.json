@@ -1,0 +1,11 @@
+{
+  "name": "eFISHent",
+  "version": "0.0.8",
+  "summary": "RNA FISH oligos/probes design tool.",
+  "author": "Bastian Eichenberger",
+  "license": null,
+  "home_page": "https://github.com/bbquercus/efishent/",
+  "download_filename": "efishent-0.0.8.tar.gz",
+  "download_time": "2026-03-08T10:20:30.267722",
+  "package_url": "https://pypi.org/project/eFISHent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zx-ai",
+  "version": "0.1.4",
+  "summary": "Natural language to terminal commands via AI. Supports 100+ providers via LiteLLM — Gemini, OpenRouter, Ollama, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zx_ai-0.1.4.tar.gz",
+  "download_time": "2026-03-08T10:20:50.615445",
+  "package_url": "https://pypi.org/project/zx-ai/"
+}
