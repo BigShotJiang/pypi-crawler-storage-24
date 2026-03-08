@@ -1,11 +1,11 @@
 {
   "name": "byzh-ai",
-  "version": "0.0.9.59",
+  "version": "0.0.9.60",
   "summary": "更方便的深度学习",
   "author": "byzh_rc",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "byzh_ai-0.0.9.59.tar.gz",
-  "download_time": "2026-03-08T14:23:39.031933",
+  "download_filename": "byzh_ai-0.0.9.60.tar.gz",
+  "download_time": "2026-03-08T20:49:18.227761",
   "package_url": "https://pypi.org/project/byzh-ai/"
 }
