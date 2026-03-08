@@ -1,0 +1,11 @@
+{
+  "name": "maxrealmconnect.py",
+  "version": "0.1.0",
+  "summary": "Python library for making bots on MaxRealm Connect",
+  "author": "Max",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maxrealmconnect_py-0.1.0.tar.gz",
+  "download_time": "2026-03-08T07:28:16.941274",
+  "package_url": "https://pypi.org/project/maxrealmconnect.py/"
+}

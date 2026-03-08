@@ -1,11 +1,11 @@
 {
   "name": "karaoke-gen",
-  "version": "0.137.0",
+  "version": "0.138.0",
   "summary": "Generate karaoke videos with synchronized lyrics. Handles the entire process from downloading audio and lyrics to creating the final video with title screens.",
   "author": "Andrew Beveridge",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "karaoke_gen-0.137.0.tar.gz",
-  "download_time": "2026-03-07T07:42:44.206591",
+  "download_filename": "karaoke_gen-0.138.0.tar.gz",
+  "download_time": "2026-03-08T07:28:07.387976",
   "package_url": "https://pypi.org/project/karaoke-gen/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rhd-debugtimer",
+  "version": "1.0.0",
+  "summary": "Ultra fast Rust profiler for Python",
+  "author": "hafiy_dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rhd_debugtimer-1.0.0.tar.gz",
+  "download_time": "2026-03-08T07:28:47.356616",
+  "package_url": "https://pypi.org/project/rhd-debugtimer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jzukaku",
+  "version": "0.1.2",
+  "summary": "国土基本図図郭コード計算ライブラリ（平面直角座標系 JGD2011 ベース）",
+  "author": "tlasu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jzukaku-0.1.2.tar.gz",
+  "download_time": "2026-03-08T07:28:12.325041",
+  "package_url": "https://pypi.org/project/jzukaku/"
+}

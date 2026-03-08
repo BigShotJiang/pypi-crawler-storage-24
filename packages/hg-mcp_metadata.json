@@ -1,0 +1,11 @@
+{
+  "name": "hg-mcp",
+  "version": "0.5.0",
+  "summary": "MCP server for Mercurial repository interaction",
+  "author": "Chaiwat Suttipongsakul",
+  "license": "MIT",
+  "home_page": "https://github.com/cwt/hg-mcp",
+  "download_filename": "hg_mcp-0.5.0.tar.gz",
+  "download_time": "2026-03-08T07:28:36.802988",
+  "package_url": "https://pypi.org/project/hg-mcp/"
+}

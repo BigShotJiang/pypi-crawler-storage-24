@@ -1,11 +1,11 @@
 {
   "name": "cacaodocs",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "summary": "Generate documentation from Python docstrings, powered by Cacao.",
   "author": "Juan Denis",
   "license": null,
   "home_page": "https://github.com/jhd3197/CacaoDocs",
-  "download_filename": "cacaodocs-0.1.25.tar.gz",
-  "download_time": "2026-03-08T05:59:39.738482",
+  "download_filename": "cacaodocs-0.1.26.tar.gz",
+  "download_time": "2026-03-08T07:28:31.600176",
   "package_url": "https://pypi.org/project/cacaodocs/"
 }

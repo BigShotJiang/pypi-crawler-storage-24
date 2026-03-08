@@ -1,0 +1,11 @@
+{
+  "name": "truffile",
+  "version": "0.1.19",
+  "summary": "truffile the TruffleOS SDK - Connect and deploy apps to Truffle devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "truffile-0.1.19.tar.gz",
+  "download_time": "2026-03-08T07:28:13.610792",
+  "package_url": "https://pypi.org/project/truffile/"
+}

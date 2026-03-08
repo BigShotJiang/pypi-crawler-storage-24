@@ -1,0 +1,11 @@
+{
+  "name": "mash-api",
+  "version": "0.1.0",
+  "summary": "OpenAPI service package for Mash applications",
+  "author": "imsid",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "mash_api-0.1.0.tar.gz",
+  "download_time": "2026-03-08T07:28:24.346491",
+  "package_url": "https://pypi.org/project/mash-api/"
+}

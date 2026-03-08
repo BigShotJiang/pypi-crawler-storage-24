@@ -1,0 +1,11 @@
+{
+  "name": "icalcc",
+  "version": "0.1.4",
+  "summary": "Locally centered contrast functions for scikit-learn FastICA",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icalcc-0.1.4.tar.gz",
+  "download_time": "2026-03-08T07:28:38.891840",
+  "package_url": "https://pypi.org/project/icalcc/"
+}

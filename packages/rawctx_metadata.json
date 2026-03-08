@@ -1,11 +1,11 @@
 {
   "name": "rawctx",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "summary": "rawctx CLI scaffold",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rawctx-0.2.8.tar.gz",
-  "download_time": "2026-03-08T06:50:26.604305",
+  "download_filename": "rawctx-0.3.0.tar.gz",
+  "download_time": "2026-03-08T07:28:06.241918",
   "package_url": "https://pypi.org/project/rawctx/"
 }

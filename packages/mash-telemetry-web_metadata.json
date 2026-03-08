@@ -1,0 +1,11 @@
+{
+  "name": "mash-telemetry-web",
+  "version": "0.1.1",
+  "summary": "Optional observer UI assets for mash telemetry",
+  "author": "imsid",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "mash_telemetry_web-0.1.1.tar.gz",
+  "download_time": "2026-03-08T07:28:10.404618",
+  "package_url": "https://pypi.org/project/mash-telemetry-web/"
+}

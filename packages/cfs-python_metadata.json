@@ -1,0 +1,11 @@
+{
+  "name": "cfs-python",
+  "version": "0.1.2",
+  "summary": "Python-based Coulomb Stress Change UI and API",
+  "author": "Yudha Styawan",
+  "license": null,
+  "home_page": "https://github.com/yudhastyawan/cfs-python",
+  "download_filename": "cfs_python-0.1.2.tar.gz",
+  "download_time": "2026-03-08T07:28:51.990752",
+  "package_url": "https://pypi.org/project/cfs-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysmatch",
+  "version": "2.1.2",
+  "summary": "Propensity Score Matching (PSM) on Python",
+  "author": "Miao HanCheng",
+  "license": null,
+  "home_page": "https://github.com/miaohancheng/pysmatch",
+  "download_filename": "pysmatch-2.1.2.tar.gz",
+  "download_time": "2026-03-08T07:28:54.284242",
+  "package_url": "https://pypi.org/project/pysmatch/"
+}
