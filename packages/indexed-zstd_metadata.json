@@ -1,0 +1,11 @@
+{
+  "name": "indexed-zstd",
+  "version": "1.7.0",
+  "summary": "Fast random access to zstd files",
+  "author": "Marco Martinelli with the help of Maximilian Knespel and ",
+  "license": "MIT",
+  "home_page": "https://github.com/martinellimarco/indexed_zstd",
+  "download_filename": "indexed_zstd-1.7.0.tar.gz",
+  "download_time": "2026-03-08T17:27:46.797877",
+  "package_url": "https://pypi.org/project/indexed-zstd/"
+}

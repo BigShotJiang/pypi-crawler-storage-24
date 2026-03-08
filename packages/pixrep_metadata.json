@@ -1,11 +1,11 @@
 {
   "name": "pixrep",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "summary": "Convert code repositories into structured PDF collections for LLM collaboration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixrep-0.6.2.tar.gz",
-  "download_time": "2026-03-07T08:28:51.129820",
+  "download_filename": "pixrep-0.7.0.tar.gz",
+  "download_time": "2026-03-08T17:28:03.201306",
   "package_url": "https://pypi.org/project/pixrep/"
 }

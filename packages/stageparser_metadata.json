@@ -1,0 +1,11 @@
+{
+  "name": "stageparser",
+  "version": "0.1.0",
+  "summary": "Parse MVR stage files and extract DMX fixture data organized by universe",
+  "author": "Piotr Kmiecinski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stageparser-0.1.0.tar.gz",
+  "download_time": "2026-03-08T17:28:07.477559",
+  "package_url": "https://pypi.org/project/stageparser/"
+}

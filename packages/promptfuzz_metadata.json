@@ -1,11 +1,11 @@
 {
   "name": "promptfuzz",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Adversarial security testing framework for LLM applications",
   "author": "PromptFuzz Contributors",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "promptfuzz-0.1.3.tar.gz",
-  "download_time": "2026-03-08T13:56:50.260871",
+  "download_filename": "promptfuzz-0.1.5.tar.gz",
+  "download_time": "2026-03-08T17:28:05.924927",
   "package_url": "https://pypi.org/project/promptfuzz/"
 }

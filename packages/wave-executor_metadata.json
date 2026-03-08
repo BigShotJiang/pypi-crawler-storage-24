@@ -1,0 +1,11 @@
+{
+  "name": "wave-executor",
+  "version": "0.3.0",
+  "summary": "Dependency-aware async task scheduling with reconciliation — DAGExecutor, WaveReconciler, MetaDAG",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wave_executor-0.3.0.tar.gz",
+  "download_time": "2026-03-08T17:27:44.645125",
+  "package_url": "https://pypi.org/project/wave-executor/"
+}

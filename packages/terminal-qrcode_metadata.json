@@ -1,0 +1,11 @@
+{
+  "name": "terminal-qrcode",
+  "version": "0.2.0",
+  "summary": "A terminal image renderer with support for iTerm2, Kitty and fallback modes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terminal_qrcode-0.2.0.tar.gz",
+  "download_time": "2026-03-08T17:28:17.637518",
+  "package_url": "https://pypi.org/project/terminal-qrcode/"
+}

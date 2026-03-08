@@ -1,0 +1,11 @@
+{
+  "name": "launchpromptly",
+  "version": "0.2.1",
+  "summary": "LaunchPromptly Python SDK — LLM privacy & security toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "launchpromptly-0.2.1.tar.gz",
+  "download_time": "2026-03-08T17:27:55.306364",
+  "package_url": "https://pypi.org/project/launchpromptly/"
+}

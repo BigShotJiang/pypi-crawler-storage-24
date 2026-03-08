@@ -1,0 +1,11 @@
+{
+  "name": "insardev-toolkit",
+  "version": "2026.3.8.post1",
+  "summary": "InSAR.dev (Python InSAR): Geospatial Processing Toolkit",
+  "author": "Alexey Pechnikov",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AlexeyPechnikov/InSARdev",
+  "download_filename": "insardev_toolkit-2026.3.8.post1.tar.gz",
+  "download_time": "2026-03-08T17:27:43.544653",
+  "package_url": "https://pypi.org/project/insardev-toolkit/"
+}

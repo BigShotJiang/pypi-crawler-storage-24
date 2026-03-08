@@ -1,0 +1,11 @@
+{
+  "name": "pk-ai-tools",
+  "version": "0.2.2",
+  "summary": "Simple RAG pipeline + document ingestion utilities (LangChain + Chroma + Ollama).",
+  "author": "Paul Kviding",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pk_ai_tools-0.2.2.tar.gz",
+  "download_time": "2026-03-08T17:27:36.545378",
+  "package_url": "https://pypi.org/project/pk-ai-tools/"
+}
