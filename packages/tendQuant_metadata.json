@@ -1,11 +1,11 @@
 {
   "name": "tendQuant",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A MQTT client library for tendQuant",
   "author": "tendQuant",
   "license": null,
   "home_page": "https://github.com/top2189/tendQuant",
-  "download_filename": "tendquant-0.1.3.tar.gz",
-  "download_time": "2026-03-08T08:25:13.303811",
+  "download_filename": "tendquant-0.1.4.tar.gz",
+  "download_time": "2026-03-08T09:51:55.525232",
   "package_url": "https://pypi.org/project/tendQuant/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "axm",
+  "version": "0.3.2",
+  "summary": "AXM CLI — thin autodiscovery wrapper for the AXM ecosystem",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "axm-0.3.2.tar.gz",
+  "download_time": "2026-03-08T09:52:09.047733",
+  "package_url": "https://pypi.org/project/axm/"
+}

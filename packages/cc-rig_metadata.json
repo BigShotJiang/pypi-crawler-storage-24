@@ -1,0 +1,11 @@
+{
+  "name": "cc-rig",
+  "version": "1.4.3",
+  "summary": "Project setup generator for Claude Code",
+  "author": "exitcode42",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cc_rig-1.4.3.tar.gz",
+  "download_time": "2026-03-08T09:51:47.964611",
+  "package_url": "https://pypi.org/project/cc-rig/"
+}

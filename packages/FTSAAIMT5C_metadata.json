@@ -1,11 +1,11 @@
 {
   "name": "FTSAAIMT5C",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "FTSA AI MT5 Connector CLI",
   "author": "Kelvin Mburu",
   "license": null,
   "home_page": null,
-  "download_filename": "ftsaaimt5c-0.1.1.tar.gz",
-  "download_time": "2026-03-08T08:25:22.712760",
+  "download_filename": "ftsaaimt5c-0.1.2.tar.gz",
+  "download_time": "2026-03-08T09:52:02.954666",
   "package_url": "https://pypi.org/project/FTSAAIMT5C/"
 }

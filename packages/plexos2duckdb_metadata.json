@@ -1,0 +1,11 @@
+{
+  "name": "plexos2duckdb",
+  "version": "0.1.0b7",
+  "summary": "A command line tool to convert PLEXOS solution files to a DuckDB database.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/epri-dev/plexos2duckdb",
+  "download_filename": "plexos2duckdb-0.1.0b7-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-08T09:52:05.323009",
+  "package_url": "https://pypi.org/project/plexos2duckdb/"
+}

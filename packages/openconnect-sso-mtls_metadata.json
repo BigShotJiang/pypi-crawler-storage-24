@@ -1,0 +1,11 @@
+{
+  "name": "openconnect-sso-mtls",
+  "version": "1.0.0",
+  "summary": "Wrapper script for OpenConnect supporting Azure AD (SAMLv2) authentication to Cisco SSL-VPNs",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openconnect_sso_mtls-1.0.0.tar.gz",
+  "download_time": "2026-03-08T09:52:08.402425",
+  "package_url": "https://pypi.org/project/openconnect-sso-mtls/"
+}
