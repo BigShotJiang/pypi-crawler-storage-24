@@ -1,0 +1,11 @@
+{
+  "name": "FastLSQ",
+  "version": "0.1.3",
+  "summary": "Solving PDEs in one shot via Fourier features with exact analytical derivatives",
+  "author": "Antonin Sulc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastlsq-0.1.3-py3-none-any.whl",
+  "download_time": "2026-03-08T19:44:07.873776",
+  "package_url": "https://pypi.org/project/FastLSQ/"
+}

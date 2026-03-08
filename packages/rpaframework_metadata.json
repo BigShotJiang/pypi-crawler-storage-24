@@ -1,11 +1,11 @@
 {
   "name": "rpaframework",
-  "version": "31.1.2",
+  "version": "31.2.0",
   "summary": "A collection of tools and libraries for RPA",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rpaframework-31.1.2.tar.gz",
-  "download_time": "2026-03-07T10:17:58.294384",
+  "download_filename": "rpaframework-31.2.0.tar.gz",
+  "download_time": "2026-03-08T19:44:18.883166",
   "package_url": "https://pypi.org/project/rpaframework/"
 }

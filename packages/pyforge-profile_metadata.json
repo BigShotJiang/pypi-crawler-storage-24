@@ -1,0 +1,11 @@
+{
+  "name": "pyforge-profile",
+  "version": "0.0.6",
+  "summary": "A lightweight Python profiling framework built from scratch for analyzing function calls, execution time, and memory usage with clear terminal output.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyforge_profile-0.0.6.tar.gz",
+  "download_time": "2026-03-08T19:44:11.101529",
+  "package_url": "https://pypi.org/project/pyforge-profile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chainfoundry-chainindex",
+  "version": "0.2.0",
+  "summary": "High-performance EVM blockchain indexer with reorg detection and pluggable storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chainfoundry_chainindex-0.2.0-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-08T19:44:33.983167",
+  "package_url": "https://pypi.org/project/chainfoundry-chainindex/"
+}

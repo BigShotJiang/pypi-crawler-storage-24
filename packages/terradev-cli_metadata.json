@@ -1,11 +1,11 @@
 {
   "name": "terradev-cli",
-  "version": "3.7.4",
+  "version": "3.7.5",
   "summary": "NUMA-aware GPU provisioning and orchestration for stateless MoE workloads of all sizes",
   "author": "Terradev Team",
   "license": null,
   "home_page": "https://github.com/theoddden/terradev",
-  "download_filename": "terradev_cli-3.7.4.tar.gz",
-  "download_time": "2026-03-08T19:22:53.883498",
+  "download_filename": "terradev_cli-3.7.5.tar.gz",
+  "download_time": "2026-03-08T19:44:43.885112",
   "package_url": "https://pypi.org/project/terradev-cli/"
 }

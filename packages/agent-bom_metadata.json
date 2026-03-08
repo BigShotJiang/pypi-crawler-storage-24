@@ -1,11 +1,11 @@
 {
   "name": "agent-bom",
-  "version": "0.60.1",
+  "version": "0.62.0",
   "summary": "Security scanner for AI agent infrastructure. Discover MCP configs (20 clients), scan for CVEs, map blast radius to credentials and tools, CIS benchmarks (AWS, Snowflake), pre-install guard, 10-framework compliance.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_bom-0.60.1.tar.gz",
-  "download_time": "2026-03-08T04:06:51.965347",
+  "download_filename": "agent_bom-0.62.0.tar.gz",
+  "download_time": "2026-03-08T19:44:38.407398",
   "package_url": "https://pypi.org/project/agent-bom/"
 }

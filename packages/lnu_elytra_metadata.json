@@ -1,11 +1,11 @@
 {
   "name": "lnu_elytra",
-  "version": "0.0.1",
-  "summary": null,
+  "version": "0.0.2",
+  "summary": "LNU 岭南师范学院 正方教务系统 抢课 选课工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lnu_elytra-0.0.1-cp311-cp311-musllinux_1_2_aarch64.whl",
-  "download_time": "2026-03-08T19:23:06.326057",
+  "download_filename": "lnu_elytra-0.0.2.tar.gz",
+  "download_time": "2026-03-08T19:44:19.441725",
   "package_url": "https://pypi.org/project/lnu_elytra/"
 }

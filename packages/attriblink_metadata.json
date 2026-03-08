@@ -1,0 +1,11 @@
+{
+  "name": "attriblink",
+  "version": "0.1.6",
+  "summary": "Multi-period attribution linking for portfolio returns",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "attriblink-0.1.6.tar.gz",
+  "download_time": "2026-03-08T19:44:15.664589",
+  "package_url": "https://pypi.org/project/attriblink/"
+}

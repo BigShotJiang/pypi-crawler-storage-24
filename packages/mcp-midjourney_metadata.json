@@ -1,11 +1,11 @@
 {
   "name": "mcp-midjourney",
-  "version": "2026.3.8.1",
+  "version": "2026.3.8.2",
   "summary": "MCP Server for Midjourney AI Image Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_midjourney-2026.3.8.1.tar.gz",
-  "download_time": "2026-03-08T18:58:32.189326",
+  "download_filename": "mcp_midjourney-2026.3.8.2.tar.gz",
+  "download_time": "2026-03-08T19:44:28.413696",
   "package_url": "https://pypi.org/project/mcp-midjourney/"
 }

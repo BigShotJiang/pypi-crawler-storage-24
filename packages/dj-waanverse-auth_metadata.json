@@ -1,0 +1,11 @@
+{
+  "name": "dj-waanverse-auth",
+  "version": "2.1.5",
+  "summary": "A comprehensive Waanverse Labs Inc. internal package for managing user accounts and authentication",
+  "author": "Waanverse Labs Inc.",
+  "license": "Internal Use License",
+  "home_page": "https://dj-waanverse-auth.waanverse.com/",
+  "download_filename": "dj_waanverse_auth-2.1.5.tar.gz",
+  "download_time": "2026-03-08T19:44:12.756440",
+  "package_url": "https://pypi.org/project/dj-waanverse-auth/"
+}

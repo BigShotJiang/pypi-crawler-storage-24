@@ -1,0 +1,11 @@
+{
+  "name": "libsrc-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for resolving project dependencies and providing local source code paths",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libsrc_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-08T19:44:00.992366",
+  "package_url": "https://pypi.org/project/libsrc-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chainfoundry-chainerrors",
+  "version": "0.1.0",
+  "summary": "EVM revert decoder — decode require(), custom errors, Panic codes from Solidity",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chainfoundry_chainerrors-0.1.0-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-08T19:44:23.517625",
+  "package_url": "https://pypi.org/project/chainfoundry-chainerrors/"
+}

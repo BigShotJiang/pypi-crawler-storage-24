@@ -1,0 +1,11 @@
+{
+  "name": "coralmind",
+  "version": "0.0.5",
+  "summary": "A self-evolving AI Agent framework with autonomous planning capabilities",
+  "author": "Koan Jan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coralmind-0.0.5.tar.gz",
+  "download_time": "2026-03-08T19:44:25.765278",
+  "package_url": "https://pypi.org/project/coralmind/"
+}
