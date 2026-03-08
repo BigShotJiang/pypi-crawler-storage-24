@@ -1,11 +1,11 @@
 {
   "name": "kiwilog",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Colored logging utility for Python",
-  "author": null,
+  "author": "cCocoa",
   "license": null,
   "home_page": null,
-  "download_filename": "kiwilog-0.1.2.tar.gz",
-  "download_time": "2026-03-07T13:55:21.466424",
+  "download_filename": "kiwilog-0.1.5.tar.gz",
+  "download_time": "2026-03-08T06:50:09.742423",
   "package_url": "https://pypi.org/project/kiwilog/"
 }

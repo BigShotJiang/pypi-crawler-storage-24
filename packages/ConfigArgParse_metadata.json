@@ -1,0 +1,11 @@
+{
+  "name": "ConfigArgParse",
+  "version": "1.7.3",
+  "summary": "A drop-in replacement for argparse that allows options to also be set via config files and/or environment variables.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/bw2/ConfigArgParse",
+  "download_filename": "configargparse-1.7.3.tar.gz",
+  "download_time": "2026-03-08T06:50:09.211681",
+  "package_url": "https://pypi.org/project/ConfigArgParse/"
+}

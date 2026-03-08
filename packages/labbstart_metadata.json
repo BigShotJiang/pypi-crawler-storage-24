@@ -1,0 +1,11 @@
+{
+  "name": "labbstart",
+  "version": "0.3.0",
+  "summary": "CLI tool to kickstart Django projects with labb",
+  "author": "zadiq",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "labbstart-0.3.0.tar.gz",
+  "download_time": "2026-03-08T06:50:40.515954",
+  "package_url": "https://pypi.org/project/labbstart/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gag-repo-viewer",
-  "version": "0.2.21",
+  "version": "0.2.24",
   "summary": "Git Branch Detector GUI Tool",
   "author": "Takashi Sasaki",
   "license": null,
   "home_page": null,
-  "download_filename": "gag_repo_viewer-0.2.21.tar.gz",
-  "download_time": "2026-03-08T05:59:15.197049",
+  "download_filename": "gag_repo_viewer-0.2.24.tar.gz",
+  "download_time": "2026-03-08T06:50:28.157822",
   "package_url": "https://pypi.org/project/gag-repo-viewer/"
 }

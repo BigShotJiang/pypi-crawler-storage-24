@@ -1,11 +1,11 @@
 {
   "name": "angelic-kernel",
-  "version": "0.2",
+  "version": "0.3",
   "summary": "A fake OS kernel framework for Python",
   "author": "ERROR-Xmakernotfound",
   "license": null,
   "home_page": null,
-  "download_filename": "angelic_kernel-0.2.tar.gz",
-  "download_time": "2026-03-07T13:26:19.978439",
+  "download_filename": "angelic_kernel-0.3.tar.gz",
+  "download_time": "2026-03-08T06:50:44.181377",
   "package_url": "https://pypi.org/project/angelic-kernel/"
 }

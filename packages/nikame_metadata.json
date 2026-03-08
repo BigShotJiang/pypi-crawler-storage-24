@@ -1,11 +1,11 @@
 {
   "name": "nikame",
-  "version": "0.2.3",
-  "summary": "Describe your infrastructure. NIKAME builds it.",
+  "version": "0.3.0",
+  "summary": "High-fidelity AI & Cloud Infrastructure Scaffolding Framework.",
   "author": "omdeepb69",
   "license": null,
   "home_page": null,
-  "download_filename": "nikame-0.2.3.tar.gz",
-  "download_time": "2026-03-07T19:21:56.386981",
+  "download_filename": "nikame-0.3.0.tar.gz",
+  "download_time": "2026-03-08T06:50:22.465376",
   "package_url": "https://pypi.org/project/nikame/"
 }

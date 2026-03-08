@@ -1,0 +1,11 @@
+{
+  "name": "pathroot",
+  "version": "1.1.0",
+  "summary": "Subclass of a pathlib.Path object that does not allow traversal outside of a trusted root.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pathroot-1.1.0.tar.gz",
+  "download_time": "2026-03-08T06:50:48.375892",
+  "package_url": "https://pypi.org/project/pathroot/"
+}

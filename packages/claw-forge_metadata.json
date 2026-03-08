@@ -1,11 +1,11 @@
 {
   "name": "claw-forge",
-  "version": "0.1.0a63",
+  "version": "0.3.1",
   "summary": "Multi-provider autonomous coding agent harness with API rotation pool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claw_forge-0.1.0a63.tar.gz",
-  "download_time": "2026-03-07T09:24:08.956502",
+  "download_filename": "claw_forge-0.3.1.tar.gz",
+  "download_time": "2026-03-08T06:50:11.361292",
   "package_url": "https://pypi.org/project/claw-forge/"
 }

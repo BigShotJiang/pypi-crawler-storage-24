@@ -1,0 +1,11 @@
+{
+  "name": "domain-scout-ct",
+  "version": "0.7.0",
+  "summary": "Discover internet domains associated with a business entity via CT logs, RDAP, and DNS",
+  "author": "Ming Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "domain_scout_ct-0.7.0.tar.gz",
+  "download_time": "2026-03-08T06:50:21.953575",
+  "package_url": "https://pypi.org/project/domain-scout-ct/"
+}

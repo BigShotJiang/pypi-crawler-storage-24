@@ -1,11 +1,11 @@
 {
   "name": "ainvoke",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Binary distribution for ainvoke",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ainvoke-1.4.0-py3-none-macosx_10_13_x86_64.whl",
-  "download_time": "2026-03-08T05:58:59.923758",
+  "download_filename": "ainvoke-1.4.1-py3-none-macosx_10_13_x86_64.whl",
+  "download_time": "2026-03-08T06:50:25.581258",
   "package_url": "https://pypi.org/project/ainvoke/"
 }
