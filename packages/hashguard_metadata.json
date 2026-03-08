@@ -1,11 +1,11 @@
 {
   "name": "hashguard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A powerful, professional file verification and threat intelligence platform with VirusTotal integration.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hashguard-1.0.3.tar.gz",
-  "download_time": "2026-03-08T19:44:03.602451",
+  "download_filename": "hashguard-1.0.4.tar.gz",
+  "download_time": "2026-03-08T21:18:47.066847",
   "package_url": "https://pypi.org/project/hashguard/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hardwaremon",
+  "version": "3.0.9",
+  "summary": "Hardware monitoring tool for Linux",
+  "author": "Louis",
+  "license": null,
+  "home_page": "https://github.com/louisboii747/HardwareMon",
+  "download_filename": "hardwaremon-3.0.9.tar.gz",
+  "download_time": "2026-03-08T21:19:23.444572",
+  "package_url": "https://pypi.org/project/hardwaremon/"
+}

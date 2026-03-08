@@ -1,0 +1,11 @@
+{
+  "name": "dsap-cli",
+  "version": "0.1.0",
+  "summary": "A CLI for mastering Data Structures & Algorithms using spaced repetition (SM-2).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsap_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-08T21:19:25.525644",
+  "package_url": "https://pypi.org/project/dsap-cli/"
+}

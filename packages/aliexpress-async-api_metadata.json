@@ -1,11 +1,11 @@
 {
   "name": "aliexpress-async-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Modern and asynchronous Python client for the AliExpress Open Platform (IOP) Affiliate API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aliexpress_async_api-1.0.4.tar.gz",
-  "download_time": "2026-03-08T17:00:29.567158",
+  "download_filename": "aliexpress_async_api-1.0.5.tar.gz",
+  "download_time": "2026-03-08T21:18:55.049248",
   "package_url": "https://pypi.org/project/aliexpress-async-api/"
 }

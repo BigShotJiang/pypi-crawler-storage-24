@@ -1,11 +1,11 @@
 {
   "name": "ts-shape",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "ts-shape filters, transforms and engineers your timeseries dataframe",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ts_shape-0.0.9.tar.gz",
-  "download_time": "2026-03-08T17:27:55.844678",
+  "download_filename": "ts_shape-0.0.10.tar.gz",
+  "download_time": "2026-03-08T21:19:09.265451",
   "package_url": "https://pypi.org/project/ts-shape/"
 }

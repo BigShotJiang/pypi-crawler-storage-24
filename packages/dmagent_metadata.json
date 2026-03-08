@@ -1,11 +1,11 @@
 {
   "name": "dmagent",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "DarkMatter — self-organizing mesh networks for AI agents via MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dmagent-0.6.3.tar.gz",
-  "download_time": "2026-03-08T20:21:38.192852",
+  "download_filename": "dmagent-0.6.4.tar.gz",
+  "download_time": "2026-03-08T21:19:03.968613",
   "package_url": "https://pypi.org/project/dmagent/"
 }

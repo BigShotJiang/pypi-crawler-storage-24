@@ -1,11 +1,11 @@
 {
   "name": "qoro-maestro-pyscf",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "PySCF integration plugin for the Maestro GPU quantum simulator by Qoro Quantum",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qoro_maestro_pyscf-0.1.1.tar.gz",
-  "download_time": "2026-03-08T20:21:08.190779",
+  "download_filename": "qoro_maestro_pyscf-0.3.0.tar.gz",
+  "download_time": "2026-03-08T21:18:56.090596",
   "package_url": "https://pypi.org/project/qoro-maestro-pyscf/"
 }

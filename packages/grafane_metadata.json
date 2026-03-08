@@ -1,0 +1,11 @@
+{
+  "name": "grafane",
+  "version": "2.0.1",
+  "summary": "Opinionated InfluxDB client",
+  "author": "Teofilo Sibileau",
+  "license": "CC-BY-NC-SA-4.0",
+  "home_page": "https://github.com/teosibileau/grafane",
+  "download_filename": "grafane-2.0.1.tar.gz",
+  "download_time": "2026-03-08T21:18:58.698758",
+  "package_url": "https://pypi.org/project/grafane/"
+}

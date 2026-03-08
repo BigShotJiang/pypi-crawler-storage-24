@@ -1,0 +1,11 @@
+{
+  "name": "szymemory",
+  "version": "3.0.0",
+  "summary": "轻量级 MCP Server，为 AI 编程助手提供跨会话持久记忆能力",
+  "author": "SzyMemory Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "szymemory-3.0.0.tar.gz",
+  "download_time": "2026-03-08T21:18:50.828977",
+  "package_url": "https://pypi.org/project/szymemory/"
+}
