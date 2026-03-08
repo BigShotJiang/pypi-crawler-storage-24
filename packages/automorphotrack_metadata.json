@@ -1,0 +1,11 @@
+{
+  "name": "automorphotrack",
+  "version": "2.0.0",
+  "summary": "Automated pipeline for mitochondrial and lysosomal detection, tracking, morphology, and colocalization analysis in microscopy images.",
+  "author": "Armin Bayati, Ph.D.",
+  "license": "MIT",
+  "home_page": "https://github.com/abayatibrain/AMTpackage",
+  "download_filename": "automorphotrack-2.0.0.tar.gz",
+  "download_time": "2026-03-08T22:48:30.177950",
+  "package_url": "https://pypi.org/project/automorphotrack/"
+}

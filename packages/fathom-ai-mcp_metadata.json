@@ -1,0 +1,11 @@
+{
+  "name": "fathom-ai-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for the Fathom AI meeting intelligence API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fathom_ai_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-08T22:48:48.169256",
+  "package_url": "https://pypi.org/project/fathom-ai-mcp/"
+}

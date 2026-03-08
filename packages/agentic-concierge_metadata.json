@@ -1,11 +1,11 @@
 {
   "name": "agentic-concierge",
-  "version": "0.3.31",
+  "version": "0.3.32",
   "summary": "An agentic concierge that spawns ephemeral specialist teams to tackle tasks — capability-based routing, multi-pack task forces, and native tool-calling on local or cloud LLM endpoints.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_concierge-0.3.31.tar.gz",
-  "download_time": "2026-03-08T22:21:37.575542",
+  "download_filename": "agentic_concierge-0.3.32.tar.gz",
+  "download_time": "2026-03-08T22:48:46.080519",
   "package_url": "https://pypi.org/project/agentic-concierge/"
 }

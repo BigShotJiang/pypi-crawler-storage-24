@@ -1,0 +1,11 @@
+{
+  "name": "pymseed",
+  "version": "0.4.0",
+  "summary": "A Python package for reading and writing miniSEED formatted data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymseed-0.4.0.tar.gz",
+  "download_time": "2026-03-08T22:48:45.528709",
+  "package_url": "https://pypi.org/project/pymseed/"
+}

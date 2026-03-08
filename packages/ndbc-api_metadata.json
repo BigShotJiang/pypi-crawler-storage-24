@@ -1,0 +1,11 @@
+{
+  "name": "ndbc-api",
+  "version": "0.26.3.8.1",
+  "summary": "A Python API for the National Data Buoy Center.",
+  "author": "cdjellen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ndbc_api-0.26.3.8.1.tar.gz",
+  "download_time": "2026-03-08T22:48:51.807909",
+  "package_url": "https://pypi.org/project/ndbc-api/"
+}

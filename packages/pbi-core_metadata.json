@@ -1,0 +1,11 @@
+{
+  "name": "pbi-core",
+  "version": "0.7.1",
+  "summary": "Accessing PBIX files programmatically",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbi_core-0.7.1.tar.gz",
+  "download_time": "2026-03-08T22:48:54.421050",
+  "package_url": "https://pypi.org/project/pbi-core/"
+}

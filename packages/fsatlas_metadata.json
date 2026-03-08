@@ -1,0 +1,11 @@
+{
+  "name": "fsatlas",
+  "version": "0.1.0",
+  "summary": "Extract morphometric measures from FreeSurfer-processed subjects using arbitrary atlases",
+  "author": "Gal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fsatlas-0.1.0.tar.gz",
+  "download_time": "2026-03-08T22:49:03.352206",
+  "package_url": "https://pypi.org/project/fsatlas/"
+}

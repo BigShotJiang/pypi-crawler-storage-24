@@ -1,0 +1,11 @@
+{
+  "name": "egglord",
+  "version": "1.0.1",
+  "summary": "A simple Python library that motivates you every 10-120 seconds.",
+  "author": "Egglord",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "egglord-1.0.1.tar.gz",
+  "download_time": "2026-03-08T22:48:40.246860",
+  "package_url": "https://pypi.org/project/egglord/"
+}

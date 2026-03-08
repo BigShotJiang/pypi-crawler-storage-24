@@ -1,0 +1,11 @@
+{
+  "name": "miru-platform-sdk",
+  "version": "0.7.0",
+  "summary": "The official Python library for the miru API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miru_platform_sdk-0.7.0.tar.gz",
+  "download_time": "2026-03-08T22:48:26.537431",
+  "package_url": "https://pypi.org/project/miru-platform-sdk/"
+}

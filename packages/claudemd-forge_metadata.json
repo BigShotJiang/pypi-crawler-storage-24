@@ -1,0 +1,11 @@
+{
+  "name": "claudemd-forge",
+  "version": "0.3.0",
+  "summary": "Generate and audit CLAUDE.md files for AI coding agents",
+  "author": "AreteDriver",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claudemd_forge-0.3.0.tar.gz",
+  "download_time": "2026-03-08T22:48:52.328257",
+  "package_url": "https://pypi.org/project/claudemd-forge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "commuter",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Portable AI coding session transfer between machines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "commuter-0.1.4.tar.gz",
-  "download_time": "2026-03-08T22:21:19.420340",
+  "download_filename": "commuter-0.1.5.tar.gz",
+  "download_time": "2026-03-08T22:49:04.948707",
   "package_url": "https://pypi.org/project/commuter/"
 }

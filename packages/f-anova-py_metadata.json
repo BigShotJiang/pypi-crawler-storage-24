@@ -1,0 +1,11 @@
+{
+  "name": "f-anova-py",
+  "version": "0.1.0",
+  "summary": "A Python adaptation of LANL's F-ANOVA project",
+  "author": "Adam C. Watts, Shankar Chawla",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "f_anova_py-0.1.0.tar.gz",
+  "download_time": "2026-03-08T22:48:34.941228",
+  "package_url": "https://pypi.org/project/f-anova-py/"
+}
