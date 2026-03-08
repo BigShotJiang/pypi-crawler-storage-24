@@ -1,11 +1,11 @@
 {
   "name": "etld",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "ETL-D API",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "etld-1.0.1.tar.gz",
-  "download_time": "2026-03-08T20:21:33.004926",
+  "download_filename": "etld-1.0.2.tar.gz",
+  "download_time": "2026-03-08T23:19:16.872384",
   "package_url": "https://pypi.org/project/etld/"
 }

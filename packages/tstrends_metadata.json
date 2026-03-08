@@ -1,11 +1,11 @@
 {
   "name": "tstrends",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Advanced trend labelling for time series",
   "author": "Abel G Penas",
   "license": "BSD-2-Clause",
-  "home_page": "https://github.com/agpenas/tstrends",
-  "download_filename": "tstrends-0.4.1.tar.gz",
-  "download_time": "2026-03-08T19:56:40.174693",
+  "home_page": null,
+  "download_filename": "tstrends-0.5.0.tar.gz",
+  "download_time": "2026-03-08T23:19:43.903016",
   "package_url": "https://pypi.org/project/tstrends/"
 }

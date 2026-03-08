@@ -1,11 +1,11 @@
 {
   "name": "nwf-recsys",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "NWF for recommendation systems: matrix factorization with (z, sigma) for users and items. MovieLens, HR@k, incremental learning.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nwf_recsys-0.1.0-py3-none-any.whl",
-  "download_time": "2026-03-08T19:56:54.009262",
+  "download_filename": "nwf_recsys-0.1.1-py3-none-any.whl",
+  "download_time": "2026-03-08T23:19:56.178058",
   "package_url": "https://pypi.org/project/nwf-recsys/"
 }
