@@ -1,0 +1,11 @@
+{
+  "name": "gofetch-client",
+  "version": "0.2.1",
+  "summary": "Python client for GoFetch.io social media scraping API - Drop-in replacement for apify-client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gofetch_client-0.2.1.tar.gz",
+  "download_time": "2026-03-08T15:59:38.621802",
+  "package_url": "https://pypi.org/project/gofetch-client/"
+}

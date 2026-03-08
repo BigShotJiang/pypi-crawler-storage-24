@@ -1,11 +1,11 @@
 {
   "name": "agentvis",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Framework-agnostic reasoning trace visualization tool for AI agents.",
   "author": "Nitesh Kumar",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "agentvis-0.1.4.tar.gz",
-  "download_time": "2026-03-07T17:17:48.729457",
+  "download_filename": "agentvis-0.1.6.tar.gz",
+  "download_time": "2026-03-08T15:59:47.559447",
   "package_url": "https://pypi.org/project/agentvis/"
 }

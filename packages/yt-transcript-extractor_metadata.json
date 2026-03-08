@@ -1,0 +1,11 @@
+{
+  "name": "yt-transcript-extractor",
+  "version": "0.1.0",
+  "summary": "A CLI tool to extract and save YouTube video transcriptions with metadata",
+  "author": "A L I K H A L A J I",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yt_transcript_extractor-0.1.0.tar.gz",
+  "download_time": "2026-03-08T15:59:05.763901",
+  "package_url": "https://pypi.org/project/yt-transcript-extractor/"
+}

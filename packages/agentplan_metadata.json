@@ -1,11 +1,11 @@
 {
   "name": "agentplan",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "summary": "A shared to-do list for AI agents. Dependency-aware task queue, zero dependencies, pure Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentplan-0.8.4.tar.gz",
-  "download_time": "2026-03-08T07:28:31.027169",
+  "download_filename": "agentplan-0.8.5.tar.gz",
+  "download_time": "2026-03-08T15:59:13.850190",
   "package_url": "https://pypi.org/project/agentplan/"
 }

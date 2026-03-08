@@ -1,0 +1,11 @@
+{
+  "name": "tcms-artifact-browser",
+  "version": "1.0.0",
+  "summary": "Artifact browser plugin for Kiwi TCMS - browse, preview, and export test run attachments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcms_artifact_browser-1.0.0.tar.gz",
+  "download_time": "2026-03-08T15:59:05.230621",
+  "package_url": "https://pypi.org/project/tcms-artifact-browser/"
+}

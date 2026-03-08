@@ -1,11 +1,11 @@
 {
   "name": "steward-agent",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "summary": "Steward — Autonomous Superagent Engine (Sankhya-25 Architecture)",
   "author": "kimeisele",
   "license": null,
   "home_page": null,
-  "download_filename": "steward_agent-0.14.0.tar.gz",
-  "download_time": "2026-03-08T15:19:38.970121",
+  "download_filename": "steward_agent-0.15.0.tar.gz",
+  "download_time": "2026-03-08T15:59:39.154923",
   "package_url": "https://pypi.org/project/steward-agent/"
 }

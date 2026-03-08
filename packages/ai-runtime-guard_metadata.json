@@ -1,0 +1,11 @@
+{
+  "name": "ai-runtime-guard",
+  "version": "1.5.0",
+  "summary": "MCP security wrapper with policy tiers, approvals, backup, and audit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_runtime_guard-1.5.0.tar.gz",
+  "download_time": "2026-03-08T15:59:20.164087",
+  "package_url": "https://pypi.org/project/ai-runtime-guard/"
+}

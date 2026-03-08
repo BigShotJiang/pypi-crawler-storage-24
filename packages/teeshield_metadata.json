@@ -1,11 +1,11 @@
 {
   "name": "teeshield",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Scan, improve, and certify MCP servers and AI agent skills",
   "author": "TeeShield",
   "license": null,
   "home_page": null,
-  "download_filename": "teeshield-0.1.1.tar.gz",
-  "download_time": "2026-03-08T07:51:34.929624",
+  "download_filename": "teeshield-0.1.4.tar.gz",
+  "download_time": "2026-03-08T15:59:42.305694",
   "package_url": "https://pypi.org/project/teeshield/"
 }

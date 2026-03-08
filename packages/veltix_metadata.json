@@ -1,0 +1,11 @@
+{
+  "name": "veltix",
+  "version": "1.5.0",
+  "summary": "A simple, zero-dependency TCP networking library with message integrity and request/response patterns",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "veltix-1.5.0.tar.gz",
+  "download_time": "2026-03-08T15:59:18.572015",
+  "package_url": "https://pypi.org/project/veltix/"
+}

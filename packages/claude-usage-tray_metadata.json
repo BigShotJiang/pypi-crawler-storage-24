@@ -1,0 +1,11 @@
+{
+  "name": "claude-usage-tray",
+  "version": "3.1.0",
+  "summary": "Real-time Claude Code rate limit monitor with system tray app and usage dashboard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_usage_tray-3.1.0.tar.gz",
+  "download_time": "2026-03-08T15:59:39.666331",
+  "package_url": "https://pypi.org/project/claude-usage-tray/"
+}

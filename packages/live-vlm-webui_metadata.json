@@ -1,0 +1,11 @@
+{
+  "name": "live-vlm-webui",
+  "version": "0.4.0",
+  "summary": "Real-time Vision Language Model interaction web interface",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "live_vlm_webui-0.4.0.tar.gz",
+  "download_time": "2026-03-08T15:59:07.913514",
+  "package_url": "https://pypi.org/project/live-vlm-webui/"
+}

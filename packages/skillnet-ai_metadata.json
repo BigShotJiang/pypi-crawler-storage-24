@@ -1,11 +1,11 @@
 {
   "name": "skillnet-ai",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "Official Python SDK for SkillNet: Create, Evaluate, and Connect AI Skills.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skillnet_ai-0.0.12.tar.gz",
-  "download_time": "2026-03-08T14:49:35.660967",
+  "download_filename": "skillnet_ai-0.0.13.tar.gz",
+  "download_time": "2026-03-08T15:59:34.631122",
   "package_url": "https://pypi.org/project/skillnet-ai/"
 }

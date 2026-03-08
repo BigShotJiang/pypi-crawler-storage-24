@@ -1,11 +1,11 @@
 {
   "name": "datavow",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "A solemn vow on your data. From YAML to verdict.",
   "author": "Ludovic Schmetz",
   "license": null,
   "home_page": null,
-  "download_filename": "datavow-0.2.3.tar.gz",
-  "download_time": "2026-03-07T11:15:43.122114",
+  "download_filename": "datavow-0.3.0.tar.gz",
+  "download_time": "2026-03-08T15:59:11.159754",
   "package_url": "https://pypi.org/project/datavow/"
 }

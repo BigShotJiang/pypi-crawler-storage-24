@@ -1,0 +1,11 @@
+{
+  "name": "onnx2kerastl",
+  "version": "0.0.189",
+  "summary": null,
+  "author": "dorhar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onnx2kerastl-0.0.189.tar.gz",
+  "download_time": "2026-03-08T15:59:37.600971",
+  "package_url": "https://pypi.org/project/onnx2kerastl/"
+}

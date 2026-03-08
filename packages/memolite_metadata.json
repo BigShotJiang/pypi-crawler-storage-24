@@ -1,11 +1,11 @@
 {
   "name": "memolite",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Lightweight long-term memory infrastructure for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memolite-0.1.5.tar.gz",
-  "download_time": "2026-03-08T07:28:09.829585",
+  "download_filename": "memolite-0.1.6.tar.gz",
+  "download_time": "2026-03-08T15:59:21.744887",
   "package_url": "https://pypi.org/project/memolite/"
 }

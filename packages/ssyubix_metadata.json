@@ -1,11 +1,11 @@
 {
   "name": "ssyubix",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "AgentLink MCP for cross-device AI agent communication via Cloudflare Workers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ssyubix-2.0.2.tar.gz",
-  "download_time": "2026-03-08T15:45:51.958791",
+  "download_filename": "ssyubix-2.0.3.tar.gz",
+  "download_time": "2026-03-08T15:59:22.295608",
   "package_url": "https://pypi.org/project/ssyubix/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "state-tuple-value-object",
+  "version": "0.1.0a0",
+  "summary": "A simple Python base class for immutable objects whose value is determined by a state tuple.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "state_tuple_value_object-0.1.0a0.tar.gz",
+  "download_time": "2026-03-08T15:59:50.181509",
+  "package_url": "https://pypi.org/project/state-tuple-value-object/"
+}

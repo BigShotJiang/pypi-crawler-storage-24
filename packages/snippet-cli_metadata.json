@@ -1,0 +1,11 @@
+{
+  "name": "snippet-cli",
+  "version": "2.4.0",
+  "summary": "An advanced snippet manager for the command-line.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "snippet_cli-2.4.0.tar.gz",
+  "download_time": "2026-03-08T15:59:40.710427",
+  "package_url": "https://pypi.org/project/snippet-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mnemebrain-lite",
+  "version": "0.1.0a4",
+  "summary": "Give your AI a real brain - Agents today store text. MnemeBrain stores beliefs with evidence, confidence, provenance, and revision logic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnemebrain_lite-0.1.0a4.tar.gz",
+  "download_time": "2026-03-08T15:59:46.513459",
+  "package_url": "https://pypi.org/project/mnemebrain-lite/"
+}

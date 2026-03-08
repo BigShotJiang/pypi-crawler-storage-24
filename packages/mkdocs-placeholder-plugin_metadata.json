@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-placeholder-plugin",
+  "version": "0.6.0",
+  "summary": "Add dynamic placeholders to your mkdocs page",
+  "author": "six-two",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkdocs_placeholder_plugin-0.6.0.tar.gz",
+  "download_time": "2026-03-08T15:59:53.316729",
+  "package_url": "https://pypi.org/project/mkdocs-placeholder-plugin/"
+}
