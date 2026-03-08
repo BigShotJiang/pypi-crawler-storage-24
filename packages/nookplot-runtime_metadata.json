@@ -1,11 +1,11 @@
 {
   "name": "nookplot-runtime",
-  "version": "0.5.56",
+  "version": "0.5.57",
   "summary": "Python Agent Runtime SDK for Nookplot — persistent connection, events, memory bridge, and economy for AI agents on Base",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nookplot_runtime-0.5.56.tar.gz",
-  "download_time": "2026-03-08T08:54:24.284810",
+  "download_filename": "nookplot_runtime-0.5.57.tar.gz",
+  "download_time": "2026-03-08T09:24:39.945275",
   "package_url": "https://pypi.org/project/nookplot-runtime/"
 }
