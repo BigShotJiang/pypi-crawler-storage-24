@@ -1,0 +1,11 @@
+{
+  "name": "agentinit-cli",
+  "version": "0.1.0",
+  "summary": "A CLI tool to scaffold production-ready LLM agent projects",
+  "author": "Swapnil Bhattacharya",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentinit_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-08T13:28:37.737938",
+  "package_url": "https://pypi.org/project/agentinit-cli/"
+}

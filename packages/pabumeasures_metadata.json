@@ -1,0 +1,11 @@
+{
+  "name": "pabumeasures",
+  "version": "0.2.2",
+  "summary": "Measures on participatory budgeting elections",
+  "author": "Michał Dobranowski, Jakub Wiśniewski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pabumeasures-0.2.2.tar.gz",
+  "download_time": "2026-03-08T13:28:46.491032",
+  "package_url": "https://pypi.org/project/pabumeasures/"
+}

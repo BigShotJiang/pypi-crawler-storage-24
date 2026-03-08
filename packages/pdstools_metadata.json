@@ -1,0 +1,11 @@
+{
+  "name": "pdstools",
+  "version": "4.6.1",
+  "summary": "Open source tooling that helps Data Scientists to analyze Pega models and conduct impactful analyses.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pdstools-4.6.1.tar.gz",
+  "download_time": "2026-03-08T13:28:31.532043",
+  "package_url": "https://pypi.org/project/pdstools/"
+}

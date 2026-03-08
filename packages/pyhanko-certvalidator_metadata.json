@@ -1,0 +1,11 @@
+{
+  "name": "pyhanko-certvalidator",
+  "version": "0.30.1",
+  "summary": "Validates X.509 certificates and paths; forked from wbond/certvalidator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhanko_certvalidator-0.30.1.tar.gz",
+  "download_time": "2026-03-08T13:28:56.374423",
+  "package_url": "https://pypi.org/project/pyhanko-certvalidator/"
+}

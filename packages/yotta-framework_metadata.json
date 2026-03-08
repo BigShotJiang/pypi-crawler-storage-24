@@ -1,11 +1,11 @@
 {
   "name": "yotta-framework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A modern CLI framework based on Click, Rich and Textual.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yotta_framework-1.0.1.tar.gz",
-  "download_time": "2026-03-08T11:43:02.048987",
+  "download_filename": "yotta_framework-1.0.2.tar.gz",
+  "download_time": "2026-03-08T13:28:33.123599",
   "package_url": "https://pypi.org/project/yotta-framework/"
 }

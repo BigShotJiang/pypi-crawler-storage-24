@@ -1,0 +1,11 @@
+{
+  "name": "jobspy-enhanced-scraper",
+  "version": "1.3.7",
+  "summary": "Enhanced job scraper for LinkedIn, Indeed, Glassdoor, ZipRecruiter with improved filtering capabilities",
+  "author": "Abhilash RS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jobspy_enhanced_scraper-1.3.7.tar.gz",
+  "download_time": "2026-03-08T13:28:26.356984",
+  "package_url": "https://pypi.org/project/jobspy-enhanced-scraper/"
+}

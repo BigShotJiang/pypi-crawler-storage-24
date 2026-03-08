@@ -1,0 +1,11 @@
+{
+  "name": "pyhanko-cli",
+  "version": "0.3.1",
+  "summary": "CLI tools for stamping and signing PDF files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhanko_cli-0.3.1.tar.gz",
+  "download_time": "2026-03-08T13:28:48.603323",
+  "package_url": "https://pypi.org/project/pyhanko-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "MCpypack",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python library for easy creation of Minecraft datapacks",
   "author": "Morten Barthel",
   "license": null,
   "home_page": null,
-  "download_filename": "mcpypack-0.2.0.tar.gz",
-  "download_time": "2026-03-08T10:20:26.621963",
+  "download_filename": "mcpypack-0.2.1.tar.gz",
+  "download_time": "2026-03-08T13:29:05.812485",
   "package_url": "https://pypi.org/project/MCpypack/"
 }

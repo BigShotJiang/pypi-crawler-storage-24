@@ -1,11 +1,11 @@
 {
   "name": "threedimensions",
   "version": "1.1.1",
-  "summary": "Professional Hybrid 3D Modeling Engine (C++ Core + Python API)",
+  "summary": "Programmable 3D modeling library in pure Python",
   "author": "LegedsDaD",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "threedimensions-1.1.1.tar.gz",
-  "download_time": "2026-03-08T05:59:36.619055",
+  "download_filename": "threedimensions-1.1.1-py3-none-any.whl",
+  "download_time": "2026-03-08T13:28:36.194060",
   "package_url": "https://pypi.org/project/threedimensions/"
 }
