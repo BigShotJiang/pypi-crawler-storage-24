@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ffmpeg",
+  "version": "0.1.2",
+  "summary": "A Model Context Protocol server for FFmpeg media processing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_ffmpeg-0.1.2.tar.gz",
+  "download_time": "2026-03-08T11:17:09.205318",
+  "package_url": "https://pypi.org/project/mcp-ffmpeg/"
+}

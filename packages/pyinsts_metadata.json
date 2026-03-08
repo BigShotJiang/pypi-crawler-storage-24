@@ -1,11 +1,11 @@
 {
   "name": "pyinsts",
-  "version": "0.0.3.2",
+  "version": "0.0.3.3",
   "summary": "PyVISA仪器控制库，支持Keysight和Rohde&Schwarz仪器",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyinsts-0.0.3.2.tar.gz",
-  "download_time": "2026-03-08T10:50:18.807358",
+  "download_filename": "pyinsts-0.0.3.3.tar.gz",
+  "download_time": "2026-03-08T11:17:16.784829",
   "package_url": "https://pypi.org/project/pyinsts/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "assertive",
+  "version": "1.3.0",
+  "summary": "A small assertion library for testing",
+  "author": "Peter Daly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "assertive-1.3.0.tar.gz",
+  "download_time": "2026-03-08T11:17:18.399926",
+  "package_url": "https://pypi.org/project/assertive/"
+}

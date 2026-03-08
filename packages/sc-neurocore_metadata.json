@@ -1,0 +1,11 @@
+{
+  "name": "sc-neurocore",
+  "version": "3.9.1",
+  "summary": "Universal Stochastic Computing Framework spanning Software, Hardware, Physics, and Biology.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sc_neurocore-3.9.1.tar.gz",
+  "download_time": "2026-03-08T11:16:42.839060",
+  "package_url": "https://pypi.org/project/sc-neurocore/"
+}

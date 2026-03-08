@@ -1,0 +1,11 @@
+{
+  "name": "pbi-agent",
+  "version": "0.0.3",
+  "summary": "Multi-provider LLM CLI agent for editing Power BI reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbi_agent-0.0.3.tar.gz",
+  "download_time": "2026-03-08T11:16:44.726138",
+  "package_url": "https://pypi.org/project/pbi-agent/"
+}

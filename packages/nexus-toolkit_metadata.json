@@ -1,11 +1,11 @@
 {
   "name": "nexus-toolkit",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "summary": "Hybrid search, retrieval, and Figma Make boilerplate generation MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexus_toolkit-2.1.4.tar.gz",
-  "download_time": "2026-03-08T10:49:55.503676",
+  "download_filename": "nexus_toolkit-2.1.5.tar.gz",
+  "download_time": "2026-03-08T11:16:51.857273",
   "package_url": "https://pypi.org/project/nexus-toolkit/"
 }

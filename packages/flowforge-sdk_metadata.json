@@ -1,0 +1,11 @@
+{
+  "name": "flowforge-sdk",
+  "version": "0.3.4",
+  "summary": "Python SDK for FlowForge - AI workflow orchestration",
+  "author": "FlowForge Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flowforge_sdk-0.3.4.tar.gz",
+  "download_time": "2026-03-08T11:17:08.101088",
+  "package_url": "https://pypi.org/project/flowforge-sdk/"
+}

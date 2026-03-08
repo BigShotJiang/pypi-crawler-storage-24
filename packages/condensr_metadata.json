@@ -1,0 +1,11 @@
+{
+  "name": "condensr",
+  "version": "0.3.0",
+  "summary": "Summarize books chapter by chapter using AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "condensr-0.3.0.tar.gz",
+  "download_time": "2026-03-08T11:16:58.363172",
+  "package_url": "https://pypi.org/project/condensr/"
+}

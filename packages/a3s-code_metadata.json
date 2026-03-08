@@ -1,11 +1,11 @@
 {
   "name": "a3s-code",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A3S Code - Native Python bindings for the AI coding agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "a3s_code-1.2.0-cp310-cp310-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-07T07:56:50.726110",
+  "download_filename": "a3s_code-1.2.1-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-08T11:17:02.730003",
   "package_url": "https://pypi.org/project/a3s-code/"
 }
