@@ -1,0 +1,11 @@
+{
+  "name": "dns-exporter",
+  "version": "1.2.1",
+  "summary": "Multi-target Prometheus exporter with an exclusive focus on DNS monitoring",
+  "author": "Thomas Steen Rasmussen",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "dns_exporter-1.2.1.tar.gz",
+  "download_time": "2026-03-08T21:56:54.396113",
+  "package_url": "https://pypi.org/project/dns-exporter/"
+}

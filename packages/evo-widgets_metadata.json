@@ -1,0 +1,11 @@
+{
+  "name": "evo-widgets",
+  "version": "0.2.0",
+  "summary": "Widgets and presentation layer for Evo SDK - HTML rendering and IPython formatters for Jupyter notebooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_widgets-0.2.0.tar.gz",
+  "download_time": "2026-03-08T21:57:00.055895",
+  "package_url": "https://pypi.org/project/evo-widgets/"
+}

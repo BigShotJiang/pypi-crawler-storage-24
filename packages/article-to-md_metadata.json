@@ -1,0 +1,11 @@
+{
+  "name": "article-to-md",
+  "version": "0.4.0",
+  "summary": "Convert an article or web page to Markdown",
+  "author": "nateify",
+  "license": null,
+  "home_page": null,
+  "download_filename": "article_to_md-0.4.0.tar.gz",
+  "download_time": "2026-03-08T21:57:13.889943",
+  "package_url": "https://pypi.org/project/article-to-md/"
+}

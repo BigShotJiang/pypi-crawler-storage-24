@@ -1,0 +1,11 @@
+{
+  "name": "doubledate",
+  "version": "0.0.15",
+  "summary": "doubledate, yet another datetime library, exposes a set of 20+ utility functions as well as an immutable `Calendar` object representing a sorted-set of dates.",
+  "author": "david.schenck@outlook.com",
+  "license": null,
+  "home_page": "https://github.com/dschenck/doubledate",
+  "download_filename": "doubledate-0.0.15.tar.gz",
+  "download_time": "2026-03-08T21:56:57.484873",
+  "package_url": "https://pypi.org/project/doubledate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iam-axiom-verifier",
+  "version": "0.1.0b1",
+  "summary": "A Neuro-Symbolic Inference Engine for AWS Security & FinOps — combines LLM routing with Z3 SMT/ILP solvers for formal IAM verification and financial blast radius analysis.",
+  "author": "Marc Bad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iam_axiom_verifier-0.1.0b1.tar.gz",
+  "download_time": "2026-03-08T21:57:09.488860",
+  "package_url": "https://pypi.org/project/iam-axiom-verifier/"
+}

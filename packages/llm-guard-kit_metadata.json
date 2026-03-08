@@ -1,0 +1,11 @@
+{
+  "name": "llm-guard-kit",
+  "version": "0.6.0",
+  "summary": "Real-time reliability monitoring for LLM agents. v0.6.0: SC_OLD behavioral signals + Sonnet judge in AgentGuard (AUROC ~0.81 within / ~0.74 cross), A2ATrustObject for agent-to-agent handoff, QueryRewriter for query diversification on low-confidence chains.",
+  "author": "Avighan Majumder",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_guard_kit-0.6.0.tar.gz",
+  "download_time": "2026-03-08T21:57:08.855500",
+  "package_url": "https://pypi.org/project/llm-guard-kit/"
+}
