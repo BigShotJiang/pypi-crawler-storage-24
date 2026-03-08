@@ -1,11 +1,11 @@
 {
   "name": "dvt-ce",
-  "version": "0.1.2",
+  "version": "0.1.21",
   "summary": "Data Virtualization Tool - Federated queries across data sources",
   "author": "Hesham Badawi",
   "license": null,
   "home_page": null,
-  "download_filename": "dvt_ce-0.1.2.tar.gz",
-  "download_time": "2026-03-07T05:12:53.865819",
+  "download_filename": "dvt_ce-0.1.21.tar.gz",
+  "download_time": "2026-03-08T01:48:26.641374",
   "package_url": "https://pypi.org/project/dvt-ce/"
 }

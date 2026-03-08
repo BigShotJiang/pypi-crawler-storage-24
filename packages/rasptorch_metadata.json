@@ -1,0 +1,11 @@
+{
+  "name": "rasptorch",
+  "version": "1.3.0",
+  "summary": "Experimental PyTorch-like autograd engine with an optional Vulkan compute backend (Raspberry Pi 5-focused).",
+  "author": "Joshua Ludolf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rasptorch-1.3.0.tar.gz",
+  "download_time": "2026-03-08T01:48:39.702042",
+  "package_url": "https://pypi.org/project/rasptorch/"
+}

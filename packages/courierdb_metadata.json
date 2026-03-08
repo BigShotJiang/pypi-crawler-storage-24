@@ -1,0 +1,11 @@
+{
+  "name": "courierdb",
+  "version": "0.2.1",
+  "summary": "The AI-Native Database: JSON + Vectors + MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "courierdb-0.2.1.tar.gz",
+  "download_time": "2026-03-08T01:48:45.464445",
+  "package_url": "https://pypi.org/project/courierdb/"
+}

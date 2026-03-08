@@ -1,11 +1,11 @@
 {
   "name": "LocalAdapt",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "Local AI Model adapters",
-  "author": "Nathan Lange",
+  "author": "Nathan Langen",
   "license": null,
   "home_page": null,
-  "download_filename": "localadapt-0.1.9.tar.gz",
-  "download_time": "2026-03-07T23:57:15.949958",
+  "download_filename": "localadapt-0.1.12.tar.gz",
+  "download_time": "2026-03-08T01:48:08.035205",
   "package_url": "https://pypi.org/project/LocalAdapt/"
 }

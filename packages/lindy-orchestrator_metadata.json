@@ -1,11 +1,11 @@
 {
   "name": "lindy-orchestrator",
-  "version": "0.9.0",
+  "version": "0.10.1",
   "summary": "Lightweight, git-native multi-agent orchestration framework for autonomous project execution",
   "author": "Eddie Ran",
   "license": null,
   "home_page": null,
-  "download_filename": "lindy_orchestrator-0.9.0.tar.gz",
-  "download_time": "2026-03-07T17:44:58.644540",
+  "download_filename": "lindy_orchestrator-0.10.1.tar.gz",
+  "download_time": "2026-03-08T01:48:29.244132",
   "package_url": "https://pypi.org/project/lindy-orchestrator/"
 }

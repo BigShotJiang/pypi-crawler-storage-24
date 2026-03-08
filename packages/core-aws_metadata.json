@@ -1,0 +1,11 @@
+{
+  "name": "core-aws",
+  "version": "3.0.0",
+  "summary": "This project/library contains common elements related to AWS services...",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "core_aws-3.0.0.tar.gz",
+  "download_time": "2026-03-08T01:48:49.188339",
+  "package_url": "https://pypi.org/project/core-aws/"
+}

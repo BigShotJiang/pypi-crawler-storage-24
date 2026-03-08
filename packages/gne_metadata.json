@@ -1,0 +1,11 @@
+{
+  "name": "gne",
+  "version": "0.4.2",
+  "summary": "General extractor of news pages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gne-0.4.2-py3-none-any.whl",
+  "download_time": "2026-03-08T01:48:23.456886",
+  "package_url": "https://pypi.org/project/gne/"
+}

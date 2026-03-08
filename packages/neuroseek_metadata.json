@@ -1,11 +1,11 @@
 {
   "name": "neuroseek",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Open-source semantic content search engine powered by sentence-transformers and HNSW.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neuroseek-0.2.0.tar.gz",
-  "download_time": "2026-03-07T16:25:45.109388",
+  "download_filename": "neuroseek-0.3.0.tar.gz",
+  "download_time": "2026-03-08T01:48:18.250498",
   "package_url": "https://pypi.org/project/neuroseek/"
 }

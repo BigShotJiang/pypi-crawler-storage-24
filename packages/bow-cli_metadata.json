@@ -1,0 +1,11 @@
+{
+  "name": "bow-cli",
+  "version": "0.4.6",
+  "summary": "Pythonic Kubernetes DSL — As powerful as Helm, as easy as Pulumi, as readable as Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bow_cli-0.4.6.tar.gz",
+  "download_time": "2026-03-08T01:48:28.724922",
+  "package_url": "https://pypi.org/project/bow-cli/"
+}

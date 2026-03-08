@@ -1,0 +1,11 @@
+{
+  "name": "ip-query-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for querying public and private IP addresses with VPN detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ip_query_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-08T01:48:09.084925",
+  "package_url": "https://pypi.org/project/ip-query-mcp/"
+}

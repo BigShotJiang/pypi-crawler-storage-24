@@ -1,0 +1,11 @@
+{
+  "name": "sdgis-cli",
+  "version": "1.0.2",
+  "summary": "CLI for the San Diego Regional Data Warehouse (SANDAG/SanGIS)",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sdgis_cli-1.0.2.tar.gz",
+  "download_time": "2026-03-08T01:48:09.606698",
+  "package_url": "https://pypi.org/project/sdgis-cli/"
+}

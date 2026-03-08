@@ -1,0 +1,11 @@
+{
+  "name": "ttsvowelviz",
+  "version": "0.1.1",
+  "summary": "A tool for visualizing static and dynamic vowel spaces during text-to-speech model training",
+  "author": null,
+  "license": "Copyright (c) 2025 Pasindu Udawatta",
+  "home_page": null,
+  "download_filename": "ttsvowelviz-0.1.1.tar.gz",
+  "download_time": "2026-03-08T01:48:37.091640",
+  "package_url": "https://pypi.org/project/ttsvowelviz/"
+}

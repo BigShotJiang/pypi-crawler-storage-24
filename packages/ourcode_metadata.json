@@ -1,0 +1,11 @@
+{
+  "name": "ourcode",
+  "version": "0.7.0",
+  "summary": "CLI for OurCode — find developers working on similar projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ourcode-0.7.0.tar.gz",
+  "download_time": "2026-03-08T01:48:31.349543",
+  "package_url": "https://pypi.org/project/ourcode/"
+}
