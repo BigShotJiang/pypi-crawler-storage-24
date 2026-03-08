@@ -1,11 +1,11 @@
 {
   "name": "vicentin",
-  "version": "1.4.42",
+  "version": "1.4.45",
   "summary": "Personal collection of algorithms.",
   "author": "Felipe Vicentin",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "vicentin-1.4.42.tar.gz",
-  "download_time": "2026-03-08T13:57:05.804827",
+  "download_filename": "vicentin-1.4.45.tar.gz",
+  "download_time": "2026-03-08T14:49:25.347761",
   "package_url": "https://pypi.org/project/vicentin/"
 }

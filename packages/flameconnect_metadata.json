@@ -1,0 +1,11 @@
+{
+  "name": "flameconnect",
+  "version": "0.5.3",
+  "summary": "Async Python library for controlling Dimplex, Faber, and Real Flame fireplaces via the Flame Connect cloud API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flameconnect-0.5.3.tar.gz",
+  "download_time": "2026-03-08T14:49:30.483429",
+  "package_url": "https://pypi.org/project/flameconnect/"
+}

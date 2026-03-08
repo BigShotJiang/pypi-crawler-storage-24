@@ -1,0 +1,11 @@
+{
+  "name": "pkgdb",
+  "version": "0.1.8",
+  "summary": "Track, store and query your PyPI package download statistics",
+  "author": "Shakeeb Alireza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkgdb-0.1.8.tar.gz",
+  "download_time": "2026-03-08T14:49:16.098881",
+  "package_url": "https://pypi.org/project/pkgdb/"
+}

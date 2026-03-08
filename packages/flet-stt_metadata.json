@@ -1,0 +1,11 @@
+{
+  "name": "flet-stt",
+  "version": "0.1.2",
+  "summary": "Speech-to-text for Flet apps via OS-native recognition (Android/iOS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_stt-0.1.2.tar.gz",
+  "download_time": "2026-03-08T14:49:42.870968",
+  "package_url": "https://pypi.org/project/flet-stt/"
+}

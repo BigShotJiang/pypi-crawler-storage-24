@@ -1,0 +1,11 @@
+{
+  "name": "pptx-speaker-cards",
+  "version": "1.0.0",
+  "summary": "Generate printable speaker cards from PowerPoint presentation notes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pptx_speaker_cards-1.0.0.tar.gz",
+  "download_time": "2026-03-08T14:49:34.119090",
+  "package_url": "https://pypi.org/project/pptx-speaker-cards/"
+}

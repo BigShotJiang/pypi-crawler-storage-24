@@ -1,11 +1,11 @@
 {
   "name": "prodigy-teams",
-  "version": "1.0.15",
+  "version": "1.0.17",
   "summary": "Prodigy Teams Command Line Interface",
   "author": "ExplosionAI GmbH",
   "license": "All rights reserved",
   "home_page": "https://prodi.gy",
-  "download_filename": "prodigy_teams-1.0.15.tar.gz",
-  "download_time": "2026-03-08T13:28:51.183503",
+  "download_filename": "prodigy_teams-1.0.17.tar.gz",
+  "download_time": "2026-03-08T14:49:55.219662",
   "package_url": "https://pypi.org/project/prodigy-teams/"
 }

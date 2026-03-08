@@ -1,11 +1,11 @@
 {
   "name": "ccsl",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Enhanced status line for Claude Code",
   "author": "usedhonda",
   "license": null,
   "home_page": null,
-  "download_filename": "ccsl-1.0.2.tar.gz",
-  "download_time": "2026-03-08T14:23:00.251968",
+  "download_filename": "ccsl-1.0.4.tar.gz",
+  "download_time": "2026-03-08T14:49:44.924427",
   "package_url": "https://pypi.org/project/ccsl/"
 }

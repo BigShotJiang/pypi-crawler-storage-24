@@ -1,0 +1,11 @@
+{
+  "name": "vmware-aiops",
+  "version": "0.6.0",
+  "summary": "VMware vCenter/ESXi AI-powered monitoring and operations tool",
+  "author": "Wei Zhou / 周崴",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmware_aiops-0.6.0.tar.gz",
+  "download_time": "2026-03-08T14:49:48.507722",
+  "package_url": "https://pypi.org/project/vmware-aiops/"
+}

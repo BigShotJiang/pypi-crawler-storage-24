@@ -1,11 +1,11 @@
 {
   "name": "cvfiq",
-  "version": "0.3.2",
+  "version": "0.4.3",
   "summary": "Computer Vision Helping Library/Functions",
   "author": "Fiqgant",
   "license": "MIT",
   "home_page": "https://github.com/fiqgant/cvfiq.git",
-  "download_filename": "cvfiq-0.3.2.tar.gz",
-  "download_time": "2026-03-08T07:28:45.616842",
+  "download_filename": "cvfiq-0.4.3.tar.gz",
+  "download_time": "2026-03-08T14:49:20.724214",
   "package_url": "https://pypi.org/project/cvfiq/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "igenius-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for iGenius Memory — gives AI agents persistent memory tools via the hosted API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "igenius_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-08T14:49:36.687799",
+  "package_url": "https://pypi.org/project/igenius-mcp/"
+}

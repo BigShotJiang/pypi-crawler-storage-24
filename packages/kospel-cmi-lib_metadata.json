@@ -1,11 +1,11 @@
 {
   "name": "kospel-cmi-lib",
-  "version": "0.1.0a7",
+  "version": "0.1.0a9",
   "summary": "Python client for Kospel C.MI electric heater HTTP API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kospel_cmi_lib-0.1.0a7.tar.gz",
-  "download_time": "2026-03-08T10:20:17.783557",
+  "download_filename": "kospel_cmi_lib-0.1.0a9.tar.gz",
+  "download_time": "2026-03-08T14:49:15.585564",
   "package_url": "https://pypi.org/project/kospel-cmi-lib/"
 }

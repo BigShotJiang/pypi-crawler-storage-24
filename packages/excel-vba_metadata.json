@@ -1,11 +1,11 @@
 {
   "name": "excel-vba",
-  "version": "0.0.1",
+  "version": "0.4.3",
   "summary": "Edit, export and import Excel VBA code from the command line. Thin entry-point wrapper for vba-edit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "excel_vba-0.0.1.tar.gz",
-  "download_time": "2026-03-08T14:23:48.217082",
+  "download_filename": "excel_vba-0.4.3.tar.gz",
+  "download_time": "2026-03-08T14:49:59.332529",
   "package_url": "https://pypi.org/project/excel-vba/"
 }

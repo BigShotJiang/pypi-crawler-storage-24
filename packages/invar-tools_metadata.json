@@ -1,11 +1,11 @@
 {
   "name": "invar-tools",
-  "version": "1.19.2",
+  "version": "1.19.4",
   "summary": "AI-native software engineering tools with design-by-contract verification",
   "author": "Invar Team",
   "license": null,
   "home_page": null,
-  "download_filename": "invar_tools-1.19.2.tar.gz",
-  "download_time": "2026-03-08T10:50:22.443906",
+  "download_filename": "invar_tools-1.19.4.tar.gz",
+  "download_time": "2026-03-08T14:49:13.001480",
   "package_url": "https://pypi.org/project/invar-tools/"
 }

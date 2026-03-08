@@ -1,11 +1,11 @@
 {
   "name": "BridgeEvaluator",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "This package designs bridgeRNAs targeting a given locus and and provides metrics to evaluate their efficiencies and specificities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bridgeevaluator-2.0.2-py3-none-any.whl",
-  "download_time": "2026-03-08T14:23:40.244864",
+  "download_filename": "bridgeevaluator-2.0.3-py3-none-any.whl",
+  "download_time": "2026-03-08T14:49:53.164448",
   "package_url": "https://pypi.org/project/BridgeEvaluator/"
 }

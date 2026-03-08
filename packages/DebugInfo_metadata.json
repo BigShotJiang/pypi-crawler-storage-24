@@ -1,0 +1,11 @@
+{
+  "name": "DebugInfo",
+  "version": "67.0.0",
+  "summary": "封装提供了一些调试常用方法，例如打印对齐，彩色文本，表格输出，交互接口，秒表装饰器，入参基类等类和方法的封装",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "debuginfo-67.0.0.tar.gz",
+  "download_time": "2026-03-08T14:49:26.374984",
+  "package_url": "https://pypi.org/project/DebugInfo/"
+}

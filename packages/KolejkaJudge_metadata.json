@@ -1,0 +1,11 @@
+{
+  "name": "KolejkaJudge",
+  "version": "0.1.202603081438",
+  "summary": "Kolejka Satori Judge",
+  "author": "KOLEJKA JUDGE",
+  "license": "MIT",
+  "home_page": "https://github.com/kolejka/kolejka-judge",
+  "download_filename": "kolejkajudge-0.1.202603081438-py3-none-any.whl",
+  "download_time": "2026-03-08T14:49:32.543920",
+  "package_url": "https://pypi.org/project/KolejkaJudge/"
+}
