@@ -1,0 +1,11 @@
+{
+  "name": "mha-finance",
+  "version": "0.14.7",
+  "summary": "Multi-Horizon Statistical Modeling for Financial Time Series",
+  "author": "Vikram Verma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mha_finance-0.14.7.tar.gz",
+  "download_time": "2026-03-08T13:57:14.158571",
+  "package_url": "https://pypi.org/project/mha-finance/"
+}

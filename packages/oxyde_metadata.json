@@ -1,11 +1,11 @@
 {
   "name": "oxyde",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "High-performance async Python ORM with Rust core",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oxyde-0.5.0.tar.gz",
-  "download_time": "2026-03-07T18:57:40.925585",
+  "download_filename": "oxyde-0.5.1.tar.gz",
+  "download_time": "2026-03-08T13:56:49.213189",
   "package_url": "https://pypi.org/project/oxyde/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "square_authentication",
+  "version": "12.2.1",
+  "summary": "authentication layer for my personal server.",
+  "author": "Parth Mukesh Mangtani",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "square_authentication-12.2.1.tar.gz",
+  "download_time": "2026-03-08T13:57:08.923633",
+  "package_url": "https://pypi.org/project/square_authentication/"
+}

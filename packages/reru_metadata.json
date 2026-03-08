@@ -1,0 +1,11 @@
+{
+  "name": "reru",
+  "version": "0.3.2",
+  "summary": "A high-performance, drop-in replacement for Python's re module, powered by Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reru-0.3.2-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-08T13:57:28.268226",
+  "package_url": "https://pypi.org/project/reru/"
+}

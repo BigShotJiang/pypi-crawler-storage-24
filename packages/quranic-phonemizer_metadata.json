@@ -1,0 +1,11 @@
+{
+  "name": "quranic-phonemizer",
+  "version": "2.0",
+  "summary": "A Grapheme-to-Phoneme converter (G2P) for the Qurʾan (Hafs riwaya), converting text to phoneme sequences with comprehensive support for all tajweed rules and waqf phonetic effects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quranic_phonemizer-2.0.tar.gz",
+  "download_time": "2026-03-08T13:56:56.899282",
+  "package_url": "https://pypi.org/project/quranic-phonemizer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "srforge",
+  "version": "0.12.2",
+  "summary": "Super‑resolution research framework for PyTorch with a focus on simplicity and flexibility using config files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srforge-0.12.2.tar.gz",
+  "download_time": "2026-03-08T13:56:57.423335",
+  "package_url": "https://pypi.org/project/srforge/"
+}

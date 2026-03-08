@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-mcp-guard",
+  "version": "0.1.8",
+  "summary": "MCP server for agent-safe Obsidian vault access with lint validation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "obsidian_mcp_guard-0.1.8.tar.gz",
+  "download_time": "2026-03-08T13:57:00.576751",
+  "package_url": "https://pypi.org/project/obsidian-mcp-guard/"
+}

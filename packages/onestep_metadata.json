@@ -1,0 +1,11 @@
+{
+  "name": "onestep",
+  "version": "0.5.4",
+  "summary": "仅需一步，轻松实现分布式异步任务。",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onestep-0.5.4.tar.gz",
+  "download_time": "2026-03-08T13:57:31.917486",
+  "package_url": "https://pypi.org/project/onestep/"
+}

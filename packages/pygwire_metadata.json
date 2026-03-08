@@ -1,0 +1,11 @@
+{
+  "name": "pygwire",
+  "version": "0.0.1",
+  "summary": "Low-level PostgreSQL wire protocol (3.0 & 3.2) codec for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygwire-0.0.1.tar.gz",
+  "download_time": "2026-03-08T13:57:16.770359",
+  "package_url": "https://pypi.org/project/pygwire/"
+}

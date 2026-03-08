@@ -1,0 +1,11 @@
+{
+  "name": "sapl-django",
+  "version": "4.0.1",
+  "summary": "SAPL Policy Enforcement Point (PEP) integration for Django",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sapl_django-4.0.1.tar.gz",
+  "download_time": "2026-03-08T13:57:07.361228",
+  "package_url": "https://pypi.org/project/sapl-django/"
+}

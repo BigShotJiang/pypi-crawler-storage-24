@@ -1,0 +1,11 @@
+{
+  "name": "brain-modules",
+  "version": "0.0.9",
+  "summary": "Replicate brain modules' computations with Artificial Neural Networks",
+  "author": "Ricky Ding",
+  "license": "MIT",
+  "home_page": "https://github.com/NeuroAI-Research/brain-modules",
+  "download_filename": "brain_modules-0.0.9.tar.gz",
+  "download_time": "2026-03-08T13:57:03.162878",
+  "package_url": "https://pypi.org/project/brain-modules/"
+}

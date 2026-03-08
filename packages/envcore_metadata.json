@@ -1,0 +1,11 @@
+{
+  "name": "envcore",
+  "version": "0.1.0",
+  "summary": "Automatic Python environment reconstruction — runtime import tracing, snapshot, and restore.",
+  "author": "Jan Bremec",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envcore-0.1.0.tar.gz",
+  "download_time": "2026-03-08T13:57:06.841197",
+  "package_url": "https://pypi.org/project/envcore/"
+}

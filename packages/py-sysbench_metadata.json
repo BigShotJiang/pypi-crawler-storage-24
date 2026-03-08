@@ -1,0 +1,11 @@
+{
+  "name": "py-sysbench",
+  "version": "1.0.0",
+  "summary": "System Performance Benchmarking Tool",
+  "author": "DevOps Team",
+  "license": null,
+  "home_page": "https://github.com/benchmark-tools/sysperf",
+  "download_filename": "py_sysbench-1.0.0.tar.gz",
+  "download_time": "2026-03-08T13:57:30.876549",
+  "package_url": "https://pypi.org/project/py-sysbench/"
+}
