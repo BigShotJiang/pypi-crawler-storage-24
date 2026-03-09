@@ -1,0 +1,11 @@
+{
+  "name": "soketdb",
+  "version": "2.0.0",
+  "summary": "SoketDB v2.0 — A production-ready, PostgreSQL-like database with AI-powered queries, automatic cloud backup, encryption, MVCC transactions, indexes, constraints, and zero setup.",
+  "author": "Alex Austin",
+  "license": "MIT",
+  "home_page": "https://github.com/pythos-team/soketdb",
+  "download_filename": "soketdb-2.0.0.tar.gz",
+  "download_time": "2026-03-09T17:10:58.240723",
+  "package_url": "https://pypi.org/project/soketdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simple-time-mcp",
+  "version": "0.1.2",
+  "summary": "Simple MCP demo: get current UTC time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_time_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-09T17:10:27.270942",
+  "package_url": "https://pypi.org/project/simple-time-mcp/"
+}

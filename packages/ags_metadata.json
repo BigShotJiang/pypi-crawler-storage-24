@@ -1,0 +1,11 @@
+{
+  "name": "ags",
+  "version": "0.2.1",
+  "summary": "annotation guided serialization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ags-0.2.1.tar.gz",
+  "download_time": "2026-03-09T17:10:53.545621",
+  "package_url": "https://pypi.org/project/ags/"
+}

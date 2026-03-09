@@ -1,0 +1,11 @@
+{
+  "name": "proceda",
+  "version": "0.1.0",
+  "summary": "A terminal-first, Python-native SDK for turning SOPs into runnable agents with built-in human oversight",
+  "author": "Vivek Haldar, Enchiridion Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proceda-0.1.0.tar.gz",
+  "download_time": "2026-03-09T17:11:02.367087",
+  "package_url": "https://pypi.org/project/proceda/"
+}

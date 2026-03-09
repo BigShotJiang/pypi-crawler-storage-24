@@ -1,0 +1,11 @@
+{
+  "name": "strands-pack",
+  "version": "0.1.1",
+  "summary": "Custom tool library for Strands Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "strands_pack-0.1.1.tar.gz",
+  "download_time": "2026-03-09T17:10:55.091201",
+  "package_url": "https://pypi.org/project/strands-pack/"
+}

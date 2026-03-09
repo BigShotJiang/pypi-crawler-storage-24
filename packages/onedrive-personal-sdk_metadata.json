@@ -1,0 +1,11 @@
+{
+  "name": "onedrive-personal-sdk",
+  "version": "0.1.6",
+  "summary": "A package to interact with the Microsoft Graph API for personal OneDrives.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onedrive_personal_sdk-0.1.6.tar.gz",
+  "download_time": "2026-03-09T17:11:02.880350",
+  "package_url": "https://pypi.org/project/onedrive-personal-sdk/"
+}

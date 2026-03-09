@@ -1,0 +1,11 @@
+{
+  "name": "codexmemory",
+  "version": "1.0.0",
+  "summary": "100x AI-Powered Semantic Code Memory with FAISS, MiniLM, and Tree-Sitter AST Parsing",
+  "author": "Gaurav Sanghvi",
+  "license": null,
+  "home_page": "https://github.com/yourusername/codexmemory",
+  "download_filename": "codexmemory-1.0.0.tar.gz",
+  "download_time": "2026-03-09T17:10:28.293738",
+  "package_url": "https://pypi.org/project/codexmemory/"
+}

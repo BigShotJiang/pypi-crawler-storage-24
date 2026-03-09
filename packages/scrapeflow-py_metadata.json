@@ -1,0 +1,11 @@
+{
+  "name": "scrapeflow-py",
+  "version": "0.2.0",
+  "summary": "An opinionated scraping workflow engine built on Playwright",
+  "author": "Irfan Ali",
+  "license": "MIT",
+  "home_page": "https://github.com/irfanalidv/scrapeflow-py",
+  "download_filename": "scrapeflow_py-0.2.0.tar.gz",
+  "download_time": "2026-03-09T17:10:52.523801",
+  "package_url": "https://pypi.org/project/scrapeflow-py/"
+}

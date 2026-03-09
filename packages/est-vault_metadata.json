@@ -1,0 +1,11 @@
+{
+  "name": "est-vault",
+  "version": "1.0.0",
+  "summary": "est-vault is a command-line tool for managing application secrets securely",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "est_vault-1.0.0.tar.gz",
+  "download_time": "2026-03-09T17:10:44.251460",
+  "package_url": "https://pypi.org/project/est-vault/"
+}

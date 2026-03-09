@@ -1,11 +1,11 @@
 {
   "name": "oreum_core",
-  "version": "0.12.4",
+  "version": "0.12.10",
   "summary": "Core tools for use on projects by Oreum Industries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oreum_core-0.12.4.tar.gz",
-  "download_time": "2026-03-08T14:23:31.582603",
+  "download_filename": "oreum_core-0.12.10.tar.gz",
+  "download_time": "2026-03-09T17:10:23.118071",
   "package_url": "https://pypi.org/project/oreum_core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pygeoapi-plugins",
+  "version": "0.5.0",
+  "summary": "pygeoapi plugins",
+  "author": "Benjamin Webb",
+  "license": "MIT",
+  "home_page": "https://github.com/cgs-earth/pygeoapi-plugins",
+  "download_filename": "pygeoapi_plugins-0.5.0.tar.gz",
+  "download_time": "2026-03-09T17:11:01.344087",
+  "package_url": "https://pypi.org/project/pygeoapi-plugins/"
+}

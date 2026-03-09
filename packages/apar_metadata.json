@@ -1,0 +1,11 @@
+{
+  "name": "apar",
+  "version": "0.1.0",
+  "summary": "Applicability Area (ApAr): A decision-analytic utility-based approach to evaluating predictive models.",
+  "author": "Star Liu, Shixiong Wei, Harold P. Lehmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apar-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-09T17:10:47.836105",
+  "package_url": "https://pypi.org/project/apar/"
+}

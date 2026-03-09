@@ -1,0 +1,11 @@
+{
+  "name": "greennode-agent-bridge",
+  "version": "1.0.2",
+  "summary": "A bridge package for connecting multiple agent frameworks (LangGraph, CrewAI, Microsoft Agent Framework, etc.) with GreenNode AgentBase",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "greennode_agent_bridge-1.0.2.tar.gz",
+  "download_time": "2026-03-09T17:10:56.117524",
+  "package_url": "https://pypi.org/project/greennode-agent-bridge/"
+}

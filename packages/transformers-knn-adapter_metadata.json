@@ -1,0 +1,11 @@
+{
+  "name": "transformers-knn-adapter",
+  "version": "0.4.0",
+  "summary": "Hugging Face Transformers image embedding adapter with a scikit-learn KNN classification head.",
+  "author": "transformers-knn-adapter contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transformers_knn_adapter-0.4.0.tar.gz",
+  "download_time": "2026-03-09T17:11:01.854975",
+  "package_url": "https://pypi.org/project/transformers-knn-adapter/"
+}
