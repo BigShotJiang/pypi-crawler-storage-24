@@ -1,0 +1,11 @@
+{
+  "name": "prism-antibody",
+  "version": "0.4.1",
+  "summary": "PRISM - Partitioning Residue Identity in Somatic Maturation for antibody language modeling",
+  "author": "Anonymous",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prism_antibody-0.4.1.tar.gz",
+  "download_time": "2026-03-09T19:01:32.700694",
+  "package_url": "https://pypi.org/project/prism-antibody/"
+}

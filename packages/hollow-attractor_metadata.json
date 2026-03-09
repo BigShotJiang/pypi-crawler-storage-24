@@ -1,0 +1,11 @@
+{
+  "name": "hollow-attractor",
+  "version": "0.2.2",
+  "summary": "Cross-session personal memory and task protocol for Claude",
+  "author": "wjdhollow",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hollow_attractor-0.2.2.tar.gz",
+  "download_time": "2026-03-09T19:01:45.094275",
+  "package_url": "https://pypi.org/project/hollow-attractor/"
+}

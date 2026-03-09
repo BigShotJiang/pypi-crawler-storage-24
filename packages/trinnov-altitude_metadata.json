@@ -1,0 +1,11 @@
+{
+  "name": "trinnov-altitude",
+  "version": "3.2.1",
+  "summary": "Python client for interfacing with the Trinnov Altitude processor.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trinnov_altitude-3.2.1.tar.gz",
+  "download_time": "2026-03-09T19:01:04.752829",
+  "package_url": "https://pypi.org/project/trinnov-altitude/"
+}

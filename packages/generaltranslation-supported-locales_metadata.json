@@ -1,0 +1,11 @@
+{
+  "name": "generaltranslation-supported-locales",
+  "version": "0.0.4",
+  "summary": "Supported locale data for General Translation",
+  "author": "Ernest McCarter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "generaltranslation_supported_locales-0.0.4.tar.gz",
+  "download_time": "2026-03-09T19:01:27.537603",
+  "package_url": "https://pypi.org/project/generaltranslation-supported-locales/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "maskcloud",
+  "version": "0.1.0",
+  "summary": "Just-In-Time Privacy Middleware for AI Agents. Format-preserving encryption with pluggable vault backends.",
+  "author": "Mask AI Solutions",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maskcloud-0.1.0.tar.gz",
+  "download_time": "2026-03-09T19:01:23.907600",
+  "package_url": "https://pypi.org/project/maskcloud/"
+}

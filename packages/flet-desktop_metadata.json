@@ -1,0 +1,11 @@
+{
+  "name": "flet-desktop",
+  "version": "0.82.0",
+  "summary": "Flet Desktop client in Flutter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_desktop-0.82.0.tar.gz",
+  "download_time": "2026-03-09T19:01:03.719832",
+  "package_url": "https://pypi.org/project/flet-desktop/"
+}

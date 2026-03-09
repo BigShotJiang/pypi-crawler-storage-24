@@ -1,0 +1,11 @@
+{
+  "name": "q0t-telegram-mcp",
+  "version": "0.2.1",
+  "summary": "Telegram MCP server that actually sends messages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "q0t_telegram_mcp-0.2.1.tar.gz",
+  "download_time": "2026-03-09T19:01:22.367030",
+  "package_url": "https://pypi.org/project/q0t-telegram-mcp/"
+}

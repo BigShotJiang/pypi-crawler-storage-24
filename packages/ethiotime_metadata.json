@@ -1,0 +1,11 @@
+{
+  "name": "ethiotime",
+  "version": "1.0.2",
+  "summary": "A production-ready Python library for Ethiopian calendar and time conversions.",
+  "author": "Bikila Ketema",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ethiotime-1.0.2.tar.gz",
+  "download_time": "2026-03-09T19:01:28.050517",
+  "package_url": "https://pypi.org/project/ethiotime/"
+}
