@@ -1,0 +1,11 @@
+{
+  "name": "appfl",
+  "version": "1.10.0",
+  "summary": "An open-source package for privacy-preserving federated learning",
+  "author": "Kibaek Kim <kimk@anl.gov>, Minseok Ryu <minseok.ryu@asu.edu>, Youngdae Kim <youngdae@anl.gov>, Hieu Hoang <thoang@anl.gov>, Zachary Ross <zross@anl.gov>, Zilinghan Li <zilinghan.li@anl.gov>, Sang-il Yim <yim@anl.gov>, Shourya Bose <shbose@ucsc.edu>, Shilan He <shilanh2@illinois.edu>, Grant Wilkins <gfw27@cam.ac.uk>, Ravi Madduri <madduri@anl.gov>",
+  "license": null,
+  "home_page": "https://github.com/APPFL/APPFL",
+  "download_filename": "appfl-1.10.0.tar.gz",
+  "download_time": "2026-03-09T23:24:12.841806",
+  "package_url": "https://pypi.org/project/appfl/"
+}

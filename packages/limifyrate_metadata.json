@@ -1,0 +1,11 @@
+{
+  "name": "limifyrate",
+  "version": "0.1.5",
+  "summary": "Framework-agnostic, Redis-backed rate limiting engine for modern async Python systems.",
+  "author": "Pedram Aliniaye Asli",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "limifyrate-0.1.5.tar.gz",
+  "download_time": "2026-03-09T23:23:34.809785",
+  "package_url": "https://pypi.org/project/limifyrate/"
+}

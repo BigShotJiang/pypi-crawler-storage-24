@@ -1,0 +1,11 @@
+{
+  "name": "transcribe-critic",
+  "version": "1.4.0",
+  "summary": "Multi-source speech transcription with LLM-based adjudication inspired by textual criticism",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transcribe_critic-1.4.0.tar.gz",
+  "download_time": "2026-03-09T23:23:39.128386",
+  "package_url": "https://pypi.org/project/transcribe-critic/"
+}

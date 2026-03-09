@@ -1,0 +1,11 @@
+{
+  "name": "uni-db",
+  "version": "0.1.18",
+  "summary": "Python bindings for Uni Graph Database",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "uni_db-0.1.18.tar.gz",
+  "download_time": "2026-03-09T23:24:09.260796",
+  "package_url": "https://pypi.org/project/uni-db/"
+}

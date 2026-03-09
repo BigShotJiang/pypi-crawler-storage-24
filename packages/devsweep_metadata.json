@@ -1,0 +1,11 @@
+{
+  "name": "devsweep",
+  "version": "0.2.0",
+  "summary": "Clean up heavy dev artifacts (node_modules, __pycache__, R cache) under a root folder.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devsweep-0.2.0.tar.gz",
+  "download_time": "2026-03-09T23:23:52.268590",
+  "package_url": "https://pypi.org/project/devsweep/"
+}

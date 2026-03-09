@@ -1,0 +1,11 @@
+{
+  "name": "biblealignlib",
+  "version": "0.2.9",
+  "summary": "Code for managing Word-level alignments for Bibles, including both automatic alignments and manually corrected alignments.",
+  "author": "Sean Boisen",
+  "license": "MIT",
+  "home_page": "https://github.com/Clear-Bible/biblealignlib",
+  "download_filename": "biblealignlib-0.2.9.tar.gz",
+  "download_time": "2026-03-09T23:23:57.972761",
+  "package_url": "https://pypi.org/project/biblealignlib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dlqhandler",
+  "version": "0.8.1",
+  "summary": "A library for handling DLQ messages in AWS SQS",
+  "author": "Marcelo Ferreira",
+  "license": null,
+  "home_page": "https://github.com/MarceloJay/lambda-dlq-reprocess-message",
+  "download_filename": "dlqhandler-0.8.1.tar.gz",
+  "download_time": "2026-03-09T23:23:48.463548",
+  "package_url": "https://pypi.org/project/dlqhandler/"
+}

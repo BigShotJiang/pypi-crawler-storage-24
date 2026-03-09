@@ -1,11 +1,11 @@
 {
   "name": "things-pytools-dasheer",
-  "version": "0.2",
+  "version": "0.2.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "things_pytools_dasheer-0.2.tar.gz",
-  "download_time": "2026-03-09T22:54:34.378958",
+  "download_filename": "things_pytools_dasheer-0.2.2.tar.gz",
+  "download_time": "2026-03-09T23:23:51.684399",
   "package_url": "https://pypi.org/project/things-pytools-dasheer/"
 }

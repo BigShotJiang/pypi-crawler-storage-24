@@ -1,11 +1,11 @@
 {
   "name": "sporemesh",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Decentralized AI research protocol — BitTorrent for ML experiments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sporemesh-0.2.3.tar.gz",
-  "download_time": "2026-03-09T21:28:05.060146",
+  "download_filename": "sporemesh-0.2.5.tar.gz",
+  "download_time": "2026-03-09T23:23:47.953852",
   "package_url": "https://pypi.org/project/sporemesh/"
 }

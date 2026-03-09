@@ -1,0 +1,11 @@
+{
+  "name": "voids",
+  "version": "0.1.5",
+  "summary": "Scientific Python package for pore network modeling (PNM)",
+  "author": null,
+  "license": "LGPL-2.1-only",
+  "home_page": null,
+  "download_filename": "voids-0.1.5-py3-none-any.whl",
+  "download_time": "2026-03-09T23:24:09.772306",
+  "package_url": "https://pypi.org/project/voids/"
+}
