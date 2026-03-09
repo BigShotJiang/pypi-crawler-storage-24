@@ -1,11 +1,11 @@
 {
   "name": "panel-live-server",
-  "version": "0.1.0a2",
+  "version": "0.1.0a3",
   "summary": "Panel Live Server is a local Panel web server that executes Python code snippets and renders the resulting visualizations as live, interactive web pages.",
   "author": null,
   "license": "BSD",
   "home_page": null,
-  "download_filename": "panel_live_server-0.1.0a2.tar.gz",
-  "download_time": "2026-03-08T10:20:21.934831",
+  "download_filename": "panel_live_server-0.1.0a3-py3-none-any.whl",
+  "download_time": "2026-03-09T08:08:03.859772",
   "package_url": "https://pypi.org/project/panel-live-server/"
 }

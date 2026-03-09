@@ -1,0 +1,11 @@
+{
+  "name": "vnstock-mcp",
+  "version": "0.1.5",
+  "summary": "Vietnamese Stock Market MCP Server - FastMCP 2.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vnstock_mcp-0.1.5.tar.gz",
+  "download_time": "2026-03-09T08:08:46.169654",
+  "package_url": "https://pypi.org/project/vnstock-mcp/"
+}

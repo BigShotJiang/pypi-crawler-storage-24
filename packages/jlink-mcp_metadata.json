@@ -1,0 +1,11 @@
+{
+  "name": "jlink-mcp",
+  "version": "0.1.0",
+  "summary": "AI 与 JLink 调试器的桥梁 - MCP 服务器",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jlink_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-09T08:08:44.613618",
+  "package_url": "https://pypi.org/project/jlink-mcp/"
+}

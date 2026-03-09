@@ -1,0 +1,11 @@
+{
+  "name": "ironcast-cec",
+  "version": "0.3.1",
+  "summary": "Python bindings for libcec",
+  "author": "Steffan Pease",
+  "license": "GPLv2",
+  "home_page": "https://gitlab.com/spease/ironcast-cec",
+  "download_filename": "ironcast_cec-0.3.1.tar.gz",
+  "download_time": "2026-03-09T08:08:23.776978",
+  "package_url": "https://pypi.org/project/ironcast-cec/"
+}

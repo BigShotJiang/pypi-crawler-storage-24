@@ -1,0 +1,11 @@
+{
+  "name": "bingx-python",
+  "version": "1.0.0",
+  "summary": "BingX API client for Python - USDT-M and Coin-M perpetual futures, spot trading, copy trading, WebSocket streaming",
+  "author": "Igor Sazonov",
+  "license": "MIT",
+  "home_page": "https://github.com/tigusigalpa/bingx-python",
+  "download_filename": "bingx_python-1.0.0.tar.gz",
+  "download_time": "2026-03-09T08:08:42.023418",
+  "package_url": "https://pypi.org/project/bingx-python/"
+}

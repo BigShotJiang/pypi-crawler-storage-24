@@ -1,0 +1,11 @@
+{
+  "name": "mrsitoolbox",
+  "version": "1.0.14",
+  "summary": "Analysis toolbox for MRSI data",
+  "author": "Federico Lucchetti",
+  "license": null,
+  "home_page": "https://github.com/MRSI-Psychosis-UP/Metabolic-Connectome.git",
+  "download_filename": "mrsitoolbox-1.0.14.tar.gz",
+  "download_time": "2026-03-09T08:08:04.895646",
+  "package_url": "https://pypi.org/project/mrsitoolbox/"
+}

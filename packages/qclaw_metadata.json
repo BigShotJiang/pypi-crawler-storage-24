@@ -1,0 +1,11 @@
+{
+  "name": "qclaw",
+  "version": "0.1.0",
+  "summary": "Open a URL in the default browser from the command line.",
+  "author": "Codex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qclaw-0.1.0.tar.gz",
+  "download_time": "2026-03-09T08:08:32.644604",
+  "package_url": "https://pypi.org/project/qclaw/"
+}

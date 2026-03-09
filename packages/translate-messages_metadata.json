@@ -1,0 +1,11 @@
+{
+  "name": "translate-messages",
+  "version": "1.8.1",
+  "summary": "Translate en/messages.json (chrome.i18n format) to 100+ locales automatically.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "translate_messages-1.8.1.tar.gz",
+  "download_time": "2026-03-09T08:08:40.471897",
+  "package_url": "https://pypi.org/project/translate-messages/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qianwen",
+  "version": "0.1.0",
+  "summary": "Open a URL in the default browser from the command line.",
+  "author": "Codex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qianwen-0.1.0.tar.gz",
+  "download_time": "2026-03-09T08:08:45.652133",
+  "package_url": "https://pypi.org/project/qianwen/"
+}

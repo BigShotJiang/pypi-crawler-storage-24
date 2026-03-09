@@ -1,0 +1,11 @@
+{
+  "name": "quorum-validator",
+  "version": "0.5.2",
+  "summary": "Multi-critic quality validation for agents, research, and configurations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quorum_validator-0.5.2.tar.gz",
+  "download_time": "2026-03-09T08:08:21.678847",
+  "package_url": "https://pypi.org/project/quorum-validator/"
+}

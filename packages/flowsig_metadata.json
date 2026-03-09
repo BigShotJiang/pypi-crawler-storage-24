@@ -1,0 +1,11 @@
+{
+  "name": "flowsig",
+  "version": "0.4.3",
+  "summary": "Infer dependent intercellular communication from single-cell and spatial transcriptomics data.",
+  "author": "Axel A. Almet",
+  "license": "MIT",
+  "home_page": "https://github.com/axelalmet/flowsig",
+  "download_filename": "flowsig-0.4.3.tar.gz",
+  "download_time": "2026-03-09T08:08:34.723345",
+  "package_url": "https://pypi.org/project/flowsig/"
+}
