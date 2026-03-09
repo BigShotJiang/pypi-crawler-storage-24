@@ -1,0 +1,11 @@
+{
+  "name": "VIX-Spike",
+  "version": "1.0.2",
+  "summary": "A Python library for pricing VIX options using shot noise models",
+  "author": "VIX Spike VolOfVol Research Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vix_spike-1.0.2.tar.gz",
+  "download_time": "2026-03-09T02:32:14.539157",
+  "package_url": "https://pypi.org/project/VIX-Spike/"
+}

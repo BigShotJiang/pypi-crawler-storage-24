@@ -1,11 +1,11 @@
 {
   "name": "remjsonparse",
-  "version": "0.1.0",
+  "version": "0.1.7",
   "summary": "Utility package for automation and remote json parsing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "remjsonparse-0.1.0.tar.gz",
-  "download_time": "2026-03-08T23:45:58.792202",
+  "download_filename": "remjsonparse-0.1.7.tar.gz",
+  "download_time": "2026-03-09T02:32:18.134881",
   "package_url": "https://pypi.org/project/remjsonparse/"
 }

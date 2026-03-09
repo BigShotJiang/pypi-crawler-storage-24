@@ -1,0 +1,11 @@
+{
+  "name": "MeTIOT",
+  "version": "0.1.6",
+  "summary": "Communication handling for all MeT IOT devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metiot-0.1.6-cp312-cp312-manylinux_2_34_aarch64.whl",
+  "download_time": "2026-03-09T02:32:22.347680",
+  "package_url": "https://pypi.org/project/MeTIOT/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nexus-rpc-sdk",
+  "version": "0.5.1",
+  "summary": "Nexus microservice framework Python SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_rpc_sdk-0.5.1.tar.gz",
+  "download_time": "2026-03-09T02:31:44.163956",
+  "package_url": "https://pypi.org/project/nexus-rpc-sdk/"
+}

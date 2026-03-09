@@ -1,0 +1,11 @@
+{
+  "name": "django-markdownfield",
+  "version": "0.13.1",
+  "summary": "A simple custom field for Django that can safely render Markdown and store it in the database.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_markdownfield-0.13.1.tar.gz",
+  "download_time": "2026-03-09T02:31:47.770368",
+  "package_url": "https://pypi.org/project/django-markdownfield/"
+}

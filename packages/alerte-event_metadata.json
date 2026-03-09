@@ -1,0 +1,11 @@
+{
+  "name": "alerte-event",
+  "version": "2.0.0",
+  "summary": "CLI de rappels de notifications via Telegram, Gmail ou Discord",
+  "author": "Ton Nom",
+  "license": null,
+  "home_page": "https://github.com/ton-user/alerte-event",
+  "download_filename": "alerte_event-2.0.0.tar.gz",
+  "download_time": "2026-03-09T02:31:53.424930",
+  "package_url": "https://pypi.org/project/alerte-event/"
+}

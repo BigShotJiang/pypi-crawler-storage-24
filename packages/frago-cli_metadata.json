@@ -1,11 +1,11 @@
 {
   "name": "frago-cli",
-  "version": "0.44.5",
+  "version": "0.44.6",
   "summary": "frago - Agent OS for AI agents: runtime, resource management, environment sync, and GUI for non-technical users",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "frago_cli-0.44.5.tar.gz",
-  "download_time": "2026-03-08T20:48:45.169253",
+  "download_filename": "frago_cli-0.44.6.tar.gz",
+  "download_time": "2026-03-09T02:32:21.319129",
   "package_url": "https://pypi.org/project/frago-cli/"
 }

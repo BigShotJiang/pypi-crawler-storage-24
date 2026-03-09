@@ -1,11 +1,11 @@
 {
   "name": "bridge-ai-unity-mcp",
-  "version": "1.0.4",
+  "version": "1.1.4",
   "summary": "MCP for Unity Server: A Unity package for Unity Editor integration via the Model Context Protocol (MCP).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bridge_ai_unity_mcp-1.0.4.tar.gz",
-  "download_time": "2026-03-08T22:48:27.579389",
+  "download_filename": "bridge_ai_unity_mcp-1.1.4.tar.gz",
+  "download_time": "2026-03-09T02:32:04.246447",
   "package_url": "https://pypi.org/project/bridge-ai-unity-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "denden-server",
+  "version": "0.1.9",
+  "summary": "Agent to Agent Communication Layer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "denden_server-0.1.9.tar.gz",
+  "download_time": "2026-03-09T02:32:20.749674",
+  "package_url": "https://pypi.org/project/denden-server/"
+}

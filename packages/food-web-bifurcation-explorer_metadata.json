@@ -1,0 +1,11 @@
+{
+  "name": "food-web-bifurcation-explorer",
+  "version": "0.1",
+  "summary": "A tool for exploring bifurcations in a set of food-web networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "food_web_bifurcation_explorer-0.1.tar.gz",
+  "download_time": "2026-03-09T02:32:09.394546",
+  "package_url": "https://pypi.org/project/food-web-bifurcation-explorer/"
+}
