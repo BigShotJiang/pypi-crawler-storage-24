@@ -1,0 +1,11 @@
+{
+  "name": "smart-playlist-io",
+  "version": "1.1.1",
+  "summary": "Encode and decode Apple Music Smart Playlist binary format (Smart Info + Smart Criteria)",
+  "author": "kynoptic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_playlist_io-1.1.1.tar.gz",
+  "download_time": "2026-03-09T06:43:17.481277",
+  "package_url": "https://pypi.org/project/smart-playlist-io/"
+}

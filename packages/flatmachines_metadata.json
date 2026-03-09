@@ -1,11 +1,11 @@
 {
   "name": "flatmachines",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "State machine orchestration for agent workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flatmachines-2.2.1.tar.gz",
-  "download_time": "2026-03-08T08:54:21.725860",
+  "download_filename": "flatmachines-2.2.2.tar.gz",
+  "download_time": "2026-03-09T06:43:32.019446",
   "package_url": "https://pypi.org/project/flatmachines/"
 }

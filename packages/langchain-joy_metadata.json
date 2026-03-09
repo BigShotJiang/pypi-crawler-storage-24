@@ -1,0 +1,11 @@
+{
+  "name": "langchain-joy",
+  "version": "0.1.0",
+  "summary": "LangChain integration for Joy Agent Trust Network",
+  "author": "Joy Network",
+  "license": "MIT",
+  "home_page": "https://github.com/tlkc888-Jenkins/Joy",
+  "download_filename": "langchain_joy-0.1.0.tar.gz",
+  "download_time": "2026-03-09T06:43:48.054565",
+  "package_url": "https://pypi.org/project/langchain-joy/"
+}

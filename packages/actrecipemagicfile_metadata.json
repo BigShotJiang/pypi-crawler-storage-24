@@ -1,0 +1,11 @@
+{
+  "name": "actrecipemagicfile",
+  "version": "0.4.33",
+  "summary": "File type identification using libmagic",
+  "author": "ActRecipe Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/tho-actrecipe/magicfile",
+  "download_filename": "actrecipemagicfile-0.4.33-cp311-cp311-macosx_10_9_x86_64.macosx_14_0_arm64.whl",
+  "download_time": "2026-03-09T06:43:14.819275",
+  "package_url": "https://pypi.org/project/actrecipemagicfile/"
+}

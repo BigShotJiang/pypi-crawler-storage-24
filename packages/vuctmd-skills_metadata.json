@@ -1,0 +1,11 @@
+{
+  "name": "vuctmd-skills",
+  "version": "0.2.3",
+  "summary": "AI agent skills for the Vulcan data platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vuctmd_skills-0.2.3.tar.gz",
+  "download_time": "2026-03-09T06:43:20.191645",
+  "package_url": "https://pypi.org/project/vuctmd-skills/"
+}

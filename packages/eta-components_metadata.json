@@ -1,0 +1,11 @@
+{
+  "name": "eta-components",
+  "version": "1.0.5",
+  "summary": "Components for modeling industrial production sites",
+  "author": "Technical University of Darmstadt, Institute for Production Management, Technology and Machine Tools (PTW)",
+  "license": "BSD-2-Clause License",
+  "home_page": "https://www.ptw.tu-darmstadt.de",
+  "download_filename": "eta_components-1.0.5.tar.gz",
+  "download_time": "2026-03-09T06:43:22.321193",
+  "package_url": "https://pypi.org/project/eta-components/"
+}

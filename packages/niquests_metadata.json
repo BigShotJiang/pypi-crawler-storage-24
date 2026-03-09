@@ -1,0 +1,11 @@
+{
+  "name": "niquests",
+  "version": "3.18.0",
+  "summary": "Niquests is a simple, yet elegant, HTTP library. It is a drop-in replacement for Requests, which is under feature freeze.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "niquests-3.18.0.tar.gz",
+  "download_time": "2026-03-09T06:43:10.556607",
+  "package_url": "https://pypi.org/project/niquests/"
+}

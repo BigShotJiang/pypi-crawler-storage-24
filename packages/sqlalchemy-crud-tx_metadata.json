@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-crud-tx",
+  "version": "2.2.0",
+  "summary": "Use SQLAlchemy in a Pythonic way.",
+  "author": "ZMKimu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlalchemy_crud_tx-2.2.0.tar.gz",
+  "download_time": "2026-03-09T06:43:15.880010",
+  "package_url": "https://pypi.org/project/sqlalchemy-crud-tx/"
+}

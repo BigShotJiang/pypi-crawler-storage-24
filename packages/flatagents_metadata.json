@@ -1,11 +1,11 @@
 {
   "name": "flatagents",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "A lightweight framework for building LLM-powered agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flatagents-2.2.1.tar.gz",
-  "download_time": "2026-03-08T08:54:22.238352",
+  "download_filename": "flatagents-2.2.2.tar.gz",
+  "download_time": "2026-03-09T06:43:32.552611",
   "package_url": "https://pypi.org/project/flatagents/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "oelint-adv",
-  "version": "9.4.3",
+  "version": "9.4.4",
   "summary": "Advanced bitbake-recipe linter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oelint_adv-9.4.3.tar.gz",
-  "download_time": "2026-03-09T05:45:52.778218",
+  "download_filename": "oelint_adv-9.4.4.tar.gz",
+  "download_time": "2026-03-09T06:43:06.813530",
   "package_url": "https://pypi.org/project/oelint-adv/"
 }

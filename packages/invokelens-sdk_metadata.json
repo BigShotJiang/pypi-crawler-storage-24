@@ -1,11 +1,11 @@
 {
   "name": "invokelens-sdk",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "SDK for InvokeLens — AI Agent Guardrails & Observability Platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "invokelens_sdk-0.2.1.tar.gz",
-  "download_time": "2026-03-09T04:33:00.645995",
+  "download_filename": "invokelens_sdk-0.2.2.tar.gz",
+  "download_time": "2026-03-09T06:43:48.603547",
   "package_url": "https://pypi.org/project/invokelens-sdk/"
 }

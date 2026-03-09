@@ -1,0 +1,11 @@
+{
+  "name": "metriq-gym",
+  "version": "0.7.0",
+  "summary": "Framework for implementing and running standard quantum benchmarks on different quantum devices by different providers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metriq_gym-0.7.0.tar.gz",
+  "download_time": "2026-03-09T06:43:36.896229",
+  "package_url": "https://pypi.org/project/metriq-gym/"
+}

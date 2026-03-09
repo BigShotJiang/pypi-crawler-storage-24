@@ -1,0 +1,11 @@
+{
+  "name": "cm-email-webhook-verification",
+  "version": "1.0.0",
+  "summary": "SDK for verifying CM Email webhook signatures",
+  "author": "email-team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cm_email_webhook_verification-1.0.0.tar.gz",
+  "download_time": "2026-03-09T06:43:08.938491",
+  "package_url": "https://pypi.org/project/cm-email-webhook-verification/"
+}

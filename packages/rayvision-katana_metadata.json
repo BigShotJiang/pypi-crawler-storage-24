@@ -1,0 +1,11 @@
+{
+  "name": "rayvision-katana",
+  "version": "1.2.3",
+  "summary": "A Python-based API for Using Renderbus cloud rendering service.",
+  "author": "Shenzhen Rayvision Technology Co., Ltd",
+  "license": null,
+  "home_page": "https://github.com/renderbus/rayvision_katana.git",
+  "download_filename": "rayvision_katana-1.2.3.tar.gz",
+  "download_time": "2026-03-09T06:43:18.578558",
+  "package_url": "https://pypi.org/project/rayvision-katana/"
+}

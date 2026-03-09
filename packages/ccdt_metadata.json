@@ -1,0 +1,11 @@
+{
+  "name": "ccdt",
+  "version": "2.1.174",
+  "summary": "AI数据转换工具箱",
+  "author": "zhanyong",
+  "license": null,
+  "home_page": "https://github.com/chipeak/chipeak_cv_data_tool",
+  "download_filename": "ccdt-2.1.174.tar.gz",
+  "download_time": "2026-03-09T06:43:34.757176",
+  "package_url": "https://pypi.org/project/ccdt/"
+}
