@@ -1,0 +1,11 @@
+{
+  "name": "polarsgrid",
+  "version": "0.4.0",
+  "summary": "Expand grid functionality using Polars",
+  "author": "Erik-Jan van Kesteren",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polarsgrid-0.4.0.tar.gz",
+  "download_time": "2026-03-09T11:04:01.905621",
+  "package_url": "https://pypi.org/project/polarsgrid/"
+}

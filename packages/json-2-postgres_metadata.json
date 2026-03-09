@@ -1,0 +1,11 @@
+{
+  "name": "json-2-postgres",
+  "version": "0.3.2",
+  "summary": "Набор утилит для конвертации таблиц postges в json формат и обратно",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_2_postgres-0.3.2-py3-none-any.whl",
+  "download_time": "2026-03-09T11:04:28.379244",
+  "package_url": "https://pypi.org/project/json-2-postgres/"
+}

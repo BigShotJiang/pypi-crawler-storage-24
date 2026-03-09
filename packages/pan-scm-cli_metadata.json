@@ -1,11 +1,11 @@
 {
   "name": "pan-scm-cli",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager",
   "author": "Calvin Remsburg",
   "license": null,
   "home_page": null,
-  "download_filename": "pan_scm_cli-1.0.2.tar.gz",
-  "download_time": "2026-03-09T02:31:54.449524",
+  "download_filename": "pan_scm_cli-1.0.4.tar.gz",
+  "download_time": "2026-03-09T11:04:27.868329",
   "package_url": "https://pypi.org/project/pan-scm-cli/"
 }

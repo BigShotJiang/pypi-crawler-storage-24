@@ -1,0 +1,11 @@
+{
+  "name": "solwa",
+  "version": "0.1.0",
+  "summary": "Differentiable RCWA in PyTorch, based on TORCWA",
+  "author": "Johannes Zeiser",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "solwa-0.1.0.tar.gz",
+  "download_time": "2026-03-09T11:04:40.767897",
+  "package_url": "https://pypi.org/project/solwa/"
+}

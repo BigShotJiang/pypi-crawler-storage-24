@@ -1,0 +1,11 @@
+{
+  "name": "sgn-manifold",
+  "version": "0.1.2",
+  "summary": "Geometric tools for gravitational wave data analysis",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "sgn_manifold-0.1.2.tar.gz",
+  "download_time": "2026-03-09T11:04:00.311462",
+  "package_url": "https://pypi.org/project/sgn-manifold/"
+}

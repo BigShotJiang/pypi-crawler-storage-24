@@ -1,0 +1,11 @@
+{
+  "name": "validating",
+  "version": "0.0.1",
+  "summary": "Provides a lightweight `attr()` descriptor factory that adds runtime validation to dataclass fields.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "validating-0.0.1.tar.gz",
+  "download_time": "2026-03-09T11:04:38.734152",
+  "package_url": "https://pypi.org/project/validating/"
+}

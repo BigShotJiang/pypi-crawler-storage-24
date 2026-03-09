@@ -1,0 +1,11 @@
+{
+  "name": "invenio-jobs",
+  "version": "7.1.0",
+  "summary": "InvenioRDM module for jobs management",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-jobs",
+  "download_filename": "invenio_jobs-7.1.0.tar.gz",
+  "download_time": "2026-03-09T11:04:36.183792",
+  "package_url": "https://pypi.org/project/invenio-jobs/"
+}

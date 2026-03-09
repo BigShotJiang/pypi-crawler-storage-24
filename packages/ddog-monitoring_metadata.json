@@ -1,0 +1,11 @@
+{
+  "name": "ddog-monitoring",
+  "version": "0.3.0",
+  "summary": "Lightweight, framework-agnostic Python library for sending metrics to Datadog, SumoLogic, or Console. Lambda/Zappa-ready with live config support.",
+  "author": "rowm-io",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ddog_monitoring-0.3.0.tar.gz",
+  "download_time": "2026-03-09T11:04:14.571177",
+  "package_url": "https://pypi.org/project/ddog-monitoring/"
+}
