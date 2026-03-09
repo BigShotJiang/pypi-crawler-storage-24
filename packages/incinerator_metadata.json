@@ -1,0 +1,11 @@
+{
+  "name": "incinerator",
+  "version": "1.0.0",
+  "summary": "A pixel-level exoplanet transit vetting technique!",
+  "author": "Julie Moquin, Robert F. Wilson, Jorge Martínez-Palomera, Christina Hedges",
+  "license": null,
+  "home_page": null,
+  "download_filename": "incinerator-1.0.0.tar.gz",
+  "download_time": "2026-03-09T16:13:30.613362",
+  "package_url": "https://pypi.org/project/incinerator/"
+}

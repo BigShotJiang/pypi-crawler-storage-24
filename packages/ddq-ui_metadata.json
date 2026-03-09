@@ -1,0 +1,11 @@
+{
+  "name": "ddq-ui",
+  "version": "0.1.8",
+  "summary": "DDQ UI Framework - 一个灵活的 UI 框架，支持多种后端实现",
+  "author": "DDQ",
+  "license": null,
+  "home_page": "https://github.com/ddq/ddq_ui",
+  "download_filename": "ddq_ui-0.1.8.tar.gz",
+  "download_time": "2026-03-09T16:13:14.811068",
+  "package_url": "https://pypi.org/project/ddq-ui/"
+}

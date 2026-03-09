@@ -1,11 +1,11 @@
 {
   "name": "project-tessera",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": "Tessera — Personal knowledge RAG as an MCP server for Claude Desktop",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "project_tessera-0.6.1.tar.gz",
-  "download_time": "2026-03-09T15:14:47.570896",
+  "download_filename": "project_tessera-0.6.3.tar.gz",
+  "download_time": "2026-03-09T16:13:33.223710",
   "package_url": "https://pypi.org/project/project-tessera/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dagua",
+  "version": "0.0.1",
+  "summary": "GPU-accelerated differentiable graph layout engine built on PyTorch",
+  "author": "John Mark Taylor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagua-0.0.1.tar.gz",
+  "download_time": "2026-03-09T16:13:16.940610",
+  "package_url": "https://pypi.org/project/dagua/"
+}

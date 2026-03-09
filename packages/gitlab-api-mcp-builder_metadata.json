@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-api-mcp-builder",
+  "version": "1.0.5",
+  "summary": "MCP server to generate API projects from GitLab templates - Works with GitHub Copilot",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitlab_api_mcp_builder-1.0.5.tar.gz",
+  "download_time": "2026-03-09T16:12:58.996054",
+  "package_url": "https://pypi.org/project/gitlab-api-mcp-builder/"
+}

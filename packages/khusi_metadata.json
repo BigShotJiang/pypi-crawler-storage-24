@@ -1,0 +1,11 @@
+{
+  "name": "khusi",
+  "version": "0.1.0",
+  "summary": "A simple, direct tautology checker built on SymPy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "khusi-0.1.0.tar.gz",
+  "download_time": "2026-03-09T16:13:20.577278",
+  "package_url": "https://pypi.org/project/khusi/"
+}

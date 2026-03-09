@@ -1,11 +1,11 @@
 {
   "name": "evercoast-cli",
-  "version": "0.1.15",
+  "version": "0.1.19",
   "summary": "Evercoast CLI — upload files and takes to Cloudbreak",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evercoast_cli-0.1.15.tar.gz",
-  "download_time": "2026-03-09T14:03:56.002993",
+  "download_filename": "evercoast_cli-0.1.19.tar.gz",
+  "download_time": "2026-03-09T16:13:42.723034",
   "package_url": "https://pypi.org/project/evercoast-cli/"
 }

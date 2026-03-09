@@ -1,11 +1,11 @@
 {
   "name": "troi-mcp",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "MCP server that connects Claude Desktop to Troi project management & time tracking",
   "author": "Nicolas Fuhrmann",
   "license": null,
   "home_page": null,
-  "download_filename": "troi_mcp-1.1.1.tar.gz",
-  "download_time": "2026-03-09T11:50:37.525834",
+  "download_filename": "troi_mcp-1.2.0.tar.gz",
+  "download_time": "2026-03-09T16:13:06.415969",
   "package_url": "https://pypi.org/project/troi-mcp/"
 }

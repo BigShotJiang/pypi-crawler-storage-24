@@ -1,0 +1,11 @@
+{
+  "name": "graphrecords",
+  "version": "0.3.0",
+  "summary": "High-performance graph-based data records for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphrecords-0.3.0.tar.gz",
+  "download_time": "2026-03-09T16:13:21.616933",
+  "package_url": "https://pypi.org/project/graphrecords/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyllsm2",
+  "version": "0.2.0",
+  "summary": "Python bindings for libllsm2 (import name: pyllsm2)",
+  "author": "pyllsm2 wrapper contributors",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pyllsm2-0.2.0.tar.gz",
+  "download_time": "2026-03-09T16:13:15.340175",
+  "package_url": "https://pypi.org/project/pyllsm2/"
+}

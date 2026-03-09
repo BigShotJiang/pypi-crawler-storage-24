@@ -1,0 +1,11 @@
+{
+  "name": "click-extra",
+  "version": "7.8.0",
+  "summary": "🌈 Drop-in replacement for Click to make user-friendly and colorful CLI",
+  "author": "Kevin Deldycke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "click_extra-7.8.0.tar.gz",
+  "download_time": "2026-03-09T16:13:13.255191",
+  "package_url": "https://pypi.org/project/click-extra/"
+}

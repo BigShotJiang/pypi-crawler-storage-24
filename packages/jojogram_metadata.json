@@ -1,0 +1,11 @@
+{
+  "name": "jojogram",
+  "version": "0.1.1",
+  "summary": "Helper library for aiogram bots to analyze Telegram photos (format, size, EXIF, sender info).",
+  "author": "COLT",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jojogram-0.1.1-py3-none-any.whl",
+  "download_time": "2026-03-09T16:13:21.095203",
+  "package_url": "https://pypi.org/project/jojogram/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "materforge",
+  "version": "0.6.5",
+  "summary": "A high-performance Python library for material simulation and analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "materforge-0.6.5.tar.gz",
+  "download_time": "2026-03-09T16:13:23.180035",
+  "package_url": "https://pypi.org/project/materforge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dataflow-cv",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A data processing library for computer vision datasets",
   "author": "DataFlow Team",
   "license": "MIT",
   "home_page": "https://github.com/zjykzj/DataFlow-CV",
-  "download_filename": "dataflow_cv-0.2.0.tar.gz",
-  "download_time": "2026-03-08T15:59:47.046957",
+  "download_filename": "dataflow_cv-0.2.1.tar.gz",
+  "download_time": "2026-03-09T16:13:00.563056",
   "package_url": "https://pypi.org/project/dataflow-cv/"
 }

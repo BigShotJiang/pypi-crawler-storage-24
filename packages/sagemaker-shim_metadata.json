@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-shim",
+  "version": "0.7.0",
+  "summary": "Adapts algorithms that implement the Grand Challenge inference API for running in SageMaker",
+  "author": "James Meakin",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sagemaker_shim-0.7.0.tar.gz",
+  "download_time": "2026-03-09T16:13:03.760870",
+  "package_url": "https://pypi.org/project/sagemaker-shim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sosovalue-pandas",
+  "version": "0.1.1",
+  "summary": "Python client for the SoSoValue API returning pandas DataFrames",
+  "author": "Lucas Jamar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sosovalue_pandas-0.1.1.tar.gz",
+  "download_time": "2026-03-09T16:13:09.596039",
+  "package_url": "https://pypi.org/project/sosovalue-pandas/"
+}

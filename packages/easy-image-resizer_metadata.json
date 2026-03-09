@@ -1,0 +1,11 @@
+{
+  "name": "easy-image-resizer",
+  "version": "0.1.1",
+  "summary": "A simple python library for image resizing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easy_image_resizer-0.1.1.tar.gz",
+  "download_time": "2026-03-09T16:13:45.840868",
+  "package_url": "https://pypi.org/project/easy-image-resizer/"
+}

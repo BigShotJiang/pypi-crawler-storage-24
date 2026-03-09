@@ -1,0 +1,11 @@
+{
+  "name": "openbb-nasdaq",
+  "version": "1.6.1",
+  "summary": "Nasdaq extension for OpenBB",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_nasdaq-1.6.1.tar.gz",
+  "download_time": "2026-03-09T16:13:04.279529",
+  "package_url": "https://pypi.org/project/openbb-nasdaq/"
+}

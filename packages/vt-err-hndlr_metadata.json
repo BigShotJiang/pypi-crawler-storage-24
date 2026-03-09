@@ -1,0 +1,11 @@
+{
+  "name": "vt-err-hndlr",
+  "version": "0.0.0.dev7",
+  "summary": "Common errors and warnings for Vaastav Technologies (vt) projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vt_err_hndlr-0.0.0.dev7.tar.gz",
+  "download_time": "2026-03-09T16:13:13.774105",
+  "package_url": "https://pypi.org/project/vt-err-hndlr/"
+}
