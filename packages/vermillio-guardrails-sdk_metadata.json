@@ -1,0 +1,11 @@
+{
+  "name": "vermillio-guardrails-sdk",
+  "version": "0.0.7",
+  "summary": "A SDK for interacting with Vermillio Guardrails API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vermillio_guardrails_sdk-0.0.7.tar.gz",
+  "download_time": "2026-03-09T18:02:09.728099",
+  "package_url": "https://pypi.org/project/vermillio-guardrails-sdk/"
+}

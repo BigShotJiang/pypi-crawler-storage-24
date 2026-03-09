@@ -1,0 +1,11 @@
+{
+  "name": "murr",
+  "version": "0.1.5",
+  "summary": "Columnar in-memory cache for AI/ML inference workloads",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "murr-0.1.5-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-09T18:02:04.227181",
+  "package_url": "https://pypi.org/project/murr/"
+}

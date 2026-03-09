@@ -1,11 +1,11 @@
 {
   "name": "plugwise_usb",
-  "version": "0.47.4",
+  "version": "0.47.5",
   "summary": null,
   "author": "Plugwise device owners",
   "license": null,
   "home_page": null,
-  "download_filename": "plugwise_usb-0.47.4.tar.gz",
-  "download_time": "2026-03-08T15:59:02.544768",
+  "download_filename": "plugwise_usb-0.47.5.tar.gz",
+  "download_time": "2026-03-09T18:02:27.241508",
   "package_url": "https://pypi.org/project/plugwise_usb/"
 }

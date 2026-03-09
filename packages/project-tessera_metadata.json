@@ -1,11 +1,11 @@
 {
   "name": "project-tessera",
-  "version": "0.6.6",
+  "version": "0.8.0",
   "summary": "Tessera — Personal Knowledge Layer for AI. Own your memory across every AI tool.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "project_tessera-0.6.6.tar.gz",
-  "download_time": "2026-03-09T17:10:36.873800",
+  "download_filename": "project_tessera-0.8.0.tar.gz",
+  "download_time": "2026-03-09T18:02:07.586139",
   "package_url": "https://pypi.org/project/project-tessera/"
 }

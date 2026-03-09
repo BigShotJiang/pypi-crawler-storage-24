@@ -1,0 +1,11 @@
+{
+  "name": "pymusiclibrary",
+  "version": "0.0.3",
+  "summary": "Python bindings for MusicLibrary - access NetEase Cloud Music and KuGou Music APIs",
+  "author": "LuTong",
+  "license": "MIT",
+  "home_page": "https://github.com/2061360308/MusicLibrary",
+  "download_filename": "pymusiclibrary-0.0.3-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-09T18:02:15.753023",
+  "package_url": "https://pypi.org/project/pymusiclibrary/"
+}

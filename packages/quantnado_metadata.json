@@ -1,11 +1,11 @@
 {
   "name": "quantnado",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "Dataset generation and peak calling for multi-modal Next-Generation Sequencing data",
   "author": "Alastair Smith",
   "license": null,
   "home_page": null,
-  "download_filename": "quantnado-0.4.1.tar.gz",
-  "download_time": "2026-03-07T18:29:46.130073",
+  "download_filename": "quantnado-0.4.3.tar.gz",
+  "download_time": "2026-03-09T18:02:05.367609",
   "package_url": "https://pypi.org/project/quantnado/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "AABY",
+  "version": "0.1.4",
+  "summary": "End-to-end AMBER system builder from PDB",
+  "author": "Amanda Dyrholm Stange",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aaby-0.1.4.tar.gz",
+  "download_time": "2026-03-09T18:02:46.393128",
+  "package_url": "https://pypi.org/project/AABY/"
+}

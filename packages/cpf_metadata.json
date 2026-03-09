@@ -1,11 +1,11 @@
 {
   "name": "cpf",
-  "version": "3.0.0",
-  "summary": "Gera e valida CPFs de acordo com o padrão brasileiro.",
+  "version": "3.1.1",
+  "summary": "Gera e valida CPFs e CNPJs de acordo com os padrões brasileiros.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpf-3.0.0-py3-none-any.whl",
-  "download_time": "2026-03-08T23:46:20.669107",
+  "download_filename": "cpf-3.1.1.tar.gz",
+  "download_time": "2026-03-09T18:02:00.304829",
   "package_url": "https://pypi.org/project/cpf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ontoweaver",
+  "version": "1.4",
+  "summary": "Convert iterable data to Semantic Knowledge Graphs, with a simple declarative mapping.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ontoweaver-1.4.tar.gz",
+  "download_time": "2026-03-09T18:02:29.478891",
+  "package_url": "https://pypi.org/project/ontoweaver/"
+}

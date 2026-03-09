@@ -1,0 +1,11 @@
+{
+  "name": "camera-client",
+  "version": "0.1.2",
+  "summary": "Python SDK for camera calibration projection data - transform between distorted, corrected, and world coordinates.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "camera_client-0.1.2.tar.gz",
+  "download_time": "2026-03-09T18:02:19.654281",
+  "package_url": "https://pypi.org/project/camera-client/"
+}
