@@ -1,0 +1,11 @@
+{
+  "name": "noirstack-cascade-sdk",
+  "version": "0.1.4",
+  "summary": "Python SDK for Cascade workflow orchestration",
+  "author": "Noir Stack LLC, Hira Barton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "noirstack_cascade_sdk-0.1.4.tar.gz",
+  "download_time": "2026-03-09T20:51:53.562599",
+  "package_url": "https://pypi.org/project/noirstack-cascade-sdk/"
+}

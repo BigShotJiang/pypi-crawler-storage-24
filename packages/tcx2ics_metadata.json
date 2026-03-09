@@ -1,0 +1,11 @@
+{
+  "name": "tcx2ics",
+  "version": "0.1.1",
+  "summary": "Generate ICS calendar events from TCX workout files",
+  "author": "Iztok Fister Jr.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcx2ics-0.1.1.tar.gz",
+  "download_time": "2026-03-09T20:52:34.498996",
+  "package_url": "https://pypi.org/project/tcx2ics/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cruxible-core",
+  "version": "0.1.4",
+  "summary": "Deterministic decision engine with DAG-based receipts. Build entity graphs, query with MCP, get auditable proof.",
+  "author": "Alchemyze LLC DBA Cruxible",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cruxible_core-0.1.4.tar.gz",
+  "download_time": "2026-03-09T20:52:11.678575",
+  "package_url": "https://pypi.org/project/cruxible-core/"
+}

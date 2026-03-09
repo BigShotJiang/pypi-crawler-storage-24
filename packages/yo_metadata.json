@@ -1,0 +1,11 @@
+{
+  "name": "yo",
+  "version": "1.12.2",
+  "summary": "A fast and simple CLI client for managing OCI instances",
+  "author": "Oracle",
+  "license": "UPL",
+  "home_page": "https://github.com/oracle/yo",
+  "download_filename": "yo-1.12.2.tar.gz",
+  "download_time": "2026-03-09T20:52:19.960218",
+  "package_url": "https://pypi.org/project/yo/"
+}

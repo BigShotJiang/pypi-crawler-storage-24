@@ -1,0 +1,11 @@
+{
+  "name": "databunkerpro",
+  "version": "0.1.2",
+  "summary": "Python client library for DatabunkerPro API",
+  "author": "Databunker team",
+  "license": null,
+  "home_page": "https://github.com/securitybunker/databunkerpro-python",
+  "download_filename": "databunkerpro-0.1.2.tar.gz",
+  "download_time": "2026-03-09T20:51:52.519653",
+  "package_url": "https://pypi.org/project/databunkerpro/"
+}

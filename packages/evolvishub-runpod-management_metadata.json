@@ -1,0 +1,11 @@
+{
+  "name": "evolvishub-runpod-management",
+  "version": "0.2.0",
+  "summary": "Python client for RunPod Cloud REST API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evolvishub_runpod_management-0.2.0.tar.gz",
+  "download_time": "2026-03-09T20:52:15.824644",
+  "package_url": "https://pypi.org/project/evolvishub-runpod-management/"
+}

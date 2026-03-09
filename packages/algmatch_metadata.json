@@ -1,0 +1,11 @@
+{
+  "name": "algmatch",
+  "version": "1.5.0",
+  "summary": "A package containing various matching algorithms, such as stable marriage, hospital-residents, and student-project allocation including the cases with ties/indifference.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "algmatch-1.5.0.tar.gz",
+  "download_time": "2026-03-09T20:52:28.847265",
+  "package_url": "https://pypi.org/project/algmatch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "witch-doctor",
+  "version": "1.3.1",
+  "summary": "Dependency injection for python",
+  "author": "Marco Sievers de Almeida Ximit Gaia",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "witch_doctor-1.3.1.tar.gz",
+  "download_time": "2026-03-09T20:52:22.019037",
+  "package_url": "https://pypi.org/project/witch-doctor/"
+}

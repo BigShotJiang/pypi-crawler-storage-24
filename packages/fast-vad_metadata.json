@@ -1,0 +1,11 @@
+{
+  "name": "fast-vad",
+  "version": "0.1.1",
+  "summary": "Extremely fast voice activity detection in Rust with Python bindings and streaming mode support.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/AtharvBhat/fast-vad",
+  "download_filename": "fast_vad-0.1.1.tar.gz",
+  "download_time": "2026-03-09T20:52:12.717649",
+  "package_url": "https://pypi.org/project/fast-vad/"
+}
