@@ -1,0 +1,11 @@
+{
+  "name": "swvo",
+  "version": "1.2.1",
+  "summary": "Tools for downloading and reading space-weather data and geomagnetic indices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swvo-1.2.1-py3-none-any.whl",
+  "download_time": "2026-03-09T10:07:32.088754",
+  "package_url": "https://pypi.org/project/swvo/"
+}

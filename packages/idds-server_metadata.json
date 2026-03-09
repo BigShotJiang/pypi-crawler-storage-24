@@ -1,0 +1,11 @@
+{
+  "name": "idds-server",
+  "version": "2.5.12",
+  "summary": "intelligent Distributed Dispatch and Scheduling Service (iDDS) - Server Package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idds_server-2.5.12-py2.py3-none-any.whl",
+  "download_time": "2026-03-09T10:07:56.324409",
+  "package_url": "https://pypi.org/project/idds-server/"
+}

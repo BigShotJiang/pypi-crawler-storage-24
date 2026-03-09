@@ -1,11 +1,11 @@
 {
   "name": "llmpm",
-  "version": "3.0.1",
+  "version": "3.0.5",
   "summary": "LLM Package Manager — download, run, and share AI models from the command line",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmpm-3.0.1.tar.gz",
-  "download_time": "2026-03-09T07:39:46.602924",
+  "download_filename": "llmpm-3.0.5.tar.gz",
+  "download_time": "2026-03-09T10:07:28.465847",
   "package_url": "https://pypi.org/project/llmpm/"
 }

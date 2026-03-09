@@ -1,0 +1,11 @@
+{
+  "name": "autocom",
+  "version": "1.1.0",
+  "summary": "一款用于自动化执行串口指令的脚本，支持多设备、多指令的串行和并行执行",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autocom-1.1.0.tar.gz",
+  "download_time": "2026-03-09T10:08:19.329276",
+  "package_url": "https://pypi.org/project/autocom/"
+}

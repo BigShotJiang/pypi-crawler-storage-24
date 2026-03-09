@@ -1,11 +1,11 @@
 {
   "name": "aio-fluid",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "Tools for backend python services",
   "author": "Luca Sbardella",
   "license": "BSD",
   "home_page": null,
-  "download_filename": "aio_fluid-1.8.0.tar.gz",
-  "download_time": "2026-03-08T13:28:41.849534",
+  "download_filename": "aio_fluid-1.8.1.tar.gz",
+  "download_time": "2026-03-09T10:07:52.605116",
   "package_url": "https://pypi.org/project/aio-fluid/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hafnia",
+  "version": "0.6.1",
+  "summary": "Python SDK for communication with Hafnia platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hafnia-0.6.1-py3-none-any.whl",
+  "download_time": "2026-03-09T10:07:40.884989",
+  "package_url": "https://pypi.org/project/hafnia/"
+}

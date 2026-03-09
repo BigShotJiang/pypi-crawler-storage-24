@@ -1,0 +1,11 @@
+{
+  "name": "hpx-cli",
+  "version": "0.1.2",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cds-astro/cds-healpix-rust/tree/main/crates/cli",
+  "download_filename": "hpx_cli-0.1.2-py3-none-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-09T10:07:43.728416",
+  "package_url": "https://pypi.org/project/hpx-cli/"
+}

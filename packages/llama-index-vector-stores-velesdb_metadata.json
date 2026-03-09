@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-velesdb",
+  "version": "1.5.1",
+  "summary": "LlamaIndex VectorStore for VelesDB: The Local AI Memory Database. Microsecond RAG retrieval.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_velesdb-1.5.1.tar.gz",
+  "download_time": "2026-03-09T10:07:40.375591",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-velesdb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mech-interp-toolkit",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Mech. Interp. utility kit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mech_interp_toolkit-0.2.3.tar.gz",
-  "download_time": "2026-03-09T09:03:31.386252",
+  "download_filename": "mech_interp_toolkit-0.2.4.tar.gz",
+  "download_time": "2026-03-09T10:08:13.208112",
   "package_url": "https://pypi.org/project/mech-interp-toolkit/"
 }

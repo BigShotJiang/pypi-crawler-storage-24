@@ -1,0 +1,11 @@
+{
+  "name": "unuspay-sdk",
+  "version": "0.1.1",
+  "summary": "Official UnusPay SDK for webhook signature verification",
+  "author": "UnusPay",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unuspay_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-09T10:08:02.442332",
+  "package_url": "https://pypi.org/project/unuspay-sdk/"
+}

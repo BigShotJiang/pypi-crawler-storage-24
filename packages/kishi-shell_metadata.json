@@ -1,11 +1,11 @@
 {
   "name": "kishi-shell",
-  "version": "1.8.2",
+  "version": "1.8.8",
   "summary": "A powerful, highly modular, Python-based modern shell.",
   "author": "Ozhan Gebesoglu",
   "license": null,
   "home_page": "https://github.com/ozhangebesoglu/Kishi-Shell",
-  "download_filename": "kishi_shell-1.8.2.tar.gz",
-  "download_time": "2026-03-08T15:45:41.889462",
+  "download_filename": "kishi_shell-1.8.8.tar.gz",
+  "download_time": "2026-03-09T10:07:38.459044",
   "package_url": "https://pypi.org/project/kishi-shell/"
 }

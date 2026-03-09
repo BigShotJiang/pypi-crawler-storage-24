@@ -1,0 +1,11 @@
+{
+  "name": "deepchecks-llm-client",
+  "version": "0.42.4",
+  "summary": "The SDK client for communicating with Deepchecks LLM service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepchecks_llm_client-0.42.4.tar.gz",
+  "download_time": "2026-03-09T10:08:19.837472",
+  "package_url": "https://pypi.org/project/deepchecks-llm-client/"
+}

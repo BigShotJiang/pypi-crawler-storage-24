@@ -1,0 +1,11 @@
+{
+  "name": "pycm",
+  "version": "4.6",
+  "summary": "Multi-class confusion matrix library in Python",
+  "author": "PyCM Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/sepandhaghighi/pycm",
+  "download_filename": "pycm-4.6.tar.gz",
+  "download_time": "2026-03-09T10:07:42.038950",
+  "package_url": "https://pypi.org/project/pycm/"
+}

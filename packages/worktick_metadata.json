@@ -1,11 +1,11 @@
 {
   "name": "worktick",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Local CLI for tracking tasks, git commits, and generating summaries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "worktick-1.0.0.tar.gz",
-  "download_time": "2026-03-08T23:59:27.780023",
+  "download_filename": "worktick-1.1.0.tar.gz",
+  "download_time": "2026-03-09T10:07:35.542450",
   "package_url": "https://pypi.org/project/worktick/"
 }

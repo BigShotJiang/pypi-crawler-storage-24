@@ -1,0 +1,11 @@
+{
+  "name": "snap2text",
+  "version": "0.2.0b1",
+  "summary": "Screenshot OCR tool using Gemini AI API",
+  "author": "marcbadiam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snap2text-0.2.0b1.tar.gz",
+  "download_time": "2026-03-09T10:08:17.286489",
+  "package_url": "https://pypi.org/project/snap2text/"
+}
