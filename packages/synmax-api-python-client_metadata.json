@@ -1,0 +1,11 @@
+{
+  "name": "synmax-api-python-client",
+  "version": "4.16.0",
+  "summary": "Synmax API client",
+  "author": "SynMax Inc.",
+  "license": null,
+  "home_page": "https://github.com/SynMaxDev/synmax-api-python-client.git",
+  "download_filename": "synmax_api_python_client-4.16.0-py3-none-any.whl",
+  "download_time": "2026-03-09T22:23:53.934316",
+  "package_url": "https://pypi.org/project/synmax-api-python-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "litcoin",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "LITCOIN SDK — Proof-of-comprehension mining, relay, staking, vaults, and compute for AI agents on Base",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "litcoin-4.0.0.tar.gz",
-  "download_time": "2026-03-08T18:58:16.611040",
+  "download_filename": "litcoin-4.0.1.tar.gz",
+  "download_time": "2026-03-09T22:24:11.527290",
   "package_url": "https://pypi.org/project/litcoin/"
 }

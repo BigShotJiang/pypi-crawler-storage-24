@@ -1,0 +1,11 @@
+{
+  "name": "dapr-ext-langgraph",
+  "version": "1.17.1",
+  "summary": "The official release of Dapr Python SDK LangGraph Extension.",
+  "author": "Dapr Authors",
+  "license": "Apache",
+  "home_page": "https://dapr.io/",
+  "download_filename": "dapr_ext_langgraph-1.17.1.tar.gz",
+  "download_time": "2026-03-09T22:24:28.640812",
+  "package_url": "https://pypi.org/project/dapr-ext-langgraph/"
+}

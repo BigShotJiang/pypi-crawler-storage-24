@@ -1,0 +1,11 @@
+{
+  "name": "casambi-bt",
+  "version": "0.3.2",
+  "summary": "A minimal, unofficial implementation of a bluetooth client for casambi devices",
+  "author": "lkempf",
+  "license": null,
+  "home_page": "https://github.com/lkempf/casambi-bt",
+  "download_filename": "casambi_bt-0.3.2-py3-none-any.whl",
+  "download_time": "2026-03-09T22:24:26.469083",
+  "package_url": "https://pypi.org/project/casambi-bt/"
+}

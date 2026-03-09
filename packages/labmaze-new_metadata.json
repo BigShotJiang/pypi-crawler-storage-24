@@ -1,0 +1,11 @@
+{
+  "name": "labmaze-new",
+  "version": "0.0.1",
+  "summary": "LabMaze-New: Updated DeepMind Lab's text maze generator for latest Bazel.",
+  "author": "DeepMind",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "labmaze_new-0.0.1.tar.gz",
+  "download_time": "2026-03-09T22:23:47.117717",
+  "package_url": "https://pypi.org/project/labmaze-new/"
+}
