@@ -1,0 +1,11 @@
+{
+  "name": "qhchina",
+  "version": "0.1.43",
+  "summary": "A Python package for NLP tasks related to Chinese text.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qhchina-0.1.43.tar.gz",
+  "download_time": "2026-03-09T07:40:02.748780",
+  "package_url": "https://pypi.org/project/qhchina/"
+}

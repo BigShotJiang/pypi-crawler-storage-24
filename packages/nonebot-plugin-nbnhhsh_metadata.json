@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-nbnhhsh",
-  "version": "0.1.11",
+  "version": "0.1.14",
   "summary": "「能不能好好说话？」拼音首字母缩写翻译 NoneBot2 插件。",
   "author": "ByteColtX",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_nbnhhsh-0.1.11.tar.gz",
-  "download_time": "2026-03-09T05:45:50.110508",
+  "download_filename": "nonebot_plugin_nbnhhsh-0.1.14.tar.gz",
+  "download_time": "2026-03-09T07:40:14.537322",
   "package_url": "https://pypi.org/project/nonebot-plugin-nbnhhsh/"
 }

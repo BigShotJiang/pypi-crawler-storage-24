@@ -1,0 +1,11 @@
+{
+  "name": "drf-mcp-docs",
+  "version": "0.1.1",
+  "summary": "Expose DRF API documentation via MCP for AI coding agents",
+  "author": "Abdulkhalek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drf_mcp_docs-0.1.1.tar.gz",
+  "download_time": "2026-03-09T07:39:53.570725",
+  "package_url": "https://pypi.org/project/drf-mcp-docs/"
+}

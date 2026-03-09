@@ -1,0 +1,11 @@
+{
+  "name": "bedrock-tracing",
+  "version": "0.6.0",
+  "summary": "A Python library for tracing Bedrock agent responses with OpenTelemetry.",
+  "author": "Agi K Thomas",
+  "license": null,
+  "home_page": "https://github.com/agithomas/bedrock-tracing",
+  "download_filename": "bedrock_tracing-0.6.0.tar.gz",
+  "download_time": "2026-03-09T07:40:20.028614",
+  "package_url": "https://pypi.org/project/bedrock-tracing/"
+}

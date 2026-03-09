@@ -1,0 +1,11 @@
+{
+  "name": "arcosparse",
+  "version": "0.5.1",
+  "summary": "Helper to download and subset sparse data that has been Arcoified and are available through STAC and sqlite formated data",
+  "author": "renaudjester",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcosparse-0.5.1.tar.gz",
+  "download_time": "2026-03-09T07:39:35.203607",
+  "package_url": "https://pypi.org/project/arcosparse/"
+}

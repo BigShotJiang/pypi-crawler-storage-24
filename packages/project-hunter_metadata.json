@@ -1,11 +1,11 @@
 {
   "name": "project-hunter",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "移动端工具类 App UI 交互 Bug 猎手 — 支持 Flutter / Android Native / React Native / iOS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "project_hunter-0.2.0.tar.gz",
-  "download_time": "2026-03-08T13:29:06.341807",
+  "download_filename": "project_hunter-0.2.3.tar.gz",
+  "download_time": "2026-03-09T07:39:31.714072",
   "package_url": "https://pypi.org/project/project-hunter/"
 }

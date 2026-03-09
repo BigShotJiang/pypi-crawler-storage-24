@@ -1,0 +1,11 @@
+{
+  "name": "omgstatus",
+  "version": "1.1.1",
+  "summary": "A CLI tool to publish status on status.lol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omgstatus-1.1.1.tar.gz",
+  "download_time": "2026-03-09T07:39:38.460643",
+  "package_url": "https://pypi.org/project/omgstatus/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kento",
-  "version": "0.5.3",
+  "version": "0.5.5",
   "summary": "Compose OCI container images into LXC system containers via overlayfs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kento-0.5.3.tar.gz",
-  "download_time": "2026-03-09T06:43:24.496034",
+  "download_filename": "kento-0.5.5.tar.gz",
+  "download_time": "2026-03-09T07:40:08.617783",
   "package_url": "https://pypi.org/project/kento/"
 }

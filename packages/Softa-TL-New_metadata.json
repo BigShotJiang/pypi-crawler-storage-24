@@ -1,0 +1,11 @@
+{
+  "name": "Softa-TL-New",
+  "version": "2.0.3",
+  "summary": "Full-featured Telegram client library for Python 3",
+  "author": "Alia Ether",
+  "license": "MIT",
+  "home_page": "https://github.com/Alia-Ether",
+  "download_filename": "softa_tl_new-2.0.3.tar.gz",
+  "download_time": "2026-03-09T07:39:36.816625",
+  "package_url": "https://pypi.org/project/Softa-TL-New/"
+}

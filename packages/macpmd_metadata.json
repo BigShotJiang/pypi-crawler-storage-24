@@ -1,0 +1,11 @@
+{
+  "name": "macpmd",
+  "version": "1.0.0b2",
+  "summary": "macOS process manager — a PM2 equivalent using launchd for persistence",
+  "author": "WaterJuice",
+  "license": null,
+  "home_page": null,
+  "download_filename": "macpmd-1.0.0b2-py3-none-any.whl",
+  "download_time": "2026-03-09T07:39:50.894513",
+  "package_url": "https://pypi.org/project/macpmd/"
+}

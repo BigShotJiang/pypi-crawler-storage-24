@@ -1,0 +1,11 @@
+{
+  "name": "blurt",
+  "version": "0.6.4",
+  "summary": "Talk to your coding agents. On-device voice-to-text for macOS Apple Silicon. No cloud, no API keys.",
+  "author": "Satya Borgohain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blurt-0.6.4.tar.gz",
+  "download_time": "2026-03-09T07:39:44.419647",
+  "package_url": "https://pypi.org/project/blurt/"
+}

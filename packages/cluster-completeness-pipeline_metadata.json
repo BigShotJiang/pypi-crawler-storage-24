@@ -1,0 +1,11 @@
+{
+  "name": "cluster-completeness-pipeline",
+  "version": "0.1.0",
+  "summary": "Synthetic cluster injection, detection, matching, photometry, and NN completeness pipeline",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cluster_completeness_pipeline-0.1.0.tar.gz",
+  "download_time": "2026-03-09T07:40:18.378889",
+  "package_url": "https://pypi.org/project/cluster-completeness-pipeline/"
+}
