@@ -1,0 +1,11 @@
+{
+  "name": "unifi-protect-backup",
+  "version": "0.14.2",
+  "summary": "Python tool to backup unifi event clips in realtime.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unifi_protect_backup-0.14.2.tar.gz",
+  "download_time": "2026-03-09T21:28:49.394098",
+  "package_url": "https://pypi.org/project/unifi-protect-backup/"
+}

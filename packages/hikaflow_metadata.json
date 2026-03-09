@@ -1,11 +1,11 @@
 {
   "name": "hikaflow",
-  "version": "2.4.2",
+  "version": "2.5.4",
   "summary": "Find and fix bugs in Python and TypeScript with one command",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hikaflow-2.4.2.tar.gz",
-  "download_time": "2026-03-08T08:25:13.826482",
+  "download_filename": "hikaflow-2.5.4.tar.gz",
+  "download_time": "2026-03-09T21:28:52.424901",
   "package_url": "https://pypi.org/project/hikaflow/"
 }

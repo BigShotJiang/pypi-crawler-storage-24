@@ -1,0 +1,11 @@
+{
+  "name": "mcp-web-scraper",
+  "version": "0.1.1",
+  "summary": "Autonomous Playwright-based web scraper via MCP protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_web_scraper-0.1.1.tar.gz",
+  "download_time": "2026-03-09T21:28:46.774183",
+  "package_url": "https://pypi.org/project/mcp-web-scraper/"
+}

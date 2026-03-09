@@ -1,11 +1,11 @@
 {
   "name": "irrep",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "summary": "A tool to get symmetry proberties of ab-initio wavefunctions, irreduible representations and more.",
   "author": null,
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": null,
-  "download_filename": "irrep-2.6.2.tar.gz",
-  "download_time": "2026-03-09T17:10:45.285482",
+  "download_filename": "irrep-2.6.3.tar.gz",
+  "download_time": "2026-03-09T21:28:43.659432",
   "package_url": "https://pypi.org/project/irrep/"
 }

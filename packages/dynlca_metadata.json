@@ -1,0 +1,11 @@
+{
+  "name": "dynlca",
+  "version": "0.1.0",
+  "summary": "Real-time Dynamic Life Cycle Assessment — connect live grid carbon data to full LCA calculations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dynlca-0.1.0.tar.gz",
+  "download_time": "2026-03-09T21:28:31.375079",
+  "package_url": "https://pypi.org/project/dynlca/"
+}

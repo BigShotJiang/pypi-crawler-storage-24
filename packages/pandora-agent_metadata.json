@@ -1,11 +1,11 @@
 {
   "name": "pandora-agent",
-  "version": "0.1.0a1",
+  "version": "0.1.0a5",
   "summary": "Standalone Python SDK for Pandora agent discovery, vendored contract access, and MCP execution.",
   "author": "Pandora CLI Contributors",
-  "license": null,
+  "license": "ISC",
   "home_page": null,
-  "download_filename": "pandora_agent-0.1.0a1.tar.gz",
-  "download_time": "2026-03-08T21:18:52.444128",
+  "download_filename": "pandora_agent-0.1.0a5-py3-none-any.whl",
+  "download_time": "2026-03-09T21:28:45.728905",
   "package_url": "https://pypi.org/project/pandora-agent/"
 }

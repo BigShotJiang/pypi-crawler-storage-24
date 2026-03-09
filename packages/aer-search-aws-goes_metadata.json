@@ -1,0 +1,11 @@
+{
+  "name": "aer-search-aws-goes",
+  "version": "1.0.3",
+  "summary": "Polylith project for the search-aws-goes plugin",
+  "author": "Fran Dorr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aer_search_aws_goes-1.0.3.tar.gz",
+  "download_time": "2026-03-09T21:28:20.235684",
+  "package_url": "https://pypi.org/project/aer-search-aws-goes/"
+}

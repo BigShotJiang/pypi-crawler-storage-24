@@ -1,0 +1,11 @@
+{
+  "name": "agentensemble",
+  "version": "0.3.0",
+  "summary": "Orchestrate AI agents in perfect harmony - A comprehensive Python framework for building, testing, and orchestrating multi-agent AI systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentensemble-0.3.0.tar.gz",
+  "download_time": "2026-03-09T21:28:44.705599",
+  "package_url": "https://pypi.org/project/agentensemble/"
+}

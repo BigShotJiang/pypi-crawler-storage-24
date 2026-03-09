@@ -1,0 +1,11 @@
+{
+  "name": "arctic-training",
+  "version": "0.8.0",
+  "summary": "Snowflake LLM training library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arctic_training-0.8.0-py3-none-any.whl",
+  "download_time": "2026-03-09T21:28:22.939468",
+  "package_url": "https://pypi.org/project/arctic-training/"
+}

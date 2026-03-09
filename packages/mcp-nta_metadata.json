@@ -1,11 +1,11 @@
 {
   "name": "mcp-nta",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "MCP server for Ireland's NTA public transport — focused, queryable tools with human-readable output. Inspired by ireland-nta-mcp.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_nta-0.1.0.tar.gz",
-  "download_time": "2026-03-09T18:01:59.769511",
+  "download_filename": "mcp_nta-0.3.0.tar.gz",
+  "download_time": "2026-03-09T21:28:50.442550",
   "package_url": "https://pypi.org/project/mcp-nta/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "neurop-forge-sdk",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Neurop Forge SDK - Execute 5,175+ pre-verified, hash-locked function blocks across 5 domains",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neurop_forge_sdk-2.0.0.tar.gz",
-  "download_time": "2026-03-09T18:02:01.985938",
+  "download_filename": "neurop_forge_sdk-2.1.0.tar.gz",
+  "download_time": "2026-03-09T21:28:40.426420",
   "package_url": "https://pypi.org/project/neurop-forge-sdk/"
 }

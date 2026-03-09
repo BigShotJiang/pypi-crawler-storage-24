@@ -1,11 +1,11 @@
 {
   "name": "terradev-cli",
-  "version": "4.0.1",
+  "version": "4.0.4",
   "summary": "MLA-aware VRAM estimation, weight streaming, and KV cache checkpointing for production ML workloads",
   "author": "Terradev Team",
   "license": null,
   "home_page": "https://github.com/theoddden/terradev",
-  "download_filename": "terradev_cli-4.0.1.tar.gz",
-  "download_time": "2026-03-08T23:46:20.148710",
+  "download_filename": "terradev_cli-4.0.4.tar.gz",
+  "download_time": "2026-03-09T21:28:17.030451",
   "package_url": "https://pypi.org/project/terradev-cli/"
 }

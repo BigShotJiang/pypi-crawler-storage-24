@@ -1,11 +1,11 @@
 {
   "name": "lowhum",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Deep Brown Noise for Focus as a MenuBar App & CLI Tool",
   "author": "Luis Markmann",
   "license": null,
   "home_page": null,
-  "download_filename": "lowhum-1.2.0.tar.gz",
-  "download_time": "2026-03-09T19:45:20.523840",
+  "download_filename": "lowhum-1.2.1.tar.gz",
+  "download_time": "2026-03-09T21:28:53.833650",
   "package_url": "https://pypi.org/project/lowhum/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aemuctrl",
+  "version": "0.1.1",
+  "summary": "ADB-based emulator control library",
+  "author": "Solin",
+  "license": null,
+  "home_page": "https://github.com/Solee-in/aemuctrl",
+  "download_filename": "aemuctrl-0.1.1.tar.gz",
+  "download_time": "2026-03-09T21:28:34.047597",
+  "package_url": "https://pypi.org/project/aemuctrl/"
+}

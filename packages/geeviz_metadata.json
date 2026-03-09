@@ -1,0 +1,11 @@
+{
+  "name": "geeviz",
+  "version": "2026.3.2",
+  "summary": "A package to help with GEE data processing, analysis, and visualization",
+  "author": "Ian Housman",
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "geeviz-2026.3.2.tar.gz",
+  "download_time": "2026-03-09T21:28:51.886994",
+  "package_url": "https://pypi.org/project/geeviz/"
+}

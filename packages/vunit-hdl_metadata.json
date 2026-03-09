@@ -1,0 +1,11 @@
+{
+  "name": "vunit-hdl",
+  "version": "4.7.1",
+  "summary": "VUnit is an open source unit testing framework for VHDL/SystemVerilog.",
+  "author": "Lars Asplund",
+  "license": "Mozilla Public License 2.0 (MPL 2.0)",
+  "home_page": "https://github.com/VUnit/vunit",
+  "download_filename": "vunit_hdl-4.7.1.tar.gz",
+  "download_time": "2026-03-09T21:28:47.289948",
+  "package_url": "https://pypi.org/project/vunit-hdl/"
+}
