@@ -1,11 +1,11 @@
 {
   "name": "kanibako-base",
-  "version": "0.11.5",
+  "version": "0.11.6",
   "summary": "Run AI coding agents in rootless containers with per-project isolation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kanibako_base-0.11.5.tar.gz",
-  "download_time": "2026-03-09T21:28:13.768344",
+  "download_filename": "kanibako_base-0.11.6.tar.gz",
+  "download_time": "2026-03-09T21:56:46.189419",
   "package_url": "https://pypi.org/project/kanibako-base/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hab",
+  "version": "0.52.0",
+  "summary": "An environment configuration and launcher system",
+  "author": null,
+  "license": "LGPL-3.0",
+  "home_page": null,
+  "download_filename": "hab-0.52.0.tar.gz",
+  "download_time": "2026-03-09T21:56:00.706229",
+  "package_url": "https://pypi.org/project/hab/"
+}

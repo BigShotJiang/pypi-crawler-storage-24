@@ -1,0 +1,11 @@
+{
+  "name": "dumpling-cli",
+  "version": "0.1.0",
+  "summary": "Static anonymizer for Postgres plain SQL dumps produced by pg_dump.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dumpling_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-09T21:56:06.461441",
+  "package_url": "https://pypi.org/project/dumpling-cli/"
+}

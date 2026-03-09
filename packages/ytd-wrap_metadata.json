@@ -1,0 +1,11 @@
+{
+  "name": "ytd-wrap",
+  "version": "1.0.0",
+  "summary": "Simple multi-platform downloader for social media and direct stream/video URLs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ytd_wrap-1.0.0.tar.gz",
+  "download_time": "2026-03-09T21:56:38.452160",
+  "package_url": "https://pypi.org/project/ytd-wrap/"
+}

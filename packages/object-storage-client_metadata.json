@@ -1,0 +1,11 @@
+{
+  "name": "object-storage-client",
+  "version": "0.0.17",
+  "summary": "Unified object storage client API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "object_storage_client-0.0.17.tar.gz",
+  "download_time": "2026-03-09T21:56:12.901009",
+  "package_url": "https://pypi.org/project/object-storage-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "circuitpython-stubs",
+  "version": "10.1.4",
+  "summary": "PEP 561 type stubs for CircuitPython",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/adafruit/circuitpython",
+  "download_filename": "circuitpython_stubs-10.1.4.tar.gz",
+  "download_time": "2026-03-09T21:56:45.033627",
+  "package_url": "https://pypi.org/project/circuitpython-stubs/"
+}

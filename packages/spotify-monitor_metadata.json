@@ -1,0 +1,11 @@
+{
+  "name": "spotify-monitor",
+  "version": "2.9.1",
+  "summary": "Track Spotify friends' music activity in real time with auto-playback, skipped tracks detection and instant notifications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotify_monitor-2.9.1.tar.gz",
+  "download_time": "2026-03-09T21:56:25.556308",
+  "package_url": "https://pypi.org/project/spotify-monitor/"
+}
