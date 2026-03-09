@@ -1,0 +1,11 @@
+{
+  "name": "smiffer",
+  "version": "0.3.3",
+  "summary": "Compute possible interaction with fields arround protein or RNA.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "smiffer-0.3.3-py3-none-any.whl",
+  "download_time": "2026-03-09T12:48:58.224700",
+  "package_url": "https://pypi.org/project/smiffer/"
+}

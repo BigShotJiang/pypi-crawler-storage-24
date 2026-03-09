@@ -1,0 +1,11 @@
+{
+  "name": "faudes",
+  "version": "2.34.3",
+  "summary": "A Discrete Event Systems Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faudes-2.34.3.tar.gz",
+  "download_time": "2026-03-09T12:49:23.160009",
+  "package_url": "https://pypi.org/project/faudes/"
+}

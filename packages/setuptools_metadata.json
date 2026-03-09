@@ -1,0 +1,11 @@
+{
+  "name": "setuptools",
+  "version": "82.0.1",
+  "summary": "Most extensible Python build backend with support for C/C++ extension modules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "setuptools-82.0.1.tar.gz",
+  "download_time": "2026-03-09T12:48:46.732939",
+  "package_url": "https://pypi.org/project/setuptools/"
+}

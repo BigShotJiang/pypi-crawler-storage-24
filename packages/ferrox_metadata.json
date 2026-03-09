@@ -1,0 +1,11 @@
+{
+  "name": "ferrox",
+  "version": "0.0.10",
+  "summary": "High-performance base layer for computational materials science",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ferrox-0.0.10.tar.gz",
+  "download_time": "2026-03-09T12:48:49.162164",
+  "package_url": "https://pypi.org/project/ferrox/"
+}

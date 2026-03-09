@@ -1,11 +1,11 @@
 {
   "name": "pymox-kit",
-  "version": "1.2.4",
+  "version": "1.2.8",
   "summary": "Un module avec plein d'outils utiles pour devs en PyMoX (Py←thon - Mo←jo - flet→X)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymox_kit-1.2.4.tar.gz",
-  "download_time": "2026-03-09T10:07:36.112500",
+  "download_filename": "pymox_kit-1.2.8.tar.gz",
+  "download_time": "2026-03-09T12:49:34.241627",
   "package_url": "https://pypi.org/project/pymox-kit/"
 }

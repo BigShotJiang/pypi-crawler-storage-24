@@ -1,0 +1,11 @@
+{
+  "name": "storai",
+  "version": "0.1.2",
+  "summary": "Generate business insights from summary and source data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "storai-0.1.2.tar.gz",
+  "download_time": "2026-03-09T12:49:27.874318",
+  "package_url": "https://pypi.org/project/storai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-interaction",
+  "version": "0.1.0",
+  "summary": "Async Azure OpenAI client with typed tool calling and lazy output parsing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_interaction-0.1.0.tar.gz",
+  "download_time": "2026-03-09T12:48:54.323896",
+  "package_url": "https://pypi.org/project/llm-interaction/"
+}

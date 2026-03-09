@@ -1,0 +1,11 @@
+{
+  "name": "readablepdf",
+  "version": "0.1.0",
+  "summary": "Turn image-only PDFs into searchable, selectable PDFs with an OCR text layer",
+  "author": "Arnaud",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "readablepdf-0.1.0.tar.gz",
+  "download_time": "2026-03-09T12:49:26.718640",
+  "package_url": "https://pypi.org/project/readablepdf/"
+}

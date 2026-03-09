@@ -1,0 +1,11 @@
+{
+  "name": "mailgw-python",
+  "version": "0.1.0",
+  "summary": "Async Python client for the mail.gw API",
+  "author": "anti-society-projectx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mailgw_python-0.1.0.tar.gz",
+  "download_time": "2026-03-09T12:49:34.811937",
+  "package_url": "https://pypi.org/project/mailgw-python/"
+}

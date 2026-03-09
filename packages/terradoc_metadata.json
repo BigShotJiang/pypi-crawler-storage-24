@@ -1,11 +1,11 @@
 {
   "name": "terradoc",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "Reusable engine for indigenous documentation platforms",
   "author": "Plataformas Indigenas",
   "license": null,
   "home_page": null,
-  "download_filename": "terradoc-0.1.3.tar.gz",
-  "download_time": "2026-03-09T07:40:14.002465",
+  "download_filename": "terradoc-0.2.0.tar.gz",
+  "download_time": "2026-03-09T12:49:06.355049",
   "package_url": "https://pypi.org/project/terradoc/"
 }

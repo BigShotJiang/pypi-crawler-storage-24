@@ -1,0 +1,11 @@
+{
+  "name": "dissect.clfs",
+  "version": "1.11",
+  "summary": "A Dissect module implementing a parser for the CLFS (Common Log File System) file system of Windows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissect_clfs-1.11.tar.gz",
+  "download_time": "2026-03-09T12:49:28.510718",
+  "package_url": "https://pypi.org/project/dissect.clfs/"
+}

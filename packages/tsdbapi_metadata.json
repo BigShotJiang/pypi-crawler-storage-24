@@ -1,0 +1,11 @@
+{
+  "name": "tsdbapi",
+  "version": "0.3.1",
+  "summary": "Interact with the KOF Time Series Database API",
+  "author": "Oliver Müller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsdbapi-0.3.1.tar.gz",
+  "download_time": "2026-03-09T12:49:05.783025",
+  "package_url": "https://pypi.org/project/tsdbapi/"
+}

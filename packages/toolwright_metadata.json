@@ -1,0 +1,11 @@
+{
+  "name": "toolwright",
+  "version": "1.0.0a3",
+  "summary": "Trusted MCP supply chain for AI tools with signed approvals, fail-closed runtime, drift detection, verification, and bounded auto-repair.",
+  "author": "Tom Allicino",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolwright-1.0.0a3.tar.gz",
+  "download_time": "2026-03-09T12:49:00.580088",
+  "package_url": "https://pypi.org/project/toolwright/"
+}
