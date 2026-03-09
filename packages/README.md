@@ -1,36 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-09T19:45:23.907237
-- **Total Packages**: 91
-- **Total Size**: 77.36 MB
+- **Download Time**: 2026-03-09T20:04:53.485056
+- **Total Packages**: 89
+- **Total Size**: 10.93 MB
 
 ## Packages List
-- airbyte-agent-zendesk-talk
-- ts-shape
-- vunnel
-- vigil-ai-cli
-- session-py
-- altsportsleagues-mcp
-- frisk-sdk
-- lswifi
-- downstream
-- hollow-attractor
-- datalad-deprecated
-- ipulse-shared-core-ftredge
-- adyd-detector-api
-- ouroboros-ai
-- nanomanifold
-- arraylake
-- adafruit-circuitpython-as7331
-- totvs-dta-utils
-- jujumate
-- atmodeller
-- filelock
-- known-paths
-- cmdop-claude
 - pycarlo
 - pykappa
+- ipulse-shared-core-ftredge
 - nutils
 - pypesto
 - lucivy
@@ -62,6 +40,7 @@
 - spoox
 - arches-search
 - hypotestx
+- cmdop-claude
 - ddtrace
 - globato
 - QT-PyQt-PySide-Custom-Widgets
@@ -97,3 +76,22 @@
 - llama-index-graph-stores-arcadedb
 - spex-cli
 - horizon-data-core
+- ad-openlineage-token-provider
+- aws-cdk.cloud-assembly-schema
+- known-errors
+- sumeh
+- PyLibMS
+- asndb
+- crc-pulp-service-client
+- sharepoint-v1-api
+- crc-pulp-file-client
+- crc-pulp-maven-client
+- crc-pulp-rpm-client
+- VLifeGram
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- crc-pulp-python-client
+- crc-pulpcore-client
+- telescope-ui
+- django-forms-workflows
+- chess-corners
