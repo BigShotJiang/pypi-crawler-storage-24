@@ -1,0 +1,11 @@
+{
+  "name": "simplified-logging",
+  "version": "1.0.12",
+  "summary": "A lightweight Python logging wrapper that simplifies the use of Python's standard logging module",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simplified_logging-1.0.12.tar.gz",
+  "download_time": "2026-03-09T11:50:08.472510",
+  "package_url": "https://pypi.org/project/simplified-logging/"
+}

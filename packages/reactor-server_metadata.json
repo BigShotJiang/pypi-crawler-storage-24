@@ -1,0 +1,11 @@
+{
+  "name": "reactor-server",
+  "version": "2.2.1",
+  "summary": "reactor http server",
+  "author": "jackcizon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reactor_server-2.2.1.tar.gz",
+  "download_time": "2026-03-09T11:50:09.108997",
+  "package_url": "https://pypi.org/project/reactor-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bio-simulagent-client",
+  "version": "0.3.0",
+  "summary": "Python client library for BioSimulagent - AI-powered computational biology toolkit",
+  "author": "surplus96",
+  "license": "MIT",
+  "home_page": "https://github.com/surplus96/bio-simulagent",
+  "download_filename": "bio_simulagent_client-0.3.0.tar.gz",
+  "download_time": "2026-03-09T11:50:02.744094",
+  "package_url": "https://pypi.org/project/bio-simulagent-client/"
+}

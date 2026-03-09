@@ -1,0 +1,11 @@
+{
+  "name": "esp-rainmaker-cli",
+  "version": "1.12.0",
+  "summary": "A python utility to perform host based claiming",
+  "author": "Espressif Systems",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/espressif/esp-rainmaker-cli",
+  "download_filename": "esp_rainmaker_cli-1.12.0.tar.gz",
+  "download_time": "2026-03-09T11:50:22.134189",
+  "package_url": "https://pypi.org/project/esp-rainmaker-cli/"
+}

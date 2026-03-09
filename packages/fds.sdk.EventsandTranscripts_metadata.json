@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.EventsandTranscripts",
+  "version": "2.1.4",
+  "summary": "Events and Transcripts client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/EventsandTranscripts/v2",
+  "download_filename": "fds_sdk_eventsandtranscripts-2.1.4.tar.gz",
+  "download_time": "2026-03-09T11:50:46.032986",
+  "package_url": "https://pypi.org/project/fds.sdk.EventsandTranscripts/"
+}

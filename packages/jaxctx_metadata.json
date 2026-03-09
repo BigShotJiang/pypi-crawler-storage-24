@@ -1,0 +1,11 @@
+{
+  "name": "jaxctx",
+  "version": "1.1.1",
+  "summary": "Lightwieght JAX context for managing collections of parameters and RNG sequences.",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "jaxctx-1.1.1.tar.gz",
+  "download_time": "2026-03-09T11:50:16.376011",
+  "package_url": "https://pypi.org/project/jaxctx/"
+}

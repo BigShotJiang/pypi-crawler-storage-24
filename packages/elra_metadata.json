@@ -1,0 +1,11 @@
+{
+  "name": "elra",
+  "version": "0.0.2",
+  "summary": "ELRA: exponential learning rate adaption - gradient descent optimizer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elra-0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-09T11:49:50.317638",
+  "package_url": "https://pypi.org/project/elra/"
+}

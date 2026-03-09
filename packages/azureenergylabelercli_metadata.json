@@ -1,0 +1,11 @@
+{
+  "name": "azureenergylabelercli",
+  "version": "2.2.9",
+  "summary": "A cli to help generate energy label for Azure tenant, subscriptions and resource groups.",
+  "author": "Sayantan Khanra",
+  "license": "MIT",
+  "home_page": "https://github.com/schubergphilis/azureenergylabelercli",
+  "download_filename": "azureenergylabelercli-2.2.9.tar.gz",
+  "download_time": "2026-03-09T11:50:18.858941",
+  "package_url": "https://pypi.org/project/azureenergylabelercli/"
+}

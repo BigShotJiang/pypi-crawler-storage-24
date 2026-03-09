@@ -1,0 +1,11 @@
+{
+  "name": "hmg-higress-trae-mcp",
+  "version": "0.1.1",
+  "summary": "An MCP (Model Context Protocol) service providing an expert-level AI agent for software development tasks. It offers specialized tools for code generation, debugging, refactoring, and architectural consultation to enhance developer productivity.",
+  "author": "wanglei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hmg_higress_trae_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-09T11:50:09.747843",
+  "package_url": "https://pypi.org/project/hmg-higress-trae-mcp/"
+}

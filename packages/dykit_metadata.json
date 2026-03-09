@@ -1,11 +1,11 @@
 {
   "name": "dykit",
-  "version": "4.0.2",
-  "summary": "Douyu Live Stream Danmu (弹幕) Collector - A modular, async-capable library for collecting chat messages from Douyu live streams.",
+  "version": "5.0.1",
+  "summary": "Meta package that installs dyproto, dycap, and dystat.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "dykit-4.0.2.tar.gz",
-  "download_time": "2026-03-07T12:34:51.851850",
+  "download_filename": "dykit-5.0.1.tar.gz",
+  "download_time": "2026-03-09T11:50:47.300392",
   "package_url": "https://pypi.org/project/dykit/"
 }

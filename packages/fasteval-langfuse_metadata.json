@@ -1,11 +1,11 @@
 {
   "name": "fasteval-langfuse",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "summary": "Langfuse integration for fasteval - evaluate production traces with fasteval metrics",
   "author": "Intuit",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fasteval_langfuse-2.1.2.tar.gz",
-  "download_time": "2026-03-07T10:47:55.410093",
+  "download_filename": "fasteval_langfuse-2.1.3.tar.gz",
+  "download_time": "2026-03-09T11:50:15.102288",
   "package_url": "https://pypi.org/project/fasteval-langfuse/"
 }

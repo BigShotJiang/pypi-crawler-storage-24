@@ -1,0 +1,11 @@
+{
+  "name": "gincloud",
+  "version": "2.3.1",
+  "summary": "Azure cloud management CLI utility for Ginesys IT infrastructure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gincloud-2.3.1.tar.gz",
+  "download_time": "2026-03-09T11:49:51.585998",
+  "package_url": "https://pypi.org/project/gincloud/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-urllib3",
+  "version": "0.1.4",
+  "summary": "A pytest plugin to mock urllib3 requests",
+  "author": "Giorgio Vilardo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_urllib3-0.1.4.tar.gz",
+  "download_time": "2026-03-09T11:50:01.540094",
+  "package_url": "https://pypi.org/project/pytest-urllib3/"
+}

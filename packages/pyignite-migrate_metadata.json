@@ -1,0 +1,11 @@
+{
+  "name": "pyignite-migrate",
+  "version": "0.1.2",
+  "summary": "Database migration tool for Apache Ignite",
+  "author": "Ivan Yurin",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyignite_migrate-0.1.2.tar.gz",
+  "download_time": "2026-03-09T11:49:53.562261",
+  "package_url": "https://pypi.org/project/pyignite-migrate/"
+}
