@@ -1,0 +1,11 @@
+{
+  "name": "puremagic",
+  "version": "2.0.2",
+  "summary": "Pure python implementation of magic file detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "puremagic-2.0.2.tar.gz",
+  "download_time": "2026-03-09T19:45:10.544677",
+  "package_url": "https://pypi.org/project/puremagic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nutils",
+  "version": "9.2",
+  "summary": "Numerical Utilities for Finite Element Analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nutils-9.2.tar.gz",
+  "download_time": "2026-03-09T19:44:42.774756",
+  "package_url": "https://pypi.org/project/nutils/"
+}

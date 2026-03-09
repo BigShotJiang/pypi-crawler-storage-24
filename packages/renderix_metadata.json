@@ -1,0 +1,11 @@
+{
+  "name": "renderix",
+  "version": "0.2.3",
+  "summary": "Simple and fast templating engine",
+  "author": "Arne Van Looveren",
+  "license": null,
+  "home_page": null,
+  "download_filename": "renderix-0.2.3.tar.gz",
+  "download_time": "2026-03-09T19:45:21.104921",
+  "package_url": "https://pypi.org/project/renderix/"
+}

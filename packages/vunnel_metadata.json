@@ -1,0 +1,11 @@
+{
+  "name": "vunnel",
+  "version": "0.55.3",
+  "summary": "vunnel ~= 'vulnerability data funnel'",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vunnel-0.55.3.tar.gz",
+  "download_time": "2026-03-09T19:44:27.638957",
+  "package_url": "https://pypi.org/project/vunnel/"
+}

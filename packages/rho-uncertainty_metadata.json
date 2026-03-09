@@ -1,0 +1,11 @@
+{
+  "name": "rho-uncertainty",
+  "version": "0.1.1",
+  "summary": "Correcting inference in SAR models for rho-estimation uncertainty",
+  "author": "Will Qiang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rho_uncertainty-0.1.1.tar.gz",
+  "download_time": "2026-03-09T19:45:11.115965",
+  "package_url": "https://pypi.org/project/rho-uncertainty/"
+}

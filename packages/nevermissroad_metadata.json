@@ -1,0 +1,11 @@
+{
+  "name": "nevermissroad",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the NeverMissRoad Address Intelligence & Tracking API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nevermissroad-1.0.0.tar.gz",
+  "download_time": "2026-03-09T19:44:57.394352",
+  "package_url": "https://pypi.org/project/nevermissroad/"
+}

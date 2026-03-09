@@ -1,0 +1,11 @@
+{
+  "name": "erk-statusline",
+  "version": "0.9.11",
+  "summary": "Custom status line for Claude Code with robbyrussell theme style",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "erk_statusline-0.9.11.tar.gz",
+  "download_time": "2026-03-09T19:45:07.107181",
+  "package_url": "https://pypi.org/project/erk-statusline/"
+}

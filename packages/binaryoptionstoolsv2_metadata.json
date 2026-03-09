@@ -1,0 +1,11 @@
+{
+  "name": "binaryoptionstoolsv2",
+  "version": "0.2.9",
+  "summary": "Python bindings for binary-options-tools. High-performance library for PocketOption trading automation with async/sync support, real-time data streaming, and WebSocket API access.",
+  "author": "ChipaDevTeam, Rick-29",
+  "license": null,
+  "home_page": "https://chipadevteam.github.io/BinaryOptionsTools-v2/",
+  "download_filename": "binaryoptionstoolsv2-0.2.9.tar.gz",
+  "download_time": "2026-03-09T19:45:13.474119",
+  "package_url": "https://pypi.org/project/binaryoptionstoolsv2/"
+}

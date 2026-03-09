@@ -1,0 +1,11 @@
+{
+  "name": "stsynphot",
+  "version": "1.5.1",
+  "summary": "Synthetic photometry for HST",
+  "author": "STScI",
+  "license": "BSD",
+  "home_page": "https://www.github.com/spacetelescope/stsynphot_refactor",
+  "download_filename": "stsynphot-1.5.1.tar.gz",
+  "download_time": "2026-03-09T19:45:19.906841",
+  "package_url": "https://pypi.org/project/stsynphot/"
+}

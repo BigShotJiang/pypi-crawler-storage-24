@@ -1,0 +1,11 @@
+{
+  "name": "eclosure",
+  "version": "0.1.0",
+  "summary": "Python bindings and utilities for e-Closure based multiple testing procedures",
+  "author": "Ziyu Xu, Jelle Goeman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eclosure-0.1.0.tar.gz",
+  "download_time": "2026-03-09T19:45:18.694735",
+  "package_url": "https://pypi.org/project/eclosure/"
+}

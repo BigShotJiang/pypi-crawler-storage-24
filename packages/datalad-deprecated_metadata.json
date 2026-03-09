@@ -1,0 +1,11 @@
+{
+  "name": "datalad-deprecated",
+  "version": "1.0.1",
+  "summary": "DataLad extension package for deprecated functionality that was phased out in the core package",
+  "author": "The DataLad Team and Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/datalad/datalad-deprecated",
+  "download_filename": "datalad_deprecated-1.0.1.tar.gz",
+  "download_time": "2026-03-09T19:44:32.562472",
+  "package_url": "https://pypi.org/project/datalad-deprecated/"
+}

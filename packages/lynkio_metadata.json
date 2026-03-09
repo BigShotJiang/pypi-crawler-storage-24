@@ -1,0 +1,11 @@
+{
+  "name": "lynkio",
+  "version": "1.0.0",
+  "summary": "Lynk – Real‑time event engine with native HTTP routing. Pure Python, standard library only.",
+  "author": "Lynk Team & Alex Austin",
+  "license": "MIT",
+  "home_page": "https://github.com/pythos-team/lynk",
+  "download_filename": "lynkio-1.0.0.tar.gz",
+  "download_time": "2026-03-09T19:44:48.707262",
+  "package_url": "https://pypi.org/project/lynkio/"
+}

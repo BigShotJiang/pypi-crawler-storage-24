@@ -1,11 +1,11 @@
 {
   "name": "lucivy",
-  "version": "0.2.2",
+  "version": "0.3.2",
   "summary": "Fast BM25 full-text search with substring matching, fuzzy search, and regex — powered by Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lucivy-0.2.2.tar.gz",
-  "download_time": "2026-03-08T13:29:04.791754",
+  "download_filename": "lucivy-0.3.2-cp313-cp313-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-03-09T19:44:43.938382",
   "package_url": "https://pypi.org/project/lucivy/"
 }

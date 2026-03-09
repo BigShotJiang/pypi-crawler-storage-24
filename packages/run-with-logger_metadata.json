@@ -1,0 +1,11 @@
+{
+  "name": "run-with-logger",
+  "version": "1.4.2",
+  "summary": "Like `subprocess.run`, but with the ability to pipe `stdout` and/or `stderr` to a `Logger` or capture each stream independently while the process is running.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "run_with_logger-1.4.2.tar.gz",
+  "download_time": "2026-03-09T19:45:05.937546",
+  "package_url": "https://pypi.org/project/run-with-logger/"
+}

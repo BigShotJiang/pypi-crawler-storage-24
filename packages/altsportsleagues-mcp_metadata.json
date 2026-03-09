@@ -1,0 +1,11 @@
+{
+  "name": "altsportsleagues-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for AltSportsLeagues — league discovery, valuation, market intelligence for AI agents and sportsbooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "altsportsleagues_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-09T19:44:29.474149",
+  "package_url": "https://pypi.org/project/altsportsleagues-mcp/"
+}

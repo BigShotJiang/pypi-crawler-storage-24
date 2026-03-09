@@ -1,0 +1,11 @@
+{
+  "name": "lswifi",
+  "version": "0.1.63",
+  "summary": "a CLI-centric Wi-Fi scanning tool for Windows",
+  "author": "Josh Schmelzle",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/joshschmelzle/lswifi",
+  "download_filename": "lswifi-0.1.63.tar.gz",
+  "download_time": "2026-03-09T19:44:30.756671",
+  "package_url": "https://pypi.org/project/lswifi/"
+}

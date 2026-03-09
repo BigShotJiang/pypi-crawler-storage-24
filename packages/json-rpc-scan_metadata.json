@@ -1,0 +1,11 @@
+{
+  "name": "json-rpc-scan",
+  "version": "0.1.1",
+  "summary": "Scans Ethereum (EVM) Blocks via JSON-RPC and looks for client diffs",
+  "author": "Chase Wright",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_rpc_scan-0.1.1.tar.gz",
+  "download_time": "2026-03-09T19:45:18.111734",
+  "package_url": "https://pypi.org/project/json-rpc-scan/"
+}

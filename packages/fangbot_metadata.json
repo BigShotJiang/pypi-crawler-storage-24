@@ -1,0 +1,11 @@
+{
+  "name": "fangbot",
+  "version": "0.1.0",
+  "summary": "Clinical reasoning agent powered by OpenMedicine — fangs of the healing serpent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fangbot-0.1.0.tar.gz",
+  "download_time": "2026-03-09T19:45:12.890232",
+  "package_url": "https://pypi.org/project/fangbot/"
+}
