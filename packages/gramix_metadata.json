@@ -1,11 +1,11 @@
 {
   "name": "gramix",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Мощный фреймворк для создания Telegram ботов.",
   "author": "riokzy",
   "license": null,
   "home_page": null,
-  "download_filename": "gramix-0.1.1.tar.gz",
-  "download_time": "2026-03-09T05:45:51.176236",
+  "download_filename": "gramix-0.1.3.tar.gz",
+  "download_time": "2026-03-09T09:03:20.393622",
   "package_url": "https://pypi.org/project/gramix/"
 }

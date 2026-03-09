@@ -1,0 +1,11 @@
+{
+  "name": "eclcli",
+  "version": "4.7.0",
+  "summary": "CLI for Enterprise Cloud 2.0",
+  "author": "NTT DOCOMO BUSINESS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://ecl.ntt.com",
+  "download_filename": "eclcli-4.7.0.tar.gz",
+  "download_time": "2026-03-09T09:03:22.464445",
+  "package_url": "https://pypi.org/project/eclcli/"
+}

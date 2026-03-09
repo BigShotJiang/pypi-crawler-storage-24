@@ -1,0 +1,11 @@
+{
+  "name": "pysenxor-lite",
+  "version": "3.1.2",
+  "summary": "Python library for interaction with Meridian Innovation's SenXor(TM)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysenxor_lite-3.1.2.tar.gz",
+  "download_time": "2026-03-09T09:02:56.881775",
+  "package_url": "https://pypi.org/project/pysenxor-lite/"
+}

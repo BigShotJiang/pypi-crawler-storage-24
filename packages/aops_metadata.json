@@ -1,0 +1,11 @@
+{
+  "name": "aops",
+  "version": "0.7.0",
+  "summary": "Python SDK for AOps — prompt version management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aops-0.7.0.tar.gz",
+  "download_time": "2026-03-09T09:03:27.685802",
+  "package_url": "https://pypi.org/project/aops/"
+}

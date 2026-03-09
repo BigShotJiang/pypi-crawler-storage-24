@@ -1,0 +1,11 @@
+{
+  "name": "kiln3d",
+  "version": "0.3.3",
+  "summary": "MCP server + CLI that gives AI agents safe access to 3D printers (OctoPrint, Moonraker, Bambu Lab, Prusa Link) — 358 tools for AI-driven print workflows",
+  "author": "Kiln Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kiln3d-0.3.3.tar.gz",
+  "download_time": "2026-03-09T09:03:17.286014",
+  "package_url": "https://pypi.org/project/kiln3d/"
+}

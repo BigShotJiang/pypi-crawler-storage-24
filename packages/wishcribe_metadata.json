@@ -1,11 +1,11 @@
 {
   "name": "wishcribe",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Multi-speaker audio/video transcription — Whisper large + pyannote.audio (offline)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wishcribe-1.0.5.tar.gz",
-  "download_time": "2026-03-09T08:08:14.280923",
+  "download_filename": "wishcribe-1.0.7.tar.gz",
+  "download_time": "2026-03-09T09:03:30.356473",
   "package_url": "https://pypi.org/project/wishcribe/"
 }

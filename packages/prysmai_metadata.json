@@ -1,11 +1,11 @@
 {
   "name": "prysmai",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Prysm AI — The observability, governance, and security layer for LLM applications. Full trace capture, behavioral detection, real-time dashboard, alerting, cost tracking, multi-provider support (OpenAI, Anthropic, Google Gemini, vLLM, Ollama), prompt injection detection, PII redaction, and content policy enforcement. One line of code.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prysmai-0.5.0.tar.gz",
-  "download_time": "2026-03-08T11:43:06.309244",
+  "download_filename": "prysmai-0.6.0.tar.gz",
+  "download_time": "2026-03-09T09:03:01.073930",
   "package_url": "https://pypi.org/project/prysmai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dodrio",
+  "version": "0.3.9",
+  "summary": "Data Package for TTS ",
+  "author": "Yixiang Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/yixiangchen1995/python-Dodrio",
+  "download_filename": "dodrio-0.3.9.tar.gz",
+  "download_time": "2026-03-09T09:03:11.545470",
+  "package_url": "https://pypi.org/project/dodrio/"
+}
