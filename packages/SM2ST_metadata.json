@@ -1,0 +1,11 @@
+{
+  "name": "SM2ST",
+  "version": "0.9.0",
+  "summary": "Automatic registration of spatial metabolome and spatial transcriptome via adversarial autoencoders",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sm2st-0.9.0.tar.gz",
+  "download_time": "2026-03-09T04:33:08.504133",
+  "package_url": "https://pypi.org/project/SM2ST/"
+}

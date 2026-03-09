@@ -1,0 +1,11 @@
+{
+  "name": "genomebundle",
+  "version": "0.1.0",
+  "summary": "Reproducible bundles for EBP genome assemblies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genomebundle-0.1.0.tar.gz",
+  "download_time": "2026-03-09T04:32:54.339116",
+  "package_url": "https://pypi.org/project/genomebundle/"
+}

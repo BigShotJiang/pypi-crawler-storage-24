@@ -1,0 +1,11 @@
+{
+  "name": "pyfaup-rs",
+  "version": "0.4.1",
+  "summary": "Python bindings for faup-rs Rust library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfaup_rs-0.4.1.tar.gz",
+  "download_time": "2026-03-09T04:33:11.631148",
+  "package_url": "https://pypi.org/project/pyfaup-rs/"
+}

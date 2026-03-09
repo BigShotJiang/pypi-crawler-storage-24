@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-essbasic",
+  "version": "3.1.51",
+  "summary": "Tencent Cloud Essbasic SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_essbasic-3.1.51.tar.gz",
+  "download_time": "2026-03-09T04:32:41.642669",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-essbasic/"
+}

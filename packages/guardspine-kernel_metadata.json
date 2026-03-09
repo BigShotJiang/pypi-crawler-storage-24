@@ -1,0 +1,11 @@
+{
+  "name": "guardspine-kernel",
+  "version": "0.2.0",
+  "summary": "Offline evidence-bundle verification and sealing for GuardSpine (Python)",
+  "author": "GuardSpine Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "guardspine_kernel-0.2.0.tar.gz",
+  "download_time": "2026-03-09T04:33:09.020757",
+  "package_url": "https://pypi.org/project/guardspine-kernel/"
+}

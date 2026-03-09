@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-cfs",
+  "version": "3.1.51",
+  "summary": "Tencent Cloud Cfs SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_cfs-3.1.51.tar.gz",
+  "download_time": "2026-03-09T04:32:53.300096",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cfs/"
+}

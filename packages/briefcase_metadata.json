@@ -1,0 +1,11 @@
+{
+  "name": "briefcase",
+  "version": "0.4.1",
+  "summary": "Tools to support converting a Python project into a standalone native application.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "briefcase-0.4.1.tar.gz",
+  "download_time": "2026-03-09T04:32:38.333934",
+  "package_url": "https://pypi.org/project/briefcase/"
+}

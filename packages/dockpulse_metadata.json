@@ -1,0 +1,11 @@
+{
+  "name": "dockpulse",
+  "version": "0.2.0",
+  "summary": "Container Resource Profiler & Right-Sizer for Docker",
+  "author": "Hariharan Ragothaman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dockpulse-0.2.0.tar.gz",
+  "download_time": "2026-03-09T04:32:55.899466",
+  "package_url": "https://pypi.org/project/dockpulse/"
+}

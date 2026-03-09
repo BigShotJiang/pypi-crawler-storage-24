@@ -1,0 +1,11 @@
+{
+  "name": "codex-open-client",
+  "version": "0.2.0",
+  "summary": "Python client for OpenAI Codex — use your ChatGPT subscription for API access",
+  "author": "Yegor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_open_client-0.2.0.tar.gz",
+  "download_time": "2026-03-09T04:32:53.820905",
+  "package_url": "https://pypi.org/project/codex-open-client/"
+}
