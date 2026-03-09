@@ -1,0 +1,11 @@
+{
+  "name": "salesnexus-cli",
+  "version": "0.1.1",
+  "summary": "SalesNexus CLI — manage your CRM from the command line",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "salesnexus_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-09T15:15:46.997583",
+  "package_url": "https://pypi.org/project/salesnexus-cli/"
+}

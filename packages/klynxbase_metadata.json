@@ -1,0 +1,11 @@
+{
+  "name": "klynxbase",
+  "version": "0.1.0",
+  "summary": "PyPI-friendly local knowledge base toolkit: parse PDFs, build vector stores, and query with a simple API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "klynxbase-0.1.0.tar.gz",
+  "download_time": "2026-03-09T15:15:09.939088",
+  "package_url": "https://pypi.org/project/klynxbase/"
+}

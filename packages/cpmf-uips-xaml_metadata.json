@@ -1,0 +1,11 @@
+{
+  "name": "cpmf-uips-xaml",
+  "version": "0.1.1",
+  "summary": "Standalone XAML workflow parser for automation projects (CPRIMA Forge)",
+  "author": null,
+  "license": "Apache-2.0 AND CC-BY-4.0",
+  "home_page": null,
+  "download_filename": "cpmf_uips_xaml-0.1.1.tar.gz",
+  "download_time": "2026-03-09T15:15:34.121432",
+  "package_url": "https://pypi.org/project/cpmf-uips-xaml/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "meshpatrol",
-  "version": "0.0.14",
+  "version": "0.0.21",
   "summary": "Bot for Meshtastic Networks to monitor high traffic users and kindly ask them to check settings.",
   "author": "Ben Lipsey",
   "license": null,
   "home_page": null,
-  "download_filename": "meshpatrol-0.0.14.tar.gz",
-  "download_time": "2026-03-08T07:28:32.174537",
+  "download_filename": "meshpatrol-0.0.21.tar.gz",
+  "download_time": "2026-03-09T15:15:46.364593",
   "package_url": "https://pypi.org/project/meshpatrol/"
 }

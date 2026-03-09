@@ -1,0 +1,11 @@
+{
+  "name": "agstack",
+  "version": "1.2.1",
+  "summary": "Production-ready toolkit for building FastAPI and LLM applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agstack-1.2.1.tar.gz",
+  "download_time": "2026-03-09T15:15:24.056560",
+  "package_url": "https://pypi.org/project/agstack/"
+}

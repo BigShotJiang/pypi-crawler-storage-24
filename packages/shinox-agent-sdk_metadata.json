@@ -1,0 +1,11 @@
+{
+  "name": "shinox-agent-sdk",
+  "version": "0.1.5",
+  "summary": "SDK for building agents in the Shinox decentralized mesh network",
+  "author": "Shinox Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shinox_agent_sdk-0.1.5.tar.gz",
+  "download_time": "2026-03-09T15:15:17.032512",
+  "package_url": "https://pypi.org/project/shinox-agent-sdk/"
+}

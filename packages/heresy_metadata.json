@@ -1,11 +1,11 @@
 {
   "name": "heresy",
-  "version": "0.2.3",
+  "version": "0.2.6",
   "summary": "A Python extension module with heavily opinionated features.",
   "author": "Noise The White",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "heresy-0.2.3.tar.gz",
-  "download_time": "2026-03-09T07:39:49.282259",
+  "download_filename": "heresy-0.2.6.tar.gz",
+  "download_time": "2026-03-09T15:15:32.002167",
   "package_url": "https://pypi.org/project/heresy/"
 }

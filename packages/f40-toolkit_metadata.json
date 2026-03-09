@@ -1,0 +1,11 @@
+{
+  "name": "f40-toolkit",
+  "version": "1.0.8",
+  "summary": "Shared config, logging, cache and common tooling for 40F services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "f40_toolkit-1.0.8.tar.gz",
+  "download_time": "2026-03-09T15:15:36.875718",
+  "package_url": "https://pypi.org/project/f40-toolkit/"
+}

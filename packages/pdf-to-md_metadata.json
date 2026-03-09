@@ -1,0 +1,11 @@
+{
+  "name": "pdf-to-md",
+  "version": "0.1.0b1",
+  "summary": "Convert PDF files to Markdown using Google Gemini API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf_to_md-0.1.0b1.tar.gz",
+  "download_time": "2026-03-09T15:15:45.071456",
+  "package_url": "https://pypi.org/project/pdf-to-md/"
+}

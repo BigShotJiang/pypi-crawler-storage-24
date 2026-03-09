@@ -1,0 +1,11 @@
+{
+  "name": "agentikernel",
+  "version": "0.0.1",
+  "summary": "Jupyter Kernel containing an agent that can access to other kernels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentikernel-0.0.1.tar.gz",
+  "download_time": "2026-03-09T15:14:52.697787",
+  "package_url": "https://pypi.org/project/agentikernel/"
+}

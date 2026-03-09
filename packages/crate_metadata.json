@@ -1,0 +1,11 @@
+{
+  "name": "crate",
+  "version": "2.1.2",
+  "summary": "CrateDB Python Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crate-2.1.2.tar.gz",
+  "download_time": "2026-03-09T15:15:09.296683",
+  "package_url": "https://pypi.org/project/crate/"
+}

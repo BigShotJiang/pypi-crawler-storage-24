@@ -1,0 +1,11 @@
+{
+  "name": "traj-dist-rs",
+  "version": "1.0.0b4",
+  "summary": "High-performance trajectory distance & similarity measures in Rust with Python bindings",
+  "author": "Chao Song",
+  "license": "MIT",
+  "home_page": "https://github.com/Davidham3/traj-dist-rs",
+  "download_filename": "traj_dist_rs-1.0.0b4.tar.gz",
+  "download_time": "2026-03-09T15:15:30.699145",
+  "package_url": "https://pypi.org/project/traj-dist-rs/"
+}

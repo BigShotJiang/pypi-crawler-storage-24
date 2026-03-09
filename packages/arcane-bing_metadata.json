@@ -1,0 +1,11 @@
+{
+  "name": "arcane-bing",
+  "version": "0.5.8",
+  "summary": "Helpers to request bing API",
+  "author": "Arcane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcane_bing-0.5.8.tar.gz",
+  "download_time": "2026-03-09T15:15:43.788177",
+  "package_url": "https://pypi.org/project/arcane-bing/"
+}

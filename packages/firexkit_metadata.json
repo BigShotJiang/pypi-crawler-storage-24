@@ -1,0 +1,11 @@
+{
+  "name": "firexkit",
+  "version": "5.2.36",
+  "summary": "Core firex libraries",
+  "author": "Core FireX Team",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/FireXStuff/firexkit",
+  "download_filename": "firexkit-5.2.36.tar.gz",
+  "download_time": "2026-03-09T15:14:59.385551",
+  "package_url": "https://pypi.org/project/firexkit/"
+}

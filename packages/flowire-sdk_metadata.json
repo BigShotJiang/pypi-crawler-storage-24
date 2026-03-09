@@ -1,0 +1,11 @@
+{
+  "name": "flowire-sdk",
+  "version": "0.0.1a5",
+  "summary": "SDK for building Flowire workflow nodes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowire_sdk-0.0.1a5.tar.gz",
+  "download_time": "2026-03-09T15:14:49.495039",
+  "package_url": "https://pypi.org/project/flowire-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polyanalyst6api",
+  "version": "0.36.2",
+  "summary": "polyanalyst6api is a PolyAnalyst API client for Python.",
+  "author": "yatmanov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polyanalyst6api-0.36.2.tar.gz",
+  "download_time": "2026-03-09T15:15:44.439069",
+  "package_url": "https://pypi.org/project/polyanalyst6api/"
+}

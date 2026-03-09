@@ -1,0 +1,11 @@
+{
+  "name": "nl2cad",
+  "version": "0.2.0",
+  "summary": "NL2CAD — Natural Language to CAD. Redirect package for iil-nl2cadfw.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nl2cad-0.2.0.tar.gz",
+  "download_time": "2026-03-09T15:14:48.861790",
+  "package_url": "https://pypi.org/project/nl2cad/"
+}
