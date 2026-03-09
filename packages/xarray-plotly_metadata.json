@@ -1,0 +1,11 @@
+{
+  "name": "xarray-plotly",
+  "version": "0.0.14",
+  "summary": "Interactive Plotly Express plotting accessor for xarray",
+  "author": "Felix",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xarray_plotly-0.0.14.tar.gz",
+  "download_time": "2026-03-09T14:04:07.058639",
+  "package_url": "https://pypi.org/project/xarray-plotly/"
+}

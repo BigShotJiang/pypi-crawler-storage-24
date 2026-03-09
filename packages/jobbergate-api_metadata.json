@@ -1,0 +1,11 @@
+{
+  "name": "jobbergate-api",
+  "version": "5.9.0",
+  "summary": "Jobbergate API",
+  "author": "Omnivector Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/omnivector-solutions/jobbergate",
+  "download_filename": "jobbergate_api-5.9.0.tar.gz",
+  "download_time": "2026-03-09T14:04:03.364623",
+  "package_url": "https://pypi.org/project/jobbergate-api/"
+}

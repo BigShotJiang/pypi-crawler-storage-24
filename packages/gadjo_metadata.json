@@ -1,0 +1,11 @@
+{
+  "name": "gadjo",
+  "version": "2.20",
+  "summary": "Django base template tailored for management interfaces",
+  "author": "Frederic Peters",
+  "license": "AGPLv3 or later",
+  "home_page": "https://dev.entrouvert.org/projects/gadjo/",
+  "download_filename": "gadjo-2.20.tar.gz",
+  "download_time": "2026-03-09T14:03:36.866997",
+  "package_url": "https://pypi.org/project/gadjo/"
+}

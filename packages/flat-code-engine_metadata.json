@@ -1,0 +1,11 @@
+{
+  "name": "flat-code-engine",
+  "version": "0.1.1",
+  "summary": "In-memory code graph engine - 10 languages, 7.9M symbols, 0.19ms query",
+  "author": "leejo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flat_code_engine-0.1.1.tar.gz",
+  "download_time": "2026-03-09T14:04:13.498357",
+  "package_url": "https://pypi.org/project/flat-code-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "oc-pruner",
+  "version": "0.1.2",
+  "summary": "A tool for removing invalid rows from an OpenCitations metadata or citations table based on the table's validation report.",
+  "author": "Elia Rizzetto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oc_pruner-0.1.2.tar.gz",
+  "download_time": "2026-03-09T14:04:25.450830",
+  "package_url": "https://pypi.org/project/oc-pruner/"
+}

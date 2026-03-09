@@ -1,0 +1,11 @@
+{
+  "name": "arivo-settings-models",
+  "version": "2.6.2",
+  "summary": null,
+  "author": "ARIVO",
+  "license": null,
+  "home_page": "https://gitlab.com/accessio/onegate/settings-models",
+  "download_filename": "arivo_settings_models-2.6.2.tar.gz",
+  "download_time": "2026-03-09T14:03:55.430133",
+  "package_url": "https://pypi.org/project/arivo-settings-models/"
+}

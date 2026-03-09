@@ -1,0 +1,11 @@
+{
+  "name": "fest-mutate",
+  "version": "0.1.2",
+  "summary": "An extremely fast mutation testing tool for Python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/sakost/fest",
+  "download_filename": "fest_mutate-0.1.2-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-09T14:03:54.217489",
+  "package_url": "https://pypi.org/project/fest-mutate/"
+}

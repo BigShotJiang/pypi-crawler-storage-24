@@ -1,0 +1,11 @@
+{
+  "name": "KapoorLabs-Lightning",
+  "version": "6.0.0",
+  "summary": "Lightning modules for KapoorLabs specific projects",
+  "author": "Varun Kapoor, Mari Tolonen, Jakub Sedzinski",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Kapoorlabs-CAPED/KapoorLabs-Lightning",
+  "download_filename": "kapoorlabs_lightning-6.0.0-py3-none-any.whl",
+  "download_time": "2026-03-09T14:04:00.494723",
+  "package_url": "https://pypi.org/project/KapoorLabs-Lightning/"
+}

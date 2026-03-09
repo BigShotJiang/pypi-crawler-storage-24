@@ -1,0 +1,11 @@
+{
+  "name": "testfixtures",
+  "version": "11.0.0",
+  "summary": "A collection of helpers and mock objects for unit tests and doc tests.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "testfixtures-11.0.0.tar.gz",
+  "download_time": "2026-03-09T14:03:48.874298",
+  "package_url": "https://pypi.org/project/testfixtures/"
+}

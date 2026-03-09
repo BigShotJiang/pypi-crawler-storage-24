@@ -1,0 +1,11 @@
+{
+  "name": "safe-bq",
+  "version": "0.1.1",
+  "summary": "Safe BigQuery CLI wrapper - SELECT-only queries with allowlist and audit logging",
+  "author": "safe-bq contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "safe_bq-0.1.1.tar.gz",
+  "download_time": "2026-03-09T14:03:42.319286",
+  "package_url": "https://pypi.org/project/safe-bq/"
+}

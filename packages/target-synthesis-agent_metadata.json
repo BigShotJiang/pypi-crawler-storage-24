@@ -1,0 +1,11 @@
+{
+  "name": "target-synthesis-agent",
+  "version": "1.0.15",
+  "summary": "AI-powered target variable creation and synthesis agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "target_synthesis_agent-1.0.15.tar.gz",
+  "download_time": "2026-03-09T14:04:09.359804",
+  "package_url": "https://pypi.org/project/target-synthesis-agent/"
+}

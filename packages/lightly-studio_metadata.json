@@ -1,0 +1,11 @@
+{
+  "name": "lightly-studio",
+  "version": "0.4.10",
+  "summary": "LightlyStudio is a lightweight, fast, and easy-to-use data exploration tool for data scientists and engineers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightly_studio-0.4.10.tar.gz",
+  "download_time": "2026-03-09T14:03:40.594566",
+  "package_url": "https://pypi.org/project/lightly-studio/"
+}

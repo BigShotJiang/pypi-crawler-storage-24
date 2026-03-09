@@ -1,0 +1,11 @@
+{
+  "name": "pytest-mpl-oggm",
+  "version": "0.180.2",
+  "summary": "pytest plugin to help with testing figures output from Matplotlib - OGGM fork",
+  "author": "pytest-mpl developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_mpl_oggm-0.180.2.tar.gz",
+  "download_time": "2026-03-09T14:03:43.473993",
+  "package_url": "https://pypi.org/project/pytest-mpl-oggm/"
+}
