@@ -1,11 +1,11 @@
 {
   "name": "dve-lumipy-testing",
-  "version": "1.0.570",
+  "version": "1.0.572",
   "summary": "Python library for Luminesce",
   "author": "FINBOURNE Technology",
   "license": null,
   "home_page": null,
-  "download_filename": "dve_lumipy_testing-1.0.570-py3-none-any.whl",
-  "download_time": "2026-03-07T11:53:29.845622",
+  "download_filename": "dve_lumipy_testing-1.0.572-py3-none-any.whl",
+  "download_time": "2026-03-09T22:54:27.124456",
   "package_url": "https://pypi.org/project/dve-lumipy-testing/"
 }

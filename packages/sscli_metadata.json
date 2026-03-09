@@ -1,11 +1,11 @@
 {
   "name": "sscli",
-  "version": "3.1.2",
+  "version": "3.2.2",
   "summary": "Seed & Source CLI - Production-ready SaaS scaffolding for Rails, Python, React, Astro, and more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sscli-3.1.2-py3-none-any.whl",
-  "download_time": "2026-03-07T19:43:19.609482",
+  "download_filename": "sscli-3.2.2-py3-none-any.whl",
+  "download_time": "2026-03-09T22:54:19.575674",
   "package_url": "https://pypi.org/project/sscli/"
 }

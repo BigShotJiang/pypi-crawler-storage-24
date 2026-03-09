@@ -1,11 +1,11 @@
 {
   "name": "refario-sdk",
-  "version": "0.1.0",
-  "summary": "Refario Python ingestion SDK",
+  "version": "0.1.2",
+  "summary": "Refario Python telemetry SDK for LLM run and span ingestion",
   "author": "Refario",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "refario_sdk-0.1.0.tar.gz",
-  "download_time": "2026-03-09T22:24:35.171355",
+  "download_filename": "refario_sdk-0.1.2.tar.gz",
+  "download_time": "2026-03-09T22:54:49.192461",
   "package_url": "https://pypi.org/project/refario-sdk/"
 }

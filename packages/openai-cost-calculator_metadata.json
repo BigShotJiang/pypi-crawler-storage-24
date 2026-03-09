@@ -1,0 +1,11 @@
+{
+  "name": "openai-cost-calculator",
+  "version": "1.2.0",
+  "summary": "A library to estimate OpenAI API costs based on token usage.",
+  "author": "Orkun Kınay, Murat Barkın Kınay",
+  "license": "MIT",
+  "home_page": "https://github.com/orkunkinay/openai_cost_calculator",
+  "download_filename": "openai_cost_calculator-1.2.0.tar.gz",
+  "download_time": "2026-03-09T22:55:02.355231",
+  "package_url": "https://pypi.org/project/openai-cost-calculator/"
+}

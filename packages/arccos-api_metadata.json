@@ -1,0 +1,11 @@
+{
+  "name": "arccos-api",
+  "version": "0.1.0",
+  "summary": "Unofficial Python CLI and client library for the Arccos Golf API",
+  "author": "Paul Frederiksen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arccos_api-0.1.0.tar.gz",
+  "download_time": "2026-03-09T22:54:38.234322",
+  "package_url": "https://pypi.org/project/arccos-api/"
+}

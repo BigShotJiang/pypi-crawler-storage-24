@@ -1,0 +1,11 @@
+{
+  "name": "onecmd",
+  "version": "0.2.1",
+  "summary": "AI-powered terminal manager — control and automate your machines from Telegram",
+  "author": "Erik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "onecmd-0.2.1.tar.gz",
+  "download_time": "2026-03-09T22:55:02.896954",
+  "package_url": "https://pypi.org/project/onecmd/"
+}

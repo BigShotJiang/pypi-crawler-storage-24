@@ -1,0 +1,11 @@
+{
+  "name": "outbox-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for Outbox — a unified messaging API for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "outbox_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-09T22:54:17.792598",
+  "package_url": "https://pypi.org/project/outbox-sdk/"
+}
