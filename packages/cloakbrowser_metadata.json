@@ -1,0 +1,11 @@
+{
+  "name": "cloakbrowser",
+  "version": "0.3.11",
+  "summary": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloakbrowser-0.3.11.tar.gz",
+  "download_time": "2026-03-09T00:00:01.597941",
+  "package_url": "https://pypi.org/project/cloakbrowser/"
+}

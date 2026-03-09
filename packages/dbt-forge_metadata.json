@@ -1,11 +1,11 @@
 {
   "name": "dbt-forge",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Scaffold production-ready dbt projects with opinionated defaults",
   "author": "Marouane",
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_forge-0.3.0.tar.gz",
-  "download_time": "2026-03-08T21:57:14.528848",
+  "download_filename": "dbt_forge-0.3.1.tar.gz",
+  "download_time": "2026-03-08T23:59:51.997150",
   "package_url": "https://pypi.org/project/dbt-forge/"
 }

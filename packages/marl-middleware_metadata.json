@@ -1,0 +1,11 @@
+{
+  "name": "marl-middleware",
+  "version": "1.0.0",
+  "summary": "MARL — Model-Agnostic Runtime Middleware for LLMs",
+  "author": "VIDRAFT",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/vidraft/marl",
+  "download_filename": "marl_middleware-1.0.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-03-08T23:59:32.085040",
+  "package_url": "https://pypi.org/project/marl-middleware/"
+}

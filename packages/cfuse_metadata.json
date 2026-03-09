@@ -1,0 +1,11 @@
+{
+  "name": "cfuse",
+  "version": "0.5.0",
+  "summary": "Differentiable FUSE hydrological model with Enzyme AD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfuse-0.5.0.tar.gz",
+  "download_time": "2026-03-08T23:59:35.827466",
+  "package_url": "https://pypi.org/project/cfuse/"
+}

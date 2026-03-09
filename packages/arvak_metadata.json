@@ -1,0 +1,11 @@
+{
+  "name": "arvak",
+  "version": "1.9.4",
+  "summary": "Arvak - Rust-native quantum compilation and orchestration platform for HPC with CUDA-Q, neutral-atom, and dynamic plugin support. Developed by The HAL Contract.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "arvak-1.9.4.tar.gz",
+  "download_time": "2026-03-09T00:00:00.661012",
+  "package_url": "https://pypi.org/project/arvak/"
+}
