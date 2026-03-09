@@ -1,11 +1,11 @@
 {
   "name": "lilbee",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "A local, offline knowledge base. Add documents and code, ask questions grounded in what's actually there.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lilbee-0.3.7.tar.gz",
-  "download_time": "2026-03-09T20:04:15.355297",
+  "download_filename": "lilbee-0.3.8.tar.gz",
+  "download_time": "2026-03-09T23:51:04.425199",
   "package_url": "https://pypi.org/project/lilbee/"
 }

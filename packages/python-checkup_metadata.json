@@ -1,11 +1,11 @@
 {
   "name": "python-checkup",
-  "version": "0.2.1",
+  "version": "0.4.1",
   "summary": "Fast, local-first CLI that gives your Python codebase a 0-100 health score",
   "author": "Abel Ayalew | @nabroleonx",
   "license": null,
   "home_page": null,
-  "download_filename": "python_checkup-0.2.1.tar.gz",
-  "download_time": "2026-03-09T17:10:54.056358",
+  "download_filename": "python_checkup-0.4.1.tar.gz",
+  "download_time": "2026-03-09T23:51:40.406938",
   "package_url": "https://pypi.org/project/python-checkup/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agricola",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Admixed GWAS for Related Individuals Conditioning On Local Ancestry",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agricola-0.3.2.tar.gz",
-  "download_time": "2026-03-07T18:30:08.040624",
+  "download_filename": "agricola-0.4.0.tar.gz",
+  "download_time": "2026-03-09T23:51:25.716261",
   "package_url": "https://pypi.org/project/agricola/"
 }

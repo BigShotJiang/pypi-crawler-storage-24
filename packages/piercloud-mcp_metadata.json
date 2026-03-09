@@ -1,0 +1,11 @@
+{
+  "name": "piercloud-mcp",
+  "version": "0.3.13",
+  "summary": "MCP server for Pier Cloud - query cloud costs and optimization rules",
+  "author": "Pier Team",
+  "license": "MIT",
+  "home_page": "https://github.com/piercloud/piercloud-mcp",
+  "download_filename": "piercloud_mcp-0.3.13.tar.gz",
+  "download_time": "2026-03-09T23:51:27.270694",
+  "package_url": "https://pypi.org/project/piercloud-mcp/"
+}

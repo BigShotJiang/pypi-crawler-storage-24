@@ -1,0 +1,11 @@
+{
+  "name": "jctl",
+  "version": "1.1.24",
+  "summary": "Command line tool that utilizes Python-Jamf",
+  "author": "The University of Utah",
+  "license": "MIT",
+  "home_page": "https://github.com/univ-of-utah-marriott-library-apple/jctl",
+  "download_filename": "jctl-1.1.24.tar.gz",
+  "download_time": "2026-03-09T23:51:39.365723",
+  "package_url": "https://pypi.org/project/jctl/"
+}

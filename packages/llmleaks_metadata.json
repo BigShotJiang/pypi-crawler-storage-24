@@ -1,0 +1,11 @@
+{
+  "name": "llmleaks",
+  "version": "1.0.0",
+  "summary": "Security tool for detecting exposed LLM/AI API keys in public repositories",
+  "author": "fariiixm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmleaks-1.0.0.tar.gz",
+  "download_time": "2026-03-09T23:51:03.826182",
+  "package_url": "https://pypi.org/project/llmleaks/"
+}

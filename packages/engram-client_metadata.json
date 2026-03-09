@@ -1,0 +1,11 @@
+{
+  "name": "engram-client",
+  "version": "0.3.0",
+  "summary": "Python client for Engram Cloud - AI memory infrastructure",
+  "author": "Ronaldo Lima",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "engram_client-0.3.0.tar.gz",
+  "download_time": "2026-03-09T23:51:17.296091",
+  "package_url": "https://pypi.org/project/engram-client/"
+}

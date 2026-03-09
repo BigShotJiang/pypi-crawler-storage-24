@@ -1,11 +1,11 @@
 {
   "name": "pygeoflood",
-  "version": "0.0.3a4",
+  "version": "0.0.3a5",
   "summary": "Flood mapping program based on high-resolution terrain analyses",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygeoflood-0.0.3a4.tar.gz",
-  "download_time": "2026-03-09T22:54:20.734389",
+  "download_filename": "pygeoflood-0.0.3a5.tar.gz",
+  "download_time": "2026-03-09T23:51:49.609476",
   "package_url": "https://pypi.org/project/pygeoflood/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "daisy-mrd",
+  "version": "0.1.0",
+  "summary": "DAISY-MRD: Distributed Analysis of Integrated Sites for Yielding MRD — WGS-based measurable residual disease monitoring in pediatric AML",
+  "author": "Dana Dayan, Yosef Maruvka",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "daisy_mrd-0.1.0.tar.gz",
+  "download_time": "2026-03-09T23:51:15.202080",
+  "package_url": "https://pypi.org/project/daisy-mrd/"
+}
