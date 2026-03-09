@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ebook-read",
+  "version": "0.1.3",
+  "summary": "MCP server for reading and searching EPUB/PDF documents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_ebook_read-0.1.3.tar.gz",
+  "download_time": "2026-03-09T05:46:23.915949",
+  "package_url": "https://pypi.org/project/mcp-ebook-read/"
+}

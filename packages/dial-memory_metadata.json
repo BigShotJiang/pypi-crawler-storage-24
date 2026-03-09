@@ -1,11 +1,11 @@
 {
   "name": "dial-memory",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "Default file-based memory provider for StrawPot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dial_memory-0.1.6.tar.gz",
-  "download_time": "2026-03-07T07:42:41.696483",
+  "download_filename": "dial_memory-0.1.9.tar.gz",
+  "download_time": "2026-03-09T05:45:44.766033",
   "package_url": "https://pypi.org/project/dial-memory/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aula",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Python API wrapper for Aula.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aula-1.0.0.tar.gz",
-  "download_time": "2026-03-08T11:42:52.670670",
+  "download_filename": "aula-1.1.0.tar.gz",
+  "download_time": "2026-03-09T05:46:24.469585",
   "package_url": "https://pypi.org/project/aula/"
 }

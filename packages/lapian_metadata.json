@@ -1,0 +1,11 @@
+{
+  "name": "lapian",
+  "version": "1.3.4",
+  "summary": "LaPian (拉片) — Batch video transcoder with hardware-accelerated encoding. CLI & GUI. Supports GIF, Android MP4, min-size MP4, and audio extraction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lapian-1.3.4.tar.gz",
+  "download_time": "2026-03-09T05:46:17.172725",
+  "package_url": "https://pypi.org/project/lapian/"
+}

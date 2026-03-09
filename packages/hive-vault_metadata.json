@@ -1,11 +1,11 @@
 {
   "name": "hive-vault",
-  "version": "1.7.1",
+  "version": "1.9.1",
   "summary": "Unified MCP server for AI-assisted development — on-demand Obsidian vault access + worker delegation",
   "author": "Manuel Lorente",
   "license": null,
   "home_page": null,
-  "download_filename": "hive_vault-1.7.1.tar.gz",
-  "download_time": "2026-03-08T01:48:42.844511",
+  "download_filename": "hive_vault-1.9.1.tar.gz",
+  "download_time": "2026-03-09T05:46:11.829393",
   "package_url": "https://pypi.org/project/hive-vault/"
 }
