@@ -1,0 +1,11 @@
+{
+  "name": "private-attribute-cpp",
+  "version": "1.4.2",
+  "summary": "A Python package that provides a way to define private attributes in C++ implementation.",
+  "author": "HuangHaoHua",
+  "license": "MIT",
+  "home_page": "https://github.com/Locked-chess-official/private_attribute_cpp",
+  "download_filename": "private_attribute_cpp-1.4.2.tar.gz",
+  "download_time": "2026-03-10T09:28:15.686854",
+  "package_url": "https://pypi.org/project/private-attribute-cpp/"
+}

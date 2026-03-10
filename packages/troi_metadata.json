@@ -1,0 +1,11 @@
+{
+  "name": "troi",
+  "version": "2026.3.10.0",
+  "summary": "ListenBrainz' empathic music recommendation/playlisting engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "troi-2026.3.10.0.tar.gz",
+  "download_time": "2026-03-10T09:28:23.018026",
+  "package_url": "https://pypi.org/project/troi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vitjas-interactive-terminal",
-  "version": "1.0.2",
-  "summary": "MCP Server providing fully interactive terminal sessions for AI agents - TUI support, keyboard control, screen capture",
+  "version": "1.2.5",
+  "summary": "MCP Server providing fully interactive terminal sessions for AI agents - TUI support, keyboard control, screen capture - Cross-platform (Windows, Linux, Mac)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vitjas_interactive_terminal-1.0.2.tar.gz",
-  "download_time": "2026-03-10T07:00:52.737274",
+  "download_filename": "vitjas_interactive_terminal-1.2.5.tar.gz",
+  "download_time": "2026-03-10T09:28:20.250031",
   "package_url": "https://pypi.org/project/vitjas-interactive-terminal/"
 }

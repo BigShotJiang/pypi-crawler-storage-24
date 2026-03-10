@@ -1,0 +1,11 @@
+{
+  "name": "orionbelt-semantic-layer-mcp",
+  "version": "0.5.0",
+  "summary": "Thin MCP server for OrionBelt Semantic Layer — delegates to REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orionbelt_semantic_layer_mcp-0.5.0.tar.gz",
+  "download_time": "2026-03-10T09:28:13.440954",
+  "package_url": "https://pypi.org/project/orionbelt-semantic-layer-mcp/"
+}

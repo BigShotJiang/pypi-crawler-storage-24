@@ -1,11 +1,11 @@
 {
   "name": "fluidkit",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Web development for the Pythonist",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fluidkit-1.1.0.tar.gz",
-  "download_time": "2026-03-08T19:44:02.959819",
+  "download_filename": "fluidkit-1.2.0.tar.gz",
+  "download_time": "2026-03-10T09:28:50.389099",
   "package_url": "https://pypi.org/project/fluidkit/"
 }

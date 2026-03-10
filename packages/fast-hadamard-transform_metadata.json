@@ -1,0 +1,11 @@
+{
+  "name": "fast-hadamard-transform",
+  "version": "1.1.0",
+  "summary": "Fast Hadamard Transform in CUDA, with a PyTorch interface",
+  "author": "Tri Dao",
+  "license": null,
+  "home_page": "https://github.com/Dao-AILab/fast-hadamard-transform",
+  "download_filename": "fast_hadamard_transform-1.1.0.tar.gz",
+  "download_time": "2026-03-10T09:28:17.320881",
+  "package_url": "https://pypi.org/project/fast-hadamard-transform/"
+}

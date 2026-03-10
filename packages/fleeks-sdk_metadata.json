@@ -1,0 +1,11 @@
+{
+  "name": "fleeks-sdk",
+  "version": "0.5.0",
+  "summary": "Python SDK for the Fleeks AI Development Platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fleeks_sdk-0.5.0.tar.gz",
+  "download_time": "2026-03-10T09:28:07.488204",
+  "package_url": "https://pypi.org/project/fleeks-sdk/"
+}

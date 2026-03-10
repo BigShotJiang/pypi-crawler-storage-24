@@ -1,0 +1,11 @@
+{
+  "name": "holoscan-cli",
+  "version": "4.0.0",
+  "summary": "Command line interface for packaging and running Holoscan applications.",
+  "author": "NVIDIA",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "holoscan_cli-4.0.0-py3-none-any.whl",
+  "download_time": "2026-03-10T09:28:32.008300",
+  "package_url": "https://pypi.org/project/holoscan-cli/"
+}

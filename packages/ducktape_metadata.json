@@ -1,0 +1,11 @@
+{
+  "name": "ducktape",
+  "version": "0.14.0",
+  "summary": "Distributed system test tools",
+  "author": "Confluent",
+  "license": "apache2.0",
+  "home_page": "http://github.com/confluentinc/ducktape",
+  "download_filename": "ducktape-0.14.0.tar.gz",
+  "download_time": "2026-03-10T09:28:47.191408",
+  "package_url": "https://pypi.org/project/ducktape/"
+}

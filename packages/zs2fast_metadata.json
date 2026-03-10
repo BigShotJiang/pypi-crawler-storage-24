@@ -1,11 +1,11 @@
 {
   "name": "zs2fast",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Fast Rust/PyO3 parser for ZS2 files with Parquet export",
   "author": "Dominic Welti",
   "license": null,
   "home_page": "https://github.com/weltidom/zs2fast",
-  "download_filename": "zs2fast-0.3.0.tar.gz",
-  "download_time": "2026-03-10T08:36:19.168028",
+  "download_filename": "zs2fast-0.4.0.tar.gz",
+  "download_time": "2026-03-10T09:28:04.802908",
   "package_url": "https://pypi.org/project/zs2fast/"
 }
