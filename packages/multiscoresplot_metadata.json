@@ -1,11 +1,11 @@
 {
   "name": "multiscoresplot",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Multi-dimensional gene set scoring and visualization for single-cell transcriptomics",
   "author": "Andre Macedo",
   "license": null,
   "home_page": null,
-  "download_filename": "multiscoresplot-1.0.5.tar.gz",
-  "download_time": "2026-03-10T22:00:03.274124",
+  "download_filename": "multiscoresplot-1.0.6.tar.gz",
+  "download_time": "2026-03-10T22:28:30.591365",
   "package_url": "https://pypi.org/project/multiscoresplot/"
 }

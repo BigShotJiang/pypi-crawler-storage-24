@@ -1,8 +1,18 @@
 {
-  "download_time": "2026-03-10T22:00:12.390003",
+  "download_time": "2026-03-10T22:28:34.047225",
   "total_packages_downloaded": 91,
-  "total_size_mb": 57.45,
+  "total_size_mb": 7.95,
   "packages": [
+    "pegasus-ai",
+    "KekikStream",
+    "growpal",
+    "micaflow",
+    "foxglove-client",
+    "0byte",
+    "gms-mcp",
+    "broccoli-ml",
+    "hearthstone-data",
+    "openseespy-viewer",
     "rwe",
     "polars-st",
     "repodoc",
@@ -21,7 +31,6 @@
     "scalekit-sdk-python",
     "jama-cli",
     "lbt-dragonfly",
-    "0byte",
     "octomil-sdk",
     "visier-platform-sdk",
     "punt-lux",
@@ -56,7 +65,6 @@
     "bilbo-audiobook",
     "openshell",
     "animus-forge",
-    "gms-mcp",
     "gerbolyze",
     "svg-flatten-wasi",
     "leafpress",
@@ -85,14 +93,6 @@
     "icechunk",
     "statwrapper",
     "chunkrank",
-    "assisted-service-client",
-    "sopp",
-    "mkpipe-loader-mongodb",
-    "runfox",
-    "mkpipe-extractor-mongodb",
-    "antaris-router",
-    "gen-dsp",
-    "antaris-pipeline",
-    "antaris-context"
+    "assisted-service-client"
   ]
 }
