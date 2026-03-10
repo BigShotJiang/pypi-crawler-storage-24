@@ -1,0 +1,11 @@
+{
+  "name": "realspace-tb",
+  "version": "0.2.1",
+  "summary": "Real-space tight-binding simulations with time-dependent density matrix evolution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "realspace_tb-0.2.1.tar.gz",
+  "download_time": "2026-03-10T17:32:03.399872",
+  "package_url": "https://pypi.org/project/realspace-tb/"
+}

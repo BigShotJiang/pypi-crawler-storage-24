@@ -1,0 +1,11 @@
+{
+  "name": "oxpdf",
+  "version": "0.1.2",
+  "summary": "Python SDK for the 0xPdf PDF-to-JSON API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oxpdf-0.1.2.tar.gz",
+  "download_time": "2026-03-10T17:31:31.704173",
+  "package_url": "https://pypi.org/project/oxpdf/"
+}

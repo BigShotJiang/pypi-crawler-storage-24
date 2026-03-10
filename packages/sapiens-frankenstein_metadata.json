@@ -1,11 +1,11 @@
 {
   "name": "sapiens-frankenstein",
-  "version": "2.1.4",
+  "version": "2.1.7",
   "summary": null,
   "author": "SAPIENS TECHNOLOGY",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/sapiens_frankenstein",
-  "download_filename": "sapiens_frankenstein-2.1.4.tar.gz",
-  "download_time": "2026-03-07T19:42:59.565556",
+  "download_filename": "sapiens_frankenstein-2.1.7.tar.gz",
+  "download_time": "2026-03-10T17:32:02.886891",
   "package_url": "https://pypi.org/project/sapiens-frankenstein/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Datagenkit",
+  "version": "0.1.0",
+  "summary": "A local Image Dataset Generator using smart augmentations and MobileNetV2 filtering.",
+  "author": "Jayavardhan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datagenkit-0.1.0.tar.gz",
+  "download_time": "2026-03-10T17:32:09.550585",
+  "package_url": "https://pypi.org/project/Datagenkit/"
+}

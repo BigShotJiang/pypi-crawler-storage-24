@@ -1,0 +1,11 @@
+{
+  "name": "transform-graph",
+  "version": "0.1.2",
+  "summary": "Spatial transformations for robotics and computer vision.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "transform_graph-0.1.2.tar.gz",
+  "download_time": "2026-03-10T17:32:04.936261",
+  "package_url": "https://pypi.org/project/transform-graph/"
+}

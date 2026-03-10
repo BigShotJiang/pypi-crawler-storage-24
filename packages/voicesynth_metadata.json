@@ -1,11 +1,11 @@
 {
   "name": "voicesynth",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Package for realistic voice synthesis",
   "author": "ilyamiro",
   "license": null,
   "home_page": null,
-  "download_filename": "voicesynth-0.3.0.tar.gz",
-  "download_time": "2026-03-10T17:02:24.842792",
+  "download_filename": "voicesynth-0.3.2.tar.gz",
+  "download_time": "2026-03-10T17:31:53.484288",
   "package_url": "https://pypi.org/project/voicesynth/"
 }

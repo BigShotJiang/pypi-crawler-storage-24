@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-appstream-center20210901",
+  "version": "4.7.11",
+  "summary": "Alibaba Cloud appstream-center (20210901) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_appstream_center20210901-4.7.11.tar.gz",
+  "download_time": "2026-03-10T17:31:55.023257",
+  "package_url": "https://pypi.org/project/alibabacloud-appstream-center20210901/"
+}

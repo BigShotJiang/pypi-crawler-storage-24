@@ -1,0 +1,11 @@
+{
+  "name": "lightdash-mcp",
+  "version": "0.1.0",
+  "summary": "Model Context Protocol (MCP) server for Lightdash analytics platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightdash_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-10T17:32:10.063059",
+  "package_url": "https://pypi.org/project/lightdash-mcp/"
+}

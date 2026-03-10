@@ -1,0 +1,11 @@
+{
+  "name": "python-ydotool",
+  "version": "1.1.1",
+  "summary": "ydotool client implemented in Python",
+  "author": "Antares0982",
+  "license": null,
+  "home_page": "https://github.com/Antares0982/pydotool",
+  "download_filename": "python_ydotool-1.1.1.tar.gz",
+  "download_time": "2026-03-10T17:31:33.791859",
+  "package_url": "https://pypi.org/project/python-ydotool/"
+}

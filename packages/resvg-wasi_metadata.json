@@ -1,0 +1,11 @@
+{
+  "name": "resvg-wasi",
+  "version": "0.47.0.post1",
+  "summary": "PyPI WASM build of the resvg SVG renderer and normalizer",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "resvg_wasi-0.47.0.post1-py3-none-any.whl",
+  "download_time": "2026-03-10T17:31:33.278851",
+  "package_url": "https://pypi.org/project/resvg-wasi/"
+}

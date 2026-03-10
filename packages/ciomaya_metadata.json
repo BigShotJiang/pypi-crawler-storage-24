@@ -1,0 +1,11 @@
+{
+  "name": "ciomaya",
+  "version": "1.1.2",
+  "summary": "Maya plugin for Conductor Cloud Rendering Platform.",
+  "author": "conductor",
+  "license": null,
+  "home_page": "https://github.com/ConductorTechnologies/ciomaya",
+  "download_filename": "ciomaya-1.1.2-py2.py3-none-any.whl",
+  "download_time": "2026-03-10T17:32:05.450906",
+  "package_url": "https://pypi.org/project/ciomaya/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "benchmax",
+  "version": "0.1.2.dev17",
+  "summary": "Framework-Agnostic RL Environments for LLM Fine-Tuning",
+  "author": "cgft.io",
+  "license": null,
+  "home_page": null,
+  "download_filename": "benchmax-0.1.2.dev17.tar.gz",
+  "download_time": "2026-03-10T17:31:49.363245",
+  "package_url": "https://pypi.org/project/benchmax/"
+}

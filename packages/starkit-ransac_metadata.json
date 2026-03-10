@@ -1,0 +1,11 @@
+{
+  "name": "starkit-ransac",
+  "version": "0.1.0",
+  "summary": "A library for RANSAC with most common objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starkit_ransac-0.1.0.tar.gz",
+  "download_time": "2026-03-10T17:31:43.161489",
+  "package_url": "https://pypi.org/project/starkit-ransac/"
+}
