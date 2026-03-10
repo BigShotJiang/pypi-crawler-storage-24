@@ -1,11 +1,11 @@
 {
   "name": "unrealhub",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "UnrealMCPHub - Central management platform for Unreal Engine MCP instances",
   "author": "BlackPlume",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unrealhub-0.2.1.tar.gz",
-  "download_time": "2026-03-10T09:28:44.428990",
+  "download_filename": "unrealhub-0.2.2.tar.gz",
+  "download_time": "2026-03-10T10:08:01.571345",
   "package_url": "https://pypi.org/project/unrealhub/"
 }

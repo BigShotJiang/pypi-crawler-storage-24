@@ -1,15 +1,8 @@
 {
-  "download_time": "2026-03-10T09:28:56.389249",
-  "total_packages_downloaded": 93,
-  "total_size_mb": 37.11,
+  "download_time": "2026-03-10T10:08:18.503338",
+  "total_packages_downloaded": 92,
+  "total_size_mb": 4.88,
   "packages": [
-    "crowact",
-    "langwatch-scenario",
-    "mamba-ssm",
-    "introspection",
-    "zs2fast",
-    "runtimed",
-    "ethisyscore-plugin-sdk",
     "pyconcrete",
     "katso",
     "fleeks-sdk",
@@ -95,6 +88,12 @@
     "cv-forge-mcp",
     "gramforge",
     "python-cnb",
-    "prompt-inspector"
+    "prompt-inspector",
+    "apk-analyzer",
+    "source-organiser",
+    "aitypingstats",
+    "tbp-nightly",
+    "depanalyzer",
+    "deepfos"
   ]
 }
