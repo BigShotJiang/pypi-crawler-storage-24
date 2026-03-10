@@ -1,0 +1,11 @@
+{
+  "name": "meupia-core",
+  "version": "1.1.12",
+  "summary": "Compilador modular de Portugol para Python focado em educação.",
+  "author": "Henry Hamon",
+  "license": null,
+  "home_page": "https://github.com/meupia/core",
+  "download_filename": "meupia_core-1.1.12.tar.gz",
+  "download_time": "2026-03-10T01:25:50.195818",
+  "package_url": "https://pypi.org/project/meupia-core/"
+}

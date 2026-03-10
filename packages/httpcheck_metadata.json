@@ -1,0 +1,11 @@
+{
+  "name": "httpcheck",
+  "version": "1.4.3",
+  "summary": "HTTP status code checker with advanced features",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "httpcheck-1.4.3.tar.gz",
+  "download_time": "2026-03-10T01:25:59.589892",
+  "package_url": "https://pypi.org/project/httpcheck/"
+}

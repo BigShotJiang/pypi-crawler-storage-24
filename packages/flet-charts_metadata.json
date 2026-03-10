@@ -1,0 +1,11 @@
+{
+  "name": "flet-charts",
+  "version": "0.82.2",
+  "summary": "Interactive chart controls for Flet apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_charts-0.82.2.tar.gz",
+  "download_time": "2026-03-10T01:26:16.472701",
+  "package_url": "https://pypi.org/project/flet-charts/"
+}

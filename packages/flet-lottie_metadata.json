@@ -1,0 +1,11 @@
+{
+  "name": "flet-lottie",
+  "version": "0.82.2",
+  "summary": "Display Lottie animations in Flet apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_lottie-0.82.2.tar.gz",
+  "download_time": "2026-03-10T01:26:12.677557",
+  "package_url": "https://pypi.org/project/flet-lottie/"
+}

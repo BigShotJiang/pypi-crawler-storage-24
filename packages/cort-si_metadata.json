@@ -1,0 +1,11 @@
+{
+  "name": "cort-si",
+  "version": "0.0.3",
+  "summary": "Selective inference framework for Co-Regularization Transfer (CoRT)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cort_si-0.0.3.tar.gz",
+  "download_time": "2026-03-10T01:26:21.967388",
+  "package_url": "https://pypi.org/project/cort-si/"
+}

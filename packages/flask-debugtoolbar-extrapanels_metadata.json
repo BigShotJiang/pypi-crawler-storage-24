@@ -1,0 +1,11 @@
+{
+  "name": "flask-debugtoolbar-extrapanels",
+  "version": "0.1.0",
+  "summary": "A collection of extra panels from Flask-DebugToolbar",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_debugtoolbar_extrapanels-0.1.0.tar.gz",
+  "download_time": "2026-03-10T01:26:23.027876",
+  "package_url": "https://pypi.org/project/flask-debugtoolbar-extrapanels/"
+}

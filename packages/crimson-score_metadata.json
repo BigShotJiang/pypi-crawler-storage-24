@@ -1,0 +1,11 @@
+{
+  "name": "crimson-score",
+  "version": "0.1.0",
+  "summary": "CRIMSON: A Clinically-Grounded LLM-Based Metric for Generative Radiology Report Evaluation",
+  "author": "Mohammed Baharoon, Thibault Heintz, Siavash Raissi, Mahmoud Alabbad, Mona Alhammad, Hassan AlOmaish, Sung Eun Kim, Oishi Banerjee, Pranav Rajpurkar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crimson_score-0.1.0.tar.gz",
+  "download_time": "2026-03-10T01:25:45.663657",
+  "package_url": "https://pypi.org/project/crimson-score/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pulumiverse-buildkite",
+  "version": "3.2.0",
+  "summary": "A Pulumi package for creating and managing Buildkite resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumiverse_buildkite-3.2.0.tar.gz",
+  "download_time": "2026-03-10T01:26:05.038398",
+  "package_url": "https://pypi.org/project/pulumiverse-buildkite/"
+}

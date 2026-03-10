@@ -1,0 +1,11 @@
+{
+  "name": "agent-audit",
+  "version": "0.18.2",
+  "summary": "Static security analyzer for AI agents — prompt injection, tool input validation, MCP config auditing, secret detection. 53 rules mapped to OWASP Agentic Top 10.",
+  "author": "Agent Security Team",
+  "license": "MIT",
+  "home_page": "https://github.com/HeadyZhang/agent-audit",
+  "download_filename": "agent_audit-0.18.2.tar.gz",
+  "download_time": "2026-03-10T01:25:53.601887",
+  "package_url": "https://pypi.org/project/agent-audit/"
+}
