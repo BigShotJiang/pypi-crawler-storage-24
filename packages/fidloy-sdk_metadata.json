@@ -1,0 +1,11 @@
+{
+  "name": "fidloy-sdk",
+  "version": "0.1.3",
+  "summary": "Official Python SDK for the Fidloy API",
+  "author": "Fidloy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fidloy_sdk-0.1.3.tar.gz",
+  "download_time": "2026-03-10T23:50:33.619718",
+  "package_url": "https://pypi.org/project/fidloy-sdk/"
+}

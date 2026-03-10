@@ -1,0 +1,11 @@
+{
+  "name": "ralph-code",
+  "version": "0.6.3",
+  "summary": "Automated task implementation with Claude Code and Codex",
+  "author": "Ralph Coding",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ralph_code-0.6.3.tar.gz",
+  "download_time": "2026-03-10T23:50:31.515621",
+  "package_url": "https://pypi.org/project/ralph-code/"
+}

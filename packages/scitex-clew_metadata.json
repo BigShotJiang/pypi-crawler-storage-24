@@ -1,11 +1,11 @@
 {
   "name": "scitex-clew",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Hash-based reproducibility verification for scientific pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scitex_clew-0.1.2.tar.gz",
-  "download_time": "2026-03-10T23:23:39.193187",
+  "download_filename": "scitex_clew-0.1.4.tar.gz",
+  "download_time": "2026-03-10T23:50:59.110391",
   "package_url": "https://pypi.org/project/scitex-clew/"
 }

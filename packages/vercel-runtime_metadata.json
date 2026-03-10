@@ -1,11 +1,11 @@
 {
   "name": "vercel-runtime",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vercel_runtime-0.6.0.tar.gz",
-  "download_time": "2026-03-09T19:44:52.791475",
+  "download_filename": "vercel_runtime-0.7.0.tar.gz",
+  "download_time": "2026-03-10T23:50:50.306600",
   "package_url": "https://pypi.org/project/vercel-runtime/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "trio-core",
-  "version": "0.4.1",
+  "version": "0.8.3",
   "summary": "Local VLM inference engine for video — Apple Silicon, NVIDIA, and CPU",
   "author": "Trio Team",
   "license": null,
   "home_page": null,
-  "download_filename": "trio_core-0.4.1.tar.gz",
-  "download_time": "2026-03-08T18:26:47.661658",
+  "download_filename": "trio_core-0.8.3-py3-none-any.whl",
+  "download_time": "2026-03-10T23:50:57.558675",
   "package_url": "https://pypi.org/project/trio-core/"
 }

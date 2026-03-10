@@ -1,11 +1,11 @@
 {
   "name": "GitlabParser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Gitlab Parser",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitlabparser-1.0.1-py3-none-any.whl",
-  "download_time": "2026-03-10T23:23:15.503717",
+  "download_filename": "gitlabparser-1.0.2.tar.gz",
+  "download_time": "2026-03-10T23:51:09.520539",
   "package_url": "https://pypi.org/project/GitlabParser/"
 }

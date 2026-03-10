@@ -1,11 +1,11 @@
 {
   "name": "aipaygen-mcp",
-  "version": "1.7.0",
-  "summary": "148 AI tools for Claude, Cursor, and any MCP-compatible agent — research, write, code, review, think, scrape, translate, agent builder, agent network, API catalog, utility APIs, and more",
+  "version": "1.7.1",
+  "summary": "155 AI tools for Claude, Cursor, and any MCP-compatible agent — research, write, code, review, think, scrape, translate, agent builder, agent network, API catalog, utility APIs, and more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aipaygen_mcp-1.7.0.tar.gz",
-  "download_time": "2026-03-10T19:09:29.347978",
+  "download_filename": "aipaygen_mcp-1.7.1.tar.gz",
+  "download_time": "2026-03-10T23:50:58.072137",
   "package_url": "https://pypi.org/project/aipaygen-mcp/"
 }

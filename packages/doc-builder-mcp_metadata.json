@@ -1,11 +1,11 @@
 {
   "name": "doc-builder-mcp",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "MCP Server for intelligent documentation scraping, vectorization, and semantic search with dynamic ontology extraction",
   "author": "NeuralCode Team",
   "license": null,
   "home_page": null,
-  "download_filename": "doc_builder_mcp-0.1.1.tar.gz",
-  "download_time": "2026-03-10T17:31:49.876623",
+  "download_filename": "doc_builder_mcp-0.1.4.tar.gz",
+  "download_time": "2026-03-10T23:50:46.625410",
   "package_url": "https://pypi.org/project/doc-builder-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "30.1.9",
+  "version": "30.1.12",
   "summary": "Memory-efficient optimizer for full-parameter LLM training.",
   "author": "Clouthier Simulation Labs",
   "license": "Free during beta. See quarterbit.dev for terms.",
   "home_page": "https://quarterbit.dev",
-  "download_filename": "quarterbit-30.1.9-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-03-10T19:10:28.635262",
+  "download_filename": "quarterbit-30.1.12-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-03-10T23:50:32.038062",
   "package_url": "https://pypi.org/project/quarterbit/"
 }

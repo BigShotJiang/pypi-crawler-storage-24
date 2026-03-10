@@ -1,0 +1,11 @@
+{
+  "name": "problem-bank-scripts",
+  "version": "1.0.3",
+  "summary": "A package with useful functions to convert between different problem bank formats.",
+  "author": "Open Problem Bank Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "problem_bank_scripts-1.0.3.tar.gz",
+  "download_time": "2026-03-10T23:51:07.961912",
+  "package_url": "https://pypi.org/project/problem-bank-scripts/"
+}

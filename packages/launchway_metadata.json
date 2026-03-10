@@ -1,11 +1,11 @@
 {
   "name": "launchway",
-  "version": "0.2.29",
+  "version": "0.2.33",
   "summary": "AI-powered job application automation — tailor resumes, find jobs, apply autonomously.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "launchway-0.2.29.tar.gz",
-  "download_time": "2026-03-10T03:40:35.916092",
+  "download_filename": "launchway-0.2.33.tar.gz",
+  "download_time": "2026-03-10T23:50:39.864441",
   "package_url": "https://pypi.org/project/launchway/"
 }

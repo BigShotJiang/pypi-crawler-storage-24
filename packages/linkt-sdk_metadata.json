@@ -1,0 +1,11 @@
+{
+  "name": "linkt-sdk",
+  "version": "0.8.0",
+  "summary": "The official Python library for the linkt API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "linkt_sdk-0.8.0.tar.gz",
+  "download_time": "2026-03-10T23:51:04.325986",
+  "package_url": "https://pypi.org/project/linkt-sdk/"
+}
