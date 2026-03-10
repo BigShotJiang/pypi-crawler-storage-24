@@ -1,11 +1,11 @@
 {
   "name": "pori",
-  "version": "1.1",
+  "version": "1.2",
   "summary": "A simple, extensible AI agent framework with tool integration and memory",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pori-1.1.tar.gz",
-  "download_time": "2026-03-10T08:35:51.756008",
+  "download_filename": "pori-1.2.tar.gz",
+  "download_time": "2026-03-10T11:01:39.219963",
   "package_url": "https://pypi.org/project/pori/"
 }

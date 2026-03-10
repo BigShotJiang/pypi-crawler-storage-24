@@ -1,0 +1,11 @@
+{
+  "name": "bioconvert",
+  "version": "1.2.0",
+  "summary": "convert between bioinformatics formats",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "bioconvert-1.2.0.tar.gz",
+  "download_time": "2026-03-10T11:01:36.873342",
+  "package_url": "https://pypi.org/project/bioconvert/"
+}

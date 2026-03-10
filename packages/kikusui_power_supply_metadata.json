@@ -1,11 +1,11 @@
 {
   "name": "kikusui_power_supply",
-  "version": "0.19.1",
+  "version": "0.19.2",
   "summary": "KIKUSUI PMX power supplies",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "kikusui_power_supply-0.19.1.tar.gz",
-  "download_time": "2026-03-09T18:02:32.781665",
+  "download_filename": "kikusui_power_supply-0.19.2.tar.gz",
+  "download_time": "2026-03-10T11:02:03.833395",
   "package_url": "https://pypi.org/project/kikusui_power_supply/"
 }

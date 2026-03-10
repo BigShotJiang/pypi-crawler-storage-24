@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-merge-notebook-tab",
+  "version": "16.0.1.0.0.2",
+  "summary": "Merge many tabs into a single one, for notebook present in form views of any models",
+  "author": "GRAP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_merge_notebook_tab-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-10T11:01:57.856334",
+  "package_url": "https://pypi.org/project/odoo-addon-web-merge-notebook-tab/"
+}

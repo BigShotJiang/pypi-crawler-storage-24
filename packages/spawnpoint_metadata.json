@@ -1,0 +1,11 @@
+{
+  "name": "spawnpoint",
+  "version": "0.4.0",
+  "summary": "Spawn multi-repo worktree workspaces for feature development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spawnpoint-0.4.0.tar.gz",
+  "download_time": "2026-03-10T11:01:33.954048",
+  "package_url": "https://pypi.org/project/spawnpoint/"
+}

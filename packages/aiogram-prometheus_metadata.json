@@ -1,0 +1,11 @@
+{
+  "name": "aiogram-prometheus",
+  "version": "0.3.1",
+  "summary": "Aiogram Based Metrics Collection for Prometheus",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiogram_prometheus-0.3.1.tar.gz",
+  "download_time": "2026-03-10T11:02:11.990832",
+  "package_url": "https://pypi.org/project/aiogram-prometheus/"
+}

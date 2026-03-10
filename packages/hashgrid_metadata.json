@@ -1,0 +1,11 @@
+{
+  "name": "hashgrid",
+  "version": "0.7.0",
+  "summary": "Hashgrid Client - Python SDK",
+  "author": "Hashgrid",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hashgrid-0.7.0.tar.gz",
+  "download_time": "2026-03-10T11:01:24.007645",
+  "package_url": "https://pypi.org/project/hashgrid/"
+}

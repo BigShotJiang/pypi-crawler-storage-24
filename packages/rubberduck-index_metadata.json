@@ -1,0 +1,11 @@
+{
+  "name": "rubberduck-index",
+  "version": "1.0.0",
+  "summary": "Local project indexer for RubberDuck Semantic Intelligence MCP",
+  "author": "RubberDuck Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rubberduck_index-1.0.0.tar.gz",
+  "download_time": "2026-03-10T11:01:47.410391",
+  "package_url": "https://pypi.org/project/rubberduck-index/"
+}
