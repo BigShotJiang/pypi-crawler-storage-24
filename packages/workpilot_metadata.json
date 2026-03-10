@@ -1,11 +1,11 @@
 {
   "name": "workpilot",
-  "version": "0.5.7",
+  "version": "0.6.2",
   "summary": "Enterprise AI assistant with Microsoft ecosystem integration — safe, lightweight, multi-channel",
   "author": "WorkPilot Team",
   "license": null,
   "home_page": null,
-  "download_filename": "workpilot-0.5.7.tar.gz",
-  "download_time": "2026-03-09T10:07:34.335244",
+  "download_filename": "workpilot-0.6.2.tar.gz",
+  "download_time": "2026-03-10T08:36:05.758740",
   "package_url": "https://pypi.org/project/workpilot/"
 }

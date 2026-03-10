@@ -1,0 +1,11 @@
+{
+  "name": "synthed",
+  "version": "0.1.0",
+  "summary": "Privacy-first synthetic data blueprint generator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synthed-0.1.0.tar.gz",
+  "download_time": "2026-03-10T08:35:57.124049",
+  "package_url": "https://pypi.org/project/synthed/"
+}

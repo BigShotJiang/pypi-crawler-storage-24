@@ -1,0 +1,11 @@
+{
+  "name": "symbio-openpaw",
+  "version": "0.0.6.post2",
+  "summary": "OpenPaw is a **personal assistant** that runs in your own environment. It talks to you over multiple channels (DingTalk, Feishu, QQ, Discord, iMessage, etc.) and runs scheduled tasks according to your configuration. **What it can do is driven by Skills — the possibilities are open-ended.** Built-in skills include cron, news digest, file reading, and more; you can add custom skills. All data and tasks run on your machine; no third-party hosting. Derived from CoPaw (Apache 2.0).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "symbio_openpaw-0.0.6.post2.tar.gz",
+  "download_time": "2026-03-10T08:35:48.466693",
+  "package_url": "https://pypi.org/project/symbio-openpaw/"
+}

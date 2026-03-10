@@ -1,11 +1,11 @@
 {
   "name": "source-organiser",
-  "version": "0.0.1",
+  "version": "0.0.1.2",
   "summary": "A user-friendly CLI file manager for developers with more human-readable commands.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "source_organiser-0.0.1.tar.gz",
-  "download_time": "2026-03-09T09:02:52.709066",
+  "download_filename": "source_organiser-0.0.1.2.tar.gz",
+  "download_time": "2026-03-10T08:35:35.341233",
   "package_url": "https://pypi.org/project/source-organiser/"
 }

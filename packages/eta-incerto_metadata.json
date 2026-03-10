@@ -1,0 +1,11 @@
+{
+  "name": "eta-incerto",
+  "version": "1.0.4",
+  "summary": "Library for modeling investment decisions under uncertainty",
+  "author": "Technical University of Darmstadt, Institute for Production Management, Technology and Machine Tools (PTW)",
+  "license": "BSD-2-Clause License",
+  "home_page": "https://www.ptw.tu-darmstadt.de",
+  "download_filename": "eta_incerto-1.0.4.tar.gz",
+  "download_time": "2026-03-10T08:36:00.352350",
+  "package_url": "https://pypi.org/project/eta-incerto/"
+}

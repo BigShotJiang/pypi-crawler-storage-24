@@ -1,0 +1,11 @@
+{
+  "name": "web-research-agent",
+  "version": "2.0.5",
+  "summary": "An AI agent using ReAct methodology for autonomous web research tasks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "web_research_agent-2.0.5.tar.gz",
+  "download_time": "2026-03-10T08:35:40.384721",
+  "package_url": "https://pypi.org/project/web-research-agent/"
+}

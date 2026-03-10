@@ -1,11 +1,11 @@
 {
   "name": "tgcore",
-  "version": "1.0.48",
-  "summary": "TGCoreSDK | Enterprise Telegram Bot API Framework.",
+  "version": "1.0.51",
+  "summary": "TGCoreSDK | Enterprise Telegram SDK framework with fluent builder API, platform tools, and AI integrations.",
   "author": "TeamKillerX",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tgcore-1.0.48.tar.gz",
-  "download_time": "2026-03-10T07:00:58.122073",
+  "download_filename": "tgcore-1.0.51.tar.gz",
+  "download_time": "2026-03-10T08:36:19.703937",
   "package_url": "https://pypi.org/project/tgcore/"
 }

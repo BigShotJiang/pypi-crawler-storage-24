@@ -1,0 +1,11 @@
+{
+  "name": "mcp-netnam-odoo",
+  "version": "0.1.0",
+  "summary": "MCP server for querying Odoo ERP with smart aggregation for AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_netnam_odoo-0.1.0.tar.gz",
+  "download_time": "2026-03-10T08:35:33.551853",
+  "package_url": "https://pypi.org/project/mcp-netnam-odoo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "quvis",
-  "version": "0.36.0",
+  "version": "0.37.0",
   "summary": "Quvis - Quantum Circuit Visualization System",
   "author": "Alejandro Gonzalvo Hidalgo",
   "license": null,
   "home_page": null,
-  "download_filename": "quvis-0.36.0.tar.gz",
-  "download_time": "2026-03-09T11:04:29.962575",
+  "download_filename": "quvis-0.37.0.tar.gz",
+  "download_time": "2026-03-10T08:36:07.909851",
   "package_url": "https://pypi.org/project/quvis/"
 }

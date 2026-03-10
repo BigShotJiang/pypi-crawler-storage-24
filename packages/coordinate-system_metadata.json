@@ -1,0 +1,11 @@
+{
+  "name": "coordinate-system",
+  "version": "8.2.0",
+  "summary": "High-performance 3D coordinate system library with unified differential geometry, frame algebra, and topological-physics application APIs (friction, velocity-decay, non-Newtonian viscosity, sunspot cycle, geomagnetic reversal)",
+  "author": "Pan Guojun",
+  "license": "MIT",
+  "home_page": "https://github.com/panguojun/Coordinate-System",
+  "download_filename": "coordinate_system-8.2.0.tar.gz",
+  "download_time": "2026-03-10T08:35:54.448933",
+  "package_url": "https://pypi.org/project/coordinate-system/"
+}
