@@ -1,0 +1,11 @@
+{
+  "name": "zoty",
+  "version": "0.1.3",
+  "summary": "Lightweight Zotero MCP server for AI agent interaction",
+  "author": "Eric Tramel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zoty-0.1.3.tar.gz",
+  "download_time": "2026-03-10T15:35:37.587798",
+  "package_url": "https://pypi.org/project/zoty/"
+}

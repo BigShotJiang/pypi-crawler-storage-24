@@ -1,0 +1,11 @@
+{
+  "name": "marisa-trie",
+  "version": "1.4.0",
+  "summary": "Static memory-efficient and fast Trie-like structures for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marisa_trie-1.4.0.tar.gz",
+  "download_time": "2026-03-10T15:35:37.047151",
+  "package_url": "https://pypi.org/project/marisa-trie/"
+}

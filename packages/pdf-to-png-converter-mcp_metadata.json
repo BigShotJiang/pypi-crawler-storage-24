@@ -1,0 +1,11 @@
+{
+  "name": "pdf-to-png-converter-mcp",
+  "version": "0.3.0",
+  "summary": "MCP server for converting PDF files to PNG images with paper download capabilities",
+  "author": "LostSunset",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf_to_png_converter_mcp-0.3.0.tar.gz",
+  "download_time": "2026-03-10T15:35:23.337570",
+  "package_url": "https://pypi.org/project/pdf-to-png-converter-mcp/"
+}

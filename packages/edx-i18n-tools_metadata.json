@@ -1,0 +1,11 @@
+{
+  "name": "edx-i18n-tools",
+  "version": "2.0.0",
+  "summary": "edX Internationalization Tools",
+  "author": "edX",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/openedx/i18n-tools",
+  "download_filename": "edx_i18n_tools-2.0.0.tar.gz",
+  "download_time": "2026-03-10T15:35:12.315892",
+  "package_url": "https://pypi.org/project/edx-i18n-tools/"
+}

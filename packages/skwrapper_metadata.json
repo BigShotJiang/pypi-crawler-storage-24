@@ -1,0 +1,11 @@
+{
+  "name": "skwrapper",
+  "version": "0.1.0",
+  "summary": "This package helps the Data Scientist to train there model on dataset with different models without copy pasting the code again and again, this package is a Sklearn wrapper which does performs the model training. this saves time of developer and it also helps with detail metrics and for quick scan which model best fits for dataset",
+  "author": "Anuj Rajesh Tiwari",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skwrapper-0.1.0.tar.gz",
+  "download_time": "2026-03-10T15:34:50.693068",
+  "package_url": "https://pypi.org/project/skwrapper/"
+}

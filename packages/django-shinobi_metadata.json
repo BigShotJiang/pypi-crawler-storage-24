@@ -1,11 +1,11 @@
 {
   "name": "django-shinobi",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "Django Shinobi - Fast Django REST framework",
   "author": "Peter DeVita",
   "license": null,
   "home_page": "https://pmdevita.github.io/django-shinobi",
-  "download_filename": "django_shinobi-1.4.1.tar.gz",
-  "download_time": "2026-03-07T22:18:46.703741",
+  "download_filename": "django_shinobi-1.4.2.tar.gz",
+  "download_time": "2026-03-10T15:35:23.898470",
   "package_url": "https://pypi.org/project/django-shinobi/"
 }

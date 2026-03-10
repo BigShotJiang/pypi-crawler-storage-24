@@ -1,0 +1,11 @@
+{
+  "name": "dewey-service",
+  "version": "0.1.3",
+  "summary": "LSMC Dewey canonical artifact registry service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dewey_service-0.1.3.tar.gz",
+  "download_time": "2026-03-10T15:34:57.039630",
+  "package_url": "https://pypi.org/project/dewey-service/"
+}

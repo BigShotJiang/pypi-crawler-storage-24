@@ -1,0 +1,11 @@
+{
+  "name": "telegram-escape",
+  "version": "0.2.0",
+  "summary": "Escape text for Telegram's MarkdownV2 formatting",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/utterstep/telegram-escape",
+  "download_filename": "telegram_escape-0.2.0.tar.gz",
+  "download_time": "2026-03-10T15:35:08.540951",
+  "package_url": "https://pypi.org/project/telegram-escape/"
+}

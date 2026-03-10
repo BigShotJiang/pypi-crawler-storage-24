@@ -1,0 +1,11 @@
+{
+  "name": "kidney-hfm-eval",
+  "version": "0.1.23",
+  "summary": "Evaluation framework for histopathology foundation models (HFMs) in kidney pathology",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kidney_hfm_eval-0.1.23.tar.gz",
+  "download_time": "2026-03-10T15:35:38.125315",
+  "package_url": "https://pypi.org/project/kidney-hfm-eval/"
+}

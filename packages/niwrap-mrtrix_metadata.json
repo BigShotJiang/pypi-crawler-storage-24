@@ -1,0 +1,11 @@
+{
+  "name": "niwrap-mrtrix",
+  "version": "0.9.2",
+  "summary": "Neuroimaging wrappers.",
+  "author": "CMI DAIR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "niwrap_mrtrix-0.9.2.tar.gz",
+  "download_time": "2026-03-10T15:35:26.683580",
+  "package_url": "https://pypi.org/project/niwrap-mrtrix/"
+}

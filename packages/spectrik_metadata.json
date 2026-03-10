@@ -1,0 +1,11 @@
+{
+  "name": "spectrik",
+  "version": "0.5.0",
+  "summary": "A specification and blueprint manager for declarative configuration-as-code tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectrik-0.5.0.tar.gz",
+  "download_time": "2026-03-10T15:34:48.436915",
+  "package_url": "https://pypi.org/project/spectrik/"
+}

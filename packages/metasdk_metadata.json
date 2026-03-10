@@ -1,0 +1,11 @@
+{
+  "name": "metasdk",
+  "version": "1.11.7",
+  "summary": "Devision Meta SDK",
+  "author": "Artur Geraschenko",
+  "license": "MIT",
+  "home_page": "https://github.com/devision-io/metasdk",
+  "download_filename": "metasdk-1.11.7.tar.gz",
+  "download_time": "2026-03-10T15:35:20.643224",
+  "package_url": "https://pypi.org/project/metasdk/"
+}

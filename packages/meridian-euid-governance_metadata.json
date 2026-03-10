@@ -1,0 +1,11 @@
+{
+  "name": "meridian-euid-governance",
+  "version": "0.1.2",
+  "summary": "Enterprise governance profiles for Meridian EUID category assignment and issuing authority discovery.",
+  "author": "Meridian contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meridian_euid_governance-0.1.2.tar.gz",
+  "download_time": "2026-03-10T15:34:55.362521",
+  "package_url": "https://pypi.org/project/meridian-euid-governance/"
+}

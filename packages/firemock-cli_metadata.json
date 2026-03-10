@@ -1,0 +1,11 @@
+{
+  "name": "firemock-cli",
+  "version": "0.52.1",
+  "summary": "Minimal HTTP mock CLI tool (testing)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "firemock_cli-0.52.1-py3-none-any.whl",
+  "download_time": "2026-03-10T15:35:11.778811",
+  "package_url": "https://pypi.org/project/firemock-cli/"
+}

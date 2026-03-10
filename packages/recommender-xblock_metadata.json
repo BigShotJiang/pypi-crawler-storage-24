@@ -1,0 +1,11 @@
+{
+  "name": "recommender-xblock",
+  "version": "5.0.0",
+  "summary": "recommender XBlock",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/RecommenderXBlock",
+  "download_filename": "recommender_xblock-5.0.0.tar.gz",
+  "download_time": "2026-03-10T15:35:06.865733",
+  "package_url": "https://pypi.org/project/recommender-xblock/"
+}
