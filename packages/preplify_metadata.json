@@ -1,11 +1,11 @@
 {
   "name": "preplify",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Modular, professional Python library for tabular data preprocessing with auto ML-ready pipelines.",
   "author": "Muhammad Hussnain",
   "license": null,
   "home_page": "https://github.com/yourusername/preplify",
-  "download_filename": "preplify-1.0.0.tar.gz",
-  "download_time": "2026-03-10T06:01:15.755969",
+  "download_filename": "preplify-1.0.2.tar.gz",
+  "download_time": "2026-03-10T07:47:31.283052",
   "package_url": "https://pypi.org/project/preplify/"
 }

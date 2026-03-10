@@ -1,11 +1,11 @@
 {
   "name": "fabrikate",
-  "version": "0.2.1",
-  "summary": "Generate contextually coherent mock data — people, companies, and transactions that actually make sense together.",
+  "version": "0.4.1",
+  "summary": "Generate contextually coherent mock data — people, companies, products, and transactions that actually make sense together. 11 locales, 1,000 names per locale, 25+ fields per person, realistic distributions, zero dependencies.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabrikate-0.2.1.tar.gz",
-  "download_time": "2026-03-09T08:08:46.687450",
+  "download_filename": "fabrikate-0.4.1.tar.gz",
+  "download_time": "2026-03-10T07:47:27.484620",
   "package_url": "https://pypi.org/project/fabrikate/"
 }

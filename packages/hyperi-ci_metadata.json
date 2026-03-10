@@ -1,11 +1,11 @@
 {
   "name": "hyperi-ci",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "summary": "HyperI CI/CD CLI tool — multi-language build, test, and publish automation",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "hyperi_ci-1.0.47.tar.gz",
-  "download_time": "2026-03-10T07:00:51.129891",
+  "download_filename": "hyperi_ci-1.0.48.tar.gz",
+  "download_time": "2026-03-10T07:47:28.547105",
   "package_url": "https://pypi.org/project/hyperi-ci/"
 }

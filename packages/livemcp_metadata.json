@@ -1,11 +1,11 @@
 {
   "name": "livemcp",
-  "version": "1.2.0",
+  "version": "1.2.4",
   "summary": "The definitive Model Context Protocol bridge for Ableton Live",
   "author": "Ala Arab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "livemcp-1.2.0.tar.gz",
-  "download_time": "2026-03-10T07:00:51.665335",
+  "download_filename": "livemcp-1.2.4.tar.gz",
+  "download_time": "2026-03-10T07:47:00.236873",
   "package_url": "https://pypi.org/project/livemcp/"
 }

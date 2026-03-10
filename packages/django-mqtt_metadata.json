@@ -1,0 +1,11 @@
+{
+  "name": "django-mqtt",
+  "version": "0.6.0",
+  "summary": null,
+  "author": "Paul Traylor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_mqtt-0.6.0.tar.gz",
+  "download_time": "2026-03-10T07:47:32.366562",
+  "package_url": "https://pypi.org/project/django-mqtt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "untoken",
+  "version": "0.2.1",
+  "summary": "Token compression for LLM prompts",
+  "author": "Adib Mohsin",
+  "license": "MIT",
+  "home_page": "https://github.com/pacifio/untoken",
+  "download_filename": "untoken-0.2.1.tar.gz",
+  "download_time": "2026-03-10T07:47:11.134430",
+  "package_url": "https://pypi.org/project/untoken/"
+}

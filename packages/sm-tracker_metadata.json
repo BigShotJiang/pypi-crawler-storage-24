@@ -1,0 +1,11 @@
+{
+  "name": "sm-tracker",
+  "version": "0.1.1",
+  "summary": "CLI to track social media follower/following counts.",
+  "author": "Flying Nobita",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sm_tracker-0.1.1.tar.gz",
+  "download_time": "2026-03-10T07:46:59.081202",
+  "package_url": "https://pypi.org/project/sm-tracker/"
+}
