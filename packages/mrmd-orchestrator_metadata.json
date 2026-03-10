@@ -1,0 +1,11 @@
+{
+  "name": "mrmd-orchestrator",
+  "version": "0.2.0",
+  "summary": "Orchestrator for mrmd services - starts sync, monitors, and runtimes",
+  "author": "Maxime",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mrmd_orchestrator-0.2.0.tar.gz",
+  "download_time": "2026-03-10T12:02:33.047077",
+  "package_url": "https://pypi.org/project/mrmd-orchestrator/"
+}

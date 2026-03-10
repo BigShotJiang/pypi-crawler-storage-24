@@ -1,0 +1,11 @@
+{
+  "name": "babeldoc-jobpack",
+  "version": "0.1.0",
+  "summary": "Job package export/apply workflow for BabelDOC",
+  "author": "pixelsama",
+  "license": null,
+  "home_page": null,
+  "download_filename": "babeldoc_jobpack-0.1.0.tar.gz",
+  "download_time": "2026-03-10T12:02:43.399067",
+  "package_url": "https://pypi.org/project/babeldoc-jobpack/"
+}

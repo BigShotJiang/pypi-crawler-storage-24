@@ -1,0 +1,11 @@
+{
+  "name": "luffa-bot-python-sdk",
+  "version": "0.1.2",
+  "summary": "Async Python SDK for building bots on the Luffa messaging platform",
+  "author": "Niraj Kulkarni (Sabma Labs, University of Surrey)",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/sabma-labs/luffa-bot-python-sdk",
+  "download_filename": "luffa_bot_python_sdk-0.1.2.tar.gz",
+  "download_time": "2026-03-10T12:02:39.344655",
+  "package_url": "https://pypi.org/project/luffa-bot-python-sdk/"
+}

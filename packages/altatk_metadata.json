@@ -1,0 +1,11 @@
+{
+  "name": "altatk",
+  "version": "3.0.0",
+  "summary": "ALTA tokenizer for encoding and decoding Kinyarwanda language text",
+  "author": "Yali Labs",
+  "license": "MIT",
+  "home_page": "https://github.com/Nschadrack/Kin-Tokenizer",
+  "download_filename": "altatk-3.0.0.tar.gz",
+  "download_time": "2026-03-10T12:02:42.870420",
+  "package_url": "https://pypi.org/project/altatk/"
+}

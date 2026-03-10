@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-global-discount",
+  "version": "19.0.1.0.0.2",
+  "summary": "Account Global Discount",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_global_discount-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-10T12:02:28.743282",
+  "package_url": "https://pypi.org/project/odoo-addon-account-global-discount/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "crunch-node",
-  "version": "0.1.96",
+  "version": "0.1.98",
   "summary": "Runtime engine for Crunch nodes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crunch_node-0.1.96.tar.gz",
-  "download_time": "2026-03-10T11:41:13.297853",
+  "download_filename": "crunch_node-0.1.98.tar.gz",
+  "download_time": "2026-03-10T12:02:52.344206",
   "package_url": "https://pypi.org/project/crunch-node/"
 }

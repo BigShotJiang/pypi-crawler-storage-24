@@ -1,11 +1,11 @@
 {
   "name": "graph-crawler",
-  "version": "4.0.26",
+  "version": "4.0.27",
   "summary": "Sync-First бібліотека для побудови графу веб-сайтів - просто як requests!",
   "author": "0-EternalJunior-0",
   "license": null,
   "home_page": null,
-  "download_filename": "graph_crawler-4.0.26.tar.gz",
-  "download_time": "2026-03-09T17:11:03.398662",
+  "download_filename": "graph_crawler-4.0.27.tar.gz",
+  "download_time": "2026-03-10T12:02:37.698004",
   "package_url": "https://pypi.org/project/graph-crawler/"
 }

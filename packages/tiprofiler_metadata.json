@@ -1,0 +1,11 @@
+{
+  "name": "tiprofiler",
+  "version": "1.0.0",
+  "summary": "A PyTorch training profiler with support for CUDA, NVTX, NCCL and COS upload",
+  "author": "TI Profiler Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiprofiler-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-10T12:02:23.876195",
+  "package_url": "https://pypi.org/project/tiprofiler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "exasol-saas-api",
+  "version": "2.9.0",
+  "summary": "API enabling Python applications connecting to Exasol database SaaS instances and using their SaaS services",
+  "author": "Christoph Kuhnke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exasol_saas_api-2.9.0.tar.gz",
+  "download_time": "2026-03-10T12:02:18.403120",
+  "package_url": "https://pypi.org/project/exasol-saas-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mrmd-pty",
+  "version": "0.2.0",
+  "summary": "PTY WebSocket server for terminal blocks in MRMD",
+  "author": "MRMD Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mrmd_pty-0.2.0.tar.gz",
+  "download_time": "2026-03-10T12:02:33.593647",
+  "package_url": "https://pypi.org/project/mrmd-pty/"
+}

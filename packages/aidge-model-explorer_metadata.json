@@ -1,11 +1,11 @@
 {
   "name": "aidge-model-explorer",
-  "version": "0.9.1",
+  "version": "0.9.1.post2",
   "summary": "Aidge module for model explorer: https://github.com/google-ai-edge/model-explorer.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aidge_model_explorer-0.9.1-py3-none-any.whl",
-  "download_time": "2026-03-09T11:04:11.940579",
+  "download_filename": "aidge_model_explorer-0.9.1.post2-py3-none-any.whl",
+  "download_time": "2026-03-10T12:02:46.201264",
   "package_url": "https://pypi.org/project/aidge-model-explorer/"
 }

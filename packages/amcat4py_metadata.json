@@ -1,0 +1,11 @@
+{
+  "name": "amcat4py",
+  "version": "4.2.1",
+  "summary": "Python client for AmCAT4 API",
+  "author": "Johannes B. Gruber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amcat4py-4.2.1.tar.gz",
+  "download_time": "2026-03-10T12:02:10.503171",
+  "package_url": "https://pypi.org/project/amcat4py/"
+}
