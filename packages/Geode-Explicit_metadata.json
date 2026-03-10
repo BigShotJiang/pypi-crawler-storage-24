@@ -1,0 +1,11 @@
+{
+  "name": "Geode-Explicit",
+  "version": "6.7.8",
+  "summary": "Geode-solutions OpenGeode module for building explicit models",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "geode_explicit-6.7.8-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-10T19:10:20.080871",
+  "package_url": "https://pypi.org/project/Geode-Explicit/"
+}

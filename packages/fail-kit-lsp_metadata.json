@@ -1,0 +1,11 @@
+{
+  "name": "fail-kit-lsp",
+  "version": "2.0.1",
+  "summary": "F.A.I.L. Kit Language Server for Python - Forensic analysis for LangChain, CrewAI, and AutoGen",
+  "author": "F.A.I.L. Kit Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fail_kit_lsp-2.0.1.tar.gz",
+  "download_time": "2026-03-10T19:10:06.697915",
+  "package_url": "https://pypi.org/project/fail-kit-lsp/"
+}

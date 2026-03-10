@@ -1,11 +1,11 @@
 {
   "name": "aiotrade-sdk",
-  "version": "0.14.1",
+  "version": "0.16.3",
   "summary": "High-performance async trading API client for Python supporting BingX and Bybit exchanges with intelligent session and cache management",
   "author": "Daniil Pavlovich",
   "license": null,
   "home_page": null,
-  "download_filename": "aiotrade_sdk-0.14.1.tar.gz",
-  "download_time": "2026-03-07T15:44:32.549559",
+  "download_filename": "aiotrade_sdk-0.16.3.tar.gz",
+  "download_time": "2026-03-10T19:09:47.803722",
   "package_url": "https://pypi.org/project/aiotrade-sdk/"
 }

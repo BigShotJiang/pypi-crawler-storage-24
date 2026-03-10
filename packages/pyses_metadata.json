@@ -1,0 +1,11 @@
+{
+  "name": "pyses",
+  "version": "0.0.3",
+  "summary": "A highly readable, well documented, well tested set of atmospheric dynamical cores with support for variable resolution meshes, as well as automatic differentiation for machine learning and data assimilation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyses-0.0.3.tar.gz",
+  "download_time": "2026-03-10T19:10:12.674264",
+  "package_url": "https://pypi.org/project/pyses/"
+}

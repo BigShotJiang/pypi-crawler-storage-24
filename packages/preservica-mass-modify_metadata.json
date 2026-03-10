@@ -1,0 +1,11 @@
+{
+  "name": "preservica-mass-modify",
+  "version": "1.1.1",
+  "summary": "A Tool for enabling Mass modifications of Folders and Assets on Preservica through Spreadsheets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "preservica_mass_modify-1.1.1.tar.gz",
+  "download_time": "2026-03-10T19:10:33.038092",
+  "package_url": "https://pypi.org/project/preservica-mass-modify/"
+}
