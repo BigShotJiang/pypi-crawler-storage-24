@@ -1,0 +1,11 @@
+{
+  "name": "sleigh-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for Sleigh runtime server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sleigh_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-10T05:03:44.575212",
+  "package_url": "https://pypi.org/project/sleigh-sdk/"
+}

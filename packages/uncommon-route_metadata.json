@@ -1,11 +1,11 @@
 {
   "name": "uncommon-route",
-  "version": "0.2.3",
+  "version": "0.2.6",
   "summary": "Local LLM router that cuts premium-model spend with 4-tier routing, OpenAI + Anthropic compatible",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uncommon_route-0.2.3.tar.gz",
-  "download_time": "2026-03-08T05:14:55.934475",
+  "download_filename": "uncommon_route-0.2.6.tar.gz",
+  "download_time": "2026-03-10T05:03:14.053188",
   "package_url": "https://pypi.org/project/uncommon-route/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "reqable-mcp",
+  "version": "0.3.1",
+  "summary": "MCP server for Reqable local capture data",
+  "author": "lianhua",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reqable_mcp-0.3.1.tar.gz",
+  "download_time": "2026-03-10T05:03:21.317549",
+  "package_url": "https://pypi.org/project/reqable-mcp/"
+}

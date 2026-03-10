@@ -1,11 +1,11 @@
 {
   "name": "uqa",
-  "version": "0.3.0",
+  "version": "0.9.0",
   "summary": "Unified Query Algebra database prototype",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uqa-0.3.0.tar.gz",
-  "download_time": "2026-03-08T05:14:59.140007",
+  "download_filename": "uqa-0.9.0.tar.gz",
+  "download_time": "2026-03-10T05:03:08.374789",
   "package_url": "https://pypi.org/project/uqa/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "faik-inventory",
-  "version": "1.0.32",
+  "version": "1.0.34",
   "summary": "Neo4j-backed FastAPI app with React frontend for IT inventory graph management.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "faik_inventory-1.0.32-py3-none-any.whl",
-  "download_time": "2026-03-09T22:23:52.252278",
+  "download_filename": "faik_inventory-1.0.34-py3-none-any.whl",
+  "download_time": "2026-03-10T05:03:43.038854",
   "package_url": "https://pypi.org/project/faik-inventory/"
 }

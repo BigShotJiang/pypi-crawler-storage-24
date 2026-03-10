@@ -1,0 +1,11 @@
+{
+  "name": "sosqlite",
+  "version": "0.3.1",
+  "summary": "Query SQLite databases on S3 using s3fs or smart_open",
+  "author": "Ricardo Ander-Egg Aguilar; Peter Kerpedjiev",
+  "license": null,
+  "home_page": "https://github.com/pkerpedjiev/sosqlite",
+  "download_filename": "sosqlite-0.3.1.tar.gz",
+  "download_time": "2026-03-10T05:03:19.777097",
+  "package_url": "https://pypi.org/project/sosqlite/"
+}

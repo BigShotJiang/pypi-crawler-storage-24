@@ -1,0 +1,11 @@
+{
+  "name": "django-phonedir",
+  "version": "0.1b1",
+  "summary": "A reusable Django app for a phone directory system.",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "django_phonedir-0.1b1.tar.gz",
+  "download_time": "2026-03-10T05:03:17.213570",
+  "package_url": "https://pypi.org/project/django-phonedir/"
+}

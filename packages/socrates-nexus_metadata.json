@@ -1,11 +1,11 @@
 {
   "name": "socrates-nexus",
-  "version": "0.1.0",
-  "summary": "Universal LLM client for production - works with Claude, GPT-4, Gemini, Llama, and any LLM",
+  "version": "0.3.0",
+  "summary": "Universal LLM client for production - works with Claude, GPT-4, Gemini, Llama, and any LLM. Built-in integrations with Openclaw and LangChain.",
   "author": "Socrates Nexus Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "socrates_nexus-0.1.0.tar.gz",
-  "download_time": "2026-03-09T11:50:12.337516",
+  "download_filename": "socrates_nexus-0.3.0.tar.gz",
+  "download_time": "2026-03-10T05:03:23.403370",
   "package_url": "https://pypi.org/project/socrates-nexus/"
 }

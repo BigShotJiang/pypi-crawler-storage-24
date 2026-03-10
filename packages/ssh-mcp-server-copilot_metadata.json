@@ -1,11 +1,11 @@
 {
   "name": "ssh-mcp-server-copilot",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Hardened SSH MCP server for VS Code / Copilot Chat — run policy-scoped commands on remote hosts via natural language",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ssh_mcp_server_copilot-0.1.1.tar.gz",
-  "download_time": "2026-03-09T18:02:28.941053",
+  "download_filename": "ssh_mcp_server_copilot-0.1.4.tar.gz",
+  "download_time": "2026-03-10T05:03:29.103300",
   "package_url": "https://pypi.org/project/ssh-mcp-server-copilot/"
 }

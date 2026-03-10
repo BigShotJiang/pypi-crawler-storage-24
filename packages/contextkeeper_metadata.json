@@ -1,11 +1,11 @@
 {
   "name": "contextkeeper",
-  "version": "0.2.7",
+  "version": "0.4.0",
   "summary": "Zero model drift between AI agents. Universal session continuity CLI and Python library for Claude, GPT, Gemini, and any LLM.",
   "author": "TheRealDataBoss",
   "license": null,
   "home_page": null,
-  "download_filename": "contextkeeper-0.2.7.tar.gz",
-  "download_time": "2026-03-10T03:40:51.563400",
+  "download_filename": "contextkeeper-0.4.0.tar.gz",
+  "download_time": "2026-03-10T05:03:17.725461",
   "package_url": "https://pypi.org/project/contextkeeper/"
 }
