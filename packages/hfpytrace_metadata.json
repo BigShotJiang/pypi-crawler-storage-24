@@ -1,11 +1,11 @@
 {
   "name": "hfpytrace",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Precision ionospheric radio wave propagation tools",
   "author": "Shibaji Chakraborty",
   "license": "MIT",
   "home_page": "https://github.com/shibaji7/trace",
-  "download_filename": "hfpytrace-0.0.3-py3-none-any.whl",
-  "download_time": "2026-03-10T22:54:58.926065",
+  "download_filename": "hfpytrace-0.0.4-py3-none-any.whl",
+  "download_time": "2026-03-10T23:23:18.129758",
   "package_url": "https://pypi.org/project/hfpytrace/"
 }

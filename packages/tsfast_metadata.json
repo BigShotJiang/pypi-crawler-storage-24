@@ -1,0 +1,11 @@
+{
+  "name": "tsfast",
+  "version": "0.3.0",
+  "summary": "Deep learning library for time series analysis and system identification",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tsfast-0.3.0-py3-none-any.whl",
+  "download_time": "2026-03-10T23:23:51.448647",
+  "package_url": "https://pypi.org/project/tsfast/"
+}

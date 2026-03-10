@@ -1,0 +1,11 @@
+{
+  "name": "redd",
+  "version": "0.2.0",
+  "summary": "Reddit Extraction and Data Dumper — a modern, async-ready library for extracting Reddit data without API keys.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "redd-0.2.0.tar.gz",
+  "download_time": "2026-03-10T23:23:24.921015",
+  "package_url": "https://pypi.org/project/redd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "camera-match",
+  "version": "0.2.0",
+  "summary": "Match two cameras together using multiple algorithms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "camera_match-0.2.0.tar.gz",
+  "download_time": "2026-03-10T23:23:21.261240",
+  "package_url": "https://pypi.org/project/camera-match/"
+}

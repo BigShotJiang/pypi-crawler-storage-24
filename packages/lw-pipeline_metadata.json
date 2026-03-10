@@ -1,0 +1,11 @@
+{
+  "name": "lw-pipeline",
+  "version": "0.2.0",
+  "summary": "A lightweight, easy to modify pipeline controller for data processing (e.g. eeg, meg, etc.).",
+  "author": "The Lightweight Pipeline developers",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "lw_pipeline-0.2.0.tar.gz",
+  "download_time": "2026-03-10T23:23:22.300666",
+  "package_url": "https://pypi.org/project/lw-pipeline/"
+}

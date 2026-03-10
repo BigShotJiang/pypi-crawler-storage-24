@@ -1,0 +1,11 @@
+{
+  "name": "substr8-core",
+  "version": "0.3.0",
+  "summary": "Core schemas and utilities for Substr8 RunProof system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "substr8_core-0.3.0.tar.gz",
+  "download_time": "2026-03-10T23:23:10.750533",
+  "package_url": "https://pypi.org/project/substr8-core/"
+}

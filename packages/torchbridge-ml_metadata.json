@@ -1,11 +1,11 @@
 {
   "name": "torchbridge-ml",
-  "version": "0.5.53",
+  "version": "0.5.67",
   "summary": "Cross-backend validation and configuration intelligence for PyTorch — NVIDIA, AMD, Trainium, and TPU",
   "author": "TorchBridge Team",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "torchbridge_ml-0.5.53.tar.gz",
-  "download_time": "2026-03-07T21:42:39.219652",
+  "download_filename": "torchbridge_ml-0.5.67-py3-none-any.whl",
+  "download_time": "2026-03-10T23:23:12.883854",
   "package_url": "https://pypi.org/project/torchbridge-ml/"
 }

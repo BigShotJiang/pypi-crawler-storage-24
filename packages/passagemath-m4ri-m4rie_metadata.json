@@ -1,11 +1,11 @@
 {
   "name": "passagemath-m4ri-m4rie",
-  "version": "10.8.1",
+  "version": "10.8.2",
   "summary": "passagemath: Linear Algebra with m4ri and m4rie",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_m4ri_m4rie-10.8.1.tar.gz",
-  "download_time": "2026-03-08T11:43:12.194721",
+  "download_filename": "passagemath_m4ri_m4rie-10.8.2-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-03-10T23:23:47.163535",
   "package_url": "https://pypi.org/project/passagemath-m4ri-m4rie/"
 }

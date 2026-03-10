@@ -1,11 +1,11 @@
 {
   "name": "django-jutil",
-  "version": "4.2.10",
+  "version": "4.2.11",
   "summary": "Collection of small utilities for Django and Django REST framework projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_jutil-4.2.10.tar.gz",
-  "download_time": "2026-03-08T22:48:47.127389",
+  "download_filename": "django_jutil-4.2.11.tar.gz",
+  "download_time": "2026-03-10T23:23:40.763105",
   "package_url": "https://pypi.org/project/django-jutil/"
 }

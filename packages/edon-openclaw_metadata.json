@@ -1,0 +1,11 @@
+{
+  "name": "edon-openclaw",
+  "version": "0.1.0",
+  "summary": "EDON governance for OpenClaw/Clawdbot agents — govern every tool call your Telegram bot makes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "edon_openclaw-0.1.0.tar.gz",
+  "download_time": "2026-03-10T23:23:26.541424",
+  "package_url": "https://pypi.org/project/edon-openclaw/"
+}
