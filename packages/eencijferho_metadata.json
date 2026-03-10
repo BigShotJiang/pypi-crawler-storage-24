@@ -1,11 +1,11 @@
 {
   "name": "eencijferho",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Standalone backend processing toolkit for 1CijferHO",
   "author": "Ash Sewnandan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eencijferho-0.1.0.tar.gz",
-  "download_time": "2026-03-07T14:47:42.814866",
+  "download_filename": "eencijferho-0.1.1.tar.gz",
+  "download_time": "2026-03-10T13:39:26.782233",
   "package_url": "https://pypi.org/project/eencijferho/"
 }

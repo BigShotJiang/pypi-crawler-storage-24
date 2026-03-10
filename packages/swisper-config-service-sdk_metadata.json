@@ -1,0 +1,11 @@
+{
+  "name": "swisper-config-service-sdk",
+  "version": "0.1.5",
+  "summary": "Python SDK for the Config Service API - centralized configuration management with hierarchical overrides",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swisper_config_service_sdk-0.1.5.tar.gz",
+  "download_time": "2026-03-10T13:39:52.275677",
+  "package_url": "https://pypi.org/project/swisper-config-service-sdk/"
+}

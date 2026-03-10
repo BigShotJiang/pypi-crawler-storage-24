@@ -1,0 +1,11 @@
+{
+  "name": "climeter",
+  "version": "0.1.6",
+  "summary": "The billing layer for AI tools — CLI Billing & Metering SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "climeter-0.1.6.tar.gz",
+  "download_time": "2026-03-10T13:39:56.826384",
+  "package_url": "https://pypi.org/project/climeter/"
+}

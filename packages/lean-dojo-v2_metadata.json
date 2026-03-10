@@ -1,0 +1,11 @@
+{
+  "name": "lean-dojo-v2",
+  "version": "1.0.8",
+  "summary": "A comprehensive library for AI-assisted theorem proving in Lean",
+  "author": "LeanDojo-v2 Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lean_dojo_v2-1.0.8.tar.gz",
+  "download_time": "2026-03-10T13:39:49.982467",
+  "package_url": "https://pypi.org/project/lean-dojo-v2/"
+}

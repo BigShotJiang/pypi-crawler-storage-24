@@ -1,11 +1,11 @@
 {
   "name": "harness-studio",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Companion web dashboard for HarnessML",
   "author": "Matt Silverblatt-Buser",
   "license": null,
   "home_page": null,
-  "download_filename": "harness_studio-0.1.4.tar.gz",
-  "download_time": "2026-03-10T03:40:37.451855",
+  "download_filename": "harness_studio-0.1.5.tar.gz",
+  "download_time": "2026-03-10T13:39:51.086993",
   "package_url": "https://pypi.org/project/harness-studio/"
 }
