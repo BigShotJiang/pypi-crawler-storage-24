@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-partner-pricelist-load-background",
+  "version": "16.0.1.0.0.4",
+  "summary": "Pos",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_partner_pricelist_load_background-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-03-10T03:40:21.253977",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-partner-pricelist-load-background/"
+}

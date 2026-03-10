@@ -1,0 +1,11 @@
+{
+  "name": "sms-mn",
+  "version": "0.2.0",
+  "summary": "Production-ready Python client for sending SMS via Unitel and Mobicom APIs",
+  "author": "c1rtkaal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sms_mn-0.2.0.tar.gz",
+  "download_time": "2026-03-10T03:40:45.229906",
+  "package_url": "https://pypi.org/project/sms-mn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emx-regex-cgen",
+  "version": "0.1.3",
+  "summary": "Regex to C code generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emx_regex_cgen-0.1.3.tar.gz",
+  "download_time": "2026-03-10T03:40:24.969220",
+  "package_url": "https://pypi.org/project/emx-regex-cgen/"
+}

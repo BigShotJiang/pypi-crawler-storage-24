@@ -1,0 +1,11 @@
+{
+  "name": "idri",
+  "version": "1.1.0rc2603092137.dev0",
+  "summary": "Deterministic approximate vectorization for short identifiers and labels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idri-1.1.0rc2603092137.dev0.tar.gz",
+  "download_time": "2026-03-10T03:40:24.455961",
+  "package_url": "https://pypi.org/project/idri/"
+}

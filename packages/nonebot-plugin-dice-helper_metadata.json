@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-dice-helper",
+  "version": "0.1.3",
+  "summary": "NoneBot 可自定义骰子的骰子插件",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_dice_helper-0.1.3.tar.gz",
+  "download_time": "2026-03-10T03:40:41.604321",
+  "package_url": "https://pypi.org/project/nonebot-plugin-dice-helper/"
+}

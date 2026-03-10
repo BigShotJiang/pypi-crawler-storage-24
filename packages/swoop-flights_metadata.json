@@ -1,0 +1,11 @@
+{
+  "name": "swoop-flights",
+  "version": "0.2.1",
+  "summary": "Google Flights price scraper. Search flights programmatically via the same RPC endpoints the web app uses.",
+  "author": "Ayush Saraswat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swoop_flights-0.2.1.tar.gz",
+  "download_time": "2026-03-10T03:40:57.318663",
+  "package_url": "https://pypi.org/project/swoop-flights/"
+}

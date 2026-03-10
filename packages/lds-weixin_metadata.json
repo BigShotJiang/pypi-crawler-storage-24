@@ -1,0 +1,11 @@
+{
+  "name": "lds-weixin",
+  "version": "0.3.0",
+  "summary": "企业微信Api接口",
+  "author": "lds",
+  "license": "GNU GPL 3",
+  "home_page": "https://github.com/ldsxp",
+  "download_filename": "lds_weixin-0.3.0.tar.gz",
+  "download_time": "2026-03-10T03:40:44.718480",
+  "package_url": "https://pypi.org/project/lds-weixin/"
+}

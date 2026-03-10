@@ -1,0 +1,11 @@
+{
+  "name": "atoti-server-spring-boot-admin",
+  "version": "0.9.13",
+  "summary": "Resources to enable Spring Boot Admin",
+  "author": "ActiveViam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_server_spring_boot_admin-0.9.13-py3-none-any.whl",
+  "download_time": "2026-03-10T03:41:03.226164",
+  "package_url": "https://pypi.org/project/atoti-server-spring-boot-admin/"
+}

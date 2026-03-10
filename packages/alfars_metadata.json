@@ -1,0 +1,11 @@
+{
+  "name": "alfars",
+  "version": "0.3.0",
+  "summary": "High-performance factor expression and backtesting library (Rust + PyO3)",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/EthanNOV56/alfa.rs",
+  "download_filename": "alfars-0.3.0.tar.gz",
+  "download_time": "2026-03-10T03:40:25.996978",
+  "package_url": "https://pypi.org/project/alfars/"
+}

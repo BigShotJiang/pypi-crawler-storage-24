@@ -1,0 +1,11 @@
+{
+  "name": "mapanare",
+  "version": "0.2.0",
+  "summary": "Mapanare -- an AI-native compiled programming language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mapanare-0.2.0.tar.gz",
+  "download_time": "2026-03-10T03:40:39.508493",
+  "package_url": "https://pypi.org/project/mapanare/"
+}

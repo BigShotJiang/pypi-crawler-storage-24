@@ -1,0 +1,11 @@
+{
+  "name": "sibilance",
+  "version": "0.1.1",
+  "summary": "A living creature in your terminal",
+  "author": "kbouw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sibilance-0.1.1.tar.gz",
+  "download_time": "2026-03-10T03:40:32.786646",
+  "package_url": "https://pypi.org/project/sibilance/"
+}
