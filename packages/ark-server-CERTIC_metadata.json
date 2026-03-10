@@ -1,0 +1,11 @@
+{
+  "name": "ark-server-CERTIC",
+  "version": "0.0.16",
+  "summary": "The goal of this software is to offer a solution for a Name Assigning Authority to distribute Archival Resources Keys and maintain basic information about the resources. It offers a database, command-line tools and an HTTP API.",
+  "author": null,
+  "license": "Cecill-B",
+  "home_page": null,
+  "download_filename": "ark_server_certic-0.0.16-py3-none-any.whl",
+  "download_time": "2026-03-10T20:29:34.547904",
+  "package_url": "https://pypi.org/project/ark-server-CERTIC/"
+}

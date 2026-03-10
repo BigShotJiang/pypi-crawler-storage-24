@@ -1,0 +1,11 @@
+{
+  "name": "gmdbuilder",
+  "version": "0.2.1",
+  "summary": "A General-Purpose Geometry Dash framework for safe and easy level editing and scripting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gmdbuilder-0.2.1.tar.gz",
+  "download_time": "2026-03-10T20:29:06.795852",
+  "package_url": "https://pypi.org/project/gmdbuilder/"
+}

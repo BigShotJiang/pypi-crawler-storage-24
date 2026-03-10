@@ -1,0 +1,11 @@
+{
+  "name": "mistral-ocr-cli",
+  "version": "1.1.1",
+  "summary": "A clean command-line tool for OCR processing using Mistral AI's API",
+  "author": "Ruben Fernandez-Fuertes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mistral_ocr_cli-1.1.1.tar.gz",
+  "download_time": "2026-03-10T20:29:07.366406",
+  "package_url": "https://pypi.org/project/mistral-ocr-cli/"
+}

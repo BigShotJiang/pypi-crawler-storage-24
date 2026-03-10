@@ -1,11 +1,11 @@
 {
   "name": "wp-docker",
-  "version": "0.1.21",
+  "version": "0.1.24",
   "summary": "WordPress Docker project generator",
   "author": "Jacek Labudda",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wp_docker-0.1.21.tar.gz",
-  "download_time": "2026-03-10T15:35:28.841983",
+  "download_filename": "wp_docker-0.1.24.tar.gz",
+  "download_time": "2026-03-10T20:28:58.571809",
   "package_url": "https://pypi.org/project/wp-docker/"
 }

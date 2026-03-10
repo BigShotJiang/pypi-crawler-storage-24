@@ -1,0 +1,11 @@
+{
+  "name": "cerebras-appliance",
+  "version": "2.10.0",
+  "summary": "Base client for Cerebras Wafer Scale Cluster",
+  "author": "Cerebras Systems",
+  "license": null,
+  "home_page": "https://cerebras.net/",
+  "download_filename": "cerebras_appliance-2.10.0-cp311-none-manylinux2014_x86_64.whl",
+  "download_time": "2026-03-10T20:28:57.992419",
+  "package_url": "https://pypi.org/project/cerebras-appliance/"
+}

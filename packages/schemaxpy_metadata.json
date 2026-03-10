@@ -1,0 +1,11 @@
+{
+  "name": "schemaxpy",
+  "version": "0.2.10",
+  "summary": "Declarative schema management, governance, and migration for Databricks Unity Catalog. Version control schemas, generate SQL, deploy across environments.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "schemaxpy-0.2.10.tar.gz",
+  "download_time": "2026-03-10T20:29:27.521285",
+  "package_url": "https://pypi.org/project/schemaxpy/"
+}

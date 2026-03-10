@@ -1,0 +1,11 @@
+{
+  "name": "opensesame-extension-sigmund",
+  "version": "1.0.4",
+  "summary": "SigmundAI copilot extension for OpenSesame and Sigmund Analyst",
+  "author": "Sebastiaan Mathôt",
+  "license": "COPYING",
+  "home_page": null,
+  "download_filename": "opensesame_extension_sigmund-1.0.4.tar.gz",
+  "download_time": "2026-03-10T20:28:42.911385",
+  "package_url": "https://pypi.org/project/opensesame-extension-sigmund/"
+}

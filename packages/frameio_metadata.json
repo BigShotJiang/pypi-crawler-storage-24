@@ -1,11 +1,11 @@
 {
   "name": "frameio",
-  "version": "0.5.3",
+  "version": "0.6.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frameio-0.5.3.tar.gz",
-  "download_time": "2026-03-09T16:13:03.242527",
+  "download_filename": "frameio-0.6.0.tar.gz",
+  "download_time": "2026-03-10T20:29:24.517613",
   "package_url": "https://pypi.org/project/frameio/"
 }

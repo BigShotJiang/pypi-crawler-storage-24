@@ -1,0 +1,11 @@
+{
+  "name": "fetch2gmail",
+  "version": "1.1.2",
+  "summary": "Self-hosted email fetcher: IMAP to Gmail API import with idempotent state tracking",
+  "author": "Fetch2Gmail Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fetch2gmail-1.1.2.tar.gz",
+  "download_time": "2026-03-10T20:29:19.885637",
+  "package_url": "https://pypi.org/project/fetch2gmail/"
+}
