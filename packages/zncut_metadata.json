@@ -1,0 +1,11 @@
+{
+  "name": "zncut",
+  "version": "0.1.1",
+  "summary": "the fastest command line tool for removing ads from pre-downloaded youtube videos with frame-accurate cuts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zncut-0.1.1.tar.gz",
+  "download_time": "2026-03-10T20:59:35.550693",
+  "package_url": "https://pypi.org/project/zncut/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lobster-metadata",
-  "version": "1.1.404",
+  "version": "1.1.406",
   "summary": "Metadata assistant agent for Lobster AI - sample metadata and harmonization operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lobster_metadata-1.1.404.tar.gz",
-  "download_time": "2026-03-07T15:56:51.514035",
+  "download_filename": "lobster_metadata-1.1.406.tar.gz",
+  "download_time": "2026-03-10T20:59:52.262539",
   "package_url": "https://pypi.org/project/lobster-metadata/"
 }

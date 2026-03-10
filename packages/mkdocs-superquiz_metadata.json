@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-superquiz",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "summary": "MkDocs plugin to create interactive quizzes with multiple types (MCQ, single choice, fill-in-the-blank, dropdown) — multilingual, with LaTeX/MathJax support",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mkdocs_superquiz-0.1.23.tar.gz",
-  "download_time": "2026-03-10T17:02:24.261059",
+  "download_filename": "mkdocs_superquiz-0.1.24.tar.gz",
+  "download_time": "2026-03-10T20:59:38.841563",
   "package_url": "https://pypi.org/project/mkdocs-superquiz/"
 }

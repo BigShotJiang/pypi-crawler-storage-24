@@ -1,0 +1,11 @@
+{
+  "name": "firebreak-vitals",
+  "version": "1.0.0",
+  "summary": "Deep healthcheck endpoints following the HEALTHCHECK_SPEC format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "firebreak_vitals-1.0.0.tar.gz",
+  "download_time": "2026-03-10T20:59:54.343467",
+  "package_url": "https://pypi.org/project/firebreak-vitals/"
+}

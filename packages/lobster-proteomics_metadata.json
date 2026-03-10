@@ -1,11 +1,11 @@
 {
   "name": "lobster-proteomics",
-  "version": "1.1.404",
+  "version": "1.1.406",
   "summary": "Proteomics agent for Lobster AI (DDA/DIA mass spectrometry, affinity platforms)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lobster_proteomics-1.1.404.tar.gz",
-  "download_time": "2026-03-07T15:56:53.638032",
+  "download_filename": "lobster_proteomics-1.1.406.tar.gz",
+  "download_time": "2026-03-10T20:59:56.945712",
   "package_url": "https://pypi.org/project/lobster-proteomics/"
 }

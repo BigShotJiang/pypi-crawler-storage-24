@@ -1,0 +1,11 @@
+{
+  "name": "madvr-envy",
+  "version": "0.2.0",
+  "summary": "Async Python client for madVR Envy IP Control.",
+  "author": "Ben Johnson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "madvr_envy-0.2.0.tar.gz",
+  "download_time": "2026-03-10T20:59:43.674645",
+  "package_url": "https://pypi.org/project/madvr-envy/"
+}

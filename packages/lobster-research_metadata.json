@@ -1,11 +1,11 @@
 {
   "name": "lobster-research",
-  "version": "1.1.404",
+  "version": "1.1.406",
   "summary": "Research agents for Lobster AI - literature discovery and data management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lobster_research-1.1.404.tar.gz",
-  "download_time": "2026-03-07T15:56:49.400287",
+  "download_filename": "lobster_research-1.1.406.tar.gz",
+  "download_time": "2026-03-10T20:59:56.423192",
   "package_url": "https://pypi.org/project/lobster-research/"
 }

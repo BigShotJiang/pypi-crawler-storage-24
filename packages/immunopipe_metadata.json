@@ -1,0 +1,11 @@
+{
+  "name": "immunopipe",
+  "version": "2.4.3",
+  "summary": "A pipeline for integrative analysis for scRNA-seq and scTCR-/scBCR-seq data",
+  "author": "pwwang",
+  "license": "GNU General Public License v3.0",
+  "home_page": null,
+  "download_filename": "immunopipe-2.4.3.tar.gz",
+  "download_time": "2026-03-10T20:59:37.216743",
+  "package_url": "https://pypi.org/project/immunopipe/"
+}

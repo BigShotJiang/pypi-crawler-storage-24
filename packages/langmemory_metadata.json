@@ -1,0 +1,11 @@
+{
+  "name": "langmemory",
+  "version": "0.1.1",
+  "summary": "Memory that behaves like a system, not a log.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langmemory-0.1.1.tar.gz",
+  "download_time": "2026-03-10T20:59:43.155600",
+  "package_url": "https://pypi.org/project/langmemory/"
+}

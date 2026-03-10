@@ -1,0 +1,11 @@
+{
+  "name": "soliplex",
+  "version": "0.46.2",
+  "summary": "An AI-powered Retrieval-Augmented Generation (RAG) system with a modern web interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "soliplex-0.46.2.tar.gz",
+  "download_time": "2026-03-10T21:00:07.918263",
+  "package_url": "https://pypi.org/project/soliplex/"
+}

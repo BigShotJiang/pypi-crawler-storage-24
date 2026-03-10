@@ -1,0 +1,11 @@
+{
+  "name": "fenn",
+  "version": "0.1.5",
+  "summary": "Friendly Environment for Neural Networks – a simple framework that automates the boring side of ML.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fenn-0.1.5.tar.gz",
+  "download_time": "2026-03-10T21:00:02.705674",
+  "package_url": "https://pypi.org/project/fenn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "edinet-tools",
+  "version": "0.4.1",
+  "summary": "Python package for accessing Japanese corporate financial data from EDINET",
+  "author": "Matt Helmer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edinet_tools-0.4.1.tar.gz",
+  "download_time": "2026-03-10T21:00:13.675246",
+  "package_url": "https://pypi.org/project/edinet-tools/"
+}

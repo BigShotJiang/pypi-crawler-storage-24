@@ -1,11 +1,11 @@
 {
   "name": "icsf-cli",
-  "version": "0.1.19",
+  "version": "0.1.25",
   "summary": "ICSF – Intelligent Code Security & Fixing Platform (CLI)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "icsf_cli-0.1.19.tar.gz",
-  "download_time": "2026-03-10T10:08:09.648684",
+  "download_filename": "icsf_cli-0.1.25.tar.gz",
+  "download_time": "2026-03-10T21:00:18.903305",
   "package_url": "https://pypi.org/project/icsf-cli/"
 }

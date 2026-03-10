@@ -1,11 +1,11 @@
 {
   "name": "lobster-ai-tui",
-  "version": "1.1.404",
+  "version": "1.1.406",
   "summary": "Go TUI binary for Lobster AI (Charm/BubbleTea)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lobster_ai_tui-1.1.404-py3-none-macosx_10_16_x86_64.whl",
-  "download_time": "2026-03-07T15:56:56.751372",
+  "download_filename": "lobster_ai_tui-1.1.406-py3-none-macosx_10_16_x86_64.whl",
+  "download_time": "2026-03-10T20:59:59.601059",
   "package_url": "https://pypi.org/project/lobster-ai-tui/"
 }

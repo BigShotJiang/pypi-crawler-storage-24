@@ -1,0 +1,11 @@
+{
+  "name": "nanonis-xarray",
+  "version": "0.1.9",
+  "summary": "Read a Nanonis spectroscopy .dat file into a xarray Dataset",
+  "author": "Angelo Peronio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanonis_xarray-0.1.9.tar.gz",
+  "download_time": "2026-03-10T20:59:45.252269",
+  "package_url": "https://pypi.org/project/nanonis-xarray/"
+}

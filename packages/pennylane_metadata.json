@@ -1,0 +1,11 @@
+{
+  "name": "pennylane",
+  "version": "0.44.1",
+  "summary": "PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Train a quantum computer the same way as a neural network.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pennylane-0.44.1-py3-none-any.whl",
+  "download_time": "2026-03-10T21:00:20.482047",
+  "package_url": "https://pypi.org/project/pennylane/"
+}
