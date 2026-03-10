@@ -1,0 +1,11 @@
+{
+  "name": "PyTinyTeX",
+  "version": "0.5.0",
+  "summary": "Thin wrapper for \"TinyTeX\" (MIT)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytinytex-0.5.0.tar.gz",
+  "download_time": "2026-03-10T22:54:40.867773",
+  "package_url": "https://pypi.org/project/PyTinyTeX/"
+}

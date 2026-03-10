@@ -1,0 +1,11 @@
+{
+  "name": "fdirb",
+  "version": "1.0.3",
+  "summary": "Fast async directory buster",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fdirb-1.0.3.tar.gz",
+  "download_time": "2026-03-10T22:55:09.138365",
+  "package_url": "https://pypi.org/project/fdirb/"
+}

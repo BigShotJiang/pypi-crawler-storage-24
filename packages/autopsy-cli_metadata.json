@@ -1,11 +1,11 @@
 {
   "name": "autopsy-cli",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "AI-powered incident diagnosis for engineering teams. Pull logs and deploys, get a structured root cause in 30 seconds.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autopsy_cli-0.2.0.tar.gz",
-  "download_time": "2026-03-08T22:48:24.393774",
+  "download_filename": "autopsy_cli-0.2.2.tar.gz",
+  "download_time": "2026-03-10T22:55:14.562652",
   "package_url": "https://pypi.org/project/autopsy-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rftools-io",
+  "version": "0.1.1",
+  "summary": "Python client for rftools.io — 203 RF & electronics calculators",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rftools_io-0.1.1.tar.gz",
+  "download_time": "2026-03-10T22:55:11.321405",
+  "package_url": "https://pypi.org/project/rftools-io/"
+}

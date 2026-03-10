@@ -1,0 +1,11 @@
+{
+  "name": "selfxyz-agent-sdk",
+  "version": "0.2.1",
+  "summary": "Python SDK for Self Agent ID — proof-of-human verification for AI agents",
+  "author": "Self Protocol",
+  "license": null,
+  "home_page": null,
+  "download_filename": "selfxyz_agent_sdk-0.2.1.tar.gz",
+  "download_time": "2026-03-10T22:55:03.224714",
+  "package_url": "https://pypi.org/project/selfxyz-agent-sdk/"
+}

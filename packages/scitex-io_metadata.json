@@ -1,11 +1,11 @@
 {
   "name": "scitex-io",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Universal scientific data I/O with plugin registry",
-  "author": "SciTeX Team",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scitex_io-0.1.0.tar.gz",
-  "download_time": "2026-03-10T21:00:23.086134",
+  "download_filename": "scitex_io-0.1.2.tar.gz",
+  "download_time": "2026-03-10T22:55:18.359939",
   "package_url": "https://pypi.org/project/scitex-io/"
 }

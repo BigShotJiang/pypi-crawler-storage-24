@@ -1,11 +1,11 @@
 {
   "name": "project-toolkit",
-  "version": "1.0.6",
+  "version": "1.0.12",
   "summary": "A modular toolkit for managing project paths, cloud services, and configuration in Python projects",
   "author": "guocity",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "project_toolkit-1.0.6.tar.gz",
-  "download_time": "2026-03-08T20:21:02.909385",
+  "download_filename": "project_toolkit-1.0.12.tar.gz",
+  "download_time": "2026-03-10T22:55:06.984932",
   "package_url": "https://pypi.org/project/project-toolkit/"
 }

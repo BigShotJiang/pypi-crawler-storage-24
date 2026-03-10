@@ -1,11 +1,11 @@
 {
   "name": "pricetoken",
-  "version": "0.11.0",
+  "version": "0.13.1",
   "summary": "Real-time LLM pricing data — typed client, cost calculator, and static pricing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pricetoken-0.11.0.tar.gz",
-  "download_time": "2026-03-08T21:45:12.397238",
+  "download_filename": "pricetoken-0.13.1.tar.gz",
+  "download_time": "2026-03-10T22:55:01.602923",
   "package_url": "https://pypi.org/project/pricetoken/"
 }

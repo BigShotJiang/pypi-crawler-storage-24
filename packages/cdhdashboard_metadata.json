@@ -1,0 +1,11 @@
+{
+  "name": "cdhdashboard",
+  "version": "1.0.1",
+  "summary": "The CDH Value Dashboard Application is an open-source prototype designed to provide customizable metrics and insights for linking marketing actions to business outcomes, such as customer lifetime value (CLV) and conversion rates.",
+  "author": "Grigoriy Sen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cdhdashboard-1.0.1.tar.gz",
+  "download_time": "2026-03-10T22:54:51.363904",
+  "package_url": "https://pypi.org/project/cdhdashboard/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "testdata-ai",
-  "version": "0.9.0",
+  "version": "0.11.0",
   "summary": "AI-powered test data generator for QA engineers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "testdata_ai-0.9.0.tar.gz",
-  "download_time": "2026-03-10T13:40:09.508952",
+  "download_filename": "testdata_ai-0.11.0.tar.gz",
+  "download_time": "2026-03-10T22:55:13.479482",
   "package_url": "https://pypi.org/project/testdata-ai/"
 }

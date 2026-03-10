@@ -1,11 +1,11 @@
 {
   "name": "pegasus-ai",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A lightweight terminal agent framework for long-running modular agents",
   "author": "Asuzu Kosi",
   "license": "BSD-2-Clause",
   "home_page": "https://github.com/asuzukosi/pegasus",
-  "download_filename": "pegasus_ai-0.1.4.tar.gz",
-  "download_time": "2026-03-10T22:27:38.982196",
+  "download_filename": "pegasus_ai-0.1.6.tar.gz",
+  "download_time": "2026-03-10T22:54:53.546211",
   "package_url": "https://pypi.org/project/pegasus-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "typed-dydx",
-  "version": "0.1.2",
-  "summary": "The unofficial, actually good, fully-typed async Python SDK for dYdX v4, by Tribulnation.",
+  "version": "0.3.0",
+  "summary": "A fully typed, validated async client for the dYdX API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typed_dydx-0.1.2.tar.gz",
-  "download_time": "2026-03-07T09:23:54.990200",
+  "download_filename": "typed_dydx-0.3.0.tar.gz",
+  "download_time": "2026-03-10T22:55:01.060444",
   "package_url": "https://pypi.org/project/typed-dydx/"
 }
