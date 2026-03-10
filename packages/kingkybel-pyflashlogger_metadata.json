@@ -1,11 +1,11 @@
 {
   "name": "kingkybel-pyflashlogger",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "Advanced console logging with color support and minimal configuration interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kingkybel_pyflashlogger-2.2.0.tar.gz",
-  "download_time": "2026-03-08T14:23:49.937684",
+  "download_filename": "kingkybel_pyflashlogger-2.3.0.tar.gz",
+  "download_time": "2026-03-10T11:40:55.669243",
   "package_url": "https://pypi.org/project/kingkybel-pyflashlogger/"
 }

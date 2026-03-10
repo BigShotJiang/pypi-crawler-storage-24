@@ -1,0 +1,11 @@
+{
+  "name": "distributed-a2a",
+  "version": "0.1.18",
+  "summary": "A library for building A2A agents with routing capabilities",
+  "author": "Fabian Bell",
+  "license": "MIT",
+  "home_page": "https://github.com/Barra-Technologies/distributed-a2a",
+  "download_filename": "distributed_a2a-0.1.18.tar.gz",
+  "download_time": "2026-03-10T11:40:43.469127",
+  "package_url": "https://pypi.org/project/distributed-a2a/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cmk-dev-site",
+  "version": "1.14.0",
+  "summary": "Easily Install Checkmk",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmk_dev_site-1.14.0.tar.gz",
+  "download_time": "2026-03-10T11:41:05.484553",
+  "package_url": "https://pypi.org/project/cmk-dev-site/"
+}

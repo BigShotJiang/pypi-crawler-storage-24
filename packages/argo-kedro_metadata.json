@@ -1,11 +1,11 @@
 {
   "name": "argo-kedro",
-  "version": "0.1.31",
+  "version": "0.1.35",
   "summary": "Kedro plugin for running pipelines on Argo Workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "argo_kedro-0.1.31.tar.gz",
-  "download_time": "2026-03-09T10:07:58.877578",
+  "download_filename": "argo_kedro-0.1.35.tar.gz",
+  "download_time": "2026-03-10T11:41:16.298602",
   "package_url": "https://pypi.org/project/argo-kedro/"
 }

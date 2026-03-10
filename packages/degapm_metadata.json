@@ -1,0 +1,11 @@
+{
+  "name": "degapm",
+  "version": "1.0.7",
+  "summary": "A2000 BP control API",
+  "author": "degastorage",
+  "license": "MIT License",
+  "home_page": "https://www.degastorage.com/",
+  "download_filename": "degapm-1.0.7.tar.gz",
+  "download_time": "2026-03-10T11:41:00.391821",
+  "package_url": "https://pypi.org/project/degapm/"
+}

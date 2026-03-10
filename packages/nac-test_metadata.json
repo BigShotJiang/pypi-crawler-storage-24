@@ -1,0 +1,11 @@
+{
+  "name": "nac-test",
+  "version": "1.2.3",
+  "summary": "A CLI tool to render and execute Robot Framework tests using Jinja templating.",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "nac_test-1.2.3.tar.gz",
+  "download_time": "2026-03-10T11:40:42.831013",
+  "package_url": "https://pypi.org/project/nac-test/"
+}

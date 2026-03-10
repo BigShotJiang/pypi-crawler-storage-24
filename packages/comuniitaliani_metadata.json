@@ -1,0 +1,11 @@
+{
+  "name": "comuniitaliani",
+  "version": "0.22.1",
+  "summary": "Libreria Python per ottenere informazioni sui comuni italiani con dati ISTAT e CAP",
+  "author": "Andrea Carboni",
+  "license": null,
+  "home_page": "https://github.com/cvrboni/comuniitaliani",
+  "download_filename": "comuniitaliani-0.22.1.tar.gz",
+  "download_time": "2026-03-10T11:40:41.615060",
+  "package_url": "https://pypi.org/project/comuniitaliani/"
+}

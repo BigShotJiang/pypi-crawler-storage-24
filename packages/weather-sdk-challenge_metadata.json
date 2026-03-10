@@ -1,0 +1,11 @@
+{
+  "name": "weather-sdk-challenge",
+  "version": "0.1.0",
+  "summary": "Python SDK for OpenWeatherMap API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weather_sdk_challenge-0.1.0.tar.gz",
+  "download_time": "2026-03-10T11:41:04.318862",
+  "package_url": "https://pypi.org/project/weather-sdk-challenge/"
+}

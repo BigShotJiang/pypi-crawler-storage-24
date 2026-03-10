@@ -1,0 +1,11 @@
+{
+  "name": "json-schema-to-pydantic-rs",
+  "version": "0.2.0",
+  "summary": "Fast JSON Schema to Pydantic v2 model generation, powered by Rust",
+  "author": "GuillaumeSachet",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_schema_to_pydantic_rs-0.2.0.tar.gz",
+  "download_time": "2026-03-10T11:40:32.801512",
+  "package_url": "https://pypi.org/project/json-schema-to-pydantic-rs/"
+}

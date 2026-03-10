@@ -1,11 +1,11 @@
 {
   "name": "terraink-py",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "Standalone Python CLI for generating styled OSM map posters as PNG and SVG.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terraink_py-0.2.0.tar.gz",
-  "download_time": "2026-03-08T13:57:29.312996",
+  "download_filename": "terraink_py-0.5.0.tar.gz",
+  "download_time": "2026-03-10T11:41:18.605124",
   "package_url": "https://pypi.org/project/terraink-py/"
 }

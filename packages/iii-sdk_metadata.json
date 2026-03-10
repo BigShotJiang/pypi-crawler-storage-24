@@ -1,0 +1,11 @@
+{
+  "name": "iii-sdk",
+  "version": "0.8.2",
+  "summary": "III SDK for Python",
+  "author": "III",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iii_sdk-0.8.2.tar.gz",
+  "download_time": "2026-03-10T11:41:01.548590",
+  "package_url": "https://pypi.org/project/iii-sdk/"
+}

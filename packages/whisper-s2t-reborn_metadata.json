@@ -1,0 +1,11 @@
+{
+  "name": "whisper-s2t-reborn",
+  "version": "1.5.2",
+  "summary": "A streamlined Speech-to-Text pipeline for Whisper using CTranslate2",
+  "author": "Blair Chintella",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whisper_s2t_reborn-1.5.2.tar.gz",
+  "download_time": "2026-03-10T11:40:32.157581",
+  "package_url": "https://pypi.org/project/whisper-s2t-reborn/"
+}
