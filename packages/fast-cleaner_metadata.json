@@ -1,0 +1,11 @@
+{
+  "name": "fast-cleaner",
+  "version": "0.1.0",
+  "summary": "A blazing-fast C extension for text cleaning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_cleaner-0.1.0.tar.gz",
+  "download_time": "2026-03-10T07:00:59.203181",
+  "package_url": "https://pypi.org/project/fast-cleaner/"
+}

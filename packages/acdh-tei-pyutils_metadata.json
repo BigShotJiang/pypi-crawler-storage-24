@@ -1,0 +1,11 @@
+{
+  "name": "acdh-tei-pyutils",
+  "version": "2.1.1",
+  "summary": "Utilty functions to work with TEI/XML-Documents",
+  "author": "Peter Andorfer, Daniel Elsner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acdh_tei_pyutils-2.1.1.tar.gz",
+  "download_time": "2026-03-10T07:01:08.903817",
+  "package_url": "https://pypi.org/project/acdh-tei-pyutils/"
+}

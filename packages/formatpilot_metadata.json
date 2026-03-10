@@ -1,0 +1,11 @@
+{
+  "name": "formatpilot",
+  "version": "0.2.0",
+  "summary": "Conversão e transformação de textos entre múltiplos formatos (Markdown, LinkedIn, HTML, etc) de forma simples e extensível. Com amor da família Mori!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "formatpilot-0.2.0.tar.gz",
+  "download_time": "2026-03-10T07:01:33.378628",
+  "package_url": "https://pypi.org/project/formatpilot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jobcelis",
-  "version": "1.4.1",
+  "version": "1.5.1",
   "summary": "Official Python SDK for the Jobcelis Event Infrastructure Platform",
   "author": "Jobcelis",
   "license": null,
   "home_page": "https://github.com/vladimirCeli/jobscelis",
-  "download_filename": "jobcelis-1.4.1.tar.gz",
-  "download_time": "2026-03-07T05:12:46.261572",
+  "download_filename": "jobcelis-1.5.1.tar.gz",
+  "download_time": "2026-03-10T07:01:07.821139",
   "package_url": "https://pypi.org/project/jobcelis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bigopy",
+  "version": "0.1.0",
+  "summary": "Static AST-based Big-O complexity estimator — no code execution needed",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bigopy-0.1.0.tar.gz",
+  "download_time": "2026-03-10T07:01:05.674531",
+  "package_url": "https://pypi.org/project/bigopy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "legion-mcp",
+  "version": "0.1.5",
+  "summary": "LEGION Knowledge & Code Intelligence MCP Server for Claude",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legion_mcp-0.1.5.tar.gz",
+  "download_time": "2026-03-10T07:01:18.566046",
+  "package_url": "https://pypi.org/project/legion-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xhelio-pds",
+  "version": "0.1.0",
+  "summary": "NASA PDS Planetary Plasma Interactions data access — browse missions, inspect parameters, fetch PDS data",
+  "author": "Zesen Huang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xhelio_pds-0.1.0.tar.gz",
+  "download_time": "2026-03-10T07:00:45.642909",
+  "package_url": "https://pypi.org/project/xhelio-pds/"
+}

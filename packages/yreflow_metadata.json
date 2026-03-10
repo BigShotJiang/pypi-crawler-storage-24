@@ -1,11 +1,11 @@
 {
   "name": "yreflow",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "Wolfery console client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yreflow-0.1.8.tar.gz",
-  "download_time": "2026-03-07T18:58:12.375641",
+  "download_filename": "yreflow-0.2.0.tar.gz",
+  "download_time": "2026-03-10T07:00:48.366623",
   "package_url": "https://pypi.org/project/yreflow/"
 }

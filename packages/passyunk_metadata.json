@@ -1,0 +1,11 @@
+{
+  "name": "passyunk",
+  "version": "2.40.0",
+  "summary": "Address parser for City of Philadelphia addresses",
+  "author": "Tom Swanson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "passyunk-2.40.0.tar.gz",
+  "download_time": "2026-03-10T07:01:29.488113",
+  "package_url": "https://pypi.org/project/passyunk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "linalg3d",
+  "version": "0.3.1",
+  "summary": "Fast constexpr linear algebra for C++23 with zero-copy NumPy/SciPy interop",
+  "author": "Pavel Guzenfeld",
+  "license": null,
+  "home_page": null,
+  "download_filename": "linalg3d-0.3.1.tar.gz",
+  "download_time": "2026-03-10T07:00:55.978341",
+  "package_url": "https://pypi.org/project/linalg3d/"
+}

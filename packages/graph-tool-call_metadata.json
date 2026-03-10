@@ -1,11 +1,11 @@
 {
   "name": "graph-tool-call",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Graph-structured tool retrieval for LLM agents — ontology-aware hybrid search",
   "author": "SonAIengine",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graph_tool_call-0.7.0.tar.gz",
-  "download_time": "2026-03-09T23:23:54.841963",
+  "download_filename": "graph_tool_call-0.7.2.tar.gz",
+  "download_time": "2026-03-10T07:01:19.636394",
   "package_url": "https://pypi.org/project/graph-tool-call/"
 }

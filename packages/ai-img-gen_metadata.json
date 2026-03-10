@@ -1,0 +1,11 @@
+{
+  "name": "ai-img-gen",
+  "version": "1.0.0",
+  "summary": "独立图像生成工具 - 支持智谱AI、OpenAI、自定义API，无需运行时依赖",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_img_gen-1.0.0.tar.gz",
+  "download_time": "2026-03-10T07:01:05.138809",
+  "package_url": "https://pypi.org/project/ai-img-gen/"
+}

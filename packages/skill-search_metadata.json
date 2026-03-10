@@ -1,0 +1,11 @@
+{
+  "name": "skill-search",
+  "version": "0.1.0",
+  "summary": "LLM-framework-agnostic skill search library with fast full-text search",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skill_search-0.1.0.tar.gz",
+  "download_time": "2026-03-10T07:01:23.464320",
+  "package_url": "https://pypi.org/project/skill-search/"
+}
