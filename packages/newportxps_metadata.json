@@ -1,0 +1,11 @@
+{
+  "name": "newportxps",
+  "version": "2026.1.1",
+  "summary": "Python interface to Newport XPS motion controllers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "newportxps-2026.1.1.tar.gz",
+  "download_time": "2026-03-10T21:36:55.215138",
+  "package_url": "https://pypi.org/project/newportxps/"
+}

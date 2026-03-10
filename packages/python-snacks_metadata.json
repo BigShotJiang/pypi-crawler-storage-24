@@ -1,0 +1,11 @@
+{
+  "name": "python-snacks",
+  "version": "0.1.4",
+  "summary": "A CLI tool for managing a personal stash of reusable Python code snippets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_snacks-0.1.4.tar.gz",
+  "download_time": "2026-03-10T21:36:24.882991",
+  "package_url": "https://pypi.org/project/python-snacks/"
+}

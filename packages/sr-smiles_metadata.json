@@ -1,0 +1,11 @@
+{
+  "name": "sr-smiles",
+  "version": "0.1.2",
+  "summary": "A Python library to convert reaction SMILES into superimposed reaction (sr) SMILES.",
+  "author": "Charlotte Gerhaher",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sr_smiles-0.1.2.tar.gz",
+  "download_time": "2026-03-10T21:36:39.211423",
+  "package_url": "https://pypi.org/project/sr-smiles/"
+}

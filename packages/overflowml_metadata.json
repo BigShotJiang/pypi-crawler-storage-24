@@ -1,0 +1,11 @@
+{
+  "name": "overflowml",
+  "version": "0.3.0",
+  "summary": "Run AI models larger than your GPU. Auto-detects hardware and applies optimal memory strategy.",
+  "author": "HybridLab AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "overflowml-0.3.0.tar.gz",
+  "download_time": "2026-03-10T21:36:57.825058",
+  "package_url": "https://pypi.org/project/overflowml/"
+}

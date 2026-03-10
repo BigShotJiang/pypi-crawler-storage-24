@@ -1,0 +1,11 @@
+{
+  "name": "pthr-db-caller",
+  "version": "2.0.3",
+  "summary": "Python library for querying postgresl DBs and handling results tailored to PantherDB-related uses",
+  "author": "dustine32",
+  "license": null,
+  "home_page": "https://github.com/pantherdb/pthr_db_caller",
+  "download_filename": "pthr_db_caller-2.0.3.tar.gz",
+  "download_time": "2026-03-10T21:36:45.884463",
+  "package_url": "https://pypi.org/project/pthr-db-caller/"
+}

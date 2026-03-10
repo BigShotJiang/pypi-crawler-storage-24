@@ -1,0 +1,11 @@
+{
+  "name": "dicomgenerator",
+  "version": "0.10.0",
+  "summary": "Generate pydicom datasets and data elements for use in testing",
+  "author": "sjoerdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dicomgenerator-0.10.0.tar.gz",
+  "download_time": "2026-03-10T21:37:07.417395",
+  "package_url": "https://pypi.org/project/dicomgenerator/"
+}

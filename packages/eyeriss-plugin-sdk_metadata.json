@@ -1,0 +1,11 @@
+{
+  "name": "eyeriss-plugin-sdk",
+  "version": "0.1.2",
+  "summary": "Official Python SDK for building plugins for the Eyeriss API Gateway. Provides the base class, hook types, and data structures for Python and WASM plugin development.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eyeriss_plugin_sdk-0.1.2.tar.gz",
+  "download_time": "2026-03-10T21:36:19.678082",
+  "package_url": "https://pypi.org/project/eyeriss-plugin-sdk/"
+}

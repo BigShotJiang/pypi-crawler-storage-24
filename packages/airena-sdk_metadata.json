@@ -1,11 +1,11 @@
 {
   "name": "airena-sdk",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Thin Python SDK for AiRENA bot protocol (openra.v1)",
   "author": "AiRENA contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "airena_sdk-0.6.0.tar.gz",
-  "download_time": "2026-03-10T14:31:28.575456",
+  "download_filename": "airena_sdk-0.7.0.tar.gz",
+  "download_time": "2026-03-10T21:36:36.543694",
   "package_url": "https://pypi.org/project/airena-sdk/"
 }

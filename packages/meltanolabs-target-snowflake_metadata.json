@@ -1,0 +1,11 @@
+{
+  "name": "meltanolabs-target-snowflake",
+  "version": "0.18.11",
+  "summary": "Singer target for Snowflake, built with the Meltano SDK for Singer Targets.",
+  "author": "Ken Payne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meltanolabs_target_snowflake-0.18.11.tar.gz",
+  "download_time": "2026-03-10T21:36:48.134709",
+  "package_url": "https://pypi.org/project/meltanolabs-target-snowflake/"
+}

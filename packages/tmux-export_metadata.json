@@ -1,0 +1,11 @@
+{
+  "name": "tmux-export",
+  "version": "0.1.1",
+  "summary": "Capture and export tmux pane content as txt/tty/html",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmux_export-0.1.1.tar.gz",
+  "download_time": "2026-03-10T21:36:16.448499",
+  "package_url": "https://pypi.org/project/tmux-export/"
+}

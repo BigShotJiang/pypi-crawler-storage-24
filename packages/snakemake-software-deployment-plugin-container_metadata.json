@@ -1,11 +1,11 @@
 {
   "name": "snakemake-software-deployment-plugin-container",
-  "version": "0.5.2",
+  "version": "0.6.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snakemake_software_deployment_plugin_container-0.5.2.tar.gz",
-  "download_time": "2026-03-10T15:34:52.556318",
+  "download_filename": "snakemake_software_deployment_plugin_container-0.6.0.tar.gz",
+  "download_time": "2026-03-10T21:36:37.191863",
   "package_url": "https://pypi.org/project/snakemake-software-deployment-plugin-container/"
 }
