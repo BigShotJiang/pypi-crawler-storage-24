@@ -1,11 +1,11 @@
 {
   "name": "Student-Information-Management-System",
-  "version": "5.0a0",
+  "version": "5.0.0",
   "summary": "学生信息管理系统 ——针对学生信息特点及实际需要，高效率地、规范地管理大量学生信息，减轻学校管理人员的工作负担",
   "author": "CHUA某人",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "student_information_management_system-5.0a0.tar.gz",
-  "download_time": "2026-03-10T05:03:47.180308",
+  "download_filename": "student_information_management_system-5.0.0.tar.gz",
+  "download_time": "2026-03-10T06:01:36.833380",
   "package_url": "https://pypi.org/project/Student-Information-Management-System/"
 }

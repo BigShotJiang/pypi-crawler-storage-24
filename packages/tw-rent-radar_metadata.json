@@ -1,0 +1,11 @@
+{
+  "name": "tw-rent-radar",
+  "version": "0.1.0",
+  "summary": "Multi-platform Taiwan rental listing CLI tool",
+  "author": "LZong",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tw_rent_radar-0.1.0.tar.gz",
+  "download_time": "2026-03-10T06:01:08.720420",
+  "package_url": "https://pypi.org/project/tw-rent-radar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kospi-kosdaq-stock-server",
+  "version": "0.4.0",
+  "summary": "KOSPI/KOSDAQ Stock Data MCP Server with KRX Data Marketplace integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kospi_kosdaq_stock_server-0.4.0.tar.gz",
+  "download_time": "2026-03-10T06:01:07.143289",
+  "package_url": "https://pypi.org/project/kospi-kosdaq-stock-server/"
+}

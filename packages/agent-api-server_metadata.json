@@ -1,0 +1,11 @@
+{
+  "name": "agent-api-server",
+  "version": "2.2.0",
+  "summary": "A Langgraph agent API server that implements Langgraph agent's web capabilities and can interact with chatbot",
+  "author": "Zijie Zhang",
+  "license": null,
+  "home_page": "https://gitlab.wise-paas.com/openai/agent_api_server",
+  "download_filename": "agent_api_server-2.2.0.tar.gz",
+  "download_time": "2026-03-10T06:00:57.372280",
+  "package_url": "https://pypi.org/project/agent-api-server/"
+}

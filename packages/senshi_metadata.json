@@ -1,11 +1,11 @@
 {
   "name": "senshi",
-  "version": "0.6.3",
+  "version": "0.6.8",
   "summary": "AI-powered SAST + DAST security scanner for bug bounty hunters",
   "author": "Manthan Ghasadiya",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "senshi-0.6.3.tar.gz",
-  "download_time": "2026-03-10T03:40:34.842731",
+  "download_filename": "senshi-0.6.8.tar.gz",
+  "download_time": "2026-03-10T06:01:22.421963",
   "package_url": "https://pypi.org/project/senshi/"
 }

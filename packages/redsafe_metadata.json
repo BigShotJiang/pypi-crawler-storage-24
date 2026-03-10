@@ -1,0 +1,11 @@
+{
+  "name": "redsafe",
+  "version": "0.1.1",
+  "summary": "Local AI-safe redaction engine for security data",
+  "author": "AI Safe Redaction Engine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "redsafe-0.1.1.tar.gz",
+  "download_time": "2026-03-10T06:00:49.365037",
+  "package_url": "https://pypi.org/project/redsafe/"
+}

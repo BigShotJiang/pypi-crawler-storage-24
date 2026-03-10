@@ -1,0 +1,11 @@
+{
+  "name": "uwa-channels",
+  "version": "0.5.0",
+  "summary": "Replay, noise generation, and unpacking for measured underwater acoustic channels.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uwa_channels-0.5.0.tar.gz",
+  "download_time": "2026-03-10T06:01:35.185652",
+  "package_url": "https://pypi.org/project/uwa-channels/"
+}

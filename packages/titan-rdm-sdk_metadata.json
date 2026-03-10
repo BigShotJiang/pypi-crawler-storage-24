@@ -1,11 +1,11 @@
 {
   "name": "titan-rdm-sdk",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python SDK for TitanRdm Upload and Download APIs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "titan_rdm_sdk-0.1.0.tar.gz",
-  "download_time": "2026-03-09T06:43:15.350103",
+  "download_filename": "titan_rdm_sdk-0.1.2.tar.gz",
+  "download_time": "2026-03-10T06:01:14.158226",
   "package_url": "https://pypi.org/project/titan-rdm-sdk/"
 }

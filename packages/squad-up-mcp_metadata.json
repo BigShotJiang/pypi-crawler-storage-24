@@ -1,0 +1,11 @@
+{
+  "name": "squad-up-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Squad Up - create events, add invitees, potluck, carpool via natural language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "squad_up_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-10T06:00:49.890426",
+  "package_url": "https://pypi.org/project/squad-up-mcp/"
+}

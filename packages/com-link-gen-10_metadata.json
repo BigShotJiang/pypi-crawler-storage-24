@@ -1,0 +1,11 @@
+{
+  "name": "com-link-gen-10",
+  "version": "0.0.5",
+  "summary": "calculate all composite link under 10 crossing.",
+  "author": "GGN_2015",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "com_link_gen_10-0.0.5.tar.gz",
+  "download_time": "2026-03-10T06:00:52.529302",
+  "package_url": "https://pypi.org/project/com-link-gen-10/"
+}

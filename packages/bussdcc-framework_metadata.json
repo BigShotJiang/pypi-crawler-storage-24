@@ -1,11 +1,11 @@
 {
   "name": "bussdcc-framework",
-  "version": "0.16.1",
-  "summary": "bussdcc-framework",
+  "version": "0.19.0",
+  "summary": "An opinionated runtime and tooling layer built on top of bussdcc.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bussdcc_framework-0.16.1.tar.gz",
-  "download_time": "2026-03-08T20:48:41.979625",
+  "download_filename": "bussdcc_framework-0.19.0.tar.gz",
+  "download_time": "2026-03-10T06:01:04.449335",
   "package_url": "https://pypi.org/project/bussdcc-framework/"
 }
