@@ -1,0 +1,11 @@
+{
+  "name": "panlabel",
+  "version": "0.4.0",
+  "summary": "The universal annotation converter",
+  "author": "Alex Strick van Linschoten",
+  "license": null,
+  "home_page": "https://github.com/strickvl/panlabel",
+  "download_filename": "panlabel-0.4.0.tar.gz",
+  "download_time": "2026-03-10T17:02:10.046410",
+  "package_url": "https://pypi.org/project/panlabel/"
+}

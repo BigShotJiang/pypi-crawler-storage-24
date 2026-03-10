@@ -1,0 +1,11 @@
+{
+  "name": "kganalytica",
+  "version": "0.1.5",
+  "summary": "Knowledge graph construction, comparison, and similarity toolkit for LLM contextual understanding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kganalytica-0.1.5.tar.gz",
+  "download_time": "2026-03-10T17:02:58.420966",
+  "package_url": "https://pypi.org/project/kganalytica/"
+}

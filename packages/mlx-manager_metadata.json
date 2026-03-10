@@ -1,11 +1,11 @@
 {
   "name": "mlx-manager",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "summary": "Web-based MLX model manager for Apple Silicon Macs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlx_manager-1.2.10.tar.gz",
-  "download_time": "2026-03-10T09:28:13.991298",
+  "download_filename": "mlx_manager-1.2.11.tar.gz",
+  "download_time": "2026-03-10T17:02:40.574133",
   "package_url": "https://pypi.org/project/mlx-manager/"
 }

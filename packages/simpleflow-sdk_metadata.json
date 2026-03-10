@@ -1,0 +1,11 @@
+{
+  "name": "simpleflow-sdk",
+  "version": "0.1.0",
+  "summary": "SimpleFlow remote runtime SDK for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simpleflow_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-10T17:02:43.313470",
+  "package_url": "https://pypi.org/project/simpleflow-sdk/"
+}

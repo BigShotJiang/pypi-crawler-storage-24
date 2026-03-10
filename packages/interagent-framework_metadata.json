@@ -1,11 +1,11 @@
 {
   "name": "interagent-framework",
-  "version": "0.2.0",
-  "summary": "A framework for Claude Code and Kimi Code collaboration",
+  "version": "0.3.0",
+  "summary": "Multi-agent AI collaboration framework (Claude, Kimi, Gemini, Codex, and more)",
   "author": "gutohuida",
   "license": null,
   "home_page": null,
-  "download_filename": "interagent_framework-0.2.0.tar.gz",
-  "download_time": "2026-03-09T11:50:34.235507",
+  "download_filename": "interagent_framework-0.3.0.tar.gz",
+  "download_time": "2026-03-10T17:02:41.659527",
   "package_url": "https://pypi.org/project/interagent-framework/"
 }

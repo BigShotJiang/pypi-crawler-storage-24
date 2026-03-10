@@ -1,0 +1,11 @@
+{
+  "name": "dj-blacksmith",
+  "version": "5.0.2",
+  "summary": "Django Bindings for Blacksmith",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_blacksmith-5.0.2.tar.gz",
+  "download_time": "2026-03-10T17:02:48.871516",
+  "package_url": "https://pypi.org/project/dj-blacksmith/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neuralclaw",
+  "version": "0.5.3",
+  "summary": "The Self-Evolving Cognitive Agent Framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neuralclaw-0.5.3.tar.gz",
+  "download_time": "2026-03-10T17:02:43.890964",
+  "package_url": "https://pypi.org/project/neuralclaw/"
+}

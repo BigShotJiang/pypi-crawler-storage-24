@@ -1,0 +1,11 @@
+{
+  "name": "simpleconfigfinder",
+  "version": "0.5.2",
+  "summary": "Minimalistic configuration finder with standard Python libraries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simpleconfigfinder-0.5.2.tar.gz",
+  "download_time": "2026-03-10T17:02:50.519404",
+  "package_url": "https://pypi.org/project/simpleconfigfinder/"
+}

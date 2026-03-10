@@ -1,0 +1,11 @@
+{
+  "name": "django-rest-knox",
+  "version": "5.0.4",
+  "summary": "Authentication for django rest framework",
+  "author": "James McMahon",
+  "license": "MIT",
+  "home_page": "https://github.com/jazzband/django-rest-knox",
+  "download_filename": "django_rest_knox-5.0.4.tar.gz",
+  "download_time": "2026-03-10T17:02:12.935805",
+  "package_url": "https://pypi.org/project/django-rest-knox/"
+}

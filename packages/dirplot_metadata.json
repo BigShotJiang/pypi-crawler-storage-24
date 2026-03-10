@@ -1,0 +1,11 @@
+{
+  "name": "dirplot",
+  "version": "0.3.0",
+  "summary": "Static treemap bitmaps for directory trees and archives, displayed as inline terminal images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dirplot-0.3.0.tar.gz",
+  "download_time": "2026-03-10T17:02:49.977206",
+  "package_url": "https://pypi.org/project/dirplot/"
+}

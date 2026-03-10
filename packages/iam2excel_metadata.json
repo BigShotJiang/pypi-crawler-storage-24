@@ -1,0 +1,11 @@
+{
+  "name": "iam2excel",
+  "version": "1.0.0",
+  "summary": "Convert AWS IAM policy JSON files into beautifully formatted Excel workbooks",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iam2excel-1.0.0.tar.gz",
+  "download_time": "2026-03-10T17:02:53.257674",
+  "package_url": "https://pypi.org/project/iam2excel/"
+}

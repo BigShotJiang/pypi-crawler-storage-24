@@ -1,0 +1,11 @@
+{
+  "name": "castlabs-evs",
+  "version": "1.1.6",
+  "summary": "A client for EVS, Widevine/VMP signing service",
+  "author": "Emil Pettersson",
+  "license": "APACHE 2.0",
+  "home_page": "https://github.com/castlabs/electron-releases/wiki/EVS",
+  "download_filename": "castlabs_evs-1.1.6.tar.gz",
+  "download_time": "2026-03-10T17:02:38.332699",
+  "package_url": "https://pypi.org/project/castlabs-evs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "octorules",
-  "version": "0.12.6",
+  "version": "0.14.0",
   "summary": "Manage Cloudflare Rules as IaC",
   "author": "Martin Simon, Doctena S.A.",
   "license": null,
   "home_page": null,
-  "download_filename": "octorules-0.12.6.tar.gz",
-  "download_time": "2026-03-07T09:24:09.469427",
+  "download_filename": "octorules-0.14.0.tar.gz",
+  "download_time": "2026-03-10T17:02:49.417623",
   "package_url": "https://pypi.org/project/octorules/"
 }
