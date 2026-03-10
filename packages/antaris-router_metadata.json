@@ -1,11 +1,11 @@
 {
   "name": "antaris-router",
-  "version": "4.9.20",
+  "version": "5.0.1",
   "summary": "File-based model router for LLM cost optimization. Zero dependencies.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "antaris_router-4.9.20.tar.gz",
-  "download_time": "2026-03-08T22:20:59.903284",
+  "download_filename": "antaris_router-5.0.1.tar.gz",
+  "download_time": "2026-03-10T22:00:10.284994",
   "package_url": "https://pypi.org/project/antaris-router/"
 }

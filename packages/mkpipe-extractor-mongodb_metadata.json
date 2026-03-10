@@ -1,0 +1,11 @@
+{
+  "name": "mkpipe-extractor-mongodb",
+  "version": "0.5.1",
+  "summary": "MongoDB extractor for mkpipe.",
+  "author": "Metin Karakus",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mkpipe_extractor_mongodb-0.5.1.tar.gz",
+  "download_time": "2026-03-10T22:00:09.750470",
+  "package_url": "https://pypi.org/project/mkpipe-extractor-mongodb/"
+}

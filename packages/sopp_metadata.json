@@ -1,0 +1,11 @@
+{
+  "name": "sopp",
+  "version": "0.9.0",
+  "summary": "SOPP is an open-source tool for calculating satellite interference to radio astronomy observations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sopp-0.9.0.tar.gz",
+  "download_time": "2026-03-10T22:00:06.582370",
+  "package_url": "https://pypi.org/project/sopp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gerbolyze",
+  "version": "3.2.0",
+  "summary": "A high-resolution image-to-PCB converter. Gerbolyze plots SVG, PNG and JPG onto existing gerber files. It handles almost the full SVG spec and deals with text, path outlines, patterns, arbitrary paths with self-intersections and holes, etc. fully automatically. It can vectorize raster images both by contour tracing and by grayscale dithering. All processing is done at the vector level without intermediate conversions to raster images accurately preserving the input.",
+  "author": "jaseg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gerbolyze-3.2.0.tar.gz",
+  "download_time": "2026-03-10T21:59:50.675215",
+  "package_url": "https://pypi.org/project/gerbolyze/"
+}

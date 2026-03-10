@@ -1,11 +1,11 @@
 {
   "name": "strawpot",
-  "version": "0.1.4",
+  "version": "0.1.12",
   "summary": "Lightweight CLI for agent orchestration",
   "author": "StrawPot Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "strawpot-0.1.4.tar.gz",
-  "download_time": "2026-03-09T22:54:23.103254",
+  "download_filename": "strawpot-0.1.12.tar.gz",
+  "download_time": "2026-03-10T21:59:53.336600",
   "package_url": "https://pypi.org/project/strawpot/"
 }

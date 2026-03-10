@@ -1,11 +1,11 @@
 {
   "name": "mcp-methods",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Reusable utility methods for MCP servers",
   "author": "Kristian Kollsgard",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_methods-0.3.7-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-10T21:36:47.359270",
+  "download_filename": "mcp_methods-0.3.8-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-10T21:59:46.943311",
   "package_url": "https://pypi.org/project/mcp-methods/"
 }

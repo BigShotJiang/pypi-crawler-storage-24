@@ -1,11 +1,11 @@
 {
   "name": "kanibako",
-  "version": "0.11.6",
+  "version": "1.0.1",
   "summary": "Run AI coding agents in rootless containers (meta-package: base + Claude plugin)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kanibako-0.11.6.tar.gz",
-  "download_time": "2026-03-09T21:56:43.660253",
+  "download_filename": "kanibako-1.0.1.tar.gz",
+  "download_time": "2026-03-10T22:00:02.204615",
   "package_url": "https://pypi.org/project/kanibako/"
 }

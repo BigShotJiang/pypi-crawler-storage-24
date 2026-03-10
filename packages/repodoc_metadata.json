@@ -1,0 +1,11 @@
+{
+  "name": "repodoc",
+  "version": "0.2.0",
+  "summary": "A Copilot-first CLI tool for repository health analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repodoc-0.2.0.tar.gz",
+  "download_time": "2026-03-10T21:59:22.227061",
+  "package_url": "https://pypi.org/project/repodoc/"
+}

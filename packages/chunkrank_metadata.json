@@ -1,0 +1,11 @@
+{
+  "name": "chunkrank",
+  "version": "1.0.0",
+  "summary": "Model-aware text chunking and answer re-ranking for LLM pipelines. Automatically adapts chunk size to tokenizer and context window, then consolidates and ranks answers across chunks.",
+  "author": "Amit",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chunkrank-1.0.0.tar.gz",
+  "download_time": "2026-03-10T22:00:05.467316",
+  "package_url": "https://pypi.org/project/chunkrank/"
+}

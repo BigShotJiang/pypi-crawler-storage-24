@@ -1,11 +1,11 @@
 {
   "name": "aiocamedomotic",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "Async Python library for interacting with CAME Domotic home automation systems. Provides automatic session management and device control.",
   "author": "camedomotic-unofficial",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aiocamedomotic-1.4.4.tar.gz",
-  "download_time": "2026-03-10T21:36:50.730137",
+  "download_filename": "aiocamedomotic-1.4.5.tar.gz",
+  "download_time": "2026-03-10T21:59:25.537541",
   "package_url": "https://pypi.org/project/aiocamedomotic/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kanibako-plugin-claude",
-  "version": "0.11.6",
+  "version": "1.0.1",
   "summary": "Claude Code target plugin for kanibako",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kanibako_plugin_claude-0.11.6.tar.gz",
-  "download_time": "2026-03-09T21:56:41.921765",
+  "download_filename": "kanibako_plugin_claude-1.0.1.tar.gz",
+  "download_time": "2026-03-10T22:00:01.672270",
   "package_url": "https://pypi.org/project/kanibako-plugin-claude/"
 }

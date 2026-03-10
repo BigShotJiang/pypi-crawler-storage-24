@@ -1,0 +1,11 @@
+{
+  "name": "featurevisor",
+  "version": "0.2.0",
+  "summary": "Featurevisor Python SDK",
+  "author": "Fahad Heylaal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "featurevisor-0.2.0.tar.gz",
+  "download_time": "2026-03-10T21:59:44.176242",
+  "package_url": "https://pypi.org/project/featurevisor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tattletale",
+  "version": "3.3.0",
+  "summary": "Post-exploitation NTDS dump analyzer — correlates secretsdump output with hashcat potfiles to identify shared passwords and weak credentials in Active Directory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tattletale-3.3.0.tar.gz",
+  "download_time": "2026-03-10T21:59:28.930452",
+  "package_url": "https://pypi.org/project/tattletale/"
+}
