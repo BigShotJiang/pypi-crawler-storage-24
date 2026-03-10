@@ -1,11 +1,11 @@
 {
   "name": "belgie-mcp",
-  "version": "0.10.2",
+  "version": "0.10.4",
   "summary": "Add your description here",
   "author": "Matt LeMay",
   "license": null,
   "home_page": null,
-  "download_filename": "belgie_mcp-0.10.2.tar.gz",
-  "download_time": "2026-03-09T19:01:40.956563",
+  "download_filename": "belgie_mcp-0.10.4.tar.gz",
+  "download_time": "2026-03-10T14:31:14.755290",
   "package_url": "https://pypi.org/project/belgie-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "OASYS2-ESRF-EXTENSIONS",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "oasys2-esrf-extensions",
   "author": "M Sanchez del Rio, Juan Reyes-Herrera, Rafael Celestre",
   "license": "MIT",
   "home_page": "https://github.com/oasys-esrf-kit/OASYS2-ESRF-EXTENSIONS",
-  "download_filename": "oasys2_esrf_extensions-0.0.4.tar.gz",
-  "download_time": "2026-03-10T13:39:46.503174",
+  "download_filename": "oasys2_esrf_extensions-0.0.7.tar.gz",
+  "download_time": "2026-03-10T14:31:56.880455",
   "package_url": "https://pypi.org/project/OASYS2-ESRF-EXTENSIONS/"
 }

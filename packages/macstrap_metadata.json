@@ -1,11 +1,11 @@
 {
   "name": "macstrap",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Remote Mac setup and package management via SSH",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "macstrap-1.0.1.tar.gz",
-  "download_time": "2026-03-10T13:39:33.349757",
+  "download_filename": "macstrap-1.1.0.tar.gz",
+  "download_time": "2026-03-10T14:31:43.512162",
   "package_url": "https://pypi.org/project/macstrap/"
 }

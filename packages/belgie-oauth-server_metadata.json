@@ -1,11 +1,11 @@
 {
   "name": "belgie-oauth-server",
-  "version": "0.10.2",
+  "version": "0.10.4",
   "summary": "OAuth 2.1 authorization server for Belgie",
   "author": "Matt LeMay",
   "license": null,
   "home_page": null,
-  "download_filename": "belgie_oauth_server-0.10.2.tar.gz",
-  "download_time": "2026-03-09T19:01:38.904751",
+  "download_filename": "belgie_oauth_server-0.10.4.tar.gz",
+  "download_time": "2026-03-10T14:31:16.622583",
   "package_url": "https://pypi.org/project/belgie-oauth-server/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "isimip-ea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A command line tool for extraction and analysis of datasets within the ISIMIP project.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "isimip_ea-1.0.0.tar.gz",
-  "download_time": "2026-03-10T13:39:32.201978",
+  "download_filename": "isimip_ea-1.0.1.tar.gz",
+  "download_time": "2026-03-10T14:31:42.294039",
   "package_url": "https://pypi.org/project/isimip-ea/"
 }

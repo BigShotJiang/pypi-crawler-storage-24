@@ -1,0 +1,11 @@
+{
+  "name": "dlt-cratedb",
+  "version": "0.1.1",
+  "summary": "dlt destination adapter for CrateDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dlt_cratedb-0.1.1.tar.gz",
+  "download_time": "2026-03-10T14:31:18.377696",
+  "package_url": "https://pypi.org/project/dlt-cratedb/"
+}

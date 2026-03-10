@@ -1,11 +1,11 @@
 {
   "name": "belgie-team",
-  "version": "0.10.2",
+  "version": "0.10.4",
   "summary": "Team plugin for Belgie",
   "author": "Matt LeMay",
   "license": null,
   "home_page": null,
-  "download_filename": "belgie_team-0.10.2.tar.gz",
-  "download_time": "2026-03-09T19:01:39.418200",
+  "download_filename": "belgie_team-0.10.4.tar.gz",
+  "download_time": "2026-03-10T14:31:16.040254",
   "package_url": "https://pypi.org/project/belgie-team/"
 }

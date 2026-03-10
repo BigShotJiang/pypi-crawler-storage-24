@@ -1,11 +1,11 @@
 {
   "name": "pytreesearch",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Structure-aware document retrieval. FTS5/BM25 keyword matching over document trees, with optional LLM reasoning.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pytreesearch-0.5.4.tar.gz",
-  "download_time": "2026-03-10T13:39:49.409983",
+  "download_filename": "pytreesearch-0.5.5.tar.gz",
+  "download_time": "2026-03-10T14:31:59.853359",
   "package_url": "https://pypi.org/project/pytreesearch/"
 }

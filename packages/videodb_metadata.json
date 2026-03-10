@@ -1,0 +1,11 @@
+{
+  "name": "videodb",
+  "version": "0.4.1",
+  "summary": "VideoDB Python SDK",
+  "author": "videodb",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/video-db/videodb-python",
+  "download_filename": "videodb-0.4.1.tar.gz",
+  "download_time": "2026-03-10T14:31:22.040718",
+  "package_url": "https://pypi.org/project/videodb/"
+}

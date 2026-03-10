@@ -1,0 +1,11 @@
+{
+  "name": "pasta-eln",
+  "version": "3.2.2",
+  "summary": "The favorite ELN for experimental scientists",
+  "author": "The PASTA-ELN Team and Steffen Brinckmann",
+  "license": "MIT",
+  "home_page": "https://pasta-eln.github.io/",
+  "download_filename": "pasta_eln-3.2.2.tar.gz",
+  "download_time": "2026-03-10T14:31:14.164777",
+  "package_url": "https://pypi.org/project/pasta-eln/"
+}

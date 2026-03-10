@@ -1,0 +1,11 @@
+{
+  "name": "Pokie",
+  "version": "0.9.7",
+  "summary": "A high-level Python REST web framework based on Flask, Rick and RickDb.",
+  "author": "João Pinheiro",
+  "license": "BSD-3-Clause",
+  "home_page": "https://git.oddbit.org/OddBit/pokie",
+  "download_filename": "pokie-0.9.7.tar.gz",
+  "download_time": "2026-03-10T14:31:23.780743",
+  "package_url": "https://pypi.org/project/Pokie/"
+}

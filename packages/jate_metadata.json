@@ -1,0 +1,11 @@
+{
+  "name": "jate",
+  "version": "3.0.0",
+  "summary": "Just Automatic Term Extraction — the definitive Python library for automatic term extraction",
+  "author": "Ziqi Zhang",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jate-3.0.0.tar.gz",
+  "download_time": "2026-03-10T14:31:09.755483",
+  "package_url": "https://pypi.org/project/jate/"
+}
