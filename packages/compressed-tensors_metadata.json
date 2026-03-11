@@ -1,0 +1,11 @@
+{
+  "name": "compressed-tensors",
+  "version": "0.14.0",
+  "summary": "Library for utilization of compressed safetensors of neural network models",
+  "author": "The vLLM Project",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/vllm-project/compressed-tensors",
+  "download_filename": "compressed_tensors-0.14.0.tar.gz",
+  "download_time": "2026-03-11T01:26:44.303620",
+  "package_url": "https://pypi.org/project/compressed-tensors/"
+}

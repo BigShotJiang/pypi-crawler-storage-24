@@ -1,0 +1,11 @@
+{
+  "name": "azwi",
+  "version": "0.9.2",
+  "summary": "Azure DevOps work item fetcher for agentic coding tools",
+  "author": "John Paul Ellis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azwi-0.9.2.tar.gz",
+  "download_time": "2026-03-11T01:26:10.164320",
+  "package_url": "https://pypi.org/project/azwi/"
+}

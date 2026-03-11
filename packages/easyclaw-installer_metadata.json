@@ -1,11 +1,11 @@
 {
   "name": "easyclaw-installer",
-  "version": "0.8.1",
+  "version": "0.8.3",
   "summary": "Agentic TUI installer for the OpenClaw framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easyclaw_installer-0.8.1.tar.gz",
-  "download_time": "2026-03-10T11:41:06.065045",
+  "download_filename": "easyclaw_installer-0.8.3.tar.gz",
+  "download_time": "2026-03-11T01:26:33.269276",
   "package_url": "https://pypi.org/project/easyclaw-installer/"
 }

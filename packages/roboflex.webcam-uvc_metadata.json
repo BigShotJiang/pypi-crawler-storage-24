@@ -1,0 +1,11 @@
+{
+  "name": "roboflex.webcam-uvc",
+  "version": "0.1.7",
+  "summary": "Roboflex Library that supports UVC-Compatible Webcams",
+  "author": "Colin Prepscius",
+  "license": "MIT",
+  "home_page": "https://github.com/flexrobotics/roboflex_webcamuvc",
+  "download_filename": "roboflex_webcam_uvc-0.1.7.tar.gz",
+  "download_time": "2026-03-11T01:26:11.724297",
+  "package_url": "https://pypi.org/project/roboflex.webcam-uvc/"
+}

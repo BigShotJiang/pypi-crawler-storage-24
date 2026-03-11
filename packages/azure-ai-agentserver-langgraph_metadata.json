@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-agentserver-langgraph",
+  "version": "1.0.0b16",
+  "summary": "LangGraph adapter for Azure AI Agent Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_ai_agentserver_langgraph-1.0.0b16.tar.gz",
+  "download_time": "2026-03-11T01:26:33.790997",
+  "package_url": "https://pypi.org/project/azure-ai-agentserver-langgraph/"
+}

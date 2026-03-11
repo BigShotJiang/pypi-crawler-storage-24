@@ -1,0 +1,11 @@
+{
+  "name": "mujoco-warp",
+  "version": "3.6.0",
+  "summary": "MuJoCo Warp (MJWarp)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mujoco_warp-3.6.0.tar.gz",
+  "download_time": "2026-03-11T01:26:36.936196",
+  "package_url": "https://pypi.org/project/mujoco-warp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "safeenv-tool",
+  "version": "0.1.2",
+  "summary": "One-command Python environment setup — auto-detects imports, creates .venv, and installs packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safeenv_tool-0.1.2.tar.gz",
+  "download_time": "2026-03-11T01:26:28.014762",
+  "package_url": "https://pypi.org/project/safeenv-tool/"
+}

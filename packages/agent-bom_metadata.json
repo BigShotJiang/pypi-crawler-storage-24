@@ -1,11 +1,11 @@
 {
   "name": "agent-bom",
-  "version": "0.68.2",
-  "summary": "Security scanner for AI infrastructure. Discover MCP configs (21 clients), scan for CVEs (OSV/NVD/EPSS/KEV), map blast radius to reachable credentials and tools, runtime proxy with 7 detectors, 30 MCP tools, CIS benchmarks (AWS/Azure/GCP/Snowflake), MITRE ATT&CK mapping, and 11-framework compliance.",
+  "version": "0.69.1",
+  "summary": "Security scanner for AI infrastructure. Discover MCP configs (22 clients), scan for CVEs (OSV/NVD/EPSS/KEV), map blast radius to reachable credentials and tools, runtime proxy with 7 detectors, 30 MCP tools, CIS benchmarks (AWS/Azure/GCP/Snowflake), MITRE ATT&CK mapping, and 11-framework compliance.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_bom-0.68.2.tar.gz",
-  "download_time": "2026-03-10T07:47:07.848271",
+  "download_filename": "agent_bom-0.69.1.tar.gz",
+  "download_time": "2026-03-11T01:26:26.974345",
   "package_url": "https://pypi.org/project/agent-bom/"
 }
