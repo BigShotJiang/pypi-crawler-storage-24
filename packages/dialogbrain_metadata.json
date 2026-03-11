@@ -1,0 +1,11 @@
+{
+  "name": "dialogbrain",
+  "version": "0.1.0",
+  "summary": "Python SDK for the DialogBrain messaging API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dialogbrain-0.1.0.tar.gz",
+  "download_time": "2026-03-11T14:36:13.881635",
+  "package_url": "https://pypi.org/project/dialogbrain/"
+}

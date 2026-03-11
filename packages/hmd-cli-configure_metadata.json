@@ -1,0 +1,11 @@
+{
+  "name": "hmd-cli-configure",
+  "version": "1.0.46",
+  "summary": "CLI tools for configuring other HMD tools",
+  "author": "Alex Burgoon",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_cli_configure-1.0.46-py3-none-any.whl",
+  "download_time": "2026-03-11T14:36:13.299804",
+  "package_url": "https://pypi.org/project/hmd-cli-configure/"
+}

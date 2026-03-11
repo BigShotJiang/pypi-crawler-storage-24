@@ -1,0 +1,11 @@
+{
+  "name": "bayesgm",
+  "version": "1.0.1",
+  "summary": "A toolkit for AI-driven Bayesian Generative Modeling",
+  "author": "Qiao Liu",
+  "license": "MIT",
+  "home_page": "https://github.com/liuq-lab/bayesgm",
+  "download_filename": "bayesgm-1.0.1.tar.gz",
+  "download_time": "2026-03-11T14:36:06.208927",
+  "package_url": "https://pypi.org/project/bayesgm/"
+}

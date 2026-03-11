@@ -1,0 +1,11 @@
+{
+  "name": "clang-format",
+  "version": "22.1.1",
+  "summary": "Clang-Format is an LLVM-based code formatting tool",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "clang_format-22.1.1.tar.gz",
+  "download_time": "2026-03-11T14:36:03.380175",
+  "package_url": "https://pypi.org/project/clang-format/"
+}

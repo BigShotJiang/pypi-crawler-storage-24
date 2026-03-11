@@ -1,0 +1,11 @@
+{
+  "name": "hmd-cli-build",
+  "version": "0.1.77",
+  "summary": "Generic build tool.",
+  "author": "Jim Majure",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_cli_build-0.1.77-py3-none-any.whl",
+  "download_time": "2026-03-11T14:36:03.890250",
+  "package_url": "https://pypi.org/project/hmd-cli-build/"
+}

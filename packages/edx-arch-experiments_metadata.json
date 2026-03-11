@@ -1,0 +1,11 @@
+{
+  "name": "edx-arch-experiments",
+  "version": "7.2.0",
+  "summary": "A plugin to include applications under development by the architecture team at edx",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/edx/edx-arch-experiments",
+  "download_filename": "edx_arch_experiments-7.2.0.tar.gz",
+  "download_time": "2026-03-11T14:35:38.101981",
+  "package_url": "https://pypi.org/project/edx-arch-experiments/"
+}

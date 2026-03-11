@@ -1,0 +1,11 @@
+{
+  "name": "EveryStamp",
+  "version": "1.6.2",
+  "summary": "A Python interface for retrieving FITS or image cutouts from a variety of astronomical surveys.",
+  "author": "Frits Sweijen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "everystamp-1.6.2.tar.gz",
+  "download_time": "2026-03-11T14:36:20.008645",
+  "package_url": "https://pypi.org/project/EveryStamp/"
+}

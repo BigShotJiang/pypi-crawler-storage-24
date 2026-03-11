@@ -1,0 +1,11 @@
+{
+  "name": "django-db-anonymiser",
+  "version": "0.4.2",
+  "summary": "Django app to create configurable anonymised DB dumps.",
+  "author": "Brendan Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_db_anonymiser-0.4.2.tar.gz",
+  "download_time": "2026-03-11T14:35:42.713919",
+  "package_url": "https://pypi.org/project/django-db-anonymiser/"
+}

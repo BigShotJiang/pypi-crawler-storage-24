@@ -1,11 +1,11 @@
 {
   "name": "amplifier-core",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Rust kernel with Python bindings for the Amplifier modular AI agent framework",
   "author": "Microsoft MADE:Explorations Team",
   "license": null,
   "home_page": null,
-  "download_filename": "amplifier_core-1.1.0.tar.gz",
-  "download_time": "2026-03-08T17:27:58.209363",
+  "download_filename": "amplifier_core-1.2.0.tar.gz",
+  "download_time": "2026-03-11T14:36:21.739907",
   "package_url": "https://pypi.org/project/amplifier-core/"
 }

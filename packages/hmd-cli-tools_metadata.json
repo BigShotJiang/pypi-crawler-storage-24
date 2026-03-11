@@ -1,0 +1,11 @@
+{
+  "name": "hmd-cli-tools",
+  "version": "1.2.244",
+  "summary": "Common utility functions for HMD CLI commands",
+  "author": "Jim Majure",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_cli_tools-1.2.244-py3-none-any.whl",
+  "download_time": "2026-03-11T14:36:12.219328",
+  "package_url": "https://pypi.org/project/hmd-cli-tools/"
+}

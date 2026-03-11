@@ -1,0 +1,11 @@
+{
+  "name": "hmd-base-service",
+  "version": "0.2.198",
+  "summary": "Python library for basic vocabulary exposing microservice",
+  "author": "Alex Burgoon",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_base_service-0.2.198-py3-none-any.whl",
+  "download_time": "2026-03-11T14:36:04.980453",
+  "package_url": "https://pypi.org/project/hmd-base-service/"
+}

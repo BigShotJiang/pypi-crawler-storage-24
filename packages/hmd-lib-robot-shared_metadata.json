@@ -1,0 +1,11 @@
+{
+  "name": "hmd-lib-robot-shared",
+  "version": "0.2.144",
+  "summary": "Shared Robotframework libraries",
+  "author": "Jim Majure",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_lib_robot_shared-0.2.144-py3-none-any.whl",
+  "download_time": "2026-03-11T14:35:59.385220",
+  "package_url": "https://pypi.org/project/hmd-lib-robot-shared/"
+}
