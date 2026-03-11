@@ -1,0 +1,11 @@
+{
+  "name": "flyteplugins-vllm",
+  "version": "2.0.6",
+  "summary": "vLLM plugin for flyte",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flyteplugins_vllm-2.0.6-py3-none-any.whl",
+  "download_time": "2026-03-11T17:36:23.206341",
+  "package_url": "https://pypi.org/project/flyteplugins-vllm/"
+}

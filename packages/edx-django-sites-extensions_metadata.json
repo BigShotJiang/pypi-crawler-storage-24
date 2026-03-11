@@ -1,0 +1,11 @@
+{
+  "name": "edx-django-sites-extensions",
+  "version": "6.0.0",
+  "summary": "Custom extensions for the Django sites framework",
+  "author": "edX",
+  "license": "AGPL",
+  "home_page": "https://github.com/openedx/edx-django-sites-extensions",
+  "download_filename": "edx_django_sites_extensions-6.0.0.tar.gz",
+  "download_time": "2026-03-11T17:36:13.740762",
+  "package_url": "https://pypi.org/project/edx-django-sites-extensions/"
+}

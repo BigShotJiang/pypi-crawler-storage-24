@@ -1,0 +1,11 @@
+{
+  "name": "glassflow",
+  "version": "3.8.0",
+  "summary": "GlassFlow Python SDK: Create GlassFlow pipelines between Kafka and ClickHouse",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glassflow-3.8.0.tar.gz",
+  "download_time": "2026-03-11T17:35:49.217899",
+  "package_url": "https://pypi.org/project/glassflow/"
+}

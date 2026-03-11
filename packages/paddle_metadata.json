@@ -1,0 +1,11 @@
+{
+  "name": "paddle",
+  "version": "1.2.14",
+  "summary": "Python Atmospheric Dynamics: Discovery and Learning about Exoplanets. An open-source, user-friendly python frontend of canoe",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paddle-1.2.14.tar.gz",
+  "download_time": "2026-03-11T17:35:40.915667",
+  "package_url": "https://pypi.org/project/paddle/"
+}

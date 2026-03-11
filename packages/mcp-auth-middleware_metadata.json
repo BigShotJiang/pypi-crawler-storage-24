@@ -1,0 +1,11 @@
+{
+  "name": "mcp-auth-middleware",
+  "version": "0.1.6",
+  "summary": "JWE authentication middleware for MCP/Starlette applications",
+  "author": "Aurel Bartmann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_auth_middleware-0.1.6.tar.gz",
+  "download_time": "2026-03-11T17:35:26.762196",
+  "package_url": "https://pypi.org/project/mcp-auth-middleware/"
+}

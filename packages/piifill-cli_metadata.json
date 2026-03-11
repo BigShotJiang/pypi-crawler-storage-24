@@ -1,11 +1,11 @@
 {
   "name": "piifill-cli",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "PIIFILL: Professional Local-Logic PII Sanitization CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "piifill_cli-0.1.3.tar.gz",
-  "download_time": "2026-03-09T09:03:14.145210",
+  "download_filename": "piifill_cli-0.1.6.tar.gz",
+  "download_time": "2026-03-11T17:36:05.794185",
   "package_url": "https://pypi.org/project/piifill-cli/"
 }

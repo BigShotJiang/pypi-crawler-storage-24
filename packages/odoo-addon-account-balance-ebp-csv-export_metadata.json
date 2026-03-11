@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-balance-ebp-csv-export",
+  "version": "18.0.1.0.0.3",
+  "summary": "Export the trial balance in EBP format (CSV or XLSX)",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-france",
+  "download_filename": "odoo_addon_account_balance_ebp_csv_export-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-03-11T17:36:14.374474",
+  "package_url": "https://pypi.org/project/odoo-addon-account-balance-ebp-csv-export/"
+}

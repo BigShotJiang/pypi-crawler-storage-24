@@ -1,0 +1,11 @@
+{
+  "name": "gotenberg-client",
+  "version": "0.14.0",
+  "summary": "A Python client for interfacing with the Gotenberg API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gotenberg_client-0.14.0.tar.gz",
+  "download_time": "2026-03-11T17:35:36.312230",
+  "package_url": "https://pypi.org/project/gotenberg-client/"
+}

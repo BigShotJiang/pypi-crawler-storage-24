@@ -1,0 +1,11 @@
+{
+  "name": "hs-net",
+  "version": "0.1.0",
+  "summary": "统一多引擎的增强型 HTTP 客户端，内置重试、选择器、信号中间件",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hs_net-0.1.0.tar.gz",
+  "download_time": "2026-03-11T17:36:15.591399",
+  "package_url": "https://pypi.org/project/hs-net/"
+}
