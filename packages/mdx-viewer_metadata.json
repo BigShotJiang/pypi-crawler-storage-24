@@ -1,0 +1,11 @@
+{
+  "name": "mdx-viewer",
+  "version": "1.0.0",
+  "summary": "A beautiful Markdown viewer for terminal with code execution support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdx_viewer-1.0.0.tar.gz",
+  "download_time": "2026-03-11T21:49:28.336662",
+  "package_url": "https://pypi.org/project/mdx-viewer/"
+}

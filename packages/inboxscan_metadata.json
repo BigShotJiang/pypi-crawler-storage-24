@@ -1,0 +1,11 @@
+{
+  "name": "inboxscan",
+  "version": "0.2.0",
+  "summary": "Find every subscription hiding in your email — zero credentials stored, nothing leaves your machine.",
+  "author": "Sravya Vedantham",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inboxscan-0.2.0.tar.gz",
+  "download_time": "2026-03-11T21:49:10.415559",
+  "package_url": "https://pypi.org/project/inboxscan/"
+}

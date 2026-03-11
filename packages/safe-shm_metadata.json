@@ -1,0 +1,11 @@
+{
+  "name": "safe-shm",
+  "version": "0.1.0",
+  "summary": "Lock-free shared memory primitives for real-time C++ and Python",
+  "author": "Pavel Guzenfeld",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safe_shm-0.1.0.tar.gz",
+  "download_time": "2026-03-11T21:49:25.892495",
+  "package_url": "https://pypi.org/project/safe-shm/"
+}

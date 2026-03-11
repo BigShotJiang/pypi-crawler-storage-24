@@ -1,0 +1,11 @@
+{
+  "name": "fabric-warehouse-advisor",
+  "version": "1.0.7",
+  "summary": "A modular advisory framework for Microsoft Fabric Warehouse — Data Clustering, Performance, Security and more.",
+  "author": "Fabric Warehouse Advisor Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fabric_warehouse_advisor-1.0.7.tar.gz",
+  "download_time": "2026-03-11T21:49:18.042487",
+  "package_url": "https://pypi.org/project/fabric-warehouse-advisor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "respan-tracing",
-  "version": "2.8.1",
+  "version": "2.10.0",
   "summary": "Respan SDK allows you to interact with the Respan API smoothly",
   "author": "Respan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "respan_tracing-2.8.1.tar.gz",
-  "download_time": "2026-03-10T05:03:39.970689",
+  "download_filename": "respan_tracing-2.10.0.tar.gz",
+  "download_time": "2026-03-11T21:49:07.391046",
   "package_url": "https://pypi.org/project/respan-tracing/"
 }

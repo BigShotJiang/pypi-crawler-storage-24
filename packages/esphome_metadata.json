@@ -1,0 +1,11 @@
+{
+  "name": "esphome",
+  "version": "2026.2.4",
+  "summary": "ESPHome is a system to configure your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esphome-2026.2.4.tar.gz",
+  "download_time": "2026-03-11T21:49:44.921454",
+  "package_url": "https://pypi.org/project/esphome/"
+}

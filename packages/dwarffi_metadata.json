@@ -1,11 +1,11 @@
 {
   "name": "dwarffi",
-  "version": "0.0.13",
+  "version": "0.0.16",
   "summary": "dwarffi is a Python library for parsing ISF files and providing an interface to access kernel symbols and types.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dwarffi-0.0.13.tar.gz",
-  "download_time": "2026-03-10T01:25:54.678882",
+  "download_filename": "dwarffi-0.0.16.tar.gz",
+  "download_time": "2026-03-11T21:49:21.313202",
   "package_url": "https://pypi.org/project/dwarffi/"
 }

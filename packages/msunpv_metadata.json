@@ -1,0 +1,11 @@
+{
+  "name": "msunpv",
+  "version": "0.2.1",
+  "summary": "Library to interface an msunpv devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msunpv-0.2.1.tar.gz",
+  "download_time": "2026-03-11T21:49:14.257068",
+  "package_url": "https://pypi.org/project/msunpv/"
+}

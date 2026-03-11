@@ -1,0 +1,11 @@
+{
+  "name": "tv-viewer",
+  "version": "3.0.3",
+  "summary": "Python GUI to view tv program details using tvmaze API and SQLite",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "tv_viewer-3.0.3.tar.gz",
+  "download_time": "2026-03-11T21:49:08.679922",
+  "package_url": "https://pypi.org/project/tv-viewer/"
+}
