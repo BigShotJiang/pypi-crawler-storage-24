@@ -1,11 +1,11 @@
 {
   "name": "sokpy",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Unofficial Python wrapper for SOK / S-Kaupat APIs",
   "author": "Collectseal120",
   "license": null,
   "home_page": null,
-  "download_filename": "sokpy-0.1.1.tar.gz",
-  "download_time": "2026-03-10T11:01:31.645179",
+  "download_filename": "sokpy-0.1.5.tar.gz",
+  "download_time": "2026-03-11T16:35:21.106064",
   "package_url": "https://pypi.org/project/sokpy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-providerkit",
+  "version": "1.0.0",
+  "summary": "Django integration for ProviderKit. Provides Django admin integration and utilities for managing providers in Django applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_providerkit-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-11T16:34:48.956929",
+  "package_url": "https://pypi.org/project/django-providerkit/"
+}

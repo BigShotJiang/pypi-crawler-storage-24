@@ -1,0 +1,11 @@
+{
+  "name": "conan-exoplanet",
+  "version": "3.3.14",
+  "summary": "COde for exoplaNet ANalysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conan_exoplanet-3.3.14-py3-none-any.whl",
+  "download_time": "2026-03-11T16:35:35.474570",
+  "package_url": "https://pypi.org/project/conan-exoplanet/"
+}

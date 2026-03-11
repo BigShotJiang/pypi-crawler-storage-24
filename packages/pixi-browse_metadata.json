@@ -1,0 +1,11 @@
+{
+  "name": "pixi-browse",
+  "version": "0.0.4",
+  "summary": "A TUI to browse conda packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixi_browse-0.0.4.tar.gz",
+  "download_time": "2026-03-11T16:35:02.270284",
+  "package_url": "https://pypi.org/project/pixi-browse/"
+}

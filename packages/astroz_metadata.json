@@ -1,0 +1,11 @@
+{
+  "name": "astroz",
+  "version": "0.10.1",
+  "summary": "Python bindings for astroz - high-performance astrodynamics library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astroz-0.10.1-cp310-cp310-manylinux_2_36_x86_64.whl",
+  "download_time": "2026-03-11T16:35:22.774812",
+  "package_url": "https://pypi.org/project/astroz/"
+}

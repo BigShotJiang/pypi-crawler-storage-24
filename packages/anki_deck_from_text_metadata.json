@@ -1,11 +1,11 @@
 {
   "name": "anki_deck_from_text",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "summary": "Generate an Anki deck from annotations on a text file",
   "author": "Andre Macedo",
   "license": "MIT",
   "home_page": "https://github.com/AndreMacedo88/anki_deck_from_text",
-  "download_filename": "anki_deck_from_text-1.3.5.tar.gz",
-  "download_time": "2026-03-11T14:36:22.321586",
+  "download_filename": "anki_deck_from_text-1.3.6.tar.gz",
+  "download_time": "2026-03-11T16:34:47.912600",
   "package_url": "https://pypi.org/project/anki_deck_from_text/"
 }

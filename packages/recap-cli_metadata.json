@@ -1,11 +1,11 @@
 {
   "name": "recap-cli",
-  "version": "1.0.1.post1",
+  "version": "1.0.1.post2",
   "summary": "AI Movie recap generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "recap_cli-1.0.1.post1.tar.gz",
-  "download_time": "2026-03-11T15:34:54.932437",
+  "download_filename": "recap_cli-1.0.1.post2.tar.gz",
+  "download_time": "2026-03-11T16:34:59.818101",
   "package_url": "https://pypi.org/project/recap-cli/"
 }

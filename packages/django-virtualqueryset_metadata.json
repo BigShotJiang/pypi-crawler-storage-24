@@ -1,0 +1,11 @@
+{
+  "name": "django-virtualqueryset",
+  "version": "1.0.0",
+  "summary": "Django library for QuerySet-like objects not backed by a database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_virtualqueryset-1.0.0.tar.gz",
+  "download_time": "2026-03-11T16:34:56.042092",
+  "package_url": "https://pypi.org/project/django-virtualqueryset/"
+}
