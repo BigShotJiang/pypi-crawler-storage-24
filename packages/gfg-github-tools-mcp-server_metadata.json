@@ -1,0 +1,11 @@
+{
+  "name": "gfg-github-tools-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server with GitHub repository and workflow tools",
+  "author": "datgfg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gfg_github_tools_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-11T06:23:35.731156",
+  "package_url": "https://pypi.org/project/gfg-github-tools-mcp-server/"
+}

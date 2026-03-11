@@ -1,0 +1,11 @@
+{
+  "name": "autocrucible",
+  "version": "0.2.0",
+  "summary": "Autonomous experiment platform for iterative LLM agent optimization",
+  "author": "suzuke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autocrucible-0.2.0.tar.gz",
+  "download_time": "2026-03-11T06:23:12.636624",
+  "package_url": "https://pypi.org/project/autocrucible/"
+}

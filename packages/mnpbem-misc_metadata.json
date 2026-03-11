@@ -1,0 +1,11 @@
+{
+  "name": "mnpbem-misc",
+  "version": "0.1.2",
+  "summary": "Shared numerical and vector algebra toolkit for MNPBEM-Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnpbem_misc-0.1.2.tar.gz",
+  "download_time": "2026-03-11T06:23:28.069821",
+  "package_url": "https://pypi.org/project/mnpbem-misc/"
+}

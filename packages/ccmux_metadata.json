@@ -1,0 +1,11 @@
+{
+  "name": "ccmux",
+  "version": "0.6.0",
+  "summary": "Claude Code Multiplexer - Manage multiple Claude Code instances",
+  "author": "Ray Kampmeier",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ccmux-0.6.0.tar.gz",
+  "download_time": "2026-03-11T06:23:42.810151",
+  "package_url": "https://pypi.org/project/ccmux/"
+}

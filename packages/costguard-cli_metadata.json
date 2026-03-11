@@ -1,11 +1,11 @@
 {
   "name": "costguard-cli",
-  "version": "2.0.5",
+  "version": "2.0.7",
   "summary": "CostGuard CI/CD validation CLI — shift-left cost governance for cloud infrastructure",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "costguard_cli-2.0.5.tar.gz",
-  "download_time": "2026-03-10T11:41:02.130593",
+  "download_filename": "costguard_cli-2.0.7.tar.gz",
+  "download_time": "2026-03-11T06:23:19.778489",
   "package_url": "https://pypi.org/project/costguard-cli/"
 }

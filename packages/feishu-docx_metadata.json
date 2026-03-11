@@ -1,0 +1,11 @@
+{
+  "name": "feishu-docx",
+  "version": "0.2.2",
+  "summary": "Export Feishu/Lark cloud documents to Markdown",
+  "author": "leemysw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "feishu_docx-0.2.2.tar.gz",
+  "download_time": "2026-03-11T06:23:34.102445",
+  "package_url": "https://pypi.org/project/feishu-docx/"
+}

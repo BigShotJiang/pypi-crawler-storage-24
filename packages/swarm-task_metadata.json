@@ -1,0 +1,11 @@
+{
+  "name": "swarm-task",
+  "version": "0.0.2",
+  "summary": "Lightweight task orchestration for iterative AI evaluation loops",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swarm_task-0.0.2.tar.gz",
+  "download_time": "2026-03-11T06:23:38.482432",
+  "package_url": "https://pypi.org/project/swarm-task/"
+}

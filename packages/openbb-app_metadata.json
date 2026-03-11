@@ -1,11 +1,11 @@
 {
   "name": "openbb-app",
-  "version": "0.1.3",
+  "version": "0.2.1",
   "summary": "Add your description here",
   "author": "Roger Ye",
   "license": null,
   "home_page": null,
-  "download_filename": "openbb_app-0.1.3.tar.gz",
-  "download_time": "2026-03-08T04:07:09.755924",
+  "download_filename": "openbb_app-0.2.1.tar.gz",
+  "download_time": "2026-03-11T06:22:58.129189",
   "package_url": "https://pypi.org/project/openbb-app/"
 }

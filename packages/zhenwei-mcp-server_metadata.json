@@ -1,0 +1,11 @@
+{
+  "name": "zhenwei-mcp-server",
+  "version": "1.0.0",
+  "summary": "诊微 AI 病历质控平台 MCP Server — 让 AI 智能体具备病历质控能力",
+  "author": "ZhenWei Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zhenwei_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-03-11T06:23:37.937784",
+  "package_url": "https://pypi.org/project/zhenwei-mcp-server/"
+}

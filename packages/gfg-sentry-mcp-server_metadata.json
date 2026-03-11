@@ -1,0 +1,11 @@
+{
+  "name": "gfg-sentry-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for querying Sentry alerts and issues.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gfg_sentry_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-11T06:23:09.338964",
+  "package_url": "https://pypi.org/project/gfg-sentry-mcp-server/"
+}

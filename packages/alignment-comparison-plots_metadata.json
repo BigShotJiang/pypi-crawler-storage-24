@@ -1,0 +1,11 @@
+{
+  "name": "alignment-comparison-plots",
+  "version": "0.1.1",
+  "summary": "Interactive phoneme-level plots for comparing forced-alignment outputs across Praat TextGrid corpora.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alignment_comparison_plots-0.1.1.tar.gz",
+  "download_time": "2026-03-11T06:23:14.269837",
+  "package_url": "https://pypi.org/project/alignment-comparison-plots/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "attest-py",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Rust storage engine for AttestDB (PyO3 bindings)",
   "author": "Omic Research",
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "attest_py-0.1.9-cp312-cp312-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-11T05:05:10.064295",
+  "download_filename": "attest_py-0.1.10-cp312-cp312-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-11T06:22:56.821669",
   "package_url": "https://pypi.org/project/attest-py/"
 }

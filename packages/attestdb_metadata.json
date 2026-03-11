@@ -1,11 +1,11 @@
 {
   "name": "attestdb",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "The database for knowledge you can verify",
   "author": "Omic Research",
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "attestdb-0.1.9.tar.gz",
-  "download_time": "2026-03-11T05:05:12.641146",
+  "download_filename": "attestdb-0.1.11.tar.gz",
+  "download_time": "2026-03-11T06:23:03.351969",
   "package_url": "https://pypi.org/project/attestdb/"
 }

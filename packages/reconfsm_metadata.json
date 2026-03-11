@@ -1,0 +1,11 @@
+{
+  "name": "reconfsm",
+  "version": "0.0.1",
+  "summary": "Reconstruction of Forensic Timelines Using Finite State Machine",
+  "author": "Hudan Studiawan, Afiq Fawwaz Haidar, Arkananta Masarief, Kemal Tangguh Aji Rajasa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reconfsm-0.0.1.tar.gz",
+  "download_time": "2026-03-11T06:23:33.559475",
+  "package_url": "https://pypi.org/project/reconfsm/"
+}

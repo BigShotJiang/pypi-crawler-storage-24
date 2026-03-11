@@ -1,0 +1,11 @@
+{
+  "name": "missim-config",
+  "version": "3.1.2",
+  "summary": "A library for reading / writing Missim config files",
+  "author": "Greenroom Robotics",
+  "license": "Copyright (C) 2023, Greenroom Robotics",
+  "home_page": "https://github.com/Greenroom-Robotics/missim",
+  "download_filename": "missim_config-3.1.2.tar.gz",
+  "download_time": "2026-03-11T06:23:23.096774",
+  "package_url": "https://pypi.org/project/missim-config/"
+}

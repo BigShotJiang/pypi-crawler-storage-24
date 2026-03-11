@@ -1,0 +1,11 @@
+{
+  "name": "ziniao-mcp",
+  "version": "0.1.23",
+  "summary": "紫鸟与 Chrome 浏览器 MCP 服务器 — 让 AI Agent 操控紫鸟店铺与本地 Chrome",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "ziniao_mcp-0.1.23.tar.gz",
+  "download_time": "2026-03-11T06:23:40.090435",
+  "package_url": "https://pypi.org/project/ziniao-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rienet",
-  "version": "1.0.9",
+  "version": "1.1.1",
   "summary": "A Compact Recurrent-Invariant Eigenvalue Network for Portfolio Optimization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rienet-1.0.9.tar.gz",
-  "download_time": "2026-03-09T09:03:11.026434",
+  "download_filename": "rienet-1.1.1.tar.gz",
+  "download_time": "2026-03-11T06:23:00.432090",
   "package_url": "https://pypi.org/project/rienet/"
 }

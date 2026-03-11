@@ -1,0 +1,11 @@
+{
+  "name": "ha-mqtt-discoverable",
+  "version": "0.24.0",
+  "summary": "Python library for creating MQTT entities compatible with Home Assistant",
+  "author": "Joe Block",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ha_mqtt_discoverable-0.24.0.tar.gz",
+  "download_time": "2026-03-11T06:23:36.273081",
+  "package_url": "https://pypi.org/project/ha-mqtt-discoverable/"
+}
