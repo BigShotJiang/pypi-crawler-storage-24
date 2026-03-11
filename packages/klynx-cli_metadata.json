@@ -1,0 +1,11 @@
+{
+  "name": "klynx-cli",
+  "version": "0.0.5",
+  "summary": "Klynx Textual CLI application package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "klynx_cli-0.0.5.tar.gz",
+  "download_time": "2026-03-11T15:35:30.087954",
+  "package_url": "https://pypi.org/project/klynx-cli/"
+}

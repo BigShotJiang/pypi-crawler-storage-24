@@ -1,0 +1,11 @@
+{
+  "name": "hyperliquid-cli-python",
+  "version": "0.1.3",
+  "summary": "Python CLI for Hyperliquid DEX",
+  "author": "hyperliquid-cli contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperliquid_cli_python-0.1.3.tar.gz",
+  "download_time": "2026-03-11T15:34:48.119430",
+  "package_url": "https://pypi.org/project/hyperliquid-cli-python/"
+}

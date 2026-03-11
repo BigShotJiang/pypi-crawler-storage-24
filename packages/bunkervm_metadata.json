@@ -1,11 +1,11 @@
 {
   "name": "bunkervm",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "Hardware-isolated Linux sandbox for AI agents — Firecracker MicroVM + MCP",
   "author": "Ashish",
   "license": null,
   "home_page": null,
-  "download_filename": "bunkervm-0.5.0.tar.gz",
-  "download_time": "2026-03-09T11:50:12.981224",
+  "download_filename": "bunkervm-0.7.0.tar.gz",
+  "download_time": "2026-03-11T15:35:20.250147",
   "package_url": "https://pypi.org/project/bunkervm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fw-gear-deid-export",
+  "version": "1.10.0",
+  "summary": "Utilities for de-identification/anonymization of files within Flywheel",
+  "author": "Flywheel, Inc.",
+  "license": null,
+  "home_page": "https://gitlab.com/flywheel-io/scientific-solutions/gears/deid-export",
+  "download_filename": "fw_gear_deid_export-1.10.0-py3-none-any.whl",
+  "download_time": "2026-03-11T15:34:53.076456",
+  "package_url": "https://pypi.org/project/fw-gear-deid-export/"
+}

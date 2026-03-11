@@ -1,11 +1,11 @@
 {
   "name": "orionagent",
-  "version": "0.1.3",
+  "version": "0.1.7",
   "summary": "A lightweight Python framework for building AI agents with tools, sessions, and flexible memory.",
   "author": "Samir Lade",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "orionagent-0.1.3.tar.gz",
-  "download_time": "2026-03-11T14:36:20.579419",
+  "download_filename": "orionagent-0.1.7.tar.gz",
+  "download_time": "2026-03-11T15:35:16.738225",
   "package_url": "https://pypi.org/project/orionagent/"
 }
