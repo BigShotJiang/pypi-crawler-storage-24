@@ -1,0 +1,11 @@
+{
+  "name": "BaSSET-UiO",
+  "version": "1.0.2a0",
+  "summary": "A GUI-based toolbox for signal selection of operando scattering experiments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "basset_uio-1.0.2a0.tar.gz",
+  "download_time": "2026-03-11T19:31:57.045748",
+  "package_url": "https://pypi.org/project/BaSSET-UiO/"
+}

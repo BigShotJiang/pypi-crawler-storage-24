@@ -1,0 +1,11 @@
+{
+  "name": "faran",
+  "version": "0.2.6",
+  "summary": "Composable building blocks for creating trajectory planners for autonomous systems, with NumPy and JAX implementations of the MPPI algorithm.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faran-0.2.6.tar.gz",
+  "download_time": "2026-03-11T19:31:46.471840",
+  "package_url": "https://pypi.org/project/faran/"
+}

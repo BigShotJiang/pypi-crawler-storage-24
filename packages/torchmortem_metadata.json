@@ -1,0 +1,11 @@
+{
+  "name": "torchmortem",
+  "version": "0.1.1",
+  "summary": "Diagnostic autopsy for PyTorch training runs",
+  "author": "torchmortem contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchmortem-0.1.1.tar.gz",
+  "download_time": "2026-03-11T19:31:28.413270",
+  "package_url": "https://pypi.org/project/torchmortem/"
+}

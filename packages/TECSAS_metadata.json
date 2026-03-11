@@ -1,0 +1,11 @@
+{
+  "name": "TECSAS",
+  "version": "1.0.0",
+  "summary": "Transformer of Epigenetics to Chromatin Structural AnnotationS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tecsas-1.0.0.tar.gz",
+  "download_time": "2026-03-11T19:32:00.456199",
+  "package_url": "https://pypi.org/project/TECSAS/"
+}

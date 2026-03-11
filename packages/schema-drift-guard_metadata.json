@@ -1,0 +1,11 @@
+{
+  "name": "schema-drift-guard",
+  "version": "0.2.0",
+  "summary": "Lightweight schema drift detection and data contract enforcement tool",
+  "author": "Mohsin Shaikh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "schema_drift_guard-0.2.0.tar.gz",
+  "download_time": "2026-03-11T19:31:19.054842",
+  "package_url": "https://pypi.org/project/schema-drift-guard/"
+}

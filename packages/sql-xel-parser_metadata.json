@@ -1,11 +1,11 @@
 {
   "name": "sql-xel-parser",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "summary": "Parse and analyze SQL Server Extended Events (.xel) files",
   "author": "SQL XEL Parser Contributors",
   "license": "MIT",
   "home_page": "https://github.com/josephvolmer/sql-xel-parser",
-  "download_filename": "sql_xel_parser-1.0.2.tar.gz",
-  "download_time": "2026-03-11T18:35:16.337637",
+  "download_filename": "sql_xel_parser-1.0.6.tar.gz",
+  "download_time": "2026-03-11T19:31:08.651795",
   "package_url": "https://pypi.org/project/sql-xel-parser/"
 }

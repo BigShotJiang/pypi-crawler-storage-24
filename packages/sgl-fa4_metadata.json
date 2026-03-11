@@ -1,0 +1,11 @@
+{
+  "name": "sgl-fa4",
+  "version": "4.0.5",
+  "summary": "Flash Attention CUTE (CUDA Template Engine) implementation",
+  "author": "Tri Dao",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "sgl_fa4-4.0.5-py3-none-any.whl",
+  "download_time": "2026-03-11T19:31:51.788913",
+  "package_url": "https://pypi.org/project/sgl-fa4/"
+}

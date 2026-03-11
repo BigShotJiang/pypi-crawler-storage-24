@@ -1,0 +1,11 @@
+{
+  "name": "copa-cli",
+  "version": "0.3.1",
+  "summary": "Command Palette — smart command tracking, ranking, and sharing for your shell",
+  "author": "Mark Stanford",
+  "license": null,
+  "home_page": null,
+  "download_filename": "copa_cli-0.3.1.tar.gz",
+  "download_time": "2026-03-11T19:31:31.911415",
+  "package_url": "https://pypi.org/project/copa-cli/"
+}
