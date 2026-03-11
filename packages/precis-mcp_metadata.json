@@ -1,0 +1,11 @@
+{
+  "name": "precis-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for compressed structured context on .docx and .tex documents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "precis_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-11T20:42:02.522176",
+  "package_url": "https://pypi.org/project/precis-mcp/"
+}

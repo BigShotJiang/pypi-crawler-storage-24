@@ -1,0 +1,11 @@
+{
+  "name": "aiowebdav2",
+  "version": "0.6.2",
+  "summary": "Async Python 3 client for WebDAV, based on aiowebdav and https://github.com/ezhov-evgeny/webdav-client-python-3",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "aiowebdav2-0.6.2.tar.gz",
+  "download_time": "2026-03-11T20:41:36.958129",
+  "package_url": "https://pypi.org/project/aiowebdav2/"
+}

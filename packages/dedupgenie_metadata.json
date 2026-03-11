@@ -1,0 +1,11 @@
+{
+  "name": "dedupgenie",
+  "version": "1.2.1",
+  "summary": "Multilingual desktop duplicate file finder with forensic-grade detection (SHA-256, SimHash + LSH)",
+  "author": "Marc Gagnon",
+  "license": "MIT",
+  "home_page": "https://github.com/lemarcgagnon/DuplicateFinder",
+  "download_filename": "dedupgenie-1.2.1.tar.gz",
+  "download_time": "2026-03-11T20:41:29.673906",
+  "package_url": "https://pypi.org/project/dedupgenie/"
+}

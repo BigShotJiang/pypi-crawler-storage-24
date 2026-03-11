@@ -1,0 +1,11 @@
+{
+  "name": "strands-agents-evals",
+  "version": "0.1.10",
+  "summary": "Evaluation framework for Strands",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strands_agents_evals-0.1.10.tar.gz",
+  "download_time": "2026-03-11T20:41:32.382557",
+  "package_url": "https://pypi.org/project/strands-agents-evals/"
+}

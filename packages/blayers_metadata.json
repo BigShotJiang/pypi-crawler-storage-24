@@ -1,11 +1,11 @@
 {
   "name": "blayers",
-  "version": "0.2.6",
+  "version": "0.2.9",
   "summary": "Bayesian layers for NumPyro and Jax",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blayers-0.2.6.tar.gz",
-  "download_time": "2026-03-08T18:26:54.891893",
+  "download_filename": "blayers-0.2.9.tar.gz",
+  "download_time": "2026-03-11T20:41:53.401731",
   "package_url": "https://pypi.org/project/blayers/"
 }

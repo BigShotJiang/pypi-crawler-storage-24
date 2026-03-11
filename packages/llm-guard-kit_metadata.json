@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.9.1",
-  "summary": "Real-time reliability monitoring for LLM agents. v0.9.0: cross-domain scoring via P(True) ensemble (AUROC ~0.78, ~$0.0003/call) and structural LogReg (AUROC ~0.73, $0); score_with_ptrue(), fit_structural_verifier() with optional target normalization. v0.8.0: GuardClient SDK, LocalVerifier, QPPGNano, LangChain/LlamaIndex/CrewAI callbacks.",
+  "version": "0.13.0",
+  "summary": "Real-time reliability monitoring for LLM agents. v0.13.0: A2A HTTP endpoints (/.well-known/agent.json, /v1/a2a/*), multi-hop HMAC trust chain (TrustHop, add_hop, verify_chain), calibration REST API. v0.12.0: DeepLocalVerifier, LSTMRiskAccumulator.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.9.1.tar.gz",
-  "download_time": "2026-03-11T08:09:19.564984",
+  "download_filename": "llm_guard_kit-0.13.0.tar.gz",
+  "download_time": "2026-03-11T20:41:32.925012",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

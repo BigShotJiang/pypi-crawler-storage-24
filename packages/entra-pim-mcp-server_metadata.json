@@ -1,0 +1,11 @@
+{
+  "name": "entra-pim-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP server for Azure Entra PIM — list eligible assignments and activate group/role assignments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "entra_pim_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-03-11T20:41:40.702146",
+  "package_url": "https://pypi.org/project/entra-pim-mcp-server/"
+}

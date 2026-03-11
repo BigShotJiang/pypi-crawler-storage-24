@@ -1,11 +1,11 @@
 {
   "name": "metricguard",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Enterprise-grade Shift-Left FinOps static analysis — detects metric cardinality explosion in Python, Go, TypeScript, and Java before it reaches production.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metricguard-1.0.0.tar.gz",
-  "download_time": "2026-03-11T18:34:57.487515",
+  "download_filename": "metricguard-1.0.2.tar.gz",
+  "download_time": "2026-03-11T20:41:25.337459",
   "package_url": "https://pypi.org/project/metricguard/"
 }

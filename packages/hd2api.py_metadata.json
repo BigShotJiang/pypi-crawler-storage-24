@@ -1,0 +1,11 @@
+{
+  "name": "hd2api.py",
+  "version": "0.0.1.20.24",
+  "summary": "An API wrapper for the Helldivers 2 Community and official APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hd2api_py-0.0.1.20.24.tar.gz",
+  "download_time": "2026-03-11T20:41:22.620805",
+  "package_url": "https://pypi.org/project/hd2api.py/"
+}

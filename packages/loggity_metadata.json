@@ -1,11 +1,11 @@
 {
   "name": "loggity",
-  "version": "0.4.0a5",
+  "version": "0.5.0a6",
   "summary": "A simple, beautiful logger with a clean and intuitive interface",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "loggity-0.4.0a5.tar.gz",
-  "download_time": "2026-03-10T15:35:34.818636",
+  "download_filename": "loggity-0.5.0a6.tar.gz",
+  "download_time": "2026-03-11T20:41:28.615490",
   "package_url": "https://pypi.org/project/loggity/"
 }
