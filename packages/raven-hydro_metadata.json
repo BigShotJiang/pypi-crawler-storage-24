@@ -1,0 +1,11 @@
+{
+  "name": "raven-hydro",
+  "version": "4.12.1",
+  "summary": "A Python wrapper to set up and build the hydrologic modelling framework Raven.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raven_hydro-4.12.1.tar.gz",
+  "download_time": "2026-03-11T20:01:37.121130",
+  "package_url": "https://pypi.org/project/raven-hydro/"
+}

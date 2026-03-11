@@ -1,0 +1,11 @@
+{
+  "name": "asta-resource-repository",
+  "version": "0.3.0",
+  "summary": "Lightweight document metadata index with CLI and skill support",
+  "author": "Asta Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "asta_resource_repository-0.3.0.tar.gz",
+  "download_time": "2026-03-11T20:01:11.263811",
+  "package_url": "https://pypi.org/project/asta-resource-repository/"
+}

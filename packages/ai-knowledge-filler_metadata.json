@@ -1,11 +1,11 @@
 {
   "name": "ai-knowledge-filler",
-  "version": "0.6.2",
+  "version": "1.0.0",
   "summary": "Schema validation pipeline for LLM-generated structured Markdown. CLI · Python API · REST API.",
   "author": "Petro Nzrnk",
   "license": null,
   "home_page": null,
-  "download_filename": "ai_knowledge_filler-0.6.2.tar.gz",
-  "download_time": "2026-03-07T08:55:57.421498",
+  "download_filename": "ai_knowledge_filler-1.0.0.tar.gz",
+  "download_time": "2026-03-11T20:01:25.690884",
   "package_url": "https://pypi.org/project/ai-knowledge-filler/"
 }

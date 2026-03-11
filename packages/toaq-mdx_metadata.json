@@ -1,0 +1,11 @@
+{
+  "name": "toaq-mdx",
+  "version": "0.1.2",
+  "summary": "Ultra-fast MDX rendering engine powered by Rust and WebAssembly.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toaq_mdx-0.1.2-py3-none-macosx_10_9_universal2.whl",
+  "download_time": "2026-03-11T20:01:09.300109",
+  "package_url": "https://pypi.org/project/toaq-mdx/"
+}

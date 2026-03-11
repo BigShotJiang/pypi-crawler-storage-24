@@ -1,0 +1,11 @@
+{
+  "name": "exonware-xwlazy",
+  "version": "1.0.1.28",
+  "summary": "Marker package that enables lazy install features across the eXonware suite.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exonware_xwlazy-1.0.1.28.tar.gz",
+  "download_time": "2026-03-11T20:01:28.989403",
+  "package_url": "https://pypi.org/project/exonware-xwlazy/"
+}

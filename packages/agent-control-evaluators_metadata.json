@@ -1,11 +1,11 @@
 {
   "name": "agent-control-evaluators",
-  "version": "6.6.0",
+  "version": "6.7.0",
   "summary": "Builtin evaluators for agent-control",
   "author": "Agent Control Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_control_evaluators-6.6.0.tar.gz",
-  "download_time": "2026-03-10T21:36:29.360230",
+  "download_filename": "agent_control_evaluators-6.7.0.tar.gz",
+  "download_time": "2026-03-11T20:01:34.996967",
   "package_url": "https://pypi.org/project/agent-control-evaluators/"
 }
