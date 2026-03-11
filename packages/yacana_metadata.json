@@ -1,0 +1,11 @@
+{
+  "name": "yacana",
+  "version": "0.4.3",
+  "summary": "Task-driven multi-agent framework giving you the building blocks to create anything you wish with LLMs.",
+  "author": "Emilien Lancelot",
+  "license": null,
+  "home_page": "https://remembersoftwares.github.io/yacana/",
+  "download_filename": "yacana-0.4.3.tar.gz",
+  "download_time": "2026-03-11T22:24:05.889651",
+  "package_url": "https://pypi.org/project/yacana/"
+}

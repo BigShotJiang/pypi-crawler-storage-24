@@ -1,0 +1,11 @@
+{
+  "name": "acatome-meta",
+  "version": "0.2.2",
+  "summary": "Lightweight metadata lookup for scientific papers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acatome_meta-0.2.2.tar.gz",
+  "download_time": "2026-03-11T22:24:29.354680",
+  "package_url": "https://pypi.org/project/acatome-meta/"
+}

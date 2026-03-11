@@ -1,0 +1,11 @@
+{
+  "name": "phyloframe",
+  "version": "0.2.1",
+  "summary": "Dataframe-based tools for working with phylogenetic trees.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "phyloframe-0.2.1.tar.gz",
+  "download_time": "2026-03-11T22:24:35.720375",
+  "package_url": "https://pypi.org/project/phyloframe/"
+}

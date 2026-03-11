@@ -1,0 +1,11 @@
+{
+  "name": "filepass",
+  "version": "1.0.3",
+  "summary": "Wrapper around fs libraries to synchronized files between different system types including SMB, SFTP, FSTP.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "filepass-1.0.3.tar.gz",
+  "download_time": "2026-03-11T22:24:30.003168",
+  "package_url": "https://pypi.org/project/filepass/"
+}

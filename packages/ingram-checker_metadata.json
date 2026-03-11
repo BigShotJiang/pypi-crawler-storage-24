@@ -1,0 +1,11 @@
+{
+  "name": "ingram-checker",
+  "version": "0.1.3",
+  "summary": "Ingram Lightning Source PDF compliance checker and fixer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ingram_checker-0.1.3.tar.gz",
+  "download_time": "2026-03-11T22:24:23.772935",
+  "package_url": "https://pypi.org/project/ingram-checker/"
+}

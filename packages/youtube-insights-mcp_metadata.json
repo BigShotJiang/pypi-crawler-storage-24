@@ -1,11 +1,11 @@
 {
   "name": "youtube-insights-mcp",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "MCP server for YouTube transcript extraction and insight analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "youtube_insights_mcp-0.1.2.tar.gz",
-  "download_time": "2026-03-11T21:04:47.812126",
+  "download_filename": "youtube_insights_mcp-0.1.5.tar.gz",
+  "download_time": "2026-03-11T22:24:05.234528",
   "package_url": "https://pypi.org/project/youtube-insights-mcp/"
 }

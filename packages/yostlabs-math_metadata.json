@@ -1,0 +1,11 @@
+{
+  "name": "yostlabs-math",
+  "version": "2026.3.11",
+  "summary": "Math utilities for Yost Labs products (quaternions, vectors, axes)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yostlabs_math-2026.3.11.tar.gz",
+  "download_time": "2026-03-11T22:24:02.608645",
+  "package_url": "https://pypi.org/project/yostlabs-math/"
+}

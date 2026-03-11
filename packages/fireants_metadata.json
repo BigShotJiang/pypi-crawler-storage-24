@@ -1,0 +1,11 @@
+{
+  "name": "fireants",
+  "version": "1.4.0",
+  "summary": "FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration",
+  "author": "Rohit Jena, Pratik Chaudhari, James C. Gee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fireants-1.4.0-py3-none-any.whl",
+  "download_time": "2026-03-11T22:24:24.418340",
+  "package_url": "https://pypi.org/project/fireants/"
+}

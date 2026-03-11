@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-codec",
+  "version": "0.0.12",
+  "summary": "Pythonic interface to Nvidia Codec",
+  "author": "Zesen Qian",
+  "license": null,
+  "home_page": "https://github.com/riaqn/python-nvidia-codec",
+  "download_filename": "nvidia_codec-0.0.12.tar.gz",
+  "download_time": "2026-03-11T22:24:30.646271",
+  "package_url": "https://pypi.org/project/nvidia-codec/"
+}
