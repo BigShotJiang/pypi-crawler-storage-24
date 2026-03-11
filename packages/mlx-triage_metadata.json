@@ -1,0 +1,11 @@
+{
+  "name": "mlx-triage",
+  "version": "0.2.0",
+  "summary": "MLX Inference Quality Diagnostic Toolkit",
+  "author": "Swaylen Hayes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlx_triage-0.2.0.tar.gz",
+  "download_time": "2026-03-11T10:48:36.973176",
+  "package_url": "https://pypi.org/project/mlx-triage/"
+}

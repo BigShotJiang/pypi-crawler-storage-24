@@ -1,11 +1,11 @@
 {
   "name": "context-use",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Turn your data exports into portable AI memory.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "context_use-0.2.0.tar.gz",
-  "download_time": "2026-03-09T21:28:43.122250",
+  "download_filename": "context_use-0.3.1.tar.gz",
+  "download_time": "2026-03-11T10:48:28.267227",
   "package_url": "https://pypi.org/project/context-use/"
 }

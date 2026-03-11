@@ -1,0 +1,11 @@
+{
+  "name": "pytest-vigil",
+  "version": "0.7.0",
+  "summary": "A pytest plugin for enhanced test reliability and monitoring",
+  "author": "Sergei Konovalov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_vigil-0.7.0.tar.gz",
+  "download_time": "2026-03-11T10:47:50.883039",
+  "package_url": "https://pypi.org/project/pytest-vigil/"
+}

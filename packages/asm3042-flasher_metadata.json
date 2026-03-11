@@ -1,11 +1,11 @@
 {
   "name": "asm3042-flasher",
-  "version": "0.4.16",
+  "version": "0.4.25",
   "summary": "CLI-утилита для чтения, runtime-загрузки и постоянной прошивки firmware ASMedia ASM3042 и ASM3142 под Linux",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "asm3042_flasher-0.4.16-py3-none-any.whl",
-  "download_time": "2026-03-11T07:12:58.142117",
+  "download_filename": "asm3042_flasher-0.4.25-py3-none-any.whl",
+  "download_time": "2026-03-11T10:47:55.519133",
   "package_url": "https://pypi.org/project/asm3042-flasher/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "loya-client",
+  "version": "0.2.4",
+  "summary": "Асинхронный клиент для Loya Loyalty API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loya_client-0.2.4-py3-none-any.whl",
+  "download_time": "2026-03-11T10:48:39.337520",
+  "package_url": "https://pypi.org/project/loya-client/"
+}

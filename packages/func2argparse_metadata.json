@@ -1,0 +1,11 @@
+{
+  "name": "func2argparse",
+  "version": "0.1.7",
+  "summary": "Convert python functions to argparse objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "func2argparse-0.1.7.tar.gz",
+  "download_time": "2026-03-11T10:48:20.362111",
+  "package_url": "https://pypi.org/project/func2argparse/"
+}

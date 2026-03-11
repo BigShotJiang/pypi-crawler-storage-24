@@ -1,0 +1,11 @@
+{
+  "name": "spinplots",
+  "version": "0.2.2",
+  "summary": "NMR spectra in python made easy",
+  "author": "Carlos Bornes, Daniel Pereira, Márcio Soares",
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "spinplots-0.2.2.tar.gz",
+  "download_time": "2026-03-11T10:48:51.034302",
+  "package_url": "https://pypi.org/project/spinplots/"
+}

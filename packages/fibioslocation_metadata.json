@@ -1,11 +1,11 @@
 {
   "name": "fibioslocation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Fetch iCloud Find My device locations and push to Fibaro HC3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fibioslocation-1.0.0.tar.gz",
-  "download_time": "2026-03-09T11:50:15.743815",
+  "download_filename": "fibioslocation-1.0.1.tar.gz",
+  "download_time": "2026-03-11T10:48:45.171517",
   "package_url": "https://pypi.org/project/fibioslocation/"
 }

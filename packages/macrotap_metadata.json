@@ -1,0 +1,11 @@
+{
+  "name": "macrotap",
+  "version": "0.3.0",
+  "summary": "Quick and easy access to macroeconomic data from public providers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "macrotap-0.3.0.tar.gz",
+  "download_time": "2026-03-11T10:48:44.591698",
+  "package_url": "https://pypi.org/project/macrotap/"
+}

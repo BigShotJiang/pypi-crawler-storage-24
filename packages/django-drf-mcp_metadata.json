@@ -1,11 +1,11 @@
 {
   "name": "django-drf-mcp",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "Add MCP (Model Context Protocol) to any Django REST Framework project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_drf_mcp-0.2.1.tar.gz",
-  "download_time": "2026-03-10T22:54:55.177052",
+  "download_filename": "django_drf_mcp-0.3.1.tar.gz",
+  "download_time": "2026-03-11T10:48:29.418072",
   "package_url": "https://pypi.org/project/django-drf-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vibium-darwin-x64",
+  "version": "26.3.11",
+  "summary": "Vibium binary for macOS x64",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibium_darwin_x64-26.3.11-py3-none-any.whl",
+  "download_time": "2026-03-11T10:48:25.306357",
+  "package_url": "https://pypi.org/project/vibium-darwin-x64/"
+}

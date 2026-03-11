@@ -1,11 +1,11 @@
 {
   "name": "ews-scoreboard",
-  "version": "0.6.1",
+  "version": "0.9.0",
   "summary": "EWS Early Warning Scoreboard Pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ews_scoreboard-0.6.1.tar.gz",
-  "download_time": "2026-03-11T07:12:55.982611",
+  "download_filename": "ews_scoreboard-0.9.0.tar.gz",
+  "download_time": "2026-03-11T10:48:39.920131",
   "package_url": "https://pypi.org/project/ews-scoreboard/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vibium-win32-x64",
+  "version": "26.3.11",
+  "summary": "Vibium binary for Windows x64",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibium_win32_x64-26.3.11-py3-none-any.whl",
+  "download_time": "2026-03-11T10:48:23.501753",
+  "package_url": "https://pypi.org/project/vibium-win32-x64/"
+}

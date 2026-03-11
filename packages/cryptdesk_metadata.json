@@ -1,0 +1,11 @@
+{
+  "name": "cryptdesk",
+  "version": "0.1.1",
+  "summary": "Peer-to-peer encrypted screen sharing and remote control desktop app",
+  "author": "CryptDesk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptdesk-0.1.1.tar.gz",
+  "download_time": "2026-03-11T10:47:59.341401",
+  "package_url": "https://pypi.org/project/cryptdesk/"
+}

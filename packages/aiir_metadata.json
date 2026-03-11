@@ -1,11 +1,11 @@
 {
   "name": "aiir",
-  "version": "1.2.1",
+  "version": "1.2.5",
   "summary": "AI Integrity Receipts — cryptographic receipts for commits with declared AI involvement",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiir-1.2.1.tar.gz",
-  "download_time": "2026-03-09T22:24:36.817224",
+  "download_filename": "aiir-1.2.5.tar.gz",
+  "download_time": "2026-03-11T10:48:22.261498",
   "package_url": "https://pypi.org/project/aiir/"
 }

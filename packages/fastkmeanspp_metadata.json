@@ -1,0 +1,11 @@
+{
+  "name": "fastkmeanspp",
+  "version": "0.2.2",
+  "summary": "KMeans++ clustering algorithm",
+  "author": "Félix Laplante",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastkmeanspp-0.2.2.tar.gz",
+  "download_time": "2026-03-11T10:48:49.259569",
+  "package_url": "https://pypi.org/project/fastkmeanspp/"
+}

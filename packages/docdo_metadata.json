@@ -1,0 +1,11 @@
+{
+  "name": "docdo",
+  "version": "0.0.4",
+  "summary": "A CLI tool to render Markdown files to PDF via HTML templates and Playwright.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docdo-0.0.4.tar.gz",
+  "download_time": "2026-03-11T10:48:28.846393",
+  "package_url": "https://pypi.org/project/docdo/"
+}

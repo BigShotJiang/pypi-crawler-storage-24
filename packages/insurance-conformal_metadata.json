@@ -1,0 +1,11 @@
+{
+  "name": "insurance-conformal",
+  "version": "0.2.1",
+  "summary": "Distribution-free prediction intervals for insurance GBM and GLM pricing models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_conformal-0.2.1.tar.gz",
+  "download_time": "2026-03-11T10:48:17.808359",
+  "package_url": "https://pypi.org/project/insurance-conformal/"
+}

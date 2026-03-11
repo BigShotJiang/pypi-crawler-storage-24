@@ -1,0 +1,11 @@
+{
+  "name": "aetos",
+  "version": "1.0.0",
+  "summary": "Aetos is a reverse proxy for enforcing openstack multi-tenancy for Prometheus.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://www.openstack.org/",
+  "download_filename": "aetos-1.0.0.tar.gz",
+  "download_time": "2026-03-11T10:48:44.012535",
+  "package_url": "https://pypi.org/project/aetos/"
+}
