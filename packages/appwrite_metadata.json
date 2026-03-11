@@ -1,0 +1,11 @@
+{
+  "name": "appwrite",
+  "version": "15.3.0",
+  "summary": "Appwrite is an open-source self-hosted backend server that abstracts and simplifies complex and repetitive development tasks behind a very simple REST API",
+  "author": "Appwrite Team",
+  "license": "BSD-3-Clause",
+  "home_page": "https://appwrite.io/support",
+  "download_filename": "appwrite-15.3.0.tar.gz",
+  "download_time": "2026-03-11T11:40:31.588582",
+  "package_url": "https://pypi.org/project/appwrite/"
+}

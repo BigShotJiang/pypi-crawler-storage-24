@@ -1,0 +1,11 @@
+{
+  "name": "time-agnostic-library",
+  "version": "7.0.0",
+  "summary": "A Python library for performing time-travel queries on RDF datasets compliant with the OCDM v2.0.1 provenance specification.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "time_agnostic_library-7.0.0.tar.gz",
+  "download_time": "2026-03-11T11:40:29.526679",
+  "package_url": "https://pypi.org/project/time-agnostic-library/"
+}

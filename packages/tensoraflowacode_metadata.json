@@ -1,11 +1,11 @@
 {
   "name": "tensoraflowacode",
-  "version": "0.2.0",
+  "version": "4.0.0",
   "summary": "A professional Python package containing libraries with code templates for the pros",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "tensoraflowacode-0.2.0.tar.gz",
-  "download_time": "2026-03-09T19:01:44.048522",
+  "download_filename": "tensoraflowacode-4.0.0.tar.gz",
+  "download_time": "2026-03-11T11:40:00.113864",
   "package_url": "https://pypi.org/project/tensoraflowacode/"
 }

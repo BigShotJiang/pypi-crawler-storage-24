@@ -1,0 +1,11 @@
+{
+  "name": "hypha-debugger",
+  "version": "0.1.7",
+  "summary": "Injectable debugger for Python processes and AI agents, powered by Hypha RPC",
+  "author": "Amun AI AB",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hypha_debugger-0.1.7.tar.gz",
+  "download_time": "2026-03-11T11:40:14.091918",
+  "package_url": "https://pypi.org/project/hypha-debugger/"
+}

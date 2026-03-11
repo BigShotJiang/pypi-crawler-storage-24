@@ -1,0 +1,11 @@
+{
+  "name": "gli4py",
+  "version": "0.0.16",
+  "summary": "A python 3 API wrapper for GL-inet routers for consumption by Home Assistant",
+  "author": "HarvsG",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "home_page": null,
+  "download_filename": "gli4py-0.0.16.tar.gz",
+  "download_time": "2026-03-11T11:40:32.617522",
+  "package_url": "https://pypi.org/project/gli4py/"
+}
