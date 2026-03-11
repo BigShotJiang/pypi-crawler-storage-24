@@ -1,11 +1,11 @@
 {
   "name": "peasytext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Pure Python text processing toolkit — case conversion, slug generation, word counting, Base64, URL encoding, pattern extraction, and 9 more tools. Zero dependencies.",
   "author": "Peasy Tools",
   "license": null,
   "home_page": null,
-  "download_filename": "peasytext-0.1.0.tar.gz",
-  "download_time": "2026-03-10T07:47:02.537543",
+  "download_filename": "peasytext-0.1.1.tar.gz",
+  "download_time": "2026-03-11T12:02:36.358320",
   "package_url": "https://pypi.org/project/peasytext/"
 }

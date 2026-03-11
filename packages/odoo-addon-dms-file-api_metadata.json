@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-dms-file-api",
+  "version": "16.0.1.0.0",
+  "summary": "Expose an API-Key authenticated API to get and create dms files.",
+  "author": "Som It Cooperatiu SCCL, Som Connexió SCCL,",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_dms_file_api-16.0.1.0.0.tar.gz",
+  "download_time": "2026-03-11T12:03:00.074643",
+  "package_url": "https://pypi.org/project/odoo-addon-dms-file-api/"
+}

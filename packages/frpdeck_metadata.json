@@ -1,0 +1,11 @@
+{
+  "name": "frpdeck",
+  "version": "1.0.0",
+  "summary": "Lightweight FRP deployment and maintenance CLI with structured proxy management, audit logging, and MCP support for LLM-assisted operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frpdeck-1.0.0.tar.gz",
+  "download_time": "2026-03-11T12:02:36.877801",
+  "package_url": "https://pypi.org/project/frpdeck/"
+}

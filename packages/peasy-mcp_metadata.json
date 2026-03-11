@@ -1,0 +1,11 @@
+{
+  "name": "peasy-mcp",
+  "version": "0.1.1",
+  "summary": "Unified MCP server for all Peasy tools — PDF, image, text, CSS, compress, document, audio, and video tools for AI assistants.",
+  "author": "Peasy Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peasy_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-11T12:02:29.959425",
+  "package_url": "https://pypi.org/project/peasy-mcp/"
+}

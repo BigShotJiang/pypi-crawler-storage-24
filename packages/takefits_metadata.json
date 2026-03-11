@@ -1,11 +1,11 @@
 {
   "name": "takefits",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "GUI-based astronomical FITS viewer and analysis tool",
   "author": "Shunya Takekawa",
   "license": null,
   "home_page": null,
-  "download_filename": "takefits-0.2.2.tar.gz",
-  "download_time": "2026-03-09T05:46:17.729344",
+  "download_filename": "takefits-0.2.3.tar.gz",
+  "download_time": "2026-03-11T12:02:49.057774",
   "package_url": "https://pypi.org/project/takefits/"
 }

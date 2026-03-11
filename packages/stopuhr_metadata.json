@@ -1,0 +1,11 @@
+{
+  "name": "stopuhr",
+  "version": "0.0.11",
+  "summary": "A simple tool for measuring durations in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stopuhr-0.0.11.tar.gz",
+  "download_time": "2026-03-11T12:03:07.892508",
+  "package_url": "https://pypi.org/project/stopuhr/"
+}

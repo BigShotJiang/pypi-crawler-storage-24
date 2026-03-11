@@ -1,0 +1,11 @@
+{
+  "name": "meganova-mcp-server",
+  "version": "0.2.0",
+  "summary": "MCP server exposing Nova Mesh agents and skills to Claude Desktop, Cursor, VS Code, and any MCP-compatible client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meganova_mcp_server-0.2.0.tar.gz",
+  "download_time": "2026-03-11T12:02:51.127727",
+  "package_url": "https://pypi.org/project/meganova-mcp-server/"
+}

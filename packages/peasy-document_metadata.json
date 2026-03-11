@@ -1,0 +1,11 @@
+{
+  "name": "peasy-document",
+  "version": "0.1.1",
+  "summary": "Document conversion library — Markdown, HTML, CSV, and JSON transformations with zero heavyweight dependencies.",
+  "author": "Peasy Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peasy_document-0.1.1.tar.gz",
+  "download_time": "2026-03-11T12:02:32.698831",
+  "package_url": "https://pypi.org/project/peasy-document/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "im-data-manager-job-decoder",
+  "version": "2.6.0",
+  "summary": "Job decoding logic",
+  "author": "Alan Christie",
+  "license": "MIT",
+  "home_page": "https://github.com/informaticsmatters/squonk2-data-manager-job-decoder",
+  "download_filename": "im_data_manager_job_decoder-2.6.0.tar.gz",
+  "download_time": "2026-03-11T12:02:34.788612",
+  "package_url": "https://pypi.org/project/im-data-manager-job-decoder/"
+}

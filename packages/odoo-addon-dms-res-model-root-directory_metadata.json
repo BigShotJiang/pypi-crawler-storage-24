@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-dms-res-model-root-directory",
+  "version": "16.0.1.0.0",
+  "summary": "Implement a new dms directory structure based on unique root directory by model and category. Each file can be created in a model instance particular directory under a root directory.",
+  "author": "Som It Cooperatiu SCCL, Som Connexió SCCL,",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_dms_res_model_root_directory-16.0.1.0.0.tar.gz",
+  "download_time": "2026-03-11T12:02:56.912816",
+  "package_url": "https://pypi.org/project/odoo-addon-dms-res-model-root-directory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lddya",
+  "version": "6.0.2",
+  "summary": "修复了迭代图中不能正常加载label参数的问题",
+  "author": "lidongdong",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/not_define/please_wait",
+  "download_filename": "lddya-6.0.2.tar.gz",
+  "download_time": "2026-03-11T12:03:03.731833",
+  "package_url": "https://pypi.org/project/lddya/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "peasy-css",
+  "version": "0.1.1",
+  "summary": "Python CSS toolkit — generate gradients, shadows, borders, flexbox, grid, animations, transforms, and 7 more CSS utilities. Zero dependencies.",
+  "author": "Peasy Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peasy_css-0.1.1.tar.gz",
+  "download_time": "2026-03-11T12:02:35.312272",
+  "package_url": "https://pypi.org/project/peasy-css/"
+}

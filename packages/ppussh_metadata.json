@@ -1,0 +1,11 @@
+{
+  "name": "ppussh",
+  "version": "0.1.0",
+  "summary": "PPUSSH Ecosystem SDK — Accounts (OIDC) + Payments client for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ppussh-0.1.0.tar.gz",
+  "download_time": "2026-03-11T12:03:16.271879",
+  "package_url": "https://pypi.org/project/ppussh/"
+}

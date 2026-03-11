@@ -1,0 +1,11 @@
+{
+  "name": "peasy-image",
+  "version": "0.1.1",
+  "summary": "Python image toolkit — resize, crop, rotate, convert, compress, blur, sharpen, watermark, and 12 more operations. Powered by Pillow.",
+  "author": "Peasy Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peasy_image-0.1.1.tar.gz",
+  "download_time": "2026-03-11T12:02:34.268317",
+  "package_url": "https://pypi.org/project/peasy-image/"
+}

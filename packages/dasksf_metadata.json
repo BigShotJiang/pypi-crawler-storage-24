@@ -1,0 +1,11 @@
+{
+  "name": "dasksf",
+  "version": "0.2.0",
+  "summary": "Radio astronomy source finding using dask and plugging in other source finders",
+  "author": "vla22",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "dasksf-0.2.0.tar.gz",
+  "download_time": "2026-03-11T12:02:38.483337",
+  "package_url": "https://pypi.org/project/dasksf/"
+}

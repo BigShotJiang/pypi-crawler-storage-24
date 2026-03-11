@@ -1,11 +1,11 @@
 {
   "name": "langchain-oneshot",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "LangChain tools for OneShot — commercial actions for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_oneshot-0.5.0.tar.gz",
-  "download_time": "2026-03-11T11:01:39.822832",
+  "download_filename": "langchain_oneshot-0.6.0.tar.gz",
+  "download_time": "2026-03-11T12:03:18.891823",
   "package_url": "https://pypi.org/project/langchain-oneshot/"
 }

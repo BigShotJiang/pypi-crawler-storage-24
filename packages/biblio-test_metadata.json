@@ -1,0 +1,11 @@
+{
+  "name": "biblio-test",
+  "version": "1.0.0",
+  "summary": "Description de ta bibliothèque",
+  "author": "Ton Nom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "biblio_test-1.0.0.tar.gz",
+  "download_time": "2026-03-11T12:03:04.769375",
+  "package_url": "https://pypi.org/project/biblio-test/"
+}

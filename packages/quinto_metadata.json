@@ -1,0 +1,11 @@
+{
+  "name": "quinto",
+  "version": "0.1.0",
+  "summary": "Automated hash cracking CLI — identify, orchestrate, and crack hashes using hashcat and john",
+  "author": "Levente Farkas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quinto-0.1.0.tar.gz",
+  "download_time": "2026-03-11T12:03:04.250911",
+  "package_url": "https://pypi.org/project/quinto/"
+}

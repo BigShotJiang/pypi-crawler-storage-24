@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-lead-personal-file-data",
+  "version": "16.0.1.0.0",
+  "summary": "Move lead pending assigned files to its partner directory under personal data.",
+  "author": "Som It Cooperatiu SCCL, Som Connexió SCCL,",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_crm_lead_personal_file_data-16.0.1.0.0.tar.gz",
+  "download_time": "2026-03-11T12:03:03.211345",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-lead-personal-file-data/"
+}

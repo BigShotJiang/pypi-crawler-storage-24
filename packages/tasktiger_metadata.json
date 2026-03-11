@@ -1,0 +1,11 @@
+{
+  "name": "tasktiger",
+  "version": "0.25.0",
+  "summary": "Python task queue",
+  "author": null,
+  "license": "MIT",
+  "home_page": "http://github.com/closeio/tasktiger",
+  "download_filename": "tasktiger-0.25.0.tar.gz",
+  "download_time": "2026-03-11T12:03:06.850527",
+  "package_url": "https://pypi.org/project/tasktiger/"
+}

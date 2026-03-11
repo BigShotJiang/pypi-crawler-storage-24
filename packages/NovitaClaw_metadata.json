@@ -1,0 +1,11 @@
+{
+  "name": "NovitaClaw",
+  "version": "1.0.3",
+  "summary": "One-click launch of OpenClaw sandbox environment powered by Novita Agent Sandbox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "novitaclaw-1.0.3.tar.gz",
+  "download_time": "2026-03-11T12:03:06.329509",
+  "package_url": "https://pypi.org/project/NovitaClaw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coreplexml",
+  "version": "0.1.3",
+  "summary": "Python SDK for CorePlexML AutoML & MLOps platform",
+  "author": "Rodrigo Henríquez M. - Intellicore",
+  "license": "BUSL-1.1",
+  "home_page": "https://coreplexml.io",
+  "download_filename": "coreplexml-0.1.3.tar.gz",
+  "download_time": "2026-03-11T12:03:05.287406",
+  "package_url": "https://pypi.org/project/coreplexml/"
+}

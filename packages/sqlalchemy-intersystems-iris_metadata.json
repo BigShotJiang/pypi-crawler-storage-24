@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-intersystems-iris",
+  "version": "1.0.0",
+  "summary": "An InterSystems IRIS dialect for SQLAlchemy",
+  "author": "InterSystems Corporation",
+  "license": "LicenseRef-InterSystems-External-Repository",
+  "home_page": "https://www.intersystems.com/",
+  "download_filename": "sqlalchemy_intersystems_iris-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-11T12:02:55.318450",
+  "package_url": "https://pypi.org/project/sqlalchemy-intersystems-iris/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ics-calendar-mcp",
+  "version": "0.1.0",
+  "summary": "Lightweight MCP server for ICS calendar feeds with recurring event expansion",
+  "author": "Adam Chrabaszcz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ics_calendar_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-11T12:02:45.859671",
+  "package_url": "https://pypi.org/project/ics-calendar-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "monad-core",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Personal AGI Operating Core",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "monad_core-0.2.0.tar.gz",
-  "download_time": "2026-03-10T08:36:01.421185",
+  "download_filename": "monad_core-0.2.1.tar.gz",
+  "download_time": "2026-03-11T12:02:40.041056",
   "package_url": "https://pypi.org/project/monad-core/"
 }
