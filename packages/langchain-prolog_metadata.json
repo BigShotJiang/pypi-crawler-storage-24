@@ -1,0 +1,11 @@
+{
+  "name": "langchain-prolog",
+  "version": "0.1.1.post17",
+  "summary": "An integration package connecting Prolog and LangChain",
+  "author": "Antonio Pisani",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_prolog-0.1.1.post17.tar.gz",
+  "download_time": "2026-03-11T23:50:00.607545",
+  "package_url": "https://pypi.org/project/langchain-prolog/"
+}

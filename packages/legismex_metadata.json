@@ -1,11 +1,11 @@
 {
   "name": "legismex",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "summary": "Biblioteca en Python para facilitar el trabajo legislativo en México (SIL, Cámara de Diputados, Senado, etc.)",
   "author": "Michel Cano",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "legismex-1.0.4.tar.gz",
-  "download_time": "2026-03-11T21:49:41.923606",
+  "download_filename": "legismex-1.0.7.tar.gz",
+  "download_time": "2026-03-11T23:49:51.181749",
   "package_url": "https://pypi.org/project/legismex/"
 }

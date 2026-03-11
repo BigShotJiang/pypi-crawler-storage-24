@@ -1,0 +1,11 @@
+{
+  "name": "community-sdks-godaddy",
+  "version": "1.0.2",
+  "summary": "Community GoDaddy SDK for Python",
+  "author": "Sasa Orasanin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "community_sdks_godaddy-1.0.2.tar.gz",
+  "download_time": "2026-03-11T23:49:41.070761",
+  "package_url": "https://pypi.org/project/community-sdks-godaddy/"
+}

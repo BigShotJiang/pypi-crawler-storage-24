@@ -1,11 +1,11 @@
 {
   "name": "voicetest",
-  "version": "0.31",
+  "version": "0.32",
   "summary": "A generic test harness for voice agent workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "voicetest-0.31-py3-none-any.whl",
-  "download_time": "2026-03-11T10:48:11.679848",
+  "download_filename": "voicetest-0.32-py3-none-any.whl",
+  "download_time": "2026-03-11T23:49:16.767374",
   "package_url": "https://pypi.org/project/voicetest/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sgn-gwframe",
+  "version": "0.2.0",
+  "summary": "Gravitational wave frame file I/O elements for sgn-ts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sgn_gwframe-0.2.0.tar.gz",
+  "download_time": "2026-03-11T23:49:38.485033",
+  "package_url": "https://pypi.org/project/sgn-gwframe/"
+}

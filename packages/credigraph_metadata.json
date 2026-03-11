@@ -1,0 +1,11 @@
+{
+  "name": "credigraph",
+  "version": "0.3.0",
+  "summary": "Python client for the CrediGraph API",
+  "author": "Complex Data Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "credigraph-0.3.0.tar.gz",
+  "download_time": "2026-03-11T23:49:37.399902",
+  "package_url": "https://pypi.org/project/credigraph/"
+}

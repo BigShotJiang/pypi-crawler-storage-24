@@ -1,11 +1,11 @@
 {
   "name": "pywrkr",
-  "version": "1.0.5",
+  "version": "1.1.1",
   "summary": "Python HTTP benchmarking tool with extended statistics, inspired by wrk and Apache ab",
   "author": "pywrkr contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "pywrkr-1.0.5.tar.gz",
-  "download_time": "2026-03-11T19:31:20.818225",
+  "download_filename": "pywrkr-1.1.1.tar.gz",
+  "download_time": "2026-03-11T23:49:46.381733",
   "package_url": "https://pypi.org/project/pywrkr/"
 }

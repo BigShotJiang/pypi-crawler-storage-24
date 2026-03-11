@@ -1,0 +1,11 @@
+{
+  "name": "screen-brightness-control",
+  "version": "0.27.1",
+  "summary": "A Python tool for controlling the brightness of your monitor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "screen_brightness_control-0.27.1.tar.gz",
+  "download_time": "2026-03-11T23:49:36.361718",
+  "package_url": "https://pypi.org/project/screen-brightness-control/"
+}

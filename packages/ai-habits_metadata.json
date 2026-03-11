@@ -1,11 +1,11 @@
 {
   "name": "ai-habits",
-  "version": "0.2.1",
+  "version": "0.2.6",
   "summary": "ESLint for your AI assistant usage — scan conversation history, find patterns, generate fixes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_habits-0.2.1.tar.gz",
-  "download_time": "2026-03-11T23:21:50.741063",
+  "download_filename": "ai_habits-0.2.6.tar.gz",
+  "download_time": "2026-03-11T23:49:44.220234",
   "package_url": "https://pypi.org/project/ai-habits/"
 }
