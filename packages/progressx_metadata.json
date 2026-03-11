@@ -1,0 +1,11 @@
+{
+  "name": "progressx",
+  "version": "0.1.1",
+  "summary": "Lightweight Python CLI progress bars, spinners, and task manager",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "progressx-0.1.1.tar.gz",
+  "download_time": "2026-03-11T08:08:48.835716",
+  "package_url": "https://pypi.org/project/progressx/"
+}

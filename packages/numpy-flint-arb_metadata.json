@@ -1,0 +1,11 @@
+{
+  "name": "numpy-flint-arb",
+  "version": "1.3.0",
+  "summary": "Arbitrary precision ball arithmetic (interval arithmetic) dtype in NumPy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numpy_flint_arb-1.3.0.tar.gz",
+  "download_time": "2026-03-11T08:08:49.921279",
+  "package_url": "https://pypi.org/project/numpy-flint-arb/"
+}

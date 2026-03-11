@@ -1,0 +1,11 @@
+{
+  "name": "sentrix",
+  "version": "0.1.1",
+  "summary": "Red-team, eval, and monitor your LLMs. Security-first, Python-native.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sentrix-0.1.1.tar.gz",
+  "download_time": "2026-03-11T08:09:18.273385",
+  "package_url": "https://pypi.org/project/sentrix/"
+}

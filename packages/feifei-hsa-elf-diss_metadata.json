@@ -1,0 +1,11 @@
+{
+  "name": "feifei-hsa-elf-diss",
+  "version": "0.1.1",
+  "summary": "将 AMDGPU Code Object (.co) 反汇编为 LLVM 汇编 (.s) 文件",
+  "author": "feifei-hsa-elf-diss contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feifei_hsa_elf_diss-0.1.1.tar.gz",
+  "download_time": "2026-03-11T08:09:11.292953",
+  "package_url": "https://pypi.org/project/feifei-hsa-elf-diss/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "china-stock-analysis-mcp",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Stock analysis MCP server with technical analysis and financial data tools. data source: tushare",
   "author": "Bruce",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "china_stock_analysis_mcp-0.1.3.tar.gz",
-  "download_time": "2026-03-08T15:59:23.886174",
+  "download_filename": "china_stock_analysis_mcp-0.1.5.tar.gz",
+  "download_time": "2026-03-11T08:08:51.613082",
   "package_url": "https://pypi.org/project/china-stock-analysis-mcp/"
 }

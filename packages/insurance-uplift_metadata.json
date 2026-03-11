@@ -1,0 +1,11 @@
+{
+  "name": "insurance-uplift",
+  "version": "0.1.0",
+  "summary": "Heterogeneous treatment effects for UK personal lines insurance retention targeting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_uplift-0.1.0.tar.gz",
+  "download_time": "2026-03-11T08:08:53.850463",
+  "package_url": "https://pypi.org/project/insurance-uplift/"
+}

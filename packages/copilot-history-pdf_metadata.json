@@ -1,0 +1,11 @@
+{
+  "name": "copilot-history-pdf",
+  "version": "0.1.1",
+  "summary": "Convert GitHub Copilot chat history JSON files to formatted PDF documents",
+  "author": "Oliver Benton",
+  "license": null,
+  "home_page": "https://github.com/Oliver1811/copilot-history-pdf",
+  "download_filename": "copilot_history_pdf-0.1.1.tar.gz",
+  "download_time": "2026-03-11T08:08:47.673932",
+  "package_url": "https://pypi.org/project/copilot-history-pdf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ghscope",
+  "version": "0.2.0",
+  "summary": "Extensive GitHub activity and contribution reporting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghscope-0.2.0.tar.gz",
+  "download_time": "2026-03-11T08:08:57.252443",
+  "package_url": "https://pypi.org/project/ghscope/"
+}

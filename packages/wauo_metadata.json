@@ -1,0 +1,11 @@
+{
+  "name": "wauo",
+  "version": "0.9.8",
+  "summary": "A comprehensive Python utility library featuring web scraping, decorators, thread pool management, and database operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wauo-0.9.8.tar.gz",
+  "download_time": "2026-03-11T08:09:34.211338",
+  "package_url": "https://pypi.org/project/wauo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mnpbem-bem",
+  "version": "0.1.1",
+  "summary": "Core BEM namespace package and solver-facing compatibility helpers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnpbem_bem-0.1.1.tar.gz",
+  "download_time": "2026-03-11T08:09:10.150335",
+  "package_url": "https://pypi.org/project/mnpbem-bem/"
+}

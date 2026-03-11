@@ -1,11 +1,11 @@
 {
   "name": "huntertrace",
-  "version": "1.0.2",
-  "summary": "A forensic analysis system for email threat detection and geolocation.",
-  "author": "Your Name",
-  "license": null,
-  "home_page": "https://github.com/yourusername/huntertrace",
-  "download_filename": "huntertrace-1.0.2.tar.gz",
-  "download_time": "2026-03-07T05:12:50.672619",
+  "version": "1.1.2",
+  "summary": "Advanced phishing actor attribution using Bayesian inference and graph analysis",
+  "author": "Akshay V",
+  "license": "MIT",
+  "home_page": "https://github.com/akshaydotweb/huntertrace",
+  "download_filename": "huntertrace-1.1.2.tar.gz",
+  "download_time": "2026-03-11T08:09:24.231634",
   "package_url": "https://pypi.org/project/huntertrace/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cognite-toolkit",
-  "version": "0.7.170",
+  "version": "0.7.171",
   "summary": "Official Cognite Data Fusion tool for project templates and configuration deployment",
   "author": "Cognite AS",
   "license": null,
   "home_page": null,
-  "download_filename": "cognite_toolkit-0.7.170.tar.gz",
-  "download_time": "2026-03-10T17:31:26.007597",
+  "download_filename": "cognite_toolkit-0.7.171.tar.gz",
+  "download_time": "2026-03-11T08:09:06.643746",
   "package_url": "https://pypi.org/project/cognite-toolkit/"
 }

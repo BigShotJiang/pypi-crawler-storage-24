@@ -1,0 +1,11 @@
+{
+  "name": "stacktrace",
+  "version": "1.0.0",
+  "summary": "Low-level Windows Stack Trace Engine",
+  "author": "Raul Mansurov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stacktrace-1.0.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-03-11T08:09:08.410224",
+  "package_url": "https://pypi.org/project/stacktrace/"
+}

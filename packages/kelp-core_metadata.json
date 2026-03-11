@@ -1,0 +1,11 @@
+{
+  "name": "kelp-core",
+  "version": "0.0.4",
+  "summary": "Metadata Toolkit for Databricks Spark and Declarative Pipelines",
+  "author": "BenSchr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kelp_core-0.0.4.tar.gz",
+  "download_time": "2026-03-11T08:09:02.530343",
+  "package_url": "https://pypi.org/project/kelp-core/"
+}

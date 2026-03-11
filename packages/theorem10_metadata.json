@@ -1,0 +1,11 @@
+{
+  "name": "theorem10",
+  "version": "1.5",
+  "summary": "This repository includes a computer program for a mathematical theorem paper titled A theorem on numbers of the form 10^x",
+  "author": "Ravin Kumar",
+  "license": null,
+  "home_page": "https://github.com/mr-ravin/theorem10",
+  "download_filename": "theorem10-1.5.tar.gz",
+  "download_time": "2026-03-11T08:08:58.462645",
+  "package_url": "https://pypi.org/project/theorem10/"
+}
