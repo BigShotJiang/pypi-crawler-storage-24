@@ -1,0 +1,11 @@
+{
+  "name": "platypus-music-player",
+  "version": "2.37.2",
+  "summary": "its a music player in python",
+  "author": "Bean The Platypus",
+  "license": null,
+  "home_page": "https://github.com/beantheplatypus/Platypus-Music-Player/",
+  "download_filename": "platypus_music_player-2.37.2.tar.gz",
+  "download_time": "2026-03-11T18:34:51.188789",
+  "package_url": "https://pypi.org/project/platypus-music-player/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "code-aide",
-  "version": "1.7.3",
+  "version": "1.8.0",
   "summary": "Manage AI coding CLI tools (Claude, Copilot, Cursor, Gemini, Amp, Codex)",
   "author": "Dave Beckett",
   "license": null,
   "home_page": null,
-  "download_filename": "code_aide-1.7.3.tar.gz",
-  "download_time": "2026-03-08T05:14:55.365126",
+  "download_filename": "code_aide-1.8.0.tar.gz",
+  "download_time": "2026-03-11T18:35:11.157404",
   "package_url": "https://pypi.org/project/code-aide/"
 }

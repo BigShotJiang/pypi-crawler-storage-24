@@ -1,0 +1,11 @@
+{
+  "name": "muta",
+  "version": "0.1.4",
+  "summary": "sync browser automation framework built on Playwright",
+  "author": "Joás",
+  "license": null,
+  "home_page": null,
+  "download_filename": "muta-0.1.4.tar.gz",
+  "download_time": "2026-03-11T18:35:00.100030",
+  "package_url": "https://pypi.org/project/muta/"
+}

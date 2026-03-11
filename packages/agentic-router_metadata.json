@@ -1,0 +1,11 @@
+{
+  "name": "agentic-router",
+  "version": "0.1.0",
+  "summary": "Agentic LLM router for classification and decision making.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_router-0.1.0.tar.gz",
+  "download_time": "2026-03-11T18:34:54.326027",
+  "package_url": "https://pypi.org/project/agentic-router/"
+}

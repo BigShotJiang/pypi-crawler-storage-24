@@ -1,11 +1,11 @@
 {
   "name": "prodigy-teams-recipes",
-  "version": "0.13.1",
+  "version": "0.14.0",
   "summary": "Recipes for Prodigy Teams",
   "author": "ExplosionAI GmbH",
   "license": "All rights reserved",
   "home_page": "https://prodi.gy",
-  "download_filename": "prodigy_teams_recipes-0.13.1.tar.gz",
-  "download_time": "2026-03-10T07:47:35.089861",
+  "download_filename": "prodigy_teams_recipes-0.14.0.tar.gz",
+  "download_time": "2026-03-11T18:35:16.852114",
   "package_url": "https://pypi.org/project/prodigy-teams-recipes/"
 }

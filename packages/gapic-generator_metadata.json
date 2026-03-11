@@ -1,11 +1,11 @@
 {
   "name": "gapic-generator",
-  "version": "1.30.10",
+  "version": "1.30.11",
   "summary": "Google API Client Generator for Python",
   "author": "Google LLC",
   "license": "Apache 2.0",
   "home_page": "https://github.com/googleapis/gapic-generator-python",
-  "download_filename": "gapic_generator-1.30.10.tar.gz",
-  "download_time": "2026-03-09T21:56:43.087446",
+  "download_filename": "gapic_generator-1.30.11.tar.gz",
+  "download_time": "2026-03-11T18:35:18.467496",
   "package_url": "https://pypi.org/project/gapic-generator/"
 }

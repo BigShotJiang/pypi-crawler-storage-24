@@ -1,11 +1,11 @@
 {
   "name": "flatfish",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Historical document analysis CLI - Extract, analyze, and present handwritten text from document images",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flatfish-0.1.1.tar.gz",
-  "download_time": "2026-03-11T14:35:47.786934",
+  "download_filename": "flatfish-0.1.3.tar.gz",
+  "download_time": "2026-03-11T18:35:32.589050",
   "package_url": "https://pypi.org/project/flatfish/"
 }

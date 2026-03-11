@@ -1,0 +1,11 @@
+{
+  "name": "tiny-object-storage",
+  "version": "0.1.1",
+  "summary": "A lightweight S3-compatible object storage server for local development and learning.",
+  "author": "Ehsan Bitaraf",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tiny_object_storage-0.1.1.tar.gz",
+  "download_time": "2026-03-11T18:35:14.799409",
+  "package_url": "https://pypi.org/project/tiny-object-storage/"
+}

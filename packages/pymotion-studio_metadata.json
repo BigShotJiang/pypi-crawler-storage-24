@@ -1,11 +1,11 @@
 {
   "name": "pymotion-studio",
-  "version": "3.2.0",
+  "version": "3.4.0",
   "summary": "A Python-native, code-first video generation framework",
   "author": null,
   "license": "PyMotion Source Available License 1.0",
   "home_page": null,
-  "download_filename": "pymotion_studio-3.2.0-py3-none-any.whl",
-  "download_time": "2026-03-11T17:35:39.228135",
+  "download_filename": "pymotion_studio-3.4.0-py3-none-any.whl",
+  "download_time": "2026-03-11T18:35:37.864093",
   "package_url": "https://pypi.org/project/pymotion-studio/"
 }

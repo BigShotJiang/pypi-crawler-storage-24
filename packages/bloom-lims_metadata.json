@@ -1,11 +1,11 @@
 {
   "name": "bloom-lims",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Templated Abstract Polymorphic LIMS - A Laboratory Information Management System",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bloom_lims-1.0.1-py3-none-any.whl",
-  "download_time": "2026-03-10T15:35:01.273246",
+  "download_filename": "bloom_lims-1.0.3-py3-none-any.whl",
+  "download_time": "2026-03-11T18:35:31.556579",
   "package_url": "https://pypi.org/project/bloom-lims/"
 }

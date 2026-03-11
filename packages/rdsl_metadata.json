@@ -1,0 +1,11 @@
+{
+  "name": "rdsl",
+  "version": "0.1.2",
+  "summary": "A powerful Domain Specific Language (DSL) for expressive molecule selection and extraction in RDKit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdsl-0.1.2.tar.gz",
+  "download_time": "2026-03-11T18:35:21.041707",
+  "package_url": "https://pypi.org/project/rdsl/"
+}

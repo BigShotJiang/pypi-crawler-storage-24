@@ -1,11 +1,11 @@
 {
   "name": "jailrun",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Cross-platform orchestration for FreeBSD jails",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jailrun-0.5.0.tar.gz",
-  "download_time": "2026-03-09T11:50:20.844923",
+  "download_filename": "jailrun-0.5.1.tar.gz",
+  "download_time": "2026-03-11T18:35:24.694275",
   "package_url": "https://pypi.org/project/jailrun/"
 }

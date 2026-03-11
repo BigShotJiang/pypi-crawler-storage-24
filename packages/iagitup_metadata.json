@@ -1,0 +1,11 @@
+{
+  "name": "iagitup",
+  "version": "3.3.0",
+  "summary": "Archive git repositories to the Internet Archive.",
+  "author": "Giovanni Damiola",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "iagitup-3.3.0.tar.gz",
+  "download_time": "2026-03-11T18:35:01.680443",
+  "package_url": "https://pypi.org/project/iagitup/"
+}

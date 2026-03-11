@@ -1,0 +1,11 @@
+{
+  "name": "jspprint",
+  "version": "0.1.1",
+  "summary": "A CLI tool for viewing and manipulating JSON files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jspprint-0.1.1.tar.gz",
+  "download_time": "2026-03-11T18:35:02.752792",
+  "package_url": "https://pypi.org/project/jspprint/"
+}
