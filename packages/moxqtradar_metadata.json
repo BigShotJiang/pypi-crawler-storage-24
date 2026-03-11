@@ -1,11 +1,11 @@
 {
   "name": "moxqtradar",
-  "version": "0.4.0",
-  "summary": "MoxQtRadar - Python tools",
-  "author": "MorganChen",
+  "version": "0.5.0",
+  "summary": "Radar MCU GUI Toolkit and Analyzer compiled with Cython",
+  "author": "xMorganChen",
   "license": null,
   "home_page": null,
-  "download_filename": "moxqtradar-0.4.0-py3-none-any.whl",
-  "download_time": "2026-03-09T09:03:13.102420",
+  "download_filename": "moxqtradar-0.5.0-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-03-11T08:35:30.407171",
   "package_url": "https://pypi.org/project/moxqtradar/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "isagellm-workstation",
+  "version": "0.1.0",
+  "summary": "SageLLM workstation web UI packaged for local installation",
+  "author": "IntelliStream Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isagellm_workstation-0.1.0.tar.gz",
+  "download_time": "2026-03-11T08:35:34.778563",
+  "package_url": "https://pypi.org/project/isagellm-workstation/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "token-throttle",
+  "version": "0.6.0",
+  "summary": "Simple Multi-Resource Rate Limiting That Saves Unused Tokens. Rate limit API requests across different resources and workers without wasting your quota. Reserve tokens upfront, get refunds for what you don't use, and avoid over-limiting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "token_throttle-0.6.0.tar.gz",
+  "download_time": "2026-03-11T08:36:19.690871",
+  "package_url": "https://pypi.org/project/token-throttle/"
+}

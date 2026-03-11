@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-identification-gln",
+  "version": "19.0.1.0.0.2",
+  "summary": "This addon extends \"Partner Identification Numbers\" to provide a number category for GLN registration",
+  "author": "Acsone S.A.,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_identification_gln-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-11T08:35:48.180604",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-identification-gln/"
+}

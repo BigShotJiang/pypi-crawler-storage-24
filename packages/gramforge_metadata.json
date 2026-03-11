@@ -1,11 +1,11 @@
 {
   "name": "gramforge",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": null,
   "author": "Damien Sileo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gramforge-1.0.6.tar.gz",
-  "download_time": "2026-03-10T09:28:54.290608",
+  "download_filename": "gramforge-1.0.7.tar.gz",
+  "download_time": "2026-03-11T08:35:41.271128",
   "package_url": "https://pypi.org/project/gramforge/"
 }

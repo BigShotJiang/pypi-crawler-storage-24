@@ -1,0 +1,11 @@
+{
+  "name": "lmu_meteo_api",
+  "version": "1.0.0",
+  "summary": "Python interface to retrieve data from LMU Meteo API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lmu_meteo_api-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-11T08:35:47.130376",
+  "package_url": "https://pypi.org/project/lmu_meteo_api/"
+}

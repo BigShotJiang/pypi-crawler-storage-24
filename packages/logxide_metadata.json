@@ -1,0 +1,11 @@
+{
+  "name": "logxide",
+  "version": "0.1.15",
+  "summary": "High-performance, Rust-powered drop-in replacement for Python's logging module",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logxide-0.1.15.tar.gz",
+  "download_time": "2026-03-11T08:35:43.932124",
+  "package_url": "https://pypi.org/project/logxide/"
+}
