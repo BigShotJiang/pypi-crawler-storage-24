@@ -1,0 +1,11 @@
+{
+  "name": "acroform",
+  "version": "0.2.0",
+  "summary": "High-level PDF form manipulation library - Python bindings",
+  "author": "acroform-rs contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "acroform-0.2.0.tar.gz",
+  "download_time": "2026-03-11T07:13:03.733134",
+  "package_url": "https://pypi.org/project/acroform/"
+}

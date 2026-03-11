@@ -1,11 +1,11 @@
 {
   "name": "ta-lib-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Read-only Python MCP server for TA-Lib indicator discovery and computation.",
   "author": "Yalcin Acikyildiz",
   "license": null,
   "home_page": null,
-  "download_filename": "ta_lib_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-03-10T17:31:29.126440",
+  "download_filename": "ta_lib_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-03-11T07:13:16.088009",
   "package_url": "https://pypi.org/project/ta-lib-mcp-server/"
 }

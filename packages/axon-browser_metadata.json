@@ -1,0 +1,11 @@
+{
+  "name": "axon-browser",
+  "version": "1.0.7",
+  "summary": "Python SDK for Axon browser automation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "axon_browser-1.0.7.tar.gz",
+  "download_time": "2026-03-11T07:12:42.260184",
+  "package_url": "https://pypi.org/project/axon-browser/"
+}

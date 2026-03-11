@@ -1,0 +1,11 @@
+{
+  "name": "agent-blueprint",
+  "version": "0.1.0",
+  "summary": "Declarative, framework-agnostic AI agent blueprints via YAML",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_blueprint-0.1.0.tar.gz",
+  "download_time": "2026-03-11T07:12:54.888925",
+  "package_url": "https://pypi.org/project/agent-blueprint/"
+}

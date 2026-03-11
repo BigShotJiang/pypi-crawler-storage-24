@@ -1,11 +1,11 @@
 {
   "name": "animus-bootstrap",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "Animus install daemon, onboarding wizard, and local dashboard",
   "author": "AreteDriver",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "animus_bootstrap-0.6.0.tar.gz",
-  "download_time": "2026-03-10T20:28:44.691340",
+  "download_filename": "animus_bootstrap-0.8.0.tar.gz",
+  "download_time": "2026-03-11T07:12:45.781222",
   "package_url": "https://pypi.org/project/animus-bootstrap/"
 }

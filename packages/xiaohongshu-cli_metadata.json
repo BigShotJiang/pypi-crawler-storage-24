@@ -1,0 +1,11 @@
+{
+  "name": "xiaohongshu-cli",
+  "version": "0.3.5",
+  "summary": "A CLI for Xiaohongshu (Red) — search, read, interact via reverse-engineered API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xiaohongshu_cli-0.3.5.tar.gz",
+  "download_time": "2026-03-11T07:13:19.460907",
+  "package_url": "https://pypi.org/project/xiaohongshu-cli/"
+}

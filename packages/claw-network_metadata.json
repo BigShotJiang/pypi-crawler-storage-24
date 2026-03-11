@@ -1,0 +1,11 @@
+{
+  "name": "claw-network",
+  "version": "0.2.0",
+  "summary": "Python SDK for Claw Network — AI Capability Internet",
+  "author": "zaq2989",
+  "license": null,
+  "home_page": "https://github.com/zaq2989/Clawagent",
+  "download_filename": "claw_network-0.2.0.tar.gz",
+  "download_time": "2026-03-11T07:13:00.398398",
+  "package_url": "https://pypi.org/project/claw-network/"
+}

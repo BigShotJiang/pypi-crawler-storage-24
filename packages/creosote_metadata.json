@@ -1,11 +1,11 @@
 {
   "name": "creosote",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "summary": "Identify unused dependencies and avoid a bloated virtual environment.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "creosote-5.1.0-py3-none-any.whl",
-  "download_time": "2026-03-07T16:26:18.202469",
+  "download_filename": "creosote-5.1.1-py3-none-any.whl",
+  "download_time": "2026-03-11T07:12:59.832150",
   "package_url": "https://pypi.org/project/creosote/"
 }

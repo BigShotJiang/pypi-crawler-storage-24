@@ -1,11 +1,11 @@
 {
   "name": "nadeshiko-internal-sdk",
-  "version": "1.5.0.dev1773064243",
+  "version": "1.5.0.dev1773211839",
   "summary": "Python SDK for Nadeshiko API (internal build - includes internal endpoints)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nadeshiko_internal_sdk-1.5.0.dev1773064243.tar.gz",
-  "download_time": "2026-03-09T14:04:12.955239",
+  "download_filename": "nadeshiko_internal_sdk-1.5.0.dev1773211839.tar.gz",
+  "download_time": "2026-03-11T07:13:18.914647",
   "package_url": "https://pypi.org/project/nadeshiko-internal-sdk/"
 }

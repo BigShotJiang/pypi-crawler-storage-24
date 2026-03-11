@@ -1,11 +1,11 @@
 {
   "name": "isistools",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Python-based review tools for ISIS3 coregistration workflows",
   "author": "Michael Aye",
   "license": null,
   "home_page": null,
-  "download_filename": "isistools-0.5.2.tar.gz",
-  "download_time": "2026-03-10T21:59:37.703730",
+  "download_filename": "isistools-0.5.3.tar.gz",
+  "download_time": "2026-03-11T07:13:04.282202",
   "package_url": "https://pypi.org/project/isistools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rtv-workmate",
+  "version": "0.1.1",
+  "summary": "Python client library for Workmate APIs",
+  "author": "jumashafara",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtv_workmate-0.1.1.tar.gz",
+  "download_time": "2026-03-11T07:12:47.482881",
+  "package_url": "https://pypi.org/project/rtv-workmate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ailia-voice",
+  "version": "1.5.0.0",
+  "summary": "ailia AI Voice",
+  "author": "ailia Inc.",
+  "license": "https://ailia.ai/en/license/",
+  "home_page": "https://ailia.ai/en/",
+  "download_filename": "ailia_voice-1.5.0.0.tar.gz",
+  "download_time": "2026-03-11T07:13:04.884848",
+  "package_url": "https://pypi.org/project/ailia-voice/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kabi-discord-cli",
-  "version": "0.2.1",
-  "summary": "Discord CLI — fetch chat history, search messages, daily sync",
-  "author": null,
+  "version": "0.2.7",
+  "summary": "Discord CLI for local-first sync, search, export, and agent-friendly retrieval",
+  "author": "jackwener",
   "license": null,
   "home_page": null,
-  "download_filename": "kabi_discord_cli-0.2.1.tar.gz",
-  "download_time": "2026-03-08T13:57:10.481957",
+  "download_filename": "kabi_discord_cli-0.2.7.tar.gz",
+  "download_time": "2026-03-11T07:13:20.008087",
   "package_url": "https://pypi.org/project/kabi-discord-cli/"
 }
