@@ -1,0 +1,11 @@
+{
+  "name": "tenax-tn",
+  "version": "0.1.0",
+  "summary": "JAX-based tensor network library with symmetry-aware block-sparse tensors",
+  "author": "Tenax Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tenax_tn-0.1.0.tar.gz",
+  "download_time": "2026-03-11T03:40:13.402202",
+  "package_url": "https://pypi.org/project/tenax-tn/"
+}

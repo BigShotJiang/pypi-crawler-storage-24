@@ -1,11 +1,11 @@
 {
   "name": "web-speedtest",
-  "version": "1.0.0b2",
+  "version": "1.0.0b6",
   "summary": "Network speed test — server with web UI and CLI client for measuring ping, download, and upload",
   "author": "WaterJuice",
   "license": null,
   "home_page": null,
-  "download_filename": "web_speedtest-1.0.0b2-py3-none-any.whl",
-  "download_time": "2026-03-09T09:03:15.182876",
+  "download_filename": "web_speedtest-1.0.0b6-py3-none-any.whl",
+  "download_time": "2026-03-11T03:40:11.754660",
   "package_url": "https://pypi.org/project/web-speedtest/"
 }

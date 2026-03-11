@@ -1,11 +1,11 @@
 {
   "name": "plain.dev",
-  "version": "0.58.2",
+  "version": "0.58.4",
   "summary": "A single command that runs everything you need for local development.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_dev-0.58.2.tar.gz",
-  "download_time": "2026-03-10T17:02:30.624756",
+  "download_filename": "plain_dev-0.58.4.tar.gz",
+  "download_time": "2026-03-11T03:40:47.196852",
   "package_url": "https://pypi.org/project/plain.dev/"
 }

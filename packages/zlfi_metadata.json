@@ -1,0 +1,11 @@
+{
+  "name": "zlfi",
+  "version": "1.0.0",
+  "summary": "Zipf Latent Fusion (ZLF) sequence similarity index",
+  "author": "Ilhan Karić",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zlfi-1.0.0.tar.gz",
+  "download_time": "2026-03-11T03:40:30.798302",
+  "package_url": "https://pypi.org/project/zlfi/"
+}

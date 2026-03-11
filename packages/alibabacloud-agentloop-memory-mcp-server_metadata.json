@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-agentloop-memory-mcp-server",
+  "version": "0.2.0",
+  "summary": "Alibaba Cloud AgentLoop Memory MCP Server - MCP Server for cloud-hosted memory management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alibabacloud_agentloop_memory_mcp_server-0.2.0.tar.gz",
+  "download_time": "2026-03-11T03:40:04.513896",
+  "package_url": "https://pypi.org/project/alibabacloud-agentloop-memory-mcp-server/"
+}

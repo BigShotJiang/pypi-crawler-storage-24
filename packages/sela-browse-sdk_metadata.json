@@ -1,11 +1,11 @@
 {
   "name": "sela-browse-sdk",
-  "version": "1.0.9",
+  "version": "1.0.12",
   "summary": "Sela Network Python SDK - P2P client for browser automation agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sela_browse_sdk-1.0.9-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-09T20:51:49.943664",
+  "download_filename": "sela_browse_sdk-1.0.12-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-11T03:40:22.621882",
   "package_url": "https://pypi.org/project/sela-browse-sdk/"
 }

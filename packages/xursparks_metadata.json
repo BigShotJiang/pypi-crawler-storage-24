@@ -1,0 +1,11 @@
+{
+  "name": "xursparks",
+  "version": "1.2.12.4.post6",
+  "summary": "Encapsulating Apache Spark for Easy Usage",
+  "author": "Randell Gabriel Santos",
+  "license": "MIT",
+  "home_page": "https://github.com/dev-doods687/xursparks",
+  "download_filename": "xursparks-1.2.12.4.post6.tar.gz",
+  "download_time": "2026-03-11T03:40:45.033332",
+  "package_url": "https://pypi.org/project/xursparks/"
+}

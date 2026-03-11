@@ -1,11 +1,11 @@
 {
   "name": "plain.pytest",
-  "version": "0.16.5",
+  "version": "0.16.7",
   "summary": "Test with pytest.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_pytest-0.16.5.tar.gz",
-  "download_time": "2026-03-08T14:49:24.319288",
+  "download_filename": "plain_pytest-0.16.7.tar.gz",
+  "download_time": "2026-03-11T03:40:43.413562",
   "package_url": "https://pypi.org/project/plain.pytest/"
 }

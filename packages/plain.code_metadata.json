@@ -1,11 +1,11 @@
 {
   "name": "plain.code",
-  "version": "0.21.2",
+  "version": "0.21.3",
   "summary": "Preconfigured code formatting and linting.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_code-0.21.2.tar.gz",
-  "download_time": "2026-03-10T17:02:31.196169",
+  "download_filename": "plain_code-0.21.3.tar.gz",
+  "download_time": "2026-03-11T03:40:47.734491",
   "package_url": "https://pypi.org/project/plain.code/"
 }

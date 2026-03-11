@@ -1,0 +1,11 @@
+{
+  "name": "loner-routing-algo",
+  "version": "0.0.1",
+  "summary": "Routing algorithm library for quiet walking profiles",
+  "author": "tzuping",
+  "license": null,
+  "home_page": null,
+  "download_filename": "loner_routing_algo-0.0.1.tar.gz",
+  "download_time": "2026-03-11T03:40:32.948190",
+  "package_url": "https://pypi.org/project/loner-routing-algo/"
+}

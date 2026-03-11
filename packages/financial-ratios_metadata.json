@@ -1,0 +1,11 @@
+{
+  "name": "financial-ratios",
+  "version": "0.3.0",
+  "summary": "The most comprehensive financial ratios library. 136+ ratios, batch compute, caching, trends, scenario DCF, peer comparison, Quantitative Moat Score, FastAPI, MCP server, and more.",
+  "author": "Piyush Gupta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "financial_ratios-0.3.0.tar.gz",
+  "download_time": "2026-03-11T03:40:53.142890",
+  "package_url": "https://pypi.org/project/financial-ratios/"
+}
