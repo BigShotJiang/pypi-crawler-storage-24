@@ -1,11 +1,11 @@
 {
   "name": "mnpbem-simulation",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "summary": "High-level simulation orchestration helpers for MNPBEM workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mnpbem_simulation-0.1.2.tar.gz",
-  "download_time": "2026-03-11T07:12:51.554664",
+  "download_filename": "mnpbem_simulation-0.1.7.tar.gz",
+  "download_time": "2026-03-11T09:28:39.398996",
   "package_url": "https://pypi.org/project/mnpbem-simulation/"
 }

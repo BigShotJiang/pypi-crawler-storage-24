@@ -1,11 +1,11 @@
 {
   "name": "mnpbem-mesh2d",
-  "version": "0.1.1",
+  "version": "0.1.8",
   "summary": "2D mesh geometry primitives for computational plasmonics meshes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mnpbem_mesh2d-0.1.1.tar.gz",
-  "download_time": "2026-03-11T08:09:11.869363",
+  "download_filename": "mnpbem_mesh2d-0.1.8.tar.gz",
+  "download_time": "2026-03-11T09:28:05.357022",
   "package_url": "https://pypi.org/project/mnpbem-mesh2d/"
 }

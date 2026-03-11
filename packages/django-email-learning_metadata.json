@@ -1,11 +1,11 @@
 {
   "name": "django-email-learning",
-  "version": "0.2.8",
+  "version": "0.2.11",
   "summary": "A platform for creating and delivering  learning materials via email within a Django application. It provides tools for content management, user role-based administration, and scheduler integration for automated content delivery.",
   "author": "Payam Najafizadeh",
   "license": null,
-  "home_page": "https://github.com/AvaCodeSolutions/django-email-learning",
-  "download_filename": "django_email_learning-0.2.8.tar.gz",
-  "download_time": "2026-03-07T21:53:46.841678",
+  "home_page": null,
+  "download_filename": "django_email_learning-0.2.11.tar.gz",
+  "download_time": "2026-03-11T09:28:30.446577",
   "package_url": "https://pypi.org/project/django-email-learning/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "xmu-rollcall-cli",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "summary": "XMU Rollcall Bot CLI - Automated rollcall monitoring and answering for Xiamen University Tronclass",
   "author": "KrsMt",
   "license": null,
   "home_page": "https://github.com/KrsMt-0113/XMU-Rollcall-Bot",
-  "download_filename": "xmu_rollcall_cli-3.3.0.tar.gz",
-  "download_time": "2026-03-11T08:09:06.061223",
+  "download_filename": "xmu_rollcall_cli-3.3.1.tar.gz",
+  "download_time": "2026-03-11T09:28:14.325646",
   "package_url": "https://pypi.org/project/xmu-rollcall-cli/"
 }

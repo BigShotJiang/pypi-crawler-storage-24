@@ -1,0 +1,11 @@
+{
+  "name": "bssunfold",
+  "version": "0.3.0",
+  "summary": "Python package for neutron spectrum unfolding from measurements obtained with Bonner Sphere Spectrometer (BSS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bssunfold-0.3.0.tar.gz",
+  "download_time": "2026-03-11T09:28:12.766569",
+  "package_url": "https://pypi.org/project/bssunfold/"
+}

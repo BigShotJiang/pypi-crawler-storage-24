@@ -1,0 +1,11 @@
+{
+  "name": "trakka",
+  "version": "0.81.0",
+  "summary": "A CLI to interact with a AusTrakka instance",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/AusTrakka/austrakka2-cli",
+  "download_filename": "trakka-0.81.0-py3-none-any.whl",
+  "download_time": "2026-03-11T09:28:21.553469",
+  "package_url": "https://pypi.org/project/trakka/"
+}

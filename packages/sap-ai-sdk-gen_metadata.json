@@ -1,0 +1,11 @@
+{
+  "name": "sap-ai-sdk-gen",
+  "version": "6.6.0",
+  "summary": "SAP Cloud SDK for AI (Python): generative AI SDK",
+  "author": "SAP SE",
+  "license": "SAP DEVELOPER LICENSE AGREEMENT",
+  "home_page": "https://www.sap.com/",
+  "download_filename": "sap_ai_sdk_gen-6.6.0-py3-none-any.whl",
+  "download_time": "2026-03-11T09:28:09.377529",
+  "package_url": "https://pypi.org/project/sap-ai-sdk-gen/"
+}

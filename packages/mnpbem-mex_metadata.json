@@ -1,0 +1,11 @@
+{
+  "name": "mnpbem-mex",
+  "version": "0.1.6",
+  "summary": "Acceleration-facing interfaces corresponding to MNPBEM mex integrations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnpbem_mex-0.1.6.tar.gz",
+  "download_time": "2026-03-11T09:28:41.506748",
+  "package_url": "https://pypi.org/project/mnpbem-mex/"
+}

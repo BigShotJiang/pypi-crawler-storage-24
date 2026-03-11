@@ -1,0 +1,11 @@
+{
+  "name": "pyRegRep",
+  "version": "7",
+  "summary": "Your package description",
+  "author": "Andrey Shapovalov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyregrep-7.tar.gz",
+  "download_time": "2026-03-11T09:28:26.485993",
+  "package_url": "https://pypi.org/project/pyRegRep/"
+}

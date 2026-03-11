@@ -1,11 +1,11 @@
 {
   "name": "mnpbem-greenfun",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Green-function utilities and kernels for electrodynamics simulations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mnpbem_greenfun-0.1.1.tar.gz",
-  "download_time": "2026-03-11T08:09:10.720079",
+  "download_filename": "mnpbem_greenfun-0.1.6.tar.gz",
+  "download_time": "2026-03-11T09:28:44.145137",
   "package_url": "https://pypi.org/project/mnpbem-greenfun/"
 }

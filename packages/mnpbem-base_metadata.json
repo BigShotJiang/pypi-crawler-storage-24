@@ -1,11 +1,11 @@
 {
   "name": "mnpbem-base",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "summary": "Factory and registry primitives for selecting BEM solvers and excitation operators.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mnpbem_base-0.1.2.tar.gz",
-  "download_time": "2026-03-11T07:12:52.121354",
+  "download_filename": "mnpbem_base-0.1.7.tar.gz",
+  "download_time": "2026-03-11T09:28:46.787281",
   "package_url": "https://pypi.org/project/mnpbem-base/"
 }

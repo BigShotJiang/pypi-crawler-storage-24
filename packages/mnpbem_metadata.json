@@ -1,11 +1,11 @@
 {
   "name": "mnpbem",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Meta-package that installs all MNPBEM Python submodules.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mnpbem-0.1.1.tar.gz",
-  "download_time": "2026-03-11T08:09:20.773628",
+  "download_filename": "mnpbem-0.1.6.tar.gz",
+  "download_time": "2026-03-11T09:28:06.423045",
   "package_url": "https://pypi.org/project/mnpbem/"
 }

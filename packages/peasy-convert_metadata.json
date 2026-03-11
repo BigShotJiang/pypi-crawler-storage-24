@@ -1,0 +1,11 @@
+{
+  "name": "peasy-convert",
+  "version": "0.1.0",
+  "summary": "Unified CLI for all Peasy tools — PDF, image, text, and CSS utilities in one command.",
+  "author": "Peasy Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peasy_convert-0.1.0.tar.gz",
+  "download_time": "2026-03-11T09:28:37.824080",
+  "package_url": "https://pypi.org/project/peasy-convert/"
+}
