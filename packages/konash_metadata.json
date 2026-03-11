@@ -1,11 +1,11 @@
 {
   "name": "konash",
-  "version": "0.1.1",
+  "version": "0.2.4",
   "summary": "Train knowledge agents that search, retrieve, compress, and reason — on a single GPU.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "konash-0.1.1.tar.gz",
-  "download_time": "2026-03-08T05:59:08.833331",
+  "download_filename": "konash-0.2.4.tar.gz",
+  "download_time": "2026-03-11T13:39:24.530046",
   "package_url": "https://pypi.org/project/konash/"
 }

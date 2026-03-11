@@ -1,11 +1,11 @@
 {
   "name": "maur",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": "Mats E. Mollestad",
   "license": null,
   "home_page": null,
-  "download_filename": "maur-0.1.1.tar.gz",
-  "download_time": "2026-03-11T10:48:29.990038",
+  "download_filename": "maur-0.1.2.tar.gz",
+  "download_time": "2026-03-11T13:39:44.468268",
   "package_url": "https://pypi.org/project/maur/"
 }

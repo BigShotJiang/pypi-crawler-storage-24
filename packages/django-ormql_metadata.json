@@ -1,0 +1,11 @@
+{
+  "name": "django-ormql",
+  "version": "0.0.0",
+  "summary": "ORMQL is a library that allows adding a reporting DSL (that is loosely based on SQL) to your Django project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_ormql-0.0.0.tar.gz",
+  "download_time": "2026-03-11T13:40:05.723668",
+  "package_url": "https://pypi.org/project/django-ormql/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "copit",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Copy reusable source code from GitHub repos, HTTP URLs, and ZIP archives into your project",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "copit-0.2.1.tar.gz",
-  "download_time": "2026-03-08T05:59:03.044645",
+  "download_filename": "copit-0.3.0.tar.gz",
+  "download_time": "2026-03-11T13:40:03.161864",
   "package_url": "https://pypi.org/project/copit/"
 }

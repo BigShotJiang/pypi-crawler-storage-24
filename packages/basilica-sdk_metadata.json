@@ -1,0 +1,11 @@
+{
+  "name": "basilica-sdk",
+  "version": "0.25.1",
+  "summary": "Python SDK for deploying containerized applications on the Basilica GPU cloud",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "basilica_sdk-0.25.1.tar.gz",
+  "download_time": "2026-03-11T13:39:29.297291",
+  "package_url": "https://pypi.org/project/basilica-sdk/"
+}

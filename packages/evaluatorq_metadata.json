@@ -1,0 +1,11 @@
+{
+  "name": "evaluatorq",
+  "version": "1.1.0",
+  "summary": "An evaluation framework library for Python that provides a flexible way to run parallel evaluations and optionally integrate with the Orq AI platform.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evaluatorq-1.1.0.tar.gz",
+  "download_time": "2026-03-11T13:39:45.513198",
+  "package_url": "https://pypi.org/project/evaluatorq/"
+}

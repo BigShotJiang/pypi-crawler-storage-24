@@ -1,11 +1,11 @@
 {
   "name": "trojmiasto-image-downloader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CLI tool for downloading image galleries from trojmiasto.pl (not affiliated with trojmiasto.pl).",
   "author": "Mateusz Wojewódzki",
   "license": "MIT",
   "home_page": "https://github.com/MatWojewodzki/trojmiasto-image-downloader",
-  "download_filename": "trojmiasto_image_downloader-0.1.1.tar.gz",
-  "download_time": "2026-03-07T10:18:20.455138",
+  "download_filename": "trojmiasto_image_downloader-0.1.2.tar.gz",
+  "download_time": "2026-03-11T13:39:55.967193",
   "package_url": "https://pypi.org/project/trojmiasto-image-downloader/"
 }

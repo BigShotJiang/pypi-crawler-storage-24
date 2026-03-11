@@ -1,0 +1,11 @@
+{
+  "name": "pm4py",
+  "version": "2.7.20",
+  "summary": "Process mining for Python",
+  "author": "Process Intelligence Solutions (PIS)",
+  "license": "AGPL 3.0",
+  "home_page": "https://processintelligence.solutions/",
+  "download_filename": "pm4py-2.7.20.tar.gz",
+  "download_time": "2026-03-11T13:39:35.106846",
+  "package_url": "https://pypi.org/project/pm4py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "inference-models",
-  "version": "0.19.5",
+  "version": "0.20.0",
   "summary": "The new inference engine for Computer Vision models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inference_models-0.19.5.tar.gz",
-  "download_time": "2026-03-10T01:26:07.262747",
+  "download_filename": "inference_models-0.20.0.tar.gz",
+  "download_time": "2026-03-11T13:39:23.996648",
   "package_url": "https://pypi.org/project/inference-models/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eodc-faas-sen2like",
+  "version": "2026.3.4",
+  "summary": "Bindings for the sen2like processor exposed at EODC",
+  "author": "Valentina Hutter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eodc_faas_sen2like-2026.3.4.tar.gz",
+  "download_time": "2026-03-11T13:39:52.324323",
+  "package_url": "https://pypi.org/project/eodc-faas-sen2like/"
+}

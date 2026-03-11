@@ -1,0 +1,11 @@
+{
+  "name": "reinforcement-learning-framework",
+  "version": "0.9.12",
+  "summary": "An easy-to-read Reinforcement Learning (RL) framework. Provides standardized interfaces and implementations to various Reinforcement Learning methods and utilities.",
+  "author": "Alexander Zap",
+  "license": "MIT",
+  "home_page": "https://github.com/alexander-zap/reinforcement-learning-framework",
+  "download_filename": "reinforcement_learning_framework-0.9.12.tar.gz",
+  "download_time": "2026-03-11T13:39:42.882158",
+  "package_url": "https://pypi.org/project/reinforcement-learning-framework/"
+}

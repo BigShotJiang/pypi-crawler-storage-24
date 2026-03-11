@@ -1,0 +1,11 @@
+{
+  "name": "behatrix",
+  "version": "0.15.1",
+  "summary": "Behatrix - Behavioral Sequences Analysis with permutation test",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "behatrix-0.15.1.tar.gz",
+  "download_time": "2026-03-11T13:39:27.142765",
+  "package_url": "https://pypi.org/project/behatrix/"
+}

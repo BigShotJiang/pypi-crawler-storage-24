@@ -1,0 +1,11 @@
+{
+  "name": "neutron-fwaas",
+  "version": "23.0.0",
+  "summary": "OpenStack Networking FWaaS",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/neutron-fwaas/latest/",
+  "download_filename": "neutron_fwaas-23.0.0.tar.gz",
+  "download_time": "2026-03-11T13:39:19.686759",
+  "package_url": "https://pypi.org/project/neutron-fwaas/"
+}
