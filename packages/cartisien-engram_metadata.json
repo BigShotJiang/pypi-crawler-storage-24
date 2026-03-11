@@ -1,11 +1,11 @@
 {
   "name": "cartisien-engram",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Persistent semantic memory for AI agents — SQLite-backed, local-first, zero config",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cartisien_engram-0.4.0.tar.gz",
-  "download_time": "2026-03-11T20:41:23.687709",
+  "download_filename": "cartisien_engram-0.5.0.tar.gz",
+  "download_time": "2026-03-11T21:05:21.435721",
   "package_url": "https://pypi.org/project/cartisien-engram/"
 }

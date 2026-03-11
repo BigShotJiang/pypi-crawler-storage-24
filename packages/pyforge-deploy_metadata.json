@@ -1,0 +1,11 @@
+{
+  "name": "pyforge-deploy",
+  "version": "0.1.0",
+  "summary": "Lightweight automation tool designed to streamline the transition from development to distribution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyforge_deploy-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-11T21:04:56.588476",
+  "package_url": "https://pypi.org/project/pyforge-deploy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ccparse",
+  "version": "0.6.0",
+  "summary": "Parse credit card PDF statements into structured financial data with multiple export formats (Pandas, CSV, OFX, QBO). Currently supports TD Business Solutions Visa.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ccparse-0.6.0.tar.gz",
+  "download_time": "2026-03-11T21:05:02.268020",
+  "package_url": "https://pypi.org/project/ccparse/"
+}

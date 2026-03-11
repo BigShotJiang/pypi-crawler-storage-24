@@ -1,11 +1,11 @@
 {
   "name": "applied-cli",
-  "version": "0.5.28",
+  "version": "0.5.29",
   "summary": "CLI and shared client library for Applied Labs AI support agents",
   "author": "Applied Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "applied_cli-0.5.28.tar.gz",
-  "download_time": "2026-03-11T19:31:31.330961",
+  "download_filename": "applied_cli-0.5.29.tar.gz",
+  "download_time": "2026-03-11T21:04:52.993465",
   "package_url": "https://pypi.org/project/applied-cli/"
 }

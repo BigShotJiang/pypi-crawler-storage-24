@@ -1,0 +1,11 @@
+{
+  "name": "flux-config-tui",
+  "version": "0.2.2",
+  "summary": "Flux Node Configuration TUI Client",
+  "author": "David White",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "flux_config_tui-0.2.2.tar.gz",
+  "download_time": "2026-03-11T21:05:30.740320",
+  "package_url": "https://pypi.org/project/flux-config-tui/"
+}

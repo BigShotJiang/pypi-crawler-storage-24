@@ -1,11 +1,11 @@
 {
   "name": "strawpot-gui",
-  "version": "0.1.13",
+  "version": "0.1.26",
   "summary": "Local web dashboard for StrawPot agent orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "strawpot_gui-0.1.13.tar.gz",
-  "download_time": "2026-03-11T01:26:12.259287",
+  "download_filename": "strawpot_gui-0.1.26.tar.gz",
+  "download_time": "2026-03-11T21:05:03.859631",
   "package_url": "https://pypi.org/project/strawpot-gui/"
 }

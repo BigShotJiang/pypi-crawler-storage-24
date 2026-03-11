@@ -1,0 +1,11 @@
+{
+  "name": "edlens",
+  "version": "0.1.0",
+  "summary": "Role-aware multi-agent grading pipeline for clinical ED handoff summaries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edlens-0.1.0.tar.gz",
+  "download_time": "2026-03-11T21:05:07.993295",
+  "package_url": "https://pypi.org/project/edlens/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyatv-cli",
+  "version": "1.0.3",
+  "summary": "Comprehensive Apple TV CLI & TUI remote control powered by pyatv",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyatv_cli-1.0.3.tar.gz",
+  "download_time": "2026-03-11T21:05:19.884543",
+  "package_url": "https://pypi.org/project/pyatv-cli/"
+}

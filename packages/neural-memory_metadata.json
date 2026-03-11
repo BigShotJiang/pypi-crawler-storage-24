@@ -1,11 +1,11 @@
 {
   "name": "neural-memory",
-  "version": "2.29.0",
+  "version": "3.4.0",
   "summary": "Reflex-based memory system for AI agents - retrieval through activation, not search",
   "author": "NeuralMemory Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "neural_memory-2.29.0.tar.gz",
-  "download_time": "2026-03-10T08:35:43.606485",
+  "download_filename": "neural_memory-3.4.0.tar.gz",
+  "download_time": "2026-03-11T21:05:20.403044",
   "package_url": "https://pypi.org/project/neural-memory/"
 }
