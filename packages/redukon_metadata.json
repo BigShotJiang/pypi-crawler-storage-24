@@ -1,0 +1,11 @@
+{
+  "name": "redukon",
+  "version": "3.5.2",
+  "summary": "Simple CLI tool for AI text rewriting with Ollama",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redukon-3.5.2-py3-none-any.whl",
+  "download_time": "2026-03-11T05:04:53.897785",
+  "package_url": "https://pypi.org/project/redukon/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mnpbem-material",
+  "version": "0.1.0",
+  "summary": "Material dielectric models for plasmonic electrodynamics in MNPBEM-Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnpbem_material-0.1.0.tar.gz",
+  "download_time": "2026-03-11T05:05:03.819044",
+  "package_url": "https://pypi.org/project/mnpbem-material/"
+}

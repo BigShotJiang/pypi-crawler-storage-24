@@ -1,11 +1,11 @@
 {
   "name": "universal-upgrader-utility",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "A tiny utility to update/clean your system",
   "author": "Francois B (Makoto)",
   "license": null,
   "home_page": "https://makotonoblog.be",
-  "download_filename": "universal_upgrader_utility-0.1.14.tar.gz",
-  "download_time": "2026-03-11T01:26:26.437314",
+  "download_filename": "universal_upgrader_utility-0.1.15.tar.gz",
+  "download_time": "2026-03-11T05:04:56.071229",
   "package_url": "https://pypi.org/project/universal-upgrader-utility/"
 }

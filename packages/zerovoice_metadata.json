@@ -1,0 +1,11 @@
+{
+  "name": "zerovoice",
+  "version": "0.6.1",
+  "summary": "AI-powered call center with natural conversation capabilities (Pure Python)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zerovoice-0.6.1.tar.gz",
+  "download_time": "2026-03-11T05:05:21.288946",
+  "package_url": "https://pypi.org/project/zerovoice/"
+}

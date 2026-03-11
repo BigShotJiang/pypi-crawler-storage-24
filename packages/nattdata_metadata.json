@@ -1,11 +1,11 @@
 {
   "name": "nattdata",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "NattSwap SDK — Cross-chain swaps with NDAT rewards for AI agents",
   "author": "HyperNatt",
   "license": null,
-  "home_page": "https://github.com/DIALLOUBE-RESEARCH/NATTAPP-portfolio",
-  "download_filename": "nattdata-1.1.0.tar.gz",
-  "download_time": "2026-03-10T23:23:54.667911",
+  "home_page": "https://github.com/DIALLOUBE-RESEARCH/NattData-SDK",
+  "download_filename": "nattdata-1.1.2.tar.gz",
+  "download_time": "2026-03-11T05:04:41.992868",
   "package_url": "https://pypi.org/project/nattdata/"
 }

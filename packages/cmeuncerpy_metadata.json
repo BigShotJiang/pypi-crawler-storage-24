@@ -1,0 +1,11 @@
+{
+  "name": "cmeuncerpy",
+  "version": "0.1.45",
+  "summary": "Machine learning models implemented in PyTorch and Rust, including Linear Regression and Neural Networks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmeuncerpy-0.1.45-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-11T05:04:37.033296",
+  "package_url": "https://pypi.org/project/cmeuncerpy/"
+}

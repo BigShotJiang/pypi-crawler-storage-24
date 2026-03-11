@@ -1,0 +1,11 @@
+{
+  "name": "wire-band-edge",
+  "version": "0.4.0",
+  "summary": "Lightweight Wire.Band client — semantic data middleware for any domain (IoT, AI/ML, DeFi, legal, geospatial, supply chain, and more)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wire_band_edge-0.4.0.tar.gz",
+  "download_time": "2026-03-11T05:05:10.575706",
+  "package_url": "https://pypi.org/project/wire-band-edge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "task-agent",
-  "version": "0.1.26",
+  "version": "0.1.34",
   "summary": "A prioritized, file-based task queue for autonomous agentic workers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "task_agent-0.1.26.tar.gz",
-  "download_time": "2026-03-10T23:50:47.150627",
+  "download_filename": "task_agent-0.1.34.tar.gz",
+  "download_time": "2026-03-11T05:04:45.921837",
   "package_url": "https://pypi.org/project/task-agent/"
 }

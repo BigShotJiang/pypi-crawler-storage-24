@@ -1,11 +1,11 @@
 {
   "name": "programgarden-core",
-  "version": "1.9.3",
+  "version": "1.9.4",
   "summary": "ProgramGarden Core - 노드 기반 DSL 핵심 타입 정의",
   "author": "프로그램동산",
   "license": null,
   "home_page": null,
-  "download_filename": "programgarden_core-1.9.3.tar.gz",
-  "download_time": "2026-03-10T07:47:08.392068",
+  "download_filename": "programgarden_core-1.9.4.tar.gz",
+  "download_time": "2026-03-11T05:04:50.134925",
   "package_url": "https://pypi.org/project/programgarden-core/"
 }

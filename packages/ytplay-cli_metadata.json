@@ -1,0 +1,11 @@
+{
+  "name": "ytplay-cli",
+  "version": "0.4.3",
+  "summary": "Search and play YouTube videos from the terminal using mpv and fzf",
+  "author": "Naveen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ytplay_cli-0.4.3.tar.gz",
+  "download_time": "2026-03-11T05:05:21.799948",
+  "package_url": "https://pypi.org/project/ytplay-cli/"
+}

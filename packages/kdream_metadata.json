@@ -1,11 +1,11 @@
 {
   "name": "kdream",
-  "version": "0.4.0",
+  "version": "0.10.0",
   "summary": "Universal AI Model Runtime & Recipe Platform — run any AI model with a single command.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kdream-0.4.0.tar.gz",
-  "download_time": "2026-03-11T03:40:10.650857",
+  "download_filename": "kdream-0.10.0.tar.gz",
+  "download_time": "2026-03-11T05:04:52.268663",
   "package_url": "https://pypi.org/project/kdream/"
 }

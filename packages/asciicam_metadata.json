@@ -1,0 +1,11 @@
+{
+  "name": "asciicam",
+  "version": "1.0.0",
+  "summary": "Real-time ASCII Camera in the terminal",
+  "author": "Yaduraj Singh",
+  "license": null,
+  "home_page": "https://github.com/YaduEnc/AsciiCam",
+  "download_filename": "asciicam-1.0.0.tar.gz",
+  "download_time": "2026-03-11T05:04:58.069002",
+  "package_url": "https://pypi.org/project/asciicam/"
+}

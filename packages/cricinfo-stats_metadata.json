@@ -1,0 +1,11 @@
+{
+  "name": "cricinfo-stats",
+  "version": "2.0.0",
+  "summary": "Python library for loading cricket statistics from ESPN Cricinfo into pandas DataFrames",
+  "author": "Ali Raza",
+  "license": null,
+  "home_page": "https://github.com/aaraza/cricinfo",
+  "download_filename": "cricinfo_stats-2.0.0.tar.gz",
+  "download_time": "2026-03-11T05:04:39.339195",
+  "package_url": "https://pypi.org/project/cricinfo-stats/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sherma",
-  "version": "0.8.0",
+  "version": "0.10.1",
   "summary": "Agent Framework rising through the citadel!",
   "author": "Rohith Ramakrishnan",
   "license": null,
   "home_page": null,
-  "download_filename": "sherma-0.8.0.tar.gz",
-  "download_time": "2026-03-10T06:00:50.421372",
+  "download_filename": "sherma-0.10.1.tar.gz",
+  "download_time": "2026-03-11T05:05:05.354648",
   "package_url": "https://pypi.org/project/sherma/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcws",
+  "version": "0.0.3",
+  "summary": "Simple way to talk to the minecraft websocket api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcws-0.0.3.tar.gz",
+  "download_time": "2026-03-11T05:04:46.453103",
+  "package_url": "https://pypi.org/project/mcws/"
+}
