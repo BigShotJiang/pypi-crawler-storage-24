@@ -1,11 +1,11 @@
 {
   "name": "appif",
-  "version": "0.9.0",
+  "version": "0.10.2",
   "summary": "Messaging connectors giving AI agents authenticated, normalized access to email and chat platforms",
   "author": "ldawson",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "appif-0.9.0.tar.gz",
-  "download_time": "2026-03-08T05:59:01.482609",
+  "download_filename": "appif-0.10.2.tar.gz",
+  "download_time": "2026-03-11T22:50:16.131636",
   "package_url": "https://pypi.org/project/appif/"
 }

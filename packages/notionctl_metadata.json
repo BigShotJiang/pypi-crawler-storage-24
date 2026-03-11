@@ -1,0 +1,11 @@
+{
+  "name": "notionctl",
+  "version": "0.1.0",
+  "summary": "Agent-friendly CLI for the Notion API. Structured JSON output, async, full MCP parity.",
+  "author": "jjovalle99",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notionctl-0.1.0.tar.gz",
+  "download_time": "2026-03-11T22:50:13.954773",
+  "package_url": "https://pypi.org/project/notionctl/"
+}

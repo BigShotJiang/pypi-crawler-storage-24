@@ -1,0 +1,11 @@
+{
+  "name": "tiatoolbox",
+  "version": "2.0.0",
+  "summary": "Computational pathology toolbox developed by TIA Centre.",
+  "author": "TIA Centre",
+  "license": null,
+  "home_page": "https://github.com/TissueImageAnalytics/tiatoolbox",
+  "download_filename": "tiatoolbox-2.0.0.tar.gz",
+  "download_time": "2026-03-11T22:50:58.142185",
+  "package_url": "https://pypi.org/project/tiatoolbox/"
+}

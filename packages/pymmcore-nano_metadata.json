@@ -1,11 +1,11 @@
 {
   "name": "pymmcore-nano",
-  "version": "11.14.0.75.0",
+  "version": "12.2.0.75.0",
   "summary": "Alternative python bindings for MMCore, Micro-Manager's device control layer",
   "author": "Micro-Manager Team",
   "license": "LGPL-2.1-only",
   "home_page": null,
-  "download_filename": "pymmcore_nano-11.14.0.75.0.tar.gz",
-  "download_time": "2026-03-10T20:28:49.758636",
+  "download_filename": "pymmcore_nano-12.2.0.75.0.tar.gz",
+  "download_time": "2026-03-11T22:50:25.777580",
   "package_url": "https://pypi.org/project/pymmcore-nano/"
 }

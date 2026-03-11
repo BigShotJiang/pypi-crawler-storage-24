@@ -1,0 +1,11 @@
+{
+  "name": "lean",
+  "version": "1.0.224",
+  "summary": "A CLI aimed at making it easier to run QuantConnect's LEAN engine locally and in the cloud",
+  "author": "QuantConnect",
+  "license": null,
+  "home_page": "https://lean.io/cli",
+  "download_filename": "lean-1.0.224.tar.gz",
+  "download_time": "2026-03-11T22:50:33.567289",
+  "package_url": "https://pypi.org/project/lean/"
+}

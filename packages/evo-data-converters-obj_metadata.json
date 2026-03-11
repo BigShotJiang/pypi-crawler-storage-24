@@ -1,0 +1,11 @@
+{
+  "name": "evo-data-converters-obj",
+  "version": "0.0.2",
+  "summary": "Python data converters for Wavefront Technologies OBJ/MTL file to Evo geoscience objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_data_converters_obj-0.0.2.tar.gz",
+  "download_time": "2026-03-11T22:50:47.105226",
+  "package_url": "https://pypi.org/project/evo-data-converters-obj/"
+}
