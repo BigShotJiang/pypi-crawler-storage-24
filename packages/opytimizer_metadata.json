@@ -1,0 +1,11 @@
+{
+  "name": "opytimizer",
+  "version": "4.0.0",
+  "summary": "Nature-Inspired Python Optimizer",
+  "author": "Recogna",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/recogna-lab/opytimizer",
+  "download_filename": "opytimizer-4.0.0.tar.gz",
+  "download_time": "2026-03-11T23:22:03.399464",
+  "package_url": "https://pypi.org/project/opytimizer/"
+}

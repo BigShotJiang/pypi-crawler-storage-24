@@ -1,11 +1,11 @@
 {
   "name": "guten-morgen",
-  "version": "0.18.1",
+  "version": "0.18.2",
   "summary": "CLI for Morgen calendar and task management — optimised for LLM consumption",
   "author": "Jeremy Brown",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "guten_morgen-0.18.1.tar.gz",
-  "download_time": "2026-03-11T22:50:19.404029",
+  "download_filename": "guten_morgen-0.18.2.tar.gz",
+  "download_time": "2026-03-11T23:22:10.802904",
   "package_url": "https://pypi.org/project/guten-morgen/"
 }

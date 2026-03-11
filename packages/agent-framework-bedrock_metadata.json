@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-bedrock",
+  "version": "1.0.0b260311",
+  "summary": "Amazon Bedrock integration for Microsoft Agent Framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_framework_bedrock-1.0.0b260311.tar.gz",
+  "download_time": "2026-03-11T23:21:41.305112",
+  "package_url": "https://pypi.org/project/agent-framework-bedrock/"
+}

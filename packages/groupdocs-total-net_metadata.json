@@ -1,0 +1,11 @@
+{
+  "name": "groupdocs-total-net",
+  "version": "26.3",
+  "summary": "GroupDocs.Total for Python via .NET metapackage that enables you to install all available GroupDocs for Python via .NET products.",
+  "author": "GroupDocs",
+  "license": null,
+  "home_page": "https://products.groupdocs.com/",
+  "download_filename": "groupdocs_total_net-26.3.tar.gz",
+  "download_time": "2026-03-11T23:22:17.542775",
+  "package_url": "https://pypi.org/project/groupdocs-total-net/"
+}

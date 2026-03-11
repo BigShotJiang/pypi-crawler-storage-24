@@ -1,11 +1,11 @@
 {
   "name": "acatome-chat",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "AI research assistant — local Ollama or Claude/GPT-4o, switchable. Paper library, doc editing, web search.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "acatome_chat-0.2.4.tar.gz",
-  "download_time": "2026-03-11T22:50:44.004221",
+  "download_filename": "acatome_chat-0.2.5.tar.gz",
+  "download_time": "2026-03-11T23:21:56.545057",
   "package_url": "https://pypi.org/project/acatome-chat/"
 }

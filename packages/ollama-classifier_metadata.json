@@ -1,0 +1,11 @@
+{
+  "name": "ollama-classifier",
+  "version": "0.1.0",
+  "summary": "A wrapper around Ollama Python SDK for text classification with constrained output and confidence scoring",
+  "author": "Luigi Palumbo, Mengting Yu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollama_classifier-0.1.0.tar.gz",
+  "download_time": "2026-03-11T23:21:55.511681",
+  "package_url": "https://pypi.org/project/ollama-classifier/"
+}

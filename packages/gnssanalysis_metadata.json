@@ -1,0 +1,11 @@
+{
+  "name": "gnssanalysis",
+  "version": "0.0.59",
+  "summary": "basic python module for gnss analysis",
+  "author": "Geoscience Australia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnssanalysis-0.0.59.tar.gz",
+  "download_time": "2026-03-11T23:22:01.832131",
+  "package_url": "https://pypi.org/project/gnssanalysis/"
+}

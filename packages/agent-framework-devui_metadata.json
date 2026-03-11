@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-devui",
+  "version": "1.0.0b260311",
+  "summary": "Debug UI for Microsoft Agent Framework with OpenAI-compatible API server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_framework_devui-1.0.0b260311.tar.gz",
+  "download_time": "2026-03-11T23:21:40.276776",
+  "package_url": "https://pypi.org/project/agent-framework-devui/"
+}

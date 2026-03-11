@@ -1,0 +1,11 @@
+{
+  "name": "trivy-py-ecc",
+  "version": "0.69.3.1",
+  "summary": "Python wrapper around invoking trivy (https://trivy.dev/)",
+  "author": "eccenca GmbH",
+  "license": "MIT",
+  "home_page": "https://github.com/eccenca/pre-commit-mirrors-trivy",
+  "download_filename": "trivy_py_ecc-0.69.3.1.tar.gz",
+  "download_time": "2026-03-11T23:21:53.907031",
+  "package_url": "https://pypi.org/project/trivy-py-ecc/"
+}

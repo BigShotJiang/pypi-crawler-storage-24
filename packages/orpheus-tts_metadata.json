@@ -1,11 +1,11 @@
 {
   "name": "orpheus-tts",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python SDK for Orpheus TTS - stream high-quality speech",
   "author": "Canopy Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "orpheus_tts-0.1.4.tar.gz",
-  "download_time": "2026-03-11T22:50:18.325007",
+  "download_filename": "orpheus_tts-0.1.5.tar.gz",
+  "download_time": "2026-03-11T23:22:07.566002",
   "package_url": "https://pypi.org/project/orpheus-tts/"
 }

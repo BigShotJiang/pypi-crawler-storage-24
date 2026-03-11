@@ -1,11 +1,11 @@
 {
   "name": "lakers-python",
-  "version": "0.6.0",
-  "summary": null,
+  "version": "0.6.1",
+  "summary": "An implementation of EDHOC, written in Rust",
   "author": null,
-  "license": null,
+  "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "lakers_python-0.6.0.tar.gz",
-  "download_time": "2026-03-11T22:24:06.607962",
+  "download_filename": "lakers_python-0.6.1.tar.gz",
+  "download_time": "2026-03-11T23:22:16.512063",
   "package_url": "https://pypi.org/project/lakers-python/"
 }

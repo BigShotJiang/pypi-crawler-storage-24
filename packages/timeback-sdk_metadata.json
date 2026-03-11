@@ -1,0 +1,11 @@
+{
+  "name": "timeback-sdk",
+  "version": "0.1.10",
+  "summary": "Timeback SDK for Python - adapters for FastAPI, Django, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timeback_sdk-0.1.10.tar.gz",
+  "download_time": "2026-03-11T23:22:21.201547",
+  "package_url": "https://pypi.org/project/timeback-sdk/"
+}

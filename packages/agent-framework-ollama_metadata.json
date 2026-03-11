@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-ollama",
+  "version": "1.0.0b260311",
+  "summary": "Ollama integration for Microsoft Agent Framework.",
+  "author": "Microsoft",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_framework_ollama-1.0.0b260311.tar.gz",
+  "download_time": "2026-03-11T23:21:39.758723",
+  "package_url": "https://pypi.org/project/agent-framework-ollama/"
+}
