@@ -1,0 +1,11 @@
+{
+  "name": "machbaseapi",
+  "version": "2.0.0",
+  "summary": "Machbase Python API 2.0 (Pure Python, legacy compatible)",
+  "author": "machbase",
+  "license": null,
+  "home_page": "http://www.machbase.com",
+  "download_filename": "machbaseapi-2.0.0-py3-none-any.whl",
+  "download_time": "2026-03-11T11:01:19.671861",
+  "package_url": "https://pypi.org/project/machbaseapi/"
+}

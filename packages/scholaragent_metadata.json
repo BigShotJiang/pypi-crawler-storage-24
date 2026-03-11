@@ -1,0 +1,11 @@
+{
+  "name": "scholaragent",
+  "version": "0.2.0",
+  "summary": "Multi-agent scientific literature research system with persistent memory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scholaragent-0.2.0.tar.gz",
+  "download_time": "2026-03-11T11:01:26.375552",
+  "package_url": "https://pypi.org/project/scholaragent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mlx-mfa",
-  "version": "1.2.3",
+  "version": "2.5.1",
   "summary": "Metal Flash Attention for MLX — causal attention 1.5-2.9x faster than SDPA on Apple Silicon",
   "author": "Marco Marcelino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlx_mfa-1.2.3.tar.gz",
-  "download_time": "2026-03-09T22:24:34.626764",
+  "download_filename": "mlx_mfa-2.5.1.tar.gz",
+  "download_time": "2026-03-11T11:01:45.153015",
   "package_url": "https://pypi.org/project/mlx-mfa/"
 }

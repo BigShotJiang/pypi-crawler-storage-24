@@ -1,0 +1,11 @@
+{
+  "name": "django-pgviews-redux",
+  "version": "1.2.0",
+  "summary": "Create and manage Postgres SQL Views in Django",
+  "author": "Mikuláš Poul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pgviews_redux-1.2.0.tar.gz",
+  "download_time": "2026-03-11T11:01:21.220644",
+  "package_url": "https://pypi.org/project/django-pgviews-redux/"
+}

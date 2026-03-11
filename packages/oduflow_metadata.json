@@ -1,0 +1,11 @@
+{
+  "name": "oduflow",
+  "version": "1.20.1",
+  "summary": "AI-first Odoo development and CI tool with reusable database templates, powered by MCP",
+  "author": "Oduist",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "home_page": null,
+  "download_filename": "oduflow-1.20.1.tar.gz",
+  "download_time": "2026-03-11T11:01:27.921019",
+  "package_url": "https://pypi.org/project/oduflow/"
+}

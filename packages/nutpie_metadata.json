@@ -1,0 +1,11 @@
+{
+  "name": "nutpie",
+  "version": "0.16.8",
+  "summary": "Sample Stan or PyMC models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nutpie-0.16.8.tar.gz",
+  "download_time": "2026-03-11T11:01:31.518537",
+  "package_url": "https://pypi.org/project/nutpie/"
+}

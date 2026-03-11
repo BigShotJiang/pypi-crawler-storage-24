@@ -1,0 +1,11 @@
+{
+  "name": "ovn-octavia-provider",
+  "version": "9.0.0",
+  "summary": "OpenStack Octavia integration with OVN",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/ovn-octavia-provider/latest/",
+  "download_filename": "ovn_octavia_provider-9.0.0.tar.gz",
+  "download_time": "2026-03-11T11:01:18.649301",
+  "package_url": "https://pypi.org/project/ovn-octavia-provider/"
+}

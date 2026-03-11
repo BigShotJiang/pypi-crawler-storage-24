@@ -1,11 +1,11 @@
 {
   "name": "accompy",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Generate backing track audio from chord charts",
   "author": "Thor Whalen",
   "license": "mit",
   "home_page": null,
-  "download_filename": "accompy-0.3.4.tar.gz",
-  "download_time": "2026-03-07T16:26:11.041832",
+  "download_filename": "accompy-0.3.5.tar.gz",
+  "download_time": "2026-03-11T11:01:35.676623",
   "package_url": "https://pypi.org/project/accompy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jhadoo",
-  "version": "1.2.3",
+  "version": "1.2.6",
   "summary": "Smart cleanup tool for developers - removes unused venv, node_modules, Docker images, scans Git repos, and more",
   "author": "Bhavishya",
   "license": null,
   "home_page": "https://github.com/bhav09/jhadoo",
-  "download_filename": "jhadoo-1.2.3.tar.gz",
-  "download_time": "2026-03-09T07:39:58.920143",
+  "download_filename": "jhadoo-1.2.6.tar.gz",
+  "download_time": "2026-03-11T11:01:29.454572",
   "package_url": "https://pypi.org/project/jhadoo/"
 }

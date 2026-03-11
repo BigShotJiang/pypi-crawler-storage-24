@@ -1,0 +1,11 @@
+{
+  "name": "netgen-mesher",
+  "version": "6.2.2602",
+  "summary": "Netgen",
+  "author": "The Netgen team",
+  "license": "LGPL2.1",
+  "home_page": null,
+  "download_filename": "netgen_mesher-6.2.2602-cp314-cp314-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-03-11T11:01:16.002389",
+  "package_url": "https://pypi.org/project/netgen-mesher/"
+}

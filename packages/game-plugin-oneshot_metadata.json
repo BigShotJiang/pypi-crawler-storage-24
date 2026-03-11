@@ -1,11 +1,11 @@
 {
   "name": "game-plugin-oneshot",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "GAME SDK plugin for OneShot real-world AI agent tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "game_plugin_oneshot-0.3.0.tar.gz",
-  "download_time": "2026-03-10T23:51:05.367428",
+  "download_filename": "game_plugin_oneshot-0.4.0.tar.gz",
+  "download_time": "2026-03-11T11:01:39.312333",
   "package_url": "https://pypi.org/project/game-plugin-oneshot/"
 }

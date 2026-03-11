@@ -1,0 +1,11 @@
+{
+  "name": "mistral-dashboard",
+  "version": "21.0.0",
+  "summary": "Mistral dashboard",
+  "author": "OpenStack",
+  "license": "Apache-2.0",
+  "home_page": "https://docs.openstack.org/mistral/latest/",
+  "download_filename": "mistral_dashboard-21.0.0.tar.gz",
+  "download_time": "2026-03-11T11:01:47.220202",
+  "package_url": "https://pypi.org/project/mistral-dashboard/"
+}
