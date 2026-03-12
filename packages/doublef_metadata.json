@@ -1,0 +1,11 @@
+{
+  "name": "doublef",
+  "version": "0.1.1",
+  "summary": "DoubleF: A fast and flexible phase association and earthquake location method",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "doublef-0.1.1.tar.gz",
+  "download_time": "2026-03-12T09:29:46.661195",
+  "package_url": "https://pypi.org/project/doublef/"
+}

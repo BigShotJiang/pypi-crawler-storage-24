@@ -1,0 +1,11 @@
+{
+  "name": "nerq-commerce",
+  "version": "0.1.0",
+  "summary": "Trust verification for agentic commerce. Verify AI shopping agents before transactions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nerq_commerce-0.1.0.tar.gz",
+  "download_time": "2026-03-12T09:29:36.303962",
+  "package_url": "https://pypi.org/project/nerq-commerce/"
+}

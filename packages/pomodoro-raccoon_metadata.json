@@ -1,0 +1,11 @@
+{
+  "name": "pomodoro-raccoon",
+  "version": "0.2.0",
+  "summary": "Ein simpler Pomodoro-Timer mit ASCII-Waschbär-Animation",
+  "author": "Nick Witmar",
+  "license": null,
+  "home_page": "https://github.com/event173/pomodoro-racoon",
+  "download_filename": "pomodoro_raccoon-0.2.0.tar.gz",
+  "download_time": "2026-03-12T09:29:12.897155",
+  "package_url": "https://pypi.org/project/pomodoro-raccoon/"
+}
