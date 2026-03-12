@@ -1,0 +1,11 @@
+{
+  "name": "pybhatlib",
+  "version": "0.3.1",
+  "summary": "Python implementation of BHATLIB: matrix-based inference for advanced econometric models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybhatlib-0.3.1.tar.gz",
+  "download_time": "2026-03-12T19:54:33.722329",
+  "package_url": "https://pypi.org/project/pybhatlib/"
+}

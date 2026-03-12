@@ -1,11 +1,11 @@
 {
   "name": "eyes-playwright",
-  "version": "6.4.26",
+  "version": "6.4.27",
   "summary": "Applitools Python SDK. Playwright package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eyes_playwright-6.4.26-py3-none-any.whl",
-  "download_time": "2026-03-08T10:20:46.454297",
+  "download_filename": "eyes_playwright-6.4.27-py3-none-any.whl",
+  "download_time": "2026-03-12T19:54:40.962246",
   "package_url": "https://pypi.org/project/eyes-playwright/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "metaflow-flyte",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Run Metaflow flows as Flyte workflows",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "metaflow_flyte-0.4.2.tar.gz",
-  "download_time": "2026-03-07T07:56:58.541115",
+  "download_filename": "metaflow_flyte-0.4.3.tar.gz",
+  "download_time": "2026-03-12T19:54:19.837220",
   "package_url": "https://pypi.org/project/metaflow-flyte/"
 }

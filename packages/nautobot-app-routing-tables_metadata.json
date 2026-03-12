@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-app-routing-tables",
+  "version": "1.1.1",
+  "summary": "Nautobot App to model routing tables per device/VRF with optional auto-managed connected routes.",
+  "author": "Never77",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_app_routing_tables-1.1.1.tar.gz",
+  "download_time": "2026-03-12T19:54:31.146517",
+  "package_url": "https://pypi.org/project/nautobot-app-routing-tables/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lts-mpsmqutils",
+  "version": "2.1.4",
+  "summary": "A set of utilities for communicating with a message queue",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.huit.harvard.edu/LTS/mps-mqutils",
+  "download_filename": "lts_mpsmqutils-2.1.4.tar.gz",
+  "download_time": "2026-03-12T19:54:18.818500",
+  "package_url": "https://pypi.org/project/lts-mpsmqutils/"
+}

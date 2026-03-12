@@ -1,11 +1,11 @@
 {
   "name": "eyes-selenium",
-  "version": "6.4.26",
+  "version": "6.4.27",
   "summary": "Applitools Python SDK. Selenium package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eyes_selenium-6.4.26-py3-none-any.whl",
-  "download_time": "2026-03-08T10:20:48.012651",
+  "download_filename": "eyes_selenium-6.4.27-py3-none-any.whl",
+  "download_time": "2026-03-12T19:54:42.497163",
   "package_url": "https://pypi.org/project/eyes-selenium/"
 }

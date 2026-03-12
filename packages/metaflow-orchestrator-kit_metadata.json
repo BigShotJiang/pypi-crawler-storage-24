@@ -1,0 +1,11 @@
+{
+  "name": "metaflow-orchestrator-kit",
+  "version": "0.1.1",
+  "summary": "Development kit for building Metaflow orchestrator extensions",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "metaflow_orchestrator_kit-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:54:16.769111",
+  "package_url": "https://pypi.org/project/metaflow-orchestrator-kit/"
+}

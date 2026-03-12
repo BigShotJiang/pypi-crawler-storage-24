@@ -1,11 +1,11 @@
 {
   "name": "smartboiler",
-  "version": "1.3.7",
+  "version": "1.3.10",
   "summary": "Smart boiling of household",
   "author": "Adam GRUNWALD",
   "license": null,
   "home_page": "https://github.com/grinwi/smartboiler",
-  "download_filename": "smartboiler-1.3.7.tar.gz",
-  "download_time": "2026-03-11T22:24:54.853298",
+  "download_filename": "smartboiler-1.3.10.tar.gz",
+  "download_time": "2026-03-12T19:54:11.576648",
   "package_url": "https://pypi.org/project/smartboiler/"
 }

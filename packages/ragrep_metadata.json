@@ -1,0 +1,11 @@
+{
+  "name": "ragrep",
+  "version": "0.2.3",
+  "summary": "Local semantic code recall with mxbai embeddings and SQLite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragrep-0.2.3.tar.gz",
+  "download_time": "2026-03-12T19:54:29.100941",
+  "package_url": "https://pypi.org/project/ragrep/"
+}

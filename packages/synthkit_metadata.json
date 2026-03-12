@@ -1,11 +1,11 @@
 {
   "name": "synthkit",
-  "version": "0.2.0",
-  "summary": "Convert AI-generated Markdown into production-ready documents",
+  "version": "0.4.1",
+  "summary": "Thinking tools and production tools for working with AI — structured exploration, strategic debate, and document conversion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synthkit-0.2.0.tar.gz",
-  "download_time": "2026-03-12T10:09:36.818144",
+  "download_filename": "synthkit-0.4.1.tar.gz",
+  "download_time": "2026-03-12T19:54:35.264172",
   "package_url": "https://pypi.org/project/synthkit/"
 }

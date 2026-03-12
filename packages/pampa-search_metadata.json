@@ -1,11 +1,11 @@
 {
   "name": "pampa-search",
-  "version": "0.1.6",
-  "summary": "PAMPA_SEARCH: A minimalist and generic graph search library made to be usable to solve state-search-space problems such as routing.",
+  "version": "0.1.13",
+  "summary": "PAMPA-SEARCH: A minimalist and generic graph search library made to be usable to solve state-search-space problems such as routing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pampa_search-0.1.6.tar.gz",
-  "download_time": "2026-03-10T21:00:13.140505",
+  "download_filename": "pampa_search-0.1.13.tar.gz",
+  "download_time": "2026-03-12T19:54:31.656362",
   "package_url": "https://pypi.org/project/pampa-search/"
 }
