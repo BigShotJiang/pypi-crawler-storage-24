@@ -1,11 +1,11 @@
 {
   "name": "specfront-ai",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Spec-Driven AI Agent Architecture with MCP Integration",
   "author": "Specfront AI Team",
   "license": null,
   "home_page": null,
-  "download_filename": "specfront_ai-0.1.3.tar.gz",
-  "download_time": "2026-03-12T05:10:40.807848",
+  "download_filename": "specfront_ai-0.1.5.tar.gz",
+  "download_time": "2026-03-12T17:14:31.618518",
   "package_url": "https://pypi.org/project/specfront-ai/"
 }

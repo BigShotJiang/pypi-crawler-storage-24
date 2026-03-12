@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-display-total-quantity",
+  "version": "18.0.1.0.1",
+  "summary": "POS - Display total quantity in order summary",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_display_total_quantity-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-12T17:14:40.005249",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-display-total-quantity/"
+}

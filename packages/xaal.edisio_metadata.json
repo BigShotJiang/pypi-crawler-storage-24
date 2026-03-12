@@ -1,0 +1,11 @@
+{
+  "name": "xaal.edisio",
+  "version": "0.2.3",
+  "summary": "xAAL gateway for Edisio devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xaal_edisio-0.2.3.tar.gz",
+  "download_time": "2026-03-12T17:14:27.767080",
+  "package_url": "https://pypi.org/project/xaal.edisio/"
+}

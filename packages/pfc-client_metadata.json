@@ -1,0 +1,11 @@
+{
+  "name": "pfc-client",
+  "version": "0.1.3",
+  "summary": "Lightweight Python SDK for the PFC API",
+  "author": "Dan Evans",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pfc_client-0.1.3.tar.gz",
+  "download_time": "2026-03-12T17:14:05.799972",
+  "package_url": "https://pypi.org/project/pfc-client/"
+}

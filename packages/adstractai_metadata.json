@@ -1,0 +1,11 @@
+{
+  "name": "adstractai",
+  "version": "0.4.0",
+  "summary": "Ad network that delivers ads to the LLM's response",
+  "author": null,
+  "license": "Adstract SDK Proprietary License",
+  "home_page": null,
+  "download_filename": "adstractai-0.4.0.tar.gz",
+  "download_time": "2026-03-12T17:14:15.747425",
+  "package_url": "https://pypi.org/project/adstractai/"
+}

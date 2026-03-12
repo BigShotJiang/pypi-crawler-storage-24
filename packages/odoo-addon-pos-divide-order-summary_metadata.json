@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-divide-order-summary",
+  "version": "18.0.1.0.1",
+  "summary": "POS - Divider order summary",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_divide_order_summary-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-12T17:14:38.725035",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-divide-order-summary/"
+}

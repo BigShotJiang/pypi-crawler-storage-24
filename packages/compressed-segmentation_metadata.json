@@ -1,0 +1,11 @@
+{
+  "name": "compressed-segmentation",
+  "version": "2.3.3",
+  "summary": "Neuroglancer compressed_segmentation codec.",
+  "author": "Jeremy Maitin-Shepard, Stephen Plaza, and William Silversmith",
+  "license": null,
+  "home_page": "https://github.com/janelia-flyem/compressedseg",
+  "download_filename": "compressed_segmentation-2.3.3.tar.gz",
+  "download_time": "2026-03-12T17:13:44.002548",
+  "package_url": "https://pypi.org/project/compressed-segmentation/"
+}

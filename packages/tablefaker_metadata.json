@@ -1,0 +1,11 @@
+{
+  "name": "tablefaker",
+  "version": "1.9.0",
+  "summary": "A Python package to generate fake tabular data. Get data in pandas dataframe or export to Parquet, DeltaLake, Csv, Json, Excel or Sql",
+  "author": "Necati Arslan",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/necatiarslan/table-faker",
+  "download_filename": "tablefaker-1.9.0.tar.gz",
+  "download_time": "2026-03-12T17:14:37.430398",
+  "package_url": "https://pypi.org/project/tablefaker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rxfoundry.clients.swifty-receiver-api",
-  "version": "0.1.1101",
+  "version": "0.1.1105",
   "summary": "Swifty Receiver API",
   "author": "RxFoundry Team",
   "license": null,
   "home_page": null,
-  "download_filename": "rxfoundry_clients_swifty_receiver_api-0.1.1101.tar.gz",
-  "download_time": "2026-03-09T08:08:08.009239",
+  "download_filename": "rxfoundry_clients_swifty_receiver_api-0.1.1105.tar.gz",
+  "download_time": "2026-03-12T17:14:16.392835",
   "package_url": "https://pypi.org/project/rxfoundry.clients.swifty-receiver-api/"
 }

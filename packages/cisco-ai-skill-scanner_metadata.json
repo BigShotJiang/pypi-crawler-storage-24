@@ -1,0 +1,11 @@
+{
+  "name": "cisco-ai-skill-scanner",
+  "version": "2.0.3",
+  "summary": "Security scanner for Agent Skills packages - Detects prompt injection, data exfiltration, and malicious code",
+  "author": "Cisco",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cisco_ai_skill_scanner-2.0.3.tar.gz",
+  "download_time": "2026-03-12T17:14:36.790338",
+  "package_url": "https://pypi.org/project/cisco-ai-skill-scanner/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rafter-cli",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": "Rafter CLI — security for AI builders",
   "author": "Rafter Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rafter_cli-0.6.1.tar.gz",
-  "download_time": "2026-03-11T22:50:59.200167",
+  "download_filename": "rafter_cli-0.6.3.tar.gz",
+  "download_time": "2026-03-12T17:14:32.257061",
   "package_url": "https://pypi.org/project/rafter-cli/"
 }

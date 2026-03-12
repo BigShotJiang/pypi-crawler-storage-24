@@ -1,0 +1,11 @@
+{
+  "name": "json2xml",
+  "version": "6.0.5",
+  "summary": "Simple Python Library to convert JSON to XML",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "json2xml-6.0.5.tar.gz",
+  "download_time": "2026-03-12T17:14:28.404124",
+  "package_url": "https://pypi.org/project/json2xml/"
+}

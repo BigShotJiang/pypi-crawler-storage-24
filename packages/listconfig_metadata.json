@@ -1,0 +1,11 @@
+{
+  "name": "listconfig",
+  "version": "0.1.3",
+  "summary": "Convert .config into a human-readable config list with description and metadata",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "listconfig-0.1.3.tar.gz",
+  "download_time": "2026-03-12T17:14:44.508105",
+  "package_url": "https://pypi.org/project/listconfig/"
+}

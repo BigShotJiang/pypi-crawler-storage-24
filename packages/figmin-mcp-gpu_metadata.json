@@ -1,0 +1,11 @@
+{
+  "name": "figmin-mcp-gpu",
+  "version": "0.1.14",
+  "summary": "MCP bridge that connects AI Agents to Figmin XR for spatial computing AI collaboration (GPU TTS build)",
+  "author": "Figmin XR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "figmin_mcp_gpu-0.1.14.tar.gz",
+  "download_time": "2026-03-12T17:13:57.773242",
+  "package_url": "https://pypi.org/project/figmin-mcp-gpu/"
+}

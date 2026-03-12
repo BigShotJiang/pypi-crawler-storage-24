@@ -1,11 +1,11 @@
 {
   "name": "pyads-agile",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "Agile-maintained Python wrapper for the TwinCAT ADS library, based on pyads",
   "author": "Agile Automation Technologies GmbH",
   "license": null,
   "home_page": null,
-  "download_filename": "pyads_agile-0.1.1.tar.gz",
-  "download_time": "2026-03-11T17:35:45.290969",
+  "download_filename": "pyads_agile-0.3.0.tar.gz",
+  "download_time": "2026-03-12T17:13:52.630134",
   "package_url": "https://pypi.org/project/pyads-agile/"
 }

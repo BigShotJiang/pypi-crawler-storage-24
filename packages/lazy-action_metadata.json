@@ -1,0 +1,11 @@
+{
+  "name": "lazy-action",
+  "version": "1.0.8",
+  "summary": "lazy_action make your func lazy",
+  "author": "Irid",
+  "license": null,
+  "home_page": "https://github.com/iridesc/lazy_action",
+  "download_filename": "lazy_action-1.0.8.tar.gz",
+  "download_time": "2026-03-12T17:14:41.286132",
+  "package_url": "https://pypi.org/project/lazy-action/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "channel3-sdk",
+  "version": "3.0.0",
+  "summary": "The official Python library for the channel3 API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "channel3_sdk-3.0.0.tar.gz",
+  "download_time": "2026-03-12T17:14:03.998989",
+  "package_url": "https://pypi.org/project/channel3-sdk/"
+}

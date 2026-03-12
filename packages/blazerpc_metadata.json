@@ -1,0 +1,11 @@
+{
+  "name": "blazerpc",
+  "version": "2.1.0",
+  "summary": "A lightweight, framework-agnostic gRPC library for machine learning inference",
+  "author": "Ifihanagbara Olusheye",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blazerpc-2.1.0.tar.gz",
+  "download_time": "2026-03-12T17:14:42.648620",
+  "package_url": "https://pypi.org/project/blazerpc/"
+}
