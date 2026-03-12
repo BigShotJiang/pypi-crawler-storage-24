@@ -1,0 +1,11 @@
+{
+  "name": "fmu-dataio",
+  "version": "2.24.0",
+  "summary": "Facilitate data io in FMU with rich metadata",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "fmu_dataio-2.24.0-py3-none-any.whl",
+  "download_time": "2026-03-12T13:07:14.606898",
+  "package_url": "https://pypi.org/project/fmu-dataio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trainerbase",
+  "version": "4.8.0",
+  "summary": "Framework for creating game trainers/mods",
+  "author": "v01d, doomayka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trainerbase-4.8.0.tar.gz",
+  "download_time": "2026-03-12T13:07:13.048188",
+  "package_url": "https://pypi.org/project/trainerbase/"
+}

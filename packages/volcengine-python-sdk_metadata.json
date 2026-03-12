@@ -1,0 +1,11 @@
+{
+  "name": "volcengine-python-sdk",
+  "version": "5.0.16",
+  "summary": "Volcengine SDK for Python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/volcengine/volcengine-python-sdk",
+  "download_filename": "volcengine_python_sdk-5.0.16.tar.gz",
+  "download_time": "2026-03-12T13:06:35.811170",
+  "package_url": "https://pypi.org/project/volcengine-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wv-cli",
+  "version": "0.1.1",
+  "summary": "CLI scaffold tool for pywebview + Vue3 desktop apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wv_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-12T13:07:12.020307",
+  "package_url": "https://pypi.org/project/wv-cli/"
+}

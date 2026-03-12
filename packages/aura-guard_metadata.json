@@ -1,11 +1,11 @@
 {
   "name": "aura-guard",
-  "version": "0.3.10",
+  "version": "0.5.1",
   "summary": "At-most-once side-effect enforcement + circuit breaker for agent tool calls (loops, retries, duplicate side effects).",
   "author": "Aura Guard Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aura_guard-0.3.10.tar.gz",
-  "download_time": "2026-03-07T10:18:26.697919",
+  "download_filename": "aura_guard-0.5.1.tar.gz",
+  "download_time": "2026-03-12T13:07:15.633938",
   "package_url": "https://pypi.org/project/aura-guard/"
 }
