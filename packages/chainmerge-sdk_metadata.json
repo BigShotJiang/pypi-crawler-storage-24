@@ -1,0 +1,11 @@
+{
+  "name": "chainmerge-sdk",
+  "version": "0.1.2",
+  "summary": "Python SDK for the ChainMerge multichain transaction decoder API.",
+  "author": "ChainMerge Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chainmerge_sdk-0.1.2.tar.gz",
+  "download_time": "2026-03-12T23:24:30.349860",
+  "package_url": "https://pypi.org/project/chainmerge-sdk/"
+}

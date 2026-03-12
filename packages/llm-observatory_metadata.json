@@ -1,11 +1,11 @@
 {
   "name": "llm-observatory",
-  "version": "0.2.5",
+  "version": "0.2.8",
   "summary": "Context0 SDK — one import, all calls logged",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_observatory-0.2.5.tar.gz",
-  "download_time": "2026-03-09T23:23:55.884413",
+  "download_filename": "llm_observatory-0.2.8.tar.gz",
+  "download_time": "2026-03-12T23:24:13.478314",
   "package_url": "https://pypi.org/project/llm-observatory/"
 }

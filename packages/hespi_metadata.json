@@ -1,0 +1,11 @@
+{
+  "name": "hespi",
+  "version": "0.6.2",
+  "summary": "HErbarium Specimen sheet PIpeline",
+  "author": "Robert Turnbull",
+  "license": "Apache-2.0",
+  "home_page": "https://rbturnbull.github.io/hespi/",
+  "download_filename": "hespi-0.6.2.tar.gz",
+  "download_time": "2026-03-12T23:24:22.436680",
+  "package_url": "https://pypi.org/project/hespi/"
+}

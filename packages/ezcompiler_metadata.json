@@ -1,0 +1,11 @@
+{
+  "name": "ezcompiler",
+  "version": "2.3.0",
+  "summary": "Project compilation and distribution framework for Python projects",
+  "author": "Neuraaak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ezcompiler-2.3.0.tar.gz",
+  "download_time": "2026-03-12T23:24:09.640381",
+  "package_url": "https://pypi.org/project/ezcompiler/"
+}

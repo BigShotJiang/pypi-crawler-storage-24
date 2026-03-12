@@ -1,0 +1,11 @@
+{
+  "name": "pyspark-connect",
+  "version": "4.1.1",
+  "summary": "Apache Spark Python API with Spark Connect by default",
+  "author": "Spark Developers",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/apache/spark/tree/master/python",
+  "download_filename": "pyspark_connect-4.1.1.tar.gz",
+  "download_time": "2026-03-12T23:24:41.554158",
+  "package_url": "https://pypi.org/project/pyspark-connect/"
+}

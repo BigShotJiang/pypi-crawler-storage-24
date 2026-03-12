@@ -1,11 +1,11 @@
 {
   "name": "plexmix",
-  "version": "0.5.1",
+  "version": "0.5.5",
   "summary": "AI-powered Plex playlist generator using mood-based queries",
   "author": "Anthony Izzo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plexmix-0.5.1.tar.gz",
-  "download_time": "2026-03-11T16:35:04.560697",
+  "download_filename": "plexmix-0.5.5.tar.gz",
+  "download_time": "2026-03-12T23:24:29.828544",
   "package_url": "https://pypi.org/project/plexmix/"
 }

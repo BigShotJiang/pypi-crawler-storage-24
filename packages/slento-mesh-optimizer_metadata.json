@@ -1,11 +1,11 @@
 {
   "name": "slento-mesh-optimizer",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "Distributed hardware optimization agent — JEPA-driven job routing, GPU/CPU/FPGA probing, and performance tuning across heterogeneous compute clusters.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "slento_mesh_optimizer-0.1.14.tar.gz",
-  "download_time": "2026-03-12T23:02:55.005909",
+  "download_filename": "slento_mesh_optimizer-0.1.16.tar.gz",
+  "download_time": "2026-03-12T23:24:31.392091",
   "package_url": "https://pypi.org/project/slento-mesh-optimizer/"
 }

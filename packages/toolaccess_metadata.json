@@ -1,0 +1,11 @@
+{
+  "name": "toolaccess",
+  "version": "1.1.0",
+  "summary": "Make your custom tools accessible across multiple protocols, including MCP, REST and CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolaccess-1.1.0.tar.gz",
+  "download_time": "2026-03-12T23:24:20.829108",
+  "package_url": "https://pypi.org/project/toolaccess/"
+}

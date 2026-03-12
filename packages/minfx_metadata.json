@@ -1,0 +1,11 @@
+{
+  "name": "minfx",
+  "version": "0.7.1",
+  "summary": "A minimal Python package for the minfx project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minfx-0.7.1.tar.gz",
+  "download_time": "2026-03-12T23:24:04.238050",
+  "package_url": "https://pypi.org/project/minfx/"
+}
