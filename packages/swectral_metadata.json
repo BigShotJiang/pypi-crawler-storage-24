@@ -1,0 +1,11 @@
+{
+  "name": "swectral",
+  "version": "0.6.0",
+  "summary": "A Python framework for automated batch composition, implementation and method assessment of plant hyperspectral modeling pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swectral-0.6.0.tar.gz",
+  "download_time": "2026-03-12T10:09:19.844642",
+  "package_url": "https://pypi.org/project/swectral/"
+}

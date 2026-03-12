@@ -1,0 +1,11 @@
+{
+  "name": "pympc",
+  "version": "1.5.0",
+  "summary": "minor planet checking",
+  "author": "Joe Lyman",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/lyalpha/pympc",
+  "download_filename": "pympc-1.5.0.tar.gz",
+  "download_time": "2026-03-12T10:09:46.575285",
+  "package_url": "https://pypi.org/project/pympc/"
+}

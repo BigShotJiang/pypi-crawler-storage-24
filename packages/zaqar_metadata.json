@@ -1,0 +1,11 @@
+{
+  "name": "zaqar",
+  "version": "21.0.0",
+  "summary": "OpenStack Queuing and Notification Service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/zaqar/latest/",
+  "download_filename": "zaqar-21.0.0.tar.gz",
+  "download_time": "2026-03-12T10:09:35.283502",
+  "package_url": "https://pypi.org/project/zaqar/"
+}

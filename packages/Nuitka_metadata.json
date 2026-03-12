@@ -1,11 +1,11 @@
 {
   "name": "Nuitka",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "summary": "Python compiler with full language support and CPython compatibility",
   "author": "Kay Hayen",
   "license": "GNU Affero General Public License v3",
   "home_page": "https://nuitka.net",
-  "download_filename": "nuitka-4.0.4.tar.gz",
-  "download_time": "2026-03-10T06:01:19.705731",
+  "download_filename": "nuitka-4.0.5.tar.gz",
+  "download_time": "2026-03-12T10:09:15.722396",
   "package_url": "https://pypi.org/project/Nuitka/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ovn-bgp-agent",
+  "version": "5.0.0",
+  "summary": "The OVN BGP Agent allows to expose VMs/Containers/Networks through BGP on OVN",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://www.openstack.org/",
+  "download_filename": "ovn_bgp_agent-5.0.0.tar.gz",
+  "download_time": "2026-03-12T10:09:17.293259",
+  "package_url": "https://pypi.org/project/ovn-bgp-agent/"
+}

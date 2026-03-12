@@ -1,0 +1,11 @@
+{
+  "name": "crewai-docapi",
+  "version": "0.1.0",
+  "summary": "CrewAI tools for DocAPI — generate PDFs, screenshots, and invoices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crewai_docapi-0.1.0.tar.gz",
+  "download_time": "2026-03-12T10:09:39.903411",
+  "package_url": "https://pypi.org/project/crewai-docapi/"
+}

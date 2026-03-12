@@ -1,11 +1,11 @@
 {
   "name": "vgis-infer",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "A libary for vgis ai inference",
   "author": "gisfanmachel",
   "license": null,
   "home_page": "https://github.com/gisfanmachel/vgisInfer",
-  "download_filename": "vgis_infer-1.1.6.tar.gz",
-  "download_time": "2026-03-09T02:31:49.832555",
+  "download_filename": "vgis_infer-1.1.7.tar.gz",
+  "download_time": "2026-03-12T10:09:36.306147",
   "package_url": "https://pypi.org/project/vgis-infer/"
 }

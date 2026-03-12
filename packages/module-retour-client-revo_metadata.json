@@ -1,0 +1,11 @@
+{
+  "name": "module-retour-client-revo",
+  "version": "1.3.7",
+  "summary": "Module Django pour la gestion des retours clients et bugs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "module_retour_client_revo-1.3.7.tar.gz",
+  "download_time": "2026-03-12T10:09:04.934561",
+  "package_url": "https://pypi.org/project/module-retour-client-revo/"
+}

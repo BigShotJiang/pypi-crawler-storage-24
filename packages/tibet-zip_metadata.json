@@ -1,0 +1,11 @@
+{
+  "name": "tibet-zip",
+  "version": "0.1.4",
+  "summary": "TIBET-zip — alias package for tbz (block-level authenticated compression)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tibet_zip-0.1.4.tar.gz",
+  "download_time": "2026-03-12T10:09:37.328030",
+  "package_url": "https://pypi.org/project/tibet-zip/"
+}

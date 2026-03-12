@@ -1,0 +1,11 @@
+{
+  "name": "PyAVM",
+  "version": "0.9.9",
+  "summary": "Simple pure-python AVM meta-data handling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyavm-0.9.9.tar.gz",
+  "download_time": "2026-03-12T10:09:38.879328",
+  "package_url": "https://pypi.org/project/PyAVM/"
+}

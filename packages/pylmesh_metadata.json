@@ -1,11 +1,11 @@
 {
   "name": "pylmesh",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A lightweight library for importing and exporting surface mesh files in multiple formats",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pylmesh-0.0.4-cp312-cp312-manylinux_2_28_x86_64.whl",
-  "download_time": "2026-03-12T08:40:42.699366",
+  "download_filename": "pylmesh-0.0.5-cp312-cp312-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-12T10:09:37.855127",
   "package_url": "https://pypi.org/project/pylmesh/"
 }

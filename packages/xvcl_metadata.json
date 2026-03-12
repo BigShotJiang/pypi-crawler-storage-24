@@ -1,0 +1,11 @@
+{
+  "name": "xvcl",
+  "version": "2.7.1",
+  "summary": "Extended VCL compiler with metaprogramming features for Fastly VCL",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xvcl-2.7.1.tar.gz",
+  "download_time": "2026-03-12T10:09:16.234916",
+  "package_url": "https://pypi.org/project/xvcl/"
+}

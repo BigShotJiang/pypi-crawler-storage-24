@@ -1,0 +1,11 @@
+{
+  "name": "langchain-docapi",
+  "version": "0.1.0",
+  "summary": "LangChain tools for DocAPI — generate PDFs, screenshots, and invoices via API",
+  "author": "Siwan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_docapi-0.1.0.tar.gz",
+  "download_time": "2026-03-12T10:09:41.963347",
+  "package_url": "https://pypi.org/project/langchain-docapi/"
+}

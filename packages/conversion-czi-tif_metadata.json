@@ -1,0 +1,11 @@
+{
+  "name": "conversion-czi-tif",
+  "version": "0.1.0",
+  "summary": "A package for converting CZI to TIFF files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conversion_czi_tif-0.1.0.tar.gz",
+  "download_time": "2026-03-12T10:09:34.747874",
+  "package_url": "https://pypi.org/project/conversion-czi-tif/"
+}

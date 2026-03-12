@@ -1,0 +1,11 @@
+{
+  "name": "kmoe",
+  "version": "0.2.1",
+  "summary": "Command-line manga downloader for kxx.moe / kzz.moe / koz.moe",
+  "author": "holdjun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kmoe-0.2.1.tar.gz",
+  "download_time": "2026-03-12T10:09:42.986819",
+  "package_url": "https://pypi.org/project/kmoe/"
+}
