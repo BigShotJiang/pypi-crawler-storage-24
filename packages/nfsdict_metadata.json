@@ -1,11 +1,11 @@
 {
   "name": "nfsdict",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "NFS-safe persistent dictionary. Atomic file-per-key writes, in-memory read cache.",
   "author": "Damien Sileo",
   "license": null,
   "home_page": null,
-  "download_filename": "nfsdict-0.1.0.tar.gz",
-  "download_time": "2026-03-09T14:04:19.457113",
+  "download_filename": "nfsdict-0.2.1.tar.gz",
+  "download_time": "2026-03-12T15:13:22.831412",
   "package_url": "https://pypi.org/project/nfsdict/"
 }

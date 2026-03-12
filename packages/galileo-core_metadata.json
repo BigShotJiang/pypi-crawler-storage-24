@@ -1,11 +1,11 @@
 {
   "name": "galileo-core",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://www.galileo.ai/",
-  "download_filename": "galileo_core-4.1.1-py3-none-any.whl",
-  "download_time": "2026-03-11T21:05:14.702474",
+  "download_filename": "galileo_core-4.1.2-py3-none-any.whl",
+  "download_time": "2026-03-12T15:13:14.590531",
   "package_url": "https://pypi.org/project/galileo-core/"
 }

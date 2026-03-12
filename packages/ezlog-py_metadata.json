@@ -1,0 +1,11 @@
+{
+  "name": "ezlog-py",
+  "version": "1.0.8",
+  "summary": "Simple, performant logging with ANSI colors for Python.",
+  "author": "eaannist",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezlog_py-1.0.8.tar.gz",
+  "download_time": "2026-03-12T15:13:05.665133",
+  "package_url": "https://pypi.org/project/ezlog-py/"
+}

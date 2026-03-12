@@ -1,11 +1,11 @@
 {
   "name": "rampo",
-  "version": "0.2.0",
+  "version": "0.6.0",
   "summary": "GUI application for Raman spectroscopy analysis in high-pressure experiments.",
   "author": "Dan Shim",
   "license": null,
   "home_page": null,
-  "download_filename": "rampo-0.2.0.tar.gz",
-  "download_time": "2026-03-09T23:23:53.810192",
+  "download_filename": "rampo-0.6.0.tar.gz",
+  "download_time": "2026-03-12T15:13:21.236058",
   "package_url": "https://pypi.org/project/rampo/"
 }

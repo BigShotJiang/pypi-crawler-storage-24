@@ -1,0 +1,11 @@
+{
+  "name": "keyboardcrumbs-mcp",
+  "version": "1.0.1",
+  "summary": "Live threat intelligence MCP server — IP lookup, CVE intel, KEV Oracle predictions, malware hashes, pre-attack staging detection. Free, no API key required.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keyboardcrumbs_mcp-1.0.1.tar.gz",
+  "download_time": "2026-03-12T15:13:10.565292",
+  "package_url": "https://pypi.org/project/keyboardcrumbs-mcp/"
+}
