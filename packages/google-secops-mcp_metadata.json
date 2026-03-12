@@ -1,0 +1,11 @@
+{
+  "name": "google-secops-mcp",
+  "version": "0.7.0",
+  "summary": "Google SecOps MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_secops_mcp-0.7.0.tar.gz",
+  "download_time": "2026-03-12T06:08:11.743406",
+  "package_url": "https://pypi.org/project/google-secops-mcp/"
+}

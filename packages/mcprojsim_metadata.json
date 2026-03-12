@@ -1,11 +1,11 @@
 {
   "name": "mcprojsim",
-  "version": "0.4.4",
+  "version": "0.4.6",
   "summary": "Monte Carlo simulation system for software development effort estimation",
   "author": "Johan Persson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcprojsim-0.4.4.tar.gz",
-  "download_time": "2026-03-11T23:21:52.315335",
+  "download_filename": "mcprojsim-0.4.6.tar.gz",
+  "download_time": "2026-03-12T06:08:27.781066",
   "package_url": "https://pypi.org/project/mcprojsim/"
 }
