@@ -1,0 +1,11 @@
+{
+  "name": "pydosert",
+  "version": "1.2.3",
+  "summary": "A differentiable radiation therapy dose calculation engine for automated treatment planning, built on PyTorch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydosert-1.2.3.tar.gz",
+  "download_time": "2026-03-12T16:20:54.118180",
+  "package_url": "https://pypi.org/project/pydosert/"
+}

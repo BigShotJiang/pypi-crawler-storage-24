@@ -1,0 +1,11 @@
+{
+  "name": "nova-sysetm-agent-jp",
+  "version": "0.1.1",
+  "summary": "Local Autonomus Agent",
+  "author": "Julian Padron",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nova_sysetm_agent_jp-0.1.1.tar.gz",
+  "download_time": "2026-03-12T16:21:40.708294",
+  "package_url": "https://pypi.org/project/nova-sysetm-agent-jp/"
+}

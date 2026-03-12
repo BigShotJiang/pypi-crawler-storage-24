@@ -1,0 +1,11 @@
+{
+  "name": "isage-benchmark",
+  "version": "0.2.4",
+  "summary": "SAGE Benchmark - RAG and experimental benchmarks for SAGE framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_benchmark-0.2.4.tar.gz",
+  "download_time": "2026-03-12T16:21:29.625406",
+  "package_url": "https://pypi.org/project/isage-benchmark/"
+}

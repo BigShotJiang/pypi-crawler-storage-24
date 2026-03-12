@@ -1,11 +1,11 @@
 {
   "name": "maaker-excalidraw-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Generate beautiful Excalidraw diagrams with auto-layout. Flowcharts, architecture diagrams, and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maaker_excalidraw_mcp-0.1.0.tar.gz",
-  "download_time": "2026-03-12T15:13:28.486193",
+  "download_filename": "maaker_excalidraw_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-12T16:20:57.831802",
   "package_url": "https://pypi.org/project/maaker-excalidraw-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ctxvault",
+  "version": "0.5.0",
+  "summary": "Local semantic memory infrastructure for AI agents. Index documents, let agents write and query knowledge autonomously via MCP, HTTP API, or CLI. Multi-vault architecture, zero cloud dependencies.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctxvault-0.5.0.tar.gz",
+  "download_time": "2026-03-12T16:21:31.805039",
+  "package_url": "https://pypi.org/project/ctxvault/"
+}

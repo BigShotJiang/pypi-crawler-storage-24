@@ -1,11 +1,11 @@
 {
   "name": "scalekit-sdk-python",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "summary": "Scalekit official Python SDK",
   "author": "Team Scalekit",
   "license": "MIT",
   "home_page": "https://github.com/scalekit-inc/scalekit-sdk-python",
-  "download_filename": "scalekit_sdk_python-2.6.0.tar.gz",
-  "download_time": "2026-03-10T21:59:29.467549",
+  "download_filename": "scalekit_sdk_python-2.6.1.tar.gz",
+  "download_time": "2026-03-12T16:21:32.349092",
   "package_url": "https://pypi.org/project/scalekit-sdk-python/"
 }

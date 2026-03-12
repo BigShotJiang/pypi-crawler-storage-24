@@ -1,0 +1,11 @@
+{
+  "name": "canopy-viewer",
+  "version": "0.1.0.post1",
+  "summary": "NiceGUI app for creating canopy figures from JSON config",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "canopy_viewer-0.1.0.post1.tar.gz",
+  "download_time": "2026-03-12T16:21:41.966618",
+  "package_url": "https://pypi.org/project/canopy-viewer/"
+}

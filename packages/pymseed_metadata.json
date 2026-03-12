@@ -1,11 +1,11 @@
 {
   "name": "pymseed",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "A Python package for reading and writing miniSEED formatted data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymseed-0.4.0.tar.gz",
-  "download_time": "2026-03-08T22:48:45.528709",
+  "download_filename": "pymseed-0.6.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-12T16:21:04.191395",
   "package_url": "https://pypi.org/project/pymseed/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "slack-sdk",
+  "version": "3.41.0",
+  "summary": "The Slack API Platform SDK for Python",
+  "author": "Slack Technologies, LLC",
+  "license": "MIT",
+  "home_page": "https://github.com/slackapi/python-slack-sdk",
+  "download_filename": "slack_sdk-3.41.0.tar.gz",
+  "download_time": "2026-03-12T16:21:26.813200",
+  "package_url": "https://pypi.org/project/slack-sdk/"
+}

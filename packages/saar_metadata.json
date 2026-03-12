@@ -1,11 +1,11 @@
 {
   "name": "saar",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Extract the essence of your codebase. Auto-generate AGENTS.md, CLAUDE.md, .cursorrules and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "saar-0.5.3.tar.gz",
-  "download_time": "2026-03-12T04:12:25.563528",
+  "download_filename": "saar-0.5.4.tar.gz",
+  "download_time": "2026-03-12T16:21:00.675407",
   "package_url": "https://pypi.org/project/saar/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-check-seo",
+  "version": "2.0.0",
+  "summary": "Django Check SEO will check the SEO aspects of your site for you, and will provide advice in case of problems.",
+  "author": "Dev Kapt",
+  "license": null,
+  "home_page": "https://github.com/kapt-labs/django-check-seo",
+  "download_filename": "django_check_seo-2.0.0.tar.gz",
+  "download_time": "2026-03-12T16:20:53.532627",
+  "package_url": "https://pypi.org/project/django-check-seo/"
+}

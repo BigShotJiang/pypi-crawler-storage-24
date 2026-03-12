@@ -1,11 +1,11 @@
 {
   "name": "isage",
-  "version": "0.2.4.35",
+  "version": "0.3.0",
   "summary": "SAGE - Streaming-Augmented Generative Execution (meta package)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "isage-0.2.4.35.tar.gz",
-  "download_time": "2026-03-07T23:44:01.249314",
+  "download_filename": "isage-0.3.0.tar.gz",
+  "download_time": "2026-03-12T16:21:30.170092",
   "package_url": "https://pypi.org/project/isage/"
 }

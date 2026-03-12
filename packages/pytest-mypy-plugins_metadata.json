@@ -1,0 +1,11 @@
+{
+  "name": "pytest-mypy-plugins",
+  "version": "4.0.0",
+  "summary": "pytest plugin for writing tests for mypy plugins",
+  "author": "Maksim Kurnikov",
+  "license": "MIT",
+  "home_page": "https://github.com/TypedDjango/pytest-mypy-plugins",
+  "download_filename": "pytest_mypy_plugins-4.0.0.tar.gz",
+  "download_time": "2026-03-12T16:21:24.039950",
+  "package_url": "https://pypi.org/project/pytest-mypy-plugins/"
+}

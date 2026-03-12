@@ -1,0 +1,11 @@
+{
+  "name": "limma",
+  "version": "0.2.5",
+  "summary": "Language Interface Model for Machine Automation - A Python framework for controlling ESP8266/ESP32 devices with natural language, featuring both text and voice interfaces with LLM integration",
+  "author": "Yash Kumar Firoziya",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/firoziya/limma",
+  "download_filename": "limma-0.2.5.tar.gz",
+  "download_time": "2026-03-12T16:21:15.302650",
+  "package_url": "https://pypi.org/project/limma/"
+}

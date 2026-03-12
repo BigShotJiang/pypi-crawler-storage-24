@@ -1,0 +1,11 @@
+{
+  "name": "picoui",
+  "version": "0.1.2",
+  "summary": "A lightweight, focused UI library for Python",
+  "author": "Mark Brooks",
+  "license": "MIT",
+  "home_page": "https://github.com/markxbrooks/picoui",
+  "download_filename": "picoui-0.1.2.tar.gz",
+  "download_time": "2026-03-12T16:21:10.223753",
+  "package_url": "https://pypi.org/project/picoui/"
+}

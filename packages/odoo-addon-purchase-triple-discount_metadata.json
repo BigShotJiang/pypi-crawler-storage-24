@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-triple-discount",
+  "version": "18.0.1.0.0.3",
+  "summary": "Manage triple discount on purchase order lines",
+  "author": "Tecnativa,GRAP,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_triple_discount-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-03-12T16:21:34.590826",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-triple-discount/"
+}
