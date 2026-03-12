@@ -1,0 +1,11 @@
+{
+  "name": "maya-encoding",
+  "version": "0.2.0",
+  "summary": "Maya-inspired numerical encodings for machine learning: Vigesimal Feature Decomposition (VFD) and Maya Calendar Encoding (MCE)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maya_encoding-0.2.0.tar.gz",
+  "download_time": "2026-03-12T21:11:09.832813",
+  "package_url": "https://pypi.org/project/maya-encoding/"
+}

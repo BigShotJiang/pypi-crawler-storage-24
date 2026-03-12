@@ -1,0 +1,11 @@
+{
+  "name": "quiz-editor",
+  "version": "0.9",
+  "summary": "A tool to create and edit quizzes, for LabQuiz and more",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "quiz_editor-0.9.tar.gz",
+  "download_time": "2026-03-12T21:10:56.423191",
+  "package_url": "https://pypi.org/project/quiz-editor/"
+}

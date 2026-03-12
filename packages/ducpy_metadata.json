@@ -1,11 +1,11 @@
 {
   "name": "ducpy",
-  "version": "3.0.5",
+  "version": "3.1.1",
   "summary": "The library for the Duc 2D CAD file format",
   "author": "Jorge Soares",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ducpy-3.0.5.tar.gz",
-  "download_time": "2026-03-07T11:41:23.644414",
+  "download_filename": "ducpy-3.1.1.tar.gz",
+  "download_time": "2026-03-12T21:11:39.240736",
   "package_url": "https://pypi.org/project/ducpy/"
 }

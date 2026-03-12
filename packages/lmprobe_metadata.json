@@ -1,11 +1,11 @@
 {
   "name": "lmprobe",
-  "version": "0.5.5",
+  "version": "0.5.8",
   "summary": "Train linear probes on language model activations for AI safety monitoring",
   "author": "Toast",
   "license": null,
   "home_page": null,
-  "download_filename": "lmprobe-0.5.5.tar.gz",
-  "download_time": "2026-03-12T16:21:06.346924",
+  "download_filename": "lmprobe-0.5.8.tar.gz",
+  "download_time": "2026-03-12T21:10:58.530823",
   "package_url": "https://pypi.org/project/lmprobe/"
 }

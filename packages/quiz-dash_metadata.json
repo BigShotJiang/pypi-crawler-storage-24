@@ -1,11 +1,11 @@
 {
   "name": "quiz-dash",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "LabQuiz streamlit-based dashboard that provides live tracking, integrity verification, and automated correction.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "quiz_dash-0.9.2.tar.gz",
-  "download_time": "2026-03-08T19:57:02.591442",
+  "download_filename": "quiz_dash-0.9.3.tar.gz",
+  "download_time": "2026-03-12T21:11:26.230813",
   "package_url": "https://pypi.org/project/quiz-dash/"
 }

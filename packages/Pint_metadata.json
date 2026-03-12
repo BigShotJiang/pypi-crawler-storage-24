@@ -1,0 +1,11 @@
+{
+  "name": "Pint",
+  "version": "0.25.2",
+  "summary": "Physical quantities module",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "pint-0.25.2.tar.gz",
+  "download_time": "2026-03-12T21:11:00.576302",
+  "package_url": "https://pypi.org/project/Pint/"
+}

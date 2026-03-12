@@ -1,0 +1,11 @@
+{
+  "name": "airweave-cli",
+  "version": "0.1.0",
+  "summary": "The Airweave CLI for developers and AI agents.",
+  "author": "Airweave",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airweave_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-12T21:10:55.913240",
+  "package_url": "https://pypi.org/project/airweave-cli/"
+}

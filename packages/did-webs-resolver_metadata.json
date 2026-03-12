@@ -1,0 +1,11 @@
+{
+  "name": "did-webs-resolver",
+  "version": "0.3.4",
+  "summary": "did:webs DID Method Resolver",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "did_webs_resolver-0.3.4.tar.gz",
+  "download_time": "2026-03-12T21:11:13.091298",
+  "package_url": "https://pypi.org/project/did-webs-resolver/"
+}

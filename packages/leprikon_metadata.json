@@ -1,0 +1,11 @@
+{
+  "name": "leprikon",
+  "version": "4.5.3",
+  "summary": "Django CMS based IS for education",
+  "author": "Jakub Dorňák",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "leprikon-4.5.3.tar.gz",
+  "download_time": "2026-03-12T21:11:11.540979",
+  "package_url": "https://pypi.org/project/leprikon/"
+}
