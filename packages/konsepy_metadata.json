@@ -1,0 +1,11 @@
+{
+  "name": "konsepy",
+  "version": "0.4.1",
+  "summary": "Framework for build NLP information extraction systems using regular expressions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "konsepy-0.4.1.tar.gz",
+  "download_time": "2026-03-12T01:26:47.614938",
+  "package_url": "https://pypi.org/project/konsepy/"
+}

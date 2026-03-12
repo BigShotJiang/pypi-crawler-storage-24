@@ -1,0 +1,11 @@
+{
+  "name": "CiliaTracks",
+  "version": "1.1.5",
+  "summary": "A package for analyzing cilia-driven particle motility from TrackMate data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ciliatracks-1.1.5.tar.gz",
+  "download_time": "2026-03-12T01:26:33.449688",
+  "package_url": "https://pypi.org/project/CiliaTracks/"
+}

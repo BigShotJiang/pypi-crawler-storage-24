@@ -1,0 +1,11 @@
+{
+  "name": "sonic-forge",
+  "version": "0.3.0",
+  "summary": "Bytebeat music DSL + multi-engine TTS voice system — beamed from starforge",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sonic_forge-0.3.0.tar.gz",
+  "download_time": "2026-03-12T01:26:54.558378",
+  "package_url": "https://pypi.org/project/sonic-forge/"
+}

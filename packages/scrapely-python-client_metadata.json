@@ -1,0 +1,11 @@
+{
+  "name": "scrapely-python-client",
+  "version": "0.1.0",
+  "summary": "Official Python client for Scrapely.io API",
+  "author": "Scrapely",
+  "license": null,
+  "home_page": "https://github.com/scrapely-io/scrapely-python-client",
+  "download_filename": "scrapely_python_client-0.1.0.tar.gz",
+  "download_time": "2026-03-12T01:26:16.677957",
+  "package_url": "https://pypi.org/project/scrapely-python-client/"
+}

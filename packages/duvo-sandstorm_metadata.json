@@ -1,0 +1,11 @@
+{
+  "name": "duvo-sandstorm",
+  "version": "0.8.1",
+  "summary": "Open-source runtime for general-purpose AI agents in isolated sandboxes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duvo_sandstorm-0.8.1.tar.gz",
+  "download_time": "2026-03-12T01:27:00.748238",
+  "package_url": "https://pypi.org/project/duvo-sandstorm/"
+}

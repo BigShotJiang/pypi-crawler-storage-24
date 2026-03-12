@@ -1,11 +1,11 @@
 {
   "name": "devin-cli",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "summary": "Unofficial CLI for Devin AI - The first AI Software Engineer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devin_cli-1.1.1.tar.gz",
-  "download_time": "2026-03-11T23:49:22.738890",
+  "download_filename": "devin_cli-1.1.4.tar.gz",
+  "download_time": "2026-03-12T01:26:28.242440",
   "package_url": "https://pypi.org/project/devin-cli/"
 }

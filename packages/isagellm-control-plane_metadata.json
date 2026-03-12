@@ -1,11 +1,11 @@
 {
   "name": "isagellm-control-plane",
-  "version": "0.5.4.12",
+  "version": "0.5.4.14",
   "summary": "sageLLM Control Plane - Intelligent request routing, scheduling, and engine lifecycle management",
   "author": "IntelliStream Team",
   "license": "Proprietary - IntelliStream",
   "home_page": null,
-  "download_filename": "isagellm_control_plane-0.5.4.12.tar.gz",
-  "download_time": "2026-03-07T17:17:46.144986",
+  "download_filename": "isagellm_control_plane-0.5.4.14-py2.py3-none-any.whl",
+  "download_time": "2026-03-12T01:26:27.719214",
   "package_url": "https://pypi.org/project/isagellm-control-plane/"
 }

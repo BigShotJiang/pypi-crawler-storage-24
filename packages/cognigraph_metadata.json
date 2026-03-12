@@ -1,0 +1,11 @@
+{
+  "name": "cognigraph",
+  "version": "0.6.2",
+  "summary": "Self-governing development for Claude Code — graph-of-agents reasoning with 13 innovations, GCC/GSD/Ralph protocols, and MCP integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognigraph-0.6.2.tar.gz",
+  "download_time": "2026-03-12T01:26:44.896013",
+  "package_url": "https://pypi.org/project/cognigraph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "brunnr",
+  "version": "0.1.0",
+  "summary": "Security scanner and skill registry for agent tool descriptions",
+  "author": "Peleke Sengstacke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brunnr-0.1.0.tar.gz",
+  "download_time": "2026-03-12T01:26:43.343826",
+  "package_url": "https://pypi.org/project/brunnr/"
+}

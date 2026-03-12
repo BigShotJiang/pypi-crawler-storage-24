@@ -1,0 +1,11 @@
+{
+  "name": "skillcheck",
+  "version": "0.2.0",
+  "summary": "Cross-agent skill quality gate for SKILL.md files conforming to the agentskills.io specification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skillcheck-0.2.0.tar.gz",
+  "download_time": "2026-03-12T01:26:35.511264",
+  "package_url": "https://pypi.org/project/skillcheck/"
+}

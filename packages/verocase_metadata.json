@@ -1,0 +1,11 @@
+{
+  "name": "verocase",
+  "version": "0.1.0",
+  "summary": "verocase - process assurance case LTAC file and update Markdown/HTML",
+  "author": "David A. Wheeler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "verocase-0.1.0.tar.gz",
+  "download_time": "2026-03-12T01:26:39.697070",
+  "package_url": "https://pypi.org/project/verocase/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sstm-flow",
+  "version": "0.1.2",
+  "summary": "PyTorch package for SSTM optical flow inference",
+  "author": "Fisseha A. Ferede",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "sstm_flow-0.1.2.tar.gz",
+  "download_time": "2026-03-12T01:26:50.295524",
+  "package_url": "https://pypi.org/project/sstm-flow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-batch",
+  "version": "19.0.0",
+  "summary": "Microsoft Azure Batch Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_batch-19.0.0.tar.gz",
+  "download_time": "2026-03-12T01:27:02.321004",
+  "package_url": "https://pypi.org/project/azure-mgmt-batch/"
+}
