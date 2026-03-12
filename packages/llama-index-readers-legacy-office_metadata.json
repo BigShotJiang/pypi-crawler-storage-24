@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-readers-legacy-office",
+  "version": "0.3.0",
+  "summary": "LlamaIndex Legacy Office Reader, handles .doc files loading with Apache Tika",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_readers_legacy_office-0.3.0.tar.gz",
+  "download_time": "2026-03-12T20:38:49.808487",
+  "package_url": "https://pypi.org/project/llama-index-readers-legacy-office/"
+}

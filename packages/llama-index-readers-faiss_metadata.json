@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-readers-faiss",
+  "version": "0.5.0",
+  "summary": "llama-index readers faiss integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_readers_faiss-0.5.0.tar.gz",
+  "download_time": "2026-03-12T20:39:14.731351",
+  "package_url": "https://pypi.org/project/llama-index-readers-faiss/"
+}

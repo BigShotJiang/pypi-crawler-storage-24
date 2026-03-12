@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-readers-feishu-docs",
+  "version": "0.5.0",
+  "summary": "llama-index readers feishu_docs integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_readers_feishu_docs-0.5.0.tar.gz",
+  "download_time": "2026-03-12T20:39:13.008125",
+  "package_url": "https://pypi.org/project/llama-index-readers-feishu-docs/"
+}
