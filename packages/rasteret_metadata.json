@@ -1,11 +1,11 @@
 {
   "name": "rasteret",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Index-first GeoTIFF access layer for ML and analysis, powered by queryable Parquet indexes.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rasteret-0.3.4.tar.gz",
-  "download_time": "2026-03-07T19:43:16.895339",
+  "download_filename": "rasteret-0.3.5.tar.gz",
+  "download_time": "2026-03-12T22:22:55.418319",
   "package_url": "https://pypi.org/project/rasteret/"
 }

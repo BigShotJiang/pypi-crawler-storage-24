@@ -1,0 +1,11 @@
+{
+  "name": "plain.flags",
+  "version": "0.34.0",
+  "summary": "Local feature flags via database models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plain_flags-0.34.0.tar.gz",
+  "download_time": "2026-03-12T22:22:12.029613",
+  "package_url": "https://pypi.org/project/plain.flags/"
+}

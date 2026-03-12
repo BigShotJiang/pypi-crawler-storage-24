@@ -1,11 +1,11 @@
 {
   "name": "conciliate",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Live API contract layer for AI coding assistants — keeps Claude, Cursor, and VS Code in sync with your real microservices",
   "author": "Conciliate Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "conciliate-0.7.0.tar.gz",
-  "download_time": "2026-03-12T18:36:43.756729",
+  "download_filename": "conciliate-0.7.2.tar.gz",
+  "download_time": "2026-03-12T22:22:16.454604",
   "package_url": "https://pypi.org/project/conciliate/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cocotbext-axi",
+  "version": "0.1.28",
+  "summary": "AXI, AXI lite, and AXI stream modules for cocotb",
+  "author": "Alex Forencich",
+  "license": "MIT",
+  "home_page": "https://github.com/alexforencich/cocotbext-axi",
+  "download_filename": "cocotbext_axi-0.1.28.tar.gz",
+  "download_time": "2026-03-12T22:22:11.485049",
+  "package_url": "https://pypi.org/project/cocotbext-axi/"
+}

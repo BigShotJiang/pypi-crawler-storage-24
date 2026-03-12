@@ -1,11 +1,11 @@
 {
   "name": "apftool",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Aperture Science Image Format (apf) encoder and decoder",
   "author": "Mari (kbity)",
   "license": null,
   "home_page": null,
-  "download_filename": "apftool-0.2.0.tar.gz",
-  "download_time": "2026-03-12T21:52:22.117200",
+  "download_filename": "apftool-0.2.2.tar.gz",
+  "download_time": "2026-03-12T22:22:52.670244",
   "package_url": "https://pypi.org/project/apftool/"
 }

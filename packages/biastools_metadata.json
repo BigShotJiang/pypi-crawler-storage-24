@@ -1,0 +1,11 @@
+{
+  "name": "biastools",
+  "version": "0.3.3",
+  "summary": "The toolkits to analyze reference bias of short DNA read alignment.",
+  "author": "Mao-Jan Lin",
+  "license": "MIT",
+  "home_page": "https://github.com/maojanlin/biastools",
+  "download_filename": "biastools-0.3.3.tar.gz",
+  "download_time": "2026-03-12T22:22:38.950010",
+  "package_url": "https://pypi.org/project/biastools/"
+}

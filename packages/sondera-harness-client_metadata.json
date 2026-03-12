@@ -1,0 +1,11 @@
+{
+  "name": "sondera-harness-client",
+  "version": "0.1.0.dev160",
+  "summary": "Governance and observability for AI agents via the Sondera Platform — policy evaluation, trajectory tracking, and guardrails.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sondera_harness_client-0.1.0.dev160-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-12T22:22:23.779763",
+  "package_url": "https://pypi.org/project/sondera-harness-client/"
+}

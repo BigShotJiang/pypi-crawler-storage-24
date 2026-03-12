@@ -1,0 +1,11 @@
+{
+  "name": "zigpy",
+  "version": "1.1.1",
+  "summary": "Library implementing a Zigbee stack",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "zigpy-1.1.1.tar.gz",
+  "download_time": "2026-03-12T22:22:49.496127",
+  "package_url": "https://pypi.org/project/zigpy/"
+}
