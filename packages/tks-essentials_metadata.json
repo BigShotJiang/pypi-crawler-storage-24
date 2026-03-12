@@ -1,11 +1,11 @@
 {
   "name": "tks-essentials",
-  "version": "0.1.38",
+  "version": "0.1.40",
   "summary": "Essentials for our TKS projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tks_essentials-0.1.38.tar.gz",
-  "download_time": "2026-03-11T10:48:13.603258",
+  "download_filename": "tks_essentials-0.1.40.tar.gz",
+  "download_time": "2026-03-12T23:02:28.832287",
   "package_url": "https://pypi.org/project/tks-essentials/"
 }

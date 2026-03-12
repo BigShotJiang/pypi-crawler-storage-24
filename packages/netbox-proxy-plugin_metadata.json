@@ -1,0 +1,11 @@
+{
+  "name": "netbox-proxy-plugin",
+  "version": "0.1.2",
+  "summary": "NetBox plugin for managing HTTP proxy configurations",
+  "author": "thomaschristory",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_proxy_plugin-0.1.2.tar.gz",
+  "download_time": "2026-03-12T23:02:57.052933",
+  "package_url": "https://pypi.org/project/netbox-proxy-plugin/"
+}

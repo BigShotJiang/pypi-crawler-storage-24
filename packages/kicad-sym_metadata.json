@@ -1,11 +1,11 @@
 {
   "name": "kicad-sym",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Python helper for KiCad symbol S-expressions",
   "author": "Diode",
   "license": null,
   "home_page": null,
-  "download_filename": "kicad_sym-0.4.0.tar.gz",
-  "download_time": "2026-03-12T22:22:56.999689",
+  "download_filename": "kicad_sym-0.4.1.tar.gz",
+  "download_time": "2026-03-12T23:02:39.871167",
   "package_url": "https://pypi.org/project/kicad-sym/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "coderace",
-  "version": "1.9.0",
+  "version": "2.0.0",
   "summary": "Race coding agents against each other on real tasks",
   "author": "mikiships",
   "license": null,
   "home_page": null,
-  "download_filename": "coderace-1.9.0.tar.gz",
-  "download_time": "2026-03-12T07:15:29.385044",
+  "download_filename": "coderace-2.0.0.tar.gz",
+  "download_time": "2026-03-12T23:02:31.421598",
   "package_url": "https://pypi.org/project/coderace/"
 }

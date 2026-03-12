@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-agent-shopify",
+  "version": "0.1.68",
+  "summary": "Airbyte Shopify Connector for AI platforms",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "airbyte_agent_shopify-0.1.68.tar.gz",
+  "download_time": "2026-03-12T23:03:08.445590",
+  "package_url": "https://pypi.org/project/airbyte-agent-shopify/"
+}

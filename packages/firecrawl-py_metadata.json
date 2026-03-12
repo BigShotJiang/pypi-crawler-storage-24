@@ -1,0 +1,11 @@
+{
+  "name": "firecrawl-py",
+  "version": "4.19.0",
+  "summary": "Python SDK for Firecrawl API",
+  "author": "Mendable.ai",
+  "license": "MIT License",
+  "home_page": "https://github.com/firecrawl/firecrawl",
+  "download_filename": "firecrawl_py-4.19.0.tar.gz",
+  "download_time": "2026-03-12T23:02:28.320567",
+  "package_url": "https://pypi.org/project/firecrawl-py/"
+}

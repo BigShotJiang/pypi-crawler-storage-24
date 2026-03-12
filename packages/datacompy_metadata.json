@@ -1,11 +1,11 @@
 {
   "name": "datacompy",
-  "version": "0.19.3",
+  "version": "0.19.4",
   "summary": "Dataframe comparison in Python",
   "author": null,
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "datacompy-0.19.3.tar.gz",
-  "download_time": "2026-03-11T14:35:58.814378",
+  "download_filename": "datacompy-0.19.4.tar.gz",
+  "download_time": "2026-03-12T23:02:33.019092",
   "package_url": "https://pypi.org/project/datacompy/"
 }

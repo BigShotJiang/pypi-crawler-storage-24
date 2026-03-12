@@ -1,0 +1,11 @@
+{
+  "name": "timeit-decorator",
+  "version": "2.2.2",
+  "summary": "A versatile timing decorator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timeit_decorator-2.2.2.tar.gz",
+  "download_time": "2026-03-12T23:02:31.937167",
+  "package_url": "https://pypi.org/project/timeit-decorator/"
+}
