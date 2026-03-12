@@ -1,0 +1,11 @@
+{
+  "name": "taxidTools",
+  "version": "3.2.1",
+  "summary": "A Python Toolkit for Taxonomy",
+  "author": "Gregoire Denay",
+  "license": "BSD License",
+  "home_page": "https://github.com/CVUA-RRW/taxidTools",
+  "download_filename": "taxidtools-3.2.1.tar.gz",
+  "download_time": "2026-03-12T11:37:39.865283",
+  "package_url": "https://pypi.org/project/taxidTools/"
+}

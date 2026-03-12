@@ -1,0 +1,11 @@
+{
+  "name": "strongdm",
+  "version": "16.20.0",
+  "summary": "strongDM SDK for the Python programming language.",
+  "author": "strongDM Team",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/strongdm/strongdm-sdk-python",
+  "download_filename": "strongdm-16.20.0.tar.gz",
+  "download_time": "2026-03-12T11:37:19.281181",
+  "package_url": "https://pypi.org/project/strongdm/"
+}

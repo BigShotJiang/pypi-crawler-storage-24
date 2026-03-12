@@ -1,0 +1,11 @@
+{
+  "name": "dogesec-commons",
+  "version": "1.3.5",
+  "summary": "A package containing views we reuse between various dogesec products",
+  "author": "dogesec",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dogesec_commons-1.3.5.tar.gz",
+  "download_time": "2026-03-12T11:37:56.744890",
+  "package_url": "https://pypi.org/project/dogesec-commons/"
+}

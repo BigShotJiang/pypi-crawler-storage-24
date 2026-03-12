@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-spectrum-stravision",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Spectrum MCP server with MQTT integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_spectrum_stravision-0.1.4.tar.gz",
-  "download_time": "2026-03-09T11:50:19.495765",
+  "download_filename": "mcp_server_spectrum_stravision-0.1.6.tar.gz",
+  "download_time": "2026-03-12T11:37:57.764546",
   "package_url": "https://pypi.org/project/mcp-server-spectrum-stravision/"
 }

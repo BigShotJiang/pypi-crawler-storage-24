@@ -1,0 +1,11 @@
+{
+  "name": "django-log-request-id",
+  "version": "2.1.2",
+  "summary": "Django middleware and log filter to attach a unique ID to every log message generated as part of a request",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_log_request_id-2.1.2.tar.gz",
+  "download_time": "2026-03-12T11:37:19.792927",
+  "package_url": "https://pypi.org/project/django-log-request-id/"
+}

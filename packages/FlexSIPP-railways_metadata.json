@@ -1,11 +1,11 @@
 {
   "name": "FlexSIPP-railways",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flexsipp_railways-0.0.2.tar.gz",
-  "download_time": "2026-03-12T09:29:50.256363",
+  "download_filename": "flexsipp_railways-0.0.4.tar.gz",
+  "download_time": "2026-03-12T11:37:46.521337",
   "package_url": "https://pypi.org/project/FlexSIPP-railways/"
 }

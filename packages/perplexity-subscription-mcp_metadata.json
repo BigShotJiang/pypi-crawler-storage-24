@@ -1,11 +1,11 @@
 {
   "name": "perplexity-subscription-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server and Python client for Perplexity AI using your existing subscription — no API costs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "perplexity_subscription_mcp-0.1.0.tar.gz",
-  "download_time": "2026-03-12T11:01:24.979834",
+  "download_filename": "perplexity_subscription_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-12T11:37:13.630107",
   "package_url": "https://pypi.org/project/perplexity-subscription-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nucliadb-admin-assets",
-  "version": "1.0.0.post2813",
+  "version": "1.0.0.post2815",
   "summary": "Packaging of NucliaDB admin JS app",
   "author": "Nuclia",
   "license": null,
   "home_page": "https://github.com/nuclia/frontend",
-  "download_filename": "nucliadb_admin_assets-1.0.0.post2813-py3-none-any.whl",
-  "download_time": "2026-03-11T17:35:46.010407",
+  "download_filename": "nucliadb_admin_assets-1.0.0.post2815-py3-none-any.whl",
+  "download_time": "2026-03-12T11:37:53.165484",
   "package_url": "https://pypi.org/project/nucliadb-admin-assets/"
 }

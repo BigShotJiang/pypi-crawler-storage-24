@@ -1,11 +1,11 @@
 {
   "name": "gamelobby",
-  "version": "1.2.52",
+  "version": "1.2.55",
   "summary": "游戏大厅 TUI 客户端",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gamelobby-1.2.52.tar.gz",
-  "download_time": "2026-03-12T11:01:40.920334",
+  "download_filename": "gamelobby-1.2.55.tar.gz",
+  "download_time": "2026-03-12T11:37:51.111060",
   "package_url": "https://pypi.org/project/gamelobby/"
 }

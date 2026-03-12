@@ -1,11 +1,11 @@
 {
   "name": "agentfirewall",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "summary": "Runtime firewall for AI agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentfirewall-0.0.5.tar.gz",
-  "download_time": "2026-03-12T09:29:31.611510",
+  "download_filename": "agentfirewall-1.0.0.tar.gz",
+  "download_time": "2026-03-12T11:37:26.008496",
   "package_url": "https://pypi.org/project/agentfirewall/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cdm-reader-mapper",
+  "version": "2.3.0",
+  "summary": "Common Data Model reader and mapper toolbox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdm_reader_mapper-2.3.0.tar.gz",
+  "download_time": "2026-03-12T11:37:36.287630",
+  "package_url": "https://pypi.org/project/cdm-reader-mapper/"
+}

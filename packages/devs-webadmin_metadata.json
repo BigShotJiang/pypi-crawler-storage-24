@@ -1,0 +1,11 @@
+{
+  "name": "devs-webadmin",
+  "version": "3.2.4",
+  "summary": "Web admin UI for managing devcontainers on a server",
+  "author": "Dan Lester",
+  "license": null,
+  "home_page": null,
+  "download_filename": "devs_webadmin-3.2.4.tar.gz",
+  "download_time": "2026-03-12T11:37:20.827358",
+  "package_url": "https://pypi.org/project/devs-webadmin/"
+}

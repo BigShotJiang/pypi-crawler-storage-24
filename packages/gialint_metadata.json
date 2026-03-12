@@ -1,0 +1,11 @@
+{
+  "name": "gialint",
+  "version": "0.1.5",
+  "summary": "Linter for tool wrappers in Galaxy Image Analysis",
+  "author": "Leonid Kostrykin",
+  "license": "MIT",
+  "home_page": "https://kostrykin.com",
+  "download_filename": "gialint-0.1.5.tar.gz",
+  "download_time": "2026-03-12T11:37:08.976106",
+  "package_url": "https://pypi.org/project/gialint/"
+}
