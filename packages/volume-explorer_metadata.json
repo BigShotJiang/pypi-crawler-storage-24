@@ -1,11 +1,11 @@
 {
   "name": "volume-explorer",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Parse, query and explore Petrel volumetrics exports",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "volume_explorer-0.1.7.tar.gz",
-  "download_time": "2026-03-12T11:37:37.305563",
+  "download_filename": "volume_explorer-0.1.9.tar.gz",
+  "download_time": "2026-03-12T12:00:11.334685",
   "package_url": "https://pypi.org/project/volume-explorer/"
 }

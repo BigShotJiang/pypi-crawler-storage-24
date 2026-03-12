@@ -1,0 +1,11 @@
+{
+  "name": "statemachine-engine",
+  "version": "1.0.75",
+  "summary": "A lightweight, event-driven state machine framework with WebSocket support and plugin architecture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "statemachine_engine-1.0.75.tar.gz",
+  "download_time": "2026-03-12T12:00:16.348515",
+  "package_url": "https://pypi.org/project/statemachine-engine/"
+}

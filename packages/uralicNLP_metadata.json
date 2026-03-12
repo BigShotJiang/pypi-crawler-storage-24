@@ -1,0 +1,11 @@
+{
+  "name": "uralicNLP",
+  "version": "2.1.1",
+  "summary": "An NLP library for Uralic languages such as Finnish and Sami. Also supports Spanish, Arabic, Russian etc.",
+  "author": "Mika Hämäläinen",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/mikahama/uralicNLP",
+  "download_filename": "uralicnlp-2.1.1.tar.gz",
+  "download_time": "2026-03-12T12:00:54.901169",
+  "package_url": "https://pypi.org/project/uralicNLP/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "toolsbq",
+  "version": "0.1.6",
+  "summary": "Helpers for Google BigQuery: client creation, schema helpers, and a convenience BqTools wrapper.",
+  "author": "MH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolsbq-0.1.6.tar.gz",
+  "download_time": "2026-03-12T12:00:37.413264",
+  "package_url": "https://pypi.org/project/toolsbq/"
+}

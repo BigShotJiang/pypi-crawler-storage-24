@@ -1,11 +1,11 @@
 {
   "name": "ccda-to-fhir",
-  "version": "0.2.8",
+  "version": "0.2.16",
   "summary": "A Python library to convert C-CDA documents to FHIR R4B resources",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ccda_to_fhir-0.2.8.tar.gz",
-  "download_time": "2026-03-07T10:18:22.057794",
+  "download_filename": "ccda_to_fhir-0.2.16.tar.gz",
+  "download_time": "2026-03-12T12:00:33.494456",
   "package_url": "https://pypi.org/project/ccda-to-fhir/"
 }

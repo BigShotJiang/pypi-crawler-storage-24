@@ -1,0 +1,11 @@
+{
+  "name": "kryten-llm",
+  "version": "0.6.0",
+  "summary": "Kryten LLM integration service - provides AI chat responses and interactions",
+  "author": "Kryten Robot Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kryten_llm-0.6.0.tar.gz",
+  "download_time": "2026-03-12T12:00:45.834934",
+  "package_url": "https://pypi.org/project/kryten-llm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "crypteria",
+  "version": "1.0.2",
+  "summary": "A powerful local-first encryption and secure cloud-storage management toolkit in Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crypteria-1.0.2.tar.gz",
+  "download_time": "2026-03-12T12:00:58.758350",
+  "package_url": "https://pypi.org/project/crypteria/"
+}

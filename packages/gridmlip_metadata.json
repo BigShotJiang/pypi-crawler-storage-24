@@ -1,0 +1,11 @@
+{
+  "name": "gridmlip",
+  "version": "0.2.2",
+  "summary": "gridmlip",
+  "author": "Artem Dembitskiy and Alexey Maltsev",
+  "license": "MIT",
+  "home_page": "https://github.com/dembart/gridmlip",
+  "download_filename": "gridmlip-0.2.2-py3-none-any.whl",
+  "download_time": "2026-03-12T12:00:44.558847",
+  "package_url": "https://pypi.org/project/gridmlip/"
+}

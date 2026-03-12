@@ -1,11 +1,11 @@
 {
   "name": "simgen-vla",
-  "version": "5.2.0",
-  "summary": "High-precision GPU computing with exact arithmetic. Free during beta.",
+  "version": "6.1.0",
+  "summary": "GPU exact arithmetic - 512-bit precision, zero accumulation error",
   "author": "Clouthier Simulation Labs",
-  "license": "Free Beta",
+  "license": "Proprietary - Commercial use requires license",
   "home_page": "https://simgen.dev",
-  "download_filename": "simgen_vla-5.2.0-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-03-11T13:39:20.757186",
+  "download_filename": "simgen_vla-6.1.0-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-03-12T12:00:29.405685",
   "package_url": "https://pypi.org/project/simgen-vla/"
 }

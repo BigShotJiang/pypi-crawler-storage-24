@@ -1,0 +1,11 @@
+{
+  "name": "blackfire",
+  "version": "2026.3.0",
+  "summary": "Blackfire Python SDK",
+  "author": "Blackfire.io",
+  "license": "MIT",
+  "home_page": "https://blackfire.io",
+  "download_filename": "blackfire-2026.3.0-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-03-12T12:00:23.435875",
+  "package_url": "https://pypi.org/project/blackfire/"
+}

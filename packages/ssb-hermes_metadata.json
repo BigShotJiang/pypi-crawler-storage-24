@@ -1,0 +1,11 @@
+{
+  "name": "ssb-hermes",
+  "version": "0.0.6",
+  "summary": "SSB Hermes",
+  "author": "Edvard Garmannslund",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/statisticsnorway/ssb-hermes",
+  "download_filename": "ssb_hermes-0.0.6.tar.gz",
+  "download_time": "2026-03-12T12:00:41.360592",
+  "package_url": "https://pypi.org/project/ssb-hermes/"
+}

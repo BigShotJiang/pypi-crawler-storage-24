@@ -1,11 +1,11 @@
 {
   "name": "llm-batch-py",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Cron-friendly batch LLM processing for Polars.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_batch_py-0.1.0.tar.gz",
-  "download_time": "2026-03-11T03:40:50.987474",
+  "download_filename": "llm_batch_py-0.1.4.tar.gz",
+  "download_time": "2026-03-12T12:00:34.137537",
   "package_url": "https://pypi.org/project/llm-batch-py/"
 }

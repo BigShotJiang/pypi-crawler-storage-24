@@ -1,0 +1,11 @@
+{
+  "name": "eggai",
+  "version": "0.2.12",
+  "summary": "EggAI Multi-Agent Meta Framework` is an async-first framework for building, deploying, and scaling multi-agent systems for modern enterprise environments",
+  "author": "Stefano Tucci",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eggai-0.2.12.tar.gz",
+  "download_time": "2026-03-12T12:00:27.853159",
+  "package_url": "https://pypi.org/project/eggai/"
+}
