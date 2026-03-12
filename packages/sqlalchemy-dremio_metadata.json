@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-dremio",
+  "version": "3.0.5",
+  "summary": "A SQLAlchemy dialect for Dremio via the Flight interface.",
+  "author": "Naren",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/narendrans/sqlalchemy_dremio",
+  "download_filename": "sqlalchemy_dremio-3.0.5.tar.gz",
+  "download_time": "2026-03-12T11:01:29.621827",
+  "package_url": "https://pypi.org/project/sqlalchemy-dremio/"
+}

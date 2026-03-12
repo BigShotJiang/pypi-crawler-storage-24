@@ -1,0 +1,11 @@
+{
+  "name": "latest-chromedriver",
+  "version": "2026.3.12",
+  "summary": "A small package to find the correct chromedriver version in windows machines",
+  "author": "Charalampos Gkikas",
+  "license": "MIT",
+  "home_page": "https://github.com/hargikas/auto-chromedriver/",
+  "download_filename": "latest_chromedriver-2026.3.12.tar.gz",
+  "download_time": "2026-03-12T11:01:37.327583",
+  "package_url": "https://pypi.org/project/latest-chromedriver/"
+}

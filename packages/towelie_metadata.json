@@ -1,0 +1,11 @@
+{
+  "name": "towelie",
+  "version": "0.1.10",
+  "summary": "Local code review for AI agents",
+  "author": "Glyphack",
+  "license": null,
+  "home_page": null,
+  "download_filename": "towelie-0.1.10.tar.gz",
+  "download_time": "2026-03-12T11:01:13.553698",
+  "package_url": "https://pypi.org/project/towelie/"
+}

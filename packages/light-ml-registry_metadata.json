@@ -1,11 +1,11 @@
 {
   "name": "light-ml-registry",
-  "version": "1.0.8",
-  "summary": "Lightweight model registry with experiment tracking and dynamic Excel export",
+  "version": "1.1.1",
+  "summary": "Lightweight model registry with experiment, metrics and checkpoint tracking",
   "author": "Pier",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "light_ml_registry-1.0.8.tar.gz",
-  "download_time": "2026-03-08T18:26:31.673838",
+  "download_filename": "light_ml_registry-1.1.1.tar.gz",
+  "download_time": "2026-03-12T11:01:32.193852",
   "package_url": "https://pypi.org/project/light-ml-registry/"
 }

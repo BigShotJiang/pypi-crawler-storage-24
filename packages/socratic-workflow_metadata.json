@@ -1,0 +1,11 @@
+{
+  "name": "socratic-workflow",
+  "version": "0.1.0",
+  "summary": "Production-grade workflow orchestration system with LLM cost tracking, performance analytics, and dependency management.",
+  "author": "Socratic Workflow Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "socratic_workflow-0.1.0.tar.gz",
+  "download_time": "2026-03-12T11:01:44.002725",
+  "package_url": "https://pypi.org/project/socratic-workflow/"
+}

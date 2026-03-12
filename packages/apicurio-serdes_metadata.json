@@ -1,0 +1,11 @@
+{
+  "name": "apicurio-serdes",
+  "version": "0.2.1",
+  "summary": "Python serialization library for Apicurio Registry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apicurio_serdes-0.2.1.tar.gz",
+  "download_time": "2026-03-12T11:01:41.437954",
+  "package_url": "https://pypi.org/project/apicurio-serdes/"
+}

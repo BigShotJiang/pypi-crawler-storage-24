@@ -1,11 +1,11 @@
 {
   "name": "late-sdk",
-  "version": "1.2.81",
+  "version": "1.2.82",
   "summary": "The official Python library for the Late API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "late_sdk-1.2.81.tar.gz",
-  "download_time": "2026-03-12T09:29:16.500831",
+  "download_filename": "late_sdk-1.2.82.tar.gz",
+  "download_time": "2026-03-12T11:01:53.263788",
   "package_url": "https://pypi.org/project/late-sdk/"
 }

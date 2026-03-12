@@ -1,11 +1,11 @@
 {
   "name": "atrace",
-  "version": "0.9.14",
+  "version": "0.9.15",
   "summary": "Generate trace tables for simple programs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atrace-0.9.14.tar.gz",
-  "download_time": "2026-03-08T15:59:11.699341",
+  "download_filename": "atrace-0.9.15.tar.gz",
+  "download_time": "2026-03-12T11:01:12.017138",
   "package_url": "https://pypi.org/project/atrace/"
 }

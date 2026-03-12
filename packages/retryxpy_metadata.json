@@ -1,0 +1,11 @@
+{
+  "name": "retryxpy",
+  "version": "0.1.0",
+  "summary": "Simple sync and async retry decorator with backoff and jitter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "retryxpy-0.1.0.tar.gz",
+  "download_time": "2026-03-12T11:01:50.674818",
+  "package_url": "https://pypi.org/project/retryxpy/"
+}

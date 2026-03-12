@@ -1,0 +1,11 @@
+{
+  "name": "chipsai-mcp",
+  "version": "1.0.1",
+  "summary": "MCP server for ChipsAI — manage chatbots, conversations, documents, and AI models from any MCP client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chipsai_mcp-1.0.1.tar.gz",
+  "download_time": "2026-03-12T11:01:36.816039",
+  "package_url": "https://pypi.org/project/chipsai-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyfirecrest",
+  "version": "3.7.1",
+  "summary": "pyFirecrest is a python wrapper for FirecREST",
+  "author": "CSCS Swiss National Supercomputing Center",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfirecrest-3.7.1.tar.gz",
+  "download_time": "2026-03-12T11:01:46.564835",
+  "package_url": "https://pypi.org/project/pyfirecrest/"
+}

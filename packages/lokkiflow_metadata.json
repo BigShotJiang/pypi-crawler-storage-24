@@ -1,0 +1,11 @@
+{
+  "name": "lokkiflow",
+  "version": "0.5.134",
+  "summary": "Python library for defining, building, and deploying data pipelines to AWS Step Functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lokkiflow-0.5.134.tar.gz",
+  "download_time": "2026-03-12T11:01:55.844629",
+  "package_url": "https://pypi.org/project/lokkiflow/"
+}

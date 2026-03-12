@@ -1,0 +1,11 @@
+{
+  "name": "invoicetronic-mcp",
+  "version": "1.0.1",
+  "summary": "MCP server for the Invoicetronic API — Italian electronic invoicing (SDI) from any MCP client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "invoicetronic_mcp-1.0.1.tar.gz",
+  "download_time": "2026-03-12T11:01:34.762233",
+  "package_url": "https://pypi.org/project/invoicetronic-mcp/"
+}

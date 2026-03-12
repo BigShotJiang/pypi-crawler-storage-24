@@ -1,0 +1,11 @@
+{
+  "name": "multiroute",
+  "version": "0.1.5",
+  "summary": "Official multiroute.ai SDK client with client-side failover for OpenAI, Anthropic, Google and other LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multiroute-0.1.5.tar.gz",
+  "download_time": "2026-03-12T11:01:39.894400",
+  "package_url": "https://pypi.org/project/multiroute/"
+}
