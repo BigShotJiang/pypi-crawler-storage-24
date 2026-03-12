@@ -1,11 +1,11 @@
 {
   "name": "spooky-chess",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "High-performance chess library with arbitrary board sizes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spooky_chess-0.6.0.tar.gz",
-  "download_time": "2026-03-08T22:48:57.039095",
+  "download_filename": "spooky_chess-0.7.0.tar.gz",
+  "download_time": "2026-03-12T23:50:54.442924",
   "package_url": "https://pypi.org/project/spooky-chess/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sapitensors",
+  "version": "1.0.7",
+  "summary": null,
+  "author": "SAPIENS TECHNOLOGY",
+  "license": "Proprietary Software",
+  "home_page": "https://github.com/sapiens-technology/sapitensors",
+  "download_filename": "sapitensors-1.0.7.tar.gz",
+  "download_time": "2026-03-12T23:50:57.084960",
+  "package_url": "https://pypi.org/project/sapitensors/"
+}

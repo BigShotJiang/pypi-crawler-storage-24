@@ -1,0 +1,11 @@
+{
+  "name": "prodigy-teams-broker-sdk",
+  "version": "3.0.0",
+  "summary": "Prodigy Teams Broker SDK",
+  "author": "ExplosionAI GmbH",
+  "license": "All rights reserved",
+  "home_page": "https://github.com/explosion/prodigy-teams",
+  "download_filename": "prodigy_teams_broker_sdk-3.0.0.tar.gz",
+  "download_time": "2026-03-12T23:50:21.989237",
+  "package_url": "https://pypi.org/project/prodigy-teams-broker-sdk/"
+}

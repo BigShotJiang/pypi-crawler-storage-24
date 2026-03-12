@@ -1,0 +1,11 @@
+{
+  "name": "phys2cvr",
+  "version": "0.28.3",
+  "summary": "Python library to generate regressors for and compute Cerebrovascular Reactivity and lag maps.",
+  "author": "Stefano Moia",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/smoia/phys2cvr",
+  "download_filename": "phys2cvr-0.28.3.tar.gz",
+  "download_time": "2026-03-12T23:50:32.559515",
+  "package_url": "https://pypi.org/project/phys2cvr/"
+}

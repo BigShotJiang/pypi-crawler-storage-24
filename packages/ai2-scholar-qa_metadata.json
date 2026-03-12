@@ -1,0 +1,11 @@
+{
+  "name": "ai2-scholar-qa",
+  "version": "0.8.12",
+  "summary": "Python package to embed the Ai2 Scholar QA functionality in another application",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ai2_scholar_qa-0.8.12.tar.gz",
+  "download_time": "2026-03-12T23:50:14.006786",
+  "package_url": "https://pypi.org/project/ai2-scholar-qa/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "palaia",
-  "version": "1.1.0",
+  "version": "1.4.2",
   "summary": "Local, cloud-free memory for OpenClaw agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "palaia-1.1.0.tar.gz",
-  "download_time": "2026-03-11T23:22:17.026397",
+  "download_filename": "palaia-1.4.2.tar.gz",
+  "download_time": "2026-03-12T23:50:33.602573",
   "package_url": "https://pypi.org/project/palaia/"
 }

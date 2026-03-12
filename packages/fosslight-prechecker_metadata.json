@@ -1,0 +1,11 @@
+{
+  "name": "fosslight-prechecker",
+  "version": "4.0.7",
+  "summary": "FOSSLight Prechecker",
+  "author": "LG Electronics",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/fosslight/fosslight_prechecker",
+  "download_filename": "fosslight_prechecker-4.0.7.tar.gz",
+  "download_time": "2026-03-12T23:50:41.928687",
+  "package_url": "https://pypi.org/project/fosslight-prechecker/"
+}

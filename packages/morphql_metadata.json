@@ -1,0 +1,11 @@
+{
+  "name": "morphql",
+  "version": "0.1.36",
+  "summary": "Python client for MorphQL — transform data with declarative queries.",
+  "author": "Hyperwindmill",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "morphql-0.1.36.tar.gz",
+  "download_time": "2026-03-12T23:50:43.994778",
+  "package_url": "https://pypi.org/project/morphql/"
+}

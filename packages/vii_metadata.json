@@ -1,0 +1,11 @@
+{
+  "name": "vii",
+  "version": "0.1.0a4",
+  "summary": "vii - A terminal-based file browser that opens files in your editor",
+  "author": "Jeffrey 'Alex' Clark",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vii-0.1.0a4.tar.gz",
+  "download_time": "2026-03-12T23:50:25.208657",
+  "package_url": "https://pypi.org/project/vii/"
+}

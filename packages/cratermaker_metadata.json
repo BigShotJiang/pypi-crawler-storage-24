@@ -1,11 +1,11 @@
 {
   "name": "cratermaker",
-  "version": "2026.3.2a0",
+  "version": "2026.3.5a0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cratermaker-2026.3.2a0.tar.gz",
-  "download_time": "2026-03-10T17:02:13.532403",
+  "download_filename": "cratermaker-2026.3.5a0.tar.gz",
+  "download_time": "2026-03-12T23:50:42.965633",
   "package_url": "https://pypi.org/project/cratermaker/"
 }

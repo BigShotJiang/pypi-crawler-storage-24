@@ -1,0 +1,11 @@
+{
+  "name": "serapeum-core",
+  "version": "0.5.0",
+  "summary": "llm utility package",
+  "author": null,
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "serapeum_core-0.5.0.tar.gz",
+  "download_time": "2026-03-12T23:50:40.878215",
+  "package_url": "https://pypi.org/project/serapeum-core/"
+}

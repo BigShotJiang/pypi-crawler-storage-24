@@ -1,11 +1,11 @@
 {
   "name": "recollect",
-  "version": "0.3.10",
+  "version": "0.5.2",
   "summary": "Human-like memory for AI applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "recollect-0.3.10.tar.gz",
-  "download_time": "2026-03-08T05:15:32.097965",
+  "download_filename": "recollect-0.5.2.tar.gz",
+  "download_time": "2026-03-12T23:50:26.817673",
   "package_url": "https://pypi.org/project/recollect/"
 }

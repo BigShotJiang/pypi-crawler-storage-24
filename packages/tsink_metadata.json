@@ -1,0 +1,11 @@
+{
+  "name": "tsink",
+  "version": "0.10.0",
+  "summary": "Python bindings for tsink time-series database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsink-0.10.0.tar.gz",
+  "download_time": "2026-03-12T23:50:14.547989",
+  "package_url": "https://pypi.org/project/tsink/"
+}
