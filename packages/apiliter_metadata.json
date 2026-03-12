@@ -1,0 +1,11 @@
+{
+  "name": "apiliter",
+  "version": "1.0.6",
+  "summary": "Literp Standard API Gateway",
+  "author": "Asinerum Conlang Project",
+  "license": "MIT",
+  "home_page": "https://github.com/asinerum/apiliter",
+  "download_filename": "apiliter-1.0.6.tar.gz",
+  "download_time": "2026-03-12T05:10:13.737445",
+  "package_url": "https://pypi.org/project/apiliter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "opguia",
-  "version": "1.8.2",
+  "version": "1.9.0",
   "summary": "Dead simple OPC UA browser",
   "author": "Kyle",
   "license": null,
   "home_page": null,
-  "download_filename": "opguia-1.8.2.tar.gz",
-  "download_time": "2026-03-11T22:50:52.304067",
+  "download_filename": "opguia-1.9.0.tar.gz",
+  "download_time": "2026-03-12T05:10:43.385254",
   "package_url": "https://pypi.org/project/opguia/"
 }

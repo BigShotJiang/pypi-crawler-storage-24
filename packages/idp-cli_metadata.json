@@ -1,0 +1,11 @@
+{
+  "name": "idp-cli",
+  "version": "0.3.0",
+  "summary": "Internal Developer Platform CLI — Self-service infrastructure, service creation, health monitoring, and dependency visualization for developers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "idp_cli-0.3.0.tar.gz",
+  "download_time": "2026-03-12T05:10:00.131234",
+  "package_url": "https://pypi.org/project/idp-cli/"
+}

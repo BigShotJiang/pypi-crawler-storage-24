@@ -1,0 +1,11 @@
+{
+  "name": "dlt-core",
+  "version": "202603.12.0rc0",
+  "summary": "dlt is an open-source python-first scalable data loading library that does not require any backend to run.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dlt_core-202603.12.0rc0.tar.gz",
+  "download_time": "2026-03-12T05:10:30.302379",
+  "package_url": "https://pypi.org/project/dlt-core/"
+}

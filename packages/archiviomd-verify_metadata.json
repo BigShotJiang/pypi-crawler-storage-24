@@ -1,0 +1,11 @@
+{
+  "name": "archiviomd-verify",
+  "version": "1.0.4",
+  "summary": "Standalone verification tool for ArchivioMD and ArchivioID cryptographic post signing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "archiviomd_verify-1.0.4.tar.gz",
+  "download_time": "2026-03-12T05:10:43.914691",
+  "package_url": "https://pypi.org/project/archiviomd-verify/"
+}

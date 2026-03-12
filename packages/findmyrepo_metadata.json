@@ -1,0 +1,11 @@
+{
+  "name": "findmyrepo",
+  "version": "0.2.0",
+  "summary": "Quickly open local repositories in VS Code",
+  "author": "Grifin McManus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "findmyrepo-0.2.0.tar.gz",
+  "download_time": "2026-03-12T05:10:36.112079",
+  "package_url": "https://pypi.org/project/findmyrepo/"
+}

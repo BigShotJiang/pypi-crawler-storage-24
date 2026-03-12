@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_esunny",
+  "version": "9.0.3.16.1",
+  "summary": "Esunny gateway for VeighNa quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_esunny-9.0.3.16.1.tar.gz",
+  "download_time": "2026-03-12T05:10:24.075957",
+  "package_url": "https://pypi.org/project/vnpy_esunny/"
+}

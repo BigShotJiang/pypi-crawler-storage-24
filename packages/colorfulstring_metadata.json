@@ -1,11 +1,11 @@
 {
   "name": "colorfulstring",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "Make colorful strings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "colorfulstring-0.0.5.tar.gz",
-  "download_time": "2026-03-10T08:36:08.963314",
+  "download_filename": "colorfulstring-0.0.7.tar.gz",
+  "download_time": "2026-03-12T05:10:03.318557",
   "package_url": "https://pypi.org/project/colorfulstring/"
 }
