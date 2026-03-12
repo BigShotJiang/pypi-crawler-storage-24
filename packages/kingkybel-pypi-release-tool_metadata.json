@@ -1,0 +1,11 @@
+{
+  "name": "kingkybel-pypi-release-tool",
+  "version": "0.1.1",
+  "summary": "Automated release workflow for building and publishing Python packages to PyPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kingkybel_pypi_release_tool-0.1.1.tar.gz",
+  "download_time": "2026-03-12T18:36:19.817334",
+  "package_url": "https://pypi.org/project/kingkybel-pypi-release-tool/"
+}

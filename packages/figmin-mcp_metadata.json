@@ -1,11 +1,11 @@
 {
   "name": "figmin-mcp",
-  "version": "0.1.8",
+  "version": "0.1.16",
   "summary": "MCP bridge that connects AI Agents to Figmin XR for spatial computing AI collaboration",
   "author": "Figmin XR",
   "license": null,
   "home_page": null,
-  "download_filename": "figmin_mcp-0.1.8.tar.gz",
-  "download_time": "2026-03-11T22:50:20.478121",
+  "download_filename": "figmin_mcp-0.1.16.tar.gz",
+  "download_time": "2026-03-12T18:36:40.365264",
   "package_url": "https://pypi.org/project/figmin-mcp/"
 }

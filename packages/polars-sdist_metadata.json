@@ -1,0 +1,11 @@
+{
+  "name": "polars-sdist",
+  "version": "0.1.0",
+  "summary": "Statistical distributions as native Polars expressions — PDF, CDF, PPF, SF, and sampling for 20+ distributions, powered by Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_sdist-0.1.0.tar.gz",
+  "download_time": "2026-03-12T18:36:36.366664",
+  "package_url": "https://pypi.org/project/polars-sdist/"
+}

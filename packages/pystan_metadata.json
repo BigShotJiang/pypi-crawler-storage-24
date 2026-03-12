@@ -1,0 +1,11 @@
+{
+  "name": "pystan",
+  "version": "3.10.1",
+  "summary": "Python interface to Stan, a package for Bayesian inference",
+  "author": "Allen Riddell",
+  "license": "ISC",
+  "home_page": "https://mc-stan.org",
+  "download_filename": "pystan-3.10.1.tar.gz",
+  "download_time": "2026-03-12T18:36:39.280688",
+  "package_url": "https://pypi.org/project/pystan/"
+}

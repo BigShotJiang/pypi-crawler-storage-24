@@ -1,11 +1,11 @@
 {
   "name": "fairo",
-  "version": "26.3.2",
+  "version": "26.3.3",
   "summary": "SDK for interfacing with Fairo SaaS platform.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fairo-26.3.2.tar.gz",
-  "download_time": "2026-03-09T23:23:41.761483",
+  "download_filename": "fairo-26.3.3.tar.gz",
+  "download_time": "2026-03-12T18:36:39.790694",
   "package_url": "https://pypi.org/project/fairo/"
 }
