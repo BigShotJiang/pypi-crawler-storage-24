@@ -1,0 +1,11 @@
+{
+  "name": "rc-insights",
+  "version": "0.1.1",
+  "summary": "AI-powered subscription analytics agent for RevenueCat's Charts API",
+  "author": "Jon Lebron",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rc_insights-0.1.1.tar.gz",
+  "download_time": "2026-03-12T04:12:59.053251",
+  "package_url": "https://pypi.org/project/rc-insights/"
+}

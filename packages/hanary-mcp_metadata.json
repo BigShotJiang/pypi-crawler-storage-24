@@ -1,0 +1,11 @@
+{
+  "name": "hanary-mcp",
+  "version": "0.21.0",
+  "summary": "Hanary MCP Server - Task management for Claude Code, OpenCode & OpenAI Codex",
+  "author": "Hanary",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanary_mcp-0.21.0.tar.gz",
+  "download_time": "2026-03-12T04:12:29.812087",
+  "package_url": "https://pypi.org/project/hanary-mcp/"
+}

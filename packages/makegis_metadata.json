@@ -1,0 +1,11 @@
+{
+  "name": "makegis",
+  "version": "0.1.1",
+  "summary": "A lightweight orchestrator for spatial databases",
+  "author": "Christophe Thiange",
+  "license": null,
+  "home_page": null,
+  "download_filename": "makegis-0.1.1.tar.gz",
+  "download_time": "2026-03-12T04:12:56.898683",
+  "package_url": "https://pypi.org/project/makegis/"
+}

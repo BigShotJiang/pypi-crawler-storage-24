@@ -1,0 +1,11 @@
+{
+  "name": "stackship",
+  "version": "0.1.0",
+  "summary": "Deploy AI stacks with one command",
+  "author": "Dang Hoang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stackship-0.1.0.tar.gz",
+  "download_time": "2026-03-12T04:12:34.534882",
+  "package_url": "https://pypi.org/project/stackship/"
+}

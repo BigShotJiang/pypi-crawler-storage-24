@@ -1,0 +1,11 @@
+{
+  "name": "jaclang",
+  "version": "0.12.1",
+  "summary": "Jac programming language - Python-like syntax, compiles to Python bytecode, JavaScript, and native machine code with novel constructs for AI-integrated programming.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaclang-0.12.1.tar.gz",
+  "download_time": "2026-03-12T04:12:50.040265",
+  "package_url": "https://pypi.org/project/jaclang/"
+}

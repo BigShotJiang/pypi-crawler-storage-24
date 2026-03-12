@@ -1,0 +1,11 @@
+{
+  "name": "MultiOptPy",
+  "version": "1.21.2",
+  "summary": "Multifunctional geometry optimization tools for quantum chemical calculations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multioptpy-1.21.2.tar.gz",
+  "download_time": "2026-03-12T04:12:51.088936",
+  "package_url": "https://pypi.org/project/MultiOptPy/"
+}

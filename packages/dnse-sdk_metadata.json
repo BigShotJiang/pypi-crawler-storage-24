@@ -1,0 +1,11 @@
+{
+  "name": "dnse-sdk",
+  "version": "0.1.0",
+  "summary": "DNSE Python SDK",
+  "author": "DNSE",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dnse_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-12T04:12:24.290347",
+  "package_url": "https://pypi.org/project/dnse-sdk/"
+}

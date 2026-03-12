@@ -1,11 +1,11 @@
 {
   "name": "casbin-fastapi-decorator-jwt",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "JWT user provider for casbin-fastapi-decorator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "casbin_fastapi_decorator_jwt-0.2.1.tar.gz",
-  "download_time": "2026-03-09T07:40:00.524373",
+  "download_filename": "casbin_fastapi_decorator_jwt-0.2.3.tar.gz",
+  "download_time": "2026-03-12T04:12:32.966487",
   "package_url": "https://pypi.org/project/casbin-fastapi-decorator-jwt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jskim",
+  "version": "0.1.1",
+  "summary": "Token-saving Java file reader for Claude Code. Summarizes Java files compactly using tree-sitter, saving 70-80% of input tokens.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jskim-0.1.1.tar.gz",
+  "download_time": "2026-03-12T04:12:58.528845",
+  "package_url": "https://pypi.org/project/jskim/"
+}

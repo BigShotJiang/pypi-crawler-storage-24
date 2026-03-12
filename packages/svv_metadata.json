@@ -1,0 +1,11 @@
+{
+  "name": "svv",
+  "version": "0.0.45",
+  "summary": "svVascularize (svv): A synthetic vascular generation, modeling, and simulation package",
+  "author": "Zachary Sexton",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "svv-0.0.45.tar.gz",
+  "download_time": "2026-03-12T04:12:45.231198",
+  "package_url": "https://pypi.org/project/svv/"
+}

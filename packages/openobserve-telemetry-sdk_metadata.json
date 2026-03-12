@@ -1,0 +1,11 @@
+{
+  "name": "openobserve-telemetry-sdk",
+  "version": "0.1.0",
+  "summary": "A simple Python SDK for exporting OpenTelemetry logs, metrics, and traces to OpenObserve",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openobserve_telemetry_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-12T04:12:30.871876",
+  "package_url": "https://pypi.org/project/openobserve-telemetry-sdk/"
+}

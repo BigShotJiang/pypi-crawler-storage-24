@@ -1,0 +1,11 @@
+{
+  "name": "svv-accelerated",
+  "version": "0.0.45",
+  "summary": "svVascularize (svv): A synthetic vascular generation, modeling, and simulation package",
+  "author": "Zachary Sexton",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "svv_accelerated-0.0.45-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-03-12T04:12:43.071628",
+  "package_url": "https://pypi.org/project/svv-accelerated/"
+}

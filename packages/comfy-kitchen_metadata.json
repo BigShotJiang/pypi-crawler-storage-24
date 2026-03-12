@@ -1,0 +1,11 @@
+{
+  "name": "comfy-kitchen",
+  "version": "0.2.8",
+  "summary": "Fast Kernel Library for ComfyUI with multiple compute backends",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "comfy_kitchen-0.2.8-cp310-cp310-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-03-12T04:12:30.349686",
+  "package_url": "https://pypi.org/project/comfy-kitchen/"
+}

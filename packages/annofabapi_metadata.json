@@ -1,0 +1,11 @@
+{
+  "name": "annofabapi",
+  "version": "1.5.3",
+  "summary": "Python Client Library of Annofab WebAPI (https://annofab.com/docs/api/)",
+  "author": "Kurusugawa Computer Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "annofabapi-1.5.3.tar.gz",
+  "download_time": "2026-03-12T04:12:56.372144",
+  "package_url": "https://pypi.org/project/annofabapi/"
+}
