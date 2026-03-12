@@ -1,0 +1,11 @@
+{
+  "name": "csvtrim",
+  "version": "1.0.3",
+  "summary": "Filter and trim large CSV files by column values — keep only the rows and columns you need.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csvtrim-1.0.3.tar.gz",
+  "download_time": "2026-03-12T08:40:25.096235",
+  "package_url": "https://pypi.org/project/csvtrim/"
+}

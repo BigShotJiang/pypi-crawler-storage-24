@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.cdk-amazonmq",
+  "version": "0.1.9",
+  "summary": "@cdklabs/cdk-amazonmq",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-amazonmq.git",
+  "download_filename": "cdklabs_cdk_amazonmq-0.1.9.tar.gz",
+  "download_time": "2026-03-12T08:40:54.198388",
+  "package_url": "https://pypi.org/project/cdklabs.cdk-amazonmq/"
+}

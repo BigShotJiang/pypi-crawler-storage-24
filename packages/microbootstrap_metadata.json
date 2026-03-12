@@ -1,0 +1,11 @@
+{
+  "name": "microbootstrap",
+  "version": "1.2.3",
+  "summary": "Package for bootstrapping new micro-services",
+  "author": "community-of-python",
+  "license": null,
+  "home_page": null,
+  "download_filename": "microbootstrap-1.2.3.tar.gz",
+  "download_time": "2026-03-12T08:41:07.326536",
+  "package_url": "https://pypi.org/project/microbootstrap/"
+}

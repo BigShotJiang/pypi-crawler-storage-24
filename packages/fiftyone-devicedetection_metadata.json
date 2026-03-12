@@ -1,0 +1,11 @@
+{
+  "name": "fiftyone-devicedetection",
+  "version": "4.5.28",
+  "summary": "51Degrees Device Detection parses HTTP headers to return detailed hardware, operating system, browser, and crawler information for the devices used to access your website or service. This is an alternative to popular UAParser, DeviceAtlas, and WURFL packages.",
+  "author": "51Degrees Engineering",
+  "license": "EUPL-1.2",
+  "home_page": "https://51degrees.com/",
+  "download_filename": "fiftyone_devicedetection-4.5.28.tar.gz",
+  "download_time": "2026-03-12T08:40:57.826635",
+  "package_url": "https://pypi.org/project/fiftyone-devicedetection/"
+}

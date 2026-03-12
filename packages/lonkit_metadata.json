@@ -1,0 +1,11 @@
+{
+  "name": "lonkit",
+  "version": "0.1.0",
+  "summary": "Local Optima Networks (LONs) for continuous optimization - Python implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lonkit-0.1.0.tar.gz",
+  "download_time": "2026-03-12T08:40:53.155857",
+  "package_url": "https://pypi.org/project/lonkit/"
+}

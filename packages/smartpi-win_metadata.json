@@ -1,0 +1,11 @@
+{
+  "name": "smartpi-win",
+  "version": "1.0.6",
+  "summary": "Library for H2-RCU on Windows",
+  "author": "ZMROBO",
+  "license": null,
+  "home_page": "https://github.com/zmrobo/smartpi",
+  "download_filename": "smartpi_win-1.0.6-cp37-abi3-win_amd64.whl",
+  "download_time": "2026-03-12T08:40:51.027871",
+  "package_url": "https://pypi.org/project/smartpi-win/"
+}

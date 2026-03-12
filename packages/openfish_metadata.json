@@ -1,0 +1,11 @@
+{
+  "name": "openfish",
+  "version": "1.1.0",
+  "summary": "OpenFish: single-user Telegram-driven personal Codex assistant",
+  "author": "Re13orn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openfish-1.1.0.tar.gz",
+  "download_time": "2026-03-12T08:40:56.784211",
+  "package_url": "https://pypi.org/project/openfish/"
+}

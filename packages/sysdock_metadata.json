@@ -1,0 +1,11 @@
+{
+  "name": "sysdock",
+  "version": "1.1.0",
+  "summary": "SysDock — Linux / EC2 monitoring agent with live terminal dashboard and Docker metrics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sysdock-1.1.0.tar.gz",
+  "download_time": "2026-03-12T08:40:31.083683",
+  "package_url": "https://pypi.org/project/sysdock/"
+}

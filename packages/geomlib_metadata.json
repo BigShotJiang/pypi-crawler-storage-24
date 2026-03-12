@@ -1,11 +1,11 @@
 {
   "name": "geomlib",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A computational geometry library for Python",
   "author": "Victor Phung",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geomlib-0.1.6.tar.gz",
-  "download_time": "2026-03-11T16:34:47.372704",
+  "download_filename": "geomlib-0.1.7.tar.gz",
+  "download_time": "2026-03-12T08:40:51.546009",
   "package_url": "https://pypi.org/project/geomlib/"
 }

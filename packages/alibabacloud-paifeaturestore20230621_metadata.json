@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-paifeaturestore20230621",
+  "version": "6.0.8",
+  "summary": "Alibaba Cloud PaiFeatureStore (20230621) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_paifeaturestore20230621-6.0.8.tar.gz",
+  "download_time": "2026-03-12T08:40:30.565308",
+  "package_url": "https://pypi.org/project/alibabacloud-paifeaturestore20230621/"
+}

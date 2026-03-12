@@ -1,0 +1,11 @@
+{
+  "name": "eris-econ",
+  "version": "0.1.0",
+  "summary": "Geometric economics: multi-dimensional decision manifolds, A* pathfinding, and Bond Geodesic Equilibrium",
+  "author": "Andrew H. Bond",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eris_econ-0.1.0.tar.gz",
+  "download_time": "2026-03-12T08:41:10.456251",
+  "package_url": "https://pypi.org/project/eris-econ/"
+}

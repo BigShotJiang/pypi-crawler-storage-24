@@ -1,11 +1,11 @@
 {
   "name": "agenttool-sdk",
-  "version": "0.2.2",
+  "version": "0.2.7",
   "summary": "Python SDK for agenttool.dev — memory and tools for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agenttool_sdk-0.2.2.tar.gz",
-  "download_time": "2026-03-12T06:07:55.016527",
+  "download_filename": "agenttool_sdk-0.2.7.tar.gz",
+  "download_time": "2026-03-12T08:40:24.576994",
   "package_url": "https://pypi.org/project/agenttool-sdk/"
 }

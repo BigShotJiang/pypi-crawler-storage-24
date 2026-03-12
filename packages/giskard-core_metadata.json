@@ -1,0 +1,11 @@
+{
+  "name": "giskard-core",
+  "version": "0.1.7",
+  "summary": "Core shared utilities and foundational components for the Giskard library ecosystem.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "giskard_core-0.1.7.tar.gz",
+  "download_time": "2026-03-12T08:40:54.715640",
+  "package_url": "https://pypi.org/project/giskard-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smoothcon",
+  "version": "0.0.10",
+  "summary": "Get basis and penalty matrices from mgcv and convert them to numpy arrays",
+  "author": "Johannes Brachem",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smoothcon-0.0.10.tar.gz",
+  "download_time": "2026-03-12T08:40:45.821251",
+  "package_url": "https://pypi.org/project/smoothcon/"
+}

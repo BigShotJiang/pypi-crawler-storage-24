@@ -1,11 +1,11 @@
 {
   "name": "ralphify",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Harness toolkit for autonomous AI coding loops",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ralphify-0.1.1.tar.gz",
-  "download_time": "2026-03-09T11:04:09.199954",
+  "download_filename": "ralphify-0.1.6.tar.gz",
+  "download_time": "2026-03-12T08:40:49.477078",
   "package_url": "https://pypi.org/project/ralphify/"
 }

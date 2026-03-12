@@ -1,0 +1,11 @@
+{
+  "name": "ytfetch",
+  "version": "1.1.8",
+  "summary": "A wrapper for yt-dlp with custom simple fetching flags",
+  "author": "voidsnax",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ytfetch-1.1.8.tar.gz",
+  "download_time": "2026-03-12T08:40:55.752265",
+  "package_url": "https://pypi.org/project/ytfetch/"
+}

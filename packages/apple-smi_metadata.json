@@ -1,0 +1,11 @@
+{
+  "name": "apple-smi",
+  "version": "0.1.3",
+  "summary": "nvidia-smi equivalent for macOS Apple Silicon – Monitor Metal GPU usage, power, and temperature",
+  "author": "yeahdongcn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apple_smi-0.1.3.tar.gz",
+  "download_time": "2026-03-12T08:41:07.844665",
+  "package_url": "https://pypi.org/project/apple-smi/"
+}
