@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-result",
+  "version": "0.1.1",
+  "summary": "Rust-inspired Result type for Python with pattern matching and type-safe error handling",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_result-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:40.508809",
+  "package_url": "https://pypi.org/project/philiprehberger-result/"
+}

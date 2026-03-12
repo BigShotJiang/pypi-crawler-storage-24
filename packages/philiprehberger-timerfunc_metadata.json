@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-timerfunc",
+  "version": "0.1.1",
+  "summary": "Measure execution time of any function",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_timerfunc-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:33.717255",
+  "package_url": "https://pypi.org/project/philiprehberger-timerfunc/"
+}

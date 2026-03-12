@@ -1,0 +1,11 @@
+{
+  "name": "syncify-py",
+  "version": "2.0.0",
+  "summary": "Spotify track and playlist metadata library",
+  "author": "adelelawady",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "syncify_py-2.0.0.tar.gz",
+  "download_time": "2026-03-12T19:13:18.042448",
+  "package_url": "https://pypi.org/project/syncify-py/"
+}

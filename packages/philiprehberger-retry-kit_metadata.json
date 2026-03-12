@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-retry-kit",
+  "version": "0.1.1",
+  "summary": "Async retry with exponential backoff, circuit breaker, and cancellation for Python",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_retry_kit-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:39.465666",
+  "package_url": "https://pypi.org/project/philiprehberger-retry-kit/"
+}

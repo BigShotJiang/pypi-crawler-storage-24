@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-duplicate-finder",
+  "version": "0.1.1",
+  "summary": "Content-hash duplicate file detection with two-pass efficiency",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_duplicate_finder-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:55.158951",
+  "package_url": "https://pypi.org/project/philiprehberger-duplicate-finder/"
+}

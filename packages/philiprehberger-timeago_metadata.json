@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-timeago",
+  "version": "0.1.1",
+  "summary": "Convert timestamps to relative time phrases like '3 hours ago'",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_timeago-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:34.236120",
+  "package_url": "https://pypi.org/project/philiprehberger-timeago/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-filesize",
+  "version": "0.1.1",
+  "summary": "Convert bytes to human-readable file sizes and back",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_filesize-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:52.035885",
+  "package_url": "https://pypi.org/project/philiprehberger-filesize/"
+}

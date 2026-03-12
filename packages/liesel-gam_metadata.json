@@ -1,0 +1,11 @@
+{
+  "name": "liesel-gam",
+  "version": "0.1.3",
+  "summary": "Functionality for Generalized Additive Models in Liesel",
+  "author": "Johannes Brachem",
+  "license": null,
+  "home_page": null,
+  "download_filename": "liesel_gam-0.1.3.tar.gz",
+  "download_time": "2026-03-12T19:13:08.465137",
+  "package_url": "https://pypi.org/project/liesel-gam/"
+}

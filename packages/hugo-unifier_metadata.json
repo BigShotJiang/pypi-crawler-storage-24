@@ -1,0 +1,11 @@
+{
+  "name": "hugo-unifier",
+  "version": "0.3.2",
+  "summary": "Python package that can unify gene symbols across datasets based on the HUGO database.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hugo_unifier-0.3.2.tar.gz",
+  "download_time": "2026-03-12T19:13:15.431177",
+  "package_url": "https://pypi.org/project/hugo-unifier/"
+}

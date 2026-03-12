@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-net-scanner",
+  "version": "0.1.1",
+  "summary": "LAN device discovery and TCP port scanning",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_net_scanner-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:42.591925",
+  "package_url": "https://pypi.org/project/philiprehberger-net-scanner/"
+}

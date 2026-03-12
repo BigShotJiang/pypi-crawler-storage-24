@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-webhook-signature",
+  "version": "0.1.1",
+  "summary": "HMAC-based webhook signature generation and verification with timing-safe comparison",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_webhook_signature-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:31.636688",
+  "package_url": "https://pypi.org/project/philiprehberger-webhook-signature/"
+}

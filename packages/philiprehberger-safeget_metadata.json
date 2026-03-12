@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-safeget",
+  "version": "0.1.1",
+  "summary": "Safely access nested dictionary keys without exceptions",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_safeget-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:38.946226",
+  "package_url": "https://pypi.org/project/philiprehberger-safeget/"
+}

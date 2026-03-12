@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-env-file",
+  "version": "0.1.1",
+  "summary": ".env file parser with interpolation and multi-file support",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_env_file-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:54.637342",
+  "package_url": "https://pypi.org/project/philiprehberger-env-file/"
+}

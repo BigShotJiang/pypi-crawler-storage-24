@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-log-focus",
+  "version": "0.1.2",
+  "summary": "Structured log filtering and highlighting for terminals",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_log_focus-0.1.2.tar.gz",
+  "download_time": "2026-03-12T19:13:27.432525",
+  "package_url": "https://pypi.org/project/philiprehberger-log-focus/"
+}

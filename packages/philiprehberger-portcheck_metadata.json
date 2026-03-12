@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-portcheck",
+  "version": "0.1.1",
+  "summary": "Check if a port is open on a host",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_portcheck-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:42.069110",
+  "package_url": "https://pypi.org/project/philiprehberger-portcheck/"
+}

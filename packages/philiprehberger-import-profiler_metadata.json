@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-import-profiler",
+  "version": "0.1.1",
+  "summary": "Show how long each Python import takes during startup",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_import_profiler-0.1.1.tar.gz",
+  "download_time": "2026-03-12T19:13:48.854637",
+  "package_url": "https://pypi.org/project/philiprehberger-import-profiler/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fluid-blends",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A Python library to generate and query ASTs, CFGs, and syntax graphs from multi-language source code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluid_blends-1.0.4.tar.gz",
-  "download_time": "2026-03-11T22:24:49.979193",
+  "download_filename": "fluid_blends-1.0.5.tar.gz",
+  "download_time": "2026-03-12T19:13:29.566291",
   "package_url": "https://pypi.org/project/fluid-blends/"
 }

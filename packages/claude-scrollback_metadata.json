@@ -1,0 +1,11 @@
+{
+  "name": "claude-scrollback",
+  "version": "1.0.0",
+  "summary": "Lightweight viewer for Claude Code session transcripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_scrollback-1.0.0.tar.gz",
+  "download_time": "2026-03-12T19:13:31.117366",
+  "package_url": "https://pypi.org/project/claude-scrollback/"
+}

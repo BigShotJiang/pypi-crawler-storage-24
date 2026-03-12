@@ -1,11 +1,11 @@
 {
   "name": "globoptiml",
-  "version": "1.0.7",
+  "version": "1.0.13",
   "summary": "Train neural networks via global mathematical optimisation (MINLP) instead of gradient descent.",
   "author": "Krzysztof",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "globoptiml-1.0.7.tar.gz",
-  "download_time": "2026-03-12T11:37:30.148134",
+  "download_filename": "globoptiml-1.0.13.tar.gz",
+  "download_time": "2026-03-12T19:13:12.146482",
   "package_url": "https://pypi.org/project/globoptiml/"
 }
