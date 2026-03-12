@@ -1,0 +1,11 @@
+{
+  "name": "reahl-swordfish",
+  "version": "0.8.1",
+  "summary": "A classic Smalltalk IDE for GemStone/Smalltalk",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "reahl_swordfish-0.8.1.tar.gz",
+  "download_time": "2026-03-12T07:14:55.828418",
+  "package_url": "https://pypi.org/project/reahl-swordfish/"
+}

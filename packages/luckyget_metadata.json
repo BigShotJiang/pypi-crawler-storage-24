@@ -1,11 +1,11 @@
 {
   "name": "luckyget",
-  "version": "2.0.6",
+  "version": "3.0.1",
   "summary": "The all-in-one dev CLI tool for Termux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "luckyget-2.0.6.tar.gz",
-  "download_time": "2026-03-11T13:39:31.962095",
+  "download_filename": "luckyget-3.0.1-py3-none-any.whl",
+  "download_time": "2026-03-12T07:15:30.943610",
   "package_url": "https://pypi.org/project/luckyget/"
 }

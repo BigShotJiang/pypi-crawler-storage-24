@@ -1,0 +1,11 @@
+{
+  "name": "ark-fbs",
+  "version": "0.1.3",
+  "summary": "FlatBuffers schema parsing + JSON<->binary helpers (pybind11)",
+  "author": "StarHeartHunt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ark_fbs-0.1.3.tar.gz",
+  "download_time": "2026-03-12T07:15:07.389085",
+  "package_url": "https://pypi.org/project/ark-fbs/"
+}

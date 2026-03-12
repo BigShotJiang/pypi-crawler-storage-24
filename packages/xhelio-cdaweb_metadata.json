@@ -1,11 +1,11 @@
 {
   "name": "xhelio-cdaweb",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "NASA CDAWeb data access for heliophysics — browse observatories, inspect parameters, fetch CDF data",
   "author": "Zesen Huang",
   "license": null,
   "home_page": null,
-  "download_filename": "xhelio_cdaweb-0.3.1.tar.gz",
-  "download_time": "2026-03-12T05:10:26.702144",
+  "download_filename": "xhelio_cdaweb-0.3.3.tar.gz",
+  "download_time": "2026-03-12T07:15:41.347734",
   "package_url": "https://pypi.org/project/xhelio-cdaweb/"
 }

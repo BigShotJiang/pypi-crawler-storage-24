@@ -1,11 +1,11 @@
 {
   "name": "codegraph-ai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Hybrid graph + vector code intelligence powered by NeuG and zvec",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codegraph_ai-0.2.0.tar.gz",
-  "download_time": "2026-03-12T04:12:28.757899",
+  "download_filename": "codegraph_ai-0.2.1.tar.gz",
+  "download_time": "2026-03-12T07:15:40.823883",
   "package_url": "https://pypi.org/project/codegraph-ai/"
 }

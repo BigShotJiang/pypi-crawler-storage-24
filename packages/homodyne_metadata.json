@@ -1,0 +1,11 @@
+{
+  "name": "homodyne",
+  "version": "2.22.7",
+  "summary": "CPU-optimized JAX-based homodyne scattering analysis for XPCS under nonequilibrium conditions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "homodyne-2.22.7.tar.gz",
+  "download_time": "2026-03-12T07:15:28.864307",
+  "package_url": "https://pypi.org/project/homodyne/"
+}

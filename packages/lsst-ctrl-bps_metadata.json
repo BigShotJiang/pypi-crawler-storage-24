@@ -1,0 +1,11 @@
+{
+  "name": "lsst-ctrl-bps",
+  "version": "30.2026.1100",
+  "summary": "Pluggable execution of workflow graphs from Rubin pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_ctrl_bps-30.2026.1100.tar.gz",
+  "download_time": "2026-03-12T07:15:03.687815",
+  "package_url": "https://pypi.org/project/lsst-ctrl-bps/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-image-sanitizer",
+  "version": "0.1.1",
+  "summary": "A Django middleware to automatically sanitize and convert uploaded images to WebP to prevent XSS and save space.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_image_sanitizer-0.1.1.tar.gz",
+  "download_time": "2026-03-12T07:15:22.060455",
+  "package_url": "https://pypi.org/project/django-image-sanitizer/"
+}

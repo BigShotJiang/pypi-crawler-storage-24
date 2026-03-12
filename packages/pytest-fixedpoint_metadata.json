@@ -1,11 +1,11 @@
 {
   "name": "pytest-fixedpoint",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Pytest plugin for recording and replaying deterministic function calls",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_fixedpoint-0.1.3.tar.gz",
-  "download_time": "2026-03-12T06:08:16.338290",
+  "download_filename": "pytest_fixedpoint-0.1.4.tar.gz",
+  "download_time": "2026-03-12T07:15:00.030810",
   "package_url": "https://pypi.org/project/pytest-fixedpoint/"
 }

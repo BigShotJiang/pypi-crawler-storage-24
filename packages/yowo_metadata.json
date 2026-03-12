@@ -1,0 +1,11 @@
+{
+  "name": "yowo",
+  "version": "2.4.0",
+  "summary": "Production YOLO inference and export library for edge and cloud deployment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yowo-2.4.0.tar.gz",
+  "download_time": "2026-03-12T07:15:42.923680",
+  "package_url": "https://pypi.org/project/yowo/"
+}
