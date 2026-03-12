@@ -1,11 +1,11 @@
 {
   "name": "mkpipe-extractor-file",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "File-based extractor for mkpipe (S3, ADLS, GCS, HDFS, local). Supports parquet, csv, json, orc, avro, iceberg, delta.",
   "author": "Metin Karakus",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "mkpipe_extractor_file-0.2.0.tar.gz",
-  "download_time": "2026-03-12T21:11:01.088802",
+  "download_filename": "mkpipe_extractor_file-0.3.0.tar.gz",
+  "download_time": "2026-03-12T21:52:44.261140",
   "package_url": "https://pypi.org/project/mkpipe-extractor-file/"
 }

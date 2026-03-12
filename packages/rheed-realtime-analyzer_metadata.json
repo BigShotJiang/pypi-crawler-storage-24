@@ -1,0 +1,11 @@
+{
+  "name": "rheed-realtime-analyzer",
+  "version": "0.2.0",
+  "summary": "Sidecar analytics framework for real-time RHEED monitoring",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rheed_realtime_analyzer-0.2.0.tar.gz",
+  "download_time": "2026-03-12T21:52:41.697981",
+  "package_url": "https://pypi.org/project/rheed-realtime-analyzer/"
+}

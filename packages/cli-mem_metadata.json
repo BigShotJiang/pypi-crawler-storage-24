@@ -1,11 +1,11 @@
 {
   "name": "cli-mem",
-  "version": "0.2.0",
+  "version": "0.3.3",
   "summary": "Privacy-first CLI that turns shell history into searchable memory",
   "author": "Matias Insaurralde",
   "license": null,
   "home_page": null,
-  "download_filename": "cli_mem-0.2.0.tar.gz",
-  "download_time": "2026-03-11T22:50:12.295696",
+  "download_filename": "cli_mem-0.3.3.tar.gz",
+  "download_time": "2026-03-12T21:52:53.508169",
   "package_url": "https://pypi.org/project/cli-mem/"
 }

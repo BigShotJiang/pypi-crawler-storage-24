@@ -1,0 +1,11 @@
+{
+  "name": "pyszn",
+  "version": "1.8.1",
+  "summary": "A Python package for the Simplified Zone Notation standard",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyszn-1.8.1.tar.gz",
+  "download_time": "2026-03-12T21:52:49.402695",
+  "package_url": "https://pypi.org/project/pyszn/"
+}

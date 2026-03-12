@@ -1,0 +1,11 @@
+{
+  "name": "mammoth",
+  "version": "1.12.0",
+  "summary": "Convert Word documents from docx to simple and clean HTML and Markdown",
+  "author": "Michael Williamson",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/mwilliamson/python-mammoth",
+  "download_filename": "mammoth-1.12.0.tar.gz",
+  "download_time": "2026-03-12T21:52:50.935565",
+  "package_url": "https://pypi.org/project/mammoth/"
+}

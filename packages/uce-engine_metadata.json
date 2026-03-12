@@ -1,0 +1,11 @@
+{
+  "name": "uce-engine",
+  "version": "0.1.1",
+  "summary": "Unified Context Engine",
+  "author": "UCE Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uce_engine-0.1.1.tar.gz",
+  "download_time": "2026-03-12T21:53:11.684058",
+  "package_url": "https://pypi.org/project/uce-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bespoketracker-comply",
+  "version": "1.1.0",
+  "summary": "Compliance gap analysis for any codebase — standalone scanner, CI/CD integration, and web dashboard",
+  "author": "BespokeTracker",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "bespoketracker_comply-1.1.0.tar.gz",
+  "download_time": "2026-03-12T21:52:29.081257",
+  "package_url": "https://pypi.org/project/bespoketracker-comply/"
+}

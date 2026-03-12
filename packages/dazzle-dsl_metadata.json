@@ -1,11 +1,11 @@
 {
   "name": "dazzle-dsl",
-  "version": "0.41.0",
+  "version": "0.41.1",
   "summary": "DAZZLE - Domain-Aware, Token-Efficient DSL for LLM-Enabled Apps",
   "author": "DAZZLE Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dazzle_dsl-0.41.0.tar.gz",
-  "download_time": "2026-03-12T18:36:37.097119",
+  "download_filename": "dazzle_dsl-0.41.1.tar.gz",
+  "download_time": "2026-03-12T21:53:03.310255",
   "package_url": "https://pypi.org/project/dazzle-dsl/"
 }

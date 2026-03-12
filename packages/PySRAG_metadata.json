@@ -1,0 +1,11 @@
+{
+  "name": "PySRAG",
+  "version": "0.4.0",
+  "summary": "This Python package provides tools for analyzing and processing data related to Severe Acute Respiratory Syndrome (SARS) and other respiratory viruses. It includes functions for data preprocessing, feature engineering, and training Gradient Boosting Models (GBMs) for binary or multiclass classification.",
+  "author": "João Flávio Andrade Silva",
+  "license": "MIT",
+  "home_page": "https://github.com/joao-1988/PySRAG",
+  "download_filename": "pysrag-0.4.0.tar.gz",
+  "download_time": "2026-03-12T21:53:01.257989",
+  "package_url": "https://pypi.org/project/PySRAG/"
+}
