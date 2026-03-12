@@ -1,0 +1,11 @@
+{
+  "name": "molfidget",
+  "version": "1.2.0",
+  "summary": "A molecular modeler of 3D printable models from the MOL/PDB format.",
+  "author": "Ryosuke Tajima",
+  "license": null,
+  "home_page": null,
+  "download_filename": "molfidget-1.2.0.tar.gz",
+  "download_time": "2026-03-12T14:33:24.016832",
+  "package_url": "https://pypi.org/project/molfidget/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dq-suite-amsterdam",
+  "version": "0.13.4",
+  "summary": "Wrapper for Great Expectations to fit the requirements of the Gemeente Amsterdam.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dq_suite_amsterdam-0.13.4.tar.gz",
+  "download_time": "2026-03-12T14:33:21.982241",
+  "package_url": "https://pypi.org/project/dq-suite-amsterdam/"
+}

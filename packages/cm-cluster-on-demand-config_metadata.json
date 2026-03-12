@@ -1,0 +1,11 @@
+{
+  "name": "cm-cluster-on-demand-config",
+  "version": "11.32.0",
+  "summary": "Base Command Manager COD configuration library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cm_cluster_on_demand_config-11.32.0.tar.gz",
+  "download_time": "2026-03-12T14:32:55.648899",
+  "package_url": "https://pypi.org/project/cm-cluster-on-demand-config/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mllm-prompt-template",
+  "version": "2.0.0",
+  "summary": "A Python template library for Multimodal LLMs that extends string.Template to support image substitution in prompts",
+  "author": "co-gy",
+  "license": "MIT",
+  "home_page": "https://github.com/co-gy/mllm-prompt-template",
+  "download_filename": "mllm_prompt_template-2.0.0-py3-none-any.whl",
+  "download_time": "2026-03-12T14:32:58.816096",
+  "package_url": "https://pypi.org/project/mllm-prompt-template/"
+}

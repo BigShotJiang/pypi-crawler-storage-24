@@ -1,0 +1,11 @@
+{
+  "name": "cm-cluster-on-demand-gcp",
+  "version": "11.32.0",
+  "summary": "NVIDIA Base Command Manager Cluster on Demand GCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cm_cluster_on_demand_gcp-11.32.0.tar.gz",
+  "download_time": "2026-03-12T14:32:52.383956",
+  "package_url": "https://pypi.org/project/cm-cluster-on-demand-gcp/"
+}

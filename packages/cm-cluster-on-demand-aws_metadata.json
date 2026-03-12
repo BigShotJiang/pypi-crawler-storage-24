@@ -1,0 +1,11 @@
+{
+  "name": "cm-cluster-on-demand-aws",
+  "version": "11.32.0",
+  "summary": "NVIDIA Base Command Manager Cluster on Demand AWS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cm_cluster_on_demand_aws-11.32.0.tar.gz",
+  "download_time": "2026-03-12T14:32:53.915105",
+  "package_url": "https://pypi.org/project/cm-cluster-on-demand-aws/"
+}

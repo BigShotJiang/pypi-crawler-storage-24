@@ -1,0 +1,11 @@
+{
+  "name": "wsl-modelzoo",
+  "version": "0.1.0",
+  "summary": "CLI tool for downloading checkpoints and metadata developed by the AIML Lab.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wsl_modelzoo-0.1.0.tar.gz",
+  "download_time": "2026-03-12T14:32:40.389663",
+  "package_url": "https://pypi.org/project/wsl-modelzoo/"
+}

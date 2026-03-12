@@ -1,11 +1,11 @@
 {
   "name": "risclog.batou",
-  "version": "3.8.1",
+  "version": "3.8.2",
   "summary": "batou extensions used by risclog",
   "author": "riscLOG Solution GmbH",
   "license": null,
   "home_page": "https://github.com/risclog-solution/risclog.batou",
-  "download_filename": "risclog_batou-3.8.1.tar.gz",
-  "download_time": "2026-03-12T11:37:29.637789",
+  "download_filename": "risclog_batou-3.8.2.tar.gz",
+  "download_time": "2026-03-12T14:33:05.632222",
   "package_url": "https://pypi.org/project/risclog.batou/"
 }

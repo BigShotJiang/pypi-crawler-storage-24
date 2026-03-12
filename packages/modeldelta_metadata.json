@@ -1,11 +1,11 @@
 {
   "name": "modeldelta",
-  "version": "0.1.1",
+  "version": "0.4.1",
   "summary": "CLI tool to compare model checkpoints — weight deltas, SVD structure, layer drift",
   "author": "Nick Yudin",
   "license": null,
   "home_page": null,
-  "download_filename": "modeldelta-0.1.1.tar.gz",
-  "download_time": "2026-03-09T22:24:20.253270",
+  "download_filename": "modeldelta-0.4.1.tar.gz",
+  "download_time": "2026-03-12T14:33:21.471290",
   "package_url": "https://pypi.org/project/modeldelta/"
 }

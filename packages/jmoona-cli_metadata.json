@@ -1,0 +1,11 @@
+{
+  "name": "jmoona-cli",
+  "version": "1.0.3",
+  "summary": "Films & séries du monde en streaming depuis le terminal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jmoona_cli-1.0.3.tar.gz",
+  "download_time": "2026-03-12T14:33:30.656222",
+  "package_url": "https://pypi.org/project/jmoona-cli/"
+}

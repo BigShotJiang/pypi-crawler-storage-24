@@ -1,0 +1,11 @@
+{
+  "name": "whatdeps",
+  "version": "0.1.1",
+  "summary": "CLI tool to inspect Python package informations from PyPI and GitHub.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whatdeps-0.1.1.tar.gz",
+  "download_time": "2026-03-12T14:33:16.819874",
+  "package_url": "https://pypi.org/project/whatdeps/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "infrahouse-toolkit",
+  "version": "2.59.2",
+  "summary": "A collection of tools for building infrastructure.",
+  "author": "Oleksandr Kuzminskyi",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/infrahouse/infrahouse-toolkit",
+  "download_filename": "infrahouse_toolkit-2.59.2.tar.gz",
+  "download_time": "2026-03-12T14:32:54.488704",
+  "package_url": "https://pypi.org/project/infrahouse-toolkit/"
+}

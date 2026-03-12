@@ -1,11 +1,11 @@
 {
   "name": "aepp",
-  "version": "0.5.3.post3",
+  "version": "0.5.3.post7",
   "summary": "Package to manage AEP API endpoint and some helper functions",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aepp-0.5.3.post3.tar.gz",
-  "download_time": "2026-03-08T11:17:04.874810",
+  "download_filename": "aepp-0.5.3.post7.tar.gz",
+  "download_time": "2026-03-12T14:33:08.004559",
   "package_url": "https://pypi.org/project/aepp/"
 }

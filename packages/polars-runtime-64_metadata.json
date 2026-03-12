@@ -1,0 +1,11 @@
+{
+  "name": "polars-runtime-64",
+  "version": "1.39.0",
+  "summary": "Blazingly fast DataFrame library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_runtime_64-1.39.0.tar.gz",
+  "download_time": "2026-03-12T14:33:06.399180",
+  "package_url": "https://pypi.org/project/polars-runtime-64/"
+}

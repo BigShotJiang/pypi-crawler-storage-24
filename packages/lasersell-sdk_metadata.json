@@ -1,11 +1,11 @@
 {
   "name": "lasersell-sdk",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Python SDK for the LaserSell API",
   "author": "LaserSell",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lasersell_sdk-1.0.2.tar.gz",
-  "download_time": "2026-03-11T06:23:30.821587",
+  "download_filename": "lasersell_sdk-1.0.4.tar.gz",
+  "download_time": "2026-03-12T14:33:18.356068",
   "package_url": "https://pypi.org/project/lasersell-sdk/"
 }
