@@ -1,0 +1,11 @@
+{
+  "name": "fawp-index",
+  "version": "0.5.0",
+  "summary": "FAWP Alpha Index v2.1 — Information-Control Exclusion Principle detector",
+  "author": "Ralph Clayton",
+  "license": null,
+  "home_page": "https://github.com/DrRalphClayton/fawp-index",
+  "download_filename": "fawp_index-0.5.0.tar.gz",
+  "download_time": "2026-03-12T07:59:01.100424",
+  "package_url": "https://pypi.org/project/fawp-index/"
+}
