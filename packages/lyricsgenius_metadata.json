@@ -1,0 +1,11 @@
+{
+  "name": "lyricsgenius",
+  "version": "3.10.2",
+  "summary": "Download lyrics and metadata from Genius.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lyricsgenius-3.10.2.tar.gz",
+  "download_time": "2026-03-13T05:13:41.073435",
+  "package_url": "https://pypi.org/project/lyricsgenius/"
+}

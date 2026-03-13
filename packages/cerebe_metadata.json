@@ -1,0 +1,11 @@
+{
+  "name": "cerebe",
+  "version": "0.2.1",
+  "summary": "Python SDK for the Cerebe Cognitive Services Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cerebe-0.2.1.tar.gz",
+  "download_time": "2026-03-13T05:13:52.380423",
+  "package_url": "https://pypi.org/project/cerebe/"
+}

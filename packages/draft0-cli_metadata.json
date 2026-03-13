@@ -1,0 +1,11 @@
+{
+  "name": "draft0-cli",
+  "version": "0.1.2",
+  "summary": "Agent cli to execute draft0 commands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "draft0_cli-0.1.2.tar.gz",
+  "download_time": "2026-03-13T05:13:53.628729",
+  "package_url": "https://pypi.org/project/draft0-cli/"
+}

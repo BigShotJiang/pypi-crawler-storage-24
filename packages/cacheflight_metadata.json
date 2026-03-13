@@ -1,0 +1,11 @@
+{
+  "name": "cacheflight",
+  "version": "1.0.0",
+  "summary": "In-process async request deduplication — prevent duplicate expensive work under concurrent load.",
+  "author": "CacheFlight Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cacheflight-1.0.0.tar.gz",
+  "download_time": "2026-03-13T05:13:56.578736",
+  "package_url": "https://pypi.org/project/cacheflight/"
+}

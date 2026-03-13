@@ -1,0 +1,11 @@
+{
+  "name": "auto-play-in-mpv",
+  "version": "0.1.4",
+  "summary": "Automatically redirect to mpv player when playing online video",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auto_play_in_mpv-0.1.4.tar.gz",
+  "download_time": "2026-03-13T05:13:37.447684",
+  "package_url": "https://pypi.org/project/auto-play-in-mpv/"
+}

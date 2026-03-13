@@ -1,0 +1,11 @@
+{
+  "name": "robocorp-vault",
+  "version": "1.4.0",
+  "summary": "Robocorp Control Room Vault API integration library",
+  "author": "Sema4.ai",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robocorp_vault-1.4.0.tar.gz",
+  "download_time": "2026-03-13T05:13:51.316460",
+  "package_url": "https://pypi.org/project/robocorp-vault/"
+}

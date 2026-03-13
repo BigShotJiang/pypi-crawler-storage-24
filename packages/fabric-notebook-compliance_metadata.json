@@ -1,11 +1,11 @@
 {
   "name": "fabric-notebook-compliance",
-  "version": "1.0.1",
+  "version": "1.0.19",
   "summary": "Best practices compliance checker for Microsoft Fabric notebooks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fabric_notebook_compliance-1.0.1.tar.gz",
-  "download_time": "2026-03-13T01:30:32.839780",
+  "download_filename": "fabric_notebook_compliance-1.0.19.tar.gz",
+  "download_time": "2026-03-13T05:13:26.905353",
   "package_url": "https://pypi.org/project/fabric-notebook-compliance/"
 }

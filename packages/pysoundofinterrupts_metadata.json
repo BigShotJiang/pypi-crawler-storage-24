@@ -1,0 +1,11 @@
+{
+  "name": "pysoundofinterrupts",
+  "version": "0.1.2",
+  "summary": "Sonify and visualize Linux kernel interrupts by reading /proc/interrupts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysoundofinterrupts-0.1.2.tar.gz",
+  "download_time": "2026-03-13T05:13:50.137417",
+  "package_url": "https://pypi.org/project/pysoundofinterrupts/"
+}
