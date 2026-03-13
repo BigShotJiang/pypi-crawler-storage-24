@@ -1,0 +1,11 @@
+{
+  "name": "srigram",
+  "version": "2.3.77",
+  "summary": "Fork of pyrogram. Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srigram-2.3.77.tar.gz",
+  "download_time": "2026-03-13T16:04:42.225848",
+  "package_url": "https://pypi.org/project/srigram/"
+}

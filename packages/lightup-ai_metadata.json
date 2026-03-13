@@ -1,0 +1,11 @@
+{
+  "name": "lightup-ai",
+  "version": "1.1.0",
+  "summary": "AI assistant for Lightup data quality — MCP server + agentic chat client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightup_ai-1.1.0.tar.gz",
+  "download_time": "2026-03-13T16:05:13.306921",
+  "package_url": "https://pypi.org/project/lightup-ai/"
+}

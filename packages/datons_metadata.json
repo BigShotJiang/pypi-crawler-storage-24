@@ -1,11 +1,11 @@
 {
   "name": "datons",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Python client for Datons data APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datons-0.3.0.tar.gz",
-  "download_time": "2026-03-13T14:41:44.542498",
+  "download_filename": "datons-0.4.0.tar.gz",
+  "download_time": "2026-03-13T16:05:17.454550",
   "package_url": "https://pypi.org/project/datons/"
 }

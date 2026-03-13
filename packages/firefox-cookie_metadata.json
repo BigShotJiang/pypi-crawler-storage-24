@@ -1,0 +1,11 @@
+{
+  "name": "firefox-cookie",
+  "version": "0.0.5",
+  "summary": "Original author Boris Babic boris.ivan.babic@gmail.com",
+  "author": "Ilya Rakhlin",
+  "license": null,
+  "home_page": "https://github.com/irakhlin/browser-cookie4",
+  "download_filename": "firefox_cookie-0.0.5.tar.gz",
+  "download_time": "2026-03-13T16:04:40.166637",
+  "package_url": "https://pypi.org/project/firefox-cookie/"
+}

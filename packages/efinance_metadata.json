@@ -1,11 +1,11 @@
 {
   "name": "efinance",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "A finance tool to get stock,fund and futures data base on eastmoney",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "efinance-0.5.6.tar.gz",
-  "download_time": "2026-03-13T07:13:50.041776",
+  "download_filename": "efinance-0.5.7.tar.gz",
+  "download_time": "2026-03-13T16:04:58.267196",
   "package_url": "https://pypi.org/project/efinance/"
 }

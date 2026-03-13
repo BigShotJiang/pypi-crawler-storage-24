@@ -1,0 +1,11 @@
+{
+  "name": "py-find-1st",
+  "version": "1.1.8",
+  "summary": "Numpy extension module for efficient search of first array index that compares true",
+  "author": null,
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "py_find_1st-1.1.8.tar.gz",
+  "download_time": "2026-03-13T16:05:13.818998",
+  "package_url": "https://pypi.org/project/py-find-1st/"
+}

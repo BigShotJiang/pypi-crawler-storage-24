@@ -1,0 +1,11 @@
+{
+  "name": "mautic-cli",
+  "version": "0.1.1",
+  "summary": "Control Mautic from the command line or any AI coding agent.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mautic_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-13T16:05:22.079606",
+  "package_url": "https://pypi.org/project/mautic-cli/"
+}

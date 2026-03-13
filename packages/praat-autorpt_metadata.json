@@ -1,0 +1,11 @@
+{
+  "name": "praat-autorpt",
+  "version": "0.1.0",
+  "summary": "Command-line tool for annotating prosodic features",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "praat_autorpt-0.1.0.tar.gz",
+  "download_time": "2026-03-13T16:04:41.707980",
+  "package_url": "https://pypi.org/project/praat-autorpt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snakemake",
+  "version": "9.17.0",
+  "summary": "Workflow management system to create reproducible and scalable data analyses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakemake-9.17.0.tar.gz",
+  "download_time": "2026-03-13T16:04:48.974657",
+  "package_url": "https://pypi.org/project/snakemake/"
+}

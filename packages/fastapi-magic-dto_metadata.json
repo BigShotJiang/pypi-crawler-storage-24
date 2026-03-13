@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-magic-dto",
+  "version": "0.1.1",
+  "summary": "Stop duplicating your Pydantic schemas. Map FastAPI request parameters into a single DTO.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_magic_dto-0.1.1.tar.gz",
+  "download_time": "2026-03-13T16:05:12.793249",
+  "package_url": "https://pypi.org/project/fastapi-magic-dto/"
+}

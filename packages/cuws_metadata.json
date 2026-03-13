@@ -1,0 +1,11 @@
+{
+  "name": "cuws",
+  "version": "0.0.4",
+  "summary": "CuWS implements watershed segmentation from minima on GPUs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cuws-0.0.4.tar.gz",
+  "download_time": "2026-03-13T16:05:16.942925",
+  "package_url": "https://pypi.org/project/cuws/"
+}

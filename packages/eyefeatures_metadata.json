@@ -1,0 +1,11 @@
+{
+  "name": "eyefeatures",
+  "version": "2.0.0",
+  "summary": "Preprocessing, visualization, statistical analysis, feature engineering, and machine learning of eye movement data.",
+  "author": "Vagiz Daudov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eyefeatures-2.0.0.tar.gz",
+  "download_time": "2026-03-13T16:04:48.411278",
+  "package_url": "https://pypi.org/project/eyefeatures/"
+}
