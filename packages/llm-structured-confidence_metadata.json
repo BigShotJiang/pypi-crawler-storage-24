@@ -1,11 +1,11 @@
 {
   "name": "llm-structured-confidence",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Extract per-field confidence scores from LLM structured JSON outputs using token-level log-probabilities.",
   "author": "llm-structured-confidence contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "llm_structured_confidence-0.4.1.tar.gz",
-  "download_time": "2026-03-13T18:09:31.621235",
+  "download_filename": "llm_structured_confidence-0.4.2.tar.gz",
+  "download_time": "2026-03-13T19:03:44.403896",
   "package_url": "https://pypi.org/project/llm-structured-confidence/"
 }

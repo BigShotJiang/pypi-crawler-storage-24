@@ -1,11 +1,11 @@
 {
   "name": "agentkit-cli",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Unified CLI for the Agent Quality Toolkit (agentmd, coderace, agentlint, agentreflect)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentkit_cli-0.8.0.tar.gz",
-  "download_time": "2026-03-13T17:00:15.168052",
+  "download_filename": "agentkit_cli-0.9.0.tar.gz",
+  "download_time": "2026-03-13T19:03:05.963930",
   "package_url": "https://pypi.org/project/agentkit-cli/"
 }

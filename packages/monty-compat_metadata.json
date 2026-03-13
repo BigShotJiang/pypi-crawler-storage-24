@@ -1,0 +1,11 @@
+{
+  "name": "monty-compat",
+  "version": "0.4.1",
+  "summary": "AST-based Python compatibility checker for the Monty interpreter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "monty_compat-0.4.1.tar.gz",
+  "download_time": "2026-03-13T19:03:41.183270",
+  "package_url": "https://pypi.org/project/monty-compat/"
+}

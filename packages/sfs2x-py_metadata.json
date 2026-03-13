@@ -1,0 +1,11 @@
+{
+  "name": "sfs2x-py",
+  "version": "0.1.1",
+  "summary": "SmartFoxServer 2X binary protocol implementation for Python",
+  "author": "Vlad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sfs2x_py-0.1.1.tar.gz",
+  "download_time": "2026-03-13T19:03:14.096157",
+  "package_url": "https://pypi.org/project/sfs2x-py/"
+}

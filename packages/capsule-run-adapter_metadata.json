@@ -1,0 +1,11 @@
+{
+  "name": "capsule-run-adapter",
+  "version": "0.1.0",
+  "summary": "Capsule adapter for Python applications — execute Python and JavaScript code in isolated WebAssembly sandboxes",
+  "author": "Capsule Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "capsule_run_adapter-0.1.0.tar.gz",
+  "download_time": "2026-03-13T19:03:19.545457",
+  "package_url": "https://pypi.org/project/capsule-run-adapter/"
+}

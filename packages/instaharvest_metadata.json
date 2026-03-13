@@ -1,11 +1,11 @@
 {
   "name": "instaharvest",
-  "version": "2.13.0",
+  "version": "2.15.1",
   "summary": "Professional Instagram data collection toolkit with automation features",
   "author": "Muydinov Doston",
   "license": null,
   "home_page": "https://github.com/mpython77/insta-harvester",
-  "download_filename": "instaharvest-2.13.0.tar.gz",
-  "download_time": "2026-03-11T03:40:13.940564",
+  "download_filename": "instaharvest-2.15.1.tar.gz",
+  "download_time": "2026-03-13T19:02:54.883000",
   "package_url": "https://pypi.org/project/instaharvest/"
 }

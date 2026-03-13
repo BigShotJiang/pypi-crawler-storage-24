@@ -1,0 +1,11 @@
+{
+  "name": "debops",
+  "version": "3.2.5",
+  "summary": "Your Debian-based data center in a box",
+  "author": "DebOps Developers",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://debops.org/",
+  "download_filename": "debops-3.2.5.tar.gz",
+  "download_time": "2026-03-13T19:03:11.333021",
+  "package_url": "https://pypi.org/project/debops/"
+}

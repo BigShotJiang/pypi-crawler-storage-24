@@ -1,0 +1,11 @@
+{
+  "name": "polaris-news",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for The Polaris Report API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polaris_news-0.1.0.tar.gz",
+  "download_time": "2026-03-13T19:03:03.685304",
+  "package_url": "https://pypi.org/project/polaris-news/"
+}

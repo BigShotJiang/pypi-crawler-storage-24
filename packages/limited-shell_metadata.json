@@ -1,0 +1,11 @@
+{
+  "name": "limited-shell",
+  "version": "0.11.0",
+  "summary": "lshell - Limited Shell",
+  "author": "Ignace Mouzannar",
+  "license": "GPL-3",
+  "home_page": "https://github.com/ghantoos/lshell",
+  "download_filename": "limited_shell-0.11.0.tar.gz",
+  "download_time": "2026-03-13T19:03:02.079446",
+  "package_url": "https://pypi.org/project/limited-shell/"
+}
