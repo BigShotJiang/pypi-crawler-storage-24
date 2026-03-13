@@ -1,0 +1,11 @@
+{
+  "name": "orthophotos-downloader",
+  "version": "1.0.0",
+  "summary": "Python wrapper for various available WMS services to simplify the download of orthophotos. Currently focused on Germany.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orthophotos_downloader-1.0.0.tar.gz",
+  "download_time": "2026-03-13T17:38:44.950653",
+  "package_url": "https://pypi.org/project/orthophotos-downloader/"
+}

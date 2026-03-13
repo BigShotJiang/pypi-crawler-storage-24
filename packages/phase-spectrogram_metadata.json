@@ -1,0 +1,11 @@
+{
+  "name": "phase-spectrogram",
+  "version": "0.0.10",
+  "summary": "Phase-preserving spectrogram encoder/decoder for high-quality audio reconstruction",
+  "author": "Neurlang Project",
+  "license": "MIT",
+  "home_page": "https://github.com/neurlang/gomel",
+  "download_filename": "phase_spectrogram-0.0.10.tar.gz",
+  "download_time": "2026-03-13T17:39:14.850285",
+  "package_url": "https://pypi.org/project/phase-spectrogram/"
+}

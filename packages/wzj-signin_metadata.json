@@ -1,0 +1,11 @@
+{
+  "name": "wzj-signin",
+  "version": "0.1.1",
+  "summary": "Auto sign-in tool for TeacherMate (WeZhiJiao)",
+  "author": "huangliang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wzj_signin-0.1.1.tar.gz",
+  "download_time": "2026-03-13T17:39:16.431291",
+  "package_url": "https://pypi.org/project/wzj-signin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "depraptor",
+  "version": "1.0.0",
+  "summary": "Dependency Confusion Vulnerability Scanner and PoC Generator",
+  "author": "LAKSHMIKANTHAN K (letchupkt)",
+  "license": "MIT",
+  "home_page": "https://github.com/letchupkt/depraptor",
+  "download_filename": "depraptor-1.0.0.tar.gz",
+  "download_time": "2026-03-13T17:38:34.423406",
+  "package_url": "https://pypi.org/project/depraptor/"
+}

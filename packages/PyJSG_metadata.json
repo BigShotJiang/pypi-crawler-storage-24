@@ -1,11 +1,11 @@
 {
   "name": "PyJSG",
-  "version": "0.12.0",
+  "version": "0.12.2",
   "summary": "Python JSON Schema Grammar interpreter",
   "author": null,
   "license": "CC0 1.0 Universal",
   "home_page": null,
-  "download_filename": "pyjsg-0.12.0.tar.gz",
-  "download_time": "2026-03-13T17:00:16.249149",
+  "download_filename": "pyjsg-0.12.2.tar.gz",
+  "download_time": "2026-03-13T17:38:40.163104",
   "package_url": "https://pypi.org/project/PyJSG/"
 }

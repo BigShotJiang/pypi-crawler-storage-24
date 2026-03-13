@@ -1,11 +1,11 @@
 {
   "name": "pure-python-ds",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "A strictly typed, 100% test-covered data structures and algorithms library.",
   "author": "Parjad Minooei",
   "license": null,
   "home_page": null,
-  "download_filename": "pure_python_ds-1.0.3.tar.gz",
-  "download_time": "2026-03-07T23:56:57.904549",
+  "download_filename": "pure_python_ds-1.0.5.tar.gz",
+  "download_time": "2026-03-13T17:38:41.724370",
   "package_url": "https://pypi.org/project/pure-python-ds/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "blazematch",
+  "version": "0.1.1",
+  "summary": "Rust-accelerated record linkage at scale",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blazematch-0.1.1.tar.gz",
+  "download_time": "2026-03-13T17:38:37.030199",
+  "package_url": "https://pypi.org/project/blazematch/"
+}

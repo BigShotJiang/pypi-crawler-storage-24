@@ -1,0 +1,11 @@
+{
+  "name": "pgzhelper",
+  "version": "0.0.4",
+  "summary": "Helper package for pgzero. Includes added support and documentation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgzhelper-0.0.4.tar.gz",
+  "download_time": "2026-03-13T17:39:11.192430",
+  "package_url": "https://pypi.org/project/pgzhelper/"
+}

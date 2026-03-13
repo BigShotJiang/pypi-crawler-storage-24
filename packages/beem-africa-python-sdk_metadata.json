@@ -1,0 +1,11 @@
+{
+  "name": "beem-africa-python-sdk",
+  "version": "0.2.1",
+  "summary": "Enterprise-ready Python SDK for Beem Africa (SMS + OTP)",
+  "author": "Jordan Kalebu",
+  "license": "MIT",
+  "home_page": "https://github.com/beem-africa/python-client",
+  "download_filename": "beem_africa_python_sdk-0.2.1.tar.gz",
+  "download_time": "2026-03-13T17:38:45.991364",
+  "package_url": "https://pypi.org/project/beem-africa-python-sdk/"
+}

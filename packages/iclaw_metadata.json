@@ -1,0 +1,11 @@
+{
+  "name": "iclaw",
+  "version": "0.1.5",
+  "summary": "Autonomous iterative coding agent, ship while you sleep",
+  "author": "Andy Phu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iclaw-0.1.5-py3-none-any.whl",
+  "download_time": "2026-03-13T17:38:29.191306",
+  "package_url": "https://pypi.org/project/iclaw/"
+}

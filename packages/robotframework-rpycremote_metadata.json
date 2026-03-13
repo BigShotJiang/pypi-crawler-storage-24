@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-rpycremote",
+  "version": "0.0.22",
+  "summary": "Robot Framework Remote Library based on RPyC",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robotframework_rpycremote-0.0.22.tar.gz",
+  "download_time": "2026-03-13T17:39:10.670903",
+  "package_url": "https://pypi.org/project/robotframework-rpycremote/"
+}

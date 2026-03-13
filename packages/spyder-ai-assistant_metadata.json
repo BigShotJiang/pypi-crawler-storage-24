@@ -1,11 +1,11 @@
 {
   "name": "spyder-ai-assistant",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "AI chat and code completion plugin for Spyder IDE using local Ollama models",
   "author": "Andrea Ivan Costantino",
-  "license": "CC-BY-NC-4.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "spyder_ai_assistant-0.2.0.tar.gz",
-  "download_time": "2026-03-11T16:35:26.972021",
+  "download_filename": "spyder_ai_assistant-0.5.0.tar.gz",
+  "download_time": "2026-03-13T17:38:35.988235",
   "package_url": "https://pypi.org/project/spyder-ai-assistant/"
 }

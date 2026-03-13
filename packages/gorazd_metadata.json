@@ -1,11 +1,11 @@
 {
   "name": "gorazd",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Institutional quantitative execution and physical reality matrix.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gorazd-0.3.0-py3-none-any.whl",
-  "download_time": "2026-03-13T03:57:11.360110",
+  "download_filename": "gorazd-0.3.1-py3-none-any.whl",
+  "download_time": "2026-03-13T17:39:14.331248",
   "package_url": "https://pypi.org/project/gorazd/"
 }
