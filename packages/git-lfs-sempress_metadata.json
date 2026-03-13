@@ -1,0 +1,11 @@
+{
+  "name": "git-lfs-sempress",
+  "version": "0.1.0",
+  "summary": "Git LFS filter for semantic compression of CSV files",
+  "author": "Keaton Anderson",
+  "license": null,
+  "home_page": "https://github.com/jalyper/git-lfs-sempress",
+  "download_filename": "git_lfs_sempress-0.1.0.tar.gz",
+  "download_time": "2026-03-13T03:57:10.756457",
+  "package_url": "https://pypi.org/project/git-lfs-sempress/"
+}

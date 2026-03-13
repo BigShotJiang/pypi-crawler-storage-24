@@ -1,0 +1,11 @@
+{
+  "name": "negative-skills",
+  "version": "0.1.0",
+  "summary": "Turn your Claude frustrations into installable constraint files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "negative_skills-0.1.0.tar.gz",
+  "download_time": "2026-03-13T03:57:11.895816",
+  "package_url": "https://pypi.org/project/negative-skills/"
+}

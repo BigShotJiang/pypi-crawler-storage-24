@@ -1,0 +1,11 @@
+{
+  "name": "telix",
+  "version": "0.1.1",
+  "summary": "A TUI telnet, WebSocket, and MUD client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "telix-0.1.1.tar.gz",
+  "download_time": "2026-03-13T03:57:03.547739",
+  "package_url": "https://pypi.org/project/telix/"
+}

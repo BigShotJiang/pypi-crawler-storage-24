@@ -1,0 +1,11 @@
+{
+  "name": "sempress",
+  "version": "0.3.1",
+  "summary": "Semantic compression for tabular data and images using vector quantization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sempress-0.3.1.tar.gz",
+  "download_time": "2026-03-13T03:57:19.273376",
+  "package_url": "https://pypi.org/project/sempress/"
+}

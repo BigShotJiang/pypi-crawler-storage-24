@@ -1,0 +1,11 @@
+{
+  "name": "neumann-db",
+  "version": "0.4.0",
+  "summary": "Python SDK for Neumann database",
+  "author": "Neumann Team",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "neumann_db-0.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-03-13T03:57:04.977793",
+  "package_url": "https://pypi.org/project/neumann-db/"
+}

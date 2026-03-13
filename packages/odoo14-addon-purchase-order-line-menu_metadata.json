@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-purchase-order-line-menu",
+  "version": "14.0.1.0.1.dev15",
+  "summary": "Adds Purchase Order Lines Menu",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo14_addon_purchase_order_line_menu-14.0.1.0.1.dev15-py3-none-any.whl",
+  "download_time": "2026-03-13T03:56:58.614440",
+  "package_url": "https://pypi.org/project/odoo14-addon-purchase-order-line-menu/"
+}

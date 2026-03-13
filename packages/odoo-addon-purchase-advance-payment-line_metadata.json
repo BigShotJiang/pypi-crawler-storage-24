@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-purchase-advance-payment-line",
-  "version": "17.0.1.0.0.2",
+  "version": "17.0.1.0.0.4",
   "summary": "Allow to add advance payment lines on purchase orders",
   "author": "Camptocamp,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/purchase-workflow",
-  "download_filename": "odoo_addon_purchase_advance_payment_line-17.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2026-03-10T17:31:44.191536",
+  "download_filename": "odoo_addon_purchase_advance_payment_line-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-03-13T03:56:57.516825",
   "package_url": "https://pypi.org/project/odoo-addon-purchase-advance-payment-line/"
 }

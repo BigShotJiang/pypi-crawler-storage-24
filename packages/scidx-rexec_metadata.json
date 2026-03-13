@@ -1,0 +1,11 @@
+{
+  "name": "scidx-rexec",
+  "version": "0.0.8",
+  "summary": "Client library for SciDX Remote Execution",
+  "author": "Yutian Qin",
+  "license": null,
+  "home_page": "https://github.com/sci-ndp/SciDx-rexec",
+  "download_filename": "scidx_rexec-0.0.8.tar.gz",
+  "download_time": "2026-03-13T03:57:06.697982",
+  "package_url": "https://pypi.org/project/scidx-rexec/"
+}

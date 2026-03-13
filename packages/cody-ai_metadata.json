@@ -1,11 +1,11 @@
 {
   "name": "cody-ai",
-  "version": "1.10.1",
+  "version": "1.10.2",
   "summary": "Open-source AI Coding Agent framework with SDK, Skills, and MCP integration",
   "author": "GouChao",
   "license": null,
   "home_page": null,
-  "download_filename": "cody_ai-1.10.1.tar.gz",
-  "download_time": "2026-03-12T19:54:24.451276",
+  "download_filename": "cody_ai-1.10.2.tar.gz",
+  "download_time": "2026-03-13T03:57:16.956528",
   "package_url": "https://pypi.org/project/cody-ai/"
 }
