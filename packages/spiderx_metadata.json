@@ -1,11 +1,11 @@
 {
   "name": "spiderx",
-  "version": "1.12.84",
+  "version": "1.12.85",
   "summary": "爬虫函数集 爬虫工具类",
   "author": "wgnms",
   "license": "https://pypi.org/project/spiderx/",
   "home_page": "https://pypi.org/project/spiderx/",
-  "download_filename": "spiderx-1.12.84-py3-none-any.whl",
-  "download_time": "2026-03-12T04:12:36.724985",
+  "download_filename": "spiderx-1.12.85-py3-none-any.whl",
+  "download_time": "2026-03-13T08:36:57.041977",
   "package_url": "https://pypi.org/project/spiderx/"
 }

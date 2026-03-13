@@ -1,0 +1,11 @@
+{
+  "name": "skill-graph-mcp",
+  "version": "0.1.0",
+  "summary": "Knowledge graph + vector search for AI agent skill discovery",
+  "author": "Julian Saks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skill_graph_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-13T08:36:38.053692",
+  "package_url": "https://pypi.org/project/skill-graph-mcp/"
+}

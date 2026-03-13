@@ -1,0 +1,11 @@
+{
+  "name": "genx3",
+  "version": "3.8.8",
+  "summary": "X-ray and Neutron reflectivity fitting software.",
+  "author": "Artur Glavic, Matts Bjorck",
+  "license": "GPL v3",
+  "home_page": "https://github.com/aglavic/genx",
+  "download_filename": "genx3-3.8.8.tar.gz",
+  "download_time": "2026-03-13T08:36:14.685185",
+  "package_url": "https://pypi.org/project/genx3/"
+}

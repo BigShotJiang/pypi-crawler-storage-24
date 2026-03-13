@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-volcengine",
+  "version": "0.0.47",
+  "summary": "A Pulumi package for creating and managing volcengine cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://volcengine.com",
+  "download_filename": "pulumi_volcengine-0.0.47.tar.gz",
+  "download_time": "2026-03-13T08:36:29.098812",
+  "package_url": "https://pypi.org/project/pulumi-volcengine/"
+}

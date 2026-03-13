@@ -1,11 +1,11 @@
 {
   "name": "sandwitches",
-  "version": "2.9.10",
+  "version": "2.10.1",
   "summary": "Add your description here",
   "author": "Martyn van Dijke",
   "license": null,
   "home_page": null,
-  "download_filename": "sandwitches-2.9.10.tar.gz",
-  "download_time": "2026-03-08T16:33:44.466131",
+  "download_filename": "sandwitches-2.10.1.tar.gz",
+  "download_time": "2026-03-13T08:36:38.564200",
   "package_url": "https://pypi.org/project/sandwitches/"
 }

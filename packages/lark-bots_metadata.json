@@ -1,0 +1,11 @@
+{
+  "name": "lark-bots",
+  "version": "0.1.0rc1",
+  "summary": "Lark Bot Python SDK",
+  "author": "Rocky Haotian Du",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lark_bots-0.1.0rc1.tar.gz",
+  "download_time": "2026-03-13T08:36:15.195339",
+  "package_url": "https://pypi.org/project/lark-bots/"
+}

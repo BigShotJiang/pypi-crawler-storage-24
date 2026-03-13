@@ -1,0 +1,11 @@
+{
+  "name": "litellm-util",
+  "version": "0.1.0",
+  "summary": "CLI tool for managing LiteLLM Proxy Server",
+  "author": "Hao Nguyen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litellm_util-0.1.0.tar.gz",
+  "download_time": "2026-03-13T08:36:51.862484",
+  "package_url": "https://pypi.org/project/litellm-util/"
+}

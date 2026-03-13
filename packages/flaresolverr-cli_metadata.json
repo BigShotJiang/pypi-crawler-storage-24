@@ -1,0 +1,11 @@
+{
+  "name": "flaresolverr-cli",
+  "version": "0.3.7",
+  "summary": "A requests.Session that proxies through a FlareSolverr instance.",
+  "author": "Xavier-Lam",
+  "license": "MIT",
+  "home_page": "https://github.com/Xavier-Lam/FlareSolverrSession",
+  "download_filename": "flaresolverr_cli-0.3.7.tar.gz",
+  "download_time": "2026-03-13T08:36:45.927663",
+  "package_url": "https://pypi.org/project/flaresolverr-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "acemd",
+  "version": "4.0.20",
+  "summary": "ACEMD is the next generation molecular dynamic simulation software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acemd-4.0.20.tar.gz",
+  "download_time": "2026-03-13T08:36:17.969238",
+  "package_url": "https://pypi.org/project/acemd/"
+}

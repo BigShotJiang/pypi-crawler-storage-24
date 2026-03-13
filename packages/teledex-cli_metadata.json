@@ -1,11 +1,11 @@
 {
   "name": "teledex-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Bridge a local Codex CLI session to Telegram on macOS.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "teledex_cli-0.1.0.tar.gz",
-  "download_time": "2026-03-13T07:58:08.405011",
+  "download_filename": "teledex_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-13T08:36:27.742997",
   "package_url": "https://pypi.org/project/teledex-cli/"
 }

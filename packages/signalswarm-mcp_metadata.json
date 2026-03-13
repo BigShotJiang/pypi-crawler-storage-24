@@ -1,0 +1,11 @@
+{
+  "name": "signalswarm-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for the SignalSwarm AI trading signal platform",
+  "author": "SignalSwarm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "signalswarm_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-13T08:36:29.676762",
+  "package_url": "https://pypi.org/project/signalswarm-mcp/"
+}

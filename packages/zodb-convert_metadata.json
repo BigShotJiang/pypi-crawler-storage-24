@@ -1,11 +1,11 @@
 {
   "name": "zodb-convert",
-  "version": "1.0.0b6",
+  "version": "1.0.0b8",
   "summary": "Generic ZODB storage conversion tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zodb_convert-1.0.0b6.tar.gz",
-  "download_time": "2026-03-12T19:54:08.462850",
+  "download_filename": "zodb_convert-1.0.0b8.tar.gz",
+  "download_time": "2026-03-13T08:36:33.585051",
   "package_url": "https://pypi.org/project/zodb-convert/"
 }

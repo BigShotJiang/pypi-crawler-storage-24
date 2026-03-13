@@ -1,0 +1,11 @@
+{
+  "name": "ofxstatement-bancoposta",
+  "version": "1.0.5",
+  "summary": "Bancoposta plugin for ofxstatement",
+  "author": "Lorenzo Giudici",
+  "license": "GPLv3",
+  "home_page": "https://github.com/lorenzogiudici5/ofxstatement-bancoposta",
+  "download_filename": "ofxstatement_bancoposta-1.0.5.tar.gz",
+  "download_time": "2026-03-13T08:37:00.422766",
+  "package_url": "https://pypi.org/project/ofxstatement-bancoposta/"
+}

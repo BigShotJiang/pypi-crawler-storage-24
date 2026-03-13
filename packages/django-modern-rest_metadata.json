@@ -1,0 +1,11 @@
+{
+  "name": "django-modern-rest",
+  "version": "0.0.1",
+  "summary": "Modern REST framework for Django with types and async support",
+  "author": "Nikita Sobolev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_modern_rest-0.0.1.tar.gz",
+  "download_time": "2026-03-13T08:36:20.211960",
+  "package_url": "https://pypi.org/project/django-modern-rest/"
+}

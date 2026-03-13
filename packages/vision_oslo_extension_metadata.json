@@ -1,0 +1,11 @@
+{
+  "name": "vision_oslo_extension",
+  "version": "3.15.0",
+  "summary": "This is the package to support additional features on VISION-OSLO, software owned by Network Rail Infrastructure Limited.",
+  "author": "Jieming Ye",
+  "license": "Open Source Non-Commercial License (OSNCL) v1.0",
+  "home_page": null,
+  "download_filename": "vision_oslo_extension-3.15.0.tar.gz",
+  "download_time": "2026-03-13T08:36:53.649078",
+  "package_url": "https://pypi.org/project/vision_oslo_extension/"
+}

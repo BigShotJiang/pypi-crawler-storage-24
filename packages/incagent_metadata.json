@@ -1,0 +1,11 @@
+{
+  "name": "incagent",
+  "version": "0.4.0",
+  "summary": "Open protocol for autonomous AI-to-AI corporate transactions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "incagent-0.4.0.tar.gz",
+  "download_time": "2026-03-13T08:36:35.879168",
+  "package_url": "https://pypi.org/project/incagent/"
+}
