@@ -1,0 +1,11 @@
+{
+  "name": "silma-tts",
+  "version": "1.0.0",
+  "summary": "A high quality bilingual text to speech model",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "silma_tts-1.0.0.tar.gz",
+  "download_time": "2026-03-13T21:50:44.757119",
+  "package_url": "https://pypi.org/project/silma-tts/"
+}

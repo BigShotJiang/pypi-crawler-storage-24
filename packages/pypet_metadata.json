@@ -1,0 +1,11 @@
+{
+  "name": "pypet",
+  "version": "0.7.0",
+  "summary": "A toolkit for numerical simulations to allow easy parameter exploration and storage of results.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypet-0.7.0.tar.gz",
+  "download_time": "2026-03-13T21:50:11.172912",
+  "package_url": "https://pypi.org/project/pypet/"
+}

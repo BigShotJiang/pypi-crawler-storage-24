@@ -1,11 +1,11 @@
 {
   "name": "tokencalc",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "CLI tool and library for calculating Claude API token costs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tokencalc-0.2.0.tar.gz",
-  "download_time": "2026-03-13T21:03:25.576770",
+  "download_filename": "tokencalc-0.3.1.tar.gz",
+  "download_time": "2026-03-13T21:50:45.776691",
   "package_url": "https://pypi.org/project/tokencalc/"
 }

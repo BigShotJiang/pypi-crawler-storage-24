@@ -1,0 +1,11 @@
+{
+  "name": "gitmem-mcp",
+  "version": "0.0.0",
+  "summary": "GitMem MCP Server - Token-Efficient Codebase Navigation for AI Agents",
+  "author": "Agent Architects Studio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitmem_mcp-0.0.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-13T21:50:37.013523",
+  "package_url": "https://pypi.org/project/gitmem-mcp/"
+}

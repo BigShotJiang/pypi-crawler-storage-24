@@ -1,0 +1,11 @@
+{
+  "name": "oceanproc",
+  "version": "1.2.1",
+  "summary": "MRI preprocessing for WUSTL Ocean labs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oceanproc-1.2.1.tar.gz",
+  "download_time": "2026-03-13T21:50:27.679755",
+  "package_url": "https://pypi.org/project/oceanproc/"
+}

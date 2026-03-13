@@ -1,0 +1,11 @@
+{
+  "name": "scitokens",
+  "version": "1.9.7",
+  "summary": "SciToken reference implementation library",
+  "author": "Brian Bockelman",
+  "license": "Apache-2.0",
+  "home_page": "https://scitokens.org",
+  "download_filename": "scitokens-1.9.7.tar.gz",
+  "download_time": "2026-03-13T21:50:47.835231",
+  "package_url": "https://pypi.org/project/scitokens/"
+}

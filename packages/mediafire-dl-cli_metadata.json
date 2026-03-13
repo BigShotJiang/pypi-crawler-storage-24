@@ -1,0 +1,11 @@
+{
+  "name": "mediafire-dl-cli",
+  "version": "1.1.0",
+  "summary": "Robust MediaFire downloader with auto-resume, custom headers, retries, and bulk support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mediafire_dl_cli-1.1.0.tar.gz",
+  "download_time": "2026-03-13T21:50:24.073201",
+  "package_url": "https://pypi.org/project/mediafire-dl-cli/"
+}

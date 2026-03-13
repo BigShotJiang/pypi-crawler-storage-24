@@ -1,0 +1,11 @@
+{
+  "name": "llmport-cli",
+  "version": "0.2.1",
+  "summary": "CLI installer and management tool for the llm.port platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmport_cli-0.2.1.tar.gz",
+  "download_time": "2026-03-13T21:50:40.630632",
+  "package_url": "https://pypi.org/project/llmport-cli/"
+}

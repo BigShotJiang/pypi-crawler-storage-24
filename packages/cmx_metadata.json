@@ -1,0 +1,11 @@
+{
+  "name": "cmx",
+  "version": "0.0.47",
+  "summary": "REPL with Python Scripts via live documents - A documentation library for creating interactive markdown documentation from Python code",
+  "author": "Ge Yang<ge.ike.yang@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/cmx/cmx-python",
+  "download_filename": "cmx-0.0.47.tar.gz",
+  "download_time": "2026-03-13T21:50:41.145106",
+  "package_url": "https://pypi.org/project/cmx/"
+}

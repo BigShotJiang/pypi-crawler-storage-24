@@ -1,0 +1,11 @@
+{
+  "name": "aegis-governance",
+  "version": "1.1.0",
+  "summary": "AEGIS Governance Decision SDK — quantitative governance toolkit for engineering decisions",
+  "author": "AEGIS Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aegis_governance-1.1.0.tar.gz",
+  "download_time": "2026-03-13T21:50:33.914320",
+  "package_url": "https://pypi.org/project/aegis-governance/"
+}

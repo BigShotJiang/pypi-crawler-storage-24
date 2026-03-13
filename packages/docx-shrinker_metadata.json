@@ -1,0 +1,11 @@
+{
+  "name": "docx-shrinker",
+  "version": "0.1.0",
+  "summary": "Shrink and sanitize Word (.docx) documents by converting Visio embeddings, compressing images, and stripping metadata",
+  "author": "cognitohazard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docx_shrinker-0.1.0.tar.gz",
+  "download_time": "2026-03-13T21:50:12.206190",
+  "package_url": "https://pypi.org/project/docx-shrinker/"
+}

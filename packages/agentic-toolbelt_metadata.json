@@ -1,0 +1,11 @@
+{
+  "name": "agentic-toolbelt",
+  "version": "0.1.6",
+  "summary": "Installs this folder's AGENTS and .codex/.agents content as package data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_toolbelt-0.1.6.tar.gz",
+  "download_time": "2026-03-13T21:50:47.321549",
+  "package_url": "https://pypi.org/project/agentic-toolbelt/"
+}

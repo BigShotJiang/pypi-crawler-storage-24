@@ -1,0 +1,11 @@
+{
+  "name": "ubipod",
+  "version": "0.9.0",
+  "summary": "Loads and saves UbiSoft Pod file formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ubipod-0.9.0.tar.gz",
+  "download_time": "2026-03-13T21:50:29.276918",
+  "package_url": "https://pypi.org/project/ubipod/"
+}
