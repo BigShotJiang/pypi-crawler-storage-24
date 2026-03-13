@@ -1,0 +1,11 @@
+{
+  "name": "wt-contracts",
+  "version": "0.1.2",
+  "summary": "Shared interface contracts for wt workflow packages",
+  "author": "wt Contributors",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "wt_contracts-0.1.2.tar.gz",
+  "download_time": "2026-03-13T20:30:47.166634",
+  "package_url": "https://pypi.org/project/wt-contracts/"
+}

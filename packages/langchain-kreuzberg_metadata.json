@@ -1,0 +1,11 @@
+{
+  "name": "langchain-kreuzberg",
+  "version": "1.0.2",
+  "summary": "Kreuzberg document loader for LangChain — extract text from 88+ file formats with true async and rich metadata",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_kreuzberg-1.0.2.tar.gz",
+  "download_time": "2026-03-13T20:30:20.228101",
+  "package_url": "https://pypi.org/project/langchain-kreuzberg/"
+}

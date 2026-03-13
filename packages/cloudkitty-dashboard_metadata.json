@@ -1,0 +1,11 @@
+{
+  "name": "cloudkitty-dashboard",
+  "version": "21.0.0",
+  "summary": "CloudKitty Horizon dashboard",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/cloudkitty-dashboard/latest/",
+  "download_filename": "cloudkitty_dashboard-21.0.0.tar.gz",
+  "download_time": "2026-03-13T20:30:31.160239",
+  "package_url": "https://pypi.org/project/cloudkitty-dashboard/"
+}

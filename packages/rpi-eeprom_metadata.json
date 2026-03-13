@@ -1,0 +1,11 @@
+{
+  "name": "rpi-eeprom",
+  "version": "1.1.0",
+  "summary": "Raspberry Pi EEPROM management tool for reading, writing, and managing EEPROM content on RPi HAT devices",
+  "author": "Ubopod",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpi_eeprom-1.1.0.tar.gz",
+  "download_time": "2026-03-13T20:30:10.065289",
+  "package_url": "https://pypi.org/project/rpi-eeprom/"
+}

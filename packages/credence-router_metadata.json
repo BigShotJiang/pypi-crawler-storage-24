@@ -1,11 +1,11 @@
 {
   "name": "credence-router",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "summary": "Transparent, cost-optimal tool routing via EU maximisation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "credence_router-0.1.0.tar.gz",
-  "download_time": "2026-03-12T15:12:55.837930",
+  "download_filename": "credence_router-0.3.1.tar.gz",
+  "download_time": "2026-03-13T20:30:53.846481",
   "package_url": "https://pypi.org/project/credence-router/"
 }

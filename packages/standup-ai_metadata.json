@@ -1,0 +1,11 @@
+{
+  "name": "standup-ai",
+  "version": "0.1.0",
+  "summary": "Generate your daily standup from git history using AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "standup_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-13T20:30:26.990596",
+  "package_url": "https://pypi.org/project/standup-ai/"
+}

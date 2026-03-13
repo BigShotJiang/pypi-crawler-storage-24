@@ -1,11 +1,11 @@
 {
   "name": "pysemantic-layer",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python Open-source semantic layer for Data engineers",
   "author": "Nitesh Jangir",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pysemantic_layer-0.1.4.tar.gz",
-  "download_time": "2026-03-07T20:47:34.427343",
+  "download_filename": "pysemantic_layer-0.1.5.tar.gz",
+  "download_time": "2026-03-13T20:30:11.133992",
   "package_url": "https://pypi.org/project/pysemantic-layer/"
 }

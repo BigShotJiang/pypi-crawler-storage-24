@@ -1,11 +1,11 @@
 {
   "name": "elnora",
-  "version": "0.6.1",
+  "version": "0.7.1",
   "summary": "CLI for the Elnora AI platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elnora-0.6.1.tar.gz",
-  "download_time": "2026-03-07T23:44:35.942389",
+  "download_filename": "elnora-0.7.1.tar.gz",
+  "download_time": "2026-03-13T20:30:21.254408",
   "package_url": "https://pypi.org/project/elnora/"
 }

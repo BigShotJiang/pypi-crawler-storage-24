@@ -1,0 +1,11 @@
+{
+  "name": "glance",
+  "version": "31.0.0",
+  "summary": "OpenStack Image Service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/glance/latest/",
+  "download_filename": "glance-31.0.0.tar.gz",
+  "download_time": "2026-03-13T20:30:25.446235",
+  "package_url": "https://pypi.org/project/glance/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bipolarization",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Detect and quantify polarization and consensus in survey data using weighted kernel scoring and bootstrap inference.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bipolarization-0.1.0.tar.gz",
-  "download_time": "2026-03-13T13:49:48.096060",
+  "download_filename": "bipolarization-0.1.2.tar.gz",
+  "download_time": "2026-03-13T20:30:28.553331",
   "package_url": "https://pypi.org/project/bipolarization/"
 }

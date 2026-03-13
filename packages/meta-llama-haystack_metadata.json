@@ -1,0 +1,11 @@
+{
+  "name": "meta-llama-haystack",
+  "version": "2.2.0",
+  "summary": "Use Llama models via Llama API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meta_llama_haystack-2.2.0.tar.gz",
+  "download_time": "2026-03-13T20:30:47.676989",
+  "package_url": "https://pypi.org/project/meta-llama-haystack/"
+}

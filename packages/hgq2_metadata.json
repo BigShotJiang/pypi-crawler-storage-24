@@ -1,0 +1,11 @@
+{
+  "name": "hgq2",
+  "version": "0.1.8",
+  "summary": "High Granularity Quantization 2",
+  "author": null,
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": null,
+  "download_filename": "hgq2-0.1.8.tar.gz",
+  "download_time": "2026-03-13T20:30:51.281256",
+  "package_url": "https://pypi.org/project/hgq2/"
+}
