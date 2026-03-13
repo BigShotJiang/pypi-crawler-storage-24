@@ -1,0 +1,11 @@
+{
+  "name": "libgranola",
+  "version": "0.1.0",
+  "summary": "Python library to read local Granola meeting notes",
+  "author": "Guido Appenzeller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libgranola-0.1.0.tar.gz",
+  "download_time": "2026-03-13T21:03:53.651734",
+  "package_url": "https://pypi.org/project/libgranola/"
+}

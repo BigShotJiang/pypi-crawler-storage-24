@@ -1,0 +1,11 @@
+{
+  "name": "qodalis-cli-server-plugin-filesystem-json",
+  "version": "1.0.0b1",
+  "summary": "JSON file-based storage provider for the Qodalis CLI filesystem plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qodalis_cli_server_plugin_filesystem_json-1.0.0b1.tar.gz",
+  "download_time": "2026-03-13T21:04:07.557140",
+  "package_url": "https://pypi.org/project/qodalis-cli-server-plugin-filesystem-json/"
+}

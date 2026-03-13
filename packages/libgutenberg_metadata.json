@@ -1,0 +1,11 @@
+{
+  "name": "libgutenberg",
+  "version": "0.10.34",
+  "summary": "Common files used by Project Gutenberg python projects.",
+  "author": "Marcello Perathoner",
+  "license": "GPL v3",
+  "home_page": "https://github.com/gutenbergtools/libgutenberg/",
+  "download_filename": "libgutenberg-0.10.34.tar.gz",
+  "download_time": "2026-03-13T21:03:47.161129",
+  "package_url": "https://pypi.org/project/libgutenberg/"
+}

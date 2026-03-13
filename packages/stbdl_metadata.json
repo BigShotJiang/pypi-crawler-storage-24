@@ -1,11 +1,11 @@
 {
   "name": "stbdl",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A simple taskbar decoration library",
   "author": "enstarep",
   "license": "MIT",
   "home_page": "https://github.com/theembodimentofdisharmony/stbdl",
-  "download_filename": "stbdl-0.5.0.tar.gz",
-  "download_time": "2026-03-11T21:04:51.451966",
+  "download_filename": "stbdl-0.5.1.tar.gz",
+  "download_time": "2026-03-13T21:03:26.639076",
   "package_url": "https://pypi.org/project/stbdl/"
 }

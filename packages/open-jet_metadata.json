@@ -1,0 +1,11 @@
+{
+  "name": "open-jet",
+  "version": "0.1.8",
+  "summary": "Offline local-LLM terminal app for Jetson and edge Linux: chat with on-device models, run agent tools, and manage context safely.",
+  "author": "Louis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_jet-0.1.8-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+  "download_time": "2026-03-13T21:03:35.882681",
+  "package_url": "https://pypi.org/project/open-jet/"
+}

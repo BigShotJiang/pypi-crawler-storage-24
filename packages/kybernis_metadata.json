@@ -1,0 +1,11 @@
+{
+  "name": "kybernis",
+  "version": "0.1.4",
+  "summary": "Kybernis Python SDK",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Wingrammer/kybernis",
+  "download_filename": "kybernis-0.1.4.tar.gz",
+  "download_time": "2026-03-13T21:03:34.185574",
+  "package_url": "https://pypi.org/project/kybernis/"
+}

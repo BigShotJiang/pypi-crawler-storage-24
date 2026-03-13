@@ -1,0 +1,11 @@
+{
+  "name": "qodalis-cli-server-plugin-filesystem-s3",
+  "version": "1.0.0b1",
+  "summary": "AWS S3-based storage provider for the Qodalis CLI filesystem plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qodalis_cli_server_plugin_filesystem_s3-1.0.0b1.tar.gz",
+  "download_time": "2026-03-13T21:04:05.396885",
+  "package_url": "https://pypi.org/project/qodalis-cli-server-plugin-filesystem-s3/"
+}

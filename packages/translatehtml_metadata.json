@@ -1,0 +1,11 @@
+{
+  "name": "translatehtml",
+  "version": "1.5.3",
+  "summary": "Translate HTML using Beautiful Soup and Argos Translate",
+  "author": "P.J. Finlay",
+  "license": null,
+  "home_page": "https://www.argosopentech.com",
+  "download_filename": "translatehtml-1.5.3.tar.gz",
+  "download_time": "2026-03-13T21:03:16.662668",
+  "package_url": "https://pypi.org/project/translatehtml/"
+}

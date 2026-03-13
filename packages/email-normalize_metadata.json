@@ -1,0 +1,11 @@
+{
+  "name": "email-normalize",
+  "version": "3.0.0",
+  "summary": "Return a normalized email-address stripping ISP specific behaviors",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "email_normalize-3.0.0.tar.gz",
+  "download_time": "2026-03-13T21:03:22.812298",
+  "package_url": "https://pypi.org/project/email-normalize/"
+}

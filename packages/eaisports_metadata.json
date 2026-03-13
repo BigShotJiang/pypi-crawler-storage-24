@@ -1,11 +1,11 @@
 {
   "name": "eaisports",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "AI-powered game building CLI — creators use their own AI compute to build browser games, then publish to eaisports.ai",
   "author": "EAISports",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eaisports-0.1.11.tar.gz",
-  "download_time": "2026-03-13T20:30:18.146843",
+  "download_filename": "eaisports-0.1.13.tar.gz",
+  "download_time": "2026-03-13T21:03:53.118485",
   "package_url": "https://pypi.org/project/eaisports/"
 }

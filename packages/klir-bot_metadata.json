@@ -1,11 +1,11 @@
 {
   "name": "klir-bot",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Control AI coding CLIs from Telegram. Live streaming, sessions, cron jobs, webhooks. Originally forked from ductor by PleasePrompto.",
   "author": "Jinay Shah",
   "license": null,
   "home_page": null,
-  "download_filename": "klir_bot-0.4.0.tar.gz",
-  "download_time": "2026-03-12T05:10:12.137172",
+  "download_filename": "klir_bot-0.6.0.tar.gz",
+  "download_time": "2026-03-13T21:03:37.486611",
   "package_url": "https://pypi.org/project/klir-bot/"
 }

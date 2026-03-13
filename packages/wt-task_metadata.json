@@ -1,0 +1,11 @@
+{
+  "name": "wt-task",
+  "version": "0.1.2",
+  "summary": "Task decorator and execution features for wt ecosystem",
+  "author": "Ecoscope Workflows Team",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "wt_task-0.1.2.tar.gz",
+  "download_time": "2026-03-13T21:03:22.261511",
+  "package_url": "https://pypi.org/project/wt-task/"
+}

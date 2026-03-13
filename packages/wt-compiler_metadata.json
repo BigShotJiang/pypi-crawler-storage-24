@@ -1,0 +1,11 @@
+{
+  "name": "wt-compiler",
+  "version": "0.2.0",
+  "summary": "Workflow compiler for generating DAG artifacts from workflow specifications",
+  "author": "Ecoscope Team",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "wt_compiler-0.2.0.tar.gz",
+  "download_time": "2026-03-13T21:03:18.925857",
+  "package_url": "https://pypi.org/project/wt-compiler/"
+}

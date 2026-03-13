@@ -1,11 +1,11 @@
 {
   "name": "ftagent",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "Flowtriq DDoS Detection Agent — real-time traffic monitoring, incident detection, PCAP capture, and auto-mitigation",
   "author": null,
   "license": "Other/Proprietary License",
   "home_page": null,
-  "download_filename": "ftagent-1.1.5.tar.gz",
-  "download_time": "2026-03-13T05:14:06.311597",
+  "download_filename": "ftagent-1.1.6.tar.gz",
+  "download_time": "2026-03-13T21:03:19.474885",
   "package_url": "https://pypi.org/project/ftagent/"
 }
