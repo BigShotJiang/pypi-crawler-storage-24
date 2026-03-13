@@ -1,0 +1,11 @@
+{
+  "name": "invenio-config-tugraz",
+  "version": "0.14.1",
+  "summary": "\"Invenio module that adds tugraz configs.\"",
+  "author": "\"Graz University of Technology\"",
+  "license": "MIT",
+  "home_page": "https://github.com/tu-graz-library/invenio-config-tugraz",
+  "download_filename": "invenio_config_tugraz-0.14.1.tar.gz",
+  "download_time": "2026-03-13T10:06:02.474436",
+  "package_url": "https://pypi.org/project/invenio-config-tugraz/"
+}

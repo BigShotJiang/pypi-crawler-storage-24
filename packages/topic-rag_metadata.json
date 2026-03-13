@@ -1,11 +1,11 @@
 {
   "name": "topic-rag",
-  "version": "1.0.1",
-  "summary": "Topic-Enhanced Retrieval-Augmented Generation Library",
+  "version": "1.0.3",
+  "summary": "Lightweight topic-aware document processing and retrieval",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "topic_rag-1.0.1.tar.gz",
-  "download_time": "2026-03-13T09:26:39.379103",
+  "download_filename": "topic_rag-1.0.3.tar.gz",
+  "download_time": "2026-03-13T10:06:05.057387",
   "package_url": "https://pypi.org/project/topic-rag/"
 }

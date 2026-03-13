@@ -1,11 +1,11 @@
 {
   "name": "holoviz-utils",
-  "version": "0.3.18",
+  "version": "0.3.19",
   "summary": "A Python package for HoloViz utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "holoviz_utils-0.3.18.tar.gz",
-  "download_time": "2026-03-12T10:09:08.865988",
+  "download_filename": "holoviz_utils-0.3.19.tar.gz",
+  "download_time": "2026-03-13T10:05:46.040455",
   "package_url": "https://pypi.org/project/holoviz-utils/"
 }

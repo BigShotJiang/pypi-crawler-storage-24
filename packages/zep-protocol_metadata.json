@@ -1,11 +1,11 @@
 {
   "name": "zep-protocol",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "ZEP — Zero Echo Pipe: lightweight inter-program communication protocol",
   "author": "zeroechosoft",
   "license": null,
   "home_page": null,
-  "download_filename": "zep_protocol-0.2.0.tar.gz",
-  "download_time": "2026-03-13T08:36:47.015399",
+  "download_filename": "zep_protocol-0.3.0.tar.gz",
+  "download_time": "2026-03-13T10:06:36.933387",
   "package_url": "https://pypi.org/project/zep-protocol/"
 }

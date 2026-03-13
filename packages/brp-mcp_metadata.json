@@ -1,11 +1,11 @@
 {
   "name": "brp-mcp",
-  "version": "0.1.5",
+  "version": "0.1.10",
   "summary": "Standalone FastMCP server generated from BRP gateway OpenAPI spec.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brp_mcp-0.1.5.tar.gz",
-  "download_time": "2026-03-11T13:39:36.146701",
+  "download_filename": "brp_mcp-0.1.10.tar.gz",
+  "download_time": "2026-03-13T10:05:59.821634",
   "package_url": "https://pypi.org/project/brp-mcp/"
 }

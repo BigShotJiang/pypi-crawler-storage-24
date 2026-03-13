@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-uninfo",
+  "version": "0.11.0",
+  "summary": "Universal Information Model for Nonebot2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_uninfo-0.11.0.tar.gz",
+  "download_time": "2026-03-13T10:05:47.205914",
+  "package_url": "https://pypi.org/project/nonebot-plugin-uninfo/"
+}

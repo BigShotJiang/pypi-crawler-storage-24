@@ -1,0 +1,11 @@
+{
+  "name": "git-explain",
+  "version": "1.1.2",
+  "summary": "CLI that suggests git add/commit from diffs using Gemini",
+  "author": "git-explain contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_explain-1.1.2.tar.gz",
+  "download_time": "2026-03-13T10:06:08.146065",
+  "package_url": "https://pypi.org/project/git-explain/"
+}

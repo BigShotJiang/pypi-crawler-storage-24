@@ -1,0 +1,11 @@
+{
+  "name": "oiafed",
+  "version": "0.2.3",
+  "summary": "OiaFed: One Framework for All Federation - A unified, modular, and extensible federated learning framework supporting all federation scenarios",
+  "author": "OiaFed Team",
+  "license": "MIT",
+  "home_page": "https://github.com/oiafed/oiafed",
+  "download_filename": "oiafed-0.2.3.tar.gz",
+  "download_time": "2026-03-13T10:06:13.761609",
+  "package_url": "https://pypi.org/project/oiafed/"
+}

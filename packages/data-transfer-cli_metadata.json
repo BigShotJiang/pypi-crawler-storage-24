@@ -1,0 +1,11 @@
+{
+  "name": "data-transfer-cli",
+  "version": "0.3.11",
+  "summary": "HiDALGO Data Transfer CLI provides commands to transfer data between different data providers and consumers using NIFI pipelines",
+  "author": "Jesús Gorroñogoitia",
+  "license": "APL-2.0",
+  "home_page": null,
+  "download_filename": "data_transfer_cli-0.3.11.tar.gz",
+  "download_time": "2026-03-13T10:06:14.273595",
+  "package_url": "https://pypi.org/project/data-transfer-cli/"
+}

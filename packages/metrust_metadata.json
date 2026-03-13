@@ -1,11 +1,11 @@
 {
   "name": "metrust",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Rust-powered meteorology toolkit for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metrust-0.1.6.tar.gz",
-  "download_time": "2026-03-13T09:26:51.612336",
+  "download_filename": "metrust-0.1.8.tar.gz",
+  "download_time": "2026-03-13T10:05:55.155476",
   "package_url": "https://pypi.org/project/metrust/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "maraudersmap",
+  "version": "0.8.1",
+  "summary": "Fast generation of Inports graph",
+  "author": "CoopTeam-CERFACS",
+  "license": null,
+  "home_page": "https://gitlab.com/cerfacs/maraudersmap",
+  "download_filename": "maraudersmap-0.8.1.tar.gz",
+  "download_time": "2026-03-13T10:05:51.430772",
+  "package_url": "https://pypi.org/project/maraudersmap/"
+}
