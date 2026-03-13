@@ -1,0 +1,11 @@
+{
+  "name": "util-1c-rac",
+  "version": "0.6.1",
+  "summary": "Utils for 1C:Enterprise Remote Administration Client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "util_1c_rac-0.6.1.tar.gz",
+  "download_time": "2026-03-13T23:53:23.324841",
+  "package_url": "https://pypi.org/project/util-1c-rac/"
+}

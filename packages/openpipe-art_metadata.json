@@ -1,0 +1,11 @@
+{
+  "name": "openpipe-art",
+  "version": "0.5.17",
+  "summary": "The OpenPipe Agent Reinforcement Training (ART) library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openpipe_art-0.5.17.tar.gz",
+  "download_time": "2026-03-13T23:53:32.517341",
+  "package_url": "https://pypi.org/project/openpipe-art/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scLiTr",
+  "version": "2.0.0",
+  "summary": "Package for an analysis of lineage-tracing scRNA-Seq data",
+  "author": "Sergey Isaev",
+  "license": null,
+  "home_page": "https://github.com/kharchenkolab/scLiTr",
+  "download_filename": "sclitr-2.0.0.tar.gz",
+  "download_time": "2026-03-13T23:53:05.940398",
+  "package_url": "https://pypi.org/project/scLiTr/"
+}

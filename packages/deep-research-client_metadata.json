@@ -1,0 +1,11 @@
+{
+  "name": "deep-research-client",
+  "version": "0.2.1",
+  "summary": "Wrapper for multiple deep research tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deep_research_client-0.2.1.tar.gz",
+  "download_time": "2026-03-13T23:53:40.153748",
+  "package_url": "https://pypi.org/project/deep-research-client/"
+}

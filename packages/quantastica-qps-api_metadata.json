@@ -1,11 +1,11 @@
 {
   "name": "quantastica-qps-api",
-  "version": "0.9.17",
+  "version": "0.9.18",
   "summary": "Quantastica Quantum Programming Studio API",
   "author": "Quantastica",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/quantastica/qps-api",
-  "download_filename": "quantastica_qps_api-0.9.17.tar.gz",
-  "download_time": "2026-03-11T10:47:56.786010",
+  "download_filename": "quantastica_qps_api-0.9.18.tar.gz",
+  "download_time": "2026-03-13T23:53:41.830351",
   "package_url": "https://pypi.org/project/quantastica-qps-api/"
 }

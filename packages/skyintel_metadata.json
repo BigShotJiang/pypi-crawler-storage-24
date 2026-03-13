@@ -1,0 +1,11 @@
+{
+  "name": "skyintel",
+  "version": "1.1.0",
+  "summary": "Self-hosted MCP server and tactical web app for real-time flight, military aircraft, and satellite tracking with AI-powered queries and an immersive 3D globe.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skyintel-1.1.0.tar.gz",
+  "download_time": "2026-03-13T23:53:28.696037",
+  "package_url": "https://pypi.org/project/skyintel/"
+}

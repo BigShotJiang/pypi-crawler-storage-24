@@ -1,11 +1,11 @@
 {
   "name": "metrust",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Rust-powered drop-in replacement for MetPy -- 150/150 calc functions plus 36 extras, 10-93000x faster",
   "author": "Fahrenheit Research",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metrust-0.3.1.tar.gz",
-  "download_time": "2026-03-13T23:25:14.085394",
+  "download_filename": "metrust-0.3.3.tar.gz",
+  "download_time": "2026-03-13T23:53:14.208453",
   "package_url": "https://pypi.org/project/metrust/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "timeback-qti",
-  "version": "0.2.1b20260311230654",
+  "version": "0.2.0",
   "summary": "Timeback QTI client for assessment item and test operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "timeback_qti-0.2.1b20260311230654.tar.gz",
-  "download_time": "2026-03-11T23:22:21.714221",
+  "download_filename": "timeback_qti-0.2.0.tar.gz",
+  "download_time": "2026-03-13T23:53:33.051809",
   "package_url": "https://pypi.org/project/timeback-qti/"
 }

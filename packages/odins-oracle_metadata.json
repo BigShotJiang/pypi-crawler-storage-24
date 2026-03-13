@@ -1,0 +1,11 @@
+{
+  "name": "odins-oracle",
+  "version": "2.0.0",
+  "summary": "Python SDK for Odin's Oracle API - cosmic intelligence and Agent Soul Protocol for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "odins_oracle-2.0.0.tar.gz",
+  "download_time": "2026-03-13T23:53:48.918194",
+  "package_url": "https://pypi.org/project/odins-oracle/"
+}

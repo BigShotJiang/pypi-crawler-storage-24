@@ -1,0 +1,11 @@
+{
+  "name": "lema-libgen",
+  "version": "2.0.0",
+  "summary": "Async Library Genesis scraper and downloader with mirror and proxy support",
+  "author": "Andrew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lema_libgen-2.0.0.tar.gz",
+  "download_time": "2026-03-13T23:53:28.160844",
+  "package_url": "https://pypi.org/project/lema-libgen/"
+}
