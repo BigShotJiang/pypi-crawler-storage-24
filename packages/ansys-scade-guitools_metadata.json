@@ -1,0 +1,11 @@
+{
+  "name": "ansys-scade-guitools",
+  "version": "2.3.6",
+  "summary": "Python library for extending the Ansys SCADE IDE GUI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_scade_guitools-2.3.6.tar.gz",
+  "download_time": "2026-03-13T10:58:36.911034",
+  "package_url": "https://pypi.org/project/ansys-scade-guitools/"
+}

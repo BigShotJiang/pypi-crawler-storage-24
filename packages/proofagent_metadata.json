@@ -1,0 +1,11 @@
+{
+  "name": "proofagent",
+  "version": "0.3.0",
+  "summary": "pytest for AI agents — eval framework with cryptographic compliance certificates",
+  "author": "Provably",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proofagent-0.3.0.tar.gz",
+  "download_time": "2026-03-13T10:58:51.062084",
+  "package_url": "https://pypi.org/project/proofagent/"
+}

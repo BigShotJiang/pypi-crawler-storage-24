@@ -1,0 +1,11 @@
+{
+  "name": "loggez",
+  "version": "0.8.5",
+  "summary": "Python Easy Logging (LOGG EZ)",
+  "author": null,
+  "license": "WTFPL",
+  "home_page": "https://gitlab.com/meehai/loggez",
+  "download_filename": "loggez-0.8.5.tar.gz",
+  "download_time": "2026-03-13T10:58:59.913364",
+  "package_url": "https://pypi.org/project/loggez/"
+}

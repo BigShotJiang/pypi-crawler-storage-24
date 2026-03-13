@@ -1,0 +1,11 @@
+{
+  "name": "one-ring-core",
+  "version": "0.2.1",
+  "summary": "Low-level io_uring wrapper for Python: ring management, IO operations, and typed results",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "one_ring_core-0.2.1.tar.gz",
+  "download_time": "2026-03-13T10:58:44.784733",
+  "package_url": "https://pypi.org/project/one-ring-core/"
+}

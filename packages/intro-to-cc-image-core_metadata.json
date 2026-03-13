@@ -1,0 +1,11 @@
+{
+  "name": "intro-to-cc-image-core",
+  "version": "0.1.0",
+  "summary": "Infra-agnostic image processing core for Intro to Cloud Computing exercises",
+  "author": "Intro to CC",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "intro_to_cc_image_core-0.1.0.tar.gz",
+  "download_time": "2026-03-13T10:59:11.939575",
+  "package_url": "https://pypi.org/project/intro-to-cc-image-core/"
+}

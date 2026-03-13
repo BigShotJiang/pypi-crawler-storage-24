@@ -1,0 +1,11 @@
+{
+  "name": "easy-gog-downloader",
+  "version": "1.0.3",
+  "summary": "Download offline installers from your GOG library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easy_gog_downloader-1.0.3.tar.gz",
+  "download_time": "2026-03-13T10:58:38.990285",
+  "package_url": "https://pypi.org/project/easy-gog-downloader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swt",
+  "version": "0.5.0",
+  "summary": "Simple Web Token library for Python",
+  "author": "David Jack Wange Olrik",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swt-0.5.0.tar.gz",
+  "download_time": "2026-03-13T10:59:12.993581",
+  "package_url": "https://pypi.org/project/swt/"
+}

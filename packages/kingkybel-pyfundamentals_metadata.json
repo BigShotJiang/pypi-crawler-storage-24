@@ -1,11 +1,11 @@
 {
   "name": "kingkybel-pyfundamentals",
-  "version": "0.2.0",
+  "version": "0.4.1",
   "summary": "A collection of fundamental Python utilities for common tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kingkybel_pyfundamentals-0.2.0.tar.gz",
-  "download_time": "2026-03-07T08:55:55.869889",
+  "download_filename": "kingkybel_pyfundamentals-0.4.1.tar.gz",
+  "download_time": "2026-03-13T10:58:55.760387",
   "package_url": "https://pypi.org/project/kingkybel-pyfundamentals/"
 }

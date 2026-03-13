@@ -1,11 +1,11 @@
 {
   "name": "geomeppy",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "summary": "Geometry editing for E+ idf files",
   "author": "Jamie Bull",
   "license": "MIT License",
   "home_page": "https://github.com/jamiebull1/geomeppy",
-  "download_filename": "geomeppy-0.12.1.tar.gz",
-  "download_time": "2026-03-13T10:05:55.664877",
+  "download_filename": "geomeppy-0.12.2.tar.gz",
+  "download_time": "2026-03-13T10:58:58.353160",
   "package_url": "https://pypi.org/project/geomeppy/"
 }

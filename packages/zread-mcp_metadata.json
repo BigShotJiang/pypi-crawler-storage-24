@@ -1,0 +1,11 @@
+{
+  "name": "zread-mcp",
+  "version": "1.0.0",
+  "summary": "Zread.ai MCP Server - 连接 zread.ai 文档平台的 MCP 服务器，让 AI 助手能够阅读 GitHub 仓库文档、搜索代码、与仓库 AI 对话。",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zread_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-13T10:58:42.714304",
+  "package_url": "https://pypi.org/project/zread-mcp/"
+}

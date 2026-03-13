@@ -1,0 +1,11 @@
+{
+  "name": "synup-sdk",
+  "version": "0.3.1",
+  "summary": "Python SDK for the Synup API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synup_sdk-0.3.1.tar.gz",
+  "download_time": "2026-03-13T10:58:36.388026",
+  "package_url": "https://pypi.org/project/synup-sdk/"
+}

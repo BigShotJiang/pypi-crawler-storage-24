@@ -1,0 +1,11 @@
+{
+  "name": "cli-anything-godzilla",
+  "version": "1.0.2",
+  "summary": "CLI harness for Godzilla Security Testing Tool",
+  "author": "fengchenzxc",
+  "license": null,
+  "home_page": "https://github.com/fengchenzxc/cli-anything-godzilla",
+  "download_filename": "cli_anything_godzilla-1.0.2.tar.gz",
+  "download_time": "2026-03-13T10:58:33.247554",
+  "package_url": "https://pypi.org/project/cli-anything-godzilla/"
+}

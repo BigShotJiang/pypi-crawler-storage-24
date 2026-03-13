@@ -1,0 +1,11 @@
+{
+  "name": "mcp-atlassian-with-bitbucket",
+  "version": "1.0.5",
+  "summary": "MCP server integrating Jira, Confluence, and Bitbucket (Cloud + Server/DC) with AI language models following Anthropic's MCP specification.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_atlassian_with_bitbucket-1.0.5.tar.gz",
+  "download_time": "2026-03-13T10:58:34.298630",
+  "package_url": "https://pypi.org/project/mcp-atlassian-with-bitbucket/"
+}

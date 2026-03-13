@@ -1,0 +1,11 @@
+{
+  "name": "the1conf",
+  "version": "1.6.0",
+  "summary": "All in one configuration management tool for your python applications.",
+  "author": "Eric CHASTAN",
+  "license": null,
+  "home_page": "https://gitlab.com/eric-chastan/the1conf",
+  "download_filename": "the1conf-1.6.0.tar.gz",
+  "download_time": "2026-03-13T10:59:02.001453",
+  "package_url": "https://pypi.org/project/the1conf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ohao",
+  "version": "0.3.0",
+  "summary": "Retarget animations onto any humanoid character — CLI & Python SDK for game developers",
+  "author": "OhaoTech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ohao-0.3.0.tar.gz",
+  "download_time": "2026-03-13T10:58:31.142890",
+  "package_url": "https://pypi.org/project/ohao/"
+}
