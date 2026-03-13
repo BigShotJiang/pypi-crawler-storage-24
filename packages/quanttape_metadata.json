@@ -1,11 +1,11 @@
 {
   "name": "quanttape",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "The security SDK for algorithmic trading.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "quanttape-0.0.7.tar.gz",
-  "download_time": "2026-03-13T08:36:57.550998",
+  "download_filename": "quanttape-0.0.8.tar.gz",
+  "download_time": "2026-03-13T22:53:54.841337",
   "package_url": "https://pypi.org/project/quanttape/"
 }

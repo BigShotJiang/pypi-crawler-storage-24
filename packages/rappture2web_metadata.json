@@ -1,11 +1,11 @@
 {
   "name": "rappture2web",
-  "version": "0.1.11",
+  "version": "0.1.15",
   "summary": "Web-based Rappture tool interface - renders XML tool definitions as interactive web applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rappture2web-0.1.11.tar.gz",
-  "download_time": "2026-03-10T17:03:01.477741",
+  "download_filename": "rappture2web-0.1.15.tar.gz",
+  "download_time": "2026-03-13T22:54:12.153232",
   "package_url": "https://pypi.org/project/rappture2web/"
 }

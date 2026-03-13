@@ -1,11 +1,11 @@
 {
   "name": "actguard",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "actguard Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "actguard-0.2.1.tar.gz",
-  "download_time": "2026-03-12T18:36:15.185982",
+  "download_filename": "actguard-0.3.0.tar.gz",
+  "download_time": "2026-03-13T22:54:08.959177",
   "package_url": "https://pypi.org/project/actguard/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "observe-instrument-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server that instruments Python AI agents with the ioa-observe-sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "observe_instrument_mcp-0.1.0.tar.gz",
-  "download_time": "2026-03-12T23:50:18.271120",
+  "download_filename": "observe_instrument_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-13T22:53:50.095588",
   "package_url": "https://pypi.org/project/observe-instrument-mcp/"
 }

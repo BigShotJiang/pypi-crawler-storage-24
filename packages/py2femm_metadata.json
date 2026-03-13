@@ -1,0 +1,11 @@
+{
+  "name": "py2femm",
+  "version": "0.1.0",
+  "summary": "Python interface utilities for FEMM simulations",
+  "author": "Tamás Orosz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py2femm-0.1.0.tar.gz",
+  "download_time": "2026-03-13T22:54:31.778831",
+  "package_url": "https://pypi.org/project/py2femm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.15.0",
-  "summary": "Real-time reliability monitoring for LLM agents. v0.15.0: probe_ensemble_blend() helper (+1.6pp cross-domain AUROC), corrected LSTM AUROC (0.545 not 0.8280, exp143 3-domain), real white-box probe validation (Qwen2.5 exp145/146). v0.14.0: ProcessReliabilityMonitor, StepExtractor ABC, domain-invariant LSTM, confident_wrong adapter, exp142 P(True) AUROC 0.817.",
+  "version": "0.18.0",
+  "summary": "v0.17.0: MiniJudge ($0 AUROC 0.747, distilled from Sonnet), cross-domain TV validated AUROC 0.660 [CI 0.614-0.705] n=1000, QuickCalibrator, 4 platform integrations (Langfuse/LangSmith/Prometheus/Datadog). Real-time reliability monitoring for LLM agents. v0.16.1: fix FastAPI>=0.115 (starlette 0.52 compat), domain-invariant feature selection 0.778 cross-domain. v0.16.0: hosted calibration endpoint, multilevel features, 3-domain validation, latency SLA. v0.15.0: probe_ensemble_blend() +1.6pp AUROC.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.15.0.tar.gz",
-  "download_time": "2026-03-12T12:01:02.483586",
+  "download_filename": "llm_guard_kit-0.18.0-py3-none-any.whl",
+  "download_time": "2026-03-13T22:53:44.614388",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Dave-IT-guy",
+  "version": "0.1.6",
+  "summary": "Deploy AI stacks with one command — OpenClaw, Ollama, and Qdrant, fully containerized. Install: pip install dave-it-guy. Run: dave-it-guy deploy openclaw; then docker exec -it dave-it-guy-openclaw openclaw tui for the TUI. Default LLM: Anthropic (Claude) when ANTHROPIC_API_KEY is set; Ollama (Llama 3.2) as fallback.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dave_it_guy-0.1.6.tar.gz",
+  "download_time": "2026-03-13T22:54:10.510323",
+  "package_url": "https://pypi.org/project/Dave-IT-guy/"
+}

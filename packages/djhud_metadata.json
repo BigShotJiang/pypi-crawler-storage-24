@@ -1,11 +1,11 @@
 {
   "name": "djhud",
-  "version": "0.9.12",
+  "version": "0.9.13",
   "summary": "Lightweight screen/webcam region capture and virtual camera tool for DJs",
   "author": "DJ HUD Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "djhud-0.9.12.tar.gz",
-  "download_time": "2026-03-13T16:05:06.552614",
+  "download_filename": "djhud-0.9.13.tar.gz",
+  "download_time": "2026-03-13T22:54:13.693634",
   "package_url": "https://pypi.org/project/djhud/"
 }

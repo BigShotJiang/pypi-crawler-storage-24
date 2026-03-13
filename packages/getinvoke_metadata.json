@@ -1,11 +1,11 @@
 {
   "name": "getinvoke",
-  "version": "0.5.3",
+  "version": "0.6.2",
   "summary": "Voice-to-prompt for developers. Hold a button, speak, release — structured prompts on your clipboard in under a second.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "getinvoke-0.5.3.tar.gz",
-  "download_time": "2026-03-13T18:08:46.975933",
+  "download_filename": "getinvoke-0.6.2.tar.gz",
+  "download_time": "2026-03-13T22:53:47.986112",
   "package_url": "https://pypi.org/project/getinvoke/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "accelerometry-annotator",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "summary": "Web-based tool for visualizing and annotating wrist-worn accelerometry data from physical performance assessments.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "accelerometry_annotator-3.3.2.tar.gz",
-  "download_time": "2026-03-12T23:02:44.575189",
+  "download_filename": "accelerometry_annotator-3.3.3.tar.gz",
+  "download_time": "2026-03-13T22:53:53.296068",
   "package_url": "https://pypi.org/project/accelerometry-annotator/"
 }

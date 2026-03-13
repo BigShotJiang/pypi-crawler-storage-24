@@ -1,11 +1,11 @@
 {
   "name": "autobots-tui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A textual-based terminal user interface application",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autobots_tui-0.0.2.tar.gz",
-  "download_time": "2026-03-13T19:03:08.914435",
+  "download_filename": "autobots_tui-0.0.3.tar.gz",
+  "download_time": "2026-03-13T22:54:29.733759",
   "package_url": "https://pypi.org/project/autobots-tui/"
 }

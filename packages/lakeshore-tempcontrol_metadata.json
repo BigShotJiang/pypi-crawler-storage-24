@@ -1,11 +1,11 @@
 {
   "name": "lakeshore-tempcontrol",
-  "version": "0.19.3",
+  "version": "0.19.4",
   "summary": "Lakeshore Temperature Control for CGSE",
   "author": "IVS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "lakeshore_tempcontrol-0.19.3.tar.gz",
-  "download_time": "2026-03-13T11:31:07.517190",
+  "download_filename": "lakeshore_tempcontrol-0.19.4.tar.gz",
+  "download_time": "2026-03-13T22:54:23.525612",
   "package_url": "https://pypi.org/project/lakeshore-tempcontrol/"
 }

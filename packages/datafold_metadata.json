@@ -1,0 +1,11 @@
+{
+  "name": "datafold",
+  "version": "2.0.2",
+  "summary": "Operator-theoretic models to identify dynamical systems and parametrize point cloud geometry",
+  "author": "datafold development team",
+  "license": "MIT",
+  "home_page": "https://datafold-dev.gitlab.io/datafold",
+  "download_filename": "datafold-2.0.2.tar.gz",
+  "download_time": "2026-03-13T22:53:46.810371",
+  "package_url": "https://pypi.org/project/datafold/"
+}

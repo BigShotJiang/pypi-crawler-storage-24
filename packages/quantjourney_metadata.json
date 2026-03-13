@@ -1,0 +1,11 @@
+{
+  "name": "quantjourney",
+  "version": "4.3.0",
+  "summary": "QuantJourney SDK — Python client for api.quantjourney.cloud",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "quantjourney-4.3.0.tar.gz",
+  "download_time": "2026-03-13T22:53:53.811173",
+  "package_url": "https://pypi.org/project/quantjourney/"
+}
