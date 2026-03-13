@@ -1,0 +1,11 @@
+{
+  "name": "jsonargparse",
+  "version": "4.47.0",
+  "summary": "Minimal effort CLIs derived from type hints and parse from command line, config files and environment variables.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsonargparse-4.47.0-py3-none-any.whl",
+  "download_time": "2026-03-13T11:56:25.836177",
+  "package_url": "https://pypi.org/project/jsonargparse/"
+}

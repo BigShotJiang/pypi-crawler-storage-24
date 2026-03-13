@@ -1,11 +1,11 @@
 {
   "name": "uipath-langchain",
-  "version": "0.8.18",
+  "version": "0.8.19",
   "summary": "Python SDK that enables developers to build and deploy LangGraph agents to the UiPath Cloud Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath_langchain-0.8.18.tar.gz",
-  "download_time": "2026-03-13T08:36:51.353114",
+  "download_filename": "uipath_langchain-0.8.19.tar.gz",
+  "download_time": "2026-03-13T11:56:51.861277",
   "package_url": "https://pypi.org/project/uipath-langchain/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "deps-kyc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "DEPS Know your client SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deps_kyc-0.0.3.tar.gz",
-  "download_time": "2026-03-13T10:58:55.241465",
+  "download_filename": "deps_kyc-0.0.4.tar.gz",
+  "download_time": "2026-03-13T11:56:27.965728",
   "package_url": "https://pypi.org/project/deps-kyc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xlea",
+  "version": "1.0.2",
+  "summary": "python library that makes it easy to convert Excel tables into ORM-like objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlea-1.0.2.tar.gz",
+  "download_time": "2026-03-13T11:56:59.696160",
+  "package_url": "https://pypi.org/project/xlea/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "diffsynth",
+  "version": "2.0.6",
+  "summary": "Enjoy the magic of Diffusion models!",
+  "author": "ModelScope Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "diffsynth-2.0.6.tar.gz",
+  "download_time": "2026-03-13T11:56:57.606540",
+  "package_url": "https://pypi.org/project/diffsynth/"
+}

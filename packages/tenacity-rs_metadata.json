@@ -1,0 +1,11 @@
+{
+  "name": "tenacity-rs",
+  "version": "0.1.0",
+  "summary": "Drop-in replacement for tenacity with a Rust core. Same API, faster retries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tenacity_rs-0.1.0.tar.gz",
+  "download_time": "2026-03-13T11:56:25.312580",
+  "package_url": "https://pypi.org/project/tenacity-rs/"
+}

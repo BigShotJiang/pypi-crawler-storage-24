@@ -1,0 +1,11 @@
+{
+  "name": "pytest-audioeval",
+  "version": "0.1.2",
+  "summary": "Pytest plugin for STT/TTS integration testing with httpx, metrics, and embedded audio samples.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_audioeval-0.1.2.tar.gz",
+  "download_time": "2026-03-13T11:56:42.801543",
+  "package_url": "https://pypi.org/project/pytest-audioeval/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openfold3",
+  "version": "0.4.0",
+  "summary": "OpenFold's Biological Structure Prediction Model based on DeepMind's AlphaFold 3",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openfold3-0.4.0.tar.gz",
+  "download_time": "2026-03-13T11:56:37.533583",
+  "package_url": "https://pypi.org/project/openfold3/"
+}

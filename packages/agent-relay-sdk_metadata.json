@@ -1,11 +1,11 @@
 {
   "name": "agent-relay-sdk",
-  "version": "3.1.13",
+  "version": "3.2.1",
   "summary": "Python SDK for Agent Relay workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_relay_sdk-3.1.13.tar.gz",
-  "download_time": "2026-03-09T12:49:09.873115",
+  "download_filename": "agent_relay_sdk-3.2.1.tar.gz",
+  "download_time": "2026-03-13T11:56:59.177218",
   "package_url": "https://pypi.org/project/agent-relay-sdk/"
 }
