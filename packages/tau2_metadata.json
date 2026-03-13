@@ -1,0 +1,11 @@
+{
+  "name": "tau2",
+  "version": "2.0.0",
+  "summary": "A package for calculating magnetic relaxation rates",
+  "author": "Ben Atkinson",
+  "license": null,
+  "home_page": "https://gitlab.com/chilton-group/tau2",
+  "download_filename": "tau2-2.0.0.tar.gz",
+  "download_time": "2026-03-13T06:06:20.549532",
+  "package_url": "https://pypi.org/project/tau2/"
+}

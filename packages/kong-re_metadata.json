@@ -1,0 +1,11 @@
+{
+  "name": "kong-re",
+  "version": "0.1.1",
+  "summary": "The world's first AI reverse engineer, with LLM orchestration for reverse engineering binaries.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kong_re-0.1.1.tar.gz",
+  "download_time": "2026-03-13T06:06:37.524748",
+  "package_url": "https://pypi.org/project/kong-re/"
+}

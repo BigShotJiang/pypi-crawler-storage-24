@@ -1,0 +1,11 @@
+{
+  "name": "nvcl-kit",
+  "version": "1.2.14",
+  "summary": "Downloads Australian National Virtual Core Library (NVCL) datasets",
+  "author": null,
+  "license": "CSIRO BSD/MIT",
+  "home_page": null,
+  "download_filename": "nvcl_kit-1.2.14.tar.gz",
+  "download_time": "2026-03-13T06:06:04.898787",
+  "package_url": "https://pypi.org/project/nvcl-kit/"
+}

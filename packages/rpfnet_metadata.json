@@ -1,11 +1,11 @@
 {
   "name": "rpfnet",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "RPFNet: Attack-Agnostic Tabular Data Poisoning Detection via Meta-Learned Relational Fingerprints",
   "author": "Lakshan Costa",
   "license": "MIT",
   "home_page": "https://github.com/lakshancosta/RPFNet",
-  "download_filename": "rpfnet-0.1.1.tar.gz",
-  "download_time": "2026-03-10T14:31:09.100603",
+  "download_filename": "rpfnet-0.1.2.tar.gz",
+  "download_time": "2026-03-13T06:06:24.667224",
   "package_url": "https://pypi.org/project/rpfnet/"
 }

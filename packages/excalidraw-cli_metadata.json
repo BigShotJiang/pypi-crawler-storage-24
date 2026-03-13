@@ -1,0 +1,11 @@
+{
+  "name": "excalidraw-cli",
+  "version": "0.1.1",
+  "summary": "CLI-Anything harness for Excalidraw — create and manipulate Excalidraw diagrams from the command line",
+  "author": "excalidraw-cli contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "excalidraw_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-13T06:06:09.051771",
+  "package_url": "https://pypi.org/project/excalidraw-cli/"
+}

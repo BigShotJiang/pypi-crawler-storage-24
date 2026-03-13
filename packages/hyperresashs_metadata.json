@@ -1,11 +1,11 @@
 {
   "name": "hyperresashs",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "summary": "Isotropic segmentation pipeline for MTL subregions from multi-modality 3T MRI",
   "author": "Yue Li, PATCHLab, University of Pennsylvania",
   "license": null,
   "home_page": null,
-  "download_filename": "hyperresashs-1.0.1.tar.gz",
-  "download_time": "2026-03-12T10:09:19.333331",
+  "download_filename": "hyperresashs-1.0.5.tar.gz",
+  "download_time": "2026-03-13T06:06:29.276668",
   "package_url": "https://pypi.org/project/hyperresashs/"
 }

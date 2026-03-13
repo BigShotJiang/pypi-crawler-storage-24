@@ -1,0 +1,11 @@
+{
+  "name": "skillbench",
+  "version": "0.1.0",
+  "summary": "The development workbench for Agent Skills — develop, test, and evaluate skills across agent frameworks.",
+  "author": "SkillBench Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skillbench-0.1.0.tar.gz",
+  "download_time": "2026-03-13T06:06:13.230869",
+  "package_url": "https://pypi.org/project/skillbench/"
+}

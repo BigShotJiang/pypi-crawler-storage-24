@@ -1,0 +1,11 @@
+{
+  "name": "pure-agent-loop",
+  "version": "0.1.4",
+  "summary": "轻量级 ReAct 模式 Agentic Loop 框架",
+  "author": "xziying",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pure_agent_loop-0.1.4.tar.gz",
+  "download_time": "2026-03-13T06:06:08.540118",
+  "package_url": "https://pypi.org/project/pure-agent-loop/"
+}

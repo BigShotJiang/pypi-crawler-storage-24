@@ -1,11 +1,11 @@
 {
   "name": "novyx-mcp",
-  "version": "2.1.3",
-  "summary": "MCP server for Novyx memory — context spaces, replay, cortex, and 23 tools for Claude Desktop, Cursor, and Claude Code",
+  "version": "2.1.5",
+  "summary": "Persistent memory for AI agents. 23 MCP tools for remember, recall, rollback, audit, knowledge graph, and context spaces. Pairs with CLAUDE.md to give Claude Code shared memory across sessions and agents. Works locally (zero config) or with Novyx Cloud.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "novyx_mcp-2.1.3.tar.gz",
-  "download_time": "2026-03-09T19:00:57.012023",
+  "download_filename": "novyx_mcp-2.1.5.tar.gz",
+  "download_time": "2026-03-13T06:05:58.871846",
   "package_url": "https://pypi.org/project/novyx-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "benchgr-agent",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "BenchGR GPU Benchmark Agent - Test your GPU and submit to the leaderboard",
   "author": "San S",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "benchgr_agent-0.1.1.tar.gz",
-  "download_time": "2026-03-12T23:02:34.554351",
+  "download_filename": "benchgr_agent-0.1.6.tar.gz",
+  "download_time": "2026-03-13T06:06:02.292592",
   "package_url": "https://pypi.org/project/benchgr-agent/"
 }

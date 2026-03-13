@@ -1,11 +1,11 @@
 {
   "name": "mo-memoria",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Multi-tenant memory service for AI assistants",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mo_memoria-0.1.8-py3-none-any.whl",
-  "download_time": "2026-03-12T15:12:47.206512",
+  "download_filename": "mo_memoria-0.1.9-py3-none-any.whl",
+  "download_time": "2026-03-13T06:05:57.321231",
   "package_url": "https://pypi.org/project/mo-memoria/"
 }
