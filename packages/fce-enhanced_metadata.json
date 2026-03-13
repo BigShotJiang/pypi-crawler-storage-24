@@ -1,11 +1,11 @@
 {
   "name": "fce-enhanced",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Enhanced Flet CodeEditor with file open/save/save-as/close/search and replace capabilities",
   "author": "Tim Lang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fce_enhanced-0.1.1.tar.gz",
-  "download_time": "2026-03-07T23:18:24.608548",
+  "download_filename": "fce_enhanced-0.1.4.tar.gz",
+  "download_time": "2026-03-13T22:25:13.203565",
   "package_url": "https://pypi.org/project/fce-enhanced/"
 }

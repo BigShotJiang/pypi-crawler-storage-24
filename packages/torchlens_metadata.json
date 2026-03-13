@@ -1,11 +1,11 @@
 {
   "name": "torchlens",
-  "version": "0.22.0",
+  "version": "1.0.0",
   "summary": "A package for extracting activations from PyTorch models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchlens-0.22.0.tar.gz",
-  "download_time": "2026-03-13T20:30:48.190272",
+  "download_filename": "torchlens-1.0.0.tar.gz",
+  "download_time": "2026-03-13T22:25:33.675413",
   "package_url": "https://pypi.org/project/torchlens/"
 }

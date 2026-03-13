@@ -1,0 +1,11 @@
+{
+  "name": "qcs-sdk-python",
+  "version": "0.26.0",
+  "summary": "Python interface for the QCS Rust SDK",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qcs_sdk_python-0.26.0.tar.gz",
+  "download_time": "2026-03-13T22:25:24.798290",
+  "package_url": "https://pypi.org/project/qcs-sdk-python/"
+}

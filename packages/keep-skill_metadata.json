@@ -1,11 +1,11 @@
 {
   "name": "keep-skill",
-  "version": "0.95.1",
+  "version": "0.95.2",
   "summary": "Reflective memory - remember and search documents by meaning",
   "author": "Hugh Pyle",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keep_skill-0.95.1.tar.gz",
-  "download_time": "2026-03-13T16:04:46.875781",
+  "download_filename": "keep_skill-0.95.2.tar.gz",
+  "download_time": "2026-03-13T22:25:25.328935",
   "package_url": "https://pypi.org/project/keep-skill/"
 }

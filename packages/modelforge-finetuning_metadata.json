@@ -1,11 +1,11 @@
 {
   "name": "modelforge-finetuning",
-  "version": "3.0.3",
+  "version": "3.0.5",
   "summary": "ModelForge: A no-code toolkit for fine-tuning HuggingFace models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modelforge_finetuning-3.0.3.tar.gz",
-  "download_time": "2026-03-13T05:13:43.645814",
+  "download_filename": "modelforge_finetuning-3.0.5.tar.gz",
+  "download_time": "2026-03-13T22:25:30.025925",
   "package_url": "https://pypi.org/project/modelforge-finetuning/"
 }

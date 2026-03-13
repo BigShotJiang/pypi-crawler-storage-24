@@ -1,11 +1,11 @@
 {
   "name": "processtitle",
-  "version": "0.2",
+  "version": "1.0",
   "summary": "Customize process \"title\" as reported by ps and similar tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "processtitle-0.2.tar.gz",
-  "download_time": "2026-03-09T10:08:07.590803",
+  "download_filename": "processtitle-1.0.tar.gz",
+  "download_time": "2026-03-13T22:25:04.275785",
   "package_url": "https://pypi.org/project/processtitle/"
 }

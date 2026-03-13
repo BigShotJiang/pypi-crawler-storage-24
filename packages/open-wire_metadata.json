@@ -1,11 +1,11 @@
 {
   "name": "open-wire",
-  "version": "0.3.0",
-  "summary": "Connect AI agents anywhere over MQTT. One command.",
+  "version": "0.8.0",
+  "summary": "AI agents that can use your computer, talk to each other, and act. One command.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "open_wire-0.3.0.tar.gz",
-  "download_time": "2026-03-13T01:30:22.965929",
+  "download_filename": "open_wire-0.8.0.tar.gz",
+  "download_time": "2026-03-13T22:25:07.939801",
   "package_url": "https://pypi.org/project/open-wire/"
 }

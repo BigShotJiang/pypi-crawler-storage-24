@@ -1,0 +1,11 @@
+{
+  "name": "parry-guard",
+  "version": "0.1.0a1",
+  "summary": "Prompt injection scanner CLI - substring, unicode, secrets, and ML detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/vaporif/parry",
+  "download_filename": "parry_guard-0.1.0a1-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-13T22:25:12.683425",
+  "package_url": "https://pypi.org/project/parry-guard/"
+}

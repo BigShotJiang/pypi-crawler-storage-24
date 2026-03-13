@@ -1,11 +1,11 @@
 {
   "name": "syntactical",
-  "version": "3.2.1",
+  "version": "3.3.2",
   "summary": "The Syntactical programming language's interpreter.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syntactical-3.2.1.tar.gz",
-  "download_time": "2026-03-13T21:03:29.847137",
+  "download_filename": "syntactical-3.3.2.tar.gz",
+  "download_time": "2026-03-13T22:25:00.108513",
   "package_url": "https://pypi.org/project/syntactical/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "beadclust",
+  "version": "0.17.0",
+  "summary": "Automated clustering of beads for the SeaFlow flow cytometer",
+  "author": "Chris T. Berthiaume",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beadclust-0.17.0.tar.gz",
+  "download_time": "2026-03-13T22:25:19.490254",
+  "package_url": "https://pypi.org/project/beadclust/"
+}

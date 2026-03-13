@@ -1,0 +1,11 @@
+{
+  "name": "svahnar",
+  "version": "1.11.0",
+  "summary": "The official Python library for the SVAHNAR API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "svahnar-1.11.0.tar.gz",
+  "download_time": "2026-03-13T22:25:20.542629",
+  "package_url": "https://pypi.org/project/svahnar/"
+}

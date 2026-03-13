@@ -1,0 +1,11 @@
+{
+  "name": "xtrading-models",
+  "version": "0.10.0",
+  "summary": "Shared trading models for XTrading ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xtrading_models-0.10.0.tar.gz",
+  "download_time": "2026-03-13T22:24:55.389503",
+  "package_url": "https://pypi.org/project/xtrading-models/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ovoscope",
-  "version": "0.10.0",
+  "version": "0.13.0",
   "summary": "End-to-end test framework for OpenVoiceOS skills",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ovoscope-0.10.0.tar.gz",
-  "download_time": "2026-03-11T03:40:11.207320",
+  "download_filename": "ovoscope-0.13.0.tar.gz",
+  "download_time": "2026-03-13T22:25:12.114643",
   "package_url": "https://pypi.org/project/ovoscope/"
 }
