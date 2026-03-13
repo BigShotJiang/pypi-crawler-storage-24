@@ -1,0 +1,11 @@
+{
+  "name": "kauldron",
+  "version": "1.4.0",
+  "summary": "Kauldron is a ML research library optimized for quick iteration and modularity.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kauldron-1.4.0.tar.gz",
+  "download_time": "2026-03-13T17:00:33.454822",
+  "package_url": "https://pypi.org/project/kauldron/"
+}

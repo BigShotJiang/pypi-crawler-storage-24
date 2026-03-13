@@ -1,11 +1,11 @@
 {
   "name": "simpleeval",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A simple, safe single expression evaluator library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simpleeval-1.0.5.tar.gz",
-  "download_time": "2026-03-13T09:26:58.416263",
+  "download_filename": "simpleeval-1.0.6.tar.gz",
+  "download_time": "2026-03-13T17:00:37.591124",
   "package_url": "https://pypi.org/project/simpleeval/"
 }

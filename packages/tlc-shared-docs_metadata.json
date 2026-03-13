@@ -1,11 +1,11 @@
 {
   "name": "tlc-shared-docs",
-  "version": "1.1.8",
+  "version": "1.1.10",
   "summary": "Share documentation files between Git repositories",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tlc_shared_docs-1.1.8.tar.gz",
-  "download_time": "2026-03-12T22:22:42.916649",
+  "download_filename": "tlc_shared_docs-1.1.10.tar.gz",
+  "download_time": "2026-03-13T17:00:43.687624",
   "package_url": "https://pypi.org/project/tlc-shared-docs/"
 }

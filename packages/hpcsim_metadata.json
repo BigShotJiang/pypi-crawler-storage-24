@@ -1,0 +1,11 @@
+{
+  "name": "hpcsim",
+  "version": "0.3.1",
+  "summary": "HPC GPU Cluster Simulator for ML/DL/LLM Workloads with Green-Aware RL Scheduling",
+  "author": "DOGES - Synergia Research Team - HPCC",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hpcsim-0.3.1.tar.gz",
+  "download_time": "2026-03-13T17:00:20.257063",
+  "package_url": "https://pypi.org/project/hpcsim/"
+}

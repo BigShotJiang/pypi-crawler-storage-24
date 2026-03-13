@@ -1,0 +1,11 @@
+{
+  "name": "edx-api-doc-tools",
+  "version": "3.0.0",
+  "summary": "Tools for writing and generating API documentation for edX REST APIs",
+  "author": "Open edX Project",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/openedx/api-doc-tools",
+  "download_filename": "edx_api_doc_tools-3.0.0.tar.gz",
+  "download_time": "2026-03-13T17:00:49.085714",
+  "package_url": "https://pypi.org/project/edx-api-doc-tools/"
+}

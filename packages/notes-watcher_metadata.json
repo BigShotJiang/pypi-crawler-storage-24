@@ -1,11 +1,11 @@
 {
   "name": "notes-watcher",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "A daemon that detects @ mentions in Obsidian notes, dispatches instructions to AI agents, and writes results back inline.",
   "author": "Britt Crawford",
   "license": null,
   "home_page": null,
-  "download_filename": "notes_watcher-0.3.1.tar.gz",
-  "download_time": "2026-03-07T19:43:22.124666",
+  "download_filename": "notes_watcher-0.4.1.tar.gz",
+  "download_time": "2026-03-13T17:00:39.202918",
   "package_url": "https://pypi.org/project/notes-watcher/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "treesitter-chunker",
-  "version": "2.2.18",
+  "version": "2.2.19",
   "summary": "Semantic code chunker using Tree-sitter for intelligent code analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "treesitter_chunker-2.2.18.tar.gz",
-  "download_time": "2026-03-13T03:57:00.227251",
+  "download_filename": "treesitter_chunker-2.2.19.tar.gz",
+  "download_time": "2026-03-13T17:00:26.113938",
   "package_url": "https://pypi.org/project/treesitter-chunker/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "crowdsourcehinter-xblock",
+  "version": "1.0.0",
+  "summary": "crowdsourcehinter XBlock",
+  "author": "edX",
+  "license": null,
+  "home_page": "https://github.com/openedx/crowdsourcehinter",
+  "download_filename": "crowdsourcehinter_xblock-1.0.0.tar.gz",
+  "download_time": "2026-03-13T17:00:11.766086",
+  "package_url": "https://pypi.org/project/crowdsourcehinter-xblock/"
+}

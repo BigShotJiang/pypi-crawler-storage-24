@@ -1,0 +1,11 @@
+{
+  "name": "dependal",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the Dependal API.",
+  "author": "Dependal Support",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dependal-1.0.0.tar.gz",
+  "download_time": "2026-03-13T17:00:30.744332",
+  "package_url": "https://pypi.org/project/dependal/"
+}

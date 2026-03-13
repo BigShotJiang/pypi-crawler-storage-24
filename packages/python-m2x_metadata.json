@@ -1,0 +1,11 @@
+{
+  "name": "python-m2x",
+  "version": "0.1.1",
+  "summary": "轻量级Markdown转换器，支持MD转HTML/PDF/Word，内置FastAPI可视化界面",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_m2x-0.1.1.tar.gz",
+  "download_time": "2026-03-13T17:00:35.976399",
+  "package_url": "https://pypi.org/project/python-m2x/"
+}
