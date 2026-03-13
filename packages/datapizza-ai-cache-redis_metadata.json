@@ -1,0 +1,11 @@
+{
+  "name": "datapizza-ai-cache-redis",
+  "version": "0.0.5",
+  "summary": "An implementation using Redis for datapizza-ai cache",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datapizza_ai_cache_redis-0.0.5.tar.gz",
+  "download_time": "2026-03-13T14:42:06.394221",
+  "package_url": "https://pypi.org/project/datapizza-ai-cache-redis/"
+}

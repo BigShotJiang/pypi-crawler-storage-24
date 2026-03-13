@@ -1,11 +1,11 @@
 {
   "name": "mcp-template",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Starter CLI for generating MCP wrappers around existing command-line tools.",
   "author": "kraftaa",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_template-0.1.0.tar.gz",
-  "download_time": "2026-03-12T23:50:39.850948",
+  "download_filename": "mcp_template-0.2.0.tar.gz",
+  "download_time": "2026-03-13T14:41:50.560441",
   "package_url": "https://pypi.org/project/mcp-template/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sdlc-tools",
-  "version": "1.0.0rc1",
+  "version": "1.0.6",
   "summary": "A developer CLI toolkit for SDLC automation — AI code impact reports, release tagging, and PR management.",
   "author": "White-Yaksha",
   "license": null,
   "home_page": null,
-  "download_filename": "sdlc_tools-1.0.0rc1.tar.gz",
-  "download_time": "2026-03-10T07:47:24.236386",
+  "download_filename": "sdlc_tools-1.0.6.tar.gz",
+  "download_time": "2026-03-13T14:42:19.392364",
   "package_url": "https://pypi.org/project/sdlc-tools/"
 }

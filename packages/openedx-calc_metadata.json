@@ -1,0 +1,11 @@
+{
+  "name": "openedx-calc",
+  "version": "5.0.0",
+  "summary": "A helper library for mathematical calculations and symbolic mathematics, used by Open edX.",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/openedx-calc",
+  "download_filename": "openedx_calc-5.0.0.tar.gz",
+  "download_time": "2026-03-13T14:42:17.750898",
+  "package_url": "https://pypi.org/project/openedx-calc/"
+}

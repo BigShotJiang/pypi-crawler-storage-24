@@ -1,0 +1,11 @@
+{
+  "name": "datapizza-ai-embedders-openai",
+  "version": "0.0.6",
+  "summary": "OpenAI embedder for the datapizza-ai framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datapizza_ai_embedders_openai-0.0.6.tar.gz",
+  "download_time": "2026-03-13T14:41:52.186353",
+  "package_url": "https://pypi.org/project/datapizza-ai-embedders-openai/"
+}

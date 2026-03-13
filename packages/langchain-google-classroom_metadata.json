@@ -1,0 +1,11 @@
+{
+  "name": "langchain-google-classroom",
+  "version": "0.1.0",
+  "summary": "An integration package connecting Google Classroom and LangChain",
+  "author": "Nishchal Chandel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_google_classroom-0.1.0.tar.gz",
+  "download_time": "2026-03-13T14:41:28.179162",
+  "package_url": "https://pypi.org/project/langchain-google-classroom/"
+}

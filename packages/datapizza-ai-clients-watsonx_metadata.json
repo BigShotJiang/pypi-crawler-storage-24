@@ -1,0 +1,11 @@
+{
+  "name": "datapizza-ai-clients-watsonx",
+  "version": "0.0.2",
+  "summary": "Ibm WatsonX client for the datapizza-ai framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datapizza_ai_clients_watsonx-0.0.2.tar.gz",
+  "download_time": "2026-03-13T14:42:01.384877",
+  "package_url": "https://pypi.org/project/datapizza-ai-clients-watsonx/"
+}
