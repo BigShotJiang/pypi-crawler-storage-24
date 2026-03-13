@@ -1,0 +1,11 @@
+{
+  "name": "hidehub",
+  "version": "0.1.0",
+  "summary": "Secure secret management for developers — zero-knowledge .env vault",
+  "author": "HideHub",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hidehub-0.1.0.tar.gz",
+  "download_time": "2026-03-13T13:49:20.906064",
+  "package_url": "https://pypi.org/project/hidehub/"
+}

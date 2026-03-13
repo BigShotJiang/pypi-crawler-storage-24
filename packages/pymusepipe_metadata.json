@@ -1,0 +1,11 @@
+{
+  "name": "pymusepipe",
+  "version": "2.29.0",
+  "summary": "python module to reduce MUSE Raw data and combine them",
+  "author": "Eric Emsellem",
+  "license": "MIT",
+  "home_page": "https://github.com/emsellem/pymusepipe",
+  "download_filename": "pymusepipe-2.29.0.tar.gz",
+  "download_time": "2026-03-13T13:49:23.698303",
+  "package_url": "https://pypi.org/project/pymusepipe/"
+}

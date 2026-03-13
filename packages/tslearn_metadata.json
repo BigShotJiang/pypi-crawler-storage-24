@@ -1,0 +1,11 @@
+{
+  "name": "tslearn",
+  "version": "0.8.1",
+  "summary": "A machine learning toolkit dedicated to time-series data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tslearn-0.8.1.tar.gz",
+  "download_time": "2026-03-13T13:49:53.807356",
+  "package_url": "https://pypi.org/project/tslearn/"
+}

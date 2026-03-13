@@ -1,0 +1,11 @@
+{
+  "name": "featrix-modelcard",
+  "version": "1.10",
+  "summary": "Render Featrix Sphere Model Card JSON to HTML or plain text",
+  "author": "Featrix",
+  "license": null,
+  "home_page": "https://github.com/featrix/model-card",
+  "download_filename": "featrix_modelcard-1.10.tar.gz",
+  "download_time": "2026-03-13T13:50:01.534641",
+  "package_url": "https://pypi.org/project/featrix-modelcard/"
+}

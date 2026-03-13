@@ -1,0 +1,11 @@
+{
+  "name": "abcfold",
+  "version": "1.1.3",
+  "summary": "Tool to run & compare AlphaFold3, Boltz, Chai-1, OpenFold3 and Protenix",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "abcfold-1.1.3.tar.gz",
+  "download_time": "2026-03-13T13:49:22.604222",
+  "package_url": "https://pypi.org/project/abcfold/"
+}

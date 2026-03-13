@@ -1,11 +1,11 @@
 {
   "name": "offspot-config",
-  "version": "2.10.0",
+  "version": "2.10.2",
   "summary": "Offspot Config helpers",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "offspot_config-2.10.0.tar.gz",
-  "download_time": "2026-03-13T09:26:50.529494",
+  "download_filename": "offspot_config-2.10.2.tar.gz",
+  "download_time": "2026-03-13T13:49:30.894057",
   "package_url": "https://pypi.org/project/offspot-config/"
 }

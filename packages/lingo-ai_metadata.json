@@ -1,0 +1,11 @@
+{
+  "name": "lingo-ai",
+  "version": "1.4.1",
+  "summary": "A minimal, async-native, and unopinionated toolkit for modern LLM applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lingo_ai-1.4.1.tar.gz",
+  "download_time": "2026-03-13T13:49:19.305073",
+  "package_url": "https://pypi.org/project/lingo-ai/"
+}

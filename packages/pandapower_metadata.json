@@ -1,0 +1,11 @@
+{
+  "name": "pandapower",
+  "version": "3.4.0",
+  "summary": "An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pandapower-3.4.0.tar.gz",
+  "download_time": "2026-03-13T13:49:20.376827",
+  "package_url": "https://pypi.org/project/pandapower/"
+}

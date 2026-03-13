@@ -1,11 +1,11 @@
 {
   "name": "veronica-core",
-  "version": "3.7.3",
+  "version": "3.7.4",
   "summary": "Runtime Containment Layer for LLM Systems. Enforces bounded cost, retries, recursion, wait states, and failure domains.",
   "author": "amabito",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "veronica_core-3.7.3.tar.gz",
-  "download_time": "2026-03-13T07:57:24.193274",
+  "download_filename": "veronica_core-3.7.4.tar.gz",
+  "download_time": "2026-03-13T13:49:31.921595",
   "package_url": "https://pypi.org/project/veronica-core/"
 }

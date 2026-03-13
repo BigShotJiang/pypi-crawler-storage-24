@@ -1,0 +1,11 @@
+{
+  "name": "openhal",
+  "version": "0.1.0",
+  "summary": "HAL — Harmful Action Limiter. Lean command guard for AI coding agents.",
+  "author": "Tom Yates",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openhal-0.1.0.tar.gz",
+  "download_time": "2026-03-13T13:49:41.809575",
+  "package_url": "https://pypi.org/project/openhal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docker-lens-cli",
+  "version": "1.1.0",
+  "summary": "Docker Image Analyzer & Optimizer — lint Dockerfiles, analyze images, scan vulnerabilities, optimize size",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_lens_cli-1.1.0.tar.gz",
+  "download_time": "2026-03-13T13:49:15.598195",
+  "package_url": "https://pypi.org/project/docker-lens-cli/"
+}

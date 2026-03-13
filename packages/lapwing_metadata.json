@@ -1,0 +1,11 @@
+{
+  "name": "lapwing",
+  "version": "1.0.0",
+  "summary": "Lightweight async message-passing building blocks: an action bus and an event bus",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lapwing-1.0.0.tar.gz",
+  "download_time": "2026-03-13T13:49:28.833401",
+  "package_url": "https://pypi.org/project/lapwing/"
+}

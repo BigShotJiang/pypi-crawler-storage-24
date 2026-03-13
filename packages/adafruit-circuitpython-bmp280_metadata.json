@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-bmp280",
+  "version": "3.3.10",
+  "summary": "CircuitPython driver for the BMP280.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_bmp280-3.3.10.tar.gz",
+  "download_time": "2026-03-13T13:49:33.972735",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-bmp280/"
+}

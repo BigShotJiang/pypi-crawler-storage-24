@@ -1,11 +1,11 @@
 {
   "name": "forgewatch",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Daemon that monitors GitHub PRs and exposes state over D-Bus",
   "author": "Jan Dvorak",
   "license": null,
   "home_page": null,
-  "download_filename": "forgewatch-1.4.0.tar.gz",
-  "download_time": "2026-03-10T22:54:38.641837",
+  "download_filename": "forgewatch-1.5.0.tar.gz",
+  "download_time": "2026-03-13T13:49:53.247048",
   "package_url": "https://pypi.org/project/forgewatch/"
 }
