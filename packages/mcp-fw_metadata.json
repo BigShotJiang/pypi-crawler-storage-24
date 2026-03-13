@@ -1,11 +1,11 @@
 {
   "name": "mcp-fw",
-  "version": "0.2.5",
+  "version": "0.2.8",
   "summary": "MCP Firewall Proxy — policy-based tool access control using NAIL effects",
   "author": "zyom45",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_fw-0.2.5.tar.gz",
-  "download_time": "2026-03-11T06:23:14.814535",
+  "download_filename": "mcp_fw-0.2.8.tar.gz",
+  "download_time": "2026-03-13T01:30:33.876878",
   "package_url": "https://pypi.org/project/mcp-fw/"
 }

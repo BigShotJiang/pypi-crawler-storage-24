@@ -1,11 +1,11 @@
 {
   "name": "onvif-parsers",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Parsers for ONVIF events",
   "author": null,
   "license": "Apache Software License 2.0",
   "home_page": null,
-  "download_filename": "onvif_parsers-2.2.0.tar.gz",
-  "download_time": "2026-03-07T21:43:03.578237",
+  "download_filename": "onvif_parsers-2.2.1.tar.gz",
+  "download_time": "2026-03-13T01:30:59.623284",
   "package_url": "https://pypi.org/project/onvif-parsers/"
 }

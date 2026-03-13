@@ -1,0 +1,11 @@
+{
+  "name": "nserver",
+  "version": "3.1.0",
+  "summary": "DNS Name Server Framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nserver-3.1.0-py3-none-any.whl",
+  "download_time": "2026-03-13T01:30:35.495862",
+  "package_url": "https://pypi.org/project/nserver/"
+}

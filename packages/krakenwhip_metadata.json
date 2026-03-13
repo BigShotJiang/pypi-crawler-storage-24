@@ -1,0 +1,11 @@
+{
+  "name": "krakenwhip",
+  "version": "0.1.0",
+  "summary": "Deploy AI stacks with one command — OpenClaw, Ollama, and Qdrant, fully containerized.  Default LLM: Anthropic (Claude) when ANTHROPIC_API_KEY is set; Ollama (Llama 3.2) as fallback. Set ANTHROPIC_API_KEY in your environment or in ~/.krakenwhip/deployments/openclaw/.env. KrakenWhip prompts for it during `krakenwhip deploy openclaw` if not set.",
+  "author": "NeuroGamingLab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "krakenwhip-0.1.0.tar.gz",
+  "download_time": "2026-03-13T01:30:36.042674",
+  "package_url": "https://pypi.org/project/krakenwhip/"
+}

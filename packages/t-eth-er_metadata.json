@@ -1,0 +1,11 @@
+{
+  "name": "t-eth-er",
+  "version": "1.2.1",
+  "summary": "Ethernet tethering for Linux - NAT a single device through an interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "t_eth_er-1.2.1.tar.gz",
+  "download_time": "2026-03-13T01:30:28.006451",
+  "package_url": "https://pypi.org/project/t-eth-er/"
+}

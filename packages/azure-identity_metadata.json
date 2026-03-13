@@ -1,0 +1,11 @@
+{
+  "name": "azure-identity",
+  "version": "1.25.3",
+  "summary": "Microsoft Azure Identity Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_identity-1.25.3.tar.gz",
+  "download_time": "2026-03-13T01:30:42.549922",
+  "package_url": "https://pypi.org/project/azure-identity/"
+}

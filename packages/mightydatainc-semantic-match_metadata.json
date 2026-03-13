@@ -1,0 +1,11 @@
+{
+  "name": "mightydatainc-semantic-match",
+  "version": "1.3.0",
+  "summary": "AI-powered semantic matching and comparison of named item lists",
+  "author": "Mikhail Voloshin",
+  "license": "Copyright (c) 2026 Mighty Data Inc.",
+  "home_page": null,
+  "download_filename": "mightydatainc_semantic_match-1.3.0.tar.gz",
+  "download_time": "2026-03-13T01:30:45.838682",
+  "package_url": "https://pypi.org/project/mightydatainc-semantic-match/"
+}

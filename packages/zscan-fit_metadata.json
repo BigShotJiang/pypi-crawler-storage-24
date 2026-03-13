@@ -1,0 +1,11 @@
+{
+  "name": "zscan-fit",
+  "version": "0.1.6",
+  "summary": "Z-scan fitting library for nonlinear optics",
+  "author": "Dairen Jean",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "zscan_fit-0.1.6-cp310-cp310-manylinux_2_28_aarch64.whl",
+  "download_time": "2026-03-13T01:30:54.245465",
+  "package_url": "https://pypi.org/project/zscan-fit/"
+}

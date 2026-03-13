@@ -1,0 +1,11 @@
+{
+  "name": "slapos.recipe.build",
+  "version": "0.64",
+  "summary": "Flexible software building recipe.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://lab.nexedi.com/nexedi/slapos.recipe.build",
+  "download_filename": "slapos_recipe_build-0.64.tar.gz",
+  "download_time": "2026-03-13T01:30:34.400365",
+  "package_url": "https://pypi.org/project/slapos.recipe.build/"
+}

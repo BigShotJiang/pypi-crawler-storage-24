@@ -1,11 +1,11 @@
 {
   "name": "mansion-api",
-  "version": "0.1.0",
-  "summary": "A Gymnasium-based multi-floor indoor environment built on AI2-THOR for embodied AI research",
+  "version": "0.1.1.2",
+  "summary": "MansionWorld API package for multi-floor embodied AI tasks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mansion_api-0.1.0.tar.gz",
-  "download_time": "2026-03-12T15:13:20.725564",
+  "download_filename": "mansion_api-0.1.1.2.tar.gz",
+  "download_time": "2026-03-13T01:30:54.789414",
   "package_url": "https://pypi.org/project/mansion-api/"
 }

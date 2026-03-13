@@ -1,0 +1,11 @@
+{
+  "name": "qsp-mcp",
+  "version": "0.2.1",
+  "summary": "MCP tool relay for local LLM inference — bridge any OpenAI-compatible endpoint to MCP servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qsp_mcp-0.2.1.tar.gz",
+  "download_time": "2026-03-13T01:30:56.428371",
+  "package_url": "https://pypi.org/project/qsp-mcp/"
+}

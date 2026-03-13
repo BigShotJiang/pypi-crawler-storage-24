@@ -1,0 +1,11 @@
+{
+  "name": "charmlibs-interfaces-k8s-backup-target",
+  "version": "0.1.0",
+  "summary": "The charmlibs.interfaces.k8s-backup-target package.",
+  "author": "The Charm Tech team at Canonical",
+  "license": null,
+  "home_page": null,
+  "download_filename": "charmlibs_interfaces_k8s_backup_target-0.1.0.tar.gz",
+  "download_time": "2026-03-13T01:30:39.963194",
+  "package_url": "https://pypi.org/project/charmlibs-interfaces-k8s-backup-target/"
+}

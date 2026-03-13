@@ -1,0 +1,11 @@
+{
+  "name": "tinkclaw-mcp",
+  "version": "1.0.0",
+  "summary": "TinkClaw financial signals API — MCP server for Claude Desktop, Cursor, and other MCP clients",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinkclaw_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-13T01:30:58.033956",
+  "package_url": "https://pypi.org/project/tinkclaw-mcp/"
+}
