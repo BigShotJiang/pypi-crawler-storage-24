@@ -1,0 +1,11 @@
+{
+  "name": "invenio-curations",
+  "version": "0.8.1",
+  "summary": "\"Invenio module for generic and customizable curations.\"",
+  "author": "Graz University of Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/tu-graz-library/invenio-curations",
+  "download_filename": "invenio_curations-0.8.1.tar.gz",
+  "download_time": "2026-03-13T11:31:35.400945",
+  "package_url": "https://pypi.org/project/invenio-curations/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cgse-common",
-  "version": "0.19.2",
+  "version": "0.19.3",
   "summary": "Software framework to support hardware testing",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "cgse_common-0.19.2.tar.gz",
-  "download_time": "2026-03-10T11:02:08.178119",
+  "download_filename": "cgse_common-0.19.3.tar.gz",
+  "download_time": "2026-03-13T11:31:07.004289",
   "package_url": "https://pypi.org/project/cgse-common/"
 }

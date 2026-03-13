@@ -1,0 +1,11 @@
+{
+  "name": "cylint",
+  "version": "0.1.4",
+  "summary": "PySpark anti-pattern linter — catch the code that costs you money",
+  "author": "Cluster Yield Analytics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cylint-0.1.4.tar.gz",
+  "download_time": "2026-03-13T11:31:29.235236",
+  "package_url": "https://pypi.org/project/cylint/"
+}

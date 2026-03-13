@@ -1,0 +1,11 @@
+{
+  "name": "codex-sdk-python",
+  "version": "0.114.1",
+  "summary": "Python SDK for the Codex CLI agent with async threads, streaming events, and structured outputs",
+  "author": "Vectorfy Co",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codex_sdk_python-0.114.1.tar.gz",
+  "download_time": "2026-03-13T11:30:55.106771",
+  "package_url": "https://pypi.org/project/codex-sdk-python/"
+}

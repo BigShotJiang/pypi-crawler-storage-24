@@ -1,0 +1,11 @@
+{
+  "name": "nexus-mcp-ci",
+  "version": "0.1.0",
+  "summary": "Unified MCP server with hybrid search, code graph analysis, and semantic memory",
+  "author": "Shreyas Jagannath",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexus_mcp_ci-0.1.0.tar.gz",
+  "download_time": "2026-03-13T11:31:16.818481",
+  "package_url": "https://pypi.org/project/nexus-mcp-ci/"
+}

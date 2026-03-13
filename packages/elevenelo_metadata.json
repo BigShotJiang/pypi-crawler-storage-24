@@ -1,0 +1,11 @@
+{
+  "name": "elevenelo",
+  "version": "0.1.0",
+  "summary": "Python client for the 11elo Soccer ELO API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "elevenelo-0.1.0.tar.gz",
+  "download_time": "2026-03-13T11:31:31.283300",
+  "package_url": "https://pypi.org/project/elevenelo/"
+}

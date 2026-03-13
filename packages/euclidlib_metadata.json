@@ -1,0 +1,11 @@
+{
+  "name": "euclidlib",
+  "version": "2026.3",
+  "summary": "Unofficial package to read data from the Euclid mission",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "euclidlib-2026.3-py3-none-any.whl",
+  "download_time": "2026-03-13T11:31:09.604196",
+  "package_url": "https://pypi.org/project/euclidlib/"
+}

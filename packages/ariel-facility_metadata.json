@@ -1,11 +1,11 @@
 {
   "name": "ariel-facility",
-  "version": "0.19.2",
+  "version": "0.19.3",
   "summary": "Extract HK from MySQL Facility Database for Ariel",
   "author": "IVS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "ariel_facility-0.19.2.tar.gz",
-  "download_time": "2026-03-10T11:02:09.825665",
+  "download_filename": "ariel_facility-0.19.3.tar.gz",
+  "download_time": "2026-03-13T11:31:11.686244",
   "package_url": "https://pypi.org/project/ariel-facility/"
 }

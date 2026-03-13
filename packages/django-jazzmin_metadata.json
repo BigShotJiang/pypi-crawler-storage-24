@@ -1,0 +1,11 @@
+{
+  "name": "django-jazzmin",
+  "version": "3.0.4",
+  "summary": "Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 5 to make yo' admin look jazzy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_jazzmin-3.0.4.tar.gz",
+  "download_time": "2026-03-13T11:30:48.426858",
+  "package_url": "https://pypi.org/project/django-jazzmin/"
+}

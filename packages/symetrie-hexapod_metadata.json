@@ -1,11 +1,11 @@
 {
   "name": "symetrie-hexapod",
-  "version": "0.19.2",
+  "version": "0.19.3",
   "summary": "Symetrie Hexapod implementation for CGSE",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "symetrie_hexapod-0.19.2.tar.gz",
-  "download_time": "2026-03-10T11:02:01.124889",
+  "download_filename": "symetrie_hexapod-0.19.3.tar.gz",
+  "download_time": "2026-03-13T11:31:15.282033",
   "package_url": "https://pypi.org/project/symetrie-hexapod/"
 }

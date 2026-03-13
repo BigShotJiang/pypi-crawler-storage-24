@@ -1,0 +1,11 @@
+{
+  "name": "snapatac2",
+  "version": "2.9.0",
+  "summary": "SnapATAC2: Single-cell epigenomics analysis pipeline",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/",
+  "download_filename": "snapatac2-2.9.0.tar.gz",
+  "download_time": "2026-03-13T11:31:08.566408",
+  "package_url": "https://pypi.org/project/snapatac2/"
+}
