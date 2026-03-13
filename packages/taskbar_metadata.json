@@ -1,0 +1,11 @@
+{
+  "name": "taskbar",
+  "version": "1.0.0",
+  "summary": "一个功能丰富、彩色显示、支持多线程/多进程的任务进度条库。让您的循环处理过程一目了然！",
+  "author": "lqxnjk",
+  "license": "MIT",
+  "home_page": "https://github.com/lqxnjk/taskbar",
+  "download_filename": "taskbar-1.0.0.tar.gz",
+  "download_time": "2026-03-13T07:13:51.602678",
+  "package_url": "https://pypi.org/project/taskbar/"
+}

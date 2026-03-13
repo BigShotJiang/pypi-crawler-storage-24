@@ -1,11 +1,11 @@
 {
   "name": "cheapclaw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "CheapClaw multi-bot orchestration CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cheapclaw-1.0.0.tar.gz",
-  "download_time": "2026-03-13T06:06:35.980607",
+  "download_filename": "cheapclaw-1.0.1.tar.gz",
+  "download_time": "2026-03-13T07:13:50.575704",
   "package_url": "https://pypi.org/project/cheapclaw/"
 }

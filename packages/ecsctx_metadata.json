@@ -1,11 +1,11 @@
 {
   "name": "ecsctx",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Context-aware structured logging with ECS compliance and distributed tracing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ecsctx-0.4.1.tar.gz",
-  "download_time": "2026-03-12T19:13:10.070916",
+  "download_filename": "ecsctx-0.4.2.tar.gz",
+  "download_time": "2026-03-13T07:13:41.812451",
   "package_url": "https://pypi.org/project/ecsctx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gldrelu",
+  "version": "0.2",
+  "summary": "Golden Ratio ReLU activation for TensorFlow",
+  "author": "Pankaja Lakshmi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gldrelu-0.2.tar.gz",
+  "download_time": "2026-03-13T07:13:58.323194",
+  "package_url": "https://pypi.org/project/gldrelu/"
+}

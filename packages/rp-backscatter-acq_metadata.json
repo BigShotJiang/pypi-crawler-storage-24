@@ -1,0 +1,11 @@
+{
+  "name": "rp-backscatter-acq",
+  "version": "3.0.1",
+  "summary": "Usage of Red Pitaya embedded signal acquisition platform to collect backscatter data from INSITE2.1 chip",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rp_backscatter_acq-3.0.1.tar.gz",
+  "download_time": "2026-03-13T07:13:41.299501",
+  "package_url": "https://pypi.org/project/rp-backscatter-acq/"
+}

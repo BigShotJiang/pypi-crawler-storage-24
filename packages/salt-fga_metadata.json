@@ -1,11 +1,11 @@
 {
   "name": "salt-fga",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "salt_fga-0.1.1.tar.gz",
-  "download_time": "2026-03-09T10:07:46.948955",
+  "download_filename": "salt_fga-0.1.4.tar.gz",
+  "download_time": "2026-03-13T07:14:11.239671",
   "package_url": "https://pypi.org/project/salt-fga/"
 }

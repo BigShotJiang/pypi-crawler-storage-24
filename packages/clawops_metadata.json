@@ -1,11 +1,11 @@
 {
   "name": "clawops",
-  "version": "0.13.0",
+  "version": "0.16.1",
   "summary": "The official Python library for the ClawOps Voice API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clawops-0.13.0.tar.gz",
-  "download_time": "2026-03-11T09:28:19.734045",
+  "download_filename": "clawops-0.16.1.tar.gz",
+  "download_time": "2026-03-13T07:13:52.629118",
   "package_url": "https://pypi.org/project/clawops/"
 }

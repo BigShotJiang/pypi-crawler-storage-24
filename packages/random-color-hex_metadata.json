@@ -1,0 +1,11 @@
+{
+  "name": "random-color-hex",
+  "version": "3.0.1",
+  "summary": "The visually distinct, smartly separated, random color generator.",
+  "author": "Nathan Honn",
+  "license": "Unlicense",
+  "home_page": "https://github.com/BobSanders64/RandomColorHex",
+  "download_filename": "random_color_hex-3.0.1.tar.gz",
+  "download_time": "2026-03-13T07:13:59.864713",
+  "package_url": "https://pypi.org/project/random-color-hex/"
+}

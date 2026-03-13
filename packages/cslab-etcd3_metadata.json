@@ -1,0 +1,11 @@
+{
+  "name": "cslab-etcd3",
+  "version": "0.12.1",
+  "summary": "Python client for the etcd3 API (cslab fork)",
+  "author": "Louis Taylor",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/reggiepy/python-etcd3",
+  "download_filename": "cslab_etcd3-0.12.1.tar.gz",
+  "download_time": "2026-03-13T07:13:56.266536",
+  "package_url": "https://pypi.org/project/cslab-etcd3/"
+}

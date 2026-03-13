@@ -1,11 +1,11 @@
 {
   "name": "commit-updater",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Update Podfile.lock component commits from local git repos and push",
   "author": "Aron",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "commit_updater-0.1.0.tar.gz",
-  "download_time": "2026-03-13T06:05:56.790970",
+  "download_filename": "commit_updater-0.3.0.tar.gz",
+  "download_time": "2026-03-13T07:13:44.896900",
   "package_url": "https://pypi.org/project/commit-updater/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "voiceMonitor",
+  "version": "0.1.0",
+  "summary": "Real-Time Vocal Fatigue Monitoring for Continuous Speech Analytics",
+  "author": "\"Muhammad Khubaib Ahmad\"",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voicemonitor-0.1.0.tar.gz",
+  "download_time": "2026-03-13T07:13:29.940524",
+  "package_url": "https://pypi.org/project/voiceMonitor/"
+}

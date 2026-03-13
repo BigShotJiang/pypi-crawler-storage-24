@@ -1,11 +1,11 @@
 {
   "name": "cortexdb-py",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Python SDK for CortexDB — a RAG-powered memory database",
   "author": "VectorNode",
   "license": null,
   "home_page": null,
-  "download_filename": "cortexdb_py-0.1.1.tar.gz",
-  "download_time": "2026-03-07T08:29:21.075651",
+  "download_filename": "cortexdb_py-0.2.1.tar.gz",
+  "download_time": "2026-03-13T07:14:13.291481",
   "package_url": "https://pypi.org/project/cortexdb-py/"
 }

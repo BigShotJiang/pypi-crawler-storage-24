@@ -1,0 +1,11 @@
+{
+  "name": "ppvm",
+  "version": "0.1.0",
+  "summary": "A Windows-first Python version manager inspired by nvm.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ppvm-0.1.0.tar.gz",
+  "download_time": "2026-03-13T07:14:03.976006",
+  "package_url": "https://pypi.org/project/ppvm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rdacca-hp",
+  "version": "0.1.0",
+  "summary": "Hierarchical partitioning and variation partitioning for canonical analyses in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdacca_hp-0.1.0.tar.gz",
+  "download_time": "2026-03-13T07:13:28.891786",
+  "package_url": "https://pypi.org/project/rdacca-hp/"
+}

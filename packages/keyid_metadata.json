@@ -1,11 +1,11 @@
 {
   "name": "keyid",
-  "version": "0.2.3",
+  "version": "0.2.6",
   "summary": "KeyID.ai SDK — agent email infrastructure",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keyid-0.2.3.tar.gz",
-  "download_time": "2026-03-13T03:57:17.480743",
+  "download_filename": "keyid-0.2.6.tar.gz",
+  "download_time": "2026-03-13T07:14:12.272080",
   "package_url": "https://pypi.org/project/keyid/"
 }
