@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-governance20210120",
+  "version": "0.4.0",
+  "summary": "Alibaba Cloud governance (20210120) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_governance20210120-0.4.0.tar.gz",
+  "download_time": "2026-03-13T18:09:04.886161",
+  "package_url": "https://pypi.org/project/alibabacloud-governance20210120/"
+}

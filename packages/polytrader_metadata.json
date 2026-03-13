@@ -1,0 +1,11 @@
+{
+  "name": "polytrader",
+  "version": "0.1.2",
+  "summary": "Python trading client for Polymarket",
+  "author": "Omid Roshani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polytrader-0.1.2.tar.gz",
+  "download_time": "2026-03-13T18:09:21.318212",
+  "package_url": "https://pypi.org/project/polytrader/"
+}

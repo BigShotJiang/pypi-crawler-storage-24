@@ -1,11 +1,11 @@
 {
   "name": "clawtex",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Governed agent platform with MandelDB genetic memory. BB4C — Breath Before Code.",
   "author": "DeVere Cooley",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clawtex-0.1.1.tar.gz",
-  "download_time": "2026-03-13T13:49:49.120690",
+  "download_filename": "clawtex-0.1.4.tar.gz",
+  "download_time": "2026-03-13T18:09:06.046602",
   "package_url": "https://pypi.org/project/clawtex/"
 }

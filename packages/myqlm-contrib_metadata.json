@@ -1,0 +1,11 @@
+{
+  "name": "myqlm-contrib",
+  "version": "1.11.0",
+  "summary": "Modules developed by the myQLM community",
+  "author": "Atos Quantum Lab",
+  "license": "Atos myQLM EULA",
+  "home_page": "https://atos.net/en/lp/myqlm",
+  "download_filename": "myqlm_contrib-1.11.0-py3-none-any.whl",
+  "download_time": "2026-03-13T18:09:25.393676",
+  "package_url": "https://pypi.org/project/myqlm-contrib/"
+}

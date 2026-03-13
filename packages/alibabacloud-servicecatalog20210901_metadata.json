@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-servicecatalog20210901",
+  "version": "1.2.5",
+  "summary": "Alibaba Cloud servicecatalog (20210901) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_servicecatalog20210901-1.2.5.tar.gz",
+  "download_time": "2026-03-13T18:09:22.408549",
+  "package_url": "https://pypi.org/project/alibabacloud-servicecatalog20210901/"
+}
