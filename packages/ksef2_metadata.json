@@ -1,11 +1,11 @@
 {
   "name": "ksef2",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Python SDK and Tools for Poland's KSeF (Krajowy System e-Faktur) API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ksef2-0.9.0.tar.gz",
-  "download_time": "2026-03-07T18:29:37.788282",
+  "download_filename": "ksef2-0.9.1.tar.gz",
+  "download_time": "2026-03-13T15:30:16.689597",
   "package_url": "https://pypi.org/project/ksef2/"
 }

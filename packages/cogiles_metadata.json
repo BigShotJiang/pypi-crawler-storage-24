@@ -1,11 +1,11 @@
 {
   "name": "cogiles",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "COGILES - Colored Graph Input Line Entry System: a SMILES-inspired string notation for colored graphs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cogiles-0.1.0.tar.gz",
-  "download_time": "2026-03-09T12:49:27.303957",
+  "download_filename": "cogiles-0.3.0.tar.gz",
+  "download_time": "2026-03-13T15:30:18.814891",
   "package_url": "https://pypi.org/project/cogiles/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Seedling-tools",
+  "version": "2.2.0",
+  "summary": "A modular 3-in-1 CLI toolkit to explore, search, and reconstruct directory structures with LLM-ready context support.",
+  "author": "Blue Peach",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seedling_tools-2.2.0.tar.gz",
+  "download_time": "2026-03-13T15:29:54.283384",
+  "package_url": "https://pypi.org/project/Seedling-tools/"
+}

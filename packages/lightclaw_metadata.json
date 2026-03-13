@@ -1,11 +1,11 @@
 {
   "name": "lightclaw",
-  "version": "0.0.8",
+  "version": "0.0.13",
   "summary": "LightClaw is a **personal assistant** that runs in your own environment. It talks to you over multiple channels (DingTalk, Feishu, QQ, Discord, etc.) and runs scheduled tasks according to your configuration. **What it can do is driven by Skills — the possibilities are open-ended.** Built-in skills include cron, PDF/Office handling, news digest, file reading, and more; you can add custom skills. All data and tasks run on your machine; no third-party hosting.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lightclaw-0.0.8.tar.gz",
-  "download_time": "2026-03-13T14:42:10.720984",
+  "download_filename": "lightclaw-0.0.13.tar.gz",
+  "download_time": "2026-03-13T15:30:09.918130",
   "package_url": "https://pypi.org/project/lightclaw/"
 }

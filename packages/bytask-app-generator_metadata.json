@@ -1,0 +1,11 @@
+{
+  "name": "bytask-app-generator",
+  "version": "0.1.2",
+  "summary": "Copier-powered generator for Bytask app templates",
+  "author": "Bytask",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bytask_app_generator-0.1.2.tar.gz",
+  "download_time": "2026-03-13T15:30:12.490535",
+  "package_url": "https://pypi.org/project/bytask-app-generator/"
+}

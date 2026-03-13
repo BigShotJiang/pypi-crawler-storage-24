@@ -1,0 +1,11 @@
+{
+  "name": "pynjsla",
+  "version": "0.3.0",
+  "summary": "Splits Individualized Score Reports (ISR) from the New Jersey Student Learning Assessment (NJSLA) PDF export into two page PDFs and labels output by the New Jersey State ID (SID) extracted from the ISR.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynjsla-0.3.0.tar.gz",
+  "download_time": "2026-03-13T15:29:56.355039",
+  "package_url": "https://pypi.org/project/pynjsla/"
+}

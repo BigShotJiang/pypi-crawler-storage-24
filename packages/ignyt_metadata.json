@@ -1,0 +1,11 @@
+{
+  "name": "ignyt",
+  "version": "0.1.0",
+  "summary": "The fastest Python code quality engine — type checking, security scanning, dead code detection, complexity analysis & auto-fix in one Rust binary. Replaces mypy, flake8, bandit, vulture, radon, black & isort.",
+  "author": "Muhammad Hanan Asghar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ignyt-0.1.0.tar.gz",
+  "download_time": "2026-03-13T15:30:32.294946",
+  "package_url": "https://pypi.org/project/ignyt/"
+}

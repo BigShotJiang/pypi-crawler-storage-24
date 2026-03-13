@@ -1,11 +1,11 @@
 {
   "name": "RomayneUtils",
-  "version": "0.0.32",
+  "version": "0.0.38",
   "summary": "Small personal utility package for me, myself & I.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "romayneutils-0.0.32.tar.gz",
-  "download_time": "2026-03-13T14:41:31.503995",
+  "download_filename": "romayneutils-0.0.38.tar.gz",
+  "download_time": "2026-03-13T15:30:23.479967",
   "package_url": "https://pypi.org/project/RomayneUtils/"
 }

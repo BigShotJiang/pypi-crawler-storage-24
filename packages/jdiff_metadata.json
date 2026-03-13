@@ -1,0 +1,11 @@
+{
+  "name": "jdiff",
+  "version": "1.0.2",
+  "summary": "Python library for examining structured data.",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jdiff-1.0.2.tar.gz",
+  "download_time": "2026-03-13T15:30:24.504432",
+  "package_url": "https://pypi.org/project/jdiff/"
+}

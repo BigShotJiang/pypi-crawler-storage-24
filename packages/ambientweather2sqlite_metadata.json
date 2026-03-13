@@ -1,0 +1,11 @@
+{
+  "name": "ambientweather2sqlite",
+  "version": "0.8.0",
+  "summary": "A project to record weather observations from an AmbientWeather station over the local network - no API needed!",
+  "author": "Harold Martin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ambientweather2sqlite-0.8.0.tar.gz",
+  "download_time": "2026-03-13T15:30:34.900083",
+  "package_url": "https://pypi.org/project/ambientweather2sqlite/"
+}

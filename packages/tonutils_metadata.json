@@ -1,11 +1,11 @@
 {
   "name": "tonutils",
-  "version": "2.0.3",
-  "summary": "Tonutils is a high-level, object-oriented Python library designed to facilitate seamless interactions with the TON blockchain.",
+  "version": "2.0.4",
+  "summary": "Python SDK for The Open Network — lite servers (ADNL) and HTTP API providers.",
   "author": "nessshon",
   "license": null,
   "home_page": null,
-  "download_filename": "tonutils-2.0.3.tar.gz",
-  "download_time": "2026-03-09T08:08:33.164480",
+  "download_filename": "tonutils-2.0.4.tar.gz",
+  "download_time": "2026-03-13T15:30:28.682743",
   "package_url": "https://pypi.org/project/tonutils/"
 }

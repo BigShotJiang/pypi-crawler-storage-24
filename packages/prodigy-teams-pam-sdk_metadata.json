@@ -1,11 +1,11 @@
 {
   "name": "prodigy-teams-pam-sdk",
-  "version": "2.0.15",
+  "version": "2.0.16",
   "summary": "Prodigy Teams Annotation Manager SDK",
   "author": "ExplosionAI GmbH",
   "license": "All rights reserved",
   "home_page": "https://github.com/explosion/prodigy-teams",
-  "download_filename": "prodigy_teams_pam_sdk-2.0.15.tar.gz",
-  "download_time": "2026-03-13T14:42:12.326059",
+  "download_filename": "prodigy_teams_pam_sdk-2.0.16.tar.gz",
+  "download_time": "2026-03-13T15:30:28.148848",
   "package_url": "https://pypi.org/project/prodigy-teams-pam-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "omegaxiv",
+  "version": "0.1.0",
+  "summary": "omegaXiv package manager CLI.",
+  "author": "omegaXiv Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omegaxiv-0.1.0.tar.gz",
+  "download_time": "2026-03-13T15:29:58.996094",
+  "package_url": "https://pypi.org/project/omegaxiv/"
+}

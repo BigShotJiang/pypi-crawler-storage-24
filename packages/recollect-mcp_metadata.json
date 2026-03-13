@@ -1,11 +1,11 @@
 {
   "name": "recollect-mcp",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "MCP server for Recollect",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "recollect_mcp-0.5.2.tar.gz",
-  "download_time": "2026-03-12T23:50:25.752634",
+  "download_filename": "recollect_mcp-0.5.3.tar.gz",
+  "download_time": "2026-03-13T15:30:11.976698",
   "package_url": "https://pypi.org/project/recollect-mcp/"
 }
