@@ -1,0 +1,11 @@
+{
+  "name": "robocorp-browser",
+  "version": "2.4.0",
+  "summary": "Robocorp browser automation library",
+  "author": "Sema4.ai",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robocorp_browser-2.4.0.tar.gz",
+  "download_time": "2026-03-13T07:58:06.266904",
+  "package_url": "https://pypi.org/project/robocorp-browser/"
+}

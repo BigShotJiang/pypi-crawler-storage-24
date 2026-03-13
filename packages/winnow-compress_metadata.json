@@ -1,0 +1,11 @@
+{
+  "name": "winnow-compress",
+  "version": "0.2.1",
+  "summary": "Free open-source RAG compression middleware. Drop-in API for LLM pipelines.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "winnow_compress-0.2.1.tar.gz",
+  "download_time": "2026-03-13T07:57:18.077578",
+  "package_url": "https://pypi.org/project/winnow-compress/"
+}

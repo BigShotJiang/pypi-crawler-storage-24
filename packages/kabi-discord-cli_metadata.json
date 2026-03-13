@@ -1,11 +1,11 @@
 {
   "name": "kabi-discord-cli",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "Discord CLI for local-first sync, search, export, and agent-friendly retrieval",
   "author": "jackwener",
   "license": null,
   "home_page": null,
-  "download_filename": "kabi_discord_cli-0.2.7.tar.gz",
-  "download_time": "2026-03-11T07:13:20.008087",
+  "download_filename": "kabi_discord_cli-0.2.8.tar.gz",
+  "download_time": "2026-03-13T07:57:54.460381",
   "package_url": "https://pypi.org/project/kabi-discord-cli/"
 }

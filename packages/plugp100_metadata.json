@@ -1,11 +1,11 @@
 {
   "name": "plugp100",
-  "version": "5.1.6",
+  "version": "5.1.7",
   "summary": "Controller for TP-Link Tapo P100 and other devices",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "plugp100-5.1.6.tar.gz",
-  "download_time": "2026-03-11T20:41:34.818060",
+  "download_filename": "plugp100-5.1.7.tar.gz",
+  "download_time": "2026-03-13T07:57:59.799277",
   "package_url": "https://pypi.org/project/plugp100/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ararpy",
+  "version": "0.2.8",
+  "summary": "A project for Ar-Ar geochronology",
+  "author": "Yang Wu",
+  "license": "MIT",
+  "home_page": "https://github.com/wuyangchn/ararpy.git",
+  "download_filename": "ararpy-0.2.8.tar.gz",
+  "download_time": "2026-03-13T07:57:38.866769",
+  "package_url": "https://pypi.org/project/ararpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "masfactory",
+  "version": "1.0.1",
+  "summary": "MASFactory is a graph-centric framework for orchestrating Multi-Agent Systems with Vibe Graphing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "masfactory-1.0.1.tar.gz",
+  "download_time": "2026-03-13T07:58:07.872864",
+  "package_url": "https://pypi.org/project/masfactory/"
+}

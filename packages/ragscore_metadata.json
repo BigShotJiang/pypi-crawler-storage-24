@@ -1,0 +1,11 @@
+{
+  "name": "ragscore",
+  "version": "0.8.0",
+  "summary": "The Fastest RAG Audit - Generate QA datasets & evaluate RAG systems in Colab, Jupyter, or CLI. Privacy-first, lightning fast, visual reports.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ragscore-0.8.0.tar.gz",
+  "download_time": "2026-03-13T07:57:59.267165",
+  "package_url": "https://pypi.org/project/ragscore/"
+}
