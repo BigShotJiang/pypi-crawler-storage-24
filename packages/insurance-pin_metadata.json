@@ -1,0 +1,11 @@
+{
+  "name": "insurance-pin",
+  "version": "0.1.0",
+  "summary": "Tree-like Pairwise Interaction Networks for insurance pricing — neural GA2M with shared-weight architecture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_pin-0.1.0.tar.gz",
+  "download_time": "2026-03-13T09:26:48.941973",
+  "package_url": "https://pypi.org/project/insurance-pin/"
+}

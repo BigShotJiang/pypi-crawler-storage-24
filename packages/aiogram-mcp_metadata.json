@@ -1,11 +1,11 @@
 {
   "name": "aiogram-mcp",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "MCP server middleware for aiogram Telegram bots — expose your bot to AI agents via the Model Context Protocol",
   "author": "Py2755",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiogram_mcp-0.5.0.tar.gz",
-  "download_time": "2026-03-12T04:12:42.529456",
+  "download_filename": "aiogram_mcp-0.6.0.tar.gz",
+  "download_time": "2026-03-13T09:26:42.800732",
   "package_url": "https://pypi.org/project/aiogram-mcp/"
 }

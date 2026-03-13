@@ -1,11 +1,11 @@
 {
   "name": "wishcribe",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Fast multi-speaker audio/video transcription — faster-whisper + pyannote.audio",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wishcribe-1.2.0.tar.gz",
-  "download_time": "2026-03-13T03:57:31.997499",
+  "download_filename": "wishcribe-1.2.1.tar.gz",
+  "download_time": "2026-03-13T09:27:29.326713",
   "package_url": "https://pypi.org/project/wishcribe/"
 }

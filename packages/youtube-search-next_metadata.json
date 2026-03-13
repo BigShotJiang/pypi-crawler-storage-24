@@ -1,11 +1,11 @@
 {
   "name": "youtube-search-next",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A fork of youtube-search-python. Search for YouTube videos, channels & playlists & get video information using link WITHOUT YouTube Data API v3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "youtube_search_next-1.0.4.tar.gz",
-  "download_time": "2026-03-08T13:28:32.063489",
+  "download_filename": "youtube_search_next-1.0.5.tar.gz",
+  "download_time": "2026-03-13T09:27:21.926111",
   "package_url": "https://pypi.org/project/youtube-search-next/"
 }

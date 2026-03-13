@@ -1,0 +1,11 @@
+{
+  "name": "dqc-db",
+  "version": "0.1.5",
+  "summary": "Thread-safe SQLite wrapper with single-writer, multi-reader architecture",
+  "author": "Mohammed Azirar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dqc_db-0.1.5.tar.gz",
+  "download_time": "2026-03-13T09:27:19.371559",
+  "package_url": "https://pypi.org/project/dqc-db/"
+}

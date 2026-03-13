@@ -1,0 +1,11 @@
+{
+  "name": "betterbot",
+  "version": "4.0.1",
+  "summary": "A discord bot framework!",
+  "author": "Christian Hasan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "betterbot-4.0.1.tar.gz",
+  "download_time": "2026-03-13T09:26:45.458406",
+  "package_url": "https://pypi.org/project/betterbot/"
+}

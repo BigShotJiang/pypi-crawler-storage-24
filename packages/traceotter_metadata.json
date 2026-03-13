@@ -1,0 +1,11 @@
+{
+  "name": "traceotter",
+  "version": "0.1.0",
+  "summary": "Agent observability Python SDK for Traceotter",
+  "author": "Nikhil Garakapati",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "traceotter-0.1.0.tar.gz",
+  "download_time": "2026-03-13T09:27:02.999719",
+  "package_url": "https://pypi.org/project/traceotter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-app-livedata",
+  "version": "3.0.1",
+  "summary": "Provides a live view of network data within Nautobot.",
+  "author": "Josef Fuchs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nautobot_app_livedata-3.0.1.tar.gz",
+  "download_time": "2026-03-13T09:26:51.099893",
+  "package_url": "https://pypi.org/project/nautobot-app-livedata/"
+}

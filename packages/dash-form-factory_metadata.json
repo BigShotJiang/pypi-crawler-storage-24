@@ -1,11 +1,11 @@
 {
   "name": "dash-form-factory",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Generate Dash Bootstrap forms from Pydantic v2 models using a factory pattern",
   "author": null,
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "dash_form_factory-0.1.5.tar.gz",
-  "download_time": "2026-03-13T08:36:45.357087",
+  "download_filename": "dash_form_factory-0.1.6.tar.gz",
+  "download_time": "2026-03-13T09:26:48.366557",
   "package_url": "https://pypi.org/project/dash-form-factory/"
 }

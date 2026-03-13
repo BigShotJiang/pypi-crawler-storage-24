@@ -1,11 +1,11 @@
 {
   "name": "watcherr",
-  "version": "0.1.1",
-  "summary": "Lightweight error alerting via Telegram",
+  "version": "0.2.0",
+  "summary": "Lightweight error alerting via Telegram for Python apps. Integrates with FastAPI, Django, Flask, Sanic, Litestar, aiohttp, Celery, Dramatiq, RQ, Huey, APScheduler, and Playwright.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "watcherr-0.1.1.tar.gz",
-  "download_time": "2026-03-13T07:13:31.475537",
+  "download_filename": "watcherr-0.2.0.tar.gz",
+  "download_time": "2026-03-13T09:27:19.882072",
   "package_url": "https://pypi.org/project/watcherr/"
 }

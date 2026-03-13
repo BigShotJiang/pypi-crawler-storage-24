@@ -1,11 +1,11 @@
 {
   "name": "gpstitch",
-  "version": "0.9.0",
+  "version": "0.10.1",
   "summary": "Web UI for telemetry video overlay configuration and preview",
   "author": "GPStitch Contributors",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "gpstitch-0.9.0-py3-none-any.whl",
-  "download_time": "2026-03-10T17:02:59.579179",
+  "download_filename": "gpstitch-0.10.1-py3-none-any.whl",
+  "download_time": "2026-03-13T09:26:39.897081",
   "package_url": "https://pypi.org/project/gpstitch/"
 }
