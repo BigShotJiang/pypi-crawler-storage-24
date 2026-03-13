@@ -1,11 +1,11 @@
 {
   "name": "metrust",
-  "version": "0.1.8",
-  "summary": "Rust-powered meteorology toolkit for Python",
-  "author": null,
-  "license": null,
+  "version": "0.2.2",
+  "summary": "Rust-powered drop-in replacement for MetPy -- 150/150 calc functions plus 36 extras, 10-93000x faster",
+  "author": "Fahrenheit Research",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "metrust-0.1.8.tar.gz",
-  "download_time": "2026-03-13T10:05:55.155476",
+  "download_filename": "metrust-0.2.2.tar.gz",
+  "download_time": "2026-03-13T19:50:11.717561",
   "package_url": "https://pypi.org/project/metrust/"
 }

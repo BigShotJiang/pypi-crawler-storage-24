@@ -1,11 +1,11 @@
 {
   "name": "puzzel_sms_gateway_client",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "Python client for Puzzel SMS Gateway",
   "author": "Lewi Lie Uberg",
   "license": "MIT",
   "home_page": "https://www.puzzel.com",
-  "download_filename": "puzzel_sms_gateway_client-2.0.3.tar.gz",
-  "download_time": "2026-03-12T12:00:17.618952",
+  "download_filename": "puzzel_sms_gateway_client-2.0.4.tar.gz",
+  "download_time": "2026-03-13T19:50:12.742274",
   "package_url": "https://pypi.org/project/puzzel_sms_gateway_client/"
 }

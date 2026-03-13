@@ -1,0 +1,11 @@
+{
+  "name": "metalware",
+  "version": "2026.3.13",
+  "summary": "Metalware CLI tool",
+  "author": "Metalware Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metalware-2026.3.13.tar.gz",
+  "download_time": "2026-03-13T19:50:04.810904",
+  "package_url": "https://pypi.org/project/metalware/"
+}

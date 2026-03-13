@@ -1,0 +1,11 @@
+{
+  "name": "stabilize",
+  "version": "0.17.4",
+  "summary": "Stabilize Workflow Orchestration - Agentic Parallel Workflows",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "stabilize-0.17.4.tar.gz",
+  "download_time": "2026-03-13T19:49:47.270506",
+  "package_url": "https://pypi.org/project/stabilize/"
+}

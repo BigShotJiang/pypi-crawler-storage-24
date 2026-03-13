@@ -1,0 +1,11 @@
+{
+  "name": "agentintent",
+  "version": "0.1.1",
+  "summary": "Trust infrastructure for AI agents - AI should do what it says, we make sure it does",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentintent-0.1.1.tar.gz",
+  "download_time": "2026-03-13T19:49:53.959549",
+  "package_url": "https://pypi.org/project/agentintent/"
+}

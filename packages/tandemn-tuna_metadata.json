@@ -1,0 +1,11 @@
+{
+  "name": "tandemn-tuna",
+  "version": "0.1.0",
+  "summary": "Hybrid GPU Inference Orchestrator — serverless for cold starts, spot for scale",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tandemn_tuna-0.1.0.tar.gz",
+  "download_time": "2026-03-13T19:49:40.870198",
+  "package_url": "https://pypi.org/project/tandemn-tuna/"
+}

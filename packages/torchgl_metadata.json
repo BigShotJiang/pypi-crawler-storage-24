@@ -1,0 +1,11 @@
+{
+  "name": "torchgl",
+  "version": "0.1.1",
+  "summary": "Interop between ModernGL and PyTorch CUDA",
+  "author": "Adam Alcolado",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchgl-0.1.1.tar.gz",
+  "download_time": "2026-03-13T19:50:01.735393",
+  "package_url": "https://pypi.org/project/torchgl/"
+}

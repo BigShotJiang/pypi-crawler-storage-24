@@ -1,11 +1,11 @@
 {
   "name": "sentinely",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Sentinely — Security layer for AI agents. Stop prompt injection, memory poisoning, and agent drift in 3 lines of code.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sentinely-0.2.1.tar.gz",
-  "download_time": "2026-03-12T15:12:50.864608",
+  "download_filename": "sentinely-0.2.3.tar.gz",
+  "download_time": "2026-03-13T19:50:05.321130",
   "package_url": "https://pypi.org/project/sentinely/"
 }

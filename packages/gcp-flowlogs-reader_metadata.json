@@ -1,0 +1,11 @@
+{
+  "name": "gcp-flowlogs-reader",
+  "version": "4.0.0",
+  "summary": "Reader for Google Cloud VPC Flow Logs",
+  "author": "Cisco Stealthwatch Cloud",
+  "license": "Apache",
+  "home_page": "https://github.com/obsrvbl-oss/gcp-flowlogs-reader",
+  "download_filename": "gcp_flowlogs_reader-4.0.0.tar.gz",
+  "download_time": "2026-03-13T19:49:55.504617",
+  "package_url": "https://pypi.org/project/gcp-flowlogs-reader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polars-rfft",
+  "version": "0.1.1",
+  "summary": "FFT as native Polars expressions — forward/inverse FFT, magnitude, phase, and power spectrum, powered by RustFFT.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_rfft-0.1.1.tar.gz",
+  "download_time": "2026-03-13T19:49:43.506705",
+  "package_url": "https://pypi.org/project/polars-rfft/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "org-mcp",
+  "version": "0.3.1",
+  "summary": "A python-based MCP server for your local org mode files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "org_mcp-0.3.1.tar.gz",
+  "download_time": "2026-03-13T19:50:17.397383",
+  "package_url": "https://pypi.org/project/org-mcp/"
+}

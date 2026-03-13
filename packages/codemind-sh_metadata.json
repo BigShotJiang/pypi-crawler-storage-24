@@ -1,0 +1,11 @@
+{
+  "name": "codemind-sh",
+  "version": "0.1.0",
+  "summary": "Local-first knowledge graph for software projects. Gives AI tools structural facts about your codebase via 11 MCP tools.",
+  "author": "Mohammed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codemind_sh-0.1.0.tar.gz",
+  "download_time": "2026-03-13T19:49:38.812487",
+  "package_url": "https://pypi.org/project/codemind-sh/"
+}

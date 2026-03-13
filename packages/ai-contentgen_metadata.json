@@ -1,0 +1,11 @@
+{
+  "name": "ai-contentgen",
+  "version": "1.0.0",
+  "summary": "Professional AI-powered content generation for developers and entrepreneurs",
+  "author": "Little Boots",
+  "license": null,
+  "home_page": "https://github.com/littlebootsbot/ai-contentgen",
+  "download_filename": "ai_contentgen-1.0.0.tar.gz",
+  "download_time": "2026-03-13T19:49:36.454467",
+  "package_url": "https://pypi.org/project/ai-contentgen/"
+}

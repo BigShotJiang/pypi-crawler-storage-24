@@ -1,0 +1,11 @@
+{
+  "name": "scitex-audio",
+  "version": "0.2.1",
+  "summary": "Text-to-Speech with multiple backends for scientific workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_audio-0.2.1.tar.gz",
+  "download_time": "2026-03-13T19:49:48.322274",
+  "package_url": "https://pypi.org/project/scitex-audio/"
+}

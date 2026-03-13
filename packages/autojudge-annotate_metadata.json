@@ -1,0 +1,11 @@
+{
+  "name": "autojudge-annotate",
+  "version": "0.3.5",
+  "summary": "Manual relevance annotation tools for TREC AutoJudge",
+  "author": "TREC AutoJudge Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autojudge_annotate-0.3.5.tar.gz",
+  "download_time": "2026-03-13T19:49:50.379476",
+  "package_url": "https://pypi.org/project/autojudge-annotate/"
+}

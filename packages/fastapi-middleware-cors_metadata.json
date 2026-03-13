@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-middleware-cors",
+  "version": "1.0.0",
+  "summary": "bible of python utilities - a collection of useful functions and classes for everyday programming tasks",
+  "author": "Alexander",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_middleware_cors-1.0.0.tar.gz",
+  "download_time": "2026-03-13T19:49:57.041476",
+  "package_url": "https://pypi.org/project/fastapi-middleware-cors/"
+}
