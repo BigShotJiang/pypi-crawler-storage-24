@@ -1,11 +1,11 @@
 {
   "name": "avido",
-  "version": "1.29.0",
+  "version": "1.31.0",
   "summary": "The official Python library for the Avido API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "avido-1.29.0.tar.gz",
-  "download_time": "2026-03-11T14:36:02.282795",
+  "download_filename": "avido-1.31.0.tar.gz",
+  "download_time": "2026-03-13T12:45:24.435039",
   "package_url": "https://pypi.org/project/avido/"
 }

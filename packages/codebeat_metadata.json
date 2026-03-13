@@ -1,0 +1,11 @@
+{
+  "name": "codebeat",
+  "version": "0.1",
+  "summary": "CodeBeat is a line-by-line Python function tracer for debugging and performance analysis. It measures execution time per line across multiple runs, showing mean and standard deviation to identify bottlenecks",
+  "author": "Suman Kumar Raj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codebeat-0.1.tar.gz",
+  "download_time": "2026-03-13T12:45:46.176969",
+  "package_url": "https://pypi.org/project/codebeat/"
+}

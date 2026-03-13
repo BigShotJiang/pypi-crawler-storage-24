@@ -1,0 +1,11 @@
+{
+  "name": "evalfork",
+  "version": "3.8.9",
+  "summary": "The LLM Evaluation Framework",
+  "author": "Jeffrey Ip",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "evalfork-3.8.9.tar.gz",
+  "download_time": "2026-03-13T12:45:37.406632",
+  "package_url": "https://pypi.org/project/evalfork/"
+}

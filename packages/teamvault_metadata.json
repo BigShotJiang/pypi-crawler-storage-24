@@ -1,0 +1,11 @@
+{
+  "name": "teamvault",
+  "version": "0.11.8",
+  "summary": "Keep your passwords behind the firewall",
+  "author": "Seibert Group GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "teamvault-0.11.8.tar.gz",
+  "download_time": "2026-03-13T12:45:50.453462",
+  "package_url": "https://pypi.org/project/teamvault/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "thetis",
+  "version": "0.2.5",
+  "summary": "Solution for AI system analysis regarding performance, uncertainty consistency (calibration), fairness, and other aspects relevant for regulatory compliance.",
+  "author": "e:fs TechHub GmbH",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "thetis-0.2.5-py3-none-any.whl",
+  "download_time": "2026-03-13T12:45:08.362600",
+  "package_url": "https://pypi.org/project/thetis/"
+}

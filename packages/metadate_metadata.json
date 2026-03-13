@@ -1,0 +1,11 @@
+{
+  "name": "metadate",
+  "version": "0.6.0",
+  "summary": "Fast natural-language date parser for Python, with an optional C-accelerated scanner",
+  "author": "Pascal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metadate-0.6.0.tar.gz",
+  "download_time": "2026-03-13T12:45:35.344457",
+  "package_url": "https://pypi.org/project/metadate/"
+}

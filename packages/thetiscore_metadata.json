@@ -1,0 +1,11 @@
+{
+  "name": "thetiscore",
+  "version": "0.2.5",
+  "summary": "Service to examine data processing pipelines (e.g., machine learning or deep learning pipelines) for uncertainty consistency (calibration), fairness, and other safety-relevant aspects.",
+  "author": "e:fs TechHub GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "thetiscore-0.2.5-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-13T12:45:09.926638",
+  "package_url": "https://pypi.org/project/thetiscore/"
+}

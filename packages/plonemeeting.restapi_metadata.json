@@ -1,0 +1,11 @@
+{
+  "name": "plonemeeting.restapi",
+  "version": "2.13",
+  "summary": "Extended rest api service for Products.PloneMeeting usecases",
+  "author": "Gauthier Bastien",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.python.org/pypi/plonemeeting.restapi",
+  "download_filename": "plonemeeting_restapi-2.13.tar.gz",
+  "download_time": "2026-03-13T12:45:21.311575",
+  "package_url": "https://pypi.org/project/plonemeeting.restapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "muTimer",
+  "version": "1.0.0",
+  "summary": "Hierarchical timing utility with nested context manager support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mutimer-1.0.0.tar.gz",
+  "download_time": "2026-03-13T12:45:47.223313",
+  "package_url": "https://pypi.org/project/muTimer/"
+}

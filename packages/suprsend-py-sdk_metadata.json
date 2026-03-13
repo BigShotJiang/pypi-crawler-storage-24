@@ -1,0 +1,11 @@
+{
+  "name": "suprsend-py-sdk",
+  "version": "0.18.1",
+  "summary": "Suprsend library for Python",
+  "author": "Suprsend",
+  "license": null,
+  "home_page": "https://github.com/suprsend/suprsend-py-sdk",
+  "download_filename": "suprsend_py_sdk-0.18.1.tar.gz",
+  "download_time": "2026-03-13T12:45:41.552526",
+  "package_url": "https://pypi.org/project/suprsend-py-sdk/"
+}
