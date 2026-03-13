@@ -1,0 +1,11 @@
+{
+  "name": "exit-door",
+  "version": "0.1.0",
+  "summary": "EXIT Protocol SDK — create, sign, and verify ExitMarkers for AI agent departure records",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exit_door-0.1.0.tar.gz",
+  "download_time": "2026-03-13T23:25:48.119532",
+  "package_url": "https://pypi.org/project/exit-door/"
+}

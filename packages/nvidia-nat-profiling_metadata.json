@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nat-profiling",
+  "version": "1.4.2",
+  "summary": "Meta-package providing profiling dependencies for NVIDIA NeMo Agent Toolkit",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nvidia_nat_profiling-1.4.2-py3-none-any.whl",
+  "download_time": "2026-03-13T23:25:57.270510",
+  "package_url": "https://pypi.org/project/nvidia-nat-profiling/"
+}

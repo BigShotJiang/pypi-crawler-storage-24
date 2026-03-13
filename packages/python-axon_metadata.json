@@ -1,11 +1,11 @@
 {
   "name": "python-axon",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "summary": "A modular Python backend framework built on FastAPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_axon-1.0.6.tar.gz",
-  "download_time": "2026-03-13T22:54:01.750246",
+  "download_filename": "python_axon-1.0.9.tar.gz",
+  "download_time": "2026-03-13T23:25:55.732910",
   "package_url": "https://pypi.org/project/python-axon/"
 }

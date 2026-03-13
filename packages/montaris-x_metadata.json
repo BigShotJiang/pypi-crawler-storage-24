@@ -1,11 +1,11 @@
 {
   "name": "montaris-x",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Cross-platform ROI editor for scientific images",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "montaris_x-2.0.0.tar.gz",
-  "download_time": "2026-03-13T19:02:58.871140",
+  "download_filename": "montaris_x-2.0.1.tar.gz",
+  "download_time": "2026-03-13T23:25:53.157678",
   "package_url": "https://pypi.org/project/montaris-x/"
 }

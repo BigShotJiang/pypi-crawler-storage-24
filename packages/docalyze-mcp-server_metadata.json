@@ -1,0 +1,11 @@
+{
+  "name": "docalyze-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for reading and visually analyzing local documents (PDF, Excel, CSV, Word, PowerPoint, images). No API keys required — works with GitHub Copilot and any MCP-compatible AI host.",
+  "author": "Juan Esteban Mosquera",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docalyze_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-13T23:25:52.130846",
+  "package_url": "https://pypi.org/project/docalyze-mcp-server/"
+}

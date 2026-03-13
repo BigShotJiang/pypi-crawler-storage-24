@@ -1,0 +1,11 @@
+{
+  "name": "argus-agent-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for Argus — AI agent observability and security monitoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "argus_agent_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-13T23:25:37.976637",
+  "package_url": "https://pypi.org/project/argus-agent-sdk/"
+}

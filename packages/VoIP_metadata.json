@@ -1,0 +1,11 @@
+{
+  "name": "VoIP",
+  "version": "0.1.1",
+  "summary": "Python asyncio library for VoIP calls.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voip-0.1.1.tar.gz",
+  "download_time": "2026-03-13T23:25:49.722718",
+  "package_url": "https://pypi.org/project/VoIP/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cso-classifier",
+  "version": "4.0.0",
+  "summary": "A light-weight Python app for classifying scientific documents with the topics from the Computer Science Ontology (https://cso.kmi.open.ac.uk/home).",
+  "author": "Angelo Salatino",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/angelosalatino/cso-classifier",
+  "download_filename": "cso_classifier-4.0.0.tar.gz",
+  "download_time": "2026-03-13T23:25:10.039635",
+  "package_url": "https://pypi.org/project/cso-classifier/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nat-ingestion",
+  "version": "1.4.2",
+  "summary": "Meta-package providing ingestion dependencies for NVIDIA NeMo Agent Toolkit",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nvidia_nat_ingestion-1.4.2-py3-none-any.whl",
+  "download_time": "2026-03-13T23:25:21.783613",
+  "package_url": "https://pypi.org/project/nvidia-nat-ingestion/"
+}

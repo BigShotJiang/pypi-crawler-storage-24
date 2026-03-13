@@ -1,0 +1,11 @@
+{
+  "name": "aeclib",
+  "version": "0.2.0",
+  "summary": "Open-source computational logic engine for global building codes and standards.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aeclib-0.2.0.tar.gz",
+  "download_time": "2026-03-13T23:26:00.328072",
+  "package_url": "https://pypi.org/project/aeclib/"
+}

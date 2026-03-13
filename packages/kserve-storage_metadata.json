@@ -1,0 +1,11 @@
+{
+  "name": "kserve-storage",
+  "version": "0.17.0",
+  "summary": "KServe Storage Handler. This module is responsible to download the models from the provided source",
+  "author": null,
+  "license": "https://github.com/kserve/kserve/blob/master/LICENSE",
+  "home_page": null,
+  "download_filename": "kserve_storage-0.17.0.tar.gz",
+  "download_time": "2026-03-13T23:25:40.096242",
+  "package_url": "https://pypi.org/project/kserve-storage/"
+}

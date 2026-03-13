@@ -1,0 +1,11 @@
+{
+  "name": "exit-door-langchain",
+  "version": "0.1.0",
+  "summary": "LangChain callback handler for EXIT Protocol departure markers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exit_door_langchain-0.1.0.tar.gz",
+  "download_time": "2026-03-13T23:25:47.096172",
+  "package_url": "https://pypi.org/project/exit-door-langchain/"
+}

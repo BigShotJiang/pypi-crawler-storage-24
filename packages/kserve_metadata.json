@@ -1,0 +1,11 @@
+{
+  "name": "kserve",
+  "version": "0.17.0",
+  "summary": "KServe Python SDK",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kserve-0.17.0.tar.gz",
+  "download_time": "2026-03-13T23:25:39.511404",
+  "package_url": "https://pypi.org/project/kserve/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "faikdev-runner",
-  "version": "0.44.0",
+  "version": "0.47.0",
   "summary": "BitShop runner library for executing fAIk Dev worker tasks.",
   "author": "BitShop",
   "license": null,
   "home_page": null,
-  "download_filename": "faikdev_runner-0.44.0-py3-none-any.whl",
-  "download_time": "2026-03-09T02:31:50.857322",
+  "download_filename": "faikdev_runner-0.47.0-py3-none-any.whl",
+  "download_time": "2026-03-13T23:25:11.705737",
   "package_url": "https://pypi.org/project/faikdev-runner/"
 }
