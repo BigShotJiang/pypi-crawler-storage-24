@@ -1,0 +1,11 @@
+{
+  "name": "omni-proof",
+  "version": "0.0.1",
+  "summary": "Causal-Multimodal Engine for Creative Performance Attribution",
+  "author": "OmniProof Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omni_proof-0.0.1.tar.gz",
+  "download_time": "2026-03-14T23:51:27.733127",
+  "package_url": "https://pypi.org/project/omni-proof/"
+}

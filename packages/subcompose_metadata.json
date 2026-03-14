@@ -1,0 +1,11 @@
+{
+  "name": "subcompose",
+  "version": "1.0.0.dev0",
+  "summary": "A command line utility to manage subsets of services in compose.yaml files.",
+  "author": "José Hernández",
+  "license": null,
+  "home_page": null,
+  "download_filename": "subcompose-1.0.0.dev0.tar.gz",
+  "download_time": "2026-03-14T23:51:40.751887",
+  "package_url": "https://pypi.org/project/subcompose/"
+}

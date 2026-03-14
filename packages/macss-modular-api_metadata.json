@@ -1,0 +1,11 @@
+{
+  "name": "macss-modular-api",
+  "version": "0.4.4",
+  "summary": "Use-case-centric toolkit for building modular APIs with Starlette. Define UseCase classes (input → validate → execute → output), connect them to HTTP routes, and expose OpenAPI documentation automatically.",
+  "author": "ccisne.dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "macss_modular_api-0.4.4.tar.gz",
+  "download_time": "2026-03-14T23:51:45.395562",
+  "package_url": "https://pypi.org/project/macss-modular-api/"
+}

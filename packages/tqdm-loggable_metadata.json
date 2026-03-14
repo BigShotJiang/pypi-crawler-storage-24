@@ -1,0 +1,11 @@
+{
+  "name": "tqdm-loggable",
+  "version": "0.4",
+  "summary": "TQDM progress bar helpers for logging and other headless application",
+  "author": "Mikko Ohtamaa",
+  "license": "MIT",
+  "home_page": "https://github.com/tradingstrategy-ai/tqdm-loggable",
+  "download_filename": "tqdm_loggable-0.4.tar.gz",
+  "download_time": "2026-03-14T23:51:59.887444",
+  "package_url": "https://pypi.org/project/tqdm-loggable/"
+}

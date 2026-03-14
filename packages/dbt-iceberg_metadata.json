@@ -1,0 +1,11 @@
+{
+  "name": "dbt-iceberg",
+  "version": "1.0.22",
+  "summary": "The Apache Iceberg adapter plugin for dbt with Kubernetes Job-based Python model execution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_iceberg-1.0.22.tar.gz",
+  "download_time": "2026-03-14T23:51:54.700631",
+  "package_url": "https://pypi.org/project/dbt-iceberg/"
+}

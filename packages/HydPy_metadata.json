@@ -1,0 +1,11 @@
+{
+  "name": "HydPy",
+  "version": "6.2.0",
+  "summary": "A framework for the development and application of hydrological models.",
+  "author": "HydPy Developers",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/hydpy-dev/hydpy",
+  "download_filename": "hydpy-6.2.0.tar.gz",
+  "download_time": "2026-03-14T23:52:02.655829",
+  "package_url": "https://pypi.org/project/HydPy/"
+}

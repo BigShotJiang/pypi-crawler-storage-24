@@ -1,0 +1,11 @@
+{
+  "name": "smallgraphlib",
+  "version": "1.1.1",
+  "summary": "Simple library for handling small graphs, including Tikz code generation.",
+  "author": "Nicolas Pourcelot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smallgraphlib-1.1.1.tar.gz",
+  "download_time": "2026-03-14T23:51:57.802592",
+  "package_url": "https://pypi.org/project/smallgraphlib/"
+}

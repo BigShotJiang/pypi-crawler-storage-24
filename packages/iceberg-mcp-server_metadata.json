@@ -1,11 +1,11 @@
 {
   "name": "iceberg-mcp-server",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "summary": "MCP Server for Apache Iceberg",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iceberg_mcp_server-0.1.31.tar.gz",
-  "download_time": "2026-03-14T22:55:00.563584",
+  "download_filename": "iceberg_mcp_server-0.1.32.tar.gz",
+  "download_time": "2026-03-14T23:51:47.475222",
   "package_url": "https://pypi.org/project/iceberg-mcp-server/"
 }

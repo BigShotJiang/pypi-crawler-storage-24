@@ -1,11 +1,11 @@
 {
   "name": "agent-search-core",
-  "version": "1.0.17",
+  "version": "1.0.19",
   "summary": "In-process SDK runtime for agent-search",
   "author": "agent-search maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_search_core-1.0.17.tar.gz",
-  "download_time": "2026-03-14T21:51:27.795979",
+  "download_filename": "agent_search_core-1.0.19.tar.gz",
+  "download_time": "2026-03-14T23:51:50.573912",
   "package_url": "https://pypi.org/project/agent-search-core/"
 }

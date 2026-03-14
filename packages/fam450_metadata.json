@@ -1,0 +1,11 @@
+{
+  "name": "fam450",
+  "version": "0.1.1",
+  "summary": "A Python package to calculate the number of allowed devations for tests of internal control effectiveness or ineffectiveness.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fam450-0.1.1.tar.gz",
+  "download_time": "2026-03-14T23:51:41.265359",
+  "package_url": "https://pypi.org/project/fam450/"
+}
