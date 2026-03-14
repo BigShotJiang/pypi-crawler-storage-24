@@ -1,0 +1,11 @@
+{
+  "name": "local-ocr-mcp",
+  "version": "0.2.0",
+  "summary": "Minimal stdio-first OCR MCP service powered by PaddleOCR",
+  "author": "Local OCR MCP Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "local_ocr_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-14T08:48:34.904657",
+  "package_url": "https://pypi.org/project/local-ocr-mcp/"
+}

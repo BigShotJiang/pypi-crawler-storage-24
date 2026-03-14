@@ -1,0 +1,11 @@
+{
+  "name": "pyraf",
+  "version": "2.2.4",
+  "summary": "Pythonic interface to IRAF that can be used in place of the existing IRAF CL",
+  "author": "Rick White, Perry Greenfield, Chris Sontag, Ole Streicher",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "pyraf-2.2.4.tar.gz",
+  "download_time": "2026-03-14T08:48:33.334920",
+  "package_url": "https://pypi.org/project/pyraf/"
+}

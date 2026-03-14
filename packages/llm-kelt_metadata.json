@@ -1,0 +1,11 @@
+{
+  "name": "llm-kelt",
+  "version": "0.2.0",
+  "summary": "Framework for collecting and managing LLM context",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_kelt-0.2.0.tar.gz",
+  "download_time": "2026-03-14T08:48:49.493304",
+  "package_url": "https://pypi.org/project/llm-kelt/"
+}

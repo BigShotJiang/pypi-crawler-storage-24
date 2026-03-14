@@ -1,0 +1,11 @@
+{
+  "name": "financetoolkit",
+  "version": "2.0.7",
+  "summary": "Transparent and Efficient Financial Analysis",
+  "author": "Jeroen Bouma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "financetoolkit-2.0.7.tar.gz",
+  "download_time": "2026-03-14T08:48:32.810571",
+  "package_url": "https://pypi.org/project/financetoolkit/"
+}

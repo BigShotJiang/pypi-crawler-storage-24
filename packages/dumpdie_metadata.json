@@ -1,11 +1,11 @@
 {
   "name": "dumpdie",
-  "version": "1.0.1",
+  "version": "1.3.0",
   "summary": "The missing `dd` function in python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dumpdie-1.0.1.tar.gz",
-  "download_time": "2026-03-14T08:03:00.180735",
+  "download_filename": "dumpdie-1.3.0.tar.gz",
+  "download_time": "2026-03-14T08:48:55.206910",
   "package_url": "https://pypi.org/project/dumpdie/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vecsai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Vecsai: vector db for everyone",
   "author": "Vecsai Team",
   "license": null,
   "home_page": null,
-  "download_filename": "vecsai-0.1.1.tar.gz",
-  "download_time": "2026-03-14T08:03:13.669120",
+  "download_filename": "vecsai-0.1.2.tar.gz",
+  "download_time": "2026-03-14T08:48:58.845188",
   "package_url": "https://pypi.org/project/vecsai/"
 }

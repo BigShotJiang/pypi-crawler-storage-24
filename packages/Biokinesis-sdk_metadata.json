@@ -1,0 +1,11 @@
+{
+  "name": "Biokinesis-sdk",
+  "version": "1.0.0",
+  "summary": "Research-grade Python SDK for combined EMG+IMU wearable sensors",
+  "author": "Biokinesis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "biokinesis_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-14T08:48:50.532378",
+  "package_url": "https://pypi.org/project/Biokinesis-sdk/"
+}

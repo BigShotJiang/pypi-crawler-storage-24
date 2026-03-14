@@ -1,0 +1,11 @@
+{
+  "name": "shelllm-t",
+  "version": "0.1.0",
+  "summary": "Shell integration for LLM interactions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shelllm_t-0.1.0.tar.gz",
+  "download_time": "2026-03-14T08:48:57.809697",
+  "package_url": "https://pypi.org/project/shelllm-t/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "phantom-agent",
-  "version": "0.9.80",
+  "version": "0.9.85",
   "summary": "Autonomous Offensive Security Intelligence — AI-powered penetration testing",
   "author": "Usta0x001",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "phantom_agent-0.9.80.tar.gz",
-  "download_time": "2026-03-13T11:31:02.863052",
+  "download_filename": "phantom_agent-0.9.85.tar.gz",
+  "download_time": "2026-03-14T08:49:07.189706",
   "package_url": "https://pypi.org/project/phantom-agent/"
 }

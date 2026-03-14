@@ -1,11 +1,11 @@
 {
   "name": "discord-cli-agent",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Discord CLI for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "discord_cli_agent-0.5.2.tar.gz",
-  "download_time": "2026-03-14T08:03:16.225918",
+  "download_filename": "discord_cli_agent-0.5.3.tar.gz",
+  "download_time": "2026-03-14T08:49:11.361280",
   "package_url": "https://pypi.org/project/discord-cli-agent/"
 }

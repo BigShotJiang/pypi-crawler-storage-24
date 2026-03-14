@@ -1,0 +1,11 @@
+{
+  "name": "sonote",
+  "version": "1.1.0b1",
+  "summary": "AI 에이전트를 위한 소리 노트 — 실시간 한국어 음성 전사 CLI",
+  "author": "tellang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sonote-1.1.0b1.tar.gz",
+  "download_time": "2026-03-14T08:48:40.684945",
+  "package_url": "https://pypi.org/project/sonote/"
+}

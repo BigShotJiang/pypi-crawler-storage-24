@@ -1,11 +1,11 @@
 {
   "name": "openclaw-sentrix",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Sandboxed OpenClaw with agentic police management",
   "author": "Desmond Zee",
   "license": null,
   "home_page": null,
-  "download_filename": "openclaw_sentrix-0.1.10.tar.gz",
-  "download_time": "2026-03-13T21:50:31.333722",
+  "download_filename": "openclaw_sentrix-0.1.11.tar.gz",
+  "download_time": "2026-03-14T08:48:31.756089",
   "package_url": "https://pypi.org/project/openclaw-sentrix/"
 }
