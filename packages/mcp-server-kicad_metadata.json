@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-kicad",
-  "version": "0.8.4",
+  "version": "0.8.7",
   "summary": "MCP servers for KiCad schematic, PCB, and export automation",
   "author": "ProductOfAmerica",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_kicad-0.8.4.tar.gz",
-  "download_time": "2026-03-14T05:06:28.712097",
+  "download_filename": "mcp_server_kicad-0.8.7.tar.gz",
+  "download_time": "2026-03-14T07:02:24.653319",
   "package_url": "https://pypi.org/project/mcp-server-kicad/"
 }

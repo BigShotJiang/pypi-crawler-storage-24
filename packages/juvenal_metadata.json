@@ -1,11 +1,11 @@
 {
   "name": "juvenal",
-  "version": "0.23.1",
+  "version": "0.25.0",
   "summary": "Who guards the agents? A framework for orchestrating AI coding agents through verified implementation phases.",
   "author": "Yan Shoshitaishvili",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "juvenal-0.23.1-py3-none-any.whl",
-  "download_time": "2026-03-14T06:02:47.182402",
+  "download_filename": "juvenal-0.25.0.tar.gz",
+  "download_time": "2026-03-14T07:02:13.389606",
   "package_url": "https://pypi.org/project/juvenal/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ms-service-metric",
+  "version": "0.0.1a1",
+  "summary": "一个轻量级的 Python 服务指标采集库，支持动态 Hook 和 Prometheus 指标输出",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ms_service_metric-0.0.1a1.tar.gz",
+  "download_time": "2026-03-14T07:02:28.232947",
+  "package_url": "https://pypi.org/project/ms-service-metric/"
+}

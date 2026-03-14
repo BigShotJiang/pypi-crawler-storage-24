@@ -1,0 +1,11 @@
+{
+  "name": "toot-tooi",
+  "version": "0.23.0",
+  "summary": "Mastodon terminal user interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toot_tooi-0.23.0.tar.gz",
+  "download_time": "2026-03-14T07:02:21.072343",
+  "package_url": "https://pypi.org/project/toot-tooi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "SCHIZOPHRENIC-AI",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "summary": null,
   "author": "SAPIENS TECHNOLOGY",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/SCHIZOPHRENIC-AI",
-  "download_filename": "schizophrenic_ai-1.0.2.tar.gz",
-  "download_time": "2026-03-10T22:55:05.905906",
+  "download_filename": "schizophrenic_ai-1.0.7.tar.gz",
+  "download_time": "2026-03-14T07:02:18.507542",
   "package_url": "https://pypi.org/project/SCHIZOPHRENIC-AI/"
 }

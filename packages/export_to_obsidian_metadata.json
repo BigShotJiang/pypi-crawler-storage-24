@@ -1,0 +1,11 @@
+{
+  "name": "export_to_obsidian",
+  "version": "0.3.25.3",
+  "summary": "A tool to export all you need to obsidian",
+  "author": "hx",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/bGZo/playground/tree/2025/07/export-to-obsidian",
+  "download_filename": "export_to_obsidian-0.3.25.3.tar.gz",
+  "download_time": "2026-03-14T07:02:29.254095",
+  "package_url": "https://pypi.org/project/export_to_obsidian/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "experience-rating",
+  "version": "0.1.1",
+  "summary": "NCD/bonus-malus systems, experience modification factors, and schedule rating for UK insurance pricing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "experience_rating-0.1.1.tar.gz",
+  "download_time": "2026-03-14T07:02:44.253724",
+  "package_url": "https://pypi.org/project/experience-rating/"
+}

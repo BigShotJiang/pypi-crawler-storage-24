@@ -1,0 +1,11 @@
+{
+  "name": "mythril-agent-skills",
+  "version": "0.1.0",
+  "summary": "Reusable skills for AI coding assistants (Copilot, Claude Code, Cursor, Codex, Gemini CLI, and more)",
+  "author": "Jie Meng",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mythril_agent_skills-0.1.0.tar.gz",
+  "download_time": "2026-03-14T07:02:16.464571",
+  "package_url": "https://pypi.org/project/mythril-agent-skills/"
+}

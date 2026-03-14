@@ -1,0 +1,11 @@
+{
+  "name": "insurance-causal-policy",
+  "version": "0.1.7",
+  "summary": "Causal evaluation of insurance pricing interventions using Synthetic Difference-in-Differences",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_causal_policy-0.1.7.tar.gz",
+  "download_time": "2026-03-14T07:02:19.018276",
+  "package_url": "https://pypi.org/project/insurance-causal-policy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xsdk",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "summary": "Python通用开发工具包",
   "author": "HenryWuu",
   "license": null,
   "home_page": null,
-  "download_filename": "xsdk-1.0.3.tar.gz",
-  "download_time": "2026-03-14T06:02:49.824800",
+  "download_filename": "xsdk-1.0.8.tar.gz",
+  "download_time": "2026-03-14T07:02:30.790176",
   "package_url": "https://pypi.org/project/xsdk/"
 }

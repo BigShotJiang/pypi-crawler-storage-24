@@ -1,0 +1,11 @@
+{
+  "name": "valyte",
+  "version": "0.17.0",
+  "summary": "A comprehensive CLI tool for VASP pre-processing (Supercells, K-points) and post-processing (DOS, Band Structure plotting)",
+  "author": "Nikhil",
+  "license": null,
+  "home_page": "https://github.com/nikyadav002/Valyte-Project",
+  "download_filename": "valyte-0.17.0.tar.gz",
+  "download_time": "2026-03-14T07:02:12.854435",
+  "package_url": "https://pypi.org/project/valyte/"
+}

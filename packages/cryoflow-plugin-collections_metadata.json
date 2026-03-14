@@ -1,0 +1,11 @@
+{
+  "name": "cryoflow-plugin-collections",
+  "version": "0.2.3",
+  "summary": "Sample plugin for cryoflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryoflow_plugin_collections-0.2.3.tar.gz",
+  "download_time": "2026-03-14T07:02:34.368946",
+  "package_url": "https://pypi.org/project/cryoflow-plugin-collections/"
+}
