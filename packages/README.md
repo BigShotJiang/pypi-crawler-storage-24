@@ -1,71 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-14T11:22:36.023959
-- **Total Packages**: 90
-- **Total Size**: 28.06 MB
+- **Download Time**: 2026-03-14T11:47:57.770585
+- **Total Packages**: 81
+- **Total Size**: 4.3 MB
 
 ## Packages List
-- uvero
-- nvidia-nat-langchain
-- infomaniak
-- nvidia-nat-autogen
-- nvidia-nat-semantic-kernel
-- heylead
-- nvidia-nat-zep-cloud
-- nvidia-nat-agno
-- outlook365-cli
-- quote0-client
-- nvidia-nat-app
-- secagent-ai
-- nvidia-nat-vanna
-- nvidia-nat-rag
-- tinyio
-- iatoolkit
-- cloudsense-customer-compass
-- tabdock
-- printo
-- aiinbx
-- electroid
-- dsora-gen
-- ugraph
-- wavekit-mcp
-- django-cfg
-- fastapi-uvicorn-pydantic
-- pyshine-translator
-- luxur-ai
-- atomix-stm
-- pydantic-visualizer
-- icalendar-events-cli
-- yu-pytools
-- tensorbored-nightly
-- portacode
-- llmdebug
-- htag
-- mstarpy
-- aiobmsble
-- gui-executor
-- pytorch-scheduler
-- decksmith
-- revkeen
-- phantom-agent
-- poolcop
-- vital-cli
-- checkpoint-agent
-- bilbo-audiobook
-- subdomain-takeover-tools
-- sd-webui-all-in-one
-- lazy-mysql
-- placebrain-contracts
-- glq
-- uipath-langchain
-- agentkit-cli
-- mail-senderpy
-- langsmith-cli
-- essence-wars
-- django-resaas
-- marqetive-lib
-- gp4c
 - aip-agents-binary
 - capcat
 - agentpick
@@ -96,3 +36,54 @@
 - codesecure-cli
 - codesecure-core
 - pybndes
+- secagent-ai
+- casconf
+- pyshine-translator
+- commune-mcp
+- commune-cli
+- steerplane
+- cloudsense-customer-compass
+- luxur-ai
+- neemuds
+- testtools
+- codebones
+- letta-nightly
+- fastcdp
+- keelcore-standards
+- agentpact
+- cplt
+- stelvio
+- robotframework-trace
+- collabmark
+- unmcp
+- jina-cli
+- oasyce
+- AutoCAD
+- revkeen
+- ohlcv-router
+- docreader-ocr
+- madblog
+- diffindiff
+- tibet-core
+- infrasim
+- uvero
+- cheqi-sdk
+- andrew-nanobanana-mcp-server
+- mailbot-sdk
+- KekikStream
+- torchshapeflow
+- iwa
+- agentmake
+- printo
+- zccache
+- msf2csv
+- trickle-observe
+- django-rq
+- luckee-cli
+- ews-scoreboard
+- pymed-paperscraper
+- surfmon
+- ascendnpu-ir
+- mcp-f1
+- memclaw
+- llm-codegen-research
