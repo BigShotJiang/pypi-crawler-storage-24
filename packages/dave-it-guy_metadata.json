@@ -1,11 +1,11 @@
 {
   "name": "dave-it-guy",
-  "version": "0.1.9",
-  "summary": "Dave IT Guy — Deploy AI stacks with one command. OpenClaw, Ollama, Qdrant, containerized.",
+  "version": "0.2.0",
+  "summary": "Dave IT Guy — Deploy AI stacks with one command. OpenClaw, Ollama, Qdrant—fully containerized. Run locally or ship to the cloud. Same stack, anywhere.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dave_it_guy-0.1.9.tar.gz",
-  "download_time": "2026-03-14T19:58:46.106134",
+  "download_filename": "dave_it_guy-0.2.0.tar.gz",
+  "download_time": "2026-03-14T22:23:23.805446",
   "package_url": "https://pypi.org/project/dave-it-guy/"
 }

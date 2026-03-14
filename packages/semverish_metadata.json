@@ -1,0 +1,11 @@
+{
+  "name": "semverish",
+  "version": "2.0.0",
+  "summary": "Python wrapper around Go module `github.com/rng70/versions/v2` for parsing and sorting semver and non-semver-ish versions and constraints.",
+  "author": "Al Arafat Tanin",
+  "license": null,
+  "home_page": "https://github.com/rng70/versions",
+  "download_filename": "semverish-2.0.0.tar.gz",
+  "download_time": "2026-03-14T22:22:56.777177",
+  "package_url": "https://pypi.org/project/semverish/"
+}

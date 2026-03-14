@@ -1,0 +1,11 @@
+{
+  "name": "trackerhelper",
+  "version": "0.4.6",
+  "summary": "Utilities for music discography folders (stats, BBCode, normalize).",
+  "author": "pryid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trackerhelper-0.4.6.tar.gz",
+  "download_time": "2026-03-14T22:23:20.542185",
+  "package_url": "https://pypi.org/project/trackerhelper/"
+}

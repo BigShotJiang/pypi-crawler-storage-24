@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.20.3",
-  "summary": "v0.20.3: MuSiQue n=500 definitive result — SC_OLD AUROC 0.506 [0.501,0.576], scope reclassified as out-of-scope alongside NQ. v0.20.2: P(True) statistical validation — AUROC 0.759/0.682/0.758 [all CIs above 0.5] across 3 domains (HotpotQA/TriviaQA/2WikiMultiHop, n=60 each, $0 cached); 2Wiki ensemble 0.817 [0.706,0.912]. v0.20.1: Publishability fixes — bootstrap CIs for alert precision 0.896 [0.826,0.960], stream_guard AUROC 0.666, naive baseline table.",
+  "version": "0.20.5",
+  "summary": "v0.20.5: RAG agent P(True) 0.711 [0.633,0.783] on MuSiQue n=199. Code+Math FARL experiment added (exp_code_math_farl.py). scope_limitations.md updated. v0.20.4: P(True) MuSiQue n=500 AUROC 0.684, alert precision 0.935. v0.20.3: MuSiQue SC_OLD 0.506 out-of-scope.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.20.3.tar.gz",
-  "download_time": "2026-03-14T19:07:02.413469",
+  "download_filename": "llm_guard_kit-0.20.5-py3-none-any.whl",
+  "download_time": "2026-03-14T22:23:08.654145",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

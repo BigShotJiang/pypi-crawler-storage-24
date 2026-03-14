@@ -1,11 +1,11 @@
 {
   "name": "protomcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Write MCP tools in Python. No MCP knowledge required.",
   "author": "msilverblatt",
   "license": null,
   "home_page": null,
-  "download_filename": "protomcp-0.1.0.tar.gz",
-  "download_time": "2026-03-14T21:24:22.139100",
+  "download_filename": "protomcp-0.1.2.tar.gz",
+  "download_time": "2026-03-14T22:23:27.093847",
   "package_url": "https://pypi.org/project/protomcp/"
 }

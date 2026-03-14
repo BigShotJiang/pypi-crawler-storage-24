@@ -1,11 +1,11 @@
 {
   "name": "fit-webview-bridge",
-  "version": "1.0.0rc2",
+  "version": "1.0.0rc3",
   "summary": "Qt native WebView bridge with PySide6 bindings",
   "author": "FIT Project",
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "fit_webview_bridge-1.0.0rc2.tar.gz",
-  "download_time": "2026-03-14T19:43:25.903041",
+  "download_filename": "fit_webview_bridge-1.0.0rc3.tar.gz",
+  "download_time": "2026-03-14T22:23:18.385301",
   "package_url": "https://pypi.org/project/fit-webview-bridge/"
 }

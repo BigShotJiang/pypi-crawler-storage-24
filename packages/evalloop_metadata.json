@@ -1,11 +1,11 @@
 {
   "name": "evalloop",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Closed-loop eval monitoring for LLM-powered products",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "evalloop-0.1.2.tar.gz",
-  "download_time": "2026-03-14T21:24:21.592171",
+  "download_filename": "evalloop-0.1.4.tar.gz",
+  "download_time": "2026-03-14T22:23:02.700786",
   "package_url": "https://pypi.org/project/evalloop/"
 }

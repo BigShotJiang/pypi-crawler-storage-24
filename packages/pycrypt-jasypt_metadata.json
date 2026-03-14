@@ -1,0 +1,11 @@
+{
+  "name": "pycrypt-jasypt",
+  "version": "1.0.0",
+  "summary": "Jasypt-like encryption library for Python - Encrypt your configuration with ENC(...) pattern",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycrypt_jasypt-1.0.0.tar.gz",
+  "download_time": "2026-03-14T22:23:07.037427",
+  "package_url": "https://pypi.org/project/pycrypt-jasypt/"
+}

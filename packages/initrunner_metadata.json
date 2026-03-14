@@ -1,11 +1,11 @@
 {
   "name": "initrunner",
-  "version": "1.26.0",
+  "version": "1.27.0",
   "summary": "Define AI agent roles in YAML and run them anywhere — CLI, API server, or autonomous daemon",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "initrunner-1.26.0.tar.gz",
-  "download_time": "2026-03-14T19:43:38.368255",
+  "download_filename": "initrunner-1.27.0.tar.gz",
+  "download_time": "2026-03-14T22:23:21.631813",
   "package_url": "https://pypi.org/project/initrunner/"
 }

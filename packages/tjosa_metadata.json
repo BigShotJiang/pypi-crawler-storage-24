@@ -1,11 +1,11 @@
 {
   "name": "tjosa",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "t-string을 지원하는 Python 한국어 조사 처리 라이브러리",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tjosa-0.1.0.tar.gz",
-  "download_time": "2026-03-14T21:51:37.760197",
+  "download_filename": "tjosa-0.2.0.tar.gz",
+  "download_time": "2026-03-14T22:23:41.896511",
   "package_url": "https://pypi.org/project/tjosa/"
 }

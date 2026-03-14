@@ -1,11 +1,11 @@
 {
   "name": "boostedtravel",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "Agent-native flight search & booking. 400+ airlines, 58 direct LCC scrapers run locally. Built for autonomous AI agents.",
   "author": "BoostedTravel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "boostedtravel-0.2.10.tar.gz",
-  "download_time": "2026-03-14T19:43:36.703336",
+  "download_filename": "boostedtravel-0.2.11.tar.gz",
+  "download_time": "2026-03-14T22:23:43.561265",
   "package_url": "https://pypi.org/project/boostedtravel/"
 }

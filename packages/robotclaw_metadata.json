@@ -1,0 +1,11 @@
+{
+  "name": "robotclaw",
+  "version": "0.2.1",
+  "summary": "Let AI control real robots — Python robotics framework for servo control, motion teaching, and AI agent integration",
+  "author": "RobotClaw Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotclaw-0.2.1.tar.gz",
+  "download_time": "2026-03-14T22:23:01.591407",
+  "package_url": "https://pypi.org/project/robotclaw/"
+}
