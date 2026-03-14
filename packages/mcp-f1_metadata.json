@@ -1,11 +1,11 @@
 {
   "name": "mcp-f1",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Formula 1 analytics MCP server with 118+ tools powered by FastF1 and Ergast",
   "author": "Luffy610",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_f1-0.1.0.tar.gz",
-  "download_time": "2026-03-14T07:42:13.868627",
+  "download_filename": "mcp_f1-0.1.1.tar.gz",
+  "download_time": "2026-03-14T09:29:32.718596",
   "package_url": "https://pypi.org/project/mcp-f1/"
 }

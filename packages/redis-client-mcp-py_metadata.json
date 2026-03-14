@@ -1,0 +1,11 @@
+{
+  "name": "redis-client-mcp-py",
+  "version": "0.1.0",
+  "summary": "MCP Server for Redis (standalone + cluster) - key discovery, info, safe command execution",
+  "author": "dong_tech",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "redis_client_mcp_py-0.1.0.tar.gz",
+  "download_time": "2026-03-14T09:29:51.492632",
+  "package_url": "https://pypi.org/project/redis-client-mcp-py/"
+}

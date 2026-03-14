@@ -1,11 +1,11 @@
 {
   "name": "comfy-aimdo",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "summary": "AI Model Dynamic Offloader for ComfyUI",
   "author": "rattus",
   "license": null,
   "home_page": null,
-  "download_filename": "comfy_aimdo-0.2.10-cp39-abi3-manylinux1_x86_64.manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_5_x86_64.whl",
-  "download_time": "2026-03-11T15:35:23.083821",
+  "download_filename": "comfy_aimdo-0.2.12-cp39-abi3-manylinux1_x86_64.manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2026-03-14T09:30:09.099169",
   "package_url": "https://pypi.org/project/comfy-aimdo/"
 }

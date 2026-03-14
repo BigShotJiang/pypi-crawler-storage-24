@@ -1,0 +1,11 @@
+{
+  "name": "datus-metricflow",
+  "version": "0.1.8",
+  "summary": "Simplified MetricFlow integration for Datus Agent - One-command setup for semantic metrics",
+  "author": "Datus.ai",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://datus.ai",
+  "download_filename": "datus_metricflow-0.1.8.tar.gz",
+  "download_time": "2026-03-14T09:29:46.290407",
+  "package_url": "https://pypi.org/project/datus-metricflow/"
+}

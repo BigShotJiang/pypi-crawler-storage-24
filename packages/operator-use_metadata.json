@@ -1,11 +1,11 @@
 {
   "name": "operator-use",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A personal assistant that operates your computer. Just like you.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "operator_use-0.1.7.tar.gz",
-  "download_time": "2026-03-14T06:02:59.552741",
+  "download_filename": "operator_use-0.1.9.tar.gz",
+  "download_time": "2026-03-14T09:30:06.509701",
   "package_url": "https://pypi.org/project/operator-use/"
 }

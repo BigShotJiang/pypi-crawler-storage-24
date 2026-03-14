@@ -1,0 +1,11 @@
+{
+  "name": "pdf-image-table-cropper",
+  "version": "0.1.1",
+  "summary": "Crop image/table/code regions from PDF files and export metadata",
+  "author": "pdf-image-table-cropper maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf_image_table_cropper-0.1.1.tar.gz",
+  "download_time": "2026-03-14T09:30:05.989826",
+  "package_url": "https://pypi.org/project/pdf-image-table-cropper/"
+}

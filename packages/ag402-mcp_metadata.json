@@ -1,11 +1,11 @@
 {
   "name": "ag402-mcp",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "HTTP payment gateway adapter for Ag402 — wraps any API with x402 payment verification",
   "author": "Ag402 Team",
   "license": null,
   "home_page": null,
-  "download_filename": "ag402_mcp-0.1.18.tar.gz",
-  "download_time": "2026-03-14T05:06:36.014873",
+  "download_filename": "ag402_mcp-0.1.19.tar.gz",
+  "download_time": "2026-03-14T09:29:49.403730",
   "package_url": "https://pypi.org/project/ag402-mcp/"
 }

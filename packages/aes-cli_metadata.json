@@ -1,11 +1,11 @@
 {
   "name": "aes-cli",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "CLI tool for the Agentic Engineering Standard",
   "author": "Hiro",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aes_cli-0.3.1.tar.gz",
-  "download_time": "2026-03-14T07:42:29.369583",
+  "download_filename": "aes_cli-0.4.0.tar.gz",
+  "download_time": "2026-03-14T09:29:57.706084",
   "package_url": "https://pypi.org/project/aes-cli/"
 }
