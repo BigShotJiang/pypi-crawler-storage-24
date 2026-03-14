@@ -1,0 +1,11 @@
+{
+  "name": "micropdf",
+  "version": "0.14.0",
+  "summary": "Python bindings for MicroPDF - High-performance PDF manipulation library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "micropdf-0.14.0.tar.gz",
+  "download_time": "2026-03-14T18:32:12.315173",
+  "package_url": "https://pypi.org/project/micropdf/"
+}

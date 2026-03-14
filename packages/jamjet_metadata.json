@@ -1,11 +1,11 @@
 {
   "name": "jamjet",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "JamJet Python SDK — agent-native workflow authoring and CLI",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jamjet-0.1.2-py3-none-any.whl",
-  "download_time": "2026-03-08T06:50:47.865628",
+  "download_filename": "jamjet-0.2.0.tar.gz",
+  "download_time": "2026-03-14T18:32:30.602222",
   "package_url": "https://pypi.org/project/jamjet/"
 }

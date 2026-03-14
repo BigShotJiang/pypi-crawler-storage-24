@@ -1,11 +1,11 @@
 {
   "name": "llmshim",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Multi-provider LLM gateway — one interface, every provider",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/sanjay920/llmshim",
-  "download_filename": "llmshim-0.1.8.tar.gz",
-  "download_time": "2026-03-12T21:10:59.555817",
+  "download_filename": "llmshim-0.1.10.tar.gz",
+  "download_time": "2026-03-14T18:32:20.652322",
   "package_url": "https://pypi.org/project/llmshim/"
 }

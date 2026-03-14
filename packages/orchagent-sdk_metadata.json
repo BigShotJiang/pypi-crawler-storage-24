@@ -1,11 +1,11 @@
 {
   "name": "orchagent-sdk",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "SDK for building orchagent agents - enables agent-to-agent calls with local execution support",
   "author": "orchagent",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "orchagent_sdk-0.1.9.tar.gz",
-  "download_time": "2026-03-14T16:59:02.972204",
+  "download_filename": "orchagent_sdk-0.1.10.tar.gz",
+  "download_time": "2026-03-14T18:32:19.082459",
   "package_url": "https://pypi.org/project/orchagent-sdk/"
 }

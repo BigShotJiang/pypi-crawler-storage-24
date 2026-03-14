@@ -1,11 +1,11 @@
 {
   "name": "djx-cli",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Convention over configuration for Django - Rails-like scaffolding and generators",
   "author": "Redson Ngwira",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "djx_cli-0.1.3.tar.gz",
-  "download_time": "2026-03-13T19:49:45.040737",
+  "download_filename": "djx_cli-0.1.4.tar.gz",
+  "download_time": "2026-03-14T18:32:27.484335",
   "package_url": "https://pypi.org/project/djx-cli/"
 }

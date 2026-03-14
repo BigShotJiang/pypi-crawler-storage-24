@@ -1,11 +1,11 @@
 {
   "name": "text-similarity-br",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Biblioteca Python para comparação de similaridade de textos em Português Brasileiro, com suporte a entidades numéricas, fonética PT-BR e pipeline de pré-processamento modular.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "text_similarity_br-0.5.0.tar.gz",
-  "download_time": "2026-03-14T15:11:05.507582",
+  "download_filename": "text_similarity_br-0.6.0.tar.gz",
+  "download_time": "2026-03-14T18:32:37.516455",
   "package_url": "https://pypi.org/project/text-similarity-br/"
 }

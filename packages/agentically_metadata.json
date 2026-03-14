@@ -1,0 +1,11 @@
+{
+  "name": "agentically",
+  "version": "0.2.0",
+  "summary": "A CLI entrypoint to community-maintained AI agent systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentically-0.2.0.tar.gz",
+  "download_time": "2026-03-14T18:32:23.296588",
+  "package_url": "https://pypi.org/project/agentically/"
+}

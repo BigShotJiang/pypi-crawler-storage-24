@@ -1,0 +1,11 @@
+{
+  "name": "rndocs",
+  "version": "0.2.0",
+  "summary": "React Native docs, offline — CLI + MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rndocs-0.2.0.tar.gz",
+  "download_time": "2026-03-14T18:32:17.000779",
+  "package_url": "https://pypi.org/project/rndocs/"
+}

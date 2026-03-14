@@ -1,0 +1,11 @@
+{
+  "name": "blobsoup",
+  "version": "0.0.0",
+  "summary": "A demo for setting up a greenland python project",
+  "author": "M E Leypold",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "blobsoup-0.0.0.tar.gz",
+  "download_time": "2026-03-14T18:32:28.001810",
+  "package_url": "https://pypi.org/project/blobsoup/"
+}

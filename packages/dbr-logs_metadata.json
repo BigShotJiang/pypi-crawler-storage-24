@@ -1,11 +1,11 @@
 {
   "name": "dbr-logs",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Fetch and display Databricks job logs from Unity Catalog Volumes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbr_logs-0.1.0.tar.gz",
-  "download_time": "2026-03-14T15:25:02.851600",
+  "download_filename": "dbr_logs-0.1.2.tar.gz",
+  "download_time": "2026-03-14T18:32:28.521582",
   "package_url": "https://pypi.org/project/dbr-logs/"
 }

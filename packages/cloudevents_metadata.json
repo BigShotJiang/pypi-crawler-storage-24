@@ -1,0 +1,11 @@
+{
+  "name": "cloudevents",
+  "version": "1.12.1",
+  "summary": "CloudEvents Python SDK",
+  "author": "The Cloud Events Contributors",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "https://github.com/cloudevents/sdk-python",
+  "download_filename": "cloudevents-1.12.1.tar.gz",
+  "download_time": "2026-03-14T18:32:45.863286",
+  "package_url": "https://pypi.org/project/cloudevents/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "axonflow",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "summary": "AxonFlow Python SDK - Enterprise AI Governance in 3 Lines of Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axonflow-4.0.0.tar.gz",
-  "download_time": "2026-03-09T05:46:09.186846",
+  "download_filename": "axonflow-4.1.0.tar.gz",
+  "download_time": "2026-03-14T18:32:36.994353",
   "package_url": "https://pypi.org/project/axonflow/"
 }
