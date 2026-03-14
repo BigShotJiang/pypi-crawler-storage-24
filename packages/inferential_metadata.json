@@ -1,11 +1,11 @@
 {
   "name": "inferential",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Robotics-aware inference orchestration on top of Ray Serve",
   "author": "inferential.sh",
   "license": null,
   "home_page": null,
-  "download_filename": "inferential-0.5.0.tar.gz",
-  "download_time": "2026-03-14T07:41:55.407728",
+  "download_filename": "inferential-0.6.0.tar.gz",
+  "download_time": "2026-03-14T08:03:02.083060",
   "package_url": "https://pypi.org/project/inferential/"
 }

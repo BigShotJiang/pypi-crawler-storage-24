@@ -1,0 +1,11 @@
+{
+  "name": "isochron",
+  "version": "0.1.0",
+  "summary": "ISO 8601 date, time, duration, and interval parser/formatter for Python",
+  "author": "Agentine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isochron-0.1.0.tar.gz",
+  "download_time": "2026-03-14T08:03:19.887661",
+  "package_url": "https://pypi.org/project/isochron/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "remote-sandbox-mcp",
+  "version": "0.7.2",
+  "summary": "MCP server for SSH-based remote sandboxes: multi-server management, persistent sessions, background tmux tasks, and GPU/CPU/memory resource monitoring",
+  "author": "db.xiang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "remote_sandbox_mcp-0.7.2.tar.gz",
+  "download_time": "2026-03-14T08:03:10.498621",
+  "package_url": "https://pypi.org/project/remote-sandbox-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "py-contact-ms",
+  "version": "0.1.1",
+  "summary": "Contact Molecular Surface calculation for protein design — a Python port of Longxing Cao's C++ implementation",
+  "author": "Brian Coventry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_contact_ms-0.1.1.tar.gz",
+  "download_time": "2026-03-14T08:03:07.303704",
+  "package_url": "https://pypi.org/project/py-contact-ms/"
+}

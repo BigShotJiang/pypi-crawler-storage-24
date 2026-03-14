@@ -1,0 +1,11 @@
+{
+  "name": "commitgpt-nikesh",
+  "version": "1.0.0",
+  "summary": "AI-powered commit messages, standups and PR descriptions from your git diff",
+  "author": "Nikesh Sundar",
+  "license": null,
+  "home_page": "https://github.com/nikeshsundar/commitgpt",
+  "download_filename": "commitgpt_nikesh-1.0.0.tar.gz",
+  "download_time": "2026-03-14T08:03:09.225927",
+  "package_url": "https://pypi.org/project/commitgpt-nikesh/"
+}

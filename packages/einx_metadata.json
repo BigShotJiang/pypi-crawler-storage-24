@@ -1,0 +1,11 @@
+{
+  "name": "einx",
+  "version": "0.4.2",
+  "summary": "Universal Notation for Tensor Operations in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "einx-0.4.2.tar.gz",
+  "download_time": "2026-03-14T08:03:23.028593",
+  "package_url": "https://pypi.org/project/einx/"
+}

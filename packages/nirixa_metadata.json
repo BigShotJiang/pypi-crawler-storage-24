@@ -1,0 +1,11 @@
+{
+  "name": "nirixa",
+  "version": "1.0.6",
+  "summary": "AI Observability & Cost Intelligence — track token costs, latency, and hallucination risk",
+  "author": "Nirixa",
+  "license": null,
+  "home_page": "https://nirixa.in",
+  "download_filename": "nirixa-1.0.6.tar.gz",
+  "download_time": "2026-03-14T08:02:58.906564",
+  "package_url": "https://pypi.org/project/nirixa/"
+}

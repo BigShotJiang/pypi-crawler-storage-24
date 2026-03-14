@@ -1,0 +1,11 @@
+{
+  "name": "mysql-mcp-py",
+  "version": "0.1.0",
+  "summary": "MCP Server for MySQL-protocol databases - schema discovery, SQL analysis, safe execution",
+  "author": "dong_tech",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mysql_mcp_py-0.1.0.tar.gz",
+  "download_time": "2026-03-14T08:03:24.292251",
+  "package_url": "https://pypi.org/project/mysql-mcp-py/"
+}

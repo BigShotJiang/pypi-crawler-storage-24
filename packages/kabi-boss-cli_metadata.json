@@ -1,11 +1,11 @@
 {
   "name": "kabi-boss-cli",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "A CLI for Boss Zhipin (BOSS直聘) — search jobs, chat with bosses from the terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kabi_boss_cli-0.2.0.tar.gz",
-  "download_time": "2026-03-14T06:02:50.336060",
+  "download_filename": "kabi_boss_cli-0.3.1.tar.gz",
+  "download_time": "2026-03-14T08:02:59.549015",
   "package_url": "https://pypi.org/project/kabi-boss-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "recua",
+  "version": "0.1.0",
+  "summary": "Embeddable high-performance file transfer engine",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "recua-0.1.0.tar.gz",
+  "download_time": "2026-03-14T08:03:08.583111",
+  "package_url": "https://pypi.org/project/recua/"
+}
