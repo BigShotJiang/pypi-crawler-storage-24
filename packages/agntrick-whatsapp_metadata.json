@@ -1,11 +1,11 @@
 {
   "name": "agntrick-whatsapp",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "WhatsApp integration for Agntrick agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agntrick_whatsapp-0.3.3.tar.gz",
-  "download_time": "2026-03-12T21:52:31.130760",
+  "download_filename": "agntrick_whatsapp-0.3.4.tar.gz",
+  "download_time": "2026-03-14T11:22:28.166793",
   "package_url": "https://pypi.org/project/agntrick-whatsapp/"
 }

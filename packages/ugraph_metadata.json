@@ -1,0 +1,11 @@
+{
+  "name": "ugraph",
+  "version": "0.81.0",
+  "summary": null,
+  "author": "flfuchs tdubach",
+  "license": "MIT",
+  "home_page": "https://github.com/WonJayne/ugraph",
+  "download_filename": "ugraph-0.81.0.tar.gz",
+  "download_time": "2026-03-14T11:21:58.138531",
+  "package_url": "https://pypi.org/project/ugraph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "imvis",
+  "version": "0.1.1",
+  "summary": "Interactive visualization and processing of 3D medical images in python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imvis-0.1.1.tar.gz",
+  "download_time": "2026-03-14T11:22:27.105002",
+  "package_url": "https://pypi.org/project/imvis/"
+}

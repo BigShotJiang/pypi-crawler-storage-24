@@ -1,11 +1,11 @@
 {
   "name": "uvero",
-  "version": "0.1.4",
+  "version": "0.2.1",
   "summary": "Uvero CLI – online clipboard from your terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uvero-0.1.4.tar.gz",
-  "download_time": "2026-03-14T10:56:01.803083",
+  "download_filename": "uvero-0.2.1.tar.gz",
+  "download_time": "2026-03-14T11:21:46.508191",
   "package_url": "https://pypi.org/project/uvero/"
 }

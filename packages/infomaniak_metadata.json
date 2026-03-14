@@ -1,11 +1,11 @@
 {
   "name": "infomaniak",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "CLI tool for managing Infomaniak services — DNS records, domains, and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "infomaniak-0.3.1.tar.gz",
-  "download_time": "2026-03-13T23:25:55.221944",
+  "download_filename": "infomaniak-0.4.0.tar.gz",
+  "download_time": "2026-03-14T11:21:47.550818",
   "package_url": "https://pypi.org/project/infomaniak/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "decksmith",
+  "version": "0.9.6",
+  "summary": "A command-line application to dynamically generate decks of cards from a YAML specification and a CSV data file, inspired by nandeck.",
+  "author": "Julio Cabria",
+  "license": null,
+  "home_page": null,
+  "download_filename": "decksmith-0.9.6.tar.gz",
+  "download_time": "2026-03-14T11:22:08.793832",
+  "package_url": "https://pypi.org/project/decksmith/"
+}

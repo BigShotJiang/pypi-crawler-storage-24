@@ -1,11 +1,11 @@
 {
   "name": "wavekit-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MCP server for AI-driven waveform analysis via wavekit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wavekit_mcp-0.2.0.tar.gz",
-  "download_time": "2026-03-14T07:42:09.872544",
+  "download_filename": "wavekit_mcp-0.2.1.tar.gz",
+  "download_time": "2026-03-14T11:21:58.672901",
   "package_url": "https://pypi.org/project/wavekit-mcp/"
 }

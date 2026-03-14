@@ -1,11 +1,11 @@
 {
   "name": "secagent-ai",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Autonomous security agent that scans, verifies, fixes vulnerabilities and generates reports.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "secagent_ai-0.1.4.tar.gz",
-  "download_time": "2026-03-14T10:55:43.754356",
+  "download_filename": "secagent_ai-0.1.6.tar.gz",
+  "download_time": "2026-03-14T11:21:52.294048",
   "package_url": "https://pypi.org/project/secagent-ai/"
 }
