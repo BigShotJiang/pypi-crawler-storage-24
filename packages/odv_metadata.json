@@ -1,0 +1,11 @@
+{
+  "name": "odv",
+  "version": "0.2.0",
+  "summary": "Local-first data asset manager — scan, classify, organize, report",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "odv-0.2.0.tar.gz",
+  "download_time": "2026-03-14T10:26:43.150379",
+  "package_url": "https://pypi.org/project/odv/"
+}

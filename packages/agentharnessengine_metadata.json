@@ -1,0 +1,11 @@
+{
+  "name": "agentharnessengine",
+  "version": "1.2.0",
+  "summary": "A runtime governance layer that enforces hard behavioral bounds in autonomous agents.",
+  "author": "Sarthaksahu777",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentharnessengine-1.2.0.tar.gz",
+  "download_time": "2026-03-14T10:26:22.643553",
+  "package_url": "https://pypi.org/project/agentharnessengine/"
+}

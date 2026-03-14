@@ -1,0 +1,11 @@
+{
+  "name": "quickthumb",
+  "version": "0.3.1",
+  "summary": "Programmatic thumbnail and social image generation with layered Python and JSON APIs",
+  "author": "Seonu Jang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quickthumb-0.3.1-py3-none-any.whl",
+  "download_time": "2026-03-14T10:26:37.635361",
+  "package_url": "https://pypi.org/project/quickthumb/"
+}

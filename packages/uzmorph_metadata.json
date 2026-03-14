@@ -1,11 +1,11 @@
 {
   "name": "uzmorph",
-  "version": "0.1.1",
+  "version": "1.1.8",
   "summary": "A rule-based morphological analyzer for the Uzbek language based on CSE (Complete Set of Endings) and annotated morphological tags",
   "author": "Ulugbek Salaev",
   "license": null,
   "home_page": "https://github.com/UlugbekSalaev/uzmorph",
-  "download_filename": "uzmorph-0.1.1.tar.gz",
-  "download_time": "2026-03-14T09:29:49.921391",
+  "download_filename": "uzmorph-1.1.8.tar.gz",
+  "download_time": "2026-03-14T10:26:28.634335",
   "package_url": "https://pypi.org/project/uzmorph/"
 }

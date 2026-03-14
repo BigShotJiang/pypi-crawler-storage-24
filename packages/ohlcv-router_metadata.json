@@ -1,0 +1,11 @@
+{
+  "name": "ohlcv-router",
+  "version": "0.1.1",
+  "summary": "Async Python library for fetching OHLCV market data from multiple free providers",
+  "author": "FaustoS88",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ohlcv_router-0.1.1.tar.gz",
+  "download_time": "2026-03-14T10:26:37.083780",
+  "package_url": "https://pypi.org/project/ohlcv-router/"
+}

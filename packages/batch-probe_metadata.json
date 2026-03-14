@@ -1,0 +1,11 @@
+{
+  "name": "batch-probe",
+  "version": "0.2.0",
+  "summary": "Find the maximum batch size that fits in GPU memory. Binary search with OOM recovery.",
+  "author": "Andrew H. Bond",
+  "license": null,
+  "home_page": null,
+  "download_filename": "batch_probe-0.2.0.tar.gz",
+  "download_time": "2026-03-14T10:26:35.991046",
+  "package_url": "https://pypi.org/project/batch-probe/"
+}

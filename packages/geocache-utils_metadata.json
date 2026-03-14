@@ -1,0 +1,11 @@
+{
+  "name": "geocache-utils",
+  "version": "0.2.1",
+  "summary": "Utility functions for deterministic geographic data sampling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geocache_utils-0.2.1.tar.gz",
+  "download_time": "2026-03-14T10:26:34.436985",
+  "package_url": "https://pypi.org/project/geocache-utils/"
+}

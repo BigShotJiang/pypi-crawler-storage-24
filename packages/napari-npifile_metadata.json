@@ -1,0 +1,11 @@
+{
+  "name": "napari-npifile",
+  "version": "0.1.1",
+  "summary": "Read and write .npi files, a lightweight format based on NumPy .npy arrays with additional napari viewer and layer metadata such as axis names and colormaps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "napari_npifile-0.1.1.tar.gz",
+  "download_time": "2026-03-14T10:26:24.800082",
+  "package_url": "https://pypi.org/project/napari-npifile/"
+}

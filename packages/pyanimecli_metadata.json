@@ -1,0 +1,11 @@
+{
+  "name": "pyanimecli",
+  "version": "1.3",
+  "summary": "A powerful command-line interface for searching, getting info, and watching anime directly from your terminal.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyanimecli-1.3.tar.gz",
+  "download_time": "2026-03-14T10:26:44.170170",
+  "package_url": "https://pypi.org/project/pyanimecli/"
+}

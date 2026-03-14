@@ -1,0 +1,11 @@
+{
+  "name": "mail-senderpy",
+  "version": "0.1.2",
+  "summary": "Async bulk email sender with Jinja2 templates and CLI",
+  "author": "Mail Sender Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mail_senderpy-0.1.2.tar.gz",
+  "download_time": "2026-03-14T10:26:39.992542",
+  "package_url": "https://pypi.org/project/mail-senderpy/"
+}
