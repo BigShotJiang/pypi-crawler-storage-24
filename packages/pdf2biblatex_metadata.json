@@ -1,0 +1,11 @@
+{
+  "name": "pdf2biblatex",
+  "version": "1.0.0",
+  "summary": "A small command-line tool for generating a BibLaTeX file from a bunch of pdf using their DOI and Crossref.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf2biblatex-1.0.0.tar.gz",
+  "download_time": "2026-03-14T16:58:40.792538",
+  "package_url": "https://pypi.org/project/pdf2biblatex/"
+}

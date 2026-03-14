@@ -1,11 +1,11 @@
 {
   "name": "niess",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "niess-0.2.0.tar.gz",
-  "download_time": "2026-03-10T21:37:17.986091",
+  "download_filename": "niess-0.3.0.tar.gz",
+  "download_time": "2026-03-14T16:58:38.612951",
   "package_url": "https://pypi.org/project/niess/"
 }

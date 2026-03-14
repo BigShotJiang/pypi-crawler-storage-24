@@ -1,11 +1,11 @@
 {
   "name": "pyqentangle",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "summary": "Quantum Entanglement in Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyqentangle-5.0.0.tar.gz",
-  "download_time": "2026-03-07T15:44:34.689948",
+  "download_filename": "pyqentangle-5.0.1.tar.gz",
+  "download_time": "2026-03-14T16:58:37.526980",
   "package_url": "https://pypi.org/project/pyqentangle/"
 }

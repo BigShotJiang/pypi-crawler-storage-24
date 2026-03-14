@@ -1,0 +1,11 @@
+{
+  "name": "coveragespace",
+  "version": "6.2",
+  "summary": "A place to track your code coverage metrics.",
+  "author": "Jace Browning",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coveragespace-6.2.tar.gz",
+  "download_time": "2026-03-14T16:58:39.123775",
+  "package_url": "https://pypi.org/project/coveragespace/"
+}

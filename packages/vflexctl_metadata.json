@@ -1,0 +1,11 @@
+{
+  "name": "vflexctl",
+  "version": "0.2.2",
+  "summary": "Command line tool to set the output voltage for VFLEX devices",
+  "author": "hameedm",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "vflexctl-0.2.2.tar.gz",
+  "download_time": "2026-03-14T16:59:05.555042",
+  "package_url": "https://pypi.org/project/vflexctl/"
+}
