@@ -1,11 +1,11 @@
 {
   "name": "asset-aware-mcp",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Medical RAG with Asset-Aware MCP - Precise PDF asset retrieval (tables, figures, sections) for AI Agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "asset_aware_mcp-0.5.0.tar.gz",
-  "download_time": "2026-03-14T07:02:23.629607",
+  "download_filename": "asset_aware_mcp-0.5.1.tar.gz",
+  "download_time": "2026-03-14T07:41:54.765073",
   "package_url": "https://pypi.org/project/asset-aware-mcp/"
 }

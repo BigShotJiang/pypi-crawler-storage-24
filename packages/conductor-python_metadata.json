@@ -1,0 +1,11 @@
+{
+  "name": "conductor-python",
+  "version": "1.3.5",
+  "summary": "Python SDK for working with https://github.com/conductor-oss/conductor",
+  "author": "Orkes",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "conductor_python-1.3.5.tar.gz",
+  "download_time": "2026-03-14T07:41:56.044049",
+  "package_url": "https://pypi.org/project/conductor-python/"
+}

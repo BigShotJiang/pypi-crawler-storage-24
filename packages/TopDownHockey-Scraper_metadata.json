@@ -1,11 +1,11 @@
 {
   "name": "TopDownHockey-Scraper",
-  "version": "6.1.47",
+  "version": "6.1.48",
   "summary": "The TopDownHockey Scraper",
   "author": "Patrick Bacon",
   "license": "MIT",
   "home_page": "https://github.com/TopDownHockey/TopDownHockey_Scraper",
-  "download_filename": "topdownhockey_scraper-6.1.47.tar.gz",
-  "download_time": "2026-03-12T07:15:21.542119",
+  "download_filename": "topdownhockey_scraper-6.1.48.tar.gz",
+  "download_time": "2026-03-14T07:42:26.572607",
   "package_url": "https://pypi.org/project/TopDownHockey-Scraper/"
 }

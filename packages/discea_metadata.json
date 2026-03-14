@@ -1,0 +1,11 @@
+{
+  "name": "discea",
+  "version": "0.1.2",
+  "summary": "A simple Python module for creating Discord bots and sending webhooks",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "discea-0.1.2.tar.gz",
+  "download_time": "2026-03-14T07:42:16.641842",
+  "package_url": "https://pypi.org/project/discea/"
+}

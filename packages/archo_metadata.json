@@ -1,11 +1,11 @@
 {
   "name": "archo",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.2",
+  "summary": "Generate architecture docs from your codebase",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "archo-0.1.0.tar.gz",
-  "download_time": "2026-03-14T07:02:27.722041",
+  "download_filename": "archo-0.1.2.tar.gz",
+  "download_time": "2026-03-14T07:42:17.222816",
   "package_url": "https://pypi.org/project/archo/"
 }

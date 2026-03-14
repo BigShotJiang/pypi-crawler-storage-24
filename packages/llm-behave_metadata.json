@@ -1,11 +1,11 @@
 {
   "name": "llm-behave",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Behavioral testing for LLM applications. pytest plugin with semantic assertions, multi-turn conversation testing, and drift detection. No LLM judge needed.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_behave-0.1.0.tar.gz",
-  "download_time": "2026-03-13T18:09:29.369114",
+  "download_filename": "llm_behave-0.1.1.tar.gz",
+  "download_time": "2026-03-14T07:41:41.372653",
   "package_url": "https://pypi.org/project/llm-behave/"
 }

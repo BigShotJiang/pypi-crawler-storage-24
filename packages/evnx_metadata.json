@@ -1,0 +1,11 @@
+{
+  "name": "evnx",
+  "version": "0.3.0",
+  "summary": "evnx — blazing-fast environment variable manager and inspector built in Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://evnx.dev",
+  "download_filename": "evnx-0.3.0.tar.gz",
+  "download_time": "2026-03-14T07:42:24.132762",
+  "package_url": "https://pypi.org/project/evnx/"
+}

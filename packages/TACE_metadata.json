@@ -1,0 +1,11 @@
+{
+  "name": "TACE",
+  "version": "0.1.0",
+  "summary": "TACE - Irreducible Cartesian Tensor based equivariant atomistic model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tace-0.1.0.tar.gz",
+  "download_time": "2026-03-14T07:41:52.883932",
+  "package_url": "https://pypi.org/project/TACE/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datamule-hub",
+  "version": "0.0.2",
+  "summary": "Access Datamule cloud",
+  "author": "John Friedman",
+  "license": null,
+  "home_page": "https://github.com/john-friedman/datamule-hub",
+  "download_filename": "datamule_hub-0.0.2.tar.gz",
+  "download_time": "2026-03-14T07:41:43.288800",
+  "package_url": "https://pypi.org/project/datamule-hub/"
+}

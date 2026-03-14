@@ -1,11 +1,11 @@
 {
   "name": "yalc",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Yet Another LLM Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yalc-0.2.2.tar.gz",
-  "download_time": "2026-03-10T20:29:33.380488",
+  "download_filename": "yalc-0.3.0.tar.gz",
+  "download_time": "2026-03-14T07:41:47.766452",
   "package_url": "https://pypi.org/project/yalc/"
 }

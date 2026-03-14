@@ -1,0 +1,11 @@
+{
+  "name": "vector-crypt",
+  "version": "0.1.0",
+  "summary": "A toy cryptographic library encoding data as applied vector sets.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vector_crypt-0.1.0.tar.gz",
+  "download_time": "2026-03-14T07:41:52.240235",
+  "package_url": "https://pypi.org/project/vector-crypt/"
+}

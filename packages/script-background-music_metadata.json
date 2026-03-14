@@ -1,0 +1,11 @@
+{
+  "name": "script-background-music",
+  "version": "1.5.11",
+  "summary": "Play elevator music in the background while your script runs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "script_background_music-1.5.11.tar.gz",
+  "download_time": "2026-03-14T07:42:15.479686",
+  "package_url": "https://pypi.org/project/script-background-music/"
+}

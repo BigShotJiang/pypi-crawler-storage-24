@@ -1,0 +1,11 @@
+{
+  "name": "vasa-scanner",
+  "version": "0.1.1",
+  "summary": "VASA Security Scanner - Web Application Security Testing Tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vasa_scanner-0.1.1.tar.gz",
+  "download_time": "2026-03-14T07:41:46.480861",
+  "package_url": "https://pypi.org/project/vasa-scanner/"
+}

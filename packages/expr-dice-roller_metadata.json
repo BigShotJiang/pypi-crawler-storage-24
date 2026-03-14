@@ -1,11 +1,11 @@
 {
   "name": "expr-dice-roller",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "A dice roller expression language with function support.",
   "author": "HellishBro",
   "license": null,
   "home_page": null,
-  "download_filename": "expr_dice_roller-0.0.2.tar.gz",
-  "download_time": "2026-03-14T01:28:32.785823",
+  "download_filename": "expr_dice_roller-0.0.5.tar.gz",
+  "download_time": "2026-03-14T07:42:02.026046",
   "package_url": "https://pypi.org/project/expr-dice-roller/"
 }
