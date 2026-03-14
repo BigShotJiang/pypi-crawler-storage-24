@@ -1,0 +1,11 @@
+{
+  "name": "taigactl",
+  "version": "0.1.0",
+  "summary": "CLI modular para gestão do Taiga Hermes Conrad",
+  "author": "Equipe Hermes Conrad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "taigactl-0.1.0.tar.gz",
+  "download_time": "2026-03-14T03:43:54.776335",
+  "package_url": "https://pypi.org/project/taigactl/"
+}

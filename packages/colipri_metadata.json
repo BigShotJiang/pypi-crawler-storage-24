@@ -1,0 +1,11 @@
+{
+  "name": "colipri",
+  "version": "0.1.1",
+  "summary": "Vision-language encoder for chest CT scans and reports.",
+  "author": "Microsoft Health Futures",
+  "license": null,
+  "home_page": null,
+  "download_filename": "colipri-0.1.1.tar.gz",
+  "download_time": "2026-03-14T03:43:54.206710",
+  "package_url": "https://pypi.org/project/colipri/"
+}

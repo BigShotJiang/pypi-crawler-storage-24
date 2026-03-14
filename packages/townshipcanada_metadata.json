@@ -1,0 +1,11 @@
+{
+  "name": "townshipcanada",
+  "version": "1.0.1",
+  "summary": "Python SDK for the Township Canada API — convert Canadian legal land descriptions (DLS, NTS, Geographic Townships) to GPS coordinates and back.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "townshipcanada-1.0.1.tar.gz",
+  "download_time": "2026-03-14T03:43:53.637675",
+  "package_url": "https://pypi.org/project/townshipcanada/"
+}

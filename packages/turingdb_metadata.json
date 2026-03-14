@@ -1,11 +1,11 @@
 {
   "name": "turingdb",
-  "version": "1.22.0",
+  "version": "1.23.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turingdb-1.22.0-cp310-cp310-macosx_14_0_arm64.whl",
-  "download_time": "2026-03-08T04:07:18.672746",
+  "download_filename": "turingdb-1.23.0-cp310-cp310-macosx_14_0_arm64.whl",
+  "download_time": "2026-03-14T03:44:14.131799",
   "package_url": "https://pypi.org/project/turingdb/"
 }

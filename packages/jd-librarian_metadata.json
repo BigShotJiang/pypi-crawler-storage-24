@@ -1,0 +1,11 @@
+{
+  "name": "jd-librarian",
+  "version": "1.0.0",
+  "summary": "A command line tool for managing Johnny Decimal libraries",
+  "author": "dagonis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jd_librarian-1.0.0.tar.gz",
+  "download_time": "2026-03-14T03:43:57.590133",
+  "package_url": "https://pypi.org/project/jd-librarian/"
+}

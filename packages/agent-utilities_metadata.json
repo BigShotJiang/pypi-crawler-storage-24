@@ -1,11 +1,11 @@
 {
   "name": "agent-utilities",
-  "version": "0.2.23",
+  "version": "0.2.27",
   "summary": "Agent Utilities for Pydantic AI Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_utilities-0.2.23.tar.gz",
-  "download_time": "2026-03-09T06:43:46.990101",
+  "download_filename": "agent_utilities-0.2.27.tar.gz",
+  "download_time": "2026-03-14T03:44:29.870610",
   "package_url": "https://pypi.org/project/agent-utilities/"
 }

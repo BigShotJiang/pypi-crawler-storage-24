@@ -1,11 +1,11 @@
 {
   "name": "plane-agent",
-  "version": "0.1.23",
+  "version": "0.1.32",
   "summary": "Plane MCP Agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plane_agent-0.1.23.tar.gz",
-  "download_time": "2026-03-08T23:46:41.097287",
+  "download_filename": "plane_agent-0.1.32.tar.gz",
+  "download_time": "2026-03-14T03:44:12.211182",
   "package_url": "https://pypi.org/project/plane-agent/"
 }

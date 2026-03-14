@@ -1,11 +1,11 @@
 {
   "name": "insurance-glm-cluster",
-  "version": "0.1.0",
-  "summary": "Automated GLM factor-level clustering for insurance pricing using the R2VF algorithm",
+  "version": "0.2.0",
+  "summary": "Deprecated. Use insurance-glm-tools instead.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insurance_glm_cluster-0.1.0.tar.gz",
-  "download_time": "2026-03-11T03:40:24.873660",
+  "download_filename": "insurance_glm_cluster-0.2.0.tar.gz",
+  "download_time": "2026-03-14T03:44:04.619107",
   "package_url": "https://pypi.org/project/insurance-glm-cluster/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "genius-agent",
-  "version": "2.13.32",
+  "version": "2.13.42",
   "summary": "GeniusAgent Search Engine MCP Server for Agentic AI!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "genius_agent-2.13.32.tar.gz",
-  "download_time": "2026-03-07T08:55:42.358257",
+  "download_filename": "genius_agent-2.13.42.tar.gz",
+  "download_time": "2026-03-14T03:44:18.954973",
   "package_url": "https://pypi.org/project/genius-agent/"
 }

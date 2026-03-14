@@ -1,11 +1,11 @@
 {
   "name": "portainer-agent",
-  "version": "0.1.6",
+  "version": "0.1.16",
   "summary": "Portainer container management — Docker environments, stacks, Kubernetes clusters, registries, users, and edge devices.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "portainer_agent-0.1.6.tar.gz",
-  "download_time": "2026-03-07T08:55:47.544369",
+  "download_filename": "portainer_agent-0.1.16.tar.gz",
+  "download_time": "2026-03-14T03:44:20.574148",
   "package_url": "https://pypi.org/project/portainer-agent/"
 }

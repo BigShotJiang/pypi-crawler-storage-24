@@ -1,11 +1,11 @@
 {
   "name": "liner-py",
-  "version": "1.0.1739",
+  "version": "1.0.1742",
   "summary": "python bindings for liner",
   "author": "Phus Lu",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/phuslu/liner",
-  "download_filename": "liner_py-1.0.1739-cp39-abi3-macosx_11_0_x86_64.whl",
-  "download_time": "2026-03-13T17:00:23.919352",
+  "download_filename": "liner_py-1.0.1742-cp39-abi3-macosx_11_0_x86_64.whl",
+  "download_time": "2026-03-14T03:44:28.242945",
   "package_url": "https://pypi.org/project/liner-py/"
 }

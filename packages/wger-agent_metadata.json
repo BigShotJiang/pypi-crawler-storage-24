@@ -1,11 +1,11 @@
 {
   "name": "wger-agent",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "Wger Workout Manager — exercise database, workout routines, nutrition plans, body measurements, and progress tracking.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wger_agent-0.1.14.tar.gz",
-  "download_time": "2026-03-10T06:01:10.354771",
+  "download_filename": "wger_agent-0.1.16.tar.gz",
+  "download_time": "2026-03-14T03:44:20.038395",
   "package_url": "https://pypi.org/project/wger-agent/"
 }

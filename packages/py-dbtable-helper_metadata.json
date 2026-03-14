@@ -1,0 +1,11 @@
+{
+  "name": "py-dbtable-helper",
+  "version": "1.0.0",
+  "summary": "An ultra-lightweight, dependency-free Python SQL query builder for secure database operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_dbtable_helper-1.0.0.tar.gz",
+  "download_time": "2026-03-14T03:44:10.605980",
+  "package_url": "https://pypi.org/project/py-dbtable-helper/"
+}

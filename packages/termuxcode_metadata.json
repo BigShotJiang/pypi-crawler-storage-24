@@ -1,11 +1,11 @@
 {
   "name": "termuxcode",
-  "version": "0.6.1",
+  "version": "0.9.0",
   "summary": "Python project for Termux development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "termuxcode-0.6.1.tar.gz",
-  "download_time": "2026-03-14T01:28:44.865178",
+  "download_filename": "termuxcode-0.9.0.tar.gz",
+  "download_time": "2026-03-14T03:43:59.754428",
   "package_url": "https://pypi.org/project/termuxcode/"
 }
