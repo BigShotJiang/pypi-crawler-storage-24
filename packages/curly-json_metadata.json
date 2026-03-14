@@ -1,0 +1,11 @@
+{
+  "name": "curly-json",
+  "version": "0.1.0",
+  "summary": "A TUI swiss army knife for JSON",
+  "author": "Nish",
+  "license": null,
+  "home_page": null,
+  "download_filename": "curly_json-0.1.0.tar.gz",
+  "download_time": "2026-03-14T19:43:45.877449",
+  "package_url": "https://pypi.org/project/curly-json/"
+}

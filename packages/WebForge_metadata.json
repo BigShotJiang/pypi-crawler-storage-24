@@ -1,0 +1,11 @@
+{
+  "name": "WebForge",
+  "version": "2.0.2",
+  "summary": "A simple and elegant Python web framework – forge your site in minutes.",
+  "author": "WebForge Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webforge-2.0.2.tar.gz",
+  "download_time": "2026-03-14T19:43:06.326831",
+  "package_url": "https://pypi.org/project/WebForge/"
+}

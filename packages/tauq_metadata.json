@@ -1,0 +1,11 @@
+{
+  "name": "tauq",
+  "version": "0.2.0",
+  "summary": "Tauq parser for Python - Token-efficient data notation (49% fewer tokens than JSON)",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.tauq.org",
+  "download_filename": "tauq-0.2.0.tar.gz",
+  "download_time": "2026-03-14T19:43:49.156030",
+  "package_url": "https://pypi.org/project/tauq/"
+}

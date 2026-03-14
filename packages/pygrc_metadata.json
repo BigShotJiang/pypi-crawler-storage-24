@@ -1,0 +1,11 @@
+{
+  "name": "pygrc",
+  "version": "0.4.1",
+  "summary": "Python package to read and fit SPARC data for Galactic Rotation Curves",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygrc-0.4.1.tar.gz",
+  "download_time": "2026-03-14T19:43:30.735876",
+  "package_url": "https://pypi.org/project/pygrc/"
+}

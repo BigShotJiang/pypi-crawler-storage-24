@@ -1,11 +1,11 @@
 {
   "name": "csvsql",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "A browser-based CSV database with SQL query support",
   "author": "Markus Kim",
   "license": null,
   "home_page": null,
-  "download_filename": "csvsql-0.5.0.tar.gz",
-  "download_time": "2026-03-14T19:07:19.328862",
+  "download_filename": "csvsql-0.6.0.tar.gz",
+  "download_time": "2026-03-14T19:43:34.513069",
   "package_url": "https://pypi.org/project/csvsql/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gentiq",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "A world-class, modular framework for building production-ready AI chatbots.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gentiq-0.4.0.tar.gz",
-  "download_time": "2026-03-13T13:49:30.378783",
+  "download_filename": "gentiq-0.4.3.tar.gz",
+  "download_time": "2026-03-14T19:43:31.828187",
   "package_url": "https://pypi.org/project/gentiq/"
 }

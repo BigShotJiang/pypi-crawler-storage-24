@@ -1,0 +1,11 @@
+{
+  "name": "libs-transfer",
+  "version": "0.1.0",
+  "summary": "Many-to-many transfer of LIBS spectra across multiple experimental conditions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libs_transfer-0.1.0.tar.gz",
+  "download_time": "2026-03-14T19:43:33.438451",
+  "package_url": "https://pypi.org/project/libs-transfer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qorc",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A standalone multi-agent orchestrator that turns high-level product visions into implementation code",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qorc-0.2.7.tar.gz",
-  "download_time": "2026-03-13T11:31:17.867502",
+  "download_filename": "qorc-0.2.8.tar.gz",
+  "download_time": "2026-03-14T19:43:37.269572",
   "package_url": "https://pypi.org/project/qorc/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "octomil-sdk",
-  "version": "2.14.1",
+  "version": "4.1.2",
   "summary": "Octomil — serve, deploy, and observe ML models on edge devices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "octomil_sdk-2.14.1.tar.gz",
-  "download_time": "2026-03-12T01:26:45.995535",
+  "download_filename": "octomil_sdk-4.1.2.tar.gz",
+  "download_time": "2026-03-14T19:43:42.121721",
   "package_url": "https://pypi.org/project/octomil-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bluefox-core",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "The foundation of every Bluefox app — settings, database, logging, health, and app factory.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bluefox_core-0.4.0.tar.gz",
-  "download_time": "2026-03-14T18:32:40.114492",
+  "download_filename": "bluefox_core-0.4.1.tar.gz",
+  "download_time": "2026-03-14T19:43:48.618377",
   "package_url": "https://pypi.org/project/bluefox-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tomledit",
-  "version": "0.9.1",
+  "version": "0.9.3",
   "summary": "Format-preserving TOML parser",
   "author": "David Hotham",
   "license": "Apache-2.0 OR MIT",
   "home_page": null,
-  "download_filename": "tomledit-0.9.1.tar.gz",
-  "download_time": "2026-03-13T23:25:41.700895",
+  "download_filename": "tomledit-0.9.3.tar.gz",
+  "download_time": "2026-03-14T19:43:13.307300",
   "package_url": "https://pypi.org/project/tomledit/"
 }

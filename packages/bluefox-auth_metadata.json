@@ -1,11 +1,11 @@
 {
   "name": "bluefox-auth",
-  "version": "0.7.0",
+  "version": "0.9.1",
   "summary": "JWT authentication, user management, and authorization for Bluefox apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bluefox_auth-0.7.0.tar.gz",
-  "download_time": "2026-03-14T17:24:56.541226",
+  "download_filename": "bluefox_auth-0.9.1.tar.gz",
+  "download_time": "2026-03-14T19:43:45.341431",
   "package_url": "https://pypi.org/project/bluefox-auth/"
 }
