@@ -1,11 +1,11 @@
 {
   "name": "birdword",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "summary": "Voice dictation daemon using NVIDIA Parakeet on Apple Silicon",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "birdword-0.2.2.tar.gz",
-  "download_time": "2026-03-14T06:03:04.692403",
+  "download_filename": "birdword-0.3.1.tar.gz",
+  "download_time": "2026-03-14T20:25:23.765718",
   "package_url": "https://pypi.org/project/birdword/"
 }

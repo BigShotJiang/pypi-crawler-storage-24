@@ -1,0 +1,11 @@
+{
+  "name": "ciphertrust",
+  "version": "0.1.0",
+  "summary": "Pure-Python RSA encryption, signing, and key generation — drop-in python-rsa replacement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ciphertrust-0.1.0.tar.gz",
+  "download_time": "2026-03-14T20:24:58.310009",
+  "package_url": "https://pypi.org/project/ciphertrust/"
+}

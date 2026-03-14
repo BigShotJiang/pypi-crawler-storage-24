@@ -1,0 +1,11 @@
+{
+  "name": "Contact-note-management-system",
+  "version": "1.0.0",
+  "summary": "A command-line application for managing contacts and notes.",
+  "author": "Nineteen_PyP",
+  "license": "MIT",
+  "home_page": "https://github.com/qEmrys/project-Nineteen_PyP.git",
+  "download_filename": "contact_note_management_system-1.0.0.tar.gz",
+  "download_time": "2026-03-14T20:24:59.912427",
+  "package_url": "https://pypi.org/project/Contact-note-management-system/"
+}

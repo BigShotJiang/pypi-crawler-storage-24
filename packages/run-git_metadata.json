@@ -1,11 +1,11 @@
 {
   "name": "run-git",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "Git Made Easy - One Command To Rule Them All",
   "author": "Himanshu Kumar",
   "license": "MIT",
   "home_page": "https://github.com/himanshu231204/gitpush",
-  "download_filename": "run_git-1.0.4.tar.gz",
-  "download_time": "2026-03-13T11:30:54.081907",
+  "download_filename": "run_git-1.0.6.tar.gz",
+  "download_time": "2026-03-14T20:25:41.701947",
   "package_url": "https://pypi.org/project/run-git/"
 }

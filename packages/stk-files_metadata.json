@@ -1,0 +1,11 @@
+{
+  "name": "stk-files",
+  "version": "0.0.2",
+  "summary": "Generate STK external data files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stk_files-0.0.2.tar.gz",
+  "download_time": "2026-03-14T20:25:31.467428",
+  "package_url": "https://pypi.org/project/stk-files/"
+}

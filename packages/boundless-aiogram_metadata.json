@@ -1,0 +1,11 @@
+{
+  "name": "boundless-aiogram",
+  "version": "2.0.0",
+  "summary": "A modern, production-ready framework for building scalable Telegram bots with Aiogram 3.x",
+  "author": "MythicalCosmic",
+  "license": "MIT",
+  "home_page": "https://github.com/MythicalCosmic/boundless-aiogram",
+  "download_filename": "boundless_aiogram-2.0.0.tar.gz",
+  "download_time": "2026-03-14T20:25:26.324418",
+  "package_url": "https://pypi.org/project/boundless-aiogram/"
+}

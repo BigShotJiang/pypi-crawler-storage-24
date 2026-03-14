@@ -1,11 +1,11 @@
 {
   "name": "flowly-ai",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "summary": "A lightweight personal AI assistant framework",
   "author": "flowly contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "flowly_ai-1.5.7.tar.gz",
-  "download_time": "2026-03-14T19:58:33.719202",
+  "download_filename": "flowly_ai-1.5.8.tar.gz",
+  "download_time": "2026-03-14T20:25:22.733829",
   "package_url": "https://pypi.org/project/flowly-ai/"
 }

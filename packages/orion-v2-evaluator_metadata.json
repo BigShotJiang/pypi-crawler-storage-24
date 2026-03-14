@@ -1,0 +1,11 @@
+{
+  "name": "orion-v2-evaluator",
+  "version": "2.0.1",
+  "summary": "Python bindings for the Orion FHE evaluator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orion_v2_evaluator-2.0.1.tar.gz",
+  "download_time": "2026-03-14T20:25:17.004401",
+  "package_url": "https://pypi.org/project/orion-v2-evaluator/"
+}

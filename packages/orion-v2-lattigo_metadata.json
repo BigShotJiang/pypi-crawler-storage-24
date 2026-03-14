@@ -1,0 +1,11 @@
+{
+  "name": "orion-v2-lattigo",
+  "version": "6.2.1",
+  "summary": "Python bindings for Lattigo CKKS primitives",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orion_v2_lattigo-6.2.1.tar.gz",
+  "download_time": "2026-03-14T20:25:16.493275",
+  "package_url": "https://pypi.org/project/orion-v2-lattigo/"
+}

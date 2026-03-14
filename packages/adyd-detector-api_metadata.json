@@ -1,11 +1,11 @@
 {
   "name": "adyd-detector-api",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "API para ADYD Detector",
   "author": "JacoboGeadaAnsino",
   "license": null,
   "home_page": null,
-  "download_filename": "adyd_detector_api-0.1.0.tar.gz",
-  "download_time": "2026-03-09T19:44:33.841450",
+  "download_filename": "adyd_detector_api-0.1.2.tar.gz",
+  "download_time": "2026-03-14T20:25:28.903617",
   "package_url": "https://pypi.org/project/adyd-detector-api/"
 }

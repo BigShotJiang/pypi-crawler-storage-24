@@ -1,0 +1,11 @@
+{
+  "name": "fizko-cli",
+  "version": "0.1.1",
+  "summary": "CLI para consultar datos tributarios y contables desde la API de Fizko",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fizko_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-14T20:25:25.811502",
+  "package_url": "https://pypi.org/project/fizko-cli/"
+}
