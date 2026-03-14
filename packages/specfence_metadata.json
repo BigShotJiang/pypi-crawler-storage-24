@@ -1,11 +1,11 @@
 {
   "name": "specfence",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "Ensures generated code does no more than your spec demands.",
   "author": "Peter Lavigne",
   "license": null,
   "home_page": null,
-  "download_filename": "specfence-0.0.2.tar.gz",
-  "download_time": "2026-03-14T19:07:32.408773",
+  "download_filename": "specfence-0.0.5.tar.gz",
+  "download_time": "2026-03-14T19:58:40.936179",
   "package_url": "https://pypi.org/project/specfence/"
 }

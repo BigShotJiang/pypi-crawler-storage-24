@@ -1,0 +1,11 @@
+{
+  "name": "boilerplate-remover",
+  "version": "0.0.5",
+  "summary": "A package to remove boilerplate code from HTML files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boilerplate_remover-0.0.5.tar.gz",
+  "download_time": "2026-03-14T19:58:28.665683",
+  "package_url": "https://pypi.org/project/boilerplate-remover/"
+}

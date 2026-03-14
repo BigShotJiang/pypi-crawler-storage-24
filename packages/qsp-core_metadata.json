@@ -1,0 +1,11 @@
+{
+  "name": "qsp-core",
+  "version": "0.1.0",
+  "summary": "Quaternionic Signal Processing core foundation library for RQM Technologies",
+  "author": "RQM Technologies",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qsp_core-0.1.0.tar.gz",
+  "download_time": "2026-03-14T19:58:37.338325",
+  "package_url": "https://pypi.org/project/qsp-core/"
+}

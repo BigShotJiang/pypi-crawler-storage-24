@@ -1,0 +1,11 @@
+{
+  "name": "pyctxpack",
+  "version": "0.1.0",
+  "summary": "Combine source files into a single text file for AI context (ChatGPT, Claude, Gemini)",
+  "author": "pekokana",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyctxpack-0.1.0.tar.gz",
+  "download_time": "2026-03-14T19:58:45.596579",
+  "package_url": "https://pypi.org/project/pyctxpack/"
+}

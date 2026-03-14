@@ -1,11 +1,11 @@
 {
   "name": "tubeulator-models",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Models of the TfL transit network",
   "author": "Louis Maddox",
   "license": null,
   "home_page": null,
-  "download_filename": "tubeulator_models-0.1.2.tar.gz",
-  "download_time": "2026-03-14T19:43:05.758335",
+  "download_filename": "tubeulator_models-0.1.3.tar.gz",
+  "download_time": "2026-03-14T19:58:38.883819",
   "package_url": "https://pypi.org/project/tubeulator-models/"
 }
