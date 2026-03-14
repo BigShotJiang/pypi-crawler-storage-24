@@ -1,0 +1,11 @@
+{
+  "name": "asterpay",
+  "version": "0.2.1",
+  "summary": "Python SDK for AsterPay — EUR settlement for AI agent commerce via x402 protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asterpay-0.2.1.tar.gz",
+  "download_time": "2026-03-14T13:54:08.947152",
+  "package_url": "https://pypi.org/project/asterpay/"
+}

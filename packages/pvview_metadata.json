@@ -1,0 +1,11 @@
+{
+  "name": "pvview",
+  "version": "1.1.0",
+  "summary": "display one or more EPICS PVs in a PyDM GUI window as a table",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pvview-1.1.0.tar.gz",
+  "download_time": "2026-03-14T13:54:04.833346",
+  "package_url": "https://pypi.org/project/pvview/"
+}

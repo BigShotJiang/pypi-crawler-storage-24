@@ -1,0 +1,11 @@
+{
+  "name": "django-seriously",
+  "version": "0.5.0",
+  "summary": "Opinionated collection of Django and DRF tools that came in handy time and again.",
+  "author": "T. Franzel",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_seriously-0.5.0.tar.gz",
+  "download_time": "2026-03-14T13:53:38.523897",
+  "package_url": "https://pypi.org/project/django-seriously/"
+}

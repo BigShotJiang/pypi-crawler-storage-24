@@ -1,11 +1,11 @@
 {
   "name": "clawlink-mcp",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "ClawLink MCP Tool - cross-owner agent collaboration plugin for OpenClaw",
   "author": "Sheldon",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clawlink_mcp-0.3.1.tar.gz",
-  "download_time": "2026-03-14T12:01:53.219737",
+  "download_filename": "clawlink_mcp-0.4.1.tar.gz",
+  "download_time": "2026-03-14T13:53:20.397042",
   "package_url": "https://pypi.org/project/clawlink-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cekura",
-  "version": "1.0.0rc4",
+  "version": "1.0.0rc6",
   "summary": "Testing and Observability SDK for AI Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cekura-1.0.0rc4.tar.gz",
-  "download_time": "2026-03-11T14:36:16.038152",
+  "download_filename": "cekura-1.0.0rc6.tar.gz",
+  "download_time": "2026-03-14T13:54:10.186671",
   "package_url": "https://pypi.org/project/cekura/"
 }

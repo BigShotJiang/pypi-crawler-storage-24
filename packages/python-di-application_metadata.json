@@ -1,0 +1,11 @@
+{
+  "name": "python-di-application",
+  "version": "0.2.1",
+  "summary": "Lightweight dependency injection container for Python with automatic constructor wiring and configuration overrides.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_di_application-0.2.1.tar.gz",
+  "download_time": "2026-03-14T13:53:33.692303",
+  "package_url": "https://pypi.org/project/python-di-application/"
+}

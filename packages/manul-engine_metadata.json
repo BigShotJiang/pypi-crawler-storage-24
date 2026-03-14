@@ -1,11 +1,11 @@
 {
   "name": "manul-engine",
-  "version": "0.0.8.9",
+  "version": "0.0.9.0",
   "summary": "Resilient neuro-symbolic browser automation framework powered by Playwright and local LLMs (Ollama)",
   "author": "ManulEngine Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "manul_engine-0.0.8.9.tar.gz",
-  "download_time": "2026-03-13T13:49:32.945780",
+  "download_filename": "manul_engine-0.0.9.0.tar.gz",
+  "download_time": "2026-03-14T13:53:31.463271",
   "package_url": "https://pypi.org/project/manul-engine/"
 }

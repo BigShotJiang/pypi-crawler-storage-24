@@ -1,11 +1,11 @@
 {
   "name": "ableton-live-stubs",
-  "version": "12.3.6",
+  "version": "12.3.6.post1",
   "summary": "PEP 561 type stubs for Ableton Live's Python API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ableton_live_stubs-12.3.6.tar.gz",
-  "download_time": "2026-03-14T06:03:27.497352",
+  "download_filename": "ableton_live_stubs-12.3.6.post1.tar.gz",
+  "download_time": "2026-03-14T13:53:48.546811",
   "package_url": "https://pypi.org/project/ableton-live-stubs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "akios",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "AKIOS runtime for secure AI agent execution",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "akios-1.5.0.tar.gz",
-  "download_time": "2026-03-14T12:01:25.023355",
+  "download_filename": "akios-1.5.1.tar.gz",
+  "download_time": "2026-03-14T13:53:36.184780",
   "package_url": "https://pypi.org/project/akios/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "delos-llmax",
-  "version": "1.25.0",
+  "version": "1.25.1",
   "summary": "Interface to handle multiple LLMs and AI tools.",
   "author": "Delos Intelligence",
   "license": null,
   "home_page": null,
-  "download_filename": "delos_llmax-1.25.0.tar.gz",
-  "download_time": "2026-03-13T08:36:18.602535",
+  "download_filename": "delos_llmax-1.25.1.tar.gz",
+  "download_time": "2026-03-14T13:53:47.961733",
   "package_url": "https://pypi.org/project/delos-llmax/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyshine-translator",
-  "version": "1.3.3",
+  "version": "1.3.6",
   "summary": "Desktop translator with AI support - translate selected text with a global hotkey",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyshine_translator-1.3.3.tar.gz",
-  "download_time": "2026-03-14T13:02:45.842093",
+  "download_filename": "pyshine_translator-1.3.6.tar.gz",
+  "download_time": "2026-03-14T13:53:17.463847",
   "package_url": "https://pypi.org/project/pyshine-translator/"
 }
