@@ -1,0 +1,11 @@
+{
+  "name": "skillscope",
+  "version": "0.1.0",
+  "summary": "Search, discover, and install AI Agent skills via SkillScope",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skillscope-0.1.0.tar.gz",
+  "download_time": "2026-03-14T17:24:51.712457",
+  "package_url": "https://pypi.org/project/skillscope/"
+}

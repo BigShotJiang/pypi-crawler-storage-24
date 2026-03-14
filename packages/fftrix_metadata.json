@@ -1,0 +1,11 @@
+{
+  "name": "fftrix",
+  "version": "1.4.0",
+  "summary": "A tool for processing video files using opencv numpy matplotlib vidgear pyffmpeg moviepy and vidgear.",
+  "author": "Charles Nichols",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fftrix-1.4.0.tar.gz",
+  "download_time": "2026-03-14T17:24:52.773522",
+  "package_url": "https://pypi.org/project/fftrix/"
+}

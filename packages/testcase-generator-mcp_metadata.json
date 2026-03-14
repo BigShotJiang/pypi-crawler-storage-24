@@ -1,11 +1,11 @@
 {
   "name": "testcase-generator-mcp",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Testcase Generator MCP Server for generating and managing test cases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "testcase_generator_mcp-0.1.2.tar.gz",
-  "download_time": "2026-03-10T13:40:07.335116",
+  "download_filename": "testcase_generator_mcp-0.1.4.tar.gz",
+  "download_time": "2026-03-14T17:25:30.102762",
   "package_url": "https://pypi.org/project/testcase-generator-mcp/"
 }

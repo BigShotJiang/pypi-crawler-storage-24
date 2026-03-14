@@ -1,0 +1,11 @@
+{
+  "name": "slackoff",
+  "version": "1.3.1",
+  "summary": "Automatically sign out of Slack workspaces.",
+  "author": "Jace Browning",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slackoff-1.3.1.tar.gz",
+  "download_time": "2026-03-14T17:25:08.877571",
+  "package_url": "https://pypi.org/project/slackoff/"
+}

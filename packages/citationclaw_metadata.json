@@ -1,11 +1,11 @@
 {
   "name": "citationclaw",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "summary": "论文被引画像分析工具 — 自动爬取施引文献、识别著名学者、生成可视化 HTML 报告",
   "author": "Qihao Yang, Ziqian Fan, Ziyang Gong, Xue Yang",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "citationclaw-1.0.1.tar.gz",
-  "download_time": "2026-03-12T11:37:21.347933",
+  "download_filename": "citationclaw-1.0.6.tar.gz",
+  "download_time": "2026-03-14T17:25:07.335185",
   "package_url": "https://pypi.org/project/citationclaw/"
 }

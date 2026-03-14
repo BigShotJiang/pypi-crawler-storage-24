@@ -1,0 +1,11 @@
+{
+  "name": "commandor-ai",
+  "version": "0.2.1",
+  "summary": "Agentic CLI - Autonomous coding assistant with multi-provider AI support",
+  "author": "Ravin D",
+  "license": "MIT",
+  "home_page": "https://github.com/ravin-d-27/Commandor",
+  "download_filename": "commandor_ai-0.2.1.tar.gz",
+  "download_time": "2026-03-14T17:25:23.894960",
+  "package_url": "https://pypi.org/project/commandor-ai/"
+}

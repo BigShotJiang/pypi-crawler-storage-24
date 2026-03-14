@@ -1,0 +1,11 @@
+{
+  "name": "decant-cli",
+  "version": "0.1.0",
+  "summary": "Convert semantic HTML to dyslexia-friendly readable HTML",
+  "author": "Dave Zack",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "decant_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-14T17:25:17.211083",
+  "package_url": "https://pypi.org/project/decant-cli/"
+}

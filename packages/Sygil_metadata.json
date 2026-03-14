@@ -1,11 +1,11 @@
 {
   "name": "Sygil",
-  "version": "1.0.0",
+  "version": "1.0",
   "summary": "Programming language made to be unique and stuff",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sygil-1.0.0.tar.gz",
-  "download_time": "2026-03-14T16:58:41.362005",
+  "download_filename": "sygil-1.0.tar.gz",
+  "download_time": "2026-03-14T17:25:25.986482",
   "package_url": "https://pypi.org/project/Sygil/"
 }
