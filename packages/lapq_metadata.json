@@ -1,0 +1,11 @@
+{
+  "name": "lapq",
+  "version": "1.0.0",
+  "summary": "LAP Technologies Python SDK for the QPU-1 quantum processor — 150+ algorithms, full gate set with auto-decomposition.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lapq-1.0.0.tar.gz",
+  "download_time": "2026-03-14T12:01:51.659887",
+  "package_url": "https://pypi.org/project/lapq/"
+}

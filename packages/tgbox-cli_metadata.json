@@ -1,0 +1,11 @@
+{
+  "name": "tgbox-cli",
+  "version": "1.6.1",
+  "summary": "A Command Line Interface to the TGBOX",
+  "author": "NotStatilko",
+  "license": "MIT",
+  "home_page": "https://github.com/NotStatilko/tgbox-cli",
+  "download_filename": "tgbox_cli-1.6.1.tar.gz",
+  "download_time": "2026-03-14T12:01:23.963994",
+  "package_url": "https://pypi.org/project/tgbox-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polygrad",
+  "version": "0.2.2",
+  "summary": "Tensor computation library with automatic differentiation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polygrad-0.2.2.tar.gz",
+  "download_time": "2026-03-14T12:02:02.599590",
+  "package_url": "https://pypi.org/project/polygrad/"
+}

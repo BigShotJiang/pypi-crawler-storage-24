@@ -1,11 +1,11 @@
 {
   "name": "agent-genesis",
-  "version": "0.0.40",
+  "version": "0.0.41",
   "summary": "Agent Genesis evaluation SDK.",
   "author": "Zane",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "agent_genesis-0.0.40.tar.gz",
-  "download_time": "2026-03-10T11:02:15.247874",
+  "download_filename": "agent_genesis-0.0.41.tar.gz",
+  "download_time": "2026-03-14T12:02:00.504490",
   "package_url": "https://pypi.org/project/agent-genesis/"
 }

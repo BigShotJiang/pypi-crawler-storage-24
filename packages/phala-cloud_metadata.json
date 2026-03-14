@@ -1,0 +1,11 @@
+{
+  "name": "phala-cloud",
+  "version": "0.1.1",
+  "summary": "Python SDK for Phala Cloud API (sync/async, pydantic, REPL-friendly)",
+  "author": "Phala Network",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "phala_cloud-0.1.1.tar.gz",
+  "download_time": "2026-03-14T12:01:34.423483",
+  "package_url": "https://pypi.org/project/phala-cloud/"
+}

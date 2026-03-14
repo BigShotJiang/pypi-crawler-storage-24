@@ -1,11 +1,11 @@
 {
   "name": "modern-drf-swagger",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "summary": "A modern API developer portal for Django REST Framework projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modern_drf_swagger-1.0.4.tar.gz",
-  "download_time": "2026-03-13T18:08:56.837294",
+  "download_filename": "modern_drf_swagger-1.0.8.tar.gz",
+  "download_time": "2026-03-14T12:01:45.945186",
   "package_url": "https://pypi.org/project/modern-drf-swagger/"
 }

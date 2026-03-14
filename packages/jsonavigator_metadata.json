@@ -1,0 +1,11 @@
+{
+  "name": "jsonavigator",
+  "version": "1.2.0",
+  "summary": "A Python package for handling nested JSON structures.",
+  "author": "Nikhil Singh",
+  "license": null,
+  "home_page": "https://github.com/Nikhil-Singh-2503/JSONavigator",
+  "download_filename": "jsonavigator-1.2.0.tar.gz",
+  "download_time": "2026-03-14T12:01:28.665210",
+  "package_url": "https://pypi.org/project/jsonavigator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spypoint-api",
+  "version": "0.4.3",
+  "summary": "Library to communicate with Spypoint REST api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spypoint_api-0.4.3.tar.gz",
+  "download_time": "2026-03-14T12:01:56.321309",
+  "package_url": "https://pypi.org/project/spypoint-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gov-service",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "gov-service: A local GOV (Geschichtliches Ortsverzeichnis) server service",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gov_service-0.0.3.tar.gz",
-  "download_time": "2026-03-14T11:22:24.392446",
+  "download_filename": "gov_service-0.0.4.tar.gz",
+  "download_time": "2026-03-14T12:01:38.598331",
   "package_url": "https://pypi.org/project/gov-service/"
 }

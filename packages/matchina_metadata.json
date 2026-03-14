@@ -1,0 +1,11 @@
+{
+  "name": "matchina",
+  "version": "0.1.0",
+  "summary": "中国企业中英文名称对齐匹配库",
+  "author": "Matchina contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matchina-0.1.0.tar.gz",
+  "download_time": "2026-03-14T12:01:20.842393",
+  "package_url": "https://pypi.org/project/matchina/"
+}

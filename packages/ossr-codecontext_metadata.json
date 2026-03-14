@@ -1,0 +1,11 @@
+{
+  "name": "ossr-codecontext",
+  "version": "0.0.0a19",
+  "summary": "Index source repositories into a code graph with CLI, MCP, Web API/UI, and AI analysis workflows",
+  "author": "codecontext maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ossr_codecontext-0.0.0a19.tar.gz",
+  "download_time": "2026-03-14T12:01:27.626913",
+  "package_url": "https://pypi.org/project/ossr-codecontext/"
+}
