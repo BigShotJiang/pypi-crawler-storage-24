@@ -1,11 +1,11 @@
 {
   "name": "kabot",
-  "version": "0.6.1",
+  "version": "0.6.5",
   "summary": "A lightweight personal AI assistant framework",
   "author": "kabot contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kabot-0.6.1.tar.gz",
-  "download_time": "2026-03-09T09:02:45.899609",
+  "download_filename": "kabot-0.6.5.tar.gz",
+  "download_time": "2026-03-14T13:03:15.277291",
   "package_url": "https://pypi.org/project/kabot/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "setbitcounter-pkg",
+  "version": "1.1.0",
+  "summary": "Count set bits in a number or range of natural numbers",
+  "author": "Diksha Rawat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "setbitcounter_pkg-1.1.0.tar.gz",
+  "download_time": "2026-03-14T13:02:39.322917",
+  "package_url": "https://pypi.org/project/setbitcounter-pkg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nlptoolkit-math",
+  "version": "1.0.21",
+  "summary": "Math library",
+  "author": "olcaytaner",
+  "license": null,
+  "home_page": "https://github.com/StarlangSoftware/Math-Py",
+  "download_filename": "nlptoolkit_math-1.0.21.tar.gz",
+  "download_time": "2026-03-14T13:03:19.958472",
+  "package_url": "https://pypi.org/project/nlptoolkit-math/"
+}

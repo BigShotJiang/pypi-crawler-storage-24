@@ -1,0 +1,11 @@
+{
+  "name": "wcpan-drive-crypt",
+  "version": "5.0.0",
+  "summary": "crypt middleware for wcpan.drive",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wcpan_drive_crypt-5.0.0.tar.gz",
+  "download_time": "2026-03-14T13:02:43.004429",
+  "package_url": "https://pypi.org/project/wcpan-drive-crypt/"
+}

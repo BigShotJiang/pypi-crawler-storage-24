@@ -1,0 +1,11 @@
+{
+  "name": "odooprotect",
+  "version": "1.0.2",
+  "summary": "Advanced Odoo Protect Python code obfuscator with machine ID binding",
+  "author": "OdooProtect Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dynaz/odooprotect",
+  "download_filename": "odooprotect-1.0.2.tar.gz",
+  "download_time": "2026-03-14T13:03:10.736634",
+  "package_url": "https://pypi.org/project/odooprotect/"
+}

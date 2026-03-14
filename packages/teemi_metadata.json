@@ -1,0 +1,11 @@
+{
+  "name": "teemi",
+  "version": "1.0.4",
+  "summary": "A Python package for constructing microbial strains",
+  "author": "Lucas Levassor",
+  "license": "MIT license",
+  "home_page": "https://github.com/hiyama341/teemi",
+  "download_filename": "teemi-1.0.4.tar.gz",
+  "download_time": "2026-03-14T13:03:16.528731",
+  "package_url": "https://pypi.org/project/teemi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "daglint",
+  "version": "1.0.0",
+  "summary": "A linting tool for Apache Airflow DAG files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daglint-1.0.0.tar.gz",
+  "download_time": "2026-03-14T13:02:39.960605",
+  "package_url": "https://pypi.org/project/daglint/"
+}

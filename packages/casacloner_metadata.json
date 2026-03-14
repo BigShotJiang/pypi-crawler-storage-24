@@ -1,0 +1,11 @@
+{
+  "name": "casacloner",
+  "version": "1.7.7",
+  "summary": "casa.py v1 - A Python wrapper for the Discord API",
+  "author": "Noritem",
+  "license": "MIT",
+  "home_page": "https://casacloner.com",
+  "download_filename": "casacloner-1.7.7.tar.gz",
+  "download_time": "2026-03-14T13:03:18.268824",
+  "package_url": "https://pypi.org/project/casacloner/"
+}

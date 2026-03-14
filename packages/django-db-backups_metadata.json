@@ -1,11 +1,11 @@
 {
   "name": "django-db-backups",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A simple database backup/restore for Django (Postgres/SQLite + Dropbox)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_db_backups-0.1.2.tar.gz",
-  "download_time": "2026-03-08T15:45:39.454944",
+  "download_filename": "django_db_backups-0.1.5.tar.gz",
+  "download_time": "2026-03-14T13:02:35.069776",
   "package_url": "https://pypi.org/project/django-db-backups/"
 }

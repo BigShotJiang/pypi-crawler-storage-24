@@ -1,0 +1,11 @@
+{
+  "name": "ai4privacy",
+  "version": "0.5.0",
+  "summary": "A package to mask PII in text using transformers",
+  "author": "Michael Anthony",
+  "license": null,
+  "home_page": "https://github.com/MikeDoes/ai4privacy",
+  "download_filename": "ai4privacy-0.5.0.tar.gz",
+  "download_time": "2026-03-14T13:03:00.123289",
+  "package_url": "https://pypi.org/project/ai4privacy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sb-tracker",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "A minimal, standalone issue tracker for individuals. No git hooks, no complex dependencies, just one local SQLite file.",
   "author": "Simple Beads Contributors",
   "license": "MIT",
   "home_page": "https://github.com/sirius-cc-wu/sb-tracker",
-  "download_filename": "sb_tracker-0.5.0.tar.gz",
-  "download_time": "2026-03-07T20:47:27.794180",
+  "download_filename": "sb_tracker-0.7.0.tar.gz",
+  "download_time": "2026-03-14T13:02:55.451516",
   "package_url": "https://pypi.org/project/sb-tracker/"
 }
