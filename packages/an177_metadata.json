@@ -1,11 +1,11 @@
 {
   "name": "an177",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A lightweight offline code protection tool",
   "author": "vinh_an17",
   "license": null,
   "home_page": null,
-  "download_filename": "an177-0.1.1.tar.gz",
-  "download_time": "2026-03-14T15:25:06.522901",
+  "download_filename": "an177-0.1.2.tar.gz",
+  "download_time": "2026-03-14T15:51:54.085137",
   "package_url": "https://pypi.org/project/an177/"
 }

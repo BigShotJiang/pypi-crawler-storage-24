@@ -1,0 +1,11 @@
+{
+  "name": "pelican-heatmap",
+  "version": "0.2.1",
+  "summary": "A Pelican plugin that generates a GitHub-style writing heatmap from your articles",
+  "author": "Wei Lee",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pelican_heatmap-0.2.1.tar.gz",
+  "download_time": "2026-03-14T15:52:03.373773",
+  "package_url": "https://pypi.org/project/pelican-heatmap/"
+}

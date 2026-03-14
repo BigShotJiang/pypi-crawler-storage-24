@@ -1,0 +1,11 @@
+{
+  "name": "fontforge-fontchecker",
+  "version": "0.3.0",
+  "summary": "FontForge_plugin of font checker frontend",
+  "author": "MihailJP",
+  "license": "MIT",
+  "home_page": "https://github.com/MihailJP/fontforge-fontchecker",
+  "download_filename": "fontforge_fontchecker-0.3.0.tar.gz",
+  "download_time": "2026-03-14T15:51:44.264169",
+  "package_url": "https://pypi.org/project/fontforge-fontchecker/"
+}

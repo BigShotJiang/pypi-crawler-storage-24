@@ -1,0 +1,11 @@
+{
+  "name": "abi-prd",
+  "version": "0.1.3",
+  "summary": "Deterministic, budget-aware AI orchestration kernel for PRD generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abi_prd-0.1.3.tar.gz",
+  "download_time": "2026-03-14T15:51:48.912112",
+  "package_url": "https://pypi.org/project/abi-prd/"
+}

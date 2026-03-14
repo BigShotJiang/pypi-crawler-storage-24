@@ -1,0 +1,11 @@
+{
+  "name": "camoufox-cli",
+  "version": "0.1.8",
+  "summary": "Anti-detect browser CLI for AI agents, powered by Camoufox",
+  "author": "Benn Huang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "camoufox_cli-0.1.8.tar.gz",
+  "download_time": "2026-03-14T15:52:29.464862",
+  "package_url": "https://pypi.org/project/camoufox-cli/"
+}

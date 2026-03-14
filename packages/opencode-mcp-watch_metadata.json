@@ -1,0 +1,11 @@
+{
+  "name": "opencode-mcp-watch",
+  "version": "0.1.1",
+  "summary": "Auto-reload OpenCode MCP servers without restarting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opencode_mcp_watch-0.1.1.tar.gz",
+  "download_time": "2026-03-14T15:51:51.010513",
+  "package_url": "https://pypi.org/project/opencode-mcp-watch/"
+}

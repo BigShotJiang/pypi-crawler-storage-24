@@ -1,11 +1,11 @@
 {
   "name": "wecom-doc-sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "企业微信文档 SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wecom_doc_sdk-0.1.0.tar.gz",
-  "download_time": "2026-03-14T10:26:19.331233",
+  "download_filename": "wecom_doc_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-14T15:52:23.832308",
   "package_url": "https://pypi.org/project/wecom-doc-sdk/"
 }

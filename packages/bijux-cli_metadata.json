@@ -1,11 +1,11 @@
 {
   "name": "bijux-cli",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Python package for installing and launching the Bijux command runtime for automation, plugins, and interactive workflows",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://bijux.github.io/bijux-cli/",
-  "download_filename": "bijux_cli-0.3.0.tar.gz",
-  "download_time": "2026-03-14T15:24:55.103131",
+  "download_filename": "bijux_cli-0.3.1.tar.gz",
+  "download_time": "2026-03-14T15:51:48.400686",
   "package_url": "https://pypi.org/project/bijux-cli/"
 }

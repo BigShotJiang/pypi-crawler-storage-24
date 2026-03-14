@@ -1,11 +1,11 @@
 {
   "name": "pixlstash",
-  "version": "0.9.6",
+  "version": "0.9.8",
   "summary": "Self-hosted picture library with AI tagging, semantic search, and a clean web UI",
   "author": "Gaute Lindkvist",
   "license": null,
   "home_page": null,
-  "download_filename": "pixlstash-0.9.6.tar.gz",
-  "download_time": "2026-03-12T19:13:51.516288",
+  "download_filename": "pixlstash-0.9.8.tar.gz",
+  "download_time": "2026-03-14T15:52:10.017642",
   "package_url": "https://pypi.org/project/pixlstash/"
 }
