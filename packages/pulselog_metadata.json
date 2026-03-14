@@ -1,0 +1,11 @@
+{
+  "name": "pulselog",
+  "version": "0.1.0",
+  "summary": "Real-time browser dashboard for Python logging — zero config, non-blocking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pulselog-0.1.0.tar.gz",
+  "download_time": "2026-03-14T20:54:17.130273",
+  "package_url": "https://pypi.org/project/pulselog/"
+}

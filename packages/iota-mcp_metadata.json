@@ -1,0 +1,11 @@
+{
+  "name": "iota-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Islands on the Air — group lookup, island search, DXCC mapping",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "iota_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-14T20:54:12.950369",
+  "package_url": "https://pypi.org/project/iota-mcp/"
+}

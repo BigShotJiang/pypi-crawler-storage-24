@@ -1,0 +1,11 @@
+{
+  "name": "ydl-podcast",
+  "version": "1.12.3",
+  "summary": "A simple tool to generate Podcast-like RSS feeds from youtube (or other youtube-dl supported services) channels, using youtube-dl/yt-dlp",
+  "author": "nbr23",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ydl_podcast-1.12.3.tar.gz",
+  "download_time": "2026-03-14T20:54:31.574650",
+  "package_url": "https://pypi.org/project/ydl-podcast/"
+}

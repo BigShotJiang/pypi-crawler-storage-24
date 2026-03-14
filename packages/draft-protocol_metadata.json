@@ -1,11 +1,11 @@
 {
   "name": "draft-protocol",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "DRAFT Protocol — Intake governance for AI tool calls. Ensures AI understands human intent before execution begins.",
   "author": "Manifold Vector LLC",
   "license": null,
   "home_page": null,
-  "download_filename": "draft_protocol-1.3.0.tar.gz",
-  "download_time": "2026-03-14T08:03:07.944555",
+  "download_filename": "draft_protocol-1.3.1.tar.gz",
+  "download_time": "2026-03-14T20:54:25.405459",
   "package_url": "https://pypi.org/project/draft-protocol/"
 }

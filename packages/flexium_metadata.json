@@ -1,0 +1,11 @@
+{
+  "name": "flexium",
+  "version": "0.1.2",
+  "summary": "Flexium.AI - Flexible Resource Allocation for GPU training with live migration",
+  "author": "Flexium.AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexium-0.1.2.tar.gz",
+  "download_time": "2026-03-14T20:54:20.730241",
+  "package_url": "https://pypi.org/project/flexium/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "plotair",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Generate CO₂, humidity and temperature plots from VisiblAir sensor CSV files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plotair-0.4.0.tar.gz",
-  "download_time": "2026-03-14T20:25:30.953225",
+  "download_filename": "plotair-0.4.1.tar.gz",
+  "download_time": "2026-03-14T20:54:14.508552",
   "package_url": "https://pypi.org/project/plotair/"
 }

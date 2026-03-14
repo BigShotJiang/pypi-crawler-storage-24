@@ -1,0 +1,11 @@
+{
+  "name": "nextcloud-esamaap",
+  "version": "0.1.0",
+  "summary": "Read and upload files to/from Nextcloud directly in Jupyter notebooks without downloading them locally",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nextcloud_esamaap-0.1.0.tar.gz",
+  "download_time": "2026-03-14T20:54:33.108439",
+  "package_url": "https://pypi.org/project/nextcloud-esamaap/"
+}

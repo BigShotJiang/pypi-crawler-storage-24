@@ -1,0 +1,11 @@
+{
+  "name": "full-time-api",
+  "version": "1.0.1",
+  "summary": "A simple tool to help obtain fixture information from the FA Full-Time system.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "full_time_api-1.0.1.tar.gz",
+  "download_time": "2026-03-14T20:54:25.916236",
+  "package_url": "https://pypi.org/project/full-time-api/"
+}

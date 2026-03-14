@@ -1,11 +1,11 @@
 {
   "name": "spoox",
-  "version": "0.4.20",
+  "version": "0.5.0",
   "summary": "SPOOX – SPlit lOOp eXpand – Terminal Assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spoox-0.4.20.tar.gz",
-  "download_time": "2026-03-14T17:25:31.644447",
+  "download_filename": "spoox-0.5.0.tar.gz",
+  "download_time": "2026-03-14T20:53:56.904402",
   "package_url": "https://pypi.org/project/spoox/"
 }

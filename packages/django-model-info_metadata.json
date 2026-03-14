@@ -1,0 +1,11 @@
+{
+  "name": "django-model-info",
+  "version": "2026.3.1",
+  "summary": "A set of Django Management Commands to help you understand and visualize your project's models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_model_info-2026.3.1.tar.gz",
+  "download_time": "2026-03-14T20:54:26.941689",
+  "package_url": "https://pypi.org/project/django-model-info/"
+}

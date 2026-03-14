@@ -1,0 +1,11 @@
+{
+  "name": "ascp-optimizer",
+  "version": "0.1.0",
+  "summary": "Agent Semantic Communication Protocol — reduces AI agent token overhead via schema references, artifact CIDs, delta context, and compression",
+  "author": "hahahuy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ascp_optimizer-0.1.0.tar.gz",
+  "download_time": "2026-03-14T20:54:41.898477",
+  "package_url": "https://pypi.org/project/ascp-optimizer/"
+}
