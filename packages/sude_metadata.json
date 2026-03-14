@@ -1,0 +1,11 @@
+{
+  "name": "sude",
+  "version": "0.1.4",
+  "summary": "A scalable manifold learning (SUDE) method that can cope with large-scale and high-dimensional data in an efficient manner.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sude-0.1.4.tar.gz",
+  "download_time": "2026-03-14T15:25:00.191626",
+  "package_url": "https://pypi.org/project/sude/"
+}

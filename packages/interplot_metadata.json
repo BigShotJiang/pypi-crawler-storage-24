@@ -1,0 +1,11 @@
+{
+  "name": "interplot",
+  "version": "1.2.0",
+  "summary": "Create matplotlib and plotly charts with the same few lines of code.",
+  "author": "Janosch Jörg",
+  "license": "GPL v3",
+  "home_page": "https://github.com/janjoch/interplot",
+  "download_filename": "interplot-1.2.0.tar.gz",
+  "download_time": "2026-03-14T15:24:48.654741",
+  "package_url": "https://pypi.org/project/interplot/"
+}

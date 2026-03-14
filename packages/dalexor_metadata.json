@@ -1,11 +1,11 @@
 {
   "name": "dalexor",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "summary": "Dalexor MI: Global MCP Brain & Sovereign CLI. Zero-knowledge code intelligence.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dalexor-1.7.0.tar.gz",
-  "download_time": "2026-03-13T16:05:11.755416",
+  "download_filename": "dalexor-1.7.1.tar.gz",
+  "download_time": "2026-03-14T15:25:03.383003",
   "package_url": "https://pypi.org/project/dalexor/"
 }

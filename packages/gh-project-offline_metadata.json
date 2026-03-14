@@ -1,0 +1,11 @@
+{
+  "name": "gh-project-offline",
+  "version": "0.2.0",
+  "summary": "Local-first cache for GitHub Project data with ad hoc and periodic sync.",
+  "author": "Aravinth Earth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gh_project_offline-0.2.0.tar.gz",
+  "download_time": "2026-03-14T15:25:11.162152",
+  "package_url": "https://pypi.org/project/gh-project-offline/"
+}

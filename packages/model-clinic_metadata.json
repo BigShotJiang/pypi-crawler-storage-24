@@ -1,0 +1,11 @@
+{
+  "name": "model-clinic",
+  "version": "0.4.0",
+  "summary": "Diagnose, treat, and understand neural network models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_clinic-0.4.0.tar.gz",
+  "download_time": "2026-03-14T15:25:30.236651",
+  "package_url": "https://pypi.org/project/model-clinic/"
+}

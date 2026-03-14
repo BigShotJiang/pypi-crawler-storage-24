@@ -1,11 +1,11 @@
 {
   "name": "nozie",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Your code, always running. Nozie fixes itself.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "nozie-0.1.0.tar.gz",
-  "download_time": "2026-03-11T05:04:50.666432",
+  "download_filename": "nozie-0.2.0.tar.gz",
+  "download_time": "2026-03-14T15:25:21.517536",
   "package_url": "https://pypi.org/project/nozie/"
 }

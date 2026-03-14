@@ -1,11 +1,11 @@
 {
   "name": "graqle",
-  "version": "0.21.1",
+  "version": "0.23.0",
   "summary": "Dev Intelligence Layer — turn any codebase into a reasoning-ready knowledge graph. Query your architecture, not your files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graqle-0.21.1.tar.gz",
-  "download_time": "2026-03-14T03:44:31.490542",
+  "download_filename": "graqle-0.23.0.tar.gz",
+  "download_time": "2026-03-14T15:25:02.319095",
   "package_url": "https://pypi.org/project/graqle/"
 }

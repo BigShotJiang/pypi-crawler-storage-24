@@ -1,11 +1,11 @@
 {
   "name": "fabprint",
-  "version": "0.1.23",
+  "version": "0.1.25",
   "summary": "Headless 3D print pipeline: arrange, slice, and print",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabprint-0.1.23.tar.gz",
-  "download_time": "2026-03-14T09:58:49.197155",
+  "download_filename": "fabprint-0.1.25.tar.gz",
+  "download_time": "2026-03-14T15:25:08.590479",
   "package_url": "https://pypi.org/project/fabprint/"
 }
