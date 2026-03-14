@@ -1,11 +1,11 @@
 {
   "name": "emotional-deescalation-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Universal MCP server for emotional tone analysis and de-escalation in communications",
   "author": "ilyajob05",
   "license": null,
   "home_page": null,
-  "download_filename": "emotional_deescalation_mcp-0.1.1.tar.gz",
-  "download_time": "2026-03-11T21:04:50.404512",
+  "download_filename": "emotional_deescalation_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-14T21:25:08.409262",
   "package_url": "https://pypi.org/project/emotional-deescalation-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "serapeum-azure-openai",
+  "version": "0.1.0",
+  "summary": "serapeum azure openai integration",
+  "author": null,
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "serapeum_azure_openai-0.1.0.tar.gz",
+  "download_time": "2026-03-14T21:24:44.515400",
+  "package_url": "https://pypi.org/project/serapeum-azure-openai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sandbox-engine-cli",
+  "version": "1.0.3",
+  "summary": "A CLI tool to run Python projects in sandboxed environments.",
+  "author": "Vivan Rajath",
+  "license": null,
+  "home_page": "https://github.com/VivanRajath/sandbox-engine",
+  "download_filename": "sandbox_engine_cli-1.0.3.tar.gz",
+  "download_time": "2026-03-14T21:24:46.194741",
+  "package_url": "https://pypi.org/project/sandbox-engine-cli/"
+}

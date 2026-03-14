@@ -1,11 +1,11 @@
 {
   "name": "revkeen",
-  "version": "1.20260314.60",
+  "version": "1.20260314.61",
   "summary": "RevKeen Python SDK - Stripe-like billing infrastructure for your SaaS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "revkeen-1.20260314.60.tar.gz",
-  "download_time": "2026-03-14T20:25:22.219355",
+  "download_filename": "revkeen-1.20260314.61.tar.gz",
+  "download_time": "2026-03-14T21:24:28.757494",
   "package_url": "https://pypi.org/project/revkeen/"
 }

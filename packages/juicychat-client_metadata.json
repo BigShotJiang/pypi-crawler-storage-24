@@ -1,11 +1,11 @@
 {
   "name": "juicychat-client",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "Unofficial Python client for juicychat.ai",
   "author": "Kirby Wirby",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "juicychat_client-0.2.13.tar.gz",
-  "download_time": "2026-03-14T07:42:03.310706",
+  "download_filename": "juicychat_client-0.2.14.tar.gz",
+  "download_time": "2026-03-14T21:24:49.954660",
   "package_url": "https://pypi.org/project/juicychat-client/"
 }

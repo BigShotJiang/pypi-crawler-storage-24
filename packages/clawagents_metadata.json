@@ -1,11 +1,11 @@
 {
   "name": "clawagents",
-  "version": "5.23.0",
+  "version": "5.23.1",
   "summary": "Lean, full-stack agentic AI framework with PTRL (Prompt-Time Reinforcement Learning)",
   "author": "ClawAgents Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "clawagents-5.23.0.tar.gz",
-  "download_time": "2026-03-14T20:54:06.172082",
+  "download_filename": "clawagents-5.23.1.tar.gz",
+  "download_time": "2026-03-14T21:24:45.066293",
   "package_url": "https://pypi.org/project/clawagents/"
 }

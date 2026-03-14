@@ -1,0 +1,11 @@
+{
+  "name": "WooCommercePy",
+  "version": "1.0.0",
+  "summary": "A modern Python wrapper for the WooCommerce REST API with model classes and intuitive methods",
+  "author": "ow008",
+  "license": null,
+  "home_page": "https://github.com/ow008/WooCommercePy",
+  "download_filename": "woocommercepy-1.0.0.tar.gz",
+  "download_time": "2026-03-14T21:24:54.785444",
+  "package_url": "https://pypi.org/project/WooCommercePy/"
+}

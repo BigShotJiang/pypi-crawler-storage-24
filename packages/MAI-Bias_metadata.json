@@ -1,0 +1,11 @@
+{
+  "name": "MAI-Bias",
+  "version": "0.2.30",
+  "summary": "Desktop app version of the MAI-Bias toolkit.",
+  "author": "Emmanouil (Manios) Krasanakis",
+  "license": null,
+  "home_page": "https://github.com/mammoth-eu/mammoth-commons",
+  "download_filename": "mai_bias-0.2.30-py3-none-any.whl",
+  "download_time": "2026-03-14T21:24:43.974375",
+  "package_url": "https://pypi.org/project/MAI-Bias/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qgis-plugin-dev-tools",
+  "version": "0.10.0",
+  "summary": "QGIS plugin development and packaging tools, which make managing runtime dependencies easy.",
+  "author": "National Land Survey of Finland",
+  "license": "GNU GPL v3.0",
+  "home_page": "https://github.com/nlsfi/qgis-plugin-dev-tools",
+  "download_filename": "qgis_plugin_dev_tools-0.10.0.tar.gz",
+  "download_time": "2026-03-14T21:24:57.765326",
+  "package_url": "https://pypi.org/project/qgis-plugin-dev-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fixprice-api",
+  "version": "0.2.3",
+  "summary": "A Python API client for FixPrice catalog",
+  "author": "Miskler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fixprice_api-0.2.3.tar.gz",
+  "download_time": "2026-03-14T21:24:42.310982",
+  "package_url": "https://pypi.org/project/fixprice-api/"
+}

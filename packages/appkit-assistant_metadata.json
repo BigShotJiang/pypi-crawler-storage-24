@@ -1,11 +1,11 @@
 {
   "name": "appkit-assistant",
-  "version": "1.8.3",
+  "version": "1.8.6",
   "summary": "Add your description here",
   "author": "Jens Rehpöhler",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "appkit_assistant-1.8.3.tar.gz",
-  "download_time": "2026-03-08T17:49:14.410635",
+  "download_filename": "appkit_assistant-1.8.6.tar.gz",
+  "download_time": "2026-03-14T21:24:32.832162",
   "package_url": "https://pypi.org/project/appkit-assistant/"
 }

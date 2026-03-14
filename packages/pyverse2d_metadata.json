@@ -1,11 +1,11 @@
 {
   "name": "pyverse2d",
-  "version": "0.9.0",
+  "version": "0.9.2",
   "summary": "2D Game Engine using pyglet (OpenGL) for rendering",
   "author": "WhiteWolf45380",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyverse2d-0.9.0.tar.gz",
-  "download_time": "2026-03-14T20:53:57.928750",
+  "download_filename": "pyverse2d-0.9.2.tar.gz",
+  "download_time": "2026-03-14T21:24:49.427145",
   "package_url": "https://pypi.org/project/pyverse2d/"
 }

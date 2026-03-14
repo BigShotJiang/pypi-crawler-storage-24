@@ -1,11 +1,11 @@
 {
   "name": "clawbot-plus",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "🤖 AI-Powered Browser Automation CLI — Automate your browser with AI",
   "author": "Aayushsoam",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clawbot_plus-1.0.5.tar.gz",
-  "download_time": "2026-03-13T22:25:04.797296",
+  "download_filename": "clawbot_plus-1.0.6.tar.gz",
+  "download_time": "2026-03-14T21:24:39.017135",
   "package_url": "https://pypi.org/project/clawbot-plus/"
 }
