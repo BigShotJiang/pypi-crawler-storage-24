@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-elevenlabs",
-  "version": "0.0.69",
+  "version": "0.0.70",
   "summary": "VideoSDK Agent Framework plugin for ElevenLabs",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_elevenlabs-0.0.69.tar.gz",
-  "download_time": "2026-03-13T07:57:36.192697",
+  "download_filename": "videosdk_plugins_elevenlabs-0.0.70.tar.gz",
+  "download_time": "2026-03-14T15:10:53.124760",
   "package_url": "https://pypi.org/project/videosdk-plugins-elevenlabs/"
 }

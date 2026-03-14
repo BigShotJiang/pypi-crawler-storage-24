@@ -1,0 +1,11 @@
+{
+  "name": "enfermeria-sdk",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for the EnfermerIA Public API.",
+  "author": "EnfermerIA",
+  "license": "UNLICENSED",
+  "home_page": null,
+  "download_filename": "enfermeria_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-14T15:10:42.717645",
+  "package_url": "https://pypi.org/project/enfermeria-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "punt-z-spec",
+  "version": "0.14.0",
+  "summary": "Z specification toolkit: type-checker, model-checker, and Claude Code plugin",
+  "author": "Punt Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "punt_z_spec-0.14.0.tar.gz",
+  "download_time": "2026-03-14T15:11:18.314477",
+  "package_url": "https://pypi.org/project/punt-z-spec/"
+}

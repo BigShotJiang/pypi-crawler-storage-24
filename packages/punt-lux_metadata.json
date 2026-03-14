@@ -1,11 +1,11 @@
 {
   "name": "punt-lux",
-  "version": "0.8.0",
+  "version": "0.14.0",
   "summary": "The paintbrush for Claude. A visual output surface for AI agents — diagrams, tables, images, and interactive controls.",
   "author": "Punt Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "punt_lux-0.8.0.tar.gz",
-  "download_time": "2026-03-10T21:59:32.792887",
+  "download_filename": "punt_lux-0.14.0.tar.gz",
+  "download_time": "2026-03-14T15:11:01.861831",
   "package_url": "https://pypi.org/project/punt-lux/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "autowsgr",
-  "version": "2.1.0.post1",
+  "version": "2.1.5.post3",
   "summary": "Auto Warship Girls Framework.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autowsgr-2.1.0.post1.tar.gz",
-  "download_time": "2026-03-08T16:34:16.829524",
+  "download_filename": "autowsgr-2.1.5.post3.tar.gz",
+  "download_time": "2026-03-14T15:10:54.698864",
   "package_url": "https://pypi.org/project/autowsgr/"
 }
