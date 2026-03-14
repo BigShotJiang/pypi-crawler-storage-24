@@ -1,0 +1,11 @@
+{
+  "name": "locksafe",
+  "version": "0.3.2",
+  "summary": "Postgres migration safety analyzer — catch dangerous operations before they run",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "locksafe-0.3.2.tar.gz",
+  "download_time": "2026-03-14T19:06:55.992961",
+  "package_url": "https://pypi.org/project/locksafe/"
+}

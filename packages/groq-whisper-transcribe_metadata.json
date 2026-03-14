@@ -1,0 +1,11 @@
+{
+  "name": "groq-whisper-transcribe",
+  "version": "1.0",
+  "summary": "A simple script that uses the Groq API to transcribe audio files using the Whisper model",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/jfhack/groq-whisper-transcribe",
+  "download_filename": "groq_whisper_transcribe-1.0.tar.gz",
+  "download_time": "2026-03-14T19:07:03.853076",
+  "package_url": "https://pypi.org/project/groq-whisper-transcribe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.20.1",
-  "summary": "v0.20.1: Publishability fixes — bootstrap CIs for alert precision 0.896 [0.826,0.960], stream_guard AUROC 0.666, naive baseline table; scope_limitations.md; FARL Phase 2 bug fixes (C1-C4). v0.20.0: FARL discovery loop (230 novel failures, 3 modes), MiniJudge AUROC 0.7638. v0.19.0: FARL ablation + A2A replay protection. v0.18.0: cross-domain MiniJudge AUROC 0.769.",
+  "version": "0.20.3",
+  "summary": "v0.20.3: MuSiQue n=500 definitive result — SC_OLD AUROC 0.506 [0.501,0.576], scope reclassified as out-of-scope alongside NQ. v0.20.2: P(True) statistical validation — AUROC 0.759/0.682/0.758 [all CIs above 0.5] across 3 domains (HotpotQA/TriviaQA/2WikiMultiHop, n=60 each, $0 cached); 2Wiki ensemble 0.817 [0.706,0.912]. v0.20.1: Publishability fixes — bootstrap CIs for alert precision 0.896 [0.826,0.960], stream_guard AUROC 0.666, naive baseline table.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.20.1.tar.gz",
-  "download_time": "2026-03-14T13:03:18.855681",
+  "download_filename": "llm_guard_kit-0.20.3.tar.gz",
+  "download_time": "2026-03-14T19:07:02.413469",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

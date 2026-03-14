@@ -1,11 +1,11 @@
 {
   "name": "crawldiff",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "git log for any website. Track what changed on any site with AI-powered summaries.",
   "author": "George Rouvalis",
   "license": null,
   "home_page": null,
-  "download_filename": "crawldiff-0.1.2.tar.gz",
-  "download_time": "2026-03-14T18:32:42.743679",
+  "download_filename": "crawldiff-0.1.4.tar.gz",
+  "download_time": "2026-03-14T19:07:47.685652",
   "package_url": "https://pypi.org/project/crawldiff/"
 }

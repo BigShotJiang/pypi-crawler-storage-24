@@ -1,0 +1,11 @@
+{
+  "name": "StackGP",
+  "version": "0.0.16",
+  "summary": "A stack-based genetic programming system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stackgp-0.0.16.tar.gz",
+  "download_time": "2026-03-14T19:07:33.052882",
+  "package_url": "https://pypi.org/project/StackGP/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-sql-bridge",
+  "version": "1.0.0",
+  "summary": "MCP server bridge for SQL operations (SQLite, PostgreSQL, MySQL)",
+  "author": "Firas Mosbahi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_sql_bridge-1.0.0.tar.gz",
+  "download_time": "2026-03-14T19:07:45.173433",
+  "package_url": "https://pypi.org/project/mcp-sql-bridge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "safari-writer",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A UI-compatible clone of AtariWriter, built with Textual",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "safari_writer-0.1.4.tar.gz",
-  "download_time": "2026-03-14T15:25:18.424066",
+  "download_filename": "safari_writer-0.1.5.tar.gz",
+  "download_time": "2026-03-14T19:07:05.851100",
   "package_url": "https://pypi.org/project/safari-writer/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hummingbot_mcp",
-  "version": "0.1.2",
+  "version": "1.0.3",
   "summary": "MCP server for Hummingbot API integration - manage crypto trading across multiple exchanges",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hummingbot_mcp-0.1.2.tar.gz",
-  "download_time": "2026-03-09T23:51:29.363777",
+  "download_filename": "hummingbot_mcp-1.0.3.tar.gz",
+  "download_time": "2026-03-14T19:07:35.872592",
   "package_url": "https://pypi.org/project/hummingbot_mcp/"
 }

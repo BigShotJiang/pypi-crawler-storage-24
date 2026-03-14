@@ -1,0 +1,11 @@
+{
+  "name": "fortress-db",
+  "version": "0.1.0",
+  "summary": "Python SDK for Fortress secure database system",
+  "author": "Fortress Team",
+  "license": "SSPL-1.0",
+  "home_page": "https://github.com/Genius740Code/Fortress",
+  "download_filename": "fortress_db-0.1.0.tar.gz",
+  "download_time": "2026-03-14T19:07:12.369076",
+  "package_url": "https://pypi.org/project/fortress-db/"
+}

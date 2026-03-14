@@ -1,0 +1,11 @@
+{
+  "name": "koilang",
+  "version": "1.1.2",
+  "summary": "simple python module for KoiLang parsing",
+  "author": "Visecy",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Ovizro/Kola",
+  "download_filename": "koilang-1.1.2.tar.gz",
+  "download_time": "2026-03-14T19:07:24.096848",
+  "package_url": "https://pypi.org/project/koilang/"
+}
