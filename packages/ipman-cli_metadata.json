@@ -1,0 +1,11 @@
+{
+  "name": "ipman-cli",
+  "version": "0.1.84",
+  "summary": "Intelligence Package Manager - Agent skill virtual environment manager",
+  "author": "twisker",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipman_cli-0.1.84.tar.gz",
+  "download_time": "2026-03-14T06:03:01.091897",
+  "package_url": "https://pypi.org/project/ipman-cli/"
+}

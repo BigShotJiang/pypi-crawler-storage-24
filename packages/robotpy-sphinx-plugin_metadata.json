@@ -1,0 +1,11 @@
+{
+  "name": "robotpy-sphinx-plugin",
+  "version": "0.2.6",
+  "summary": "Common Sphinx tooling for RobotPy projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotpy_sphinx_plugin-0.2.6.tar.gz",
+  "download_time": "2026-03-14T06:03:24.384832",
+  "package_url": "https://pypi.org/project/robotpy-sphinx-plugin/"
+}

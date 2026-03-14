@@ -1,0 +1,11 @@
+{
+  "name": "uzmorph-bigru",
+  "version": "0.1.1",
+  "summary": "Uzbek Neural Morphological Analyzer (BiGRU Architecture)",
+  "author": "Ulugbek Salaev",
+  "license": null,
+  "home_page": "https://github.com/UlugbekSalaev/uzmorph_bigru",
+  "download_filename": "uzmorph_bigru-0.1.1.tar.gz",
+  "download_time": "2026-03-14T06:03:23.360992",
+  "package_url": "https://pypi.org/project/uzmorph-bigru/"
+}

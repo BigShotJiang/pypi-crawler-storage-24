@@ -1,0 +1,11 @@
+{
+  "name": "sentry-auth-gitlab-v2",
+  "version": "0.6.1",
+  "summary": "Gitlab authentication provider for Sentry",
+  "author": "Zakhar Bessarab",
+  "license": null,
+  "home_page": "https://github.com/zekker6/sentry-auth-gitlab",
+  "download_filename": "sentry_auth_gitlab_v2-0.6.1.tar.gz",
+  "download_time": "2026-03-14T06:03:13.498490",
+  "package_url": "https://pypi.org/project/sentry-auth-gitlab-v2/"
+}

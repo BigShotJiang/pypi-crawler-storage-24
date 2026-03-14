@@ -1,0 +1,11 @@
+{
+  "name": "running-process",
+  "version": "1.1.5",
+  "summary": "A modern subprocess.Popen wrapper with improved process management",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "running_process-1.1.5-py3-none-any.whl",
+  "download_time": "2026-03-14T06:03:09.376171",
+  "package_url": "https://pypi.org/project/running-process/"
+}

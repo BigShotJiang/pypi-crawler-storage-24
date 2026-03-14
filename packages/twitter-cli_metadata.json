@@ -1,11 +1,11 @@
 {
   "name": "twitter-cli",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twitter_cli-0.8.1.tar.gz",
-  "download_time": "2026-03-13T20:30:46.094908",
+  "download_filename": "twitter_cli-0.8.2.tar.gz",
+  "download_time": "2026-03-14T06:03:30.074171",
   "package_url": "https://pypi.org/project/twitter-cli/"
 }

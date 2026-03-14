@@ -1,0 +1,11 @@
+{
+  "name": "quiver-vector-db",
+  "version": "0.1.1",
+  "summary": "Fast embedded vector database with Python bindings",
+  "author": "Quiver contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "quiver_vector_db-0.1.1.tar.gz",
+  "download_time": "2026-03-14T06:03:05.263268",
+  "package_url": "https://pypi.org/project/quiver-vector-db/"
+}

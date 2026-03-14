@@ -1,11 +1,11 @@
 {
   "name": "dais-sdk",
-  "version": "0.8.7",
+  "version": "0.8.10",
   "summary": "A LLM Agent Meta Framework",
   "author": "BHznJNs",
   "license": null,
   "home_page": null,
-  "download_filename": "dais_sdk-0.8.7.tar.gz",
-  "download_time": "2026-03-12T05:10:39.282657",
+  "download_filename": "dais_sdk-0.8.10.tar.gz",
+  "download_time": "2026-03-14T06:03:06.798987",
   "package_url": "https://pypi.org/project/dais-sdk/"
 }

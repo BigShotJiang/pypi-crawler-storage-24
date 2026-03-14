@@ -1,0 +1,11 @@
+{
+  "name": "pyedstem",
+  "version": "0.2.0",
+  "summary": "Easy-to-use Python client for the Ed Stem API",
+  "author": "AlexDrBanana",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyedstem-0.2.0.tar.gz",
+  "download_time": "2026-03-14T06:02:58.529816",
+  "package_url": "https://pypi.org/project/pyedstem/"
+}
