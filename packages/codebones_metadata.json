@@ -1,11 +1,11 @@
 {
   "name": "codebones",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "AI context extraction tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codebones-0.1.6-py3-none-manylinux_2_34_x86_64.whl",
-  "download_time": "2026-03-14T01:29:10.508938",
+  "download_filename": "codebones-0.2.0-py3-none-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-03-14T10:55:50.528465",
   "package_url": "https://pypi.org/project/codebones/"
 }

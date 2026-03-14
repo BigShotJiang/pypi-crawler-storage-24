@@ -1,0 +1,11 @@
+{
+  "name": "commune-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for Commune – email infrastructure for agents. Set up an inbox and send your first email in 30 seconds. Programmatic inboxes, consistent threads, custom domains, attachments, and structured data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commune_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-14T10:55:45.795645",
+  "package_url": "https://pypi.org/project/commune-mcp/"
+}

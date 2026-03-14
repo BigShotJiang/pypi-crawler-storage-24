@@ -1,11 +1,11 @@
 {
   "name": "surfmon",
-  "version": "0.15.1",
+  "version": "0.16.0",
   "summary": "Monitor Windsurf and Windsurf Next resource usage and diagnose problems",
   "author": "Ismar Iljazovic",
   "license": null,
   "home_page": null,
-  "download_filename": "surfmon-0.15.1.tar.gz",
-  "download_time": "2026-03-14T09:29:26.946627",
+  "download_filename": "surfmon-0.16.0.tar.gz",
+  "download_time": "2026-03-14T10:56:11.179317",
   "package_url": "https://pypi.org/project/surfmon/"
 }

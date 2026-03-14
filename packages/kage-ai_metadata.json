@@ -1,11 +1,11 @@
 {
   "name": "kage-ai",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "AI-native cron task runner for per-project scheduled prompts and commands.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kage_ai-0.4.2.tar.gz",
-  "download_time": "2026-03-08T13:57:11.017192",
+  "download_filename": "kage_ai-0.5.0.tar.gz",
+  "download_time": "2026-03-14T10:55:40.612875",
   "package_url": "https://pypi.org/project/kage-ai/"
 }

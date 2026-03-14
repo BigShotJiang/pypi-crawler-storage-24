@@ -1,0 +1,11 @@
+{
+  "name": "infrasim",
+  "version": "1.0.0",
+  "summary": "Zero-risk infrastructure chaos engineering — simulate failures, prove availability ceilings, without touching production",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "infrasim-1.0.0.tar.gz",
+  "download_time": "2026-03-14T10:56:01.292350",
+  "package_url": "https://pypi.org/project/infrasim/"
+}

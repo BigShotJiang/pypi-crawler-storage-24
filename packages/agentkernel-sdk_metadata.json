@@ -1,11 +1,11 @@
 {
   "name": "agentkernel-sdk",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "Python SDK for agentkernel — run AI coding agents in secure, isolated microVMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentkernel_sdk-0.17.0.tar.gz",
-  "download_time": "2026-03-12T07:15:08.429336",
+  "download_filename": "agentkernel_sdk-0.18.0.tar.gz",
+  "download_time": "2026-03-14T10:56:14.243983",
   "package_url": "https://pypi.org/project/agentkernel-sdk/"
 }

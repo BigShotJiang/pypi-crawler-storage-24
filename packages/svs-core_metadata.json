@@ -1,11 +1,11 @@
 {
   "name": "svs-core",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "summary": "Core library for SVS (https://svs.kristn.co.uk/)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "svs_core-0.14.1.tar.gz",
-  "download_time": "2026-03-13T20:30:33.747156",
+  "download_filename": "svs_core-0.14.2.tar.gz",
+  "download_time": "2026-03-14T10:55:40.032093",
   "package_url": "https://pypi.org/project/svs-core/"
 }

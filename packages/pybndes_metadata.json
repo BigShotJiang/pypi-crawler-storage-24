@@ -1,0 +1,11 @@
+{
+  "name": "pybndes",
+  "version": "0.0.2",
+  "summary": "Python client for BNDES (Banco Nacional de Desenvolvimento Econômico e Social) services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybndes-0.0.2.tar.gz",
+  "download_time": "2026-03-14T10:55:43.243468",
+  "package_url": "https://pypi.org/project/pybndes/"
+}
