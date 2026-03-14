@@ -1,0 +1,11 @@
+{
+  "name": "decafe-timer",
+  "version": "0.10.0",
+  "summary": "CLI caffeine-clearance tracker with a shrinking ASCII bar.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "decafe_timer-0.10.0.tar.gz",
+  "download_time": "2026-03-14T22:54:36.940726",
+  "package_url": "https://pypi.org/project/decafe-timer/"
+}

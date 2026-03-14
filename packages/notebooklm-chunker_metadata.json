@@ -1,11 +1,11 @@
 {
   "name": "notebooklm-chunker",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Turn long PDFs into chunked NotebookLM workflows with Studio outputs",
   "author": "cmlonder",
   "license": null,
   "home_page": null,
-  "download_filename": "notebooklm_chunker-0.4.1.tar.gz",
-  "download_time": "2026-03-14T21:51:49.417664",
+  "download_filename": "notebooklm_chunker-0.5.0.tar.gz",
+  "download_time": "2026-03-14T22:54:50.293118",
   "package_url": "https://pypi.org/project/notebooklm-chunker/"
 }

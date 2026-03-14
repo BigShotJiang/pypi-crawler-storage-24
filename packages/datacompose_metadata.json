@@ -1,0 +1,11 @@
+{
+  "name": "datacompose",
+  "version": "0.5.0",
+  "summary": "Copy-pasteable data transformation primitives for PySpark. Inspired by shadcn-svelte.",
+  "author": "Datacompose Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datacompose-0.5.0.tar.gz",
+  "download_time": "2026-03-14T22:54:17.450271",
+  "package_url": "https://pypi.org/project/datacompose/"
+}

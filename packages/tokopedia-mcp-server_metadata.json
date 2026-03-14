@@ -1,0 +1,11 @@
+{
+  "name": "tokopedia-mcp-server",
+  "version": "0.3.0",
+  "summary": "MCP server exposing Tokopedia product search, detail, reviews and media tools for AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokopedia_mcp_server-0.3.0.tar.gz",
+  "download_time": "2026-03-14T22:54:15.522569",
+  "package_url": "https://pypi.org/project/tokopedia-mcp-server/"
+}

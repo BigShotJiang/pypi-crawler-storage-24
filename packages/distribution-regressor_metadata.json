@@ -1,0 +1,11 @@
+{
+  "name": "distribution-regressor",
+  "version": "1.4.1",
+  "summary": "Nonparametric distributional regression using LightGBM",
+  "author": "Gabor Gulyas",
+  "license": "MIT",
+  "home_page": "https://github.com/guyko81/DistributionRegressor",
+  "download_filename": "distribution_regressor-1.4.1.tar.gz",
+  "download_time": "2026-03-14T22:54:14.879461",
+  "package_url": "https://pypi.org/project/distribution-regressor/"
+}

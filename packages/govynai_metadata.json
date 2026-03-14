@@ -1,0 +1,11 @@
+{
+  "name": "govynai",
+  "version": "0.2.3",
+  "summary": "Python SDK for the Govyn AI governance proxy",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "govynai-0.2.3.tar.gz",
+  "download_time": "2026-03-14T22:54:40.785196",
+  "package_url": "https://pypi.org/project/govynai/"
+}

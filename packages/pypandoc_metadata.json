@@ -1,0 +1,11 @@
+{
+  "name": "pypandoc",
+  "version": "1.17",
+  "summary": "Thin wrapper for pandoc.",
+  "author": "Juho Vepsäläinen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypandoc-1.17.tar.gz",
+  "download_time": "2026-03-14T22:54:26.005721",
+  "package_url": "https://pypi.org/project/pypandoc/"
+}
