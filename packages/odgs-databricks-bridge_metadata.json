@@ -1,11 +1,11 @@
 {
   "name": "odgs-databricks-bridge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Bridge: Databricks Unity Catalog → ODGS Runtime Enforcement Schemas",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "odgs_databricks_bridge-0.1.0.tar.gz",
-  "download_time": "2026-03-07T17:45:03.655932",
+  "download_filename": "odgs_databricks_bridge-0.2.0.tar.gz",
+  "download_time": "2026-03-14T21:51:18.747193",
   "package_url": "https://pypi.org/project/odgs-databricks-bridge/"
 }

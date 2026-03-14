@@ -1,11 +1,11 @@
 {
   "name": "obsidian-cli-py",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python wrapper for the Obsidian CLI",
-  "author": "Author",
+  "author": "MadnessOverflow",
   "license": null,
   "home_page": null,
-  "download_filename": "obsidian_cli_py-0.1.1.tar.gz",
-  "download_time": "2026-03-14T13:53:28.059035",
+  "download_filename": "obsidian_cli_py-0.1.2.tar.gz",
+  "download_time": "2026-03-14T21:51:46.222555",
   "package_url": "https://pypi.org/project/obsidian-cli-py/"
 }

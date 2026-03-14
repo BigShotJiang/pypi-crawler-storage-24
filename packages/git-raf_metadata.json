@@ -1,0 +1,11 @@
+{
+  "name": "git-raf",
+  "version": "0.1.0",
+  "summary": "Git Regulation As Firmware - governance-integrated version control",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_raf-0.1.0.tar.gz",
+  "download_time": "2026-03-14T21:51:22.726034",
+  "package_url": "https://pypi.org/project/git-raf/"
+}

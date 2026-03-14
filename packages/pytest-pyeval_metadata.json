@@ -1,0 +1,11 @@
+{
+  "name": "pytest-pyeval",
+  "version": "0.2.0",
+  "summary": "pytest plugin integrating pydantic-evals",
+  "author": "Alex Ward",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_pyeval-0.2.0.tar.gz",
+  "download_time": "2026-03-14T21:51:34.900199",
+  "package_url": "https://pypi.org/project/pytest-pyeval/"
+}

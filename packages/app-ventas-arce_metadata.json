@@ -1,0 +1,11 @@
+{
+  "name": "app-ventas-arce",
+  "version": "0.1.1",
+  "summary": "Paquete para Gestionar Ventas,Precios, Impuestos y Descuentos",
+  "author": "Jorge A. Arce",
+  "license": null,
+  "home_page": "https://github.com/curso_python_camara/App_Ventas",
+  "download_filename": "app_ventas_arce-0.1.1.tar.gz",
+  "download_time": "2026-03-14T21:51:31.963947",
+  "package_url": "https://pypi.org/project/app-ventas-arce/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "odgs",
-  "version": "4.0.1",
+  "version": "5.0.0",
   "summary": "Open Data Governance Standard — Universal Validation Primitive",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "odgs-4.0.1.tar.gz",
-  "download_time": "2026-03-07T17:17:47.173375",
+  "download_filename": "odgs-5.0.0.tar.gz",
+  "download_time": "2026-03-14T21:51:22.023189",
   "package_url": "https://pypi.org/project/odgs/"
 }
