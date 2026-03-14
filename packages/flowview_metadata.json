@@ -1,0 +1,11 @@
+{
+  "name": "flowview",
+  "version": "0.1.0",
+  "summary": "Visual data pipeline debugger for Polars — stop print-debugging your pipelines",
+  "author": "guillermodotn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowview-0.1.0.tar.gz",
+  "download_time": "2026-03-14T01:28:31.745698",
+  "package_url": "https://pypi.org/project/flowview/"
+}

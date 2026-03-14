@@ -1,0 +1,11 @@
+{
+  "name": "aiqtoolkit-crewai",
+  "version": "1.4.3",
+  "summary": "Transitional package for nvidia-nat-crewai, this package is deprecated and will be removed in the future.",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aiqtoolkit_crewai-1.4.3-py3-none-any.whl",
+  "download_time": "2026-03-14T01:29:18.263975",
+  "package_url": "https://pypi.org/project/aiqtoolkit-crewai/"
+}

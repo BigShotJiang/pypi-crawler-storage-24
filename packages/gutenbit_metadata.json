@@ -1,11 +1,11 @@
 {
   "name": "gutenbit",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Fast local search across public-domain literary works",
   "author": "Keinan",
   "license": null,
   "home_page": null,
-  "download_filename": "gutenbit-0.1.9.tar.gz",
-  "download_time": "2026-03-13T17:39:17.477528",
+  "download_filename": "gutenbit-0.1.10.tar.gz",
+  "download_time": "2026-03-14T01:28:51.652943",
   "package_url": "https://pypi.org/project/gutenbit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lite-cc",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "summary": "Lightweight multi-model coding agent CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lite_cc-0.1.0.tar.gz",
-  "download_time": "2026-03-08T04:07:28.364310",
+  "download_filename": "lite_cc-0.2.2.tar.gz",
+  "download_time": "2026-03-14T01:28:55.838190",
   "package_url": "https://pypi.org/project/lite-cc/"
 }

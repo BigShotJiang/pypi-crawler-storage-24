@@ -1,0 +1,11 @@
+{
+  "name": "pdm-build-skills",
+  "version": "0.1.0a3",
+  "summary": "A pdm-backend plugin that vendors remote skill repositories into wheels.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdm_build_skills-0.1.0a3.tar.gz",
+  "download_time": "2026-03-14T01:28:44.339984",
+  "package_url": "https://pypi.org/project/pdm-build-skills/"
+}

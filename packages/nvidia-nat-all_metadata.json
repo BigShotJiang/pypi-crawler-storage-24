@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nat-all",
+  "version": "1.4.3",
+  "summary": "Meta-package that installs the full NVIDIA NeMo Agent Toolkit plugin and optional dependency set",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nvidia_nat_all-1.4.3-py3-none-any.whl",
+  "download_time": "2026-03-14T01:29:05.806839",
+  "package_url": "https://pypi.org/project/nvidia-nat-all/"
+}

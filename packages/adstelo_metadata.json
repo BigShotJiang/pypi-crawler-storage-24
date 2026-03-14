@@ -1,0 +1,11 @@
+{
+  "name": "adstelo",
+  "version": "0.1.2",
+  "summary": "Adstelo Python SDK for Telegram Bots",
+  "author": null,
+  "license": "Copyright (c) 2026 Adstelo. All rights reserved.\r\n        \r\n        This source code is provided for auditing and integration purposes only.\r\n        Unauthorized copying, modification, republication, or distribution of this code\r\n        is strictly prohibited. \r\n        \r\n        For licensing inquiries, please contact support@adstelo.com.\r\n        ",
+  "home_page": null,
+  "download_filename": "adstelo-0.1.2.tar.gz",
+  "download_time": "2026-03-14T01:28:59.005337",
+  "package_url": "https://pypi.org/project/adstelo/"
+}
