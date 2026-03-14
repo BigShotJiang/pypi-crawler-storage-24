@@ -1,0 +1,11 @@
+{
+  "name": "cusrl",
+  "version": "1.1.9",
+  "summary": "Customizable and modular RL algorithms implemented in PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cusrl-1.1.9.tar.gz",
+  "download_time": "2026-03-14T05:06:08.731884",
+  "package_url": "https://pypi.org/project/cusrl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sparsepixels",
+  "version": "0.2.0",
+  "summary": "Efficient convolution for sparse data on FPGAs",
+  "author": "Ho Fung Tsoi",
+  "license": "MIT",
+  "home_page": "https://github.com/hftsoi/sparse-pixels",
+  "download_filename": "sparsepixels-0.2.0.tar.gz",
+  "download_time": "2026-03-14T05:06:33.943616",
+  "package_url": "https://pypi.org/project/sparsepixels/"
+}

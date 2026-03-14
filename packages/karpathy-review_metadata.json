@@ -1,0 +1,11 @@
+{
+  "name": "karpathy-review",
+  "version": "0.1.6",
+  "summary": "Code review in Karpathy's voice using RAG over his repos. Not affiliated with Andrej Karpathy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "karpathy_review-0.1.6.tar.gz",
+  "download_time": "2026-03-14T05:06:00.179355",
+  "package_url": "https://pypi.org/project/karpathy-review/"
+}

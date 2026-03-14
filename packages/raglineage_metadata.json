@@ -1,0 +1,11 @@
+{
+  "name": "raglineage",
+  "version": "0.2.9",
+  "summary": "Lineage-aware RAG engine for auditable, reproducible, versioned retrieval and answers",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "raglineage-0.2.9.tar.gz",
+  "download_time": "2026-03-14T05:06:19.745528",
+  "package_url": "https://pypi.org/project/raglineage/"
+}

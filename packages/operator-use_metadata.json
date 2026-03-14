@@ -1,11 +1,11 @@
 {
   "name": "operator-use",
-  "version": "0.1.0",
-  "summary": "LLM providers and message models (from Windows-Use, no streaming)",
+  "version": "0.1.2",
+  "summary": "A personal assistant that operates your computer. Just like you.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "operator_use-0.1.0.tar.gz",
-  "download_time": "2026-03-14T03:44:03.001556",
+  "download_filename": "operator_use-0.1.2.tar.gz",
+  "download_time": "2026-03-14T05:06:06.075870",
   "package_url": "https://pypi.org/project/operator-use/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nobs-canonicalize",
-  "version": "0.5.0",
-  "summary": null,
+  "version": "0.6.0",
+  "summary": "Canonicalize verbose text strings into clean, deduplicated groups using BERTopic + LLM",
   "author": "Boris Dev",
   "license": null,
   "home_page": null,
-  "download_filename": "nobs_canonicalize-0.5.0.tar.gz",
-  "download_time": "2026-03-13T22:25:05.318215",
+  "download_filename": "nobs_canonicalize-0.6.0.tar.gz",
+  "download_time": "2026-03-14T05:06:33.423667",
   "package_url": "https://pypi.org/project/nobs-canonicalize/"
 }

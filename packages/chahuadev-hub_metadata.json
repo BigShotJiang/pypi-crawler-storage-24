@@ -1,0 +1,11 @@
+{
+  "name": "chahuadev-hub",
+  "version": "1.0.2",
+  "summary": "The official app launcher and distribution hub by Chahuadev.",
+  "author": "Chahuadev",
+  "license": null,
+  "home_page": "https://huggingface.co/chahuadev",
+  "download_filename": "chahuadev_hub-1.0.2.tar.gz",
+  "download_time": "2026-03-14T05:06:18.704160",
+  "package_url": "https://pypi.org/project/chahuadev-hub/"
+}

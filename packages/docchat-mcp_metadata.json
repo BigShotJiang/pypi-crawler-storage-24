@@ -1,0 +1,11 @@
+{
+  "name": "docchat-mcp",
+  "version": "0.2.0",
+  "summary": "Turn your API docs into an intelligent MCP server with deterministic routing and layered knowledge injection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docchat_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-14T05:06:39.137893",
+  "package_url": "https://pypi.org/project/docchat-mcp/"
+}

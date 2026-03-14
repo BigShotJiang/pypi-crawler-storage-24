@@ -1,11 +1,11 @@
 {
   "name": "cryopod",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "CLI for the cryopod.ai agent config backup and sync service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cryopod-0.2.2.tar.gz",
-  "download_time": "2026-03-12T23:50:32.043481",
+  "download_filename": "cryopod-0.2.3.tar.gz",
+  "download_time": "2026-03-14T05:05:58.030018",
   "package_url": "https://pypi.org/project/cryopod/"
 }
