@@ -1,11 +1,11 @@
 {
   "name": "bluefox-components",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Jinja2 macro components and Pico CSS theming for the Bluefox Stack.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bluefox_components-0.2.0.tar.gz",
-  "download_time": "2026-03-14T21:51:45.058258",
+  "download_filename": "bluefox_components-0.3.0.tar.gz",
+  "download_time": "2026-03-14T23:25:15.309385",
   "package_url": "https://pypi.org/project/bluefox-components/"
 }

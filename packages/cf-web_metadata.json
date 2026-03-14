@@ -1,0 +1,11 @@
+{
+  "name": "cf-web",
+  "version": "0.2.0",
+  "summary": "Web-based GUI for Cogniflow with FastAPI backend and React frontend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cf_web-0.2.0.tar.gz",
+  "download_time": "2026-03-14T23:25:06.013267",
+  "package_url": "https://pypi.org/project/cf-web/"
+}

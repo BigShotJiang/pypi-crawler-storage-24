@@ -1,0 +1,11 @@
+{
+  "name": "vocal-core",
+  "version": "0.3.6",
+  "summary": "Core model registry and adapters for Vocal - Ollama for Voice Models",
+  "author": "Vocal Contributors",
+  "license": "SSPL-1.0",
+  "home_page": null,
+  "download_filename": "vocal_core-0.3.6.tar.gz",
+  "download_time": "2026-03-14T23:25:02.726003",
+  "package_url": "https://pypi.org/project/vocal-core/"
+}

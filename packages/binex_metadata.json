@@ -1,11 +1,11 @@
 {
   "name": "binex",
-  "version": "0.2.0a1",
+  "version": "0.5.1",
   "summary": "Debuggable runtime for AI agent pipelines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "binex-0.2.0a1.tar.gz",
-  "download_time": "2026-03-11T18:35:09.093746",
+  "download_filename": "binex-0.5.1-py3-none-any.whl",
+  "download_time": "2026-03-14T23:24:33.090220",
   "package_url": "https://pypi.org/project/binex/"
 }

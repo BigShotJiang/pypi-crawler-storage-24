@@ -1,11 +1,11 @@
 {
   "name": "neurostack",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Build, maintain, and search your knowledge vault. CLI + MCP server with stale note detection, semantic search, and neuroscience-grounded memory.",
   "author": "Raphael Southall",
   "license": null,
   "home_page": null,
-  "download_filename": "neurostack-0.2.0.tar.gz",
-  "download_time": "2026-03-14T21:51:14.226211",
+  "download_filename": "neurostack-0.3.0.tar.gz",
+  "download_time": "2026-03-14T23:24:58.377245",
   "package_url": "https://pypi.org/project/neurostack/"
 }

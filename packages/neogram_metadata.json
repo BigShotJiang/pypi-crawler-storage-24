@@ -1,11 +1,11 @@
 {
   "name": "neogram",
-  "version": "9.5",
-  "summary": "neogram is a lightweight Python module for working with the Telegram Bot API and AI. It combines simple Telegram workflows with powerful features like text and image generation, translation, and more.",
-  "author": "SiriLV",
+  "version": "9.5.4",
+  "summary": "Telegram Bot API library",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neogram-9.5.tar.gz",
-  "download_time": "2026-03-08T17:48:53.702206",
+  "download_filename": "neogram-9.5.4.tar.gz",
+  "download_time": "2026-03-14T23:25:04.872557",
   "package_url": "https://pypi.org/project/neogram/"
 }

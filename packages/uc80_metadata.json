@@ -1,0 +1,11 @@
+{
+  "name": "uc80",
+  "version": "0.1.3",
+  "summary": "ANSI C compiler targeting Z80/CP/M",
+  "author": "uc80 developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uc80-0.1.3.tar.gz",
+  "download_time": "2026-03-14T23:24:49.502146",
+  "package_url": "https://pypi.org/project/uc80/"
+}

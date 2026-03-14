@@ -1,0 +1,11 @@
+{
+  "name": "agent-notifier",
+  "version": "0.1.5",
+  "summary": "Cross-platform notifications for long-running agentic CLI tools",
+  "author": "agent-notifier contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_notifier-0.1.5.tar.gz",
+  "download_time": "2026-03-14T23:24:35.936064",
+  "package_url": "https://pypi.org/project/agent-notifier/"
+}

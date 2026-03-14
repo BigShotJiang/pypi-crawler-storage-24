@@ -1,0 +1,11 @@
+{
+  "name": "testfix",
+  "version": "0.1.0",
+  "summary": "AI-powered CLI to automatically fix failing tests — non-interactive, pipeable, CI-ready",
+  "author": "faw21",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "testfix-0.1.0.tar.gz",
+  "download_time": "2026-03-14T23:24:37.077747",
+  "package_url": "https://pypi.org/project/testfix/"
+}

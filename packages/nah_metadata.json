@@ -1,0 +1,11 @@
+{
+  "name": "nah",
+  "version": "0.4.0",
+  "summary": "Context-aware safety guard for Claude Code. A permission system you control.",
+  "author": "Manuel Schipper",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nah-0.4.0.tar.gz",
+  "download_time": "2026-03-14T23:24:34.798234",
+  "package_url": "https://pypi.org/project/nah/"
+}

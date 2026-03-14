@@ -1,0 +1,11 @@
+{
+  "name": "mcp-pvp",
+  "version": "0.6.16",
+  "summary": "Privacy Vault Protocol for MCP: tokenize sensitive data before the LLM sees it",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcp_pvp-0.6.16.tar.gz",
+  "download_time": "2026-03-14T23:25:13.702065",
+  "package_url": "https://pypi.org/project/mcp-pvp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "macaw-adapters",
-  "version": "0.8.6",
-  "summary": "Secure AI Adapters for OpenAI, Claude, LangChain, LiteLLM (100+ providers), MCP, and MCP Proxy (inline gateway)",
+  "version": "0.8.9",
+  "summary": "Secure AI Adapters for OpenAI, Claude, LangChain, LiteLLM (100+ providers), MCP, and MCP Proxy (inline gateway). Note: mcp-proxy and litellm extras require Python 3.10+",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "macaw_adapters-0.8.6.tar.gz",
-  "download_time": "2026-03-13T03:56:58.072398",
+  "download_filename": "macaw_adapters-0.8.9.tar.gz",
+  "download_time": "2026-03-14T23:25:14.772662",
   "package_url": "https://pypi.org/project/macaw-adapters/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "logsentry-agent",
-  "version": "1.0.34",
+  "version": "1.0.38",
   "summary": "LogSentry agent SDK and collectors.",
   "author": "LogSentry",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "logsentry_agent-1.0.34.tar.gz",
-  "download_time": "2026-03-09T12:49:21.350528",
+  "download_filename": "logsentry_agent-1.0.38.tar.gz",
+  "download_time": "2026-03-14T23:24:55.592146",
   "package_url": "https://pypi.org/project/logsentry-agent/"
 }

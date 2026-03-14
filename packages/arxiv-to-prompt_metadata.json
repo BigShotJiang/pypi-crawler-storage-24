@@ -1,11 +1,11 @@
 {
   "name": "arxiv-to-prompt",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "transform arXiv papers into a single latex prompt for LLMs",
   "author": "Takashi Ishida",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arxiv_to_prompt-0.12.0.tar.gz",
-  "download_time": "2026-03-14T14:25:13.243278",
+  "download_filename": "arxiv_to_prompt-0.13.0.tar.gz",
+  "download_time": "2026-03-14T23:25:10.969819",
   "package_url": "https://pypi.org/project/arxiv-to-prompt/"
 }

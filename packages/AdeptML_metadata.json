@@ -1,0 +1,11 @@
+{
+  "name": "AdeptML",
+  "version": "2.0",
+  "summary": "A High-Level PyTorch based Library for Hybrid Physics-Informed Machine Learning Models",
+  "author": "Manaswin Oddiraju",
+  "license": null,
+  "home_page": null,
+  "download_filename": "adeptml-2.0.tar.gz",
+  "download_time": "2026-03-14T23:24:57.815611",
+  "package_url": "https://pypi.org/project/AdeptML/"
+}

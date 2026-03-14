@@ -1,11 +1,11 @@
 {
   "name": "agent-lit",
-  "version": "0.3.0",
-  "summary": "Persistent memory for AI agents doing literature review. Zero dependencies. SQLite-only.",
+  "version": "0.4.0",
+  "summary": "Persistent memory for AI agents doing literature review with your taste.",
   "author": "Hangyu Zhou",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_lit-0.3.0.tar.gz",
-  "download_time": "2026-03-14T18:32:47.422859",
+  "download_filename": "agent_lit-0.4.0.tar.gz",
+  "download_time": "2026-03-14T23:25:19.108439",
   "package_url": "https://pypi.org/project/agent-lit/"
 }
