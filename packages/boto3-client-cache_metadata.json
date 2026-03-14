@@ -1,0 +1,11 @@
+{
+  "name": "boto3-client-cache",
+  "version": "2.1.17",
+  "summary": "A concurrency-safe, bounded cache for boto3 clients and resources with deterministic identity semantics.",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "boto3_client_cache-2.1.17.tar.gz",
+  "download_time": "2026-03-14T17:53:50.761375",
+  "package_url": "https://pypi.org/project/boto3-client-cache/"
+}

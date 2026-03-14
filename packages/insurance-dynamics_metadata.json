@@ -1,0 +1,11 @@
+{
+  "name": "insurance-dynamics",
+  "version": "0.1.1",
+  "summary": "Dynamic insurance pricing models: GAS score-driven filters and Bayesian change-point detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_dynamics-0.1.1.tar.gz",
+  "download_time": "2026-03-14T17:53:52.636523",
+  "package_url": "https://pypi.org/project/insurance-dynamics/"
+}
