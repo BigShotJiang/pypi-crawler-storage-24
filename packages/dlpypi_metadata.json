@@ -1,11 +1,11 @@
 {
   "name": "dlpypi",
-  "version": "0.0.0",
-  "summary": null,
-  "author": null,
-  "license": null,
+  "version": "0.1.2",
+  "summary": "simple",
+  "author": "random",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "dlpypi-0.0.0.tar.gz",
-  "download_time": "2026-03-14T07:02:33.348583",
+  "download_filename": "dlpypi-0.1.2.tar.gz",
+  "download_time": "2026-03-14T16:26:42.915027",
   "package_url": "https://pypi.org/project/dlpypi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tanml",
+  "version": "0.2.0",
+  "summary": "Automated validation toolkit for tabular ML models—MRM, credit risk, insurance, and other regulated use cases.",
+  "author": "Tanmay Sah, Dolly Sah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tanml-0.2.0.tar.gz",
+  "download_time": "2026-03-14T16:27:02.848035",
+  "package_url": "https://pypi.org/project/tanml/"
+}

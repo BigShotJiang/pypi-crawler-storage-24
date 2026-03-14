@@ -1,0 +1,11 @@
+{
+  "name": "ffun",
+  "version": "1.23.1",
+  "summary": "Backend for the Feeds Fun — web-based news reader",
+  "author": "Aliaksei Yaletski (Tiendil)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffun-1.23.1.tar.gz",
+  "download_time": "2026-03-14T16:27:32.355259",
+  "package_url": "https://pypi.org/project/ffun/"
+}

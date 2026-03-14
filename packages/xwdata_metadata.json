@@ -1,11 +1,11 @@
 {
   "name": "xwdata",
-  "version": "0.9.0.1",
+  "version": "0.9.0.5",
   "summary": "Convenience wrapper for exonware-xwdata - provides 'import xwdata' alias",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xwdata-0.9.0.1.tar.gz",
-  "download_time": "2026-03-12T18:36:58.576825",
+  "download_filename": "xwdata-0.9.0.5.tar.gz",
+  "download_time": "2026-03-14T16:26:50.035387",
   "package_url": "https://pypi.org/project/xwdata/"
 }

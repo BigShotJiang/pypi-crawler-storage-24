@@ -1,11 +1,11 @@
 {
   "name": "subdomain-takeover-tools",
-  "version": "0.50.0",
+  "version": "0.51.0",
   "summary": "Some helper subdomain_takeover_tools to validate subdomain takeovers",
   "author": "Martin van Wingerden",
   "license": "MIT",
   "home_page": "https://github.com/martinvw/subdomain-takeover-tools",
-  "download_filename": "subdomain_takeover_tools-0.50.0.tar.gz",
-  "download_time": "2026-03-14T11:22:12.491034",
+  "download_filename": "subdomain_takeover_tools-0.51.0.tar.gz",
+  "download_time": "2026-03-14T16:27:31.224974",
   "package_url": "https://pypi.org/project/subdomain-takeover-tools/"
 }

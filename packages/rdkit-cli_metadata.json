@@ -1,0 +1,11 @@
+{
+  "name": "rdkit-cli",
+  "version": "0.3.1",
+  "summary": "A comprehensive CLI tool for RDKit cheminformatics operations",
+  "author": "Johan HG Natter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdkit_cli-0.3.1.tar.gz",
+  "download_time": "2026-03-14T16:27:05.554604",
+  "package_url": "https://pypi.org/project/rdkit-cli/"
+}
