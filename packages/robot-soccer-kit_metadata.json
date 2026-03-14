@@ -1,11 +1,11 @@
 {
   "name": "robot-soccer-kit",
-  "version": "2.4.11",
+  "version": "2.4.12",
   "summary": "Robot Soccer Kit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robot_soccer_kit-2.4.11.tar.gz",
-  "download_time": "2026-03-13T19:49:57.574373",
+  "download_filename": "robot_soccer_kit-2.4.12.tar.gz",
+  "download_time": "2026-03-14T09:58:27.534224",
   "package_url": "https://pypi.org/project/robot-soccer-kit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "duckclaw",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Powerful AI — built for you, built with you, built securely. Local-first personal AI assistant.",
-  "author": "DuckClaw Contributors",
-  "license": "MIT",
+  "author": "DuckClaw Contributors - (Madhusudhan Reddy <msreddy.gone@gmail.com>)",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "duckclaw-0.1.1.tar.gz",
-  "download_time": "2026-03-11T08:35:35.326425",
+  "download_filename": "duckclaw-0.1.5.tar.gz",
+  "download_time": "2026-03-14T09:58:49.733836",
   "package_url": "https://pypi.org/project/duckclaw/"
 }

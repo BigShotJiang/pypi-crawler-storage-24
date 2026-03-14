@@ -1,11 +1,11 @@
 {
   "name": "coralsnake",
-  "version": "0.0.201",
+  "version": "0.0.202",
   "summary": "Transcriptome mapping in two colors",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "coralsnake-0.0.201.tar.gz",
-  "download_time": "2026-03-14T08:49:01.449724",
+  "download_filename": "coralsnake-0.0.202.tar.gz",
+  "download_time": "2026-03-14T09:58:32.846110",
   "package_url": "https://pypi.org/project/coralsnake/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "matrice-analytics",
-  "version": "0.1.202",
-  "summary": "Common server utilities for Matrice.ai services",
+  "version": "0.1.205",
+  "summary": "Post-processing analytics for Matrice.ai inference pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matrice_analytics-0.1.202.tar.gz",
-  "download_time": "2026-03-13T16:05:19.515099",
+  "download_filename": "matrice_analytics-0.1.205-py3-none-any.whl",
+  "download_time": "2026-03-14T09:58:43.555979",
   "package_url": "https://pypi.org/project/matrice-analytics/"
 }

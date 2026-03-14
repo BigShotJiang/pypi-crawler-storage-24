@@ -1,0 +1,11 @@
+{
+  "name": "dr-eamer-ai-shared",
+  "version": "1.0.2",
+  "summary": "DEPRECATED - use geepers-kernel instead: pip install geepers-kernel",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dr_eamer_ai_shared-1.0.2.tar.gz",
+  "download_time": "2026-03-14T09:59:02.706498",
+  "package_url": "https://pypi.org/project/dr-eamer-ai-shared/"
+}

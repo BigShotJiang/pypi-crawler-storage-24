@@ -1,11 +1,11 @@
 {
   "name": "impact-index",
-  "version": "0.32.0",
+  "version": "1.0.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "impact_index-0.32.0.tar.gz",
-  "download_time": "2026-03-09T07:39:32.933918",
+  "download_filename": "impact_index-1.0.0.tar.gz",
+  "download_time": "2026-03-14T09:58:47.532068",
   "package_url": "https://pypi.org/project/impact-index/"
 }

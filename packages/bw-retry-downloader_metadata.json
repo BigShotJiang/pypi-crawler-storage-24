@@ -1,0 +1,11 @@
+{
+  "name": "bw-retry-downloader",
+  "version": "0.1.0",
+  "summary": "轻量级重试下载器，专为爬虫工程师设计",
+  "author": "77bw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bw_retry_downloader-0.1.0.tar.gz",
+  "download_time": "2026-03-14T09:58:58.660071",
+  "package_url": "https://pypi.org/project/bw-retry-downloader/"
+}

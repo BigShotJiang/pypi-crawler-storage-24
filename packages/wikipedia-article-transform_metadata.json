@@ -1,0 +1,11 @@
+{
+  "name": "wikipedia-article-transform",
+  "version": "0.4.0",
+  "summary": "Extract clean text from Wikipedia article HTML using Rust core parser",
+  "author": "Santhosh Thottingal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wikipedia_article_transform-0.4.0-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-14T09:59:11.990327",
+  "package_url": "https://pypi.org/project/wikipedia-article-transform/"
+}

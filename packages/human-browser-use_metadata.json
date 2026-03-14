@@ -1,11 +1,11 @@
 {
   "name": "human-browser-use",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Human-like browser automation extension for browser-use",
   "author": "andyless",
   "license": null,
   "home_page": null,
-  "download_filename": "human_browser_use-0.1.0.tar.gz",
-  "download_time": "2026-03-14T07:02:24.140799",
+  "download_filename": "human_browser_use-0.2.1.tar.gz",
+  "download_time": "2026-03-14T09:58:46.943814",
   "package_url": "https://pypi.org/project/human-browser-use/"
 }

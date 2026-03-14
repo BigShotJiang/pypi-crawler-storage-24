@@ -1,0 +1,11 @@
+{
+  "name": "mcphero",
+  "version": "2.0.0",
+  "summary": "Library to use MCP servers natively with AI clients as tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcphero-2.0.0.tar.gz",
+  "download_time": "2026-03-14T09:59:14.125602",
+  "package_url": "https://pypi.org/project/mcphero/"
+}

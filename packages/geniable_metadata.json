@@ -1,11 +1,11 @@
 {
   "name": "geniable",
-  "version": "2.19.0",
+  "version": "2.20.0",
   "summary": "AI Agent Framework Harness for building performant, security-hardened agents with evaluation-driven development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geniable-2.19.0.tar.gz",
-  "download_time": "2026-03-08T07:51:19.766703",
+  "download_filename": "geniable-2.20.0.tar.gz",
+  "download_time": "2026-03-14T09:58:53.662568",
   "package_url": "https://pypi.org/project/geniable/"
 }

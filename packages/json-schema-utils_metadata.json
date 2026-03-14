@@ -1,11 +1,11 @@
 {
   "name": "json-schema-utils",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "JSON Schema Utils",
   "author": "Fabien Coelho, Claire Yannou-Medrala",
   "license": null,
   "home_page": null,
-  "download_filename": "json_schema_utils-0.9.1.tar.gz",
-  "download_time": "2026-03-08T19:44:37.877364",
+  "download_filename": "json_schema_utils-0.9.2.tar.gz",
+  "download_time": "2026-03-14T09:58:36.277247",
   "package_url": "https://pypi.org/project/json-schema-utils/"
 }

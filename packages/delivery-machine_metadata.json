@@ -1,0 +1,11 @@
+{
+  "name": "delivery-machine",
+  "version": "0.10.0",
+  "summary": "Route email from all your custom domains to one inbox",
+  "author": "Craig Webster",
+  "license": null,
+  "home_page": null,
+  "download_filename": "delivery_machine-0.10.0.tar.gz",
+  "download_time": "2026-03-14T09:58:52.528257",
+  "package_url": "https://pypi.org/project/delivery-machine/"
+}

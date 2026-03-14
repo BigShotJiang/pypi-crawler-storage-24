@@ -1,0 +1,11 @@
+{
+  "name": "elasticsearch-client-mcp-py",
+  "version": "0.1.0",
+  "summary": "MCP Server for Elasticsearch - index discovery, mapping, safe search/write execution",
+  "author": "dong_tech",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "elasticsearch_client_mcp_py-0.1.0.tar.gz",
+  "download_time": "2026-03-14T09:58:42.354941",
+  "package_url": "https://pypi.org/project/elasticsearch-client-mcp-py/"
+}

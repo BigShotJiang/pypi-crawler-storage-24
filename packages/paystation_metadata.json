@@ -1,11 +1,11 @@
 {
   "name": "paystation",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "A simple Python library for interacting with the PayStation API.",
   "author": "rozari0",
   "license": null,
   "home_page": null,
-  "download_filename": "paystation-0.1.1.tar.gz",
-  "download_time": "2026-03-13T12:45:38.431066",
+  "download_filename": "paystation-1.0.0.tar.gz",
+  "download_time": "2026-03-14T09:58:54.219455",
   "package_url": "https://pypi.org/project/paystation/"
 }

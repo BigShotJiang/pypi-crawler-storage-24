@@ -1,11 +1,11 @@
 {
   "name": "bleu-js",
-  "version": "1.4.38",
+  "version": "1.4.46",
   "summary": "Advanced AI and Quantum Computing Framework",
   "author": "Bleujs Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bleu_js-1.4.38.tar.gz",
-  "download_time": "2026-03-12T01:26:41.772958",
+  "download_filename": "bleu_js-1.4.46.tar.gz",
+  "download_time": "2026-03-14T09:58:55.899404",
   "package_url": "https://pypi.org/project/bleu-js/"
 }
