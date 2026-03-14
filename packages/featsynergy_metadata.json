@@ -1,0 +1,11 @@
+{
+  "name": "featsynergy",
+  "version": "0.1.0",
+  "summary": "Automatic detection of second-order feature synergies for machine learning pipelines.",
+  "author": "Maximo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "featsynergy-0.1.0.tar.gz",
+  "download_time": "2026-03-14T14:25:33.796962",
+  "package_url": "https://pypi.org/project/featsynergy/"
+}

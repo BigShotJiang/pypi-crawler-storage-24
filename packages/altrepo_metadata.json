@@ -1,0 +1,11 @@
+{
+  "name": "altrepo",
+  "version": "0.2.0",
+  "summary": "Async client for ALT Linux repository services (rdb API, packages parser, AppStream)",
+  "author": "Kirill Unitsaev",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://gitlab.eterfund.ru/fiersik/python3-module-altrepo",
+  "download_filename": "altrepo-0.2.0.tar.gz",
+  "download_time": "2026-03-14T14:25:32.231522",
+  "package_url": "https://pypi.org/project/altrepo/"
+}

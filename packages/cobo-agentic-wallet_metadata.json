@@ -1,11 +1,11 @@
 {
   "name": "cobo-agentic-wallet",
-  "version": "0.1.19",
+  "version": "0.1.21",
   "summary": "Python SDK for Cobo Agent Wallet - The Programmable Bank for Autonomous Agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cobo_agentic_wallet-0.1.19-py3-none-any.whl",
-  "download_time": "2026-03-14T08:48:41.204568",
+  "download_filename": "cobo_agentic_wallet-0.1.21-py3-none-any.whl",
+  "download_time": "2026-03-14T14:25:30.685391",
   "package_url": "https://pypi.org/project/cobo-agentic-wallet/"
 }

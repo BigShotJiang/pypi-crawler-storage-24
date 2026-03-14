@@ -1,11 +1,11 @@
 {
   "name": "ouroboros-ai",
-  "version": "0.23.1",
+  "version": "0.23.2",
   "summary": "Self-Improving AI Workflow System",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ouroboros_ai-0.23.1.tar.gz",
-  "download_time": "2026-03-14T13:53:34.995784",
+  "download_filename": "ouroboros_ai-0.23.2.tar.gz",
+  "download_time": "2026-03-14T14:25:20.526061",
   "package_url": "https://pypi.org/project/ouroboros-ai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "twitter-scraper-lite",
+  "version": "1.0.0",
+  "summary": "The fastest and cheapest way to scrape tweets from X (Twitter). Wraps the Apify Twitter Scraper Lite actor with a developer-friendly API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twitter_scraper_lite-1.0.0.tar.gz",
+  "download_time": "2026-03-14T14:25:28.074504",
+  "package_url": "https://pypi.org/project/twitter-scraper-lite/"
+}

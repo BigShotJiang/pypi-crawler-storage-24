@@ -1,0 +1,11 @@
+{
+  "name": "aa-captrack",
+  "version": "1.0.8",
+  "summary": "Capital ship movement early warning plugin for AllianceAuth",
+  "author": "SteveTh3Piirate",
+  "license": "MIT",
+  "home_page": "https://github.com/SteveTh3Piirate/aa-captrack",
+  "download_filename": "aa_captrack-1.0.8.tar.gz",
+  "download_time": "2026-03-14T14:25:41.155918",
+  "package_url": "https://pypi.org/project/aa-captrack/"
+}

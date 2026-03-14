@@ -1,0 +1,11 @@
+{
+  "name": "fsga",
+  "version": "0.1.5",
+  "summary": "Feature selection using a genetic algorithm",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fsga-0.1.5.tar.gz",
+  "download_time": "2026-03-14T14:25:09.075206",
+  "package_url": "https://pypi.org/project/fsga/"
+}

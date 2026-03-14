@@ -1,0 +1,11 @@
+{
+  "name": "pytest-pw-config-gen",
+  "version": "0.1.0",
+  "summary": "Generate pytest-playwright configuration files (pytest.ini, pyproject.toml, conftest.py) via CLI",
+  "author": "pytest-pw-config-gen maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_pw_config_gen-0.1.0.tar.gz",
+  "download_time": "2026-03-14T14:25:14.281058",
+  "package_url": "https://pypi.org/project/pytest-pw-config-gen/"
+}

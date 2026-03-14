@@ -1,11 +1,11 @@
 {
   "name": "dadeum",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Fast Korean text cleaning and word spacing restoration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dadeum-0.1.0-cp310-cp310-manylinux_2_34_x86_64.whl",
-  "download_time": "2026-03-14T09:29:39.488487",
+  "download_filename": "dadeum-1.0.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-14T14:25:32.771859",
   "package_url": "https://pypi.org/project/dadeum/"
 }

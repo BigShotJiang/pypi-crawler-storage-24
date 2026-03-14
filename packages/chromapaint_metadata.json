@@ -1,0 +1,11 @@
+{
+  "name": "chromapaint",
+  "version": "0.1.0",
+  "summary": "Drop-in replacement for colorama with 256-color, true color, and type annotations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chromapaint-0.1.0.tar.gz",
+  "download_time": "2026-03-14T14:25:01.519496",
+  "package_url": "https://pypi.org/project/chromapaint/"
+}

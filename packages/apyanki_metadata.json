@@ -1,0 +1,11 @@
+{
+  "name": "apyanki",
+  "version": "0.19.4",
+  "summary": "CLI script for interacting with local Anki collection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apyanki-0.19.4.tar.gz",
+  "download_time": "2026-03-14T14:25:15.304672",
+  "package_url": "https://pypi.org/project/apyanki/"
+}
