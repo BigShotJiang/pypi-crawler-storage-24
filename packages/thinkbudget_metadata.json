@@ -1,0 +1,11 @@
+{
+  "name": "thinkbudget",
+  "version": "0.1.0",
+  "summary": "Adaptive inference budget controller for self-hosted LLMs. Controls thinking tokens, tracks GPU cost per query.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "thinkbudget-0.1.0.tar.gz",
+  "download_time": "2026-03-15T10:00:42.863136",
+  "package_url": "https://pypi.org/project/thinkbudget/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "codesecure-cli",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "summary": "CodeSecure Command Line Interface",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codesecure_cli-1.0.10.tar.gz",
-  "download_time": "2026-03-14T10:55:42.204492",
+  "download_filename": "codesecure_cli-1.0.12-py3-none-any.whl",
+  "download_time": "2026-03-15T10:01:01.759532",
   "package_url": "https://pypi.org/project/codesecure-cli/"
 }

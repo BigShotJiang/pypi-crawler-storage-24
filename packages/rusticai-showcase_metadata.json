@@ -1,0 +1,11 @@
+{
+  "name": "rusticai-showcase",
+  "version": "1.2.0",
+  "summary": "Module that showcases Rustic AI capabilities",
+  "author": "Dragonscale Industries Inc.",
+  "license": null,
+  "home_page": "https://www.rustic.ai/",
+  "download_filename": "rusticai_showcase-1.2.0.tar.gz",
+  "download_time": "2026-03-15T10:01:14.207945",
+  "package_url": "https://pypi.org/project/rusticai-showcase/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "navil",
+  "version": "0.2.0",
+  "summary": "Security gateway for MCP servers",
+  "author": "Pantheon Lab Pte Ltd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "navil-0.2.0.tar.gz",
+  "download_time": "2026-03-15T10:01:02.278661",
+  "package_url": "https://pypi.org/project/navil/"
+}

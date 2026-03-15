@@ -1,0 +1,11 @@
+{
+  "name": "aida-mcp",
+  "version": "0.5.0",
+  "summary": "AIDA MCP server - Developer actions (lint, test, typecheck) for monorepos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aida_mcp-0.5.0.tar.gz",
+  "download_time": "2026-03-15T10:00:39.711360",
+  "package_url": "https://pypi.org/project/aida-mcp/"
+}

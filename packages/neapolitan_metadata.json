@@ -1,0 +1,11 @@
+{
+  "name": "neapolitan",
+  "version": "26.1",
+  "summary": "Neapolitan: quick CRUD views for Django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neapolitan-26.1.tar.gz",
+  "download_time": "2026-03-15T10:00:49.186233",
+  "package_url": "https://pypi.org/project/neapolitan/"
+}

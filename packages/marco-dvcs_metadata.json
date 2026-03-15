@@ -1,0 +1,11 @@
+{
+  "name": "marco-dvcs",
+  "version": "0.1.0",
+  "summary": "A minimal dataset versioning system for text data with a focus on reproducibility.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/Team-Marco-ACM/marco-package",
+  "download_filename": "marco_dvcs-0.1.0.tar.gz",
+  "download_time": "2026-03-15T10:00:52.370784",
+  "package_url": "https://pypi.org/project/marco-dvcs/"
+}

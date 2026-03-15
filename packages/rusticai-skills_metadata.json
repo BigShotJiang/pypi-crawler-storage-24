@@ -1,0 +1,11 @@
+{
+  "name": "rusticai-skills",
+  "version": "0.3.0",
+  "summary": "Agent Skills support for Rustic AI - load, parse, and execute skills from the Agent Skills ecosystem",
+  "author": "Dragonscale Industries Inc.",
+  "license": null,
+  "home_page": "https://www.rustic.ai/",
+  "download_filename": "rusticai_skills-0.3.0.tar.gz",
+  "download_time": "2026-03-15T10:01:10.574466",
+  "package_url": "https://pypi.org/project/rusticai-skills/"
+}

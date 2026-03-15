@@ -1,0 +1,11 @@
+{
+  "name": "joplin-obsidian-bridge",
+  "version": "0.2.0",
+  "summary": "CLI to sync notes between Joplin and Obsidian (bidirectional).",
+  "author": "gorf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "joplin_obsidian_bridge-0.2.0-py3-none-any.whl",
+  "download_time": "2026-03-15T10:01:22.505438",
+  "package_url": "https://pypi.org/project/joplin-obsidian-bridge/"
+}

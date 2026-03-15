@@ -1,11 +1,11 @@
 {
   "name": "nexa-bidkit",
-  "version": "1.0.0b1",
+  "version": "1.0.0",
   "summary": "Day-ahead and intraday auction bid generation for European power markets",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexa_bidkit-1.0.0b1.tar.gz",
-  "download_time": "2026-03-15T09:32:07.994843",
+  "download_filename": "nexa_bidkit-1.0.0.tar.gz",
+  "download_time": "2026-03-15T10:01:05.384363",
   "package_url": "https://pypi.org/project/nexa-bidkit/"
 }

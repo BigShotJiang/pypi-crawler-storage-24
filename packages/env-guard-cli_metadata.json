@@ -1,0 +1,11 @@
+{
+  "name": "env-guard-cli",
+  "version": "1.0.0",
+  "summary": "Environment variable validation, secret detection, and .env file management CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "env_guard_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-15T10:00:47.107062",
+  "package_url": "https://pypi.org/project/env-guard-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sigillin",
+  "version": "0.1.0",
+  "summary": "The poetic-symbolic interface layer of the GenesisAeon stack – self-referential sigil parser, trilayer validation (YAML/JSON/Markdown) and MandalaMap resonance.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sigillin-0.1.0.tar.gz",
+  "download_time": "2026-03-15T10:01:07.461838",
+  "package_url": "https://pypi.org/project/sigillin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vt100wasm",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Python bindings for vt100 terminal state processing via WASM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vt100wasm-0.1.0.tar.gz",
-  "download_time": "2026-03-14T20:54:01.025498",
+  "download_filename": "vt100wasm-0.1.3-py3-none-any.whl",
+  "download_time": "2026-03-15T10:00:37.109039",
   "package_url": "https://pypi.org/project/vt100wasm/"
 }

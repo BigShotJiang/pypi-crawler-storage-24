@@ -1,11 +1,11 @@
 {
   "name": "fastapi-seed",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Scaffold FastAPI projects in seconds",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_seed-0.1.4.tar.gz",
-  "download_time": "2026-03-15T08:07:04.065209",
+  "download_filename": "fastapi_seed-0.1.5.tar.gz",
+  "download_time": "2026-03-15T10:01:06.941022",
   "package_url": "https://pypi.org/project/fastapi-seed/"
 }
