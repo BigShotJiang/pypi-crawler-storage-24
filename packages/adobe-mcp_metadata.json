@@ -1,0 +1,11 @@
+{
+  "name": "adobe-mcp",
+  "version": "0.1.0",
+  "summary": "Full Creative Cloud automation for Claude via the Model Context Protocol",
+  "author": "VoidChecksum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "adobe_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-15T20:25:35.211498",
+  "package_url": "https://pypi.org/project/adobe-mcp/"
+}

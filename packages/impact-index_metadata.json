@@ -1,11 +1,11 @@
 {
   "name": "impact-index",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "impact_index-1.1.0-cp310-cp310-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-14T10:26:07.755922",
+  "download_filename": "impact_index-1.2.0.tar.gz",
+  "download_time": "2026-03-15T20:25:32.504374",
   "package_url": "https://pypi.org/project/impact-index/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-toolkit",
+  "version": "3.1.0",
+  "summary": "This toolkit contains a few useful tools for Odoo development.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_toolkit-3.1.0.tar.gz",
+  "download_time": "2026-03-15T20:25:41.772557",
+  "package_url": "https://pypi.org/project/odoo-toolkit/"
+}

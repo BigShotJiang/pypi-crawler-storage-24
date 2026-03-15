@@ -1,0 +1,11 @@
+{
+  "name": "rupython",
+  "version": "1.4.5",
+  "summary": "Исполнитель кода Русского Питона",
+  "author": "Сообщество русских программистов",
+  "license": "ОДРН",
+  "home_page": "https://gitflic.ru/project/russky/rupython",
+  "download_filename": "rupython-1.4.5.tar.gz",
+  "download_time": "2026-03-15T20:25:20.805474",
+  "package_url": "https://pypi.org/project/rupython/"
+}

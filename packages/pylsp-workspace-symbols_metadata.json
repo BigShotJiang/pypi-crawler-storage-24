@@ -1,0 +1,11 @@
+{
+  "name": "pylsp-workspace-symbols",
+  "version": "0.4.0",
+  "summary": "Workspace symbols, inlay hints, code lens, semantic tokens, call/type hierarchy, document links and colors for python-lsp-server via Jedi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylsp_workspace_symbols-0.4.0.tar.gz",
+  "download_time": "2026-03-15T20:25:50.021668",
+  "package_url": "https://pypi.org/project/pylsp-workspace-symbols/"
+}

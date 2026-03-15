@@ -1,0 +1,11 @@
+{
+  "name": "qodalis-cli-server",
+  "version": "1.0.0b3",
+  "summary": "A Python CLI server framework for the Qodalis CLI ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qodalis_cli_server-1.0.0b3.tar.gz",
+  "download_time": "2026-03-15T20:25:24.691711",
+  "package_url": "https://pypi.org/project/qodalis-cli-server/"
+}

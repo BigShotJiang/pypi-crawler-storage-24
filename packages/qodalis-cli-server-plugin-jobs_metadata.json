@@ -1,0 +1,11 @@
+{
+  "name": "qodalis-cli-server-plugin-jobs",
+  "version": "1.0.0b3",
+  "summary": "Background job scheduler plugin for Qodalis CLI servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qodalis_cli_server_plugin_jobs-1.0.0b3.tar.gz",
+  "download_time": "2026-03-15T20:25:22.459703",
+  "package_url": "https://pypi.org/project/qodalis-cli-server-plugin-jobs/"
+}

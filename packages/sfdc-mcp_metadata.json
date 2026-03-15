@@ -1,0 +1,11 @@
+{
+  "name": "sfdc-mcp",
+  "version": "0.1.0",
+  "summary": "Salesforce MCP server with governor limit awareness, Bulk API v2.0, and local LLM support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sfdc_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-15T20:25:40.692137",
+  "package_url": "https://pypi.org/project/sfdc-mcp/"
+}

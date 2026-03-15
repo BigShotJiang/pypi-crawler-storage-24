@@ -1,0 +1,11 @@
+{
+  "name": "code-monger",
+  "version": "0.2.5",
+  "summary": "A package for on-the-fly code generation and validation",
+  "author": "Victor Kipkemboi",
+  "license": null,
+  "home_page": "https://github.com/victhepythonista/code_monger",
+  "download_filename": "code_monger-0.2.5.tar.gz",
+  "download_time": "2026-03-15T20:25:17.895197",
+  "package_url": "https://pypi.org/project/code-monger/"
+}

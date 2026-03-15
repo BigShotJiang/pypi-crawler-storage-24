@@ -1,0 +1,11 @@
+{
+  "name": "agentic-kie",
+  "version": "0.1.0",
+  "summary": "Agentic and single-pass Key Information Extraction (KIE) from documents using LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_kie-0.1.0.tar.gz",
+  "download_time": "2026-03-15T20:25:56.523478",
+  "package_url": "https://pypi.org/project/agentic-kie/"
+}

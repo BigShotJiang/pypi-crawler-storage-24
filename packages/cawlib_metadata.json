@@ -1,11 +1,11 @@
 {
   "name": "cawlib",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A high-performance Rust-powered Python library for CAN bus communication and FOC motor control in robotics",
   "author": null,
   "license": "Proprietary - All rights reserved",
   "home_page": null,
-  "download_filename": "cawlib-0.0.7.tar.gz",
-  "download_time": "2026-03-08T18:27:02.140664",
+  "download_filename": "cawlib-0.0.8.tar.gz",
+  "download_time": "2026-03-15T20:25:48.944080",
   "package_url": "https://pypi.org/project/cawlib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pylabhub",
+  "version": "0.1.0a0",
+  "summary": "High-performance IPC framework for scientific data acquisition — C++ core with Python scripting",
+  "author": "Quan Qing",
+  "license": "BSD 3-Clause License\n         \n         Copyright (c) 2025, Quan Qing, Arizona State University\n         All rights reserved.\n         \n         Redistribution and use in source and binary forms, with or without\n         modification, are permitted provided that the following conditions are met:\n         \n         1. Redistributions of source code must retain the above copyright notice,\n            this list of conditions and the following disclaimer.\n         \n         2. Redistributions in binary form must reproduce the above copyright notice,\n            this list of conditions and the following disclaimer in the documentation\n            and/or other materials provided with the distribution.\n         \n         3. Neither the name of Arizona State University nor the names of its\n            contributors may be used to endorse or promote products derived from\n            this software without specific prior written permission.\n         \n         THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n         AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,\n         THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\n         ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE\n         LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n         DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\n         SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\n         CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\n         OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\n         OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n         ",
+  "home_page": null,
+  "download_filename": "pylabhub-0.1.0a0-cp312-cp312-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-15T20:25:43.491421",
+  "package_url": "https://pypi.org/project/pylabhub/"
+}
