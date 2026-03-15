@@ -1,11 +1,11 @@
 {
   "name": "nvqsp",
-  "version": "0.1.0",
+  "version": "0.1.0.post1",
   "summary": "GPU-accelerated sparse RODAS4 stiff ODE solver for QSP/PBPK population studies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvqsp-0.1.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2026-03-14T23:51:25.163729",
+  "download_filename": "nvqsp-0.1.0.post1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-03-15T22:25:25.018756",
   "package_url": "https://pypi.org/project/nvqsp/"
 }

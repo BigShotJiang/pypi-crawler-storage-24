@@ -1,0 +1,11 @@
+{
+  "name": "autorubric",
+  "version": "1.0.0",
+  "summary": "A Python library encapsulating best practices for rubric-based evaluation of LLM/VLM outputs using LLM-as-a-judge.",
+  "author": "Delip Rao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autorubric-1.0.0.tar.gz",
+  "download_time": "2026-03-15T22:26:02.706720",
+  "package_url": "https://pypi.org/project/autorubric/"
+}

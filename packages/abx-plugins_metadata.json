@@ -1,11 +1,11 @@
 {
   "name": "abx-plugins",
-  "version": "0.10.3",
+  "version": "1.9.5",
   "summary": "ArchiveBox-compatible plugin suite (hooks, configs, binaries manifests)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abx_plugins-0.10.3.tar.gz",
-  "download_time": "2026-03-15T21:27:23.374410",
+  "download_filename": "abx_plugins-1.9.5.tar.gz",
+  "download_time": "2026-03-15T22:25:21.962533",
   "package_url": "https://pypi.org/project/abx-plugins/"
 }

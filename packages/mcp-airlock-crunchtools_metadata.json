@@ -1,11 +1,11 @@
 {
   "name": "mcp-airlock-crunchtools",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Secure MCP server for quarantined web content extraction — two-layer defense against prompt injection",
   "author": "crunchtools.com",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_airlock_crunchtools-0.2.0.tar.gz",
-  "download_time": "2026-03-15T19:19:39.952531",
+  "download_filename": "mcp_airlock_crunchtools-0.2.2.tar.gz",
+  "download_time": "2026-03-15T22:25:32.635853",
   "package_url": "https://pypi.org/project/mcp-airlock-crunchtools/"
 }

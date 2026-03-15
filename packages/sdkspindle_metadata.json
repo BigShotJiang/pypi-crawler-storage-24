@@ -1,0 +1,11 @@
+{
+  "name": "sdkspindle",
+  "version": "0.1.1",
+  "summary": "SDK-aware linter, query engine & auto-fixer for com.google.genai",
+  "author": "elb-pr",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sdkspindle-0.1.1.tar.gz",
+  "download_time": "2026-03-15T22:25:38.914732",
+  "package_url": "https://pypi.org/project/sdkspindle/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unitpackage",
+  "version": "0.13.0",
+  "summary": "a Python library to interact with a collection of frictionless datapackages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unitpackage-0.13.0.tar.gz",
+  "download_time": "2026-03-15T22:25:42.063994",
+  "package_url": "https://pypi.org/project/unitpackage/"
+}

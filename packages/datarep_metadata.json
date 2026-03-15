@@ -1,0 +1,11 @@
+{
+  "name": "datarep",
+  "version": "1.0.1",
+  "summary": "A user-authorized agent runtime that acquires data from arbitrary sources and delivers it to consuming applications.",
+  "author": "thyself-fyi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datarep-1.0.1.tar.gz",
+  "download_time": "2026-03-15T22:25:50.797072",
+  "package_url": "https://pypi.org/project/datarep/"
+}

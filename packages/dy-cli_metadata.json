@@ -1,0 +1,11 @@
+{
+  "name": "dy-cli",
+  "version": "0.2.0",
+  "summary": "抖音命令行工具 — 发布、搜索、下载、互动、数据分析、热榜、直播",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dy_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-15T22:25:29.893973",
+  "package_url": "https://pypi.org/project/dy-cli/"
+}

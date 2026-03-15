@@ -1,11 +1,11 @@
 {
   "name": "privlog",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Privacy-aware logging hygiene linter for Python",
   "author": "Christopher Mariani",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "privlog-0.2.1.tar.gz",
-  "download_time": "2026-03-08T23:46:28.542037",
+  "download_filename": "privlog-0.2.2.tar.gz",
+  "download_time": "2026-03-15T22:25:28.320801",
   "package_url": "https://pypi.org/project/privlog/"
 }

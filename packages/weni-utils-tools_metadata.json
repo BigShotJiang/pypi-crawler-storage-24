@@ -1,11 +1,11 @@
 {
   "name": "weni-utils-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Modular tools library for AI agents on the Weni platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "weni_utils_tools-0.0.2.tar.gz",
-  "download_time": "2026-03-15T05:54:45.503196",
+  "download_filename": "weni_utils_tools-0.0.3.tar.gz",
+  "download_time": "2026-03-15T22:25:30.941130",
   "package_url": "https://pypi.org/project/weni-utils-tools/"
 }

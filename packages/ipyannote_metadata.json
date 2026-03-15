@@ -1,11 +1,11 @@
 {
   "name": "ipyannote",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Interactive pyannote widgets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ipyannote-0.5.0.tar.gz",
-  "download_time": "2026-03-13T23:25:25.591680",
+  "download_filename": "ipyannote-0.5.1.tar.gz",
+  "download_time": "2026-03-15T22:25:52.897793",
   "package_url": "https://pypi.org/project/ipyannote/"
 }

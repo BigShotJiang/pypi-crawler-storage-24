@@ -1,0 +1,11 @@
+{
+  "name": "pictex",
+  "version": "2.1.1",
+  "summary": "A Python library for efficient image generation using CSS Flexbox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pictex-2.1.1.tar.gz",
+  "download_time": "2026-03-15T22:25:53.425904",
+  "package_url": "https://pypi.org/project/pictex/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "undef-telemetry",
-  "version": "0.3.14",
+  "version": "0.3.15",
   "summary": "Unified telemetry library for the Undef ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "undef_telemetry-0.3.14.tar.gz",
-  "download_time": "2026-03-15T21:26:54.386738",
+  "download_filename": "undef_telemetry-0.3.15.tar.gz",
+  "download_time": "2026-03-15T22:25:45.750713",
   "package_url": "https://pypi.org/project/undef-telemetry/"
 }
