@@ -1,0 +1,11 @@
+{
+  "name": "outloud-tts",
+  "version": "0.3.0",
+  "summary": "Beautiful TUI for text-to-speech. Gemini, OpenAI, or local. One command.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "outloud_tts-0.3.0.tar.gz",
+  "download_time": "2026-03-15T05:54:37.274306",
+  "package_url": "https://pypi.org/project/outloud-tts/"
+}

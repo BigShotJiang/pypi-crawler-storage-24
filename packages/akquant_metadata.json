@@ -1,11 +1,11 @@
 {
   "name": "akquant",
-  "version": "0.1.73",
+  "version": "0.1.74",
   "summary": "High-performance quantitative trading framework based on Rust and Python",
   "author": "AKQuant Developers",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "akquant-0.1.73.tar.gz",
-  "download_time": "2026-03-13T07:14:04.497838",
+  "download_filename": "akquant-0.1.74.tar.gz",
+  "download_time": "2026-03-15T05:54:05.929677",
   "package_url": "https://pypi.org/project/akquant/"
 }

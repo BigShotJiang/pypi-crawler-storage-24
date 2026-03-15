@@ -1,0 +1,11 @@
+{
+  "name": "WkLog",
+  "version": "1.1.1",
+  "summary": "A simple but powerful log module for Python",
+  "author": "WANGKANG",
+  "license": "LGPL-2.1",
+  "home_page": "https://github.com/WANGKANG1717/WkLog",
+  "download_filename": "wklog-1.1.1.tar.gz",
+  "download_time": "2026-03-15T05:54:23.015728",
+  "package_url": "https://pypi.org/project/WkLog/"
+}

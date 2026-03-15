@@ -1,11 +1,11 @@
 {
   "name": "fortresscodeai",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "FortressCodeAI Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fortresscodeai-0.3.1.tar.gz",
-  "download_time": "2026-03-15T04:32:24.607723",
+  "download_filename": "fortresscodeai-0.3.2.tar.gz",
+  "download_time": "2026-03-15T05:54:13.660521",
   "package_url": "https://pypi.org/project/fortresscodeai/"
 }

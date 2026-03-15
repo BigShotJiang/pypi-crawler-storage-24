@@ -1,11 +1,11 @@
 {
   "name": "cortexcode",
-  "version": "0.6.0",
+  "version": "0.8.1",
   "summary": "Lightweight code indexing for AI assistants — save 90%+ tokens with structured context",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cortexcode-0.6.0.tar.gz",
-  "download_time": "2026-03-07T08:28:47.467346",
+  "download_filename": "cortexcode-0.8.1.tar.gz",
+  "download_time": "2026-03-15T05:54:43.873448",
   "package_url": "https://pypi.org/project/cortexcode/"
 }

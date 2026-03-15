@@ -1,11 +1,11 @@
 {
   "name": "tribalmind",
-  "version": "1.5.0",
-  "summary": "Federated Developer Knowledge Agent - autonomous background agent that observes terminal activity and shares validated fixes across teams",
+  "version": "2.0.1",
+  "summary": "Shared memory for AI development agents - remember, recall, and share knowledge across projects and teams",
   "author": "TribalMind Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "tribalmind-1.5.0.tar.gz",
-  "download_time": "2026-03-14T21:24:45.609282",
+  "download_filename": "tribalmind-2.0.1.tar.gz",
+  "download_time": "2026-03-15T05:54:07.557825",
   "package_url": "https://pypi.org/project/tribalmind/"
 }

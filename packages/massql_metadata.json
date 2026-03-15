@@ -1,0 +1,11 @@
+{
+  "name": "massql",
+  "version": "2026.3.14",
+  "summary": "Mass spectrometry query language python implementation",
+  "author": "Mingxun Wang",
+  "license": null,
+  "home_page": "https://github.com/mwang87/MassQueryLanguage",
+  "download_filename": "massql-2026.3.14.tar.gz",
+  "download_time": "2026-03-15T05:54:20.831446",
+  "package_url": "https://pypi.org/project/massql/"
+}

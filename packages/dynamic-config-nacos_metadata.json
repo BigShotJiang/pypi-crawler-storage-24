@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-config-nacos",
+  "version": "0.1.0",
+  "summary": "Reusable dynamic config provider with YAML fallback and Nacos backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynamic_config_nacos-0.1.0.tar.gz",
+  "download_time": "2026-03-15T05:54:06.473973",
+  "package_url": "https://pypi.org/project/dynamic-config-nacos/"
+}

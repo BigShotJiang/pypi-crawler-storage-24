@@ -1,0 +1,11 @@
+{
+  "name": "beeroot",
+  "version": "1.0.1",
+  "summary": "Stop babysitting your LLM API calls. Adaptive rate gate + multi-agent pipeline.",
+  "author": "carlex22",
+  "license": null,
+  "home_page": "https://github.com/carlex22/beeROOT",
+  "download_filename": "beeroot-1.0.1.tar.gz",
+  "download_time": "2026-03-15T05:54:48.820889",
+  "package_url": "https://pypi.org/project/beeroot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyxform",
+  "version": "4.3.1",
+  "summary": "A Python package to create XForms for ODK Collect.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyxform-4.3.1.tar.gz",
+  "download_time": "2026-03-15T05:54:46.633770",
+  "package_url": "https://pypi.org/project/pyxform/"
+}
