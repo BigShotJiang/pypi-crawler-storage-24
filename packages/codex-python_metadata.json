@@ -1,11 +1,11 @@
 {
   "name": "codex-python",
-  "version": "1.114.0",
+  "version": "1.114.1",
   "summary": "Python SDK for Codex CLI with bundled platform binaries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codex_python-1.114.0.tar.gz",
-  "download_time": "2026-03-14T12:01:37.559134",
+  "download_filename": "codex_python-1.114.1.tar.gz",
+  "download_time": "2026-03-15T10:34:34.570875",
   "package_url": "https://pypi.org/project/codex-python/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "giskard-hub",
+  "version": "2.1.0",
+  "summary": "The giskard_hub library allows you to interact with the Giskard Hub, a platform that centralizes the validation process of LLM applications, empowering product teams to ensure all functional, business & legal requirements are met, and keeping them in close contact with the development team to avoid delayed deployment timelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "giskard_hub-2.1.0-py3-none-any.whl",
+  "download_time": "2026-03-15T10:34:17.527704",
+  "package_url": "https://pypi.org/project/giskard-hub/"
+}

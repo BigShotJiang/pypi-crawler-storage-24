@@ -1,11 +1,11 @@
 {
   "name": "carla-traffic-mcp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "CARLA Traffic Scenario MCP Server for Bailian Platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "carla_traffic_mcp-0.1.7.tar.gz",
-  "download_time": "2026-03-15T10:01:09.022120",
+  "download_filename": "carla_traffic_mcp-0.1.8.tar.gz",
+  "download_time": "2026-03-15T10:34:33.273721",
   "package_url": "https://pypi.org/project/carla-traffic-mcp/"
 }

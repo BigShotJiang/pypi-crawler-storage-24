@@ -1,11 +1,11 @@
 {
   "name": "tabdock",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "A PyQt6 dockable layout framework for Python desktop applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tabdock-0.1.8.tar.gz",
-  "download_time": "2026-03-14T13:53:49.130444",
+  "download_filename": "tabdock-0.2.0.tar.gz",
+  "download_time": "2026-03-15T10:34:39.083178",
   "package_url": "https://pypi.org/project/tabdock/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agenthold",
+  "version": "0.1.1",
+  "summary": "Shared versioned state for multi-agent AI workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agenthold-0.1.1.tar.gz",
+  "download_time": "2026-03-15T10:34:39.790367",
+  "package_url": "https://pypi.org/project/agenthold/"
+}

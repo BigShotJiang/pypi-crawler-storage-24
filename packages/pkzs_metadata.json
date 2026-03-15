@@ -1,0 +1,11 @@
+{
+  "name": "pkzs",
+  "version": "0.2.0",
+  "summary": "Launch demo Jupyter notebook",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pkzs-0.2.0.tar.gz",
+  "download_time": "2026-03-15T10:34:27.193729",
+  "package_url": "https://pypi.org/project/pkzs/"
+}

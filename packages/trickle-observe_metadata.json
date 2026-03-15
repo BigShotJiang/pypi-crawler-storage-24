@@ -1,11 +1,11 @@
 {
   "name": "trickle-observe",
-  "version": "0.1.96",
+  "version": "0.1.97",
   "summary": "Runtime type observability for Python applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trickle_observe-0.1.96.tar.gz",
-  "download_time": "2026-03-15T10:00:40.235962",
+  "download_filename": "trickle_observe-0.1.97.tar.gz",
+  "download_time": "2026-03-15T10:34:56.802693",
   "package_url": "https://pypi.org/project/trickle-observe/"
 }

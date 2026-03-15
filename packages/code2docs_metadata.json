@@ -1,11 +1,11 @@
 {
   "name": "code2docs",
-  "version": "3.0.16",
+  "version": "3.0.21",
   "summary": "Auto-generate and sync project documentation from source code analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "code2docs-3.0.16.tar.gz",
-  "download_time": "2026-03-09T17:10:53.034893",
+  "download_filename": "code2docs-3.0.21.tar.gz",
+  "download_time": "2026-03-15T10:34:29.975796",
   "package_url": "https://pypi.org/project/code2docs/"
 }

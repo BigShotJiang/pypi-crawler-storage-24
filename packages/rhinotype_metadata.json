@@ -1,0 +1,11 @@
+{
+  "name": "rhinotype",
+  "version": "3.0.0",
+  "summary": "A python tool used to automatically genotype rhinovirus.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rhinotype-3.0.0.tar.gz",
+  "download_time": "2026-03-15T10:34:49.602869",
+  "package_url": "https://pypi.org/project/rhinotype/"
+}
