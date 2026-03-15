@@ -1,0 +1,11 @@
+{
+  "name": "aura-dep-agent",
+  "version": "0.1.2",
+  "summary": "AURA: an automated dependency update agent that searches for safe modernized requirements using your existing validation.",
+  "author": "Bhargav Keralapur Srinidhi",
+  "license": "MIT",
+  "home_page": "https://github.com/Bhargavvvv2912/AURA",
+  "download_filename": "aura_dep_agent-0.1.2.tar.gz",
+  "download_time": "2026-03-15T16:58:49.451947",
+  "package_url": "https://pypi.org/project/aura-dep-agent/"
+}

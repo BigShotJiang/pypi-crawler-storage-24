@@ -1,11 +1,11 @@
 {
   "name": "langchain-wavestreamer",
-  "version": "0.7.5",
+  "version": "0.8.0",
   "summary": "LangChain tools for waveStreamer — What AI Thinks in the Era of AI. Get waveStreamer into every LangChain-based agent.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_wavestreamer-0.7.5.tar.gz",
-  "download_time": "2026-03-14T23:25:18.000959",
+  "download_filename": "langchain_wavestreamer-0.8.0.tar.gz",
+  "download_time": "2026-03-15T16:58:37.372489",
   "package_url": "https://pypi.org/project/langchain-wavestreamer/"
 }

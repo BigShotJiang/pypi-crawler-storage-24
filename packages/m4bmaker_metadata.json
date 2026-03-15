@@ -1,0 +1,11 @@
+{
+  "name": "m4bmaker",
+  "version": "1.0.0",
+  "summary": "Convert a directory of audio files into a single .m4b audiobook with chapters, cover art, and metadata",
+  "author": "sageframe-no-kaji",
+  "license": null,
+  "home_page": null,
+  "download_filename": "m4bmaker-1.0.0.tar.gz",
+  "download_time": "2026-03-15T16:58:36.332828",
+  "package_url": "https://pypi.org/project/m4bmaker/"
+}

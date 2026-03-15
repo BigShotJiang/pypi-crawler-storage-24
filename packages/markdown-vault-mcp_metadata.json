@@ -1,11 +1,11 @@
 {
   "name": "markdown-vault-mcp",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "summary": "Generic markdown vault MCP server with FTS5 + semantic search",
   "author": "Peter van Liesdonk",
   "license": null,
   "home_page": null,
-  "download_filename": "markdown_vault_mcp-1.11.0.tar.gz",
-  "download_time": "2026-03-15T15:28:16.820475",
+  "download_filename": "markdown_vault_mcp-1.11.1.tar.gz",
+  "download_time": "2026-03-15T16:58:30.512364",
   "package_url": "https://pypi.org/project/markdown-vault-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "service-health-checker",
+  "version": "0.1.0",
+  "summary": "A Python library for monitoring health of critical service dependencies.",
+  "author": "Vidhi Bhutia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "service_health_checker-0.1.0.tar.gz",
+  "download_time": "2026-03-15T16:58:48.930743",
+  "package_url": "https://pypi.org/project/service-health-checker/"
+}

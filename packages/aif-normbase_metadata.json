@@ -1,11 +1,11 @@
 {
   "name": "aif-normbase",
-  "version": "0.1.4",
+  "version": "0.1.11",
   "summary": "Agent Information Field - Norm Repository",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aif_normbase-0.1.4.tar.gz",
-  "download_time": "2026-03-11T08:35:36.981016",
+  "download_filename": "aif_normbase-0.1.11.tar.gz",
+  "download_time": "2026-03-15T16:59:06.178859",
   "package_url": "https://pypi.org/project/aif-normbase/"
 }

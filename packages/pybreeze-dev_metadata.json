@@ -1,11 +1,11 @@
 {
   "name": "pybreeze-dev",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "IDE for multi automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybreeze_dev-1.0.6.tar.gz",
-  "download_time": "2026-03-15T16:28:29.816615",
+  "download_filename": "pybreeze_dev-1.0.7.tar.gz",
+  "download_time": "2026-03-15T16:58:34.204680",
   "package_url": "https://pypi.org/project/pybreeze-dev/"
 }

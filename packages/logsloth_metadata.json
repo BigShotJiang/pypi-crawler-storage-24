@@ -1,0 +1,11 @@
+{
+  "name": "logsloth",
+  "version": "1.1.9",
+  "summary": "logsloth.py python logger",
+  "author": "hhd2002",
+  "license": null,
+  "home_page": "https://github.com/HyundongHwang/logsloth",
+  "download_filename": "logsloth-1.1.9.tar.gz",
+  "download_time": "2026-03-15T16:59:08.266075",
+  "package_url": "https://pypi.org/project/logsloth/"
+}

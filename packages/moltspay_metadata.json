@@ -1,11 +1,11 @@
 {
   "name": "moltspay",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Python SDK for MoltsPay - Agent-to-Agent Payments. LangChain compatible.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moltspay-0.5.0.tar.gz",
-  "download_time": "2026-03-13T22:54:02.771305",
+  "download_filename": "moltspay-0.6.0.tar.gz",
+  "download_time": "2026-03-15T16:58:21.947450",
   "package_url": "https://pypi.org/project/moltspay/"
 }

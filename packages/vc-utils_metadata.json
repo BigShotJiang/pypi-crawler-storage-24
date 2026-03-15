@@ -1,0 +1,11 @@
+{
+  "name": "vc-utils",
+  "version": "2.0",
+  "summary": "Vulcan Coalition Python Utility Library",
+  "author": "Chatavut Viriyasuthee",
+  "license": null,
+  "home_page": "https://github.com/vulcan-coalition/vulcan-utils",
+  "download_filename": "vc_utils-2.0.tar.gz",
+  "download_time": "2026-03-15T16:58:54.138765",
+  "package_url": "https://pypi.org/project/vc-utils/"
+}

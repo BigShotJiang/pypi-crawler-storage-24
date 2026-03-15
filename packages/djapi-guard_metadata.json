@@ -1,0 +1,11 @@
+{
+  "name": "djapi-guard",
+  "version": "1.0.0",
+  "summary": "A security library for Django to control IPs, log requests, and detect penetration attempts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "djapi_guard-1.0.0.tar.gz",
+  "download_time": "2026-03-15T16:59:01.459543",
+  "package_url": "https://pypi.org/project/djapi-guard/"
+}
