@@ -1,0 +1,11 @@
+{
+  "name": "lehome",
+  "version": "0.2.2",
+  "summary": "LeHome Challenge CLI distributed via uv tool run",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lehome-0.2.2.tar.gz",
+  "download_time": "2026-03-15T13:39:38.032847",
+  "package_url": "https://pypi.org/project/lehome/"
+}

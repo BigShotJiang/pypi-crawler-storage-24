@@ -1,0 +1,11 @@
+{
+  "name": "pmagent-cli",
+  "version": "0.2.0",
+  "summary": "Local-first AI project management agent — reads your repo, documents it, watches for changes, builds LLM prompts.",
+  "author": "Medinz01",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmagent_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-15T13:39:58.884692",
+  "package_url": "https://pypi.org/project/pmagent-cli/"
+}

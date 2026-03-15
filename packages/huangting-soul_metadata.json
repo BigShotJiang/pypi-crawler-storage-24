@@ -1,0 +1,11 @@
+{
+  "name": "huangting-soul",
+  "version": "0.2.0",
+  "summary": "The official Python SDK for the Huangting Protocol — The World's First Lifeform Operating System for humans, AI Agents, and embodied robots.",
+  "author": "Meng Yuanjing (Mark Meng)",
+  "license": null,
+  "home_page": "https://github.com/XianDAO-Labs/huangting-protocol",
+  "download_filename": "huangting_soul-0.2.0.tar.gz",
+  "download_time": "2026-03-15T13:39:24.664523",
+  "package_url": "https://pypi.org/project/huangting-soul/"
+}

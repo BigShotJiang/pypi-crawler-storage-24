@@ -1,0 +1,11 @@
+{
+  "name": "student-feedback-system",
+  "version": "1.0.1",
+  "summary": "A plug-and-play student feedback web application built with Flask",
+  "author": "Student DevOps Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "student_feedback_system-1.0.1.tar.gz",
+  "download_time": "2026-03-15T13:39:23.583548",
+  "package_url": "https://pypi.org/project/student-feedback-system/"
+}

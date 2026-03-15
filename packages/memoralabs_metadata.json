@@ -1,0 +1,11 @@
+{
+  "name": "memoralabs",
+  "version": "1.0.1",
+  "summary": "Python SDK for MemoraLabs — persistent memory for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memoralabs-1.0.1.tar.gz",
+  "download_time": "2026-03-15T13:39:43.140788",
+  "package_url": "https://pypi.org/project/memoralabs/"
+}

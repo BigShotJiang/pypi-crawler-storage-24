@@ -1,11 +1,11 @@
 {
   "name": "mlw",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "ML that works. One import, the Hastie workflow in code.",
   "author": "Simon Roth",
   "license": null,
   "home_page": null,
-  "download_filename": "mlw-1.1.1.tar.gz",
-  "download_time": "2026-03-14T09:58:59.249773",
+  "download_filename": "mlw-1.1.2.tar.gz",
+  "download_time": "2026-03-15T13:39:21.538820",
   "package_url": "https://pypi.org/project/mlw/"
 }

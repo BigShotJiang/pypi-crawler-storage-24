@@ -1,0 +1,11 @@
+{
+  "name": "mira-score",
+  "version": "0.1.7",
+  "summary": "MIRA: A Score for Conditional Distribution Accuracy and Model Comparison",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mira_score-0.1.7.tar.gz",
+  "download_time": "2026-03-15T13:39:50.411643",
+  "package_url": "https://pypi.org/project/mira-score/"
+}

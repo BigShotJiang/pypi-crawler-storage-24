@@ -1,0 +1,11 @@
+{
+  "name": "dissent",
+  "version": "0.1.0",
+  "summary": "Swarm intelligence for code review - diverse expert agents that debate your diffs",
+  "author": "arbit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissent-0.1.0.tar.gz",
+  "download_time": "2026-03-15T13:39:35.474534",
+  "package_url": "https://pypi.org/project/dissent/"
+}

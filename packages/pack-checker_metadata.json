@@ -1,0 +1,11 @@
+{
+  "name": "pack-checker",
+  "version": "1.6.0",
+  "summary": "PopTracker pack check tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pack_checker-1.6.0.tar.gz",
+  "download_time": "2026-03-15T13:39:41.091954",
+  "package_url": "https://pypi.org/project/pack-checker/"
+}

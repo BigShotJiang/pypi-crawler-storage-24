@@ -1,0 +1,11 @@
+{
+  "name": "mftool",
+  "version": "3.2",
+  "summary": "Library for getting real time Mutual funds info",
+  "author": "SujitN",
+  "license": "MIT",
+  "home_page": "https://github.com/NayakwadiS/mftool",
+  "download_filename": "mftool-3.2.tar.gz",
+  "download_time": "2026-03-15T13:39:27.250070",
+  "package_url": "https://pypi.org/project/mftool/"
+}

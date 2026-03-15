@@ -1,0 +1,11 @@
+{
+  "name": "pymunk-deterministic",
+  "version": "7.2.0.post1",
+  "summary": "Fork of pymunk with a deterministic solver for reproducible simulation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymunk_deterministic-7.2.0.post1.tar.gz",
+  "download_time": "2026-03-15T13:39:24.132169",
+  "package_url": "https://pypi.org/project/pymunk-deterministic/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "motosan-chat",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Python chatbot framework with multi-platform channels and LLM agent loop",
   "author": "motosan-dev",
   "license": null,
   "home_page": null,
-  "download_filename": "motosan_chat-0.2.0.tar.gz",
-  "download_time": "2026-03-12T01:26:30.311316",
+  "download_filename": "motosan_chat-0.4.0.tar.gz",
+  "download_time": "2026-03-15T13:39:57.310108",
   "package_url": "https://pypi.org/project/motosan-chat/"
 }
