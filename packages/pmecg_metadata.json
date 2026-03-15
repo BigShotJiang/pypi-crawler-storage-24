@@ -1,0 +1,11 @@
+{
+  "name": "pmecg",
+  "version": "0.2.3.post3",
+  "summary": "Plot ECGs on a paper-like support. Flexible to variable configurations.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pmecg-0.2.3.post3-py3-none-any.whl",
+  "download_time": "2026-03-15T11:41:39.513233",
+  "package_url": "https://pypi.org/project/pmecg/"
+}

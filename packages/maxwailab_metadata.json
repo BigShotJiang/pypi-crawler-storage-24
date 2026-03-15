@@ -1,11 +1,11 @@
 {
   "name": "maxwailab",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Bootstrap-based model stability and supervised binning toolkit",
   "author": "Max Wienandts",
   "license": null,
   "home_page": null,
-  "download_filename": "maxwailab-1.0.4.tar.gz",
-  "download_time": "2026-03-15T11:05:04.677748",
+  "download_filename": "maxwailab-1.0.5.tar.gz",
+  "download_time": "2026-03-15T11:42:21.002084",
   "package_url": "https://pypi.org/project/maxwailab/"
 }

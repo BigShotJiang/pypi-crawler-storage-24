@@ -1,0 +1,11 @@
+{
+  "name": "sharepoint-mcp",
+  "version": "1.1.1",
+  "summary": "Production-grade MCP Server for Microsoft SharePoint — manage folders, documents, and metadata with any MCP-compatible AI agent.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sharepoint_mcp-1.1.1.tar.gz",
+  "download_time": "2026-03-15T11:41:47.136877",
+  "package_url": "https://pypi.org/project/sharepoint-mcp/"
+}

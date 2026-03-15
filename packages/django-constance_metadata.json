@@ -1,0 +1,11 @@
+{
+  "name": "django-constance",
+  "version": "4.3.5",
+  "summary": "Django live settings with pluggable backends, including Redis.",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "django_constance-4.3.5.tar.gz",
+  "download_time": "2026-03-15T11:42:07.785514",
+  "package_url": "https://pypi.org/project/django-constance/"
+}

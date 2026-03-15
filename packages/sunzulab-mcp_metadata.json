@@ -1,0 +1,11 @@
+{
+  "name": "sunzulab-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for SunzuLab crypto market data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sunzulab_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-15T11:41:55.562098",
+  "package_url": "https://pypi.org/project/sunzulab-mcp/"
+}

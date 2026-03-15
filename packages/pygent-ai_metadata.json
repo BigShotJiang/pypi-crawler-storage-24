@@ -1,11 +1,11 @@
 {
   "name": "pygent-ai",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Python framework for building LLM-powered agents with modular state, tools, and MCP support.",
   "author": "pygent-ai",
   "license": null,
   "home_page": "https://github.com/your-org/pygent",
-  "download_filename": "pygent_ai-0.1.2.tar.gz",
-  "download_time": "2026-03-15T07:44:08.550789",
+  "download_filename": "pygent_ai-0.1.3.tar.gz",
+  "download_time": "2026-03-15T11:42:15.405308",
   "package_url": "https://pypi.org/project/pygent-ai/"
 }

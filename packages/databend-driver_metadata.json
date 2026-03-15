@@ -1,11 +1,11 @@
 {
   "name": "databend-driver",
-  "version": "0.33.5",
+  "version": "0.33.6",
   "summary": "Databend Driver Python Binding",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "databend_driver-0.33.5-cp38-cp38-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-11T08:35:35.914751",
+  "download_filename": "databend_driver-0.33.6-cp38-cp38-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-15T11:41:53.530421",
   "package_url": "https://pypi.org/project/databend-driver/"
 }

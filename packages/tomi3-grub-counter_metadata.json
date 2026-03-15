@@ -1,0 +1,11 @@
+{
+  "name": "tomi3-grub-counter",
+  "version": "0.7.1",
+  "summary": "Live grub count reader for Tales of Monkey Island 3 (Proton/Wine and Windows)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tomi3_grub_counter-0.7.1.tar.gz",
+  "download_time": "2026-03-15T11:41:42.136014",
+  "package_url": "https://pypi.org/project/tomi3-grub-counter/"
+}
