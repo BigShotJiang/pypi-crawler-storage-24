@@ -1,0 +1,11 @@
+{
+  "name": "aevals",
+  "version": "0.1.1",
+  "summary": "Agent evals framework that gives Claude Code the tools to instrument your codebase, capture traces, write evals, and catch LLM regressions.",
+  "author": "satyaborg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aevals-0.1.1.tar.gz",
+  "download_time": "2026-03-15T06:53:05.277728",
+  "package_url": "https://pypi.org/project/aevals/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coderifts-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for CodeRifts — API governance for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coderifts_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-15T06:52:55.935475",
+  "package_url": "https://pypi.org/project/coderifts-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "typewirepy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight, container-agnostic dependency injection for Python — typed, explicit, composable.",
   "author": "TypeWireTS Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "typewirepy-0.1.1.tar.gz",
-  "download_time": "2026-03-13T23:25:38.997339",
+  "download_filename": "typewirepy-0.1.2.tar.gz",
+  "download_time": "2026-03-15T06:52:41.334171",
   "package_url": "https://pypi.org/project/typewirepy/"
 }

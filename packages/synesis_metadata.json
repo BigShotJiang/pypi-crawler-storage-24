@@ -1,0 +1,11 @@
+{
+  "name": "synesis",
+  "version": "0.4.1",
+  "summary": "The confluence of information into intelligence - A DSL compiler that transforms qualitative research annotations into canonical knowledge structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synesis-0.4.1.tar.gz",
+  "download_time": "2026-03-15T06:53:21.193596",
+  "package_url": "https://pypi.org/project/synesis/"
+}

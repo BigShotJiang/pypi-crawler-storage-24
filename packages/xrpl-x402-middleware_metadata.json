@@ -1,0 +1,11 @@
+{
+  "name": "xrpl-x402-middleware",
+  "version": "0.1.0",
+  "summary": "ASGI middleware for XRPL-backed x402 API payments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xrpl_x402_middleware-0.1.0.tar.gz",
+  "download_time": "2026-03-15T06:52:55.425020",
+  "package_url": "https://pypi.org/project/xrpl-x402-middleware/"
+}

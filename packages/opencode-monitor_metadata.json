@@ -1,0 +1,11 @@
+{
+  "name": "opencode-monitor",
+  "version": "1.0.2",
+  "summary": "Analytics and monitoring tool for OpenCode AI coding sessions",
+  "author": "OpenCode Monitor Team",
+  "license": null,
+  "home_page": "https://github.com/Shlomob/ocmonitor-share",
+  "download_filename": "opencode_monitor-1.0.2.tar.gz",
+  "download_time": "2026-03-15T06:52:53.356715",
+  "package_url": "https://pypi.org/project/opencode-monitor/"
+}

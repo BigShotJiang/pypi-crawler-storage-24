@@ -1,11 +1,11 @@
 {
   "name": "openclaw-lite",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "Lite Python AI platform inspired by OpenClaw, built for Termux/proot and Telegram.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openclaw_lite-0.1.4.tar.gz",
-  "download_time": "2026-03-14T22:23:11.349879",
+  "download_filename": "openclaw_lite-0.1.7.tar.gz",
+  "download_time": "2026-03-15T06:53:06.810952",
   "package_url": "https://pypi.org/project/openclaw-lite/"
 }

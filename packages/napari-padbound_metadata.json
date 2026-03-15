@@ -1,0 +1,11 @@
+{
+  "name": "napari-padbound",
+  "version": "0.2.0",
+  "summary": "A napari plugin for padbound",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "napari_padbound-0.2.0.tar.gz",
+  "download_time": "2026-03-15T06:52:52.846107",
+  "package_url": "https://pypi.org/project/napari-padbound/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastvpn-schemas",
-  "version": "0.1.7",
+  "version": "0.1.10",
   "summary": "Schemas for FastVPN",
   "author": "alexey",
   "license": null,
   "home_page": null,
-  "download_filename": "fastvpn_schemas-0.1.7.tar.gz",
-  "download_time": "2026-03-14T17:53:55.303826",
+  "download_filename": "fastvpn_schemas-0.1.10.tar.gz",
+  "download_time": "2026-03-15T06:52:57.469916",
   "package_url": "https://pypi.org/project/fastvpn-schemas/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "onestep",
-  "version": "0.5.4",
-  "summary": "仅需一步，轻松实现分布式异步任务。",
+  "version": "1.0.0",
+  "summary": "Async task runtime for queue, polling, schedule, and webhook workloads.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "onestep-0.5.4.tar.gz",
-  "download_time": "2026-03-08T13:57:31.917486",
+  "download_filename": "onestep-1.0.0.tar.gz",
+  "download_time": "2026-03-15T06:52:48.236709",
   "package_url": "https://pypi.org/project/onestep/"
 }
