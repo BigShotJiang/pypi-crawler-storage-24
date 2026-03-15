@@ -1,0 +1,11 @@
+{
+  "name": "py-openvswitch",
+  "version": "0.1.1",
+  "summary": "Library for managing and interacting with Open vSwitch, providing OpenFlow and vSwitch services",
+  "author": "Frappe Technologies Pvt. Ltd.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_openvswitch-0.1.1-py3-none-any.whl",
+  "download_time": "2026-03-15T21:53:21.202882",
+  "package_url": "https://pypi.org/project/py-openvswitch/"
+}

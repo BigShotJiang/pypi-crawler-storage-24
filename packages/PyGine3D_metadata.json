@@ -1,11 +1,11 @@
 {
   "name": "PyGine3D",
-  "version": "1.1.0",
+  "version": "1.1.3",
   "summary": "A single-file importable 3D game engine for Python built on Pygame and OpenGL.",
   "author": "Somting",
   "license": null,
   "home_page": null,
-  "download_filename": "pygine3d-1.1.0.tar.gz",
-  "download_time": "2026-03-15T05:54:02.910412",
+  "download_filename": "pygine3d-1.1.3.tar.gz",
+  "download_time": "2026-03-15T21:53:30.716342",
   "package_url": "https://pypi.org/project/PyGine3D/"
 }

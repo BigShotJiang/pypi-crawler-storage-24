@@ -1,0 +1,11 @@
+{
+  "name": "audacity-mcp",
+  "version": "0.1.5",
+  "summary": "MCP server for AI-driven audio editing in Audacity via mod-script-pipe",
+  "author": "Daniel Hodgetts",
+  "license": null,
+  "home_page": null,
+  "download_filename": "audacity_mcp-0.1.5.tar.gz",
+  "download_time": "2026-03-15T21:53:36.609535",
+  "package_url": "https://pypi.org/project/audacity-mcp/"
+}

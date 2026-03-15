@@ -1,11 +1,11 @@
 {
   "name": "omnibase_infra",
-  "version": "0.16.0",
+  "version": "0.20.1",
   "summary": "ONEX Infrastructure - Service integration and database infrastructure tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnibase_infra-0.16.0.tar.gz",
-  "download_time": "2026-03-08T01:48:15.076765",
+  "download_filename": "omnibase_infra-0.20.1.tar.gz",
+  "download_time": "2026-03-15T21:53:17.594426",
   "package_url": "https://pypi.org/project/omnibase_infra/"
 }

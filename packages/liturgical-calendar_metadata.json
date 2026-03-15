@@ -1,0 +1,11 @@
+{
+  "name": "liturgical-calendar",
+  "version": "0.5.7",
+  "summary": "Library to determine liturgical dates and colours for the Anglican Church of England",
+  "author": "Jonathan Gazeley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "liturgical_calendar-0.5.7.tar.gz",
+  "download_time": "2026-03-15T21:53:06.933366",
+  "package_url": "https://pypi.org/project/liturgical-calendar/"
+}

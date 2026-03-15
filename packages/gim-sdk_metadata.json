@@ -1,0 +1,11 @@
+{
+  "name": "gim-sdk",
+  "version": "1.0.0",
+  "summary": "Governance in Motion SDK -- runtime governance for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gim_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-15T21:53:11.207406",
+  "package_url": "https://pypi.org/project/gim-sdk/"
+}

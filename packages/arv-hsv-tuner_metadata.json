@@ -1,0 +1,11 @@
+{
+  "name": "arv-hsv-tuner",
+  "version": "0.1.2",
+  "summary": "UM-ARV HSV color space tuning tool for lane detection with YOLO integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arv_hsv_tuner-0.1.2.tar.gz",
+  "download_time": "2026-03-15T21:53:19.651797",
+  "package_url": "https://pypi.org/project/arv-hsv-tuner/"
+}

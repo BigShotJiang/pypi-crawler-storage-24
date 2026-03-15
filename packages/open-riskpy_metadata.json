@@ -1,11 +1,11 @@
 {
   "name": "open-riskpy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A high-performance C++ powered actuarial pricing and underwriting framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "open_riskpy-0.2.0.tar.gz",
-  "download_time": "2026-03-15T21:26:53.229211",
+  "download_filename": "open_riskpy-0.2.1.tar.gz",
+  "download_time": "2026-03-15T21:53:30.201617",
   "package_url": "https://pypi.org/project/open-riskpy/"
 }

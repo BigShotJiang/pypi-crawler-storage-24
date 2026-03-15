@@ -1,0 +1,11 @@
+{
+  "name": "repo-inspector",
+  "version": "0.1.2",
+  "summary": "Offline CLI tool for static analysis of Python repositories",
+  "author": "Repo Inspector Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repo_inspector-0.1.2.tar.gz",
+  "download_time": "2026-03-15T21:53:22.240133",
+  "package_url": "https://pypi.org/project/repo-inspector/"
+}

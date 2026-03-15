@@ -1,11 +1,11 @@
 {
   "name": "e-note-ion",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "summary": "Automation for Vestaboard displays — with emotion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "e_note_ion-1.0.0.tar.gz",
-  "download_time": "2026-03-14T16:59:02.459837",
+  "download_filename": "e_note_ion-1.2.1.tar.gz",
+  "download_time": "2026-03-15T21:53:05.907472",
   "package_url": "https://pypi.org/project/e-note-ion/"
 }

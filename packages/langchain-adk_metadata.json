@@ -1,11 +1,11 @@
 {
   "name": "langchain-adk",
-  "version": "0.3.4",
+  "version": "0.3.7",
   "summary": "A LangChain-powered Agent Development Toolkit",
   "author": "Nicolai Lassen",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "langchain_adk-0.3.4.tar.gz",
-  "download_time": "2026-03-15T15:28:21.965783",
+  "download_filename": "langchain_adk-0.3.7.tar.gz",
+  "download_time": "2026-03-15T21:53:11.725045",
   "package_url": "https://pypi.org/project/langchain-adk/"
 }

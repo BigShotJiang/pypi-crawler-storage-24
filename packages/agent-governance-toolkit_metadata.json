@@ -1,0 +1,11 @@
+{
+  "name": "agent-governance-toolkit",
+  "version": "2.1.0",
+  "summary": "Unified installer and runtime policy enforcement for the Agent Governance Toolkit",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_governance_toolkit-2.1.0.tar.gz",
+  "download_time": "2026-03-15T21:53:25.445792",
+  "package_url": "https://pypi.org/project/agent-governance-toolkit/"
+}

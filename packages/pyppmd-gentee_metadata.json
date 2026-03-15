@@ -1,0 +1,11 @@
+{
+  "name": "pyppmd-gentee",
+  "version": "1.4.0",
+  "summary": "PPMd compression/decompression library with Gentee installer variant decoder",
+  "author": null,
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "pyppmd_gentee-1.4.0.tar.gz",
+  "download_time": "2026-03-15T21:53:24.930443",
+  "package_url": "https://pypi.org/project/pyppmd-gentee/"
+}

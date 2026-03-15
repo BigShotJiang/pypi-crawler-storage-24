@@ -1,11 +1,11 @@
 {
   "name": "forge-mcp-gateway",
-  "version": "1.14.0",
+  "version": "1.16.0",
   "summary": "Self-hosted MCP gateway (Context Forge) with tool-router",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "forge_mcp_gateway-1.14.0.tar.gz",
-  "download_time": "2026-03-15T20:56:09.042091",
+  "download_filename": "forge_mcp_gateway-1.16.0.tar.gz",
+  "download_time": "2026-03-15T21:52:57.599915",
   "package_url": "https://pypi.org/project/forge-mcp-gateway/"
 }
