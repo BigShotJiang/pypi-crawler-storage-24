@@ -1,11 +1,11 @@
 {
   "name": "abstract-pdfs",
-  "version": "0.0.12",
+  "version": "0.0.16",
   "summary": "A modular OCR and PDF-processing toolkit for automated text extraction, deduplication, and multi-engine column-aware OCR using Tesseract, EasyOCR, and PaddleOCR",
   "author": "putkoff",
   "license": "MIT",
   "home_page": "https://github.com/AbstractEndeavors/abstract_pdfs",
-  "download_filename": "abstract_pdfs-0.0.12.tar.gz",
-  "download_time": "2026-03-15T11:41:37.405999",
+  "download_filename": "abstract_pdfs-0.0.16.tar.gz",
+  "download_time": "2026-03-15T12:00:05.682210",
   "package_url": "https://pypi.org/project/abstract-pdfs/"
 }

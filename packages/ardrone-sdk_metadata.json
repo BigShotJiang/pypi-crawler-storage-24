@@ -1,11 +1,11 @@
 {
   "name": "ardrone-sdk",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "A Python library for controlling the Parrot AR.Drone 2.0 over a network",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ardrone_sdk-0.4.1.tar.gz",
-  "download_time": "2026-03-15T11:42:02.699093",
+  "download_filename": "ardrone_sdk-0.4.2.tar.gz",
+  "download_time": "2026-03-15T12:00:12.906119",
   "package_url": "https://pypi.org/project/ardrone-sdk/"
 }

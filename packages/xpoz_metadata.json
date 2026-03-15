@@ -1,0 +1,11 @@
+{
+  "name": "xpoz",
+  "version": "0.3.0",
+  "summary": "Python SDK for the Xpoz social media intelligence platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xpoz-0.3.0.tar.gz",
+  "download_time": "2026-03-15T12:00:01.912189",
+  "package_url": "https://pypi.org/project/xpoz/"
+}

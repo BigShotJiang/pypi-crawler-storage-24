@@ -1,11 +1,11 @@
 {
   "name": "tklive",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "Live hot-reload for tkinter and customtkinter apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tklive-0.1.5.tar.gz",
-  "download_time": "2026-03-15T11:41:57.086587",
+  "download_filename": "tklive-0.1.9.tar.gz",
+  "download_time": "2026-03-15T12:00:05.109239",
   "package_url": "https://pypi.org/project/tklive/"
 }

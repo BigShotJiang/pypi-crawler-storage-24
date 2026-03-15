@@ -1,0 +1,11 @@
+{
+  "name": "smart-organizer",
+  "version": "1.0.1",
+  "summary": "A smart file organizer that categorizes files, finds duplicates, and cleans up directories.",
+  "author": "Pavan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_organizer-1.0.1.tar.gz",
+  "download_time": "2026-03-15T12:00:21.150722",
+  "package_url": "https://pypi.org/project/smart-organizer/"
+}
