@@ -1,11 +1,11 @@
 {
   "name": "sorrydave",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "DAVE (Discord Audio/Video End-to-End Encryption) protocol library — pure data and state layer on rfc9420",
   "author": "mfdi",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "sorrydave-0.7.0.tar.gz",
-  "download_time": "2026-03-10T21:36:17.102040",
+  "download_filename": "sorrydave-0.8.0.tar.gz",
+  "download_time": "2026-03-15T23:55:17.197886",
   "package_url": "https://pypi.org/project/sorrydave/"
 }

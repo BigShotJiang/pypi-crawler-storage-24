@@ -1,11 +1,11 @@
 {
   "name": "mightydatainc-mdi-llmkit",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "Meta-package that installs the core Mighty Data LLM utility packages",
   "author": "Mikhail Voloshin",
   "license": "Copyright (c) 2026 Mighty Data Inc.",
   "home_page": null,
-  "download_filename": "mightydatainc_mdi_llmkit-1.0.6.tar.gz",
-  "download_time": "2026-03-15T22:56:54.440600",
+  "download_filename": "mightydatainc_mdi_llmkit-1.0.8.tar.gz",
+  "download_time": "2026-03-15T23:54:50.775731",
   "package_url": "https://pypi.org/project/mightydatainc-mdi-llmkit/"
 }

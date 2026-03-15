@@ -1,0 +1,11 @@
+{
+  "name": "fsspec-databricks",
+  "version": "0.1.1",
+  "summary": "`fsspec`-based file system interface for Databricks file system\"s\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fsspec_databricks-0.1.1.tar.gz",
+  "download_time": "2026-03-15T23:55:10.954746",
+  "package_url": "https://pypi.org/project/fsspec-databricks/"
+}

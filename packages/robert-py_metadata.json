@@ -1,0 +1,11 @@
+{
+  "name": "robert-py",
+  "version": "0.0.1",
+  "summary": "A Python library to interact with RobeRT server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robert_py-0.0.1.tar.gz",
+  "download_time": "2026-03-15T23:55:17.711243",
+  "package_url": "https://pypi.org/project/robert-py/"
+}
