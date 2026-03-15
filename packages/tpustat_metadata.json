@@ -1,0 +1,11 @@
+{
+  "name": "tpustat",
+  "version": "0.1.1",
+  "summary": "A gpustat-style TPU status CLI built on top of google-smi.",
+  "author": "Minho Ryu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tpustat-0.1.1.tar.gz",
+  "download_time": "2026-03-15T14:10:16.282039",
+  "package_url": "https://pypi.org/project/tpustat/"
+}

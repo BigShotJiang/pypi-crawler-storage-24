@@ -1,0 +1,11 @@
+{
+  "name": "bee-mesh",
+  "version": "0.1.1",
+  "summary": "A lightweight volunteer distributed computing framework for scientific workloads.",
+  "author": "Dhanush Vittal Shenoy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bee_mesh-0.1.1.tar.gz",
+  "download_time": "2026-03-15T14:10:34.197963",
+  "package_url": "https://pypi.org/project/bee-mesh/"
+}

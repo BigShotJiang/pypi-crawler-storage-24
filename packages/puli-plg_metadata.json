@@ -1,0 +1,11 @@
+{
+  "name": "puli-plg",
+  "version": "0.1.48",
+  "summary": "a proactive security and stability guardrail for your AI coding agents (Claude Code, Cursor, Antigravity, etc.). It prevents production breakages by confronting proposed code changes with a massive, real-time database of global incidents, edge cases, and security breaches.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "puli_plg-0.1.48.tar.gz",
+  "download_time": "2026-03-15T14:09:45.672910",
+  "package_url": "https://pypi.org/project/puli-plg/"
+}

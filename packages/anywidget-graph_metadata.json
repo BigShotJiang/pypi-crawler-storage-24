@@ -1,0 +1,11 @@
+{
+  "name": "anywidget-graph",
+  "version": "0.2.9",
+  "summary": "Interactive graph visualization for Python notebooks using anywidget",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anywidget_graph-0.2.9.tar.gz",
+  "download_time": "2026-03-15T14:10:31.070388",
+  "package_url": "https://pypi.org/project/anywidget-graph/"
+}

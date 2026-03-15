@@ -1,0 +1,11 @@
+{
+  "name": "supabase-py-lite",
+  "version": "1.0.0",
+  "summary": "In-memory Supabase client for testing. Drop-in replacement for supabase-py backed by SQLite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "supabase_py_lite-1.0.0.tar.gz",
+  "download_time": "2026-03-15T14:10:02.010659",
+  "package_url": "https://pypi.org/project/supabase-py-lite/"
+}

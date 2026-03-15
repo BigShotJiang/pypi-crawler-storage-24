@@ -1,0 +1,11 @@
+{
+  "name": "tso-robotics-sockets",
+  "version": "0.1.0",
+  "summary": "Lightweight ZMQ socket communication for robotics inference servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tso_robotics_sockets-0.1.0.tar.gz",
+  "download_time": "2026-03-15T14:09:55.226201",
+  "package_url": "https://pypi.org/project/tso-robotics-sockets/"
+}

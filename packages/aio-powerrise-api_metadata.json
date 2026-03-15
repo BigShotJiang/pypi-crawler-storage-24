@@ -1,0 +1,11 @@
+{
+  "name": "aio-powerrise-api",
+  "version": "0.1.0.dev1",
+  "summary": "Async Python API for Hunter Douglas PowerRise shade systems using the Platinum Hub",
+  "author": "James Wilkinson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aio_powerrise_api-0.1.0.dev1.tar.gz",
+  "download_time": "2026-03-15T14:09:59.200358",
+  "package_url": "https://pypi.org/project/aio-powerrise-api/"
+}

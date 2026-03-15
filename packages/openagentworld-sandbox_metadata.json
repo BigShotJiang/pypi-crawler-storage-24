@@ -1,0 +1,11 @@
+{
+  "name": "openagentworld-sandbox",
+  "version": "0.1.2",
+  "summary": "A lightweight, framework-agnostic safe code execution library for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openagentworld_sandbox-0.1.2.tar.gz",
+  "download_time": "2026-03-15T14:10:28.379737",
+  "package_url": "https://pypi.org/project/openagentworld-sandbox/"
+}

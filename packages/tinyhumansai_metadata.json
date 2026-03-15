@@ -1,0 +1,11 @@
+{
+  "name": "tinyhumansai",
+  "version": "0.5.3",
+  "summary": "Python SDK for Neocortex API by TinyHumans - ingest and delete memory with human context",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tinyhumansai-0.5.3.tar.gz",
+  "download_time": "2026-03-15T14:10:20.561713",
+  "package_url": "https://pypi.org/project/tinyhumansai/"
+}
