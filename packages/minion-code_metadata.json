@@ -1,11 +1,11 @@
 {
   "name": "minion-code",
-  "version": "0.1.43",
+  "version": "0.1.44",
   "summary": "A Python project depending on minion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minion_code-0.1.43.tar.gz",
-  "download_time": "2026-03-14T08:48:54.688201",
+  "download_filename": "minion_code-0.1.44.tar.gz",
+  "download_time": "2026-03-15T04:32:01.384411",
   "package_url": "https://pypi.org/project/minion-code/"
 }

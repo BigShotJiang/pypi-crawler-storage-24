@@ -1,11 +1,11 @@
 {
   "name": "aimirror",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "AI时代的下载镜像加速器 - 支持Docker/PyPI/HuggingFace的多线程加速下载代理",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aimirror-0.3.1.tar.gz",
-  "download_time": "2026-03-14T03:44:41.218140",
+  "download_filename": "aimirror-0.3.2.tar.gz",
+  "download_time": "2026-03-15T04:32:30.832220",
   "package_url": "https://pypi.org/project/aimirror/"
 }

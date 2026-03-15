@@ -1,0 +1,11 @@
+{
+  "name": "trame-vtk",
+  "version": "2.11.2",
+  "summary": "VTK widgets for trame",
+  "author": "Kitware Inc.",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "trame_vtk-2.11.2.tar.gz",
+  "download_time": "2026-03-15T04:32:28.758405",
+  "package_url": "https://pypi.org/project/trame-vtk/"
+}

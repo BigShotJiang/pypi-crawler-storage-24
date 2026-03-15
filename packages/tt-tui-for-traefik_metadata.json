@@ -1,0 +1,11 @@
+{
+  "name": "tt-tui-for-traefik",
+  "version": "0.1.4",
+  "summary": "A TUI dashboard for Traefik",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tt_tui_for_traefik-0.1.4.tar.gz",
+  "download_time": "2026-03-15T04:32:22.439354",
+  "package_url": "https://pypi.org/project/tt-tui-for-traefik/"
+}

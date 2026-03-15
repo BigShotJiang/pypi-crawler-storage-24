@@ -1,0 +1,11 @@
+{
+  "name": "boj-agent",
+  "version": "1.0.0",
+  "summary": "BOJ 문제 풀이 자동화 CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boj_agent-1.0.0.tar.gz",
+  "download_time": "2026-03-15T04:32:03.939010",
+  "package_url": "https://pypi.org/project/boj-agent/"
+}

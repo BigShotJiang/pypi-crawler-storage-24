@@ -1,0 +1,11 @@
+{
+  "name": "greadme",
+  "version": "0.1.2",
+  "summary": "Generate README files using AI",
+  "author": "Vinicius de Freitas Paulino",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "greadme-0.1.2.tar.gz",
+  "download_time": "2026-03-15T04:31:52.646718",
+  "package_url": "https://pypi.org/project/greadme/"
+}

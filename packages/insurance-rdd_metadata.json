@@ -1,0 +1,11 @@
+{
+  "name": "insurance-rdd",
+  "version": "0.1.1",
+  "summary": "Regression Discontinuity Design for insurance pricing rating thresholds",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_rdd-0.1.1.tar.gz",
+  "download_time": "2026-03-15T04:32:07.014039",
+  "package_url": "https://pypi.org/project/insurance-rdd/"
+}

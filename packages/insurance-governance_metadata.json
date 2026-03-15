@@ -1,11 +1,11 @@
 {
   "name": "insurance-governance",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Unified model governance for UK insurance pricing: PRA SS1/23 validation and model risk management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insurance_governance-0.1.1.tar.gz",
-  "download_time": "2026-03-14T16:59:04.517328",
+  "download_filename": "insurance_governance-0.1.2.tar.gz",
+  "download_time": "2026-03-15T04:31:56.752011",
   "package_url": "https://pypi.org/project/insurance-governance/"
 }

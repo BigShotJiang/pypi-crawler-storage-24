@@ -1,0 +1,11 @@
+{
+  "name": "insurance-gas",
+  "version": "0.1.1",
+  "summary": "GAS (Generalised Autoregressive Score) models for dynamic insurance pricing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_gas-0.1.1.tar.gz",
+  "download_time": "2026-03-15T04:32:11.628172",
+  "package_url": "https://pypi.org/project/insurance-gas/"
+}

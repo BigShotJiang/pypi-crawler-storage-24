@@ -1,0 +1,11 @@
+{
+  "name": "shap-relativities",
+  "version": "0.2.3",
+  "summary": "Extract multiplicative rating relativities from GBM models using SHAP values. Built for insurance pricing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shap_relativities-0.2.3.tar.gz",
+  "download_time": "2026-03-15T04:31:50.565743",
+  "package_url": "https://pypi.org/project/shap-relativities/"
+}

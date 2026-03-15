@@ -1,11 +1,11 @@
 {
   "name": "insurance-multilevel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Two-stage CatBoost + REML random effects model for insurance pricing with high-cardinality group factors",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insurance_multilevel-0.1.1.tar.gz",
-  "download_time": "2026-03-14T07:02:43.743563",
+  "download_filename": "insurance_multilevel-0.1.2.tar.gz",
+  "download_time": "2026-03-15T04:32:08.039306",
   "package_url": "https://pypi.org/project/insurance-multilevel/"
 }

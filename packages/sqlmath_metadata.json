@@ -1,0 +1,11 @@
+{
+  "name": "sqlmath",
+  "version": "2026.2.28",
+  "summary": "sqlite for datascience",
+  "author": "Kai Zhu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlmath-2026.2.28.tar.gz",
+  "download_time": "2026-03-15T04:32:25.664640",
+  "package_url": "https://pypi.org/project/sqlmath/"
+}

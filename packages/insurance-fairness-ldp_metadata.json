@@ -1,0 +1,11 @@
+{
+  "name": "insurance-fairness-ldp",
+  "version": "0.1.1",
+  "summary": "Local Differential Privacy for discrimination-free insurance pricing. Implements the Zhang/Liu/Shi (2025) correction matrix framework — the insurer never sees the true sensitive attribute.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_fairness_ldp-0.1.1.tar.gz",
+  "download_time": "2026-03-15T04:32:12.141009",
+  "package_url": "https://pypi.org/project/insurance-fairness-ldp/"
+}

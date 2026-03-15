@@ -1,11 +1,11 @@
 {
   "name": "insurance-telematics",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "HMM-based driving state classification and GLM-compatible risk scoring from raw telematics trip data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insurance_telematics-0.1.0.tar.gz",
-  "download_time": "2026-03-10T15:35:39.741916",
+  "download_filename": "insurance_telematics-0.1.1.tar.gz",
+  "download_time": "2026-03-15T04:32:04.965063",
   "package_url": "https://pypi.org/project/insurance-telematics/"
 }

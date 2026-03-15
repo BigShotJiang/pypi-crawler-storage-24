@@ -1,11 +1,11 @@
 {
   "name": "insurance-deploy",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Champion/challenger pricing framework for UK insurance — model registry, quote routing, ENBP audit logging, and statistical promotion tests",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insurance_deploy-0.1.3.tar.gz",
-  "download_time": "2026-03-14T07:02:31.813064",
+  "download_filename": "insurance_deploy-0.1.4.tar.gz",
+  "download_time": "2026-03-15T04:32:14.708457",
   "package_url": "https://pypi.org/project/insurance-deploy/"
 }

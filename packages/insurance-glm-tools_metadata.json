@@ -1,11 +1,11 @@
 {
   "name": "insurance-glm-tools",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "GLM tools for UK insurance pricing: nested GLMs with entity embeddings, territory clustering, and automated factor-level banding via R2VF",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insurance_glm_tools-0.1.0.tar.gz",
-  "download_time": "2026-03-14T03:44:07.861512",
+  "download_filename": "insurance_glm_tools-0.1.2.tar.gz",
+  "download_time": "2026-03-15T04:32:10.606699",
   "package_url": "https://pypi.org/project/insurance-glm-tools/"
 }
