@@ -1,0 +1,11 @@
+{
+  "name": "django-rls-tenants",
+  "version": "1.0.0",
+  "summary": "Database-enforced multitenancy for Django using PostgreSQL Row-Level Security.",
+  "author": "Jan Dvořák",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_rls_tenants-1.0.0.tar.gz",
+  "download_time": "2026-03-15T15:27:46.779590",
+  "package_url": "https://pypi.org/project/django-rls-tenants/"
+}

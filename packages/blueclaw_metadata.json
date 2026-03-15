@@ -1,0 +1,11 @@
+{
+  "name": "blueclaw",
+  "version": "1.2.3",
+  "summary": "Terminal AI agent with built-in execution tracing and observability",
+  "author": "Kevin Tan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blueclaw-1.2.3.tar.gz",
+  "download_time": "2026-03-15T15:27:40.196018",
+  "package_url": "https://pypi.org/project/blueclaw/"
+}

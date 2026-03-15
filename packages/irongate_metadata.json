@@ -1,0 +1,11 @@
+{
+  "name": "irongate",
+  "version": "0.0.1",
+  "summary": "Deterministic runtime security layer for AI agents. Enforces policies for file access, network requests, process execution, and tool invocation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "irongate-0.0.1.tar.gz",
+  "download_time": "2026-03-15T15:28:12.209290",
+  "package_url": "https://pypi.org/project/irongate/"
+}

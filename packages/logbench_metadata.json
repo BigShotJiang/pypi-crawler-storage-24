@@ -1,0 +1,11 @@
+{
+  "name": "logbench",
+  "version": "0.1.1",
+  "summary": "Python SDK for Logbench",
+  "author": "Albin Groen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "logbench-0.1.1.tar.gz",
+  "download_time": "2026-03-15T15:28:10.167257",
+  "package_url": "https://pypi.org/project/logbench/"
+}

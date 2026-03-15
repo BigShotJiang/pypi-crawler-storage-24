@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-server-action-mass-edit",
+  "version": "18.0.1.1.2",
+  "summary": "Mass Editing",
+  "author": "=?utf-8?q?Serpent_Consulting_Services_Pvt=2E_Ltd=2E=2C_Tecnativa=2C_GRAP=2C_Iv=C3=A1n_Todorovich=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-ux",
+  "download_filename": "odoo_addon_server_action_mass_edit-18.0.1.1.2-py3-none-any.whl",
+  "download_time": "2026-03-15T15:27:55.664333",
+  "package_url": "https://pypi.org/project/odoo-addon-server-action-mass-edit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyzdata",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Indian Historical Market Data Downloader from Zerodha",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyzdata-1.0.2.tar.gz",
-  "download_time": "2026-03-15T14:51:54.578239",
+  "download_filename": "pyzdata-1.0.4.tar.gz",
+  "download_time": "2026-03-15T15:28:16.307442",
   "package_url": "https://pypi.org/project/pyzdata/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.20.5",
-  "summary": "v0.20.5: RAG agent P(True) 0.711 [0.633,0.783] on MuSiQue n=199. Code+Math FARL experiment added (exp_code_math_farl.py). scope_limitations.md updated. v0.20.4: P(True) MuSiQue n=500 AUROC 0.684, alert precision 0.935. v0.20.3: MuSiQue SC_OLD 0.506 out-of-scope.",
+  "version": "0.21.0",
+  "summary": "v0.21.0: StreamGuardResult.skip_rewrite fast-path flag (59% chains skip QueryRewriter, save 400-800ms). AgentGuard.score_chain_guarded() latency-optimized scoring. Cross-domain few-shot calibration (exp_crossdomain_fewshot). v0.20.5: RAG agent P(True) 0.711 [0.633,0.783] on MuSiQue n=199.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.20.5-py3-none-any.whl",
-  "download_time": "2026-03-14T22:23:08.654145",
+  "download_filename": "llm_guard_kit-0.21.0.tar.gz",
+  "download_time": "2026-03-15T15:27:53.605998",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

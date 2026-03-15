@@ -1,0 +1,11 @@
+{
+  "name": "osprey-framework",
+  "version": "0.11.5",
+  "summary": "An open-source, domain-agnostic, capability-based architecture for building intelligent agents",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "osprey_framework-0.11.5-py3-none-any.whl",
+  "download_time": "2026-03-15T15:27:52.586212",
+  "package_url": "https://pypi.org/project/osprey-framework/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simasm",
+  "version": "0.5.0",
+  "summary": "Abstract State Machine Framework for Discrete Event Simulation",
+  "author": "Steve Yeo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simasm-0.5.0.tar.gz",
+  "download_time": "2026-03-15T15:27:43.140594",
+  "package_url": "https://pypi.org/project/simasm/"
+}

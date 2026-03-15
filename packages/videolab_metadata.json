@@ -1,11 +1,11 @@
 {
   "name": "videolab",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "A CLI for video processing.",
   "author": "Kian-Meng Ang",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "videolab-0.6.0.tar.gz",
-  "download_time": "2026-03-07T21:16:43.976266",
+  "download_filename": "videolab-0.6.1.tar.gz",
+  "download_time": "2026-03-15T15:28:06.073085",
   "package_url": "https://pypi.org/project/videolab/"
 }

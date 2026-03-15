@@ -1,0 +1,11 @@
+{
+  "name": "shopextract",
+  "version": "0.1.2",
+  "summary": "Extract, compare, and monitor product data from any e-commerce store",
+  "author": "Umer Khan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shopextract-0.1.2.tar.gz",
+  "download_time": "2026-03-15T15:28:15.797257",
+  "package_url": "https://pypi.org/project/shopextract/"
+}
