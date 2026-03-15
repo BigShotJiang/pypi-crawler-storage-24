@@ -1,11 +1,11 @@
 {
   "name": "pypinergy",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Python client library for the Pinergy smart meter API",
   "author": "pypinergy contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pypinergy-0.1.0.tar.gz",
-  "download_time": "2026-03-15T20:55:45.982997",
+  "download_filename": "pypinergy-0.1.4.tar.gz",
+  "download_time": "2026-03-15T21:26:57.244093",
   "package_url": "https://pypi.org/project/pypinergy/"
 }

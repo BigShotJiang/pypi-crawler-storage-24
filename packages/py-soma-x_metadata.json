@@ -1,0 +1,11 @@
+{
+  "name": "py-soma-x",
+  "version": "0.1.3",
+  "summary": "SOMA body layer",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/NVlabs/SOMA-X",
+  "download_filename": "py_soma_x-0.1.3.tar.gz",
+  "download_time": "2026-03-15T21:27:18.973861",
+  "package_url": "https://pypi.org/project/py-soma-x/"
+}

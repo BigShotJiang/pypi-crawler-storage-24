@@ -1,0 +1,11 @@
+{
+  "name": "alacarte-pipeline",
+  "version": "0.1.0",
+  "summary": "Enrollment prediction pipeline: data loading, feature engineering, and LightGBM model helpers.",
+  "author": "Vibhu Verma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alacarte_pipeline-0.1.0.tar.gz",
+  "download_time": "2026-03-15T21:27:18.430193",
+  "package_url": "https://pypi.org/project/alacarte-pipeline/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snakesee",
+  "version": "0.6.2",
+  "summary": "A terminal UI for monitoring Snakemake workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakesee-0.6.2.tar.gz",
+  "download_time": "2026-03-15T21:27:26.653518",
+  "package_url": "https://pypi.org/project/snakesee/"
+}

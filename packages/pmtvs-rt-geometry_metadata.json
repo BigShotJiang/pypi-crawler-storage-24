@@ -1,0 +1,11 @@
+{
+  "name": "pmtvs-rt-geometry",
+  "version": "0.5.2",
+  "summary": "RT geometry primitives: stable baseline scan + SVD projection (Rust-accelerated, Rayon parallel)",
+  "author": "pmtvs contributors",
+  "license": "PolyForm-Strict-1.0.0",
+  "home_page": null,
+  "download_filename": "pmtvs_rt_geometry-0.5.2-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-15T21:27:10.228841",
+  "package_url": "https://pypi.org/project/pmtvs-rt-geometry/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ezqt-app",
-  "version": "5.2.3",
+  "version": "5.3.0",
   "summary": "Lightweight framework based on PySide6 to quickly build modern desktop applications, with integrated resource, theme, and reusable component management.",
   "author": "Neuraaak",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ezqt_app-5.2.3.tar.gz",
-  "download_time": "2026-03-15T04:32:36.005159",
+  "download_filename": "ezqt_app-5.3.0.tar.gz",
+  "download_time": "2026-03-15T21:26:55.559203",
   "package_url": "https://pypi.org/project/ezqt-app/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "caldav",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "CalDAV (RFC4791) client library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "caldav-3.0.1.tar.gz",
-  "download_time": "2026-03-08T17:48:54.276628",
+  "download_filename": "caldav-3.0.2.tar.gz",
+  "download_time": "2026-03-15T21:26:51.457011",
   "package_url": "https://pypi.org/project/caldav/"
 }

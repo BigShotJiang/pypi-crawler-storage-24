@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-dnspod",
+  "version": "3.1.56",
+  "summary": "Tencent Cloud Dnspod SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_dnspod-3.1.56-py2.py3-none-any.whl",
+  "download_time": "2026-03-15T21:26:58.520551",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-dnspod/"
+}

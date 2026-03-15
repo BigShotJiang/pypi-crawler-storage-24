@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.24.0",
-  "summary": "v0.24.0: confident_wrong FP fix (FARL-calibrated risk>0.37 gate). Non-ReAct auto-boost: score_with_ptrue() raises ptrue_weight to 0.95 for function-calling agents. P(True) AUROC 0.767 CI[0.697,0.829] confirmed n=200.",
+  "version": "0.25.0",
+  "summary": "v0.25.0: StepTransformerVerifier (2-layer Transformer, best HP+TV joint training AUROC 0.705), ZeroShotCalibrator (0-label conformal calibration precision 0.708), MathVerifier (TPR=100% FPR=15%), score_with_selfconsistency + score_with_selfcritique. NLI grounding negative result documented.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.24.0.tar.gz",
-  "download_time": "2026-03-15T19:51:44.338130",
+  "download_filename": "llm_guard_kit-0.25.0.tar.gz",
+  "download_time": "2026-03-15T21:27:21.722232",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }
