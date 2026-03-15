@@ -1,0 +1,11 @@
+{
+  "name": "benchbro",
+  "version": "0.5.0",
+  "summary": "Benchmark library and CLI",
+  "author": "Pete Daly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "benchbro-0.5.0.tar.gz",
+  "download_time": "2026-03-15T14:52:37.884117",
+  "package_url": "https://pypi.org/project/benchbro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "skyffla",
+  "version": "1.1.1",
+  "summary": "Thin Python wrapper for the Skyffla machine API",
+  "author": "Skyffla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skyffla-1.1.1.tar.gz",
+  "download_time": "2026-03-15T14:51:59.481504",
+  "package_url": "https://pypi.org/project/skyffla/"
+}

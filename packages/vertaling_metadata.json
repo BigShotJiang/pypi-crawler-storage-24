@@ -1,11 +1,11 @@
 {
   "name": "vertaling",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "summary": "A decoupled translation pipeline with translate-on-miss.",
   "author": "Kevin Buoren Shiue",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "vertaling-1.0.0.tar.gz",
-  "download_time": "2026-03-14T23:52:04.748910",
+  "download_filename": "vertaling-1.2.1.tar.gz",
+  "download_time": "2026-03-15T14:52:15.692516",
   "package_url": "https://pypi.org/project/vertaling/"
 }

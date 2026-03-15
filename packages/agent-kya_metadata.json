@@ -1,0 +1,11 @@
+{
+  "name": "agent-kya",
+  "version": "0.1.0",
+  "summary": "Know Your Agent — trust scoring for AI agents. Check any wallet's trust score, verify ERC-8004 identity, get tier. Zero dependencies.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_kya-0.1.0.tar.gz",
+  "download_time": "2026-03-15T14:52:41.102822",
+  "package_url": "https://pypi.org/project/agent-kya/"
+}

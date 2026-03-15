@@ -1,0 +1,11 @@
+{
+  "name": "peg-this",
+  "version": "5.2.0",
+  "summary": "A powerful and intuitive command-line multimedia editor suite for video, audio, and image processing, built on FFmpeg.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "peg_this-5.2.0.tar.gz",
+  "download_time": "2026-03-15T14:51:58.407560",
+  "package_url": "https://pypi.org/project/peg-this/"
+}

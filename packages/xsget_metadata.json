@@ -1,0 +1,11 @@
+{
+  "name": "xsget",
+  "version": "0.1.81",
+  "summary": "Console tools to download online novel and convert to text file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xsget-0.1.81.tar.gz",
+  "download_time": "2026-03-15T14:51:53.403858",
+  "package_url": "https://pypi.org/project/xsget/"
+}

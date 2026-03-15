@@ -1,0 +1,11 @@
+{
+  "name": "ai-text-audit",
+  "version": "1.0.0",
+  "summary": "Detect AI writing patterns. Make text human again.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_text_audit-1.0.0.tar.gz",
+  "download_time": "2026-03-15T14:52:10.325008",
+  "package_url": "https://pypi.org/project/ai-text-audit/"
+}

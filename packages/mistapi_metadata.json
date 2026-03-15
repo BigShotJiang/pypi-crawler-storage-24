@@ -1,0 +1,11 @@
+{
+  "name": "mistapi",
+  "version": "0.61.1",
+  "summary": "Python package to simplify the Mist System APIs usage",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "mistapi-0.61.1.tar.gz",
+  "download_time": "2026-03-15T14:52:30.347740",
+  "package_url": "https://pypi.org/project/mistapi/"
+}

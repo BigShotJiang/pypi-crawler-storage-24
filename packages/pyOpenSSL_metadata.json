@@ -1,0 +1,11 @@
+{
+  "name": "pyOpenSSL",
+  "version": "26.0.0",
+  "summary": "Python wrapper module around the OpenSSL library",
+  "author": "The pyOpenSSL developers",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://pyopenssl.org/",
+  "download_filename": "pyopenssl-26.0.0.tar.gz",
+  "download_time": "2026-03-15T14:52:40.032068",
+  "package_url": "https://pypi.org/project/pyOpenSSL/"
+}

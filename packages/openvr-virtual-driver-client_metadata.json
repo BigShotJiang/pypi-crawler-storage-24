@@ -1,0 +1,11 @@
+{
+  "name": "openvr-virtual-driver-client",
+  "version": "0.1.1",
+  "summary": "Python client for OpenVR virtual driver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openvr_virtual_driver_client-0.1.1.tar.gz",
+  "download_time": "2026-03-15T14:52:07.603459",
+  "package_url": "https://pypi.org/project/openvr-virtual-driver-client/"
+}

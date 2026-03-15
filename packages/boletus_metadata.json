@@ -1,11 +1,11 @@
 {
   "name": "boletus",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Your first AI company — Open-source multi-agent framework that runs your business autonomously",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boletus-0.1.0.tar.gz",
-  "download_time": "2026-03-15T14:10:27.134214",
+  "download_filename": "boletus-0.1.2.tar.gz",
+  "download_time": "2026-03-15T14:52:21.614639",
   "package_url": "https://pypi.org/project/boletus/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "selenium-mcp",
+  "version": "1.0.0",
+  "summary": "Selenium WebDriver MCP server for AI agents and LLM-powered browser automation",
+  "author": "Prashant Nayak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "selenium_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-15T14:52:07.064377",
+  "package_url": "https://pypi.org/project/selenium-mcp/"
+}

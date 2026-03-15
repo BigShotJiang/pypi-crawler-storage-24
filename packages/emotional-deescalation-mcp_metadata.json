@@ -1,11 +1,11 @@
 {
   "name": "emotional-deescalation-mcp",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "MCP server for emotional analysis, de-escalation, and strategic dialogue management in customer support",
   "author": "ilyajob05",
   "license": null,
   "home_page": null,
-  "download_filename": "emotional_deescalation_mcp-0.3.2.tar.gz",
-  "download_time": "2026-03-15T12:49:35.402378",
+  "download_filename": "emotional_deescalation_mcp-0.4.0.tar.gz",
+  "download_time": "2026-03-15T14:51:55.650370",
   "package_url": "https://pypi.org/project/emotional-deescalation-mcp/"
 }
