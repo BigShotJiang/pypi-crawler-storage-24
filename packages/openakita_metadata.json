@@ -1,11 +1,11 @@
 {
   "name": "openakita",
-  "version": "1.26.2",
+  "version": "1.26.3",
   "summary": "全能自进化AI Agent - 基于Ralph Wiggum模式，永不放弃",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openakita-1.26.2-py3-none-any.whl",
-  "download_time": "2026-03-13T20:30:19.199766",
+  "download_filename": "openakita-1.26.3-py3-none-any.whl",
+  "download_time": "2026-03-15T17:57:18.476016",
   "package_url": "https://pypi.org/project/openakita/"
 }

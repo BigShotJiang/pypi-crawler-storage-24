@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-cachemate",
+  "version": "0.1.1",
+  "summary": "Simple and lightweight library for caching responses with minimal external dependencies.",
+  "author": "Dmitry.Eliseenko",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "fastapi_cachemate-0.1.1.tar.gz",
+  "download_time": "2026-03-15T17:57:23.165972",
+  "package_url": "https://pypi.org/project/fastapi-cachemate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chardet-rust",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Universal character encoding detector",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chardet_rust-0.1.10.tar.gz",
-  "download_time": "2026-03-07T10:18:21.525035",
+  "download_filename": "chardet_rust-0.1.11.tar.gz",
+  "download_time": "2026-03-15T17:57:24.187435",
   "package_url": "https://pypi.org/project/chardet-rust/"
 }

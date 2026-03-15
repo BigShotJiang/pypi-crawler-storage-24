@@ -1,11 +1,11 @@
 {
   "name": "FoBiS.py",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "summary": "a Fortran Building System for poor men",
   "author": "Stefano Zaghi",
   "license": null,
   "home_page": "https://github.com/szaghi/FoBiS",
-  "download_filename": "fobis_py-3.6.0.tar.gz",
-  "download_time": "2026-03-15T16:58:29.466157",
+  "download_filename": "fobis_py-3.6.1.tar.gz",
+  "download_time": "2026-03-15T17:56:54.669800",
   "package_url": "https://pypi.org/project/FoBiS.py/"
 }
