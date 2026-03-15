@@ -1,0 +1,11 @@
+{
+  "name": "ragdebug",
+  "version": "0.1.1",
+  "summary": "Observability SDK for RAG pipelines — auto-trace every stage of your RAG app.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragdebug-0.1.1.tar.gz",
+  "download_time": "2026-03-15T07:44:03.751154",
+  "package_url": "https://pypi.org/project/ragdebug/"
+}

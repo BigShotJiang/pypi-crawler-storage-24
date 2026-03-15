@@ -1,0 +1,11 @@
+{
+  "name": "dddx",
+  "version": "0.3.0",
+  "summary": "Domain-Driven Design base classes and contracts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dddx-0.3.0.tar.gz",
+  "download_time": "2026-03-15T07:44:28.515129",
+  "package_url": "https://pypi.org/project/dddx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ffvm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI tool for encoding videos with ffmpeg and scoring quality with VMAF",
   "author": "Birk",
   "license": null,
   "home_page": null,
-  "download_filename": "ffvm-0.1.0.tar.gz",
-  "download_time": "2026-03-11T23:21:53.392957",
+  "download_filename": "ffvm-0.1.1.tar.gz",
+  "download_time": "2026-03-15T07:44:32.778179",
   "package_url": "https://pypi.org/project/ffvm/"
 }

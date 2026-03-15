@@ -1,0 +1,11 @@
+{
+  "name": "guardweave",
+  "version": "0.1.0",
+  "summary": "GuardWeave: risk-adaptive prompt injection defense for hosted APIs and local LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "guardweave-0.1.0.tar.gz",
+  "download_time": "2026-03-15T07:44:05.882678",
+  "package_url": "https://pypi.org/project/guardweave/"
+}

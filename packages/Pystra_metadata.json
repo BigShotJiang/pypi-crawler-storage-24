@@ -1,11 +1,11 @@
 {
   "name": "Pystra",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Python Structural Reliability Analysis",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "pystra-1.4.0.tar.gz",
-  "download_time": "2026-03-13T15:30:03.626387",
+  "download_filename": "pystra-1.5.0.tar.gz",
+  "download_time": "2026-03-15T07:44:29.580380",
   "package_url": "https://pypi.org/project/Pystra/"
 }

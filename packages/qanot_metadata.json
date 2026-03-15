@@ -1,11 +1,11 @@
 {
   "name": "qanot",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "The AI agent that flies on its own. Two commands to fly.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qanot-2.0.0.tar.gz",
-  "download_time": "2026-03-15T05:54:16.960009",
+  "download_filename": "qanot-2.0.1.tar.gz",
+  "download_time": "2026-03-15T07:44:26.876856",
   "package_url": "https://pypi.org/project/qanot/"
 }

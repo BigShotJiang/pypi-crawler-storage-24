@@ -1,0 +1,11 @@
+{
+  "name": "graphot",
+  "version": "0.0.2",
+  "summary": "Graph optimal transport on sparse reversible graphs",
+  "author": "LvDAO",
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphot-0.0.2.tar.gz",
+  "download_time": "2026-03-15T07:43:58.689319",
+  "package_url": "https://pypi.org/project/graphot/"
+}

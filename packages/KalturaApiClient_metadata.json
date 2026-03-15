@@ -1,11 +1,11 @@
 {
   "name": "KalturaApiClient",
-  "version": "22.14.0",
+  "version": "22.15.0",
   "summary": "A Python module for accessing the Kaltura API.",
   "author": null,
   "license": "AGPLv3+",
   "home_page": "https://github.com/kaltura/KalturaGeneratedAPIClientsPython",
-  "download_filename": "kalturaapiclient-22.14.0-py2.py3-none-any.whl",
-  "download_time": "2026-03-08T07:28:40.195587",
+  "download_filename": "kalturaapiclient-22.15.0-py2.py3-none-any.whl",
+  "download_time": "2026-03-15T07:44:38.176029",
   "package_url": "https://pypi.org/project/KalturaApiClient/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "abstract-ide",
-  "version": "0.0.0.376",
+  "version": "0.0.0.377",
   "summary": "abstract_ide",
   "author": "putkoff",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_ide",
-  "download_filename": "abstract_ide-0.0.0.376.tar.gz",
-  "download_time": "2026-03-10T14:31:32.151922",
+  "download_filename": "abstract_ide-0.0.0.377.tar.gz",
+  "download_time": "2026-03-15T07:43:57.068225",
   "package_url": "https://pypi.org/project/abstract-ide/"
 }

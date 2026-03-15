@@ -1,11 +1,11 @@
 {
   "name": "notaryos",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "summary": "NotaryOS SDK - Cryptographic receipts for AI agent actions. Issue, verify, and audit with Ed25519 signatures.",
   "author": null,
-  "license": "MIT",
+  "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "notaryos-2.1.1.tar.gz",
-  "download_time": "2026-03-15T06:52:46.185456",
+  "download_filename": "notaryos-2.2.0.tar.gz",
+  "download_time": "2026-03-15T07:44:31.177091",
   "package_url": "https://pypi.org/project/notaryos/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "todo-hub",
-  "version": "0.0.1",
-  "summary": "Reserved package name for future project.",
+  "version": "0.1.0",
+  "summary": "Aggregate TODO deadlines across multiple projects into a single agenda-style CLI view.",
   "author": "Catur Wahyu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "todo_hub-0.0.1.tar.gz",
-  "download_time": "2026-03-15T04:31:58.295848",
+  "download_filename": "todo_hub-0.1.0.tar.gz",
+  "download_time": "2026-03-15T07:44:13.949956",
   "package_url": "https://pypi.org/project/todo-hub/"
 }
