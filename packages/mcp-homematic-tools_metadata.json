@@ -1,0 +1,11 @@
+{
+  "name": "mcp-homematic-tools",
+  "version": "1.0.0",
+  "summary": "60 HomeMatic/OpenCCU tools for MCP — full JSON-RPC API coverage for devices, channels, rooms, programs, system variables, events, and system management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_homematic_tools-1.0.0.tar.gz",
+  "download_time": "2026-03-15T15:54:27.612234",
+  "package_url": "https://pypi.org/project/mcp-homematic-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymineos",
+  "version": "1.2.4",
+  "summary": "Python binding to Mineos C/Fortran routines.",
+  "author": null,
+  "license": "GPL v2",
+  "home_page": null,
+  "download_filename": "pymineos-1.2.4-cp314-cp314-manylinux1_x86_64.whl",
+  "download_time": "2026-03-15T15:54:36.457408",
+  "package_url": "https://pypi.org/project/pymineos/"
+}

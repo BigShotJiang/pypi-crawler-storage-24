@@ -1,11 +1,11 @@
 {
   "name": "oneid",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Hardware-anchored identity SDK for AI agents -- 1id.com",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "oneid-0.6.0.tar.gz",
-  "download_time": "2026-03-13T20:30:53.334160",
+  "download_filename": "oneid-0.7.0.tar.gz",
+  "download_time": "2026-03-15T15:54:10.594552",
   "package_url": "https://pypi.org/project/oneid/"
 }

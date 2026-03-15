@@ -1,0 +1,11 @@
+{
+  "name": "cyipopt-wheels",
+  "version": "1.7.0.dev0",
+  "summary": "A Cython wrapper to the IPOPT optimization package",
+  "author": "Jason K. Moore",
+  "license": "EPL-2.0",
+  "home_page": "https://github.com/mechmotum/cyipopt",
+  "download_filename": "cyipopt_wheels-1.7.0.dev0.tar.gz",
+  "download_time": "2026-03-15T15:54:13.885071",
+  "package_url": "https://pypi.org/project/cyipopt-wheels/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "factorlens",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "Factor attribution and analytics CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "factorlens-0.3.3-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-14T18:32:40.653777",
+  "download_filename": "factorlens-0.3.5-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-15T15:54:17.954603",
   "package_url": "https://pypi.org/project/factorlens/"
 }

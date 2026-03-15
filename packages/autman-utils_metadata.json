@@ -1,0 +1,11 @@
+{
+  "name": "autman-utils",
+  "version": "1.2.0",
+  "summary": "Single-file utility module for payment and QingLong environment operations.",
+  "author": "yousang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autman_utils-1.2.0.tar.gz",
+  "download_time": "2026-03-15T15:54:11.233228",
+  "package_url": "https://pypi.org/project/autman-utils/"
+}

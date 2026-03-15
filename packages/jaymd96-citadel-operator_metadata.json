@@ -1,0 +1,11 @@
+{
+  "name": "jaymd96-citadel-operator",
+  "version": "0.1.0",
+  "summary": "Lightweight K3s cluster management with Cilium and ephemeral node lifecycle",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaymd96_citadel_operator-0.1.0.tar.gz",
+  "download_time": "2026-03-15T15:54:33.241817",
+  "package_url": "https://pypi.org/project/jaymd96-citadel-operator/"
+}

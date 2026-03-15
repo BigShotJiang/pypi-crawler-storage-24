@@ -1,0 +1,11 @@
+{
+  "name": "ignition-cli",
+  "version": "0.4.1",
+  "summary": "CLI tool for Ignition SCADA 8.3+ REST API",
+  "author": "SFLOW",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ignition_cli-0.4.1.tar.gz",
+  "download_time": "2026-03-15T15:54:15.176297",
+  "package_url": "https://pypi.org/project/ignition-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "doctorcli",
+  "version": "1.0.1",
+  "summary": "Specialist-first medical AI CLI with persistent sessions, markdown streaming, optional tools, and multi-provider model support.",
+  "author": "AIMLDev726",
+  "license": null,
+  "home_page": null,
+  "download_filename": "doctorcli-1.0.1.tar.gz",
+  "download_time": "2026-03-15T15:54:17.107119",
+  "package_url": "https://pypi.org/project/doctorcli/"
+}

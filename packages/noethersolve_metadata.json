@@ -1,11 +1,11 @@
 {
   "name": "noethersolve",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Automated scientific discovery: use LLM knowledge gaps as a compass to find underexplored science.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "noethersolve-0.7.0.tar.gz",
-  "download_time": "2026-03-15T13:39:14.186596",
+  "download_filename": "noethersolve-0.8.0.tar.gz",
+  "download_time": "2026-03-15T15:54:09.952736",
   "package_url": "https://pypi.org/project/noethersolve/"
 }
