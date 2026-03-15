@@ -1,0 +1,11 @@
+{
+  "name": "piRTC",
+  "version": "1.0.4",
+  "summary": "Raspberry Pi RTC & WatchDog Management Package",
+  "author": "piRTC Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pirtc-1.0.4.tar.gz",
+  "download_time": "2026-03-15T16:28:16.798794",
+  "package_url": "https://pypi.org/project/piRTC/"
+}

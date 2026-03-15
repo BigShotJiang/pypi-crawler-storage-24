@@ -1,0 +1,11 @@
+{
+  "name": "pmf-acls",
+  "version": "0.1.3",
+  "summary": "Experimental Positive Matrix Factorization (PMF) routines",
+  "author": "Jerritt Collord",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmf_acls-0.1.3.tar.gz",
+  "download_time": "2026-03-15T16:28:56.487617",
+  "package_url": "https://pypi.org/project/pmf-acls/"
+}

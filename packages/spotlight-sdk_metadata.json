@@ -1,0 +1,11 @@
+{
+  "name": "spotlight-sdk",
+  "version": "0.2.6",
+  "summary": "Spotlight Python SDK",
+  "author": "Spotlight",
+  "license": null,
+  "home_page": "https://spotlight.dev",
+  "download_filename": "spotlight_sdk-0.2.6.tar.gz",
+  "download_time": "2026-03-15T16:28:33.670538",
+  "package_url": "https://pypi.org/project/spotlight-sdk/"
+}

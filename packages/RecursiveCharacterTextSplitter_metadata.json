@@ -1,0 +1,11 @@
+{
+  "name": "RecursiveCharacterTextSplitter",
+  "version": "0.1.0",
+  "summary": "An original recursive character splitter with a simple local UI for markdown chunk zip files",
+  "author": "Wenxi Wang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "recursivecharactertextsplitter-0.1.0.tar.gz",
+  "download_time": "2026-03-15T16:29:02.844724",
+  "package_url": "https://pypi.org/project/RecursiveCharacterTextSplitter/"
+}

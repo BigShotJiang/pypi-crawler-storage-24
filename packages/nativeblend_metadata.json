@@ -1,11 +1,11 @@
 {
   "name": "nativeblend",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "NativeBlend CLI - Build and Edit 3D models in Blender using AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nativeblend-0.1.9.tar.gz",
-  "download_time": "2026-03-13T21:03:45.006465",
+  "download_filename": "nativeblend-0.2.0.tar.gz",
+  "download_time": "2026-03-15T16:28:27.881622",
   "package_url": "https://pypi.org/project/nativeblend/"
 }

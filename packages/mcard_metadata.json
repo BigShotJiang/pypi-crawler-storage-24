@@ -1,11 +1,11 @@
 {
   "name": "mcard",
-  "version": "0.1.54",
+  "version": "0.1.56",
   "summary": "MCard: Local-first Content Addressable Storage with Content Type Detection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcard-0.1.54.tar.gz",
-  "download_time": "2026-03-14T08:48:33.855618",
+  "download_filename": "mcard-0.1.56.tar.gz",
+  "download_time": "2026-03-15T16:28:46.080746",
   "package_url": "https://pypi.org/project/mcard/"
 }

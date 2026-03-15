@@ -1,0 +1,11 @@
+{
+  "name": "pip-chill",
+  "version": "1.0.5",
+  "summary": "Like `pip freeze` but lists only the packages that are not dependencies of installed packages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pip_chill-1.0.5.tar.gz",
+  "download_time": "2026-03-15T16:28:55.201953",
+  "package_url": "https://pypi.org/project/pip-chill/"
+}

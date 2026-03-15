@@ -1,0 +1,11 @@
+{
+  "name": "yumeow-plot",
+  "version": "0.1.2",
+  "summary": "YuMeow's personal matplotlib wrappers for academic and daily use.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yumeow_plot-0.1.2.tar.gz",
+  "download_time": "2026-03-15T16:28:44.143523",
+  "package_url": "https://pypi.org/project/yumeow-plot/"
+}
