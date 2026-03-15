@@ -1,11 +1,11 @@
 {
   "name": "blockmachine",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Blockmachine CLI - Miner and validator operator interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blockmachine-0.6.0.tar.gz",
-  "download_time": "2026-03-12T23:50:56.566828",
+  "download_filename": "blockmachine-0.6.2.tar.gz",
+  "download_time": "2026-03-15T20:55:43.305060",
   "package_url": "https://pypi.org/project/blockmachine/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "simple-brainfuck",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "a very simple brainfuck interpreter.",
   "author": "GGN_2015",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simple_brainfuck-0.1.1.tar.gz",
-  "download_time": "2026-03-15T11:42:20.493498",
+  "download_filename": "simple_brainfuck-0.1.4.tar.gz",
+  "download_time": "2026-03-15T20:56:12.776066",
   "package_url": "https://pypi.org/project/simple-brainfuck/"
 }

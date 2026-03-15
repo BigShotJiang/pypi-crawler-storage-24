@@ -1,11 +1,11 @@
 {
   "name": "silmaril",
-  "version": "0.3.2",
+  "version": "0.5.0",
   "summary": "Self-hosted, mobile-first web UI for browsing and editing Obsidian vaults",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "silmaril-0.3.2.tar.gz",
-  "download_time": "2026-03-15T14:10:24.326149",
+  "download_filename": "silmaril-0.5.0.tar.gz",
+  "download_time": "2026-03-15T20:55:55.598353",
   "package_url": "https://pypi.org/project/silmaril/"
 }

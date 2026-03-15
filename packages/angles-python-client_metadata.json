@@ -1,0 +1,11 @@
+{
+  "name": "angles-python-client",
+  "version": "1.0.9",
+  "summary": "Python client for the Angles Dashboard API",
+  "author": "AnglesHQ community",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "angles_python_client-1.0.9.tar.gz",
+  "download_time": "2026-03-15T20:56:10.646766",
+  "package_url": "https://pypi.org/project/angles-python-client/"
+}

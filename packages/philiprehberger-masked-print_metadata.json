@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-masked-print",
+  "version": "0.1.1",
+  "summary": "Automatically mask sensitive values (API keys, passwords, tokens) in logs and print output",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_masked_print-0.1.1.tar.gz",
+  "download_time": "2026-03-15T20:56:19.468614",
+  "package_url": "https://pypi.org/project/philiprehberger-masked-print/"
+}

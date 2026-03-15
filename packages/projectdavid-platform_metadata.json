@@ -1,11 +1,11 @@
 {
   "name": "projectdavid-platform",
-  "version": "1.19.0",
+  "version": "1.20.0",
   "summary": "Deployment orchestrator for the Project David / Entities platform",
   "author": null,
   "license": "PolyForm Noncommercial 1.0.0",
   "home_page": null,
-  "download_filename": "projectdavid_platform-1.19.0.tar.gz",
-  "download_time": "2026-03-15T20:25:19.057217",
+  "download_filename": "projectdavid_platform-1.20.0.tar.gz",
+  "download_time": "2026-03-15T20:55:42.222597",
   "package_url": "https://pypi.org/project/projectdavid-platform/"
 }

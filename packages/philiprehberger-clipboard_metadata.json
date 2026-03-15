@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-clipboard",
+  "version": "0.1.1",
+  "summary": "Cross-platform clipboard copy and paste in one function call",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_clipboard-0.1.1.tar.gz",
+  "download_time": "2026-03-15T20:56:16.125053",
+  "package_url": "https://pypi.org/project/philiprehberger-clipboard/"
+}

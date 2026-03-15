@@ -1,0 +1,11 @@
+{
+  "name": "anywidget-vector",
+  "version": "0.2.6",
+  "summary": "Interactive 3D vector visualization with query UI for vector databases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anywidget_vector-0.2.6.tar.gz",
+  "download_time": "2026-03-15T20:56:02.093544",
+  "package_url": "https://pypi.org/project/anywidget-vector/"
+}

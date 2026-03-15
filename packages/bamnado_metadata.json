@@ -1,0 +1,11 @@
+{
+  "name": "bamnado",
+  "version": "0.5.8",
+  "summary": "Python bindings for BamNado",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/alsmith151/BamNado",
+  "download_filename": "bamnado-0.5.8.tar.gz",
+  "download_time": "2026-03-15T20:56:05.846566",
+  "package_url": "https://pypi.org/project/bamnado/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "drasill",
+  "version": "1.0.0",
+  "summary": "Agent mesh control plane — coordinate AI coding agents from a live dashboard",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "drasill-1.0.0.tar.gz",
+  "download_time": "2026-03-15T20:55:57.737198",
+  "package_url": "https://pypi.org/project/drasill/"
+}

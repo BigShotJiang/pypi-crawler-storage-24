@@ -1,11 +1,11 @@
 {
   "name": "staticnest-cli",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A custom Python static site generator for polished documentation websites.",
   "author": "Akash B",
   "license": null,
   "home_page": null,
-  "download_filename": "staticnest_cli-0.1.5.tar.gz",
-  "download_time": "2026-03-15T20:25:28.633062",
+  "download_filename": "staticnest_cli-0.1.6.tar.gz",
+  "download_time": "2026-03-15T20:56:07.975673",
   "package_url": "https://pypi.org/project/staticnest-cli/"
 }

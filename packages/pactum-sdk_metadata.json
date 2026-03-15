@@ -1,0 +1,11 @@
+{
+  "name": "pactum-sdk",
+  "version": "0.3.2",
+  "summary": "Python SDK for the Pactum AI agent marketplace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pactum_sdk-0.3.2.tar.gz",
+  "download_time": "2026-03-15T20:56:02.625170",
+  "package_url": "https://pypi.org/project/pactum-sdk/"
+}

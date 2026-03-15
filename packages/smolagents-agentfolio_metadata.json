@@ -1,0 +1,11 @@
+{
+  "name": "smolagents-agentfolio",
+  "version": "0.1.0",
+  "summary": "AgentFolio identity, trust & reputation tools for smolagents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smolagents_agentfolio-0.1.0.tar.gz",
+  "download_time": "2026-03-15T20:55:36.862832",
+  "package_url": "https://pypi.org/project/smolagents-agentfolio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-enum-tools",
+  "version": "0.1.1",
+  "summary": "Practical utilities for Python enums — lookup, validation, listing, and serialization",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_enum_tools-0.1.1.tar.gz",
+  "download_time": "2026-03-15T20:56:16.697412",
+  "package_url": "https://pypi.org/project/philiprehberger-enum-tools/"
+}
