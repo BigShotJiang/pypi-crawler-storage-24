@@ -1,0 +1,11 @@
+{
+  "name": "apache-hamilton-contrib",
+  "version": "0.1.0.dev0",
+  "summary": "Apache Hamilton's user contributed shared dataflow library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_hamilton_contrib-0.1.0.dev0.tar.gz",
+  "download_time": "2026-03-15T22:57:19.315356",
+  "package_url": "https://pypi.org/project/apache-hamilton-contrib/"
+}

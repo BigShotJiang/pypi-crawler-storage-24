@@ -1,0 +1,11 @@
+{
+  "name": "apache-hamilton",
+  "version": "1.89.0",
+  "summary": "Hamilton, the micro-framework for creating dataframes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache-hamilton-1.89.0.tar.gz",
+  "download_time": "2026-03-15T22:57:17.228907",
+  "package_url": "https://pypi.org/project/apache-hamilton/"
+}

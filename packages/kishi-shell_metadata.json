@@ -1,11 +1,11 @@
 {
   "name": "kishi-shell",
-  "version": "2.0.0.1",
+  "version": "2.0.0.2",
   "summary": "A powerful, highly modular, Python-based modern shell.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kishi_shell-2.0.0.1.tar.gz",
-  "download_time": "2026-03-12T23:02:40.388685",
+  "download_filename": "kishi_shell-2.0.0.2.tar.gz",
+  "download_time": "2026-03-15T22:57:14.659598",
   "package_url": "https://pypi.org/project/kishi-shell/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "apache-hamilton-sdk",
+  "version": "0.9.0.dev0",
+  "summary": "Apache Hamilton SDK for reading and writing to the Apache Hamilton backend APIs that support the UI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_hamilton_sdk-0.9.0.dev0.tar.gz",
+  "download_time": "2026-03-15T22:57:18.257759",
+  "package_url": "https://pypi.org/project/apache-hamilton-sdk/"
+}

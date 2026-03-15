@@ -1,0 +1,11 @@
+{
+  "name": "boris-wispr",
+  "version": "0.1.1",
+  "summary": "Voice input engine — hold-to-talk whisper detection, filler removal, @ file tags",
+  "author": "David",
+  "license": "MIT",
+  "home_page": "https://github.com/david/boris-wispr",
+  "download_filename": "boris_wispr-0.1.1.tar.gz",
+  "download_time": "2026-03-15T22:57:07.885133",
+  "package_url": "https://pypi.org/project/boris-wispr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apache-hamilton-lsp",
+  "version": "0.2.0.dev0",
+  "summary": "Apache Hamilton Language Server powering IDE features.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_hamilton_lsp-0.2.0.dev0.tar.gz",
+  "download_time": "2026-03-15T22:57:18.771335",
+  "package_url": "https://pypi.org/project/apache-hamilton-lsp/"
+}

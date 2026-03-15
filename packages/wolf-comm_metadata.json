@@ -1,0 +1,11 @@
+{
+  "name": "wolf-comm",
+  "version": "0.0.48",
+  "summary": "A package to communicate with Wolf SmartSet Cloud",
+  "author": "Jan Rothkegel",
+  "license": null,
+  "home_page": "https://github.com/janrothkegel/wolf-comm",
+  "download_filename": "wolf_comm-0.0.48.tar.gz",
+  "download_time": "2026-03-15T22:56:44.061621",
+  "package_url": "https://pypi.org/project/wolf-comm/"
+}

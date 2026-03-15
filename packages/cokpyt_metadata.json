@@ -1,11 +1,11 @@
 {
   "name": "cokpyt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A desktop GUI for pip — browse, install, upgrade, and remove packages without touching the terminal.",
   "author": "d3uceY",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cokpyt-0.1.1.tar.gz",
-  "download_time": "2026-03-14T15:25:22.028380",
+  "download_filename": "cokpyt-0.1.2.tar.gz",
+  "download_time": "2026-03-15T22:57:11.537240",
   "package_url": "https://pypi.org/project/cokpyt/"
 }

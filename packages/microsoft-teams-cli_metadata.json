@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-teams-cli",
+  "version": "0.1.0",
+  "summary": "Microsoft Teams CLI — chat, send, and manage Teams from the terminal",
+  "author": "Yusuf Altunbicak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microsoft_teams_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-15T22:57:06.850678",
+  "package_url": "https://pypi.org/project/microsoft-teams-cli/"
+}

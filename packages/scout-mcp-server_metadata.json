@@ -1,0 +1,11 @@
+{
+  "name": "scout-mcp-server",
+  "version": "1.2.0",
+  "summary": "MCP server for browser automation with anti-detection. Scout pages, find elements, interact with websites, and monitor network traffic.",
+  "author": "sdoherty",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scout_mcp_server-1.2.0-py3-none-any.whl",
+  "download_time": "2026-03-15T22:56:51.276610",
+  "package_url": "https://pypi.org/project/scout-mcp-server/"
+}

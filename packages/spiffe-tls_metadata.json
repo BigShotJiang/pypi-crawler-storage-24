@@ -1,0 +1,11 @@
+{
+  "name": "spiffe-tls",
+  "version": "0.3.1",
+  "summary": "TLS Support using SPIFFE",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spiffe_tls-0.3.1.tar.gz",
+  "download_time": "2026-03-15T22:57:20.347446",
+  "package_url": "https://pypi.org/project/spiffe-tls/"
+}
