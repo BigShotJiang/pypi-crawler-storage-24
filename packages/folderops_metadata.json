@@ -1,11 +1,11 @@
 {
   "name": "folderops",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python utilities for dataset organization and preprocessing",
   "author": "Ahamed",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "folderops-0.1.0.tar.gz",
-  "download_time": "2026-03-15T06:52:45.664543",
+  "download_filename": "folderops-0.1.2.tar.gz",
+  "download_time": "2026-03-15T08:57:44.365499",
   "package_url": "https://pypi.org/project/folderops/"
 }

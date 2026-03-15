@@ -1,0 +1,11 @@
+{
+  "name": "django-apcore",
+  "version": "0.3.0",
+  "summary": "Django integration for apcore — scan existing REST APIs and serve them as MCP tools for AI agents",
+  "author": "Engineering Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_apcore-0.3.0.tar.gz",
+  "download_time": "2026-03-15T08:58:10.678266",
+  "package_url": "https://pypi.org/project/django-apcore/"
+}

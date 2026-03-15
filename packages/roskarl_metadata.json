@@ -1,11 +1,11 @@
 {
   "name": "roskarl",
-  "version": "3.1.15",
+  "version": "3.1.19",
   "summary": "Environment variable helpers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "roskarl-3.1.15.tar.gz",
-  "download_time": "2026-03-10T12:02:14.656059",
+  "download_filename": "roskarl-3.1.19.tar.gz",
+  "download_time": "2026-03-15T08:57:53.724670",
   "package_url": "https://pypi.org/project/roskarl/"
 }

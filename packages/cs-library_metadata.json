@@ -1,0 +1,11 @@
+{
+  "name": "cs-library",
+  "version": "0.2.1",
+  "summary": "Small utility helpers for working with text and tokens.",
+  "author": "0x1F40E",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cs_library-0.2.1.tar.gz",
+  "download_time": "2026-03-15T08:57:35.106113",
+  "package_url": "https://pypi.org/project/cs-library/"
+}

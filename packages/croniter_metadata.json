@@ -1,11 +1,11 @@
 {
   "name": "croniter",
-  "version": "6.2.0",
+  "version": "6.2.2",
   "summary": "croniter provides iteration for datetime object with cron like format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "croniter-6.2.0.tar.gz",
-  "download_time": "2026-03-14T21:24:27.119959",
+  "download_filename": "croniter-6.2.2.tar.gz",
+  "download_time": "2026-03-15T08:57:58.140020",
   "package_url": "https://pypi.org/project/croniter/"
 }

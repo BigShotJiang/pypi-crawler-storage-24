@@ -1,0 +1,11 @@
+{
+  "name": "api-forge-cli",
+  "version": "1.0.0",
+  "summary": "CLI tool for API testing, load testing, and mock server generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "api_forge_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-15T08:58:07.420492",
+  "package_url": "https://pypi.org/project/api-forge-cli/"
+}

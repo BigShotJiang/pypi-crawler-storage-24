@@ -1,0 +1,11 @@
+{
+  "name": "samyama",
+  "version": "0.6.1",
+  "summary": "Python SDK for the Samyama Graph Database",
+  "author": "Samyama Graph Database Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "samyama-0.6.1.tar.gz",
+  "download_time": "2026-03-15T08:57:40.556123",
+  "package_url": "https://pypi.org/project/samyama/"
+}

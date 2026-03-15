@@ -1,11 +1,11 @@
 {
   "name": "nexo-middlewares",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Middlewares package for Nexo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexo_middlewares-0.1.2.tar.gz",
-  "download_time": "2026-03-15T07:44:01.050817",
+  "download_filename": "nexo_middlewares-0.1.3.tar.gz",
+  "download_time": "2026-03-15T08:57:56.444768",
   "package_url": "https://pypi.org/project/nexo-middlewares/"
 }

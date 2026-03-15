@@ -1,0 +1,11 @@
+{
+  "name": "landmarkdiff",
+  "version": "0.2.3",
+  "summary": "Anatomically-conditioned latent diffusion for facial surgery outcome prediction from standard clinical photography",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "landmarkdiff-0.2.3.tar.gz",
+  "download_time": "2026-03-15T08:57:48.798018",
+  "package_url": "https://pypi.org/project/landmarkdiff/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "applemusic-dl",
+  "version": "2.4.1",
+  "summary": "一个功能强大的 Apple Music 下载工具，支持下载歌曲、音乐视频和帖子内容。",
+  "author": "wenfeng110402",
+  "license": null,
+  "home_page": null,
+  "download_filename": "applemusic_dl-2.4.1.tar.gz",
+  "download_time": "2026-03-15T08:58:07.964936",
+  "package_url": "https://pypi.org/project/applemusic-dl/"
+}

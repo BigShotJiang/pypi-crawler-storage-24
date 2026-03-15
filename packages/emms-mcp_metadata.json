@@ -1,0 +1,11 @@
+{
+  "name": "emms-mcp",
+  "version": "0.27.0",
+  "summary": "MCP server with 129 cognitive memory tools for AI agents — persistent memory, emotional recall, knowledge graphs, metacognition, goal tracking, and more",
+  "author": "Shehzad Ahmed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "emms_mcp-0.27.0.tar.gz",
+  "download_time": "2026-03-15T08:58:10.135863",
+  "package_url": "https://pypi.org/project/emms-mcp/"
+}
