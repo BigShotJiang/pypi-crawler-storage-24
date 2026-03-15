@@ -1,11 +1,11 @@
 {
   "name": "django-sysconfig",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "summary": "A Magento-style system configuration app for Django",
   "author": "Krishna Modepalli",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_sysconfig-0.0.2.tar.gz",
-  "download_time": "2026-03-14T07:02:32.325592",
+  "download_filename": "django_sysconfig-0.1.0.tar.gz",
+  "download_time": "2026-03-15T09:32:12.770704",
   "package_url": "https://pypi.org/project/django-sysconfig/"
 }

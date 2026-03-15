@@ -1,0 +1,11 @@
+{
+  "name": "lmms_eval",
+  "version": "0.7.1",
+  "summary": "A framework for evaluating large multi-modality language models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lmms_eval-0.7.1.tar.gz",
+  "download_time": "2026-03-15T09:32:34.089305",
+  "package_url": "https://pypi.org/project/lmms_eval/"
+}

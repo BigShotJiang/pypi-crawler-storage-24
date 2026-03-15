@@ -1,11 +1,11 @@
 {
   "name": "stacksats",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "summary": "Bitcoin DCA model development and backtesting toolkit",
   "author": "StackSats Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "stacksats-0.7.1.tar.gz",
-  "download_time": "2026-03-08T10:20:07.292595",
+  "download_filename": "stacksats-0.7.3.tar.gz",
+  "download_time": "2026-03-15T09:32:07.475919",
   "package_url": "https://pypi.org/project/stacksats/"
 }

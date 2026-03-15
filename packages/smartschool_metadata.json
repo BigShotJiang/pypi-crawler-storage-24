@@ -1,0 +1,11 @@
+{
+  "name": "smartschool",
+  "version": "0.8.0",
+  "summary": "Unofficial API interface to the smartschool system.",
+  "author": "Steven Van Ingelgem",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "smartschool-0.8.0.tar.gz",
+  "download_time": "2026-03-15T09:32:33.040969",
+  "package_url": "https://pypi.org/project/smartschool/"
+}

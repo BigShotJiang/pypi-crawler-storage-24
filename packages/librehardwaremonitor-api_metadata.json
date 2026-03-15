@@ -1,0 +1,11 @@
+{
+  "name": "librehardwaremonitor-api",
+  "version": "1.11.0",
+  "summary": "A Python API client for LibreHardwareMonitor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "librehardwaremonitor_api-1.11.0.tar.gz",
+  "download_time": "2026-03-15T09:32:09.128444",
+  "package_url": "https://pypi.org/project/librehardwaremonitor-api/"
+}

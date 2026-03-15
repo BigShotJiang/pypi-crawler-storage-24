@@ -1,0 +1,11 @@
+{
+  "name": "pcmake",
+  "version": "0.1.0",
+  "summary": "A lightweight cross-platform C/C++ build system written in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pcmake-0.1.0.tar.gz",
+  "download_time": "2026-03-15T09:31:59.544168",
+  "package_url": "https://pypi.org/project/pcmake/"
+}

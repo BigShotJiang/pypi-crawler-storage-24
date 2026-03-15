@@ -1,11 +1,11 @@
 {
   "name": "akshare-cli",
-  "version": "0.2.1",
+  "version": "0.2.5",
   "summary": "CLI harness for the AKShare financial data library",
   "author": "cli-anything",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "akshare_cli-0.2.1.tar.gz",
-  "download_time": "2026-03-15T08:07:26.628684",
+  "download_filename": "akshare_cli-0.2.5.tar.gz",
+  "download_time": "2026-03-15T09:31:54.789632",
   "package_url": "https://pypi.org/project/akshare-cli/"
 }

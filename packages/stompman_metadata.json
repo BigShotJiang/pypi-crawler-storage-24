@@ -1,0 +1,11 @@
+{
+  "name": "stompman",
+  "version": "3.10.0",
+  "summary": "Python STOMP client with pleasant API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stompman-3.10.0.tar.gz",
+  "download_time": "2026-03-15T09:32:04.331287",
+  "package_url": "https://pypi.org/project/stompman/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyGAEB",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "summary": "Python parser for GAEB DA XML construction data exchange files, with LLM-powered item classification",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pygaeb-1.5.0.tar.gz",
-  "download_time": "2026-03-15T08:58:15.026240",
+  "download_filename": "pygaeb-1.7.0.tar.gz",
+  "download_time": "2026-03-15T09:32:41.545820",
   "package_url": "https://pypi.org/project/pyGAEB/"
 }
