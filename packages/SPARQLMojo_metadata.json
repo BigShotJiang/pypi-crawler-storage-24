@@ -1,11 +1,11 @@
 {
   "name": "SPARQLMojo",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "summary": "An SQLAlchemy-like ORM for SPARQL endpoints.",
   "author": "Oliver Sampson",
   "license": null,
   "home_page": null,
-  "download_filename": "sparqlmojo-0.14.1.tar.gz",
-  "download_time": "2026-03-15T08:07:22.538212",
+  "download_filename": "sparqlmojo-0.14.2.tar.gz",
+  "download_time": "2026-03-15T11:05:10.890120",
   "package_url": "https://pypi.org/project/SPARQLMojo/"
 }

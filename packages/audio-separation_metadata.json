@@ -1,0 +1,11 @@
+{
+  "name": "audio-separation",
+  "version": "0.1.4",
+  "summary": "Local vocal removal",
+  "author": "Felipe Infantino",
+  "license": null,
+  "home_page": null,
+  "download_filename": "audio_separation-0.1.4.tar.gz",
+  "download_time": "2026-03-15T11:05:48.196192",
+  "package_url": "https://pypi.org/project/audio-separation/"
+}

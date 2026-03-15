@@ -1,11 +1,11 @@
 {
   "name": "dsxllm",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "动手学大语言模型依赖库",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dsxllm-0.1.1.tar.gz",
-  "download_time": "2026-03-13T07:57:51.209553",
+  "download_filename": "dsxllm-0.1.4.tar.gz",
+  "download_time": "2026-03-15T11:05:35.352242",
   "package_url": "https://pypi.org/project/dsxllm/"
 }

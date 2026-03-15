@@ -1,0 +1,11 @@
+{
+  "name": "ssblast",
+  "version": "0.1.1",
+  "summary": "FP8 per-tile scaled linear solver for consumer NVIDIA GPUs",
+  "author": "SHARVESWAR MADASAMY",
+  "license": null,
+  "home_page": "https://github.com/Sharveswar007/SSBLAST",
+  "download_filename": "ssblast-0.1.1.tar.gz",
+  "download_time": "2026-03-15T11:05:09.716001",
+  "package_url": "https://pypi.org/project/ssblast/"
+}

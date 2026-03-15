@@ -1,11 +1,11 @@
 {
   "name": "flowgraph-ai",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "summary": "YAML-driven AI workflow engine powered by LangGraph — build conversational multi-step AI apps without boilerplate",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flowgraph_ai-0.3.6.tar.gz",
-  "download_time": "2026-03-15T06:53:00.022048",
+  "download_filename": "flowgraph_ai-0.3.8.tar.gz",
+  "download_time": "2026-03-15T11:05:41.739815",
   "package_url": "https://pypi.org/project/flowgraph-ai/"
 }

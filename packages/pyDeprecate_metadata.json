@@ -1,0 +1,11 @@
+{
+  "name": "pyDeprecate",
+  "version": "0.6.0.post0",
+  "summary": "Deprecation tooling",
+  "author": "Jiri Borovec",
+  "license": "Apache-2.0",
+  "home_page": "https://borda.github.io/pyDeprecate",
+  "download_filename": "pydeprecate-0.6.0.post0.tar.gz",
+  "download_time": "2026-03-15T11:05:18.806350",
+  "package_url": "https://pypi.org/project/pyDeprecate/"
+}

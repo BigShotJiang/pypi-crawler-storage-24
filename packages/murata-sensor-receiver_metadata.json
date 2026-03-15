@@ -1,0 +1,11 @@
+{
+  "name": "murata-sensor-receiver",
+  "version": "0.0.1",
+  "summary": "A Python library for receiving and processing data from Murata wireless sensor units",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "murata_sensor_receiver-0.0.1.tar.gz",
+  "download_time": "2026-03-15T11:05:32.133938",
+  "package_url": "https://pypi.org/project/murata-sensor-receiver/"
+}
