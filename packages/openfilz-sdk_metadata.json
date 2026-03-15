@@ -1,11 +1,11 @@
 {
   "name": "openfilz-sdk",
-  "version": "1.1.13",
+  "version": "1.1.16",
   "summary": "openfilz-api",
   "author": "OpenAPI Generator community",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "openfilz_sdk-1.1.13.tar.gz",
-  "download_time": "2026-03-15T01:55:51.185737",
+  "download_filename": "openfilz_sdk-1.1.16.tar.gz",
+  "download_time": "2026-03-15T17:26:59.525062",
   "package_url": "https://pypi.org/project/openfilz-sdk/"
 }

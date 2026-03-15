@@ -1,0 +1,11 @@
+{
+  "name": "redis-s3-cache",
+  "version": "1.0.0",
+  "summary": "Decorator-based caching with Redis metadata and S3 storage",
+  "author": "Pravin Suthar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "redis_s3_cache-1.0.0.tar.gz",
+  "download_time": "2026-03-15T17:26:20.320377",
+  "package_url": "https://pypi.org/project/redis-s3-cache/"
+}

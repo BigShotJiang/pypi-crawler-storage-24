@@ -1,0 +1,11 @@
+{
+  "name": "HdRezkaApi",
+  "version": "11.2.0",
+  "summary": "HDRezka Python API",
+  "author": "Super_Zombi",
+  "license": null,
+  "home_page": "https://github.com/SuperZombi/HdRezkaApi",
+  "download_filename": "hdrezkaapi-11.2.0.tar.gz",
+  "download_time": "2026-03-15T17:26:48.580234",
+  "package_url": "https://pypi.org/project/HdRezkaApi/"
+}

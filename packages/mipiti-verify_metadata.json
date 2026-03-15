@@ -1,11 +1,11 @@
 {
   "name": "mipiti-verify",
-  "version": "0.3.5",
+  "version": "0.4.0",
   "summary": "Turnkey CI verification for Mipiti threat model assertions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mipiti_verify-0.3.5.tar.gz",
-  "download_time": "2026-03-15T15:54:11.874821",
+  "download_filename": "mipiti_verify-0.4.0.tar.gz",
+  "download_time": "2026-03-15T17:26:22.065536",
   "package_url": "https://pypi.org/project/mipiti-verify/"
 }

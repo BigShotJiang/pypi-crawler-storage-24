@@ -1,11 +1,11 @@
 {
   "name": "arh-oc",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "auto research harness based on opencode server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arh_oc-0.1.0.tar.gz",
-  "download_time": "2026-03-15T16:58:50.506329",
+  "download_filename": "arh_oc-0.1.2.tar.gz",
+  "download_time": "2026-03-15T17:26:40.061455",
   "package_url": "https://pypi.org/project/arh-oc/"
 }

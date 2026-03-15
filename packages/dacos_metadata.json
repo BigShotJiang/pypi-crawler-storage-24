@@ -1,0 +1,11 @@
+{
+  "name": "dacos",
+  "version": "0.1.1",
+  "summary": "Deterministic Data Orchestrator for Quantitative Trading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dacos-0.1.1.tar.gz",
+  "download_time": "2026-03-15T17:26:47.444936",
+  "package_url": "https://pypi.org/project/dacos/"
+}

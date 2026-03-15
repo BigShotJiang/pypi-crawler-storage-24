@@ -1,0 +1,11 @@
+{
+  "name": "snipes-game",
+  "version": "0.2.0",
+  "summary": "A recreation of the classic 1983 Novell NetWare game Snipes",
+  "author": "Jerry Westrick",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snipes_game-0.2.0.tar.gz",
+  "download_time": "2026-03-15T17:26:36.617928",
+  "package_url": "https://pypi.org/project/snipes-game/"
+}

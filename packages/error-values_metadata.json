@@ -1,11 +1,11 @@
 {
   "name": "error-values",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "error_values-0.1.1.tar.gz",
-  "download_time": "2026-03-14T19:58:52.336869",
+  "download_filename": "error_values-0.1.5.tar.gz",
+  "download_time": "2026-03-15T17:26:42.904539",
   "package_url": "https://pypi.org/project/error-values/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "klynx",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "A sophisticated, universal agentic AI coding framework built on LangGraph and LiteLLM.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "klynx-0.0.18.tar.gz",
-  "download_time": "2026-03-11T17:36:24.492005",
+  "download_filename": "klynx-0.0.19.tar.gz",
+  "download_time": "2026-03-15T17:26:34.908179",
   "package_url": "https://pypi.org/project/klynx/"
 }

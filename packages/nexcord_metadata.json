@@ -1,0 +1,11 @@
+{
+  "name": "nexcord",
+  "version": "1.4.1",
+  "summary": "Python library for the Nexcord API",
+  "author": "Ukys Dev",
+  "license": null,
+  "home_page": "https://git.radionet.app/Jarvis/nexcord.py",
+  "download_filename": "nexcord-1.4.1.tar.gz",
+  "download_time": "2026-03-15T17:26:22.635939",
+  "package_url": "https://pypi.org/project/nexcord/"
+}
