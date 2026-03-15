@@ -1,11 +1,11 @@
 {
   "name": "lmxlab",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Research platform for language model experimentation on Apple Silicon",
   "author": "Michael Ellis",
   "license": null,
   "home_page": null,
-  "download_filename": "lmxlab-0.2.0.tar.gz",
-  "download_time": "2026-03-14T19:43:11.015875",
+  "download_filename": "lmxlab-0.3.1.tar.gz",
+  "download_time": "2026-03-15T19:20:15.894146",
   "package_url": "https://pypi.org/project/lmxlab/"
 }

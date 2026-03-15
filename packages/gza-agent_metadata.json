@@ -1,0 +1,11 @@
+{
+  "name": "gza-agent",
+  "version": "0.4.0",
+  "summary": "A coding AI agent runner for Claude Code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gza_agent-0.4.0.tar.gz",
+  "download_time": "2026-03-15T19:19:55.552070",
+  "package_url": "https://pypi.org/project/gza-agent/"
+}

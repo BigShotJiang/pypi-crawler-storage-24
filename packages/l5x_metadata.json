@@ -1,0 +1,11 @@
+{
+  "name": "l5x",
+  "version": "1.7",
+  "summary": "RSLogix .L5X interface.",
+  "author": "Jason Valenzuela",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/jvalenzuela/l5x",
+  "download_filename": "l5x-1.7-py2.py3-none-any.whl",
+  "download_time": "2026-03-15T19:20:13.958238",
+  "package_url": "https://pypi.org/project/l5x/"
+}

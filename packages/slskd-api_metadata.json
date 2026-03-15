@@ -1,0 +1,11 @@
+{
+  "name": "slskd-api",
+  "version": "0.2.2",
+  "summary": "API Wrapper to interact with slskd",
+  "author": "bigoulours",
+  "license": "GNU Affero General Public License v3.0",
+  "home_page": null,
+  "download_filename": "slskd_api-0.2.2.tar.gz",
+  "download_time": "2026-03-15T19:20:03.779107",
+  "package_url": "https://pypi.org/project/slskd-api/"
+}

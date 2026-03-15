@@ -1,0 +1,11 @@
+{
+  "name": "lsb-tool",
+  "version": "2.1.0",
+  "summary": "Embed and extract files hidden inside PNG images using N-bit LSB steganography.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsb_tool-2.1.0.tar.gz",
+  "download_time": "2026-03-15T19:19:24.111851",
+  "package_url": "https://pypi.org/project/lsb-tool/"
+}

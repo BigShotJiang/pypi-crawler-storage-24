@@ -1,0 +1,11 @@
+{
+  "name": "borgbackup",
+  "version": "1.4.3",
+  "summary": "Deduplicated, encrypted, authenticated and compressed backups",
+  "author": "The Borg Collective (see AUTHORS file)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "borgbackup-1.4.3.tar.gz",
+  "download_time": "2026-03-15T19:20:13.313549",
+  "package_url": "https://pypi.org/project/borgbackup/"
+}

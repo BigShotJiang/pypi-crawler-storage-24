@@ -1,0 +1,11 @@
+{
+  "name": "joblib-typed-cache",
+  "version": "0.1.0",
+  "summary": "Typed version of joblib's cache to support pydantic validation and type checking",
+  "author": "Sören Zapp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "joblib_typed_cache-0.1.0.tar.gz",
+  "download_time": "2026-03-15T19:19:35.935666",
+  "package_url": "https://pypi.org/project/joblib-typed-cache/"
+}

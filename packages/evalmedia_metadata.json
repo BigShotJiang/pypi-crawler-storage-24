@@ -1,0 +1,11 @@
+{
+  "name": "evalmedia",
+  "version": "0.1.1",
+  "summary": "Open-source framework for evaluating AI-generated media quality",
+  "author": "evalmedia contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "evalmedia-0.1.1.tar.gz",
+  "download_time": "2026-03-15T19:19:41.899182",
+  "package_url": "https://pypi.org/project/evalmedia/"
+}

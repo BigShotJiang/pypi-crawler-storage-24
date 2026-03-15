@@ -1,11 +1,11 @@
 {
   "name": "agentconnex",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Official Python SDK for AgentConnex — The Professional Network for AI Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentconnex-1.0.0.tar.gz",
-  "download_time": "2026-03-12T18:37:01.583690",
+  "download_filename": "agentconnex-1.1.0.tar.gz",
+  "download_time": "2026-03-15T19:19:36.576343",
   "package_url": "https://pypi.org/project/agentconnex/"
 }

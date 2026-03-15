@@ -1,0 +1,11 @@
+{
+  "name": "charset-normalizer",
+  "version": "3.4.6",
+  "summary": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "charset_normalizer-3.4.6.tar.gz",
+  "download_time": "2026-03-15T19:20:00.439468",
+  "package_url": "https://pypi.org/project/charset-normalizer/"
+}

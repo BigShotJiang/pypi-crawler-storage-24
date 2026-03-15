@@ -1,11 +1,11 @@
 {
   "name": "chattool",
-  "version": "5.4.0",
+  "version": "6.1.0",
   "summary": "Toolkit for Chat API",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "chattool-5.4.0.tar.gz",
-  "download_time": "2026-03-11T21:49:40.009485",
+  "download_filename": "chattool-6.1.0.tar.gz",
+  "download_time": "2026-03-15T19:19:42.543224",
   "package_url": "https://pypi.org/project/chattool/"
 }

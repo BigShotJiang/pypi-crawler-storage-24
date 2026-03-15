@@ -1,0 +1,11 @@
+{
+  "name": "pushovernet",
+  "version": "0.1.1",
+  "summary": "Python client for the Pushover.net notification API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pushovernet-0.1.1.tar.gz",
+  "download_time": "2026-03-15T19:19:25.393266",
+  "package_url": "https://pypi.org/project/pushovernet/"
+}

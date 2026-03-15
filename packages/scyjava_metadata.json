@@ -1,0 +1,11 @@
+{
+  "name": "scyjava",
+  "version": "1.12.4",
+  "summary": "Supercharged Java access from Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scyjava-1.12.4.tar.gz",
+  "download_time": "2026-03-15T19:19:50.489400",
+  "package_url": "https://pypi.org/project/scyjava/"
+}

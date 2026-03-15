@@ -1,0 +1,11 @@
+{
+  "name": "tinytag",
+  "version": "2.2.1",
+  "summary": "Read audio file metadata",
+  "author": "Tom Wallroth, Mat (mathiascode)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinytag-2.2.1.tar.gz",
+  "download_time": "2026-03-15T19:20:12.065639",
+  "package_url": "https://pypi.org/project/tinytag/"
+}

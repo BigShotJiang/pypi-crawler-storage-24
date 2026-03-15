@@ -1,0 +1,11 @@
+{
+  "name": "sqlmodel-ext",
+  "version": "0.2.1",
+  "summary": "Extended SQLModel infrastructure: smart metaclass, async CRUD mixins, polymorphic inheritance, optimistic locking, relation preloading, and reusable field types.",
+  "author": "Foxerine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlmodel_ext-0.2.1.tar.gz",
+  "download_time": "2026-03-15T19:19:45.831553",
+  "package_url": "https://pypi.org/project/sqlmodel-ext/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "shipmail",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Official Python SDK for the ShipMail API",
   "author": "ShipMail",
   "license": null,
   "home_page": null,
-  "download_filename": "shipmail-0.1.2.tar.gz",
-  "download_time": "2026-03-14T22:23:39.109755",
+  "download_filename": "shipmail-0.1.3.tar.gz",
+  "download_time": "2026-03-15T19:19:31.312542",
   "package_url": "https://pypi.org/project/shipmail/"
 }

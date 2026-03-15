@@ -1,0 +1,11 @@
+{
+  "name": "SNOBOL4python",
+  "version": "0.5.2",
+  "summary": "SNOBOL4 string pattern matching for Python — dual-backend (pure-Python and C/SPIPAT).",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "snobol4python-0.5.2.tar.gz",
+  "download_time": "2026-03-15T19:20:12.705678",
+  "package_url": "https://pypi.org/project/SNOBOL4python/"
+}

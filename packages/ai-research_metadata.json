@@ -1,11 +1,11 @@
 {
   "name": "ai-research",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "summary": "Python SDK for the AIR Backend API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_research-0.1.24.tar.gz",
-  "download_time": "2026-03-15T17:57:10.131165",
+  "download_filename": "ai_research-0.1.25.tar.gz",
+  "download_time": "2026-03-15T19:19:52.372435",
   "package_url": "https://pypi.org/project/ai-research/"
 }
