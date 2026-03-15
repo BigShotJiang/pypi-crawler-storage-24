@@ -1,11 +1,11 @@
 {
   "name": "cloverlabs-camoufox",
-  "version": "0.5.4",
-  "summary": "Wrapper around Playwright to help launch Camoufox",
-  "author": "Clover",
+  "version": "0.5.5",
+  "summary": "Experimental version of the wrapper around Playwright to help launch Camoufox",
+  "author": "Cloverlabs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloverlabs_camoufox-0.5.4.tar.gz",
-  "download_time": "2026-03-14T20:25:18.037144",
+  "download_filename": "cloverlabs_camoufox-0.5.5.tar.gz",
+  "download_time": "2026-03-15T12:49:33.664123",
   "package_url": "https://pypi.org/project/cloverlabs-camoufox/"
 }

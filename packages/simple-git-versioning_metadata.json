@@ -1,11 +1,11 @@
 {
   "name": "simple-git-versioning",
-  "version": "0.3.25",
+  "version": "0.3.26",
   "summary": "Thinly scoped and opinionated tool that computes a version number from git tags and trailers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simple_git_versioning-0.3.25.tar.gz",
-  "download_time": "2026-03-12T23:02:25.380243",
+  "download_filename": "simple_git_versioning-0.3.26.tar.gz",
+  "download_time": "2026-03-15T12:49:37.064244",
   "package_url": "https://pypi.org/project/simple-git-versioning/"
 }

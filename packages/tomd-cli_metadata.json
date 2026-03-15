@@ -1,11 +1,11 @@
 {
   "name": "tomd-cli",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Convert Office files (.docx, .pptx, .xlsx, .pdf) to Markdown using MarkItDown",
   "author": "Kohki Nakamura",
   "license": null,
   "home_page": null,
-  "download_filename": "tomd_cli-0.1.2.tar.gz",
-  "download_time": "2026-03-15T08:58:13.910630",
+  "download_filename": "tomd_cli-0.1.4.tar.gz",
+  "download_time": "2026-03-15T12:49:28.238543",
   "package_url": "https://pypi.org/project/tomd-cli/"
 }

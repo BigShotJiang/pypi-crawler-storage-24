@@ -1,0 +1,11 @@
+{
+  "name": "pioton",
+  "version": "0.3.10",
+  "summary": "píotón language is a superset of Python allowing it to be written in Irish. Not for use in any important work",
+  "author": "Luke Roantree",
+  "license": "GPL",
+  "home_page": "https://github.com/LukeRoantree4815162342/pioton",
+  "download_filename": "pioton-0.3.10.tar.gz",
+  "download_time": "2026-03-15T12:49:40.913769",
+  "package_url": "https://pypi.org/project/pioton/"
+}

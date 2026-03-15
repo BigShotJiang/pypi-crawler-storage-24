@@ -1,0 +1,11 @@
+{
+  "name": "wcpan-drive-synology",
+  "version": "1.0.0",
+  "summary": "Synology Drive Web API integration for wcpan.drive",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wcpan_drive_synology-1.0.0.tar.gz",
+  "download_time": "2026-03-15T12:49:49.301698",
+  "package_url": "https://pypi.org/project/wcpan-drive-synology/"
+}
