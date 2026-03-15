@@ -1,0 +1,11 @@
+{
+  "name": "python-copybook",
+  "version": "0.1.0",
+  "summary": "A parser for fixed-format 80-column COBOL copybooks.",
+  "author": "soho",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_copybook-0.1.0.tar.gz",
+  "download_time": "2026-03-15T01:55:50.144070",
+  "package_url": "https://pypi.org/project/python-copybook/"
+}

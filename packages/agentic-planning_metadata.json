@@ -1,0 +1,11 @@
+{
+  "name": "agentic-planning",
+  "version": "0.1.0",
+  "summary": "Planning infrastructure for AI agents",
+  "author": "Agentra Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_planning-0.1.0.tar.gz",
+  "download_time": "2026-03-15T01:56:09.795880",
+  "package_url": "https://pypi.org/project/agentic-planning/"
+}

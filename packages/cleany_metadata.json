@@ -1,11 +1,11 @@
 {
   "name": "cleany",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "A CLI tool to clean up your Python comments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cleany-0.2.2.tar.gz",
-  "download_time": "2026-03-14T23:51:53.671860",
+  "download_filename": "cleany-0.2.5.tar.gz",
+  "download_time": "2026-03-15T01:55:44.296899",
   "package_url": "https://pypi.org/project/cleany/"
 }

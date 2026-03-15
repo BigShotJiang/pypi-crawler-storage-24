@@ -1,0 +1,11 @@
+{
+  "name": "yt-metrics-cli",
+  "version": "0.2.0",
+  "summary": "CLI for YouTube channel analysis and transcript downloading",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_metrics_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-15T01:55:54.861052",
+  "package_url": "https://pypi.org/project/yt-metrics-cli/"
+}

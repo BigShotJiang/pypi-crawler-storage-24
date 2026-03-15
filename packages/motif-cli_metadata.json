@@ -1,11 +1,11 @@
 {
   "name": "motif-cli",
-  "version": "0.5.1",
+  "version": "0.7.1",
   "summary": "Real-time dashboard and assessment report for your AI coding sessions. Understand your AI engineering skills and personality.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "motif_cli-0.5.1.tar.gz",
-  "download_time": "2026-03-14T22:23:16.217751",
+  "download_filename": "motif_cli-0.7.1.tar.gz",
+  "download_time": "2026-03-15T01:55:37.372671",
   "package_url": "https://pypi.org/project/motif-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "richfile",
-  "version": "0.5.5",
+  "version": "0.6.2",
   "summary": "A library for reading and writing hierarchical data files",
   "author": "Richard Hakim",
   "license": "LICENSE",
   "home_page": "https://github.com/RichieHakim/richfile",
-  "download_filename": "richfile-0.5.5.tar.gz",
-  "download_time": "2026-03-14T23:24:35.369557",
+  "download_filename": "richfile-0.6.2.tar.gz",
+  "download_time": "2026-03-15T01:55:48.033342",
   "package_url": "https://pypi.org/project/richfile/"
 }

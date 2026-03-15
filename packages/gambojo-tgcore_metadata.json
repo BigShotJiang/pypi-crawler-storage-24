@@ -1,0 +1,11 @@
+{
+  "name": "gambojo-tgcore",
+  "version": "1.0.0",
+  "summary": "Core library for Telegram bots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gambojo_tgcore-1.0.0.tar.gz",
+  "download_time": "2026-03-15T01:55:41.585013",
+  "package_url": "https://pypi.org/project/gambojo-tgcore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tomlplus",
+  "version": "1.0.3",
+  "summary": "TOML+ — an extended configuration format with dictionaries, annotations, and variables",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tomlplus-1.0.3.tar.gz",
+  "download_time": "2026-03-15T01:55:34.610667",
+  "package_url": "https://pypi.org/project/tomlplus/"
+}
