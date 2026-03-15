@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.21.0",
-  "summary": "v0.21.0: StreamGuardResult.skip_rewrite fast-path flag (59% chains skip QueryRewriter, save 400-800ms). AgentGuard.score_chain_guarded() latency-optimized scoring. Cross-domain few-shot calibration (exp_crossdomain_fewshot). v0.20.5: RAG agent P(True) 0.711 [0.633,0.783] on MuSiQue n=199.",
+  "version": "0.23.0",
+  "summary": "v0.23.0: MiniJudge v2 AUROC 0.816 (14 features, +0.014 vs v1). Non-ReAct validation: SC_OLD transfers to function-calling (AUROC 0.714). Code domain P(True) AUROC 0.833. Math domain out-of-scope (AUROC 0.50). Scope limitations documented.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.21.0.tar.gz",
-  "download_time": "2026-03-15T15:27:53.605998",
+  "download_filename": "llm_guard_kit-0.23.0.tar.gz",
+  "download_time": "2026-03-15T18:33:31.989196",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }
