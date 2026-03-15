@@ -1,11 +1,11 @@
 {
   "name": "diskinfo",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "Disk information Python library for Linux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diskinfo-4.0.0.tar.gz",
-  "download_time": "2026-03-15T20:56:09.575595",
+  "download_filename": "diskinfo-4.0.1.tar.gz",
+  "download_time": "2026-03-15T23:28:00.317365",
   "package_url": "https://pypi.org/project/diskinfo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pluca",
+  "version": "0.8.0",
+  "summary": "Python caching library with file cache, SQLite cache, memory cache, and pluggable backends.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pluca-0.8.0.tar.gz",
+  "download_time": "2026-03-15T23:27:42.728051",
+  "package_url": "https://pypi.org/project/pluca/"
+}

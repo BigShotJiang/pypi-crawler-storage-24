@@ -1,11 +1,11 @@
 {
   "name": "c-bpe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "High-performance C implementation of BPE tokenizer",
   "author": "andrey-savov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "c_bpe-1.0.2-cp39-cp39-macosx_10_9_x86_64.whl",
-  "download_time": "2026-03-15T22:57:12.062458",
+  "download_filename": "c_bpe-1.0.3-cp39-cp39-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-15T23:28:07.576788",
   "package_url": "https://pypi.org/project/c-bpe/"
 }

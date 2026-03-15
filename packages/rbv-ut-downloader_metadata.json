@@ -1,0 +1,11 @@
+{
+  "name": "rbv-ut-downloader",
+  "version": "0.1.3.4",
+  "summary": "A simple Python-based tool to automate module downloads from Universitas Terbuka's Virtual Reading Room (RBV).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rbv_ut_downloader-0.1.3.4.tar.gz",
+  "download_time": "2026-03-15T23:27:58.345289",
+  "package_url": "https://pypi.org/project/rbv-ut-downloader/"
+}

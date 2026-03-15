@@ -1,0 +1,11 @@
+{
+  "name": "aws-expect",
+  "version": "0.3.1",
+  "summary": "Declarative expect/wait syntax for AWS services (S3, DynamoDB, and more)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_expect-0.3.1.tar.gz",
+  "download_time": "2026-03-15T23:28:08.220578",
+  "package_url": "https://pypi.org/project/aws-expect/"
+}

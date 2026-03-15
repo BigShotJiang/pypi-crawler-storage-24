@@ -1,0 +1,11 @@
+{
+  "name": "rclaw",
+  "version": "0.1.4",
+  "summary": "RClaw — automated research experiment orchestrator.",
+  "author": "jellyheadandrew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rclaw-0.1.4.tar.gz",
+  "download_time": "2026-03-15T23:27:38.857452",
+  "package_url": "https://pypi.org/project/rclaw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "semitone",
+  "version": "0.4.0",
+  "summary": "Geometric representations of tones and chords",
+  "author": "Brett Deaton",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "semitone-0.4.0.tar.gz",
+  "download_time": "2026-03-15T23:27:55.590857",
+  "package_url": "https://pypi.org/project/semitone/"
+}

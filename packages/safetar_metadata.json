@@ -1,11 +1,11 @@
 {
   "name": "safetar",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Hardened TAR extraction for Python - secure by default.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "safetar-0.1.1.tar.gz",
-  "download_time": "2026-03-15T01:56:00.714527",
+  "download_filename": "safetar-0.1.2.tar.gz",
+  "download_time": "2026-03-15T23:27:24.043973",
   "package_url": "https://pypi.org/project/safetar/"
 }

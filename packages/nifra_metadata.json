@@ -1,0 +1,11 @@
+{
+  "name": "nifra",
+  "version": "0.2.0",
+  "summary": "AI Application Security Autopilot — Exploit simulation, attack surface mapping & pipeline protection for LLM apps and AI agents",
+  "author": "NIfra Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nifra-0.2.0.tar.gz",
+  "download_time": "2026-03-15T23:27:34.560078",
+  "package_url": "https://pypi.org/project/nifra/"
+}

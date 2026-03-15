@@ -1,0 +1,11 @@
+{
+  "name": "medguard-llm",
+  "version": "0.1.0",
+  "summary": "Healthcare-specific LLM guardrails middleware for clinical safety",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "medguard_llm-0.1.0.tar.gz",
+  "download_time": "2026-03-15T23:27:25.475859",
+  "package_url": "https://pypi.org/project/medguard-llm/"
+}

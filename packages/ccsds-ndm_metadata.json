@@ -1,11 +1,11 @@
 {
   "name": "ccsds-ndm",
-  "version": "3.1",
+  "version": "3.1.1",
   "summary": "Read and write utility for CCSDS 'Navigation Data Messages.",
   "author": "Egemen Imre",
   "license": null,
   "home_page": null,
-  "download_filename": "ccsds_ndm-3.1.tar.gz",
-  "download_time": "2026-03-15T22:25:40.497522",
+  "download_filename": "ccsds_ndm-3.1.1.tar.gz",
+  "download_time": "2026-03-15T23:27:01.640158",
   "package_url": "https://pypi.org/project/ccsds-ndm/"
 }

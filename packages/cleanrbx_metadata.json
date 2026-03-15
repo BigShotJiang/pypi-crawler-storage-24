@@ -1,0 +1,11 @@
+{
+  "name": "cleanrbx",
+  "version": "1.2",
+  "summary": "Delete files from a Rekordbox folder not present in exported Rekordbox XML.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cleanrbx-1.2.tar.gz",
+  "download_time": "2026-03-15T23:27:35.207661",
+  "package_url": "https://pypi.org/project/cleanrbx/"
+}

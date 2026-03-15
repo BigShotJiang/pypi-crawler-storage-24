@@ -1,11 +1,11 @@
 {
   "name": "soul-agent",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Persistent identity and memory for any LLM agent — markdown-native, provider-agnostic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "soul_agent-0.1.8.tar.gz",
-  "download_time": "2026-03-15T17:57:12.782343",
+  "download_filename": "soul_agent-0.1.9.tar.gz",
+  "download_time": "2026-03-15T23:27:32.617722",
   "package_url": "https://pypi.org/project/soul-agent/"
 }

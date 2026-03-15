@@ -1,0 +1,11 @@
+{
+  "name": "flet-mcp",
+  "version": "0.1.0",
+  "summary": "Flet MCP server for LLM agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flet_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-15T23:27:02.497199",
+  "package_url": "https://pypi.org/project/flet-mcp/"
+}

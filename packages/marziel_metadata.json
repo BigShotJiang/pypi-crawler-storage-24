@@ -1,11 +1,11 @@
 {
   "name": "marziel",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "summary": "Private AI with real-time maritime intelligence — runs entirely on your hardware",
   "author": "Marziel AI Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "marziel-0.5.8.tar.gz",
-  "download_time": "2026-03-15T22:56:47.685167",
+  "download_filename": "marziel-0.5.9.tar.gz",
+  "download_time": "2026-03-15T23:27:28.081148",
   "package_url": "https://pypi.org/project/marziel/"
 }

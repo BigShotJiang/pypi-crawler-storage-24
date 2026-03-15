@@ -1,0 +1,11 @@
+{
+  "name": "litepolis-database-default",
+  "version": "0.1.1",
+  "summary": "The default database module for LitePolis that compatible with Polis",
+  "author": "NewJerseyStyle",
+  "license": "file: LICENSE",
+  "home_page": null,
+  "download_filename": "litepolis_database_default-0.1.1.tar.gz",
+  "download_time": "2026-03-15T23:27:50.590308",
+  "package_url": "https://pypi.org/project/litepolis-database-default/"
+}

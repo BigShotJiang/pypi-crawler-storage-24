@@ -1,0 +1,11 @@
+{
+  "name": "capyt",
+  "version": "1.2",
+  "summary": "A python3 CLI utility to interface with cpy.pt",
+  "author": "Laura Batalha",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "capyt-1.2.tar.gz",
+  "download_time": "2026-03-15T23:27:14.770026",
+  "package_url": "https://pypi.org/project/capyt/"
+}

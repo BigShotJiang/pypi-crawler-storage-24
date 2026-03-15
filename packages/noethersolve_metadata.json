@@ -1,11 +1,11 @@
 {
   "name": "noethersolve",
-  "version": "0.8.0",
-  "summary": "Automated scientific discovery: use LLM knowledge gaps as a compass to find underexplored science.",
+  "version": "1.1.0",
+  "summary": "46 verified tools for AI agents — physics, math, genetics, pharmacogenomics, LLM science, biochemistry, organic chemistry, quantum mechanics, networking, OS, crypto, finance. 30 calculators + 16 lookup tables. pip install, add to Claude, instant smarter agent.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "noethersolve-0.8.0.tar.gz",
-  "download_time": "2026-03-15T15:54:09.952736",
+  "download_filename": "noethersolve-1.1.0.tar.gz",
+  "download_time": "2026-03-15T23:27:16.716951",
   "package_url": "https://pypi.org/project/noethersolve/"
 }

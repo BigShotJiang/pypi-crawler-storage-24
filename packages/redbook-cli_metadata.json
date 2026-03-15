@@ -1,0 +1,11 @@
+{
+  "name": "redbook-cli",
+  "version": "0.2.0",
+  "summary": "小红书命令行工具 — 搜索、发布、互动、数据分析、短索引导航",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redbook_cli-0.2.0-py3-none-any.whl",
+  "download_time": "2026-03-15T23:27:28.731616",
+  "package_url": "https://pypi.org/project/redbook-cli/"
+}
