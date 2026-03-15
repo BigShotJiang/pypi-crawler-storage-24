@@ -1,11 +1,11 @@
 {
   "name": "crowdsentinel-mcp-server",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch with 79 tools, 6,060 detection rules, and baseline behaviour analysis",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "crowdsentinel_mcp_server-0.5.2.tar.gz",
-  "download_time": "2026-03-15T19:19:34.651552",
+  "download_filename": "crowdsentinel_mcp_server-0.5.3.tar.gz",
+  "download_time": "2026-03-15T19:52:28.130959",
   "package_url": "https://pypi.org/project/crowdsentinel-mcp-server/"
 }

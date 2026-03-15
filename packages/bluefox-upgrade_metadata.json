@@ -1,0 +1,11 @@
+{
+  "name": "bluefox-upgrade",
+  "version": "0.1.4",
+  "summary": "Upgrade engine for BFF app scaffolding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bluefox_upgrade-0.1.4.tar.gz",
+  "download_time": "2026-03-15T19:51:48.592849",
+  "package_url": "https://pypi.org/project/bluefox-upgrade/"
+}

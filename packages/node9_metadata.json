@@ -1,0 +1,11 @@
+{
+  "name": "node9",
+  "version": "1.0.3",
+  "summary": "Execution security for Python AI agents — seatbelt for LangChain, CrewAI, and plain Python.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "node9-1.0.3.tar.gz",
+  "download_time": "2026-03-15T19:51:42.650089",
+  "package_url": "https://pypi.org/project/node9/"
+}

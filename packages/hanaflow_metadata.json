@@ -1,0 +1,11 @@
+{
+  "name": "hanaflow",
+  "version": "0.1.2",
+  "summary": "Upload datasets to SAP HANA, auto-generate REST APIs and query with LLM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanaflow-0.1.2.tar.gz",
+  "download_time": "2026-03-15T19:51:58.315479",
+  "package_url": "https://pypi.org/project/hanaflow/"
+}

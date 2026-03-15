@@ -1,11 +1,11 @@
 {
   "name": "ion-nn",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A minimal neural network library for JAX.",
   "author": "Alex Goddard",
   "license": null,
   "home_page": null,
-  "download_filename": "ion_nn-0.2.6.tar.gz",
-  "download_time": "2026-03-15T11:05:14.759405",
+  "download_filename": "ion_nn-0.2.7.tar.gz",
+  "download_time": "2026-03-15T19:51:52.357185",
   "package_url": "https://pypi.org/project/ion-nn/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "codefleet",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "Orchestrate fleets of AI coding agents (Codex, Gemini, Claude) with multi-stage workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codefleet-0.3.5.tar.gz",
-  "download_time": "2026-03-15T19:19:58.710655",
+  "download_filename": "codefleet-0.3.7.tar.gz",
+  "download_time": "2026-03-15T19:51:43.774846",
   "package_url": "https://pypi.org/project/codefleet/"
 }

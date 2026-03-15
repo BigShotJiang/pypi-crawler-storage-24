@@ -1,11 +1,11 @@
 {
   "name": "helmlab",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "A data-driven analytical color space trained on 64,000 human color-difference observations",
   "author": "Görkem Yıldız",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "helmlab-0.7.0.tar.gz",
-  "download_time": "2026-03-15T07:44:02.686093",
+  "download_filename": "helmlab-0.8.0.tar.gz",
+  "download_time": "2026-03-15T19:51:58.848820",
   "package_url": "https://pypi.org/project/helmlab/"
 }

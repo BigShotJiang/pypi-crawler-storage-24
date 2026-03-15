@@ -1,11 +1,11 @@
 {
   "name": "ponychart-classifier",
-  "version": "0.3.4",
+  "version": "0.3.7",
   "summary": "Multi-label image classifier for PonyChart character identification.",
   "author": "Kuan-Lun Wang",
   "license": "GNU Affero General Public License v3",
   "home_page": null,
-  "download_filename": "ponychart_classifier-0.3.4.tar.gz",
-  "download_time": "2026-03-15T19:19:30.027754",
+  "download_filename": "ponychart_classifier-0.3.7.tar.gz",
+  "download_time": "2026-03-15T19:52:18.381563",
   "package_url": "https://pypi.org/project/ponychart-classifier/"
 }

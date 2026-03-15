@@ -1,0 +1,11 @@
+{
+  "name": "nbrose",
+  "version": "0.1.0",
+  "summary": "Convert Jupyter notebooks to beautiful HTML with the Rosé Pine dark theme",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nbrose-0.1.0.tar.gz",
+  "download_time": "2026-03-15T19:51:44.869975",
+  "package_url": "https://pypi.org/project/nbrose/"
+}

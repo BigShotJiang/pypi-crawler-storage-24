@@ -1,11 +1,11 @@
 {
   "name": "dlss123",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "AI/ML code snippets library",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "dlss123-0.2.1.tar.gz",
-  "download_time": "2026-03-15T19:19:37.871321",
+  "download_filename": "dlss123-0.3.0.tar.gz",
+  "download_time": "2026-03-15T19:52:31.896971",
   "package_url": "https://pypi.org/project/dlss123/"
 }

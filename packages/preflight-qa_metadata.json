@@ -1,0 +1,11 @@
+{
+  "name": "preflight-qa",
+  "version": "0.1.0",
+  "summary": "Your AI QA crew — evaluates products like real users would, right from your coding session",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "preflight_qa-0.1.0.tar.gz",
+  "download_time": "2026-03-15T19:52:10.679599",
+  "package_url": "https://pypi.org/project/preflight-qa/"
+}
