@@ -1,0 +1,11 @@
+{
+  "name": "lu-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for Lingua Universale protocol verification -- verify AI agent communication with session types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lu_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-15T08:07:12.262001",
+  "package_url": "https://pypi.org/project/lu-mcp-server/"
+}

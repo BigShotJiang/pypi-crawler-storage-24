@@ -1,0 +1,11 @@
+{
+  "name": "semantify3",
+  "version": "0.0.6",
+  "summary": "semantify³ — Extract knowledge graph ready triples from human-readable annotations wherever possible — Syntax matters!",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "semantify3-0.0.6.tar.gz",
+  "download_time": "2026-03-15T08:07:25.098191",
+  "package_url": "https://pypi.org/project/semantify3/"
+}

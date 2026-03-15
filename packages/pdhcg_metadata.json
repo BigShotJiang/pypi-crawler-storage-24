@@ -1,0 +1,11 @@
+{
+  "name": "pdhcg",
+  "version": "0.1.4",
+  "summary": "Python bindings for PDHCG, GPU accelerated first order solver for Quadratic Programming",
+  "author": "Hongpei Li, Yicheng Huang, Huikang Liu, Dongdong Ge, Yinyu Ye",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pdhcg-0.1.4.tar.gz",
+  "download_time": "2026-03-15T08:07:08.148219",
+  "package_url": "https://pypi.org/project/pdhcg/"
+}

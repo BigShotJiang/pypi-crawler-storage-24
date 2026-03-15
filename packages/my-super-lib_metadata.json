@@ -1,0 +1,11 @@
+{
+  "name": "my-super-lib",
+  "version": "0.6.0",
+  "summary": "bible of python utilities - a collection of useful functions and classes for everyday programming tasks",
+  "author": "Alexander",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "my_super_lib-0.6.0.tar.gz",
+  "download_time": "2026-03-15T08:07:21.514604",
+  "package_url": "https://pypi.org/project/my-super-lib/"
+}

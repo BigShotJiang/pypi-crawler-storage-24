@@ -1,0 +1,11 @@
+{
+  "name": "tibet-iot",
+  "version": "0.1.1",
+  "summary": "DEPRECATED: merged into tibet-ping>=0.2.0. Install tibet-ping instead.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet_iot-0.1.1.tar.gz",
+  "download_time": "2026-03-15T08:07:33.808916",
+  "package_url": "https://pypi.org/project/tibet-iot/"
+}

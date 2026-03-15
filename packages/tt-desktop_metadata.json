@@ -1,11 +1,11 @@
 {
   "name": "tt-desktop",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "TaskingTech Desktop Agent — cross-platform native computer control",
   "author": "Tasking.tech",
   "license": "MIT",
   "home_page": "https://tasking.tech",
-  "download_filename": "tt_desktop-0.3.1.tar.gz",
-  "download_time": "2026-03-15T07:43:55.415956",
+  "download_filename": "tt_desktop-0.3.3.tar.gz",
+  "download_time": "2026-03-15T08:07:06.107463",
   "package_url": "https://pypi.org/project/tt-desktop/"
 }

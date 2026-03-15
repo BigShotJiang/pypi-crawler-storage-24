@@ -1,0 +1,11 @@
+{
+  "name": "auralith-data-pipeline",
+  "version": "0.1.9",
+  "summary": "Production-grade data collection and processing pipeline for training LLMs and multimodal AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auralith_data_pipeline-0.1.9.tar.gz",
+  "download_time": "2026-03-15T08:07:16.375016",
+  "package_url": "https://pypi.org/project/auralith-data-pipeline/"
+}

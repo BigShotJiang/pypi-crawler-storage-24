@@ -1,11 +1,11 @@
 {
   "name": "tibet-ping",
-  "version": "0.1.4",
-  "summary": "Intent-based discovery and communication protocol with TIBET provenance. ICMP replacement with identity, trust, and context.",
+  "version": "0.2.1",
+  "summary": "Intent-based discovery and communication protocol with TIBET provenance and built-in transport layer (UDP, LAN discovery, mesh relay).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tibet_ping-0.1.4.tar.gz",
-  "download_time": "2026-03-15T07:43:56.465617",
+  "download_filename": "tibet_ping-0.2.1.tar.gz",
+  "download_time": "2026-03-15T08:07:07.637134",
   "package_url": "https://pypi.org/project/tibet-ping/"
 }

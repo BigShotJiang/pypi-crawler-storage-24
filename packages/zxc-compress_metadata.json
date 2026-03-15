@@ -1,0 +1,11 @@
+{
+  "name": "zxc-compress",
+  "version": "0.9.0",
+  "summary": "ZXC: Package for high-performance, lossless, asymmetric compressions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zxc_compress-0.9.0.tar.gz",
+  "download_time": "2026-03-15T08:07:20.995106",
+  "package_url": "https://pypi.org/project/zxc-compress/"
+}
