@@ -1,11 +1,11 @@
 {
   "name": "openrssgate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Read-only CLI for querying OpenRSSGate sources and feeds.",
   "author": "OpenRSSGate",
   "license": null,
   "home_page": null,
-  "download_filename": "openrssgate-0.1.1.tar.gz",
-  "download_time": "2026-03-14T09:29:30.644461",
+  "download_filename": "openrssgate-0.1.2.tar.gz",
+  "download_time": "2026-03-16T04:39:40.864563",
   "package_url": "https://pypi.org/project/openrssgate/"
 }

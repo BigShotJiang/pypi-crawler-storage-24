@@ -1,0 +1,11 @@
+{
+  "name": "csust-login",
+  "version": "0.1.1",
+  "summary": "一个用于自动登录长沙理工大学校园网的 Python 脚本与守护进程工具。",
+  "author": "zHElEARN",
+  "license": null,
+  "home_page": null,
+  "download_filename": "csust_login-0.1.1.tar.gz",
+  "download_time": "2026-03-16T04:39:30.590405",
+  "package_url": "https://pypi.org/project/csust-login/"
+}

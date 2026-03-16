@@ -1,0 +1,11 @@
+{
+  "name": "hyperbrowser-lite",
+  "version": "1.0.0",
+  "summary": "Minimal cloud browser SDK for Hyperbrowser — session lifecycle management via CDP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperbrowser_lite-1.0.0.tar.gz",
+  "download_time": "2026-03-16T04:39:56.435718",
+  "package_url": "https://pypi.org/project/hyperbrowser-lite/"
+}

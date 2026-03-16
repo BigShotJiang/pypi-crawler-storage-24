@@ -1,0 +1,11 @@
+{
+  "name": "mdtask",
+  "version": "0.1.1",
+  "summary": "Markdown task list CLI",
+  "author": "jay",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdtask-0.1.1.tar.gz",
+  "download_time": "2026-03-16T04:39:44.974429",
+  "package_url": "https://pypi.org/project/mdtask/"
+}

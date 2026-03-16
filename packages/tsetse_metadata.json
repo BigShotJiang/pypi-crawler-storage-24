@@ -1,0 +1,11 @@
+{
+  "name": "tsetse",
+  "version": "0.2.0",
+  "summary": "Terminal YouTube music player with vim-like bindings",
+  "author": "Geet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsetse-0.2.0.tar.gz",
+  "download_time": "2026-03-16T04:39:32.641003",
+  "package_url": "https://pypi.org/project/tsetse/"
+}

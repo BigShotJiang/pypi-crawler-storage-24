@@ -1,0 +1,11 @@
+{
+  "name": "slides-agent",
+  "version": "0.1.0",
+  "summary": "AI-first CLI for Google Slides — deterministic, JSON-native, agent-optimized",
+  "author": "slides-agent contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slides_agent-0.1.0.tar.gz",
+  "download_time": "2026-03-16T04:39:39.817574",
+  "package_url": "https://pypi.org/project/slides-agent/"
+}

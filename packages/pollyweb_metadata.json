@@ -1,11 +1,11 @@
 {
   "name": "pollyweb",
-  "version": "1.0.40",
+  "version": "1.0.43",
   "summary": "A neutral, open, and global web protocol that allows any person or AI agent to chat with any business, place, or thing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pollyweb-1.0.40.tar.gz",
-  "download_time": "2026-03-16T01:57:10.255818",
+  "download_filename": "pollyweb-1.0.43.tar.gz",
+  "download_time": "2026-03-16T04:39:31.619403",
   "package_url": "https://pypi.org/project/pollyweb/"
 }

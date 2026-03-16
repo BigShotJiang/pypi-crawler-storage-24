@@ -1,0 +1,11 @@
+{
+  "name": "revvlink",
+  "version": "1.0.3",
+  "summary": "A robust and powerful, fully asynchronous Lavalink wrapper built for discord.py in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "revvlink-1.0.3.tar.gz",
+  "download_time": "2026-03-16T04:39:40.352999",
+  "package_url": "https://pypi.org/project/revvlink/"
+}

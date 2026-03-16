@@ -1,0 +1,11 @@
+{
+  "name": "video-translate",
+  "version": "1.1.1",
+  "summary": "视频英文字幕翻译为中文字幕工具",
+  "author": "Video Translate Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_translate-1.1.1.tar.gz",
+  "download_time": "2026-03-16T04:39:48.056674",
+  "package_url": "https://pypi.org/project/video-translate/"
+}

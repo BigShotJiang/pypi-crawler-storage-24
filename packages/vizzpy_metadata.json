@@ -1,0 +1,11 @@
+{
+  "name": "vizzpy",
+  "version": "0.1.0",
+  "summary": "Interactive Python call tree visualizer — upload a project, explore its call graph in the browser",
+  "author": "Atul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vizzpy-0.1.0.tar.gz",
+  "download_time": "2026-03-16T04:39:29.055796",
+  "package_url": "https://pypi.org/project/vizzpy/"
+}

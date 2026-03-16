@@ -1,0 +1,11 @@
+{
+  "name": "sg-send-cli",
+  "version": "0.8.3",
+  "summary": "CLI tool for syncing encrypted vaults with SG/Send Transfer API",
+  "author": "The Cyber Boardroom",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/the-cyber-boardroom/SG_Send__CLI",
+  "download_filename": "sg_send_cli-0.8.3.tar.gz",
+  "download_time": "2026-03-16T04:39:42.929142",
+  "package_url": "https://pypi.org/project/sg-send-cli/"
+}

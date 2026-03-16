@@ -1,0 +1,11 @@
+{
+  "name": "laserbeamsize",
+  "version": "2.4.0",
+  "summary": "ISO 11146 Calculation of Laser Beam Center, Diameter, and M²",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "laserbeamsize-2.4.0.tar.gz",
+  "download_time": "2026-03-16T04:39:41.905364",
+  "package_url": "https://pypi.org/project/laserbeamsize/"
+}

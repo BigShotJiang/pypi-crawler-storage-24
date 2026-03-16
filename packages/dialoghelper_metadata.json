@@ -1,11 +1,11 @@
 {
   "name": "dialoghelper",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "summary": "Helper functions for solveit dialogs",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dialoghelper-0.2.20.tar.gz",
-  "download_time": "2026-03-13T09:27:13.706062",
+  "download_filename": "dialoghelper-0.2.21.tar.gz",
+  "download_time": "2026-03-16T04:39:55.385386",
   "package_url": "https://pypi.org/project/dialoghelper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "opuslib-next",
+  "version": "1.1.6",
+  "summary": "Python bindings to the libopus, IETF low-delay audio codec",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opuslib_next-1.1.6.tar.gz",
+  "download_time": "2026-03-16T04:39:43.952034",
+  "package_url": "https://pypi.org/project/opuslib-next/"
+}

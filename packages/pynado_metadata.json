@@ -1,0 +1,11 @@
+{
+  "name": "pynado",
+  "version": "0.1.5",
+  "summary": "A friendly, Pythonic wrapper for the Nado Protocol SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynado-0.1.5.tar.gz",
+  "download_time": "2026-03-16T04:39:50.105966",
+  "package_url": "https://pypi.org/project/pynado/"
+}
