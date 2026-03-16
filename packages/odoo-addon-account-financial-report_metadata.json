@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-account-financial-report",
-  "version": "19.0.0.0.4",
+  "version": "19.0.0.0.5",
   "summary": "OCA Financial Reports",
   "author": "Camptocamp,initOS GmbH,redCOR AG,ForgeFlow,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/account-financial-reporting",
-  "download_filename": "odoo_addon_account_financial_report-19.0.0.0.4-py3-none-any.whl",
-  "download_time": "2026-03-13T16:04:39.654832",
+  "download_filename": "odoo_addon_account_financial_report-19.0.0.0.5-py3-none-any.whl",
+  "download_time": "2026-03-16T10:03:54.461241",
   "package_url": "https://pypi.org/project/odoo-addon-account-financial-report/"
 }

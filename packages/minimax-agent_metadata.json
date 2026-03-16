@@ -1,0 +1,11 @@
+{
+  "name": "minimax-agent",
+  "version": "0.2.0",
+  "summary": "MiniMax-M2.5 AI terminal agent — chat, code, and create",
+  "author": "villamarket.ai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minimax_agent-0.2.0.tar.gz",
+  "download_time": "2026-03-16T10:03:39.062948",
+  "package_url": "https://pypi.org/project/minimax-agent/"
+}

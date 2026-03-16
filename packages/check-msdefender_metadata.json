@@ -1,0 +1,11 @@
+{
+  "name": "check-msdefender",
+  "version": "1.2.7",
+  "summary": "A Nagios plugin for monitoring Microsoft Defender API endpoints",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "check_msdefender-1.2.7.tar.gz",
+  "download_time": "2026-03-16T10:03:42.663140",
+  "package_url": "https://pypi.org/project/check-msdefender/"
+}

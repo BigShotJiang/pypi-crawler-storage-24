@@ -1,0 +1,11 @@
+{
+  "name": "pupil-labs-neon-recording",
+  "version": "2.1.2",
+  "summary": "Functionality for loading Neon recordings in native recording format",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pupil_labs_neon_recording-2.1.2.tar.gz",
+  "download_time": "2026-03-16T10:03:59.615946",
+  "package_url": "https://pypi.org/project/pupil-labs-neon-recording/"
+}

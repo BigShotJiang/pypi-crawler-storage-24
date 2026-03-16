@@ -1,0 +1,11 @@
+{
+  "name": "hana-ai",
+  "version": "1.0.26031600",
+  "summary": "Generative AI Toolkit for SAP HANA Cloud",
+  "author": "SAP",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hana_ai-1.0.26031600.tar.gz",
+  "download_time": "2026-03-16T10:03:27.701199",
+  "package_url": "https://pypi.org/project/hana-ai/"
+}

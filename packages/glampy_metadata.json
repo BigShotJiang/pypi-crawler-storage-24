@@ -1,0 +1,11 @@
+{
+  "name": "glampy",
+  "version": "0.5.1",
+  "summary": "Make your python CLI prints and logs simple but glamorous",
+  "author": "snaeil",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glampy-0.5.1.tar.gz",
+  "download_time": "2026-03-16T10:04:00.126530",
+  "package_url": "https://pypi.org/project/glampy/"
+}

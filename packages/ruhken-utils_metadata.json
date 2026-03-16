@@ -1,11 +1,11 @@
 {
   "name": "ruhken-utils",
-  "version": "0.2.1",
+  "version": "0.2.9",
   "summary": "Commonly used utils for my EDA Projects",
   "author": "Johannes Kutsch",
   "license": null,
   "home_page": null,
-  "download_filename": "ruhken_utils-0.2.1.tar.gz",
-  "download_time": "2026-03-12T14:32:45.517522",
+  "download_filename": "ruhken_utils-0.2.9.tar.gz",
+  "download_time": "2026-03-16T10:03:32.910856",
   "package_url": "https://pypi.org/project/ruhken-utils/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sciencestack",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "CLI for querying structured scientific papers via the ScienceStack API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sciencestack-0.3.0.tar.gz",
-  "download_time": "2026-03-16T04:39:50.617389",
+  "download_filename": "sciencestack-0.4.0.tar.gz",
+  "download_time": "2026-03-16T10:03:45.731936",
   "package_url": "https://pypi.org/project/sciencestack/"
 }

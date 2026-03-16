@@ -1,0 +1,11 @@
+{
+  "name": "sensorhealer",
+  "version": "0.1.0",
+  "summary": "Sensor Data Healing Library using Mean-Reversion",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sensorhealer-0.1.0.tar.gz",
+  "download_time": "2026-03-16T10:03:53.435758",
+  "package_url": "https://pypi.org/project/sensorhealer/"
+}

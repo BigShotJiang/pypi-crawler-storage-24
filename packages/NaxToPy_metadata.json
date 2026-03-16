@@ -1,0 +1,11 @@
+{
+  "name": "NaxToPy",
+  "version": "3.2.3",
+  "summary": "Package for postprocessing FEM results in Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://www.idaerosolutions.com/Home/NaxToPy",
+  "download_filename": "naxtopy-3.2.3.tar.gz",
+  "download_time": "2026-03-16T10:03:27.169122",
+  "package_url": "https://pypi.org/project/NaxToPy/"
+}

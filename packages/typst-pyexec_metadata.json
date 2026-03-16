@@ -1,0 +1,11 @@
+{
+  "name": "typst-pyexec",
+  "version": "1.0.1",
+  "summary": "Reactive Python execution engine for Typst documents",
+  "author": "typst_pyexec contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typst_pyexec-1.0.1.tar.gz",
+  "download_time": "2026-03-16T10:03:36.508405",
+  "package_url": "https://pypi.org/project/typst-pyexec/"
+}

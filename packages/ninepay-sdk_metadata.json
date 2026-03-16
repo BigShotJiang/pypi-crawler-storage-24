@@ -1,0 +1,11 @@
+{
+  "name": "ninepay-sdk",
+  "version": "1.2.0",
+  "summary": "Official Python SDK for 9PAY Payment Gateway",
+  "author": "9Pay Labs",
+  "license": null,
+  "home_page": "https://github.com/9pay-labs/9pay-sdk-python",
+  "download_filename": "ninepay_sdk-1.2.0.tar.gz",
+  "download_time": "2026-03-16T10:03:40.602574",
+  "package_url": "https://pypi.org/project/ninepay-sdk/"
+}

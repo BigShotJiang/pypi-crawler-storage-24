@@ -1,0 +1,11 @@
+{
+  "name": "powermem",
+  "version": "1.0.0",
+  "summary": "Intelligent Memory System - Persistent memory layer for LLM applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "powermem-1.0.0.tar.gz",
+  "download_time": "2026-03-16T10:03:49.305940",
+  "package_url": "https://pypi.org/project/powermem/"
+}
