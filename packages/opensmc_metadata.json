@@ -1,0 +1,11 @@
+{
+  "name": "opensmc",
+  "version": "2.0.0",
+  "summary": "A modular sliding mode control toolbox for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opensmc-2.0.0.tar.gz",
+  "download_time": "2026-03-16T01:56:56.185243",
+  "package_url": "https://pypi.org/project/opensmc/"
+}

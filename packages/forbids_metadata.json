@@ -1,0 +1,11 @@
+{
+  "name": "forbids",
+  "version": "0.0.2rc154.post1",
+  "summary": "forBIDS - BIDS protocol compliance validation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "forbids-0.0.2rc154.post1.tar.gz",
+  "download_time": "2026-03-16T01:57:13.997245",
+  "package_url": "https://pypi.org/project/forbids/"
+}

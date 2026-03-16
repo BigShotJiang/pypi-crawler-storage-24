@@ -1,11 +1,11 @@
 {
   "name": "layer-scan",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Automated LLM layer duplication configuration scanner with heatmap visualization",
   "author": "XXO47OXX",
   "license": null,
   "home_page": null,
-  "download_filename": "layer_scan-0.1.1.tar.gz",
-  "download_time": "2026-03-15T08:07:23.559546",
+  "download_filename": "layer_scan-0.2.1.tar.gz",
+  "download_time": "2026-03-16T01:57:39.455222",
   "package_url": "https://pypi.org/project/layer-scan/"
 }

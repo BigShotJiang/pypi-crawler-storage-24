@@ -1,0 +1,11 @@
+{
+  "name": "cc-cortex",
+  "version": "0.5.0",
+  "summary": "The Cognitive Layer for Claude Code — hooks, process guard, scheduler, and skill templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cc_cortex-0.5.0.tar.gz",
+  "download_time": "2026-03-16T01:56:55.131790",
+  "package_url": "https://pypi.org/project/cc-cortex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-eds-user",
+  "version": "1.0.3",
+  "summary": "The eds-user module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun_python_sdk_eds_user-1.0.3.tar.gz",
+  "download_time": "2026-03-16T01:57:07.559829",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-eds-user/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "finshare",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "A professional financial data fetching toolkit for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finshare-1.0.7.tar.gz",
-  "download_time": "2026-03-11T12:02:55.837671",
+  "download_filename": "finshare-1.0.9.tar.gz",
+  "download_time": "2026-03-16T01:57:27.280286",
   "package_url": "https://pypi.org/project/finshare/"
 }

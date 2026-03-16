@@ -1,0 +1,11 @@
+{
+  "name": "h20tui",
+  "version": "0.1.5",
+  "summary": "A tiling window manager TUI for ROS 2 Humble",
+  "author": "Can Ozaydin",
+  "license": null,
+  "home_page": "https://github.com/ozaydincan/ros2tui",
+  "download_filename": "h20tui-0.1.5.tar.gz",
+  "download_time": "2026-03-16T01:57:41.663890",
+  "package_url": "https://pypi.org/project/h20tui/"
+}

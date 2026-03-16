@@ -1,0 +1,11 @@
+{
+  "name": "knotaru-nlp",
+  "version": "0.1.2",
+  "summary": "Modular NLP primitives for Knotaru — Embedding, Indexing, Chat, Memory",
+  "author": "Knotaru",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "knotaru_nlp-0.1.2.tar.gz",
+  "download_time": "2026-03-16T01:57:29.890633",
+  "package_url": "https://pypi.org/project/knotaru-nlp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ciris-agent",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "CIRIS: Ethical AI Agent with Consensual Evolution Protocol",
   "author": "Eric Moore",
   "license": null,
   "home_page": "https://github.com/CIRISAI/CIRISAgent",
-  "download_filename": "ciris_agent-2.2.1-py3-none-any.whl",
-  "download_time": "2026-03-13T21:03:43.938572",
+  "download_filename": "ciris_agent-2.2.2-py3-none-any.whl",
+  "download_time": "2026-03-16T01:56:59.371162",
   "package_url": "https://pypi.org/project/ciris-agent/"
 }

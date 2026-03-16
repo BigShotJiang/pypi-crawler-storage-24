@@ -1,0 +1,11 @@
+{
+  "name": "trackbear-api",
+  "version": "0.0.12",
+  "summary": "Python library for synchronous HTTP calls to the Trackbear API (https://help.trackbear.app/api)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trackbear_api-0.0.12.tar.gz",
+  "download_time": "2026-03-16T01:57:05.968141",
+  "package_url": "https://pypi.org/project/trackbear-api/"
+}

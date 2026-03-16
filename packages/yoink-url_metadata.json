@@ -1,0 +1,11 @@
+{
+  "name": "yoink-url",
+  "version": "0.1.4",
+  "summary": "Fast, fault-tolerant headless browser scraping at scale.",
+  "author": "uhryniuk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yoink_url-0.1.4.tar.gz",
+  "download_time": "2026-03-16T01:57:17.704058",
+  "package_url": "https://pypi.org/project/yoink-url/"
+}
