@@ -1,0 +1,11 @@
+{
+  "name": "marionette-driver",
+  "version": "3.6.0",
+  "summary": "Marionette Driver",
+  "author": "Auto-tools",
+  "license": "MPL",
+  "home_page": "https://wiki.mozilla.org/Auto-tools/Projects/Marionette",
+  "download_filename": "marionette_driver-3.6.0.tar.gz",
+  "download_time": "2026-03-16T22:09:58.972988",
+  "package_url": "https://pypi.org/project/marionette-driver/"
+}

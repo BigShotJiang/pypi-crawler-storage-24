@@ -1,0 +1,11 @@
+{
+  "name": "peptacular",
+  "version": "3.0.0",
+  "summary": "A ProForma peptide sequence parser and annotation library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "peptacular-3.0.0.tar.gz",
+  "download_time": "2026-03-16T22:09:58.462792",
+  "package_url": "https://pypi.org/project/peptacular/"
+}

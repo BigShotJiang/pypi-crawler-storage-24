@@ -1,0 +1,11 @@
+{
+  "name": "typetoolbox",
+  "version": "0.3.0",
+  "summary": "Runtime helpers for inspecting and resolving Python generic types.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typetoolbox-0.3.0.tar.gz",
+  "download_time": "2026-03-16T22:09:41.922739",
+  "package_url": "https://pypi.org/project/typetoolbox/"
+}

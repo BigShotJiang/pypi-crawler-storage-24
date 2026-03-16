@@ -1,0 +1,11 @@
+{
+  "name": "trend-pulse",
+  "version": "0.5.2",
+  "summary": "Free trending topics aggregator and AI content guides with 20 sources, zero auth, patent-based scoring, plus a CLI, MCP server, and Python library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trend_pulse-0.5.2.tar.gz",
+  "download_time": "2026-03-16T22:09:46.619373",
+  "package_url": "https://pypi.org/project/trend-pulse/"
+}

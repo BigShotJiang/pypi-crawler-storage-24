@@ -1,0 +1,11 @@
+{
+  "name": "speclite",
+  "version": "1.0.0",
+  "summary": "Lightweight utilities for working with spectroscopic data.",
+  "author": "Speclite Developers",
+  "license": "BSD-3-Clause",
+  "home_page": "https://speclite.readthedocs.io/",
+  "download_filename": "speclite-1.0.0.tar.gz",
+  "download_time": "2026-03-16T22:09:31.809008",
+  "package_url": "https://pypi.org/project/speclite/"
+}

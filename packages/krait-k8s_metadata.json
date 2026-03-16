@@ -1,0 +1,11 @@
+{
+  "name": "krait-k8s",
+  "version": "0.0.1",
+  "summary": "K8s offensive security scanner by SpotterSec — coming soon",
+  "author": null,
+  "license": "Business Source License 1.1",
+  "home_page": null,
+  "download_filename": "krait_k8s-0.0.1.tar.gz",
+  "download_time": "2026-03-16T22:09:44.336685",
+  "package_url": "https://pypi.org/project/krait-k8s/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cachesaver",
+  "version": "0.0.5",
+  "summary": "A Modular Framework for Efficient, Affordable, and Reproducible LLM Inference",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cachesaver-0.0.5.tar.gz",
+  "download_time": "2026-03-16T22:09:34.900094",
+  "package_url": "https://pypi.org/project/cachesaver/"
+}

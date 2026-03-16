@@ -1,0 +1,11 @@
+{
+  "name": "informatica-python",
+  "version": "1.1.1",
+  "summary": "Convert Informatica PowerCenter workflow XML to Python/PySpark code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "informatica_python-1.1.1.tar.gz",
+  "download_time": "2026-03-16T22:09:23.044085",
+  "package_url": "https://pypi.org/project/informatica-python/"
+}

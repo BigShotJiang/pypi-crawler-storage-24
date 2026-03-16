@@ -1,11 +1,11 @@
 {
   "name": "desloppify",
-  "version": "0.9.7",
+  "version": "0.9.10",
   "summary": "Multi-language codebase health scanner and technical debt tracker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "desloppify-0.9.7.tar.gz",
-  "download_time": "2026-03-12T22:22:40.022791",
+  "download_filename": "desloppify-0.9.10.tar.gz",
+  "download_time": "2026-03-16T22:10:02.040564",
   "package_url": "https://pypi.org/project/desloppify/"
 }

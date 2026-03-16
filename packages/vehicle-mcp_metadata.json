@@ -1,0 +1,11 @@
+{
+  "name": "vehicle-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server providing unified vehicle control across multiple brands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vehicle_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-16T22:09:49.687123",
+  "package_url": "https://pypi.org/project/vehicle-mcp/"
+}

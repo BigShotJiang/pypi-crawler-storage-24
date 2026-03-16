@@ -1,11 +1,11 @@
 {
   "name": "ferrmion",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ferrmion-0.7.0.tar.gz",
-  "download_time": "2026-03-12T23:24:42.090547",
+  "download_filename": "ferrmion-0.7.1.tar.gz",
+  "download_time": "2026-03-16T22:09:51.241752",
   "package_url": "https://pypi.org/project/ferrmion/"
 }
