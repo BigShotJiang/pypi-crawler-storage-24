@@ -1,0 +1,11 @@
+{
+  "name": "genmine",
+  "version": "1.4.2",
+  "summary": "GenBank data miner for fungal taxonomists",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genmine-1.4.2.tar.gz",
+  "download_time": "2026-03-16T08:54:04.923228",
+  "package_url": "https://pypi.org/project/genmine/"
+}

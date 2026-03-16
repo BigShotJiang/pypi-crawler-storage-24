@@ -1,0 +1,11 @@
+{
+  "name": "dora-openarm-local-policy-server",
+  "version": "1.0.0",
+  "summary": "Dora node to communicate with local policy server",
+  "author": "Enactic, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dora_openarm_local_policy_server-1.0.0.tar.gz",
+  "download_time": "2026-03-16T08:54:03.883154",
+  "package_url": "https://pypi.org/project/dora-openarm-local-policy-server/"
+}

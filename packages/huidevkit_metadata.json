@@ -1,0 +1,11 @@
+{
+  "name": "huidevkit",
+  "version": "0.6.2",
+  "summary": "Practical Python development tools",
+  "author": "hui",
+  "license": "Apache",
+  "home_page": "https://github.com/HuiDBK/py-tools",
+  "download_filename": "huidevkit-0.6.2.tar.gz",
+  "download_time": "2026-03-16T08:53:45.621173",
+  "package_url": "https://pypi.org/project/huidevkit/"
+}

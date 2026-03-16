@@ -1,0 +1,11 @@
+{
+  "name": "oauth2-lib",
+  "version": "2.6.1",
+  "summary": "This is the SURF Oauth2 module that interfaces with the oauth2 setup.",
+  "author": "SURF",
+  "license": null,
+  "home_page": "https://github.com/workfloworchestrator/oauth2-lib",
+  "download_filename": "oauth2_lib-2.6.1.tar.gz",
+  "download_time": "2026-03-16T08:53:34.940919",
+  "package_url": "https://pypi.org/project/oauth2-lib/"
+}

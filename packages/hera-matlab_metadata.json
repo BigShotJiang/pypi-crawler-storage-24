@@ -1,0 +1,11 @@
+{
+  "name": "hera-matlab",
+  "version": "1.4.0",
+  "summary": "A Python interface to hera_matlab",
+  "author": "Lukas von Erdmannsdorff",
+  "license": "MIT",
+  "home_page": "https://github.com/lerdmann1601/HERA-Matlab",
+  "download_filename": "hera_matlab-1.4.0.tar.gz",
+  "download_time": "2026-03-16T08:53:22.450748",
+  "package_url": "https://pypi.org/project/hera-matlab/"
+}

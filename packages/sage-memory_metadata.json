@@ -1,0 +1,11 @@
+{
+  "name": "sage-memory",
+  "version": "0.1.0",
+  "summary": "Ultrafast local MCP memory for LLMs — project-aware, zero-config",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sage_memory-0.1.0.tar.gz",
+  "download_time": "2026-03-16T08:53:57.061318",
+  "package_url": "https://pypi.org/project/sage-memory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-sarvamcloud",
+  "version": "0.1.1",
+  "summary": "Integration package connecting Sarvam AI APIs and LangChain",
+  "author": "Srinivasulu Kethanaboina",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_sarvamcloud-0.1.1.tar.gz",
+  "download_time": "2026-03-16T08:53:54.982216",
+  "package_url": "https://pypi.org/project/langchain-sarvamcloud/"
+}

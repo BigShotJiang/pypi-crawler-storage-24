@@ -1,11 +1,11 @@
 {
   "name": "big-oh-no",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "A collection of utterly useless yet entertaining sorting algorithms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "big_oh_no-1.2.0.tar.gz",
-  "download_time": "2026-03-16T07:51:58.116888",
+  "download_filename": "big_oh_no-1.3.0.tar.gz",
+  "download_time": "2026-03-16T08:54:06.997153",
   "package_url": "https://pypi.org/project/big-oh-no/"
 }

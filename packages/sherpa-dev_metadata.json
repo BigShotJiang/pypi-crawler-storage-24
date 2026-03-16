@@ -1,11 +1,11 @@
 {
   "name": "sherpa-dev",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Explains your terminal errors in plain English. Fully local, no API key.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sherpa_dev-0.1.1.tar.gz",
-  "download_time": "2026-03-16T07:51:23.634551",
+  "download_filename": "sherpa_dev-0.1.3.tar.gz",
+  "download_time": "2026-03-16T08:53:33.384586",
   "package_url": "https://pypi.org/project/sherpa-dev/"
 }

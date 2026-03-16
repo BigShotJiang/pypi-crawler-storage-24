@@ -1,0 +1,11 @@
+{
+  "name": "tqsdk-zq-otg",
+  "version": "3.9.1",
+  "summary": "TianQin SDK - zq_otg lib",
+  "author": "TianQin",
+  "license": null,
+  "home_page": "https://www.shinnytech.com/tqsdk",
+  "download_filename": "tqsdk_zq_otg-3.9.1.tar.gz",
+  "download_time": "2026-03-16T08:53:37.014762",
+  "package_url": "https://pypi.org/project/tqsdk-zq-otg/"
+}

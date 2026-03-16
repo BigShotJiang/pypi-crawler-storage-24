@@ -1,0 +1,11 @@
+{
+  "name": "metapub",
+  "version": "0.7.1",
+  "summary": "Pubmed / NCBI / eutils interaction library, handling the metadata of pubmed papers.",
+  "author": "Naomi Most",
+  "license": "Apache 2.0",
+  "home_page": "https://metapub.org",
+  "download_filename": "metapub-0.7.1.tar.gz",
+  "download_time": "2026-03-16T08:53:52.904067",
+  "package_url": "https://pypi.org/project/metapub/"
+}

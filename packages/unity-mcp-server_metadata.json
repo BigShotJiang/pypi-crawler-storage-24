@@ -1,11 +1,11 @@
 {
   "name": "unity-mcp-server",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "Python MCP server for Unity Editor — enables AI assistants to control Unity via the Model Context Protocol",
   "author": "mzbswh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unity_mcp_server-1.0.9.tar.gz",
-  "download_time": "2026-03-13T10:59:09.325523",
+  "download_filename": "unity_mcp_server-1.0.11.tar.gz",
+  "download_time": "2026-03-16T08:53:29.204038",
   "package_url": "https://pypi.org/project/unity-mcp-server/"
 }

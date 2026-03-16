@@ -1,11 +1,11 @@
 {
   "name": "memclaw",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A lightweight, local-first personal memory assistant powered by AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memclaw-0.1.1.tar.gz",
-  "download_time": "2026-03-14T10:56:12.711473",
+  "download_filename": "memclaw-0.2.0.tar.gz",
+  "download_time": "2026-03-16T08:53:58.661068",
   "package_url": "https://pypi.org/project/memclaw/"
 }

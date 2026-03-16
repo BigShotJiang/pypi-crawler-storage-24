@@ -1,0 +1,11 @@
+{
+  "name": "goosefs-metastore-client",
+  "version": "0.1.4",
+  "summary": "A Python client for connecting to GooseFS Table Master via gRPC",
+  "author": "forwardxu",
+  "license": "Apache License 2.0",
+  "home_page": "https://git.woa.com/tencent-cloud-datalake/goosefs-metastore-client",
+  "download_filename": "goosefs_metastore_client-0.1.4.tar.gz",
+  "download_time": "2026-03-16T08:53:24.518783",
+  "package_url": "https://pypi.org/project/goosefs-metastore-client/"
+}

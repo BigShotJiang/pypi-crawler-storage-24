@@ -1,0 +1,11 @@
+{
+  "name": "dishka-pyramid",
+  "version": "1.0.2",
+  "summary": "Dishka DI integration for Pyramid framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dishka_pyramid-1.0.2.tar.gz",
+  "download_time": "2026-03-16T08:53:47.697532",
+  "package_url": "https://pypi.org/project/dishka-pyramid/"
+}
