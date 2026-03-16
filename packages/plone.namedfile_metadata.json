@@ -1,0 +1,11 @@
+{
+  "name": "plone.namedfile",
+  "version": "7.3.0",
+  "summary": "File types and fields for images, files and blob files with filenames",
+  "author": "Laurence Rowe, Martin Aspeli",
+  "license": "BSD",
+  "home_page": "https://pypi.org/project/plone.namedfile",
+  "download_filename": "plone_namedfile-7.3.0.tar.gz",
+  "download_time": "2026-03-16T15:48:57.575993",
+  "package_url": "https://pypi.org/project/plone.namedfile/"
+}

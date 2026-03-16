@@ -1,11 +1,11 @@
 {
   "name": "orchesis",
-  "version": "0.1.1",
-  "summary": "AI Agent Control Plane — transparent HTTP proxy for security, cost optimization, and reliability",
+  "version": "0.1.7",
+  "summary": "Transparent HTTP proxy for AI agents. Block threats, cut token waste, monitor your fleet. Zero code changes. MIT license.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "orchesis-0.1.1.tar.gz",
-  "download_time": "2026-03-15T08:07:24.584497",
+  "download_filename": "orchesis-0.1.7.tar.gz",
+  "download_time": "2026-03-16T15:48:42.278866",
   "package_url": "https://pypi.org/project/orchesis/"
 }

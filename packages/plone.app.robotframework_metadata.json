@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.robotframework",
+  "version": "2.1.6",
+  "summary": "Robot Framework testing resources for Plone",
+  "author": "Asko Soukka",
+  "license": "GPL",
+  "home_page": "https://github.com/plone/plone.app.robotframework/",
+  "download_filename": "plone_app_robotframework-2.1.6.tar.gz",
+  "download_time": "2026-03-16T15:48:23.402328",
+  "package_url": "https://pypi.org/project/plone.app.robotframework/"
+}

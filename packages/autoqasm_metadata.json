@@ -1,0 +1,11 @@
+{
+  "name": "autoqasm",
+  "version": "0.3.0",
+  "summary": "Python-native programming library for developing quantum programs",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/amazon-braket/autoqasm",
+  "download_filename": "autoqasm-0.3.0.tar.gz",
+  "download_time": "2026-03-16T15:48:45.541466",
+  "package_url": "https://pypi.org/project/autoqasm/"
+}

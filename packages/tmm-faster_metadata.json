@@ -1,0 +1,11 @@
+{
+  "name": "tmm-faster",
+  "version": "0.1.1",
+  "summary": "A lightweight Python library with a C++ core for very fast calculations of reflection and transmission spectra in optical thin-film systems using the transfer-matrix method.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmm_faster-0.1.1.tar.gz",
+  "download_time": "2026-03-16T15:48:13.655618",
+  "package_url": "https://pypi.org/project/tmm-faster/"
+}

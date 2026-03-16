@@ -1,11 +1,11 @@
 {
   "name": "aicite",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Open-source CLI utility to bootstrap AI assistant project context and agent prompts.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aicite-0.0.6-py3-none-any.whl",
-  "download_time": "2026-03-13T11:56:46.541153",
+  "download_filename": "aicite-0.0.7.tar.gz",
+  "download_time": "2026-03-16T15:49:01.595124",
   "package_url": "https://pypi.org/project/aicite/"
 }

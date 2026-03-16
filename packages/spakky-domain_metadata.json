@@ -1,0 +1,11 @@
+{
+  "name": "spakky-domain",
+  "version": "6.1.0",
+  "summary": "DDD building blocks for Spakky Framework (Entity, AggregateRoot, ValueObject, DomainEvent, CQRS)",
+  "author": "Spakky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spakky_domain-6.1.0.tar.gz",
+  "download_time": "2026-03-16T15:48:39.432925",
+  "package_url": "https://pypi.org/project/spakky-domain/"
+}

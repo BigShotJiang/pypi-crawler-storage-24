@@ -1,0 +1,11 @@
+{
+  "name": "entropyshield",
+  "version": "0.3.0",
+  "summary": "Deterministic Prompt Injection Defense via Semantic Fragmentation",
+  "author": "Weiktseng",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "entropyshield-0.3.0.tar.gz",
+  "download_time": "2026-03-16T15:49:03.197344",
+  "package_url": "https://pypi.org/project/entropyshield/"
+}

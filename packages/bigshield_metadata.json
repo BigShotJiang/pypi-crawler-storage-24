@@ -1,0 +1,11 @@
+{
+  "name": "bigshield",
+  "version": "1.0.0",
+  "summary": "Multi-signal email validation SDK. Detect fake signups, burner emails, and disposable domains.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bigshield-1.0.0.tar.gz",
+  "download_time": "2026-03-16T15:49:02.105675",
+  "package_url": "https://pypi.org/project/bigshield/"
+}

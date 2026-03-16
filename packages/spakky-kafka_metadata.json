@@ -1,0 +1,11 @@
+{
+  "name": "spakky-kafka",
+  "version": "6.1.0",
+  "summary": "Apache Kafka plugin for Spakky framework",
+  "author": "Spakky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spakky_kafka-6.1.0.tar.gz",
+  "download_time": "2026-03-16T15:48:41.108427",
+  "package_url": "https://pypi.org/project/spakky-kafka/"
+}

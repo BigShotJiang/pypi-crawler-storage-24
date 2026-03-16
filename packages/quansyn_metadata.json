@@ -1,11 +1,11 @@
 {
   "name": "quansyn",
-  "version": "0.0.14",
+  "version": "0.1.1",
   "summary": "A package for quantitative syntax analysis",
   "author": "Mu Yang",
   "license": null,
   "home_page": "https://github.com/YuhuYang/QuanSyn",
-  "download_filename": "quansyn-0.0.14.tar.gz",
-  "download_time": "2026-03-14T12:01:21.880990",
+  "download_filename": "quansyn-0.1.1.tar.gz",
+  "download_time": "2026-03-16T15:48:15.462798",
   "package_url": "https://pypi.org/project/quansyn/"
 }
