@@ -1,0 +1,11 @@
+{
+  "name": "ainiee-cli",
+  "version": "0.1.4",
+  "summary": "A CLI-based hard fork of AiNiee for batch translation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ainiee_cli-0.1.4.tar.gz",
+  "download_time": "2026-03-16T23:55:22.732873",
+  "package_url": "https://pypi.org/project/ainiee-cli/"
+}

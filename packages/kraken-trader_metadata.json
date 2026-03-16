@@ -1,0 +1,11 @@
+{
+  "name": "kraken-trader",
+  "version": "1.0.0",
+  "summary": "This module provides an official JavaScript SDK for interacting with the Kraken API, enabling seamless integration with Kraken services.",
+  "author": "copperadev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kraken_trader-1.0.0.tar.gz",
+  "download_time": "2026-03-16T23:55:18.030370",
+  "package_url": "https://pypi.org/project/kraken-trader/"
+}

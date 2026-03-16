@@ -1,11 +1,11 @@
 {
   "name": "printo",
-  "version": "0.0.19",
+  "version": "0.0.22",
   "summary": "Print objects with data beautifully",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "printo-0.0.19.tar.gz",
-  "download_time": "2026-03-16T22:55:21.308627",
+  "download_filename": "printo-0.0.22.tar.gz",
+  "download_time": "2026-03-16T23:55:38.314676",
   "package_url": "https://pypi.org/project/printo/"
 }

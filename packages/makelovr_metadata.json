@@ -1,11 +1,11 @@
 {
   "name": "makelovr",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Distribution tool for LÖVR games",
   "author": "Zayfire Studios",
   "license": null,
   "home_page": "https://github.com/zayfire/makelovr",
-  "download_filename": "makelovr-0.2.0.tar.gz",
-  "download_time": "2026-03-16T23:32:02.102227",
+  "download_filename": "makelovr-0.2.2.tar.gz",
+  "download_time": "2026-03-16T23:55:20.088594",
   "package_url": "https://pypi.org/project/makelovr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "netinfracheck",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "netinfracheck: Infrastructural checks for IP addresses and domain names (ROA, ASPA, DNSSEC...)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "netinfracheck-0.2.3.tar.gz",
-  "download_time": "2026-03-15T01:56:03.383093",
+  "download_filename": "netinfracheck-0.3.0.tar.gz",
+  "download_time": "2026-03-16T23:55:33.642514",
   "package_url": "https://pypi.org/project/netinfracheck/"
 }

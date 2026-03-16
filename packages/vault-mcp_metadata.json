@@ -1,0 +1,11 @@
+{
+  "name": "vault-mcp",
+  "version": "0.1.1",
+  "summary": "Memory Vault MCP Server — Markdown + SQLite knowledge store with bidirectional [[wikilinks]] for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vault_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-16T23:55:31.059407",
+  "package_url": "https://pypi.org/project/vault-mcp/"
+}
