@@ -1,0 +1,11 @@
+{
+  "name": "nse",
+  "version": "2.1.1",
+  "summary": "Unofficial Python Api for NSE India stock exchange",
+  "author": "Benny Thadikaran",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nse-2.1.1.tar.gz",
+  "download_time": "2026-03-16T13:14:08.775772",
+  "package_url": "https://pypi.org/project/nse/"
+}

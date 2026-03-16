@@ -1,0 +1,11 @@
+{
+  "name": "lapy",
+  "version": "1.6.0",
+  "summary": "A package for differential geometry on meshes (Laplace, FEM)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lapy-1.6.0.tar.gz",
+  "download_time": "2026-03-16T13:14:23.839895",
+  "package_url": "https://pypi.org/project/lapy/"
+}

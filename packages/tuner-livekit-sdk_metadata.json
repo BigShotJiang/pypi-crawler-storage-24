@@ -1,0 +1,11 @@
+{
+  "name": "tuner-livekit-sdk",
+  "version": "0.1.1",
+  "summary": "Automatically ingest LiveKit Agents session data into the Tuner observability API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tuner_livekit_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-16T13:14:37.572676",
+  "package_url": "https://pypi.org/project/tuner-livekit-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cf-pipeline-cert",
+  "version": "0.2.1",
+  "summary": "Cogniflow Step Package Certification Toolkit - validate, certify, and verify pipeline step packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cf_pipeline_cert-0.2.1.tar.gz",
+  "download_time": "2026-03-16T13:14:01.064212",
+  "package_url": "https://pypi.org/project/cf-pipeline-cert/"
+}

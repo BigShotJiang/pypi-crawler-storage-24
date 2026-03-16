@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-stcc4",
+  "version": "1.0.0",
+  "summary": "CircuitPython driver for the STCC4 and SHT41 - CO2, Temperature and Humidity Sensor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_stcc4-1.0.0.tar.gz",
+  "download_time": "2026-03-16T13:14:03.518917",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-stcc4/"
+}

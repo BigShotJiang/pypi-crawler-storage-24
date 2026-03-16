@@ -1,0 +1,11 @@
+{
+  "name": "sona-lang",
+  "version": "0.13.0",
+  "summary": "Sona Programming Language with Cognitive Accessibility and Neurodivergent-First Features",
+  "author": "Sona Development Team",
+  "license": null,
+  "home_page": "https://github.com/Bryantad/Sona.git",
+  "download_filename": "sona_lang-0.13.0.tar.gz",
+  "download_time": "2026-03-16T13:14:48.631797",
+  "package_url": "https://pypi.org/project/sona-lang/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mmar-carl",
+  "version": "0.1.0",
+  "summary": "Collaborative Agent Reasoning Library with multi-step type support",
+  "author": "glazkov, shaposhnikov, tagin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mmar_carl-0.1.0.tar.gz",
+  "download_time": "2026-03-16T13:14:44.539881",
+  "package_url": "https://pypi.org/project/mmar-carl/"
+}

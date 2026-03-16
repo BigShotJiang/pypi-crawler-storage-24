@@ -1,11 +1,11 @@
 {
   "name": "empirica-mcp",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "summary": "MCP server for Empirica epistemic framework",
   "author": "David S. L. Van Assche",
   "license": null,
   "home_page": null,
-  "download_filename": "empirica_mcp-1.6.4.tar.gz",
-  "download_time": "2026-03-13T19:03:16.824936",
+  "download_filename": "empirica_mcp-1.6.5.tar.gz",
+  "download_time": "2026-03-16T13:14:16.246294",
   "package_url": "https://pypi.org/project/empirica-mcp/"
 }

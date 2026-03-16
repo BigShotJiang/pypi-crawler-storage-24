@@ -1,0 +1,11 @@
+{
+  "name": "arcjetcv",
+  "version": "1.1.16",
+  "summary": "Package to process arcjet videos and segment the edge of the shock and of the sample",
+  "author": "arcjetCV team",
+  "license": null,
+  "home_page": "https://github.com/magnus-haw/arcjetCV",
+  "download_filename": "arcjetcv-1.1.16.tar.gz",
+  "download_time": "2026-03-16T13:14:27.270279",
+  "package_url": "https://pypi.org/project/arcjetcv/"
+}

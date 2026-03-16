@@ -1,0 +1,11 @@
+{
+  "name": "feishu-enhance-mcp",
+  "version": "0.1.0",
+  "summary": "飞书消息监控与文档处理MCP服务器",
+  "author": "FeiShu Enhance MCP Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feishu_enhance_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-16T13:14:46.266659",
+  "package_url": "https://pypi.org/project/feishu-enhance-mcp/"
+}

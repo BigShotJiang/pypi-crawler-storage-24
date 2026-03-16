@@ -1,0 +1,11 @@
+{
+  "name": "UsrAK",
+  "version": "0.3.0",
+  "summary": "A reusable FastAPI authentication and authorization extension.",
+  "author": "frankmurrey, preposition17",
+  "license": null,
+  "home_page": null,
+  "download_filename": "usrak-0.3.0.tar.gz",
+  "download_time": "2026-03-16T13:14:32.114275",
+  "package_url": "https://pypi.org/project/UsrAK/"
+}

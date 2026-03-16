@@ -1,0 +1,11 @@
+{
+  "name": "oomol-cloud-task-sdk",
+  "version": "1.1.0",
+  "summary": "Python SDK for Oomol Cloud Task API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oomol_cloud_task_sdk-1.1.0.tar.gz",
+  "download_time": "2026-03-16T13:14:11.635560",
+  "package_url": "https://pypi.org/project/oomol-cloud-task-sdk/"
+}

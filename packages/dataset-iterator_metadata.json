@@ -1,0 +1,11 @@
+{
+  "name": "dataset-iterator",
+  "version": "0.5.8",
+  "summary": "Keras-style data iterator for images contained in dataset files such as hdf5 or PIL readable files. Images can be contained in several files.",
+  "author": "Jean Ollion",
+  "license": null,
+  "home_page": "https://github.com/jeanollion/dataset_iterator.git",
+  "download_filename": "dataset_iterator-0.5.8.tar.gz",
+  "download_time": "2026-03-16T13:14:14.512702",
+  "package_url": "https://pypi.org/project/dataset-iterator/"
+}

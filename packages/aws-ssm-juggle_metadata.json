@@ -1,0 +1,11 @@
+{
+  "name": "aws-ssm-juggle",
+  "version": "26.3.0",
+  "summary": "AWS SSM tool for ECS/EC2 (Shell, SSH/SCP, Port Forwarding, ...)",
+  "author": "Stefan Heitmüller",
+  "license": "MIT",
+  "home_page": "https://github.com/morph027/aws-ssm-juggle",
+  "download_filename": "aws_ssm_juggle-26.3.0.tar.gz",
+  "download_time": "2026-03-16T13:14:40.400436",
+  "package_url": "https://pypi.org/project/aws-ssm-juggle/"
+}

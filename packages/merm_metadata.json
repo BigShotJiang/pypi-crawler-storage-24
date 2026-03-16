@@ -1,0 +1,11 @@
+{
+  "name": "merm",
+  "version": "0.1.1",
+  "summary": "Pure Python Mermaid diagram renderer",
+  "author": null,
+  "license": "WTFPL",
+  "home_page": null,
+  "download_filename": "merm-0.1.1.tar.gz",
+  "download_time": "2026-03-16T13:14:04.151180",
+  "package_url": "https://pypi.org/project/merm/"
+}

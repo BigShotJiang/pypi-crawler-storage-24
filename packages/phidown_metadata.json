@@ -1,0 +1,11 @@
+{
+  "name": "phidown",
+  "version": "0.1.26",
+  "summary": "Get access to Copernicus data with a pythonic easy interface. Get your products in seconds not in months.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "phidown-0.1.26.tar.gz",
+  "download_time": "2026-03-16T13:14:05.362466",
+  "package_url": "https://pypi.org/project/phidown/"
+}

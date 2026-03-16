@@ -1,0 +1,11 @@
+{
+  "name": "upp-python",
+  "version": "0.1.0",
+  "summary": "Python reference implementation of the Universal Personalization Protocol (UPP) data models",
+  "author": "UPP Protocol Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "upp_python-0.1.0.tar.gz",
+  "download_time": "2026-03-16T13:14:45.690986",
+  "package_url": "https://pypi.org/project/upp-python/"
+}
