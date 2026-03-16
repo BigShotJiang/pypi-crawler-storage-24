@@ -1,0 +1,11 @@
+{
+  "name": "habitica-prioritize",
+  "version": "0.1.1",
+  "summary": "Rank Habitica todos using a pairwise prioritization matrix",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "habitica_prioritize-0.1.1.tar.gz",
+  "download_time": "2026-03-16T20:36:16.337315",
+  "package_url": "https://pypi.org/project/habitica-prioritize/"
+}

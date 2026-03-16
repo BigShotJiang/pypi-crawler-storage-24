@@ -1,0 +1,11 @@
+{
+  "name": "prompt-shell-cli",
+  "version": "0.1.1",
+  "summary": "Voice-activated terminal-aware prompt enhancer for AI coding assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prompt_shell_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-16T20:36:20.418985",
+  "package_url": "https://pypi.org/project/prompt-shell-cli/"
+}

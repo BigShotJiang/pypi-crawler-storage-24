@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-run-parallel",
+  "version": "0.1.4",
+  "summary": "Run multiple functions in parallel and collect results with the simplest possible API",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_run_parallel-0.1.4.tar.gz",
+  "download_time": "2026-03-16T20:37:02.666320",
+  "package_url": "https://pypi.org/project/philiprehberger-run-parallel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentstamp",
+  "version": "1.1.0",
+  "summary": "Identity lifecycle SDK for Python AI agents — trust stamps, registry, heartbeats, auto-renewal",
+  "author": "Vinay Bhosle",
+  "license": "MIT",
+  "home_page": "https://agentstamp.org",
+  "download_filename": "agentstamp-1.1.0.tar.gz",
+  "download_time": "2026-03-16T20:36:18.061361",
+  "package_url": "https://pypi.org/project/agentstamp/"
+}

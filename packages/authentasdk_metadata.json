@@ -1,0 +1,11 @@
+{
+  "name": "authentasdk",
+  "version": "0.2.5",
+  "summary": "Python SDK for the Authenta API to detect deepfakes and manipulated media",
+  "author": "Arjun Adhithya",
+  "license": "MIT",
+  "home_page": "https://github.com/phospheneai/authenta-python-sdk",
+  "download_filename": "authentasdk-0.2.5.tar.gz",
+  "download_time": "2026-03-16T20:36:37.222875",
+  "package_url": "https://pypi.org/project/authentasdk/"
+}

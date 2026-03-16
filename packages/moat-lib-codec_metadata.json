@@ -1,0 +1,11 @@
+{
+  "name": "moat-lib-codec",
+  "version": "0.4.16",
+  "summary": "A simple command/stream multiplexer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_lib_codec-0.4.16.tar.gz",
+  "download_time": "2026-03-16T20:36:32.380996",
+  "package_url": "https://pypi.org/project/moat-lib-codec/"
+}

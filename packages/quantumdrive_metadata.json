@@ -1,11 +1,11 @@
 {
   "name": "quantumdrive",
-  "version": "1.3.92",
+  "version": "1.3.93",
   "summary": "QuantumDrive platform and SDK",
   "author": "Chris Steel",
   "license": "LicenseRef-AlphSix-Proprietary",
   "home_page": null,
-  "download_filename": "quantumdrive-1.3.92-cp312-cp312-manylinux2014_x86_64.whl",
-  "download_time": "2026-03-16T16:48:38.776564",
+  "download_filename": "quantumdrive-1.3.93-cp312-cp312-manylinux2014_x86_64.whl",
+  "download_time": "2026-03-16T20:36:47.031737",
   "package_url": "https://pypi.org/project/quantumdrive/"
 }

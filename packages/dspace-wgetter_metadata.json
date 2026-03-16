@@ -1,0 +1,11 @@
+{
+  "name": "dspace-wgetter",
+  "version": "1.0.4",
+  "summary": "DSpace downloader, CLI",
+  "author": "Vitaly Zdanevich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dspace_wgetter-1.0.4.tar.gz",
+  "download_time": "2026-03-16T20:36:22.116238",
+  "package_url": "https://pypi.org/project/dspace-wgetter/"
+}

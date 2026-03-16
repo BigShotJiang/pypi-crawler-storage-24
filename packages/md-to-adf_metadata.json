@@ -1,0 +1,11 @@
+{
+  "name": "md-to-adf",
+  "version": "1.0.1",
+  "summary": "Convert Markdown to Atlassian Document Format (ADF) and upload to Confluence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "md_to_adf-1.0.1.tar.gz",
+  "download_time": "2026-03-16T20:36:25.348590",
+  "package_url": "https://pypi.org/project/md-to-adf/"
+}

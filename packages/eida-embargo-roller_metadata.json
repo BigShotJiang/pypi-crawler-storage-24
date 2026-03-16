@@ -1,0 +1,11 @@
+{
+  "name": "eida-embargo-roller",
+  "version": "1.0.7",
+  "summary": "A tool to manage and roll embargo statuses for EIDA StationXML files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eida_embargo_roller-1.0.7.tar.gz",
+  "download_time": "2026-03-16T20:36:19.216179",
+  "package_url": "https://pypi.org/project/eida-embargo-roller/"
+}

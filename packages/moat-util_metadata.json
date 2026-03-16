@@ -1,0 +1,11 @@
+{
+  "name": "moat-util",
+  "version": "0.63.2",
+  "summary": "Utility code for the rest of MoaT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_util-0.63.2.tar.gz",
+  "download_time": "2026-03-16T20:36:30.783649",
+  "package_url": "https://pypi.org/project/moat-util/"
+}

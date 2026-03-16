@@ -1,11 +1,11 @@
 {
   "name": "telegram-rag-bot",
-  "version": "0.14.3",
+  "version": "0.14.6",
   "summary": "Production-ready Telegram FAQ bot with Russian LLMs, RAG, and multi-provider fallback",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "telegram_rag_bot-0.14.3.tar.gz",
-  "download_time": "2026-03-07T16:49:47.936057",
+  "download_filename": "telegram_rag_bot-0.14.6.tar.gz",
+  "download_time": "2026-03-16T20:36:42.664184",
   "package_url": "https://pypi.org/project/telegram-rag-bot/"
 }
