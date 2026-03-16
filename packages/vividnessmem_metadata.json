@@ -1,11 +1,11 @@
 {
   "name": "vividnessmem",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "summary": "Organic episodic memory for AI agents — no RAG, no embeddings, no vector DB",
   "author": "Kronic90",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vividnessmem-1.0.0.tar.gz",
-  "download_time": "2026-03-15T15:27:39.686463",
+  "download_filename": "vividnessmem-1.0.4.tar.gz",
+  "download_time": "2026-03-16T21:26:15.502984",
   "package_url": "https://pypi.org/project/vividnessmem/"
 }

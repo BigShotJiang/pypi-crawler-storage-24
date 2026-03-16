@@ -1,0 +1,11 @@
+{
+  "name": "CryptoGuardClient",
+  "version": "0.6.0",
+  "summary": "Python SDK for CryptoGuard — crypto risk scanner that detected every major crash in backtesting, 27 days early",
+  "author": "Greg Partin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptoguardclient-0.6.0.tar.gz",
+  "download_time": "2026-03-16T21:25:57.831849",
+  "package_url": "https://pypi.org/project/CryptoGuardClient/"
+}

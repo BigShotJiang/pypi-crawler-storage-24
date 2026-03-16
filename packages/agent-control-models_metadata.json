@@ -1,11 +1,11 @@
 {
   "name": "agent-control-models",
-  "version": "6.7.0",
+  "version": "6.8.1",
   "summary": "Shared data models for Agent Control server and SDK",
   "author": "Agent Control Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_control_models-6.7.0.tar.gz",
-  "download_time": "2026-03-11T20:01:35.528746",
+  "download_filename": "agent_control_models-6.8.1.tar.gz",
+  "download_time": "2026-03-16T21:26:34.812890",
   "package_url": "https://pypi.org/project/agent-control-models/"
 }

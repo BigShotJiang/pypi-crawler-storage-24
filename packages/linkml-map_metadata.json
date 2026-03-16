@@ -1,0 +1,11 @@
+{
+  "name": "linkml-map",
+  "version": "0.4.0",
+  "summary": "a framework for specifying and executing mappings between data models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linkml_map-0.4.0.tar.gz",
+  "download_time": "2026-03-16T21:26:39.495536",
+  "package_url": "https://pypi.org/project/linkml-map/"
+}

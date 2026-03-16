@@ -1,11 +1,11 @@
 {
   "name": "pwb-wrapper-for-simpler-uploading-to-commons",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "CLI wrapper around Pywikibot for simpler Wikimedia Commons uploads",
   "author": "Vitaly Zdanevich",
   "license": null,
   "home_page": null,
-  "download_filename": "pwb_wrapper_for_simpler_uploading_to_commons-1.0.1.tar.gz",
-  "download_time": "2026-03-14T13:53:18.048795",
+  "download_filename": "pwb_wrapper_for_simpler_uploading_to_commons-1.1.0.tar.gz",
+  "download_time": "2026-03-16T21:26:06.104138",
   "package_url": "https://pypi.org/project/pwb-wrapper-for-simpler-uploading-to-commons/"
 }

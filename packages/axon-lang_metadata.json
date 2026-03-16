@@ -1,11 +1,11 @@
 {
   "name": "axon-lang",
-  "version": "0.11.0",
+  "version": "0.14.0",
   "summary": "A programming language for AI cognition — compiles to prompts, not machine code.",
   "author": "RicardoVelit",
   "license": null,
   "home_page": null,
-  "download_filename": "axon_lang-0.11.0.tar.gz",
-  "download_time": "2026-03-13T21:03:28.777822",
+  "download_filename": "axon_lang-0.14.0.tar.gz",
+  "download_time": "2026-03-16T21:26:44.167423",
   "package_url": "https://pypi.org/project/axon-lang/"
 }

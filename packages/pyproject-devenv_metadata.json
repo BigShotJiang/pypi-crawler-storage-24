@@ -1,0 +1,11 @@
+{
+  "name": "pyproject-devenv",
+  "version": "0.3.0",
+  "summary": "Create virtual environments using pyproject.toml metadata.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/repo-helper/pyproject-devenv",
+  "download_filename": "pyproject_devenv-0.3.0.tar.gz",
+  "download_time": "2026-03-16T21:26:05.592374",
+  "package_url": "https://pypi.org/project/pyproject-devenv/"
+}

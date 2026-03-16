@@ -1,11 +1,11 @@
 {
   "name": "papermind",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Scientific knowledge base — papers, packages, codebases → queryable markdown",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "papermind-1.4.0.tar.gz",
-  "download_time": "2026-03-16T20:36:25.887587",
+  "download_filename": "papermind-1.5.0.tar.gz",
+  "download_time": "2026-03-16T21:26:10.281482",
   "package_url": "https://pypi.org/project/papermind/"
 }
