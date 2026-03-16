@@ -1,11 +1,11 @@
 {
   "name": "beancount-chile",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Beancount importers for Chilean banks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beancount_chile-0.9.2.tar.gz",
-  "download_time": "2026-03-16T11:04:55.410718",
+  "download_filename": "beancount_chile-0.9.3.tar.gz",
+  "download_time": "2026-03-16T12:00:28.031859",
   "package_url": "https://pypi.org/project/beancount-chile/"
 }

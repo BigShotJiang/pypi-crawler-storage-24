@@ -1,11 +1,11 @@
 {
   "name": "pldatacli",
-  "version": "0.1.11",
+  "version": "0.2.0",
   "summary": "A data analysis cli tool using polars lazyframes",
   "author": "utkarshg1",
   "license": null,
   "home_page": null,
-  "download_filename": "pldatacli-0.1.11.tar.gz",
-  "download_time": "2026-03-15T10:34:20.752547",
+  "download_filename": "pldatacli-0.2.0.tar.gz",
+  "download_time": "2026-03-16T12:00:23.877327",
   "package_url": "https://pypi.org/project/pldatacli/"
 }

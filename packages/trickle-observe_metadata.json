@@ -1,11 +1,11 @@
 {
   "name": "trickle-observe",
-  "version": "0.2.38",
+  "version": "0.2.41",
   "summary": "Zero-code runtime observability for Python. Auto-instruments FastAPI, Flask, Django, OpenAI, Anthropic, Gemini, LangChain, CrewAI. Captures functions, variables, LLM calls, agent workflows, tensor shapes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trickle_observe-0.2.38.tar.gz",
-  "download_time": "2026-03-16T11:05:11.275493",
+  "download_filename": "trickle_observe-0.2.41.tar.gz",
+  "download_time": "2026-03-16T12:00:20.269999",
   "package_url": "https://pypi.org/project/trickle-observe/"
 }

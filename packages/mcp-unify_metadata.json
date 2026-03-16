@@ -1,0 +1,11 @@
+{
+  "name": "mcp-unify",
+  "version": "0.1.1",
+  "summary": "Unify multiple MCP servers behind a single endpoint with lazy loading, plugins, and role filtering.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_unify-0.1.1.tar.gz",
+  "download_time": "2026-03-16T12:00:34.272169",
+  "package_url": "https://pypi.org/project/mcp-unify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "WeeLab",
+  "version": "0.1.4",
+  "summary": "Unified control library for lab equipment (oscilloscopes, power supplies, lasers, etc.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weelab-0.1.4.tar.gz",
+  "download_time": "2026-03-16T12:00:21.303634",
+  "package_url": "https://pypi.org/project/WeeLab/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tlm-cli",
-  "version": "0.7.0",
+  "version": "0.10.0",
   "summary": "TLM - Your AI Tech Lead. It's the annoying agent which doesn't let claude cut corners",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tlm_cli-0.7.0.tar.gz",
-  "download_time": "2026-03-07T08:55:37.111429",
+  "download_filename": "tlm_cli-0.10.0.tar.gz",
+  "download_time": "2026-03-16T12:00:30.114435",
   "package_url": "https://pypi.org/project/tlm-cli/"
 }

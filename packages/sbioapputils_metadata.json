@@ -1,0 +1,11 @@
+{
+  "name": "sbioapputils",
+  "version": "1.0.39",
+  "summary": "Utilities for developing apps with Superbio",
+  "author": "Superbio AI",
+  "license": null,
+  "home_page": "https://github.com/Superbio-ai/app-sbioutils",
+  "download_filename": "sbioapputils-1.0.39.tar.gz",
+  "download_time": "2026-03-16T12:00:39.080416",
+  "package_url": "https://pypi.org/project/sbioapputils/"
+}

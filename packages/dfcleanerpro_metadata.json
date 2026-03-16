@@ -1,0 +1,11 @@
+{
+  "name": "dfcleanerpro",
+  "version": "0.1.0",
+  "summary": "Simple DataFrame cleaning toolkit",
+  "author": "Nishanth K",
+  "license": null,
+  "home_page": "https://github.com/Nishanth9696/dfcleaner",
+  "download_filename": "dfcleanerpro-0.1.0.tar.gz",
+  "download_time": "2026-03-16T12:00:33.233045",
+  "package_url": "https://pypi.org/project/dfcleanerpro/"
+}

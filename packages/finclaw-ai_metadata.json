@@ -1,11 +1,11 @@
 {
   "name": "finclaw-ai",
-  "version": "1.0.0",
-  "summary": "AI-Powered Financial Intelligence Engine. 8 Master Strategies, 3 Markets, 227 Tests.",
+  "version": "2.1.0",
+  "summary": "AI-Powered Financial Intelligence Engine - ML, Alpha Models, 8 Strategies, 5 Markets, Walk-Forward Backtesting.",
   "author": null,
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "finclaw_ai-1.0.0.tar.gz",
-  "download_time": "2026-03-15T14:10:29.908413",
+  "download_filename": "finclaw_ai-2.1.0.tar.gz",
+  "download_time": "2026-03-16T12:00:34.791969",
   "package_url": "https://pypi.org/project/finclaw-ai/"
 }

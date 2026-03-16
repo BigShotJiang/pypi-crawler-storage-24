@@ -1,11 +1,11 @@
 {
   "name": "opsward",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Diagnose, generate, and maintain the AI agent setup of your projects — CLAUDE.md, skills, subagents, rules, and supporting docs.",
   "author": "Thor Whalen",
   "license": "mit",
   "home_page": null,
-  "download_filename": "opsward-0.0.6.tar.gz",
-  "download_time": "2026-03-16T11:05:50.041432",
+  "download_filename": "opsward-0.0.7.tar.gz",
+  "download_time": "2026-03-16T12:00:13.507618",
   "package_url": "https://pypi.org/project/opsward/"
 }

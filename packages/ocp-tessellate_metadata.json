@@ -1,0 +1,11 @@
+{
+  "name": "ocp-tessellate",
+  "version": "3.2.0",
+  "summary": "Tessellate OCP (https://github.com/cadquery/OCP) objects to use with threejs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocp_tessellate-3.2.0.tar.gz",
+  "download_time": "2026-03-16T12:00:41.155446",
+  "package_url": "https://pypi.org/project/ocp-tessellate/"
+}

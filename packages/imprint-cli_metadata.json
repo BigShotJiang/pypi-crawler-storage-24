@@ -1,0 +1,11 @@
+{
+  "name": "imprint-cli",
+  "version": "2.0.0",
+  "summary": "Stamp your developer environment on any machine",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imprint_cli-2.0.0.tar.gz",
+  "download_time": "2026-03-16T12:00:35.311643",
+  "package_url": "https://pypi.org/project/imprint-cli/"
+}

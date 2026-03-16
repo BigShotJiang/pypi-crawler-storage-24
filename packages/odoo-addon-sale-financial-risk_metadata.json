@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-financial-risk",
+  "version": "19.0.1.0.0.2",
+  "summary": "Manage partner risk in sales orders",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/credit-control",
+  "download_filename": "odoo_addon_sale_financial_risk-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-16T12:00:26.481724",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-financial-risk/"
+}
