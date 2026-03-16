@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-sub-account",
+  "version": "3.5.0",
+  "summary": "Official Binance SubAccount SDK - A lightweight library that provides a convenient interface to Binance's SubAccount REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_sub_account-3.5.0.tar.gz",
+  "download_time": "2026-03-16T11:05:37.058360",
+  "package_url": "https://pypi.org/project/binance-sdk-sub-account/"
+}

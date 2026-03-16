@@ -1,11 +1,11 @@
 {
   "name": "unifi-topology",
-  "version": "1.2.1",
+  "version": "1.2.5",
   "summary": "Python library for UniFi network topology discovery and SVG rendering",
   "author": "Merlijn Tishauser",
   "license": null,
   "home_page": null,
-  "download_filename": "unifi_topology-1.2.1.tar.gz",
-  "download_time": "2026-03-15T21:27:25.551272",
+  "download_filename": "unifi_topology-1.2.5.tar.gz",
+  "download_time": "2026-03-16T11:05:06.201714",
   "package_url": "https://pypi.org/project/unifi-topology/"
 }

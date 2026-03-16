@@ -1,0 +1,11 @@
+{
+  "name": "qutip-sampler",
+  "version": "0.1.4",
+  "summary": "Quantum annealing sampler using QuTiP sesolve",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qutip_sampler-0.1.4.tar.gz",
+  "download_time": "2026-03-16T11:04:56.050724",
+  "package_url": "https://pypi.org/project/qutip-sampler/"
+}

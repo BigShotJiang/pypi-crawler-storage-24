@@ -1,0 +1,11 @@
+{
+  "name": "jetforge-sdk",
+  "version": "0.1.1",
+  "summary": "JetForge SDK — lightweight client for capability discovery, prompt loading, and real-time updates from JetForge registry.",
+  "author": "JetForge Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "jetforge_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-16T11:05:28.836128",
+  "package_url": "https://pypi.org/project/jetforge-sdk/"
+}

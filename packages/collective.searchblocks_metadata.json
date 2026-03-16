@@ -1,0 +1,11 @@
+{
+  "name": "collective.searchblocks",
+  "version": "0.1.22",
+  "summary": "Additional control-panel that allow users to search which contents using a specific block",
+  "author": null,
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "collective_searchblocks-0.1.22.tar.gz",
+  "download_time": "2026-03-16T11:05:33.218300",
+  "package_url": "https://pypi.org/project/collective.searchblocks/"
+}

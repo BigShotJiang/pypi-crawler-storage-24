@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-nft",
+  "version": "2.5.0",
+  "summary": "Official Binance NFT SDK - A lightweight library that provides a convenient interface to Binance's NFT REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_nft-2.5.0.tar.gz",
+  "download_time": "2026-03-16T11:05:43.489489",
+  "package_url": "https://pypi.org/project/binance-sdk-nft/"
+}

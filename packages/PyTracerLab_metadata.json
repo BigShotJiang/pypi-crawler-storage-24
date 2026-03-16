@@ -1,0 +1,11 @@
+{
+  "name": "PyTracerLab",
+  "version": "0.2.7",
+  "summary": "Lumped parameter groundwater age simulations with a simple user interface - in Python",
+  "author": "Max G. Rudolph",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytracerlab-0.2.7.tar.gz",
+  "download_time": "2026-03-16T11:05:04.907388",
+  "package_url": "https://pypi.org/project/PyTracerLab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-gift-card",
+  "version": "2.5.0",
+  "summary": "Official Binance GiftCard SDK - A lightweight library that provides a convenient interface to Binance's GiftCard REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_gift_card-2.5.0.tar.gz",
+  "download_time": "2026-03-16T11:05:48.115926",
+  "package_url": "https://pypi.org/project/binance-sdk-gift-card/"
+}

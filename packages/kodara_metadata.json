@@ -1,11 +1,11 @@
 {
   "name": "kodara",
-  "version": "0.2.4",
+  "version": "0.3.1",
   "summary": "Memory Layer for AI Development — Architecture-aware context engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kodara-0.2.4.tar.gz",
-  "download_time": "2026-03-14T19:58:36.758776",
+  "download_filename": "kodara-0.3.1.tar.gz",
+  "download_time": "2026-03-16T11:05:19.015042",
   "package_url": "https://pypi.org/project/kodara/"
 }

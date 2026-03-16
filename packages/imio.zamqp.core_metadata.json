@@ -1,0 +1,11 @@
+{
+  "name": "imio.zamqp.core",
+  "version": "0.13.1",
+  "summary": "Generic methods tu use amqp",
+  "author": "IMIO",
+  "license": "GPL",
+  "home_page": "https://github.com/imio/",
+  "download_filename": "imio_zamqp_core-0.13.1.tar.gz",
+  "download_time": "2026-03-16T11:05:24.526955",
+  "package_url": "https://pypi.org/project/imio.zamqp.core/"
+}

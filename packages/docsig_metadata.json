@@ -1,11 +1,11 @@
 {
   "name": "docsig",
-  "version": "0.80.0",
+  "version": "0.80.1",
   "summary": "Check signature params for proper documentation",
   "author": "jshwi",
   "license": "MIT",
   "home_page": "https://docsig.io",
-  "download_filename": "docsig-0.80.0.tar.gz",
-  "download_time": "2026-03-07T08:29:04.368917",
+  "download_filename": "docsig-0.80.1.tar.gz",
+  "download_time": "2026-03-16T11:05:34.502120",
   "package_url": "https://pypi.org/project/docsig/"
 }

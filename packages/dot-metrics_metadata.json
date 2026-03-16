@@ -1,0 +1,11 @@
+{
+  "name": "dot-metrics",
+  "version": "0.4.0",
+  "summary": "A lightweight metrics and constraint evaluation framework",
+  "author": null,
+  "license": "TODO: TO BE COMPLETED",
+  "home_page": null,
+  "download_filename": "dot_metrics-0.4.0.tar.gz",
+  "download_time": "2026-03-16T11:05:22.613329",
+  "package_url": "https://pypi.org/project/dot-metrics/"
+}
