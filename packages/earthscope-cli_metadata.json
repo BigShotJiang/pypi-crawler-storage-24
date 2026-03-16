@@ -1,0 +1,11 @@
+{
+  "name": "earthscope-cli",
+  "version": "1.1.2",
+  "summary": "A CLI for the EarthScope API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "earthscope_cli-1.1.2.tar.gz",
+  "download_time": "2026-03-16T22:55:16.015007",
+  "package_url": "https://pypi.org/project/earthscope-cli/"
+}

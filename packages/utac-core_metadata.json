@@ -1,0 +1,11 @@
+{
+  "name": "utac-core",
+  "version": "0.1.0",
+  "summary": "The mathematical UTAC logistic core – σ(β(R−Θ)), β-Fitting, Frame-Principle and v_RIG for the GenesisAeon stack.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "utac_core-0.1.0.tar.gz",
+  "download_time": "2026-03-16T22:54:50.237891",
+  "package_url": "https://pypi.org/project/utac-core/"
+}

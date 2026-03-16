@@ -1,11 +1,11 @@
 {
   "name": "glpi-utils",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Python library for working with the GLPI REST API (9.1+, 10.x, 11.x)",
   "author": "Giovanny Rodriguez",
   "license": null,
   "home_page": "https://github.com/giovanny07/python-glpi-utils",
-  "download_filename": "glpi_utils-1.4.2.tar.gz",
-  "download_time": "2026-03-16T22:10:08.249369",
+  "download_filename": "glpi_utils-1.4.3.tar.gz",
+  "download_time": "2026-03-16T22:55:13.377410",
   "package_url": "https://pypi.org/project/glpi-utils/"
 }

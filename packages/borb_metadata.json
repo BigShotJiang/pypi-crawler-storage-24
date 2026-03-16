@@ -1,0 +1,11 @@
+{
+  "name": "borb",
+  "version": "3.0.7",
+  "summary": "borb is a library for reading, creating and manipulating PDF files in python.",
+  "author": "Joris Schellekens",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/borb-pdf/borb",
+  "download_filename": "borb-3.0.7.tar.gz",
+  "download_time": "2026-03-16T22:55:19.742861",
+  "package_url": "https://pypi.org/project/borb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "drm-display",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python bindings for Linux DRM/KMS display output via /dev/dri/cardN",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "drm_display-0.1.2.tar.gz",
-  "download_time": "2026-03-16T21:26:27.534886",
+  "download_filename": "drm_display-0.1.3.tar.gz",
+  "download_time": "2026-03-16T22:55:21.845946",
   "package_url": "https://pypi.org/project/drm-display/"
 }

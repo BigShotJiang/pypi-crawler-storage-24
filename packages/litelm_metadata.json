@@ -1,11 +1,11 @@
 {
   "name": "litelm",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "summary": "Lightweight litellm replacement — thin OpenAI-SDK routing layer for multi-provider LLM calls",
   "author": "Kenneth Wolters",
   "license": null,
   "home_page": null,
-  "download_filename": "litelm-0.2.0.tar.gz",
-  "download_time": "2026-03-13T21:50:50.922664",
+  "download_filename": "litelm-0.3.2.tar.gz",
+  "download_time": "2026-03-16T22:55:23.967534",
   "package_url": "https://pypi.org/project/litelm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "actiondraw",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "summary": "A diagramming module built with PySide6 and QML",
   "author": "oyvinrog",
   "license": null,
   "home_page": null,
-  "download_filename": "actiondraw-0.1.23.tar.gz",
-  "download_time": "2026-03-16T22:09:39.375120",
+  "download_filename": "actiondraw-0.1.24.tar.gz",
+  "download_time": "2026-03-16T22:55:26.054400",
   "package_url": "https://pypi.org/project/actiondraw/"
 }

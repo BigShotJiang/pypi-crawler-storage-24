@@ -1,11 +1,11 @@
 {
   "name": "alea-llm-client",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "ALEA LLM client abstraction library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alea_llm_client-0.3.0.tar.gz",
-  "download_time": "2026-03-16T21:26:03.518264",
+  "download_filename": "alea_llm_client-0.3.3.tar.gz",
+  "download_time": "2026-03-16T22:55:00.658903",
   "package_url": "https://pypi.org/project/alea-llm-client/"
 }

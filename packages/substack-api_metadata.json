@@ -1,0 +1,11 @@
+{
+  "name": "substack-api",
+  "version": "1.2.0",
+  "summary": "Unofficial wrapper for the Substack API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "substack_api-1.2.0.tar.gz",
+  "download_time": "2026-03-16T22:55:12.337877",
+  "package_url": "https://pypi.org/project/substack-api/"
+}
