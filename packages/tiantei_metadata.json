@@ -1,0 +1,11 @@
+{
+  "name": "tiantei",
+  "version": "0.1.0",
+  "summary": "天忒量化 SDK - 股票数据源与特征计算",
+  "author": "天忒量化",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiantei-0.1.0.tar.gz",
+  "download_time": "2026-03-16T07:51:40.154023",
+  "package_url": "https://pypi.org/project/tiantei/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pptagent",
+  "version": "1.1.8",
+  "summary": "An Agentic Framework for Reflective PowerPoint Generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pptagent-1.1.8.tar.gz",
+  "download_time": "2026-03-16T07:51:44.785357",
+  "package_url": "https://pypi.org/project/pptagent/"
+}

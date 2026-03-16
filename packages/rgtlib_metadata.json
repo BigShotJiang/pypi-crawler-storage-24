@@ -1,0 +1,11 @@
+{
+  "name": "rgtlib",
+  "version": "1.1.7",
+  "summary": "A software tool for response analysis of graph networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rgtlib-1.1.7.tar.gz",
+  "download_time": "2026-03-16T07:51:47.361217",
+  "package_url": "https://pypi.org/project/rgtlib/"
+}

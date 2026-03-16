@@ -1,0 +1,11 @@
+{
+  "name": "langchain-opendataloader-pdf",
+  "version": "1.2.0",
+  "summary": "A LangChain integration for OpenDataLoader PDF",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_opendataloader_pdf-1.2.0.tar.gz",
+  "download_time": "2026-03-16T07:51:33.967854",
+  "package_url": "https://pypi.org/project/langchain-opendataloader-pdf/"
+}

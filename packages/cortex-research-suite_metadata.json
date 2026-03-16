@@ -1,0 +1,11 @@
+{
+  "name": "cortex-research-suite",
+  "version": "1.1.0",
+  "summary": "AI Research Operating System — skill testing, synthetic data, evaluation, multi-agent orchestration",
+  "author": "TECHKNOWMAD-LABS",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cortex_research_suite-1.1.0.tar.gz",
+  "download_time": "2026-03-16T07:51:32.934095",
+  "package_url": "https://pypi.org/project/cortex-research-suite/"
+}

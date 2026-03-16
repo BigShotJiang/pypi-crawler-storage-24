@@ -1,0 +1,11 @@
+{
+  "name": "bsb-attack",
+  "version": "5.0.4",
+  "summary": "The world's most powerful multi‑vector load testing tool with real‑time stress bar and admin panel",
+  "author": "Shawpon",
+  "license": null,
+  "home_page": "https://github.com/Shawpon2/bsb-attack",
+  "download_filename": "bsb_attack-5.0.4.tar.gz",
+  "download_time": "2026-03-16T07:51:41.180881",
+  "package_url": "https://pypi.org/project/bsb-attack/"
+}

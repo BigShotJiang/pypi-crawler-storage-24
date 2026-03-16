@@ -1,11 +1,11 @@
 {
   "name": "robotframework-keyta",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "summary": "A web UI for Robot Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robotframework_keyta-2.1.2-py3-none-any.whl",
-  "download_time": "2026-03-12T07:15:20.405351",
+  "download_filename": "robotframework_keyta-2.1.3-py3-none-any.whl",
+  "download_time": "2026-03-16T07:51:55.556818",
   "package_url": "https://pypi.org/project/robotframework-keyta/"
 }

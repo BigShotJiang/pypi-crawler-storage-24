@@ -1,0 +1,11 @@
+{
+  "name": "capmonstercloudclient",
+  "version": "4.0.0",
+  "summary": "Official CapMonsterCloud Client: https://capmonster.cloud/",
+  "author": "Andrey Ilyin",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ZennoLab/capmonstercloud-client-python",
+  "download_filename": "capmonstercloudclient-4.0.0.tar.gz",
+  "download_time": "2026-03-16T07:51:42.201596",
+  "package_url": "https://pypi.org/project/capmonstercloudclient/"
+}

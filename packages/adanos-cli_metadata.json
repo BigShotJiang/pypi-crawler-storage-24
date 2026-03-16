@@ -1,11 +1,11 @@
 {
   "name": "adanos-cli",
-  "version": "1.19.1",
-  "summary": "Comprehensive CLI for the Adanos Finance Sentiment API",
+  "version": "1.20.3",
+  "summary": "CLI for the Adanos Finance Sentiment API",
   "author": "Alexander Schneider",
   "license": null,
   "home_page": null,
-  "download_filename": "adanos_cli-1.19.1.tar.gz",
-  "download_time": "2026-03-07T17:17:17.854514",
+  "download_filename": "adanos_cli-1.20.3.tar.gz",
+  "download_time": "2026-03-16T07:51:41.691339",
   "package_url": "https://pypi.org/project/adanos-cli/"
 }
