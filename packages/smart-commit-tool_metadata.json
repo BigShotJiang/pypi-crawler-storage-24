@@ -1,0 +1,11 @@
+{
+  "name": "smart-commit-tool",
+  "version": "1.0.0",
+  "summary": "Automated pre-push workflow manager with built-in code quality enforcement and smart branch protection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_commit_tool-1.0.0.tar.gz",
+  "download_time": "2026-03-16T16:48:19.030008",
+  "package_url": "https://pypi.org/project/smart-commit-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "entropic-engine",
+  "version": "1.7.0",
+  "summary": "Local-first agentic inference engine with tier-based model routing",
+  "author": "Tristan VanFossen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "entropic_engine-1.7.0.tar.gz",
+  "download_time": "2026-03-16T16:48:42.912196",
+  "package_url": "https://pypi.org/project/entropic-engine/"
+}

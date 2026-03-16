@@ -1,0 +1,11 @@
+{
+  "name": "praetor",
+  "version": "4.12",
+  "summary": "Automatic Generation of Provenance from Python3 Scripts",
+  "author": "Michael Johnson",
+  "license": "MIT",
+  "home_page": "https://gitlab.mpcdf.mpg.de/PRAETOR/prov-PRAETOR_public/",
+  "download_filename": "praetor-4.12.tar.gz",
+  "download_time": "2026-03-16T16:48:38.246358",
+  "package_url": "https://pypi.org/project/praetor/"
+}

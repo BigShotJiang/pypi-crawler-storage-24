@@ -1,11 +1,11 @@
 {
   "name": "plllm-mlx",
-  "version": "1.4.2",
+  "version": "1.5.4",
   "summary": "Standalone MLX-based LLM inference service with OpenAI compatible API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plllm_mlx-1.4.2.tar.gz",
-  "download_time": "2026-03-16T13:14:39.823723",
+  "download_filename": "plllm_mlx-1.5.4.tar.gz",
+  "download_time": "2026-03-16T16:48:15.428766",
   "package_url": "https://pypi.org/project/plllm-mlx/"
 }

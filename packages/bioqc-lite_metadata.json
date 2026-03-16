@@ -1,0 +1,11 @@
+{
+  "name": "bioqc-lite",
+  "version": "0.1.2",
+  "summary": "A unified QC tool for DNA, RNA, and Protein sequences",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioqc_lite-0.1.2.tar.gz",
+  "download_time": "2026-03-16T16:48:00.824826",
+  "package_url": "https://pypi.org/project/bioqc-lite/"
+}

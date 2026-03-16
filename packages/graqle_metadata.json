@@ -1,11 +1,11 @@
 {
   "name": "graqle",
-  "version": "0.26.1",
+  "version": "0.28.0",
   "summary": "Query your architecture, not your files. Turn any codebase into a self-learning knowledge graph with governance, 201 skills, and multi-signal activation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graqle-0.26.1.tar.gz",
-  "download_time": "2026-03-15T23:28:01.029247",
+  "download_filename": "graqle-0.28.0.tar.gz",
+  "download_time": "2026-03-16T16:48:13.874044",
   "package_url": "https://pypi.org/project/graqle/"
 }

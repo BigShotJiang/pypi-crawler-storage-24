@@ -1,0 +1,11 @@
+{
+  "name": "pymfx",
+  "version": "1.0.0",
+  "summary": "Python library for the Mission Flight Exchange (.mfx) v1.0 format",
+  "author": "pymfx contributors",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)\n        \n        Copyright (c) 2026 pymfx contributors\n        \n        You are free to:\n          Share — copy and redistribute the material in any medium or format\n          Adapt — remix, transform, and build upon the material for any purpose, even commercially.\n        \n        Under the following terms:\n          Attribution — You must give appropriate credit, provide a link to the license,\n          and indicate if changes were made.\n        \n        Full license text: https://creativecommons.org/licenses/by/4.0/legalcode\n        ",
+  "home_page": null,
+  "download_filename": "pymfx-1.0.0.tar.gz",
+  "download_time": "2026-03-16T16:48:20.641673",
+  "package_url": "https://pypi.org/project/pymfx/"
+}

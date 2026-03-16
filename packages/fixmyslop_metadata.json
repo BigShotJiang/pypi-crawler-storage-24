@@ -1,0 +1,11 @@
+{
+  "name": "fixmyslop",
+  "version": "0.2.1",
+  "summary": "AI wrote your code. FixMySlop fixes it.",
+  "author": "FixMySlop Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fixmyslop-0.2.1.tar.gz",
+  "download_time": "2026-03-16T16:48:12.290603",
+  "package_url": "https://pypi.org/project/fixmyslop/"
+}

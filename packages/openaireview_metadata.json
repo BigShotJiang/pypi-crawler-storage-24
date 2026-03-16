@@ -1,11 +1,11 @@
 {
   "name": "openaireview",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "AI-powered academic paper reviewer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openaireview-0.2.3.tar.gz",
-  "download_time": "2026-03-12T01:26:32.390784",
+  "download_filename": "openaireview-0.2.4.tar.gz",
+  "download_time": "2026-03-16T16:48:39.292663",
   "package_url": "https://pypi.org/project/openaireview/"
 }

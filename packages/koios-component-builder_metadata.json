@@ -1,0 +1,11 @@
+{
+  "name": "koios-component-builder",
+  "version": "1.0.0rc2",
+  "summary": "Simplified component builder for the Koios platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koios_component_builder-1.0.0rc2.tar.gz",
+  "download_time": "2026-03-16T16:48:18.514342",
+  "package_url": "https://pypi.org/project/koios-component-builder/"
+}
