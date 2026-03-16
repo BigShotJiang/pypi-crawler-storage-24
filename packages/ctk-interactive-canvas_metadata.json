@@ -1,0 +1,11 @@
+{
+  "name": "ctk-interactive-canvas",
+  "version": "0.7.0",
+  "summary": "Interactive canvas widget for CustomTkinter with draggable, resizable rectangles",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctk_interactive_canvas-0.7.0.tar.gz",
+  "download_time": "2026-03-16T06:13:33.061090",
+  "package_url": "https://pypi.org/project/ctk-interactive-canvas/"
+}

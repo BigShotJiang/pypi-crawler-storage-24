@@ -1,0 +1,11 @@
+{
+  "name": "violet-poolController-api",
+  "version": "0.0.3",
+  "summary": "Asynchronous Python client for the Violet Pool Controller.",
+  "author": "Basti (Xerolux)",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/Xerolux/violet-poolController-api",
+  "download_filename": "violet_poolcontroller_api-0.0.3.tar.gz",
+  "download_time": "2026-03-16T06:13:24.101296",
+  "package_url": "https://pypi.org/project/violet-poolController-api/"
+}

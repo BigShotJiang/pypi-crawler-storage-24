@@ -1,0 +1,11 @@
+{
+  "name": "seekdb-cli",
+  "version": "0.1.2",
+  "summary": "AI-Agent-friendly database CLI for seekdb / OceanBase",
+  "author": "David Zhang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seekdb_cli-0.1.2.tar.gz",
+  "download_time": "2026-03-16T06:13:35.734755",
+  "package_url": "https://pypi.org/project/seekdb-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fast-pptx-pdf",
+  "version": "0.1.0",
+  "summary": "Convert PPTX to PDF using LibreOffice headless mode with safe parallel conversion",
+  "author": "fast-pptx-pdf contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_pptx_pdf-0.1.0.tar.gz",
+  "download_time": "2026-03-16T06:13:17.079993",
+  "package_url": "https://pypi.org/project/fast-pptx-pdf/"
+}

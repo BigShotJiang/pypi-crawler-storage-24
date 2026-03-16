@@ -1,11 +1,11 @@
 {
   "name": "chaser-sdk",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Official Python SDK for Chaser",
   "author": "Chaser Team",
   "license": null,
   "home_page": null,
-  "download_filename": "chaser_sdk-0.1.6.tar.gz",
-  "download_time": "2026-03-16T04:39:42.417225",
+  "download_filename": "chaser_sdk-0.1.7.tar.gz",
+  "download_time": "2026-03-16T06:13:43.843304",
   "package_url": "https://pypi.org/project/chaser-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-eds-user20210308",
+  "version": "2.0.0",
+  "summary": "Alibaba Cloud eds-user (20210308) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_eds_user20210308-2.0.0.tar.gz",
+  "download_time": "2026-03-16T06:13:19.489530",
+  "package_url": "https://pypi.org/project/alibabacloud-eds-user20210308/"
+}

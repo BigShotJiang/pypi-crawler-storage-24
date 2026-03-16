@@ -1,0 +1,11 @@
+{
+  "name": "ams-compose",
+  "version": "0.1.2",
+  "summary": "Dependency management tool for analog/mixed-signal IC design repositories",
+  "author": "ams-compose contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ams_compose-0.1.2.tar.gz",
+  "download_time": "2026-03-16T06:13:50.386135",
+  "package_url": "https://pypi.org/project/ams-compose/"
+}

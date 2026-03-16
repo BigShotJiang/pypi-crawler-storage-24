@@ -1,0 +1,11 @@
+{
+  "name": "azure-openai-limits",
+  "version": "0.1.6",
+  "summary": "Static token limits for Azure OpenAI models (context/output), with CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_openai_limits-0.1.6.tar.gz",
+  "download_time": "2026-03-16T06:13:30.910290",
+  "package_url": "https://pypi.org/project/azure-openai-limits/"
+}

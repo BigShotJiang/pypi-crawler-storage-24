@@ -1,0 +1,11 @@
+{
+  "name": "voidpack",
+  "version": "1.0.0",
+  "summary": "VoidPack - Python Mega Dependency Installer",
+  "author": "Sarvesh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "voidpack-1.0.0.tar.gz",
+  "download_time": "2026-03-16T06:13:34.676346",
+  "package_url": "https://pypi.org/project/voidpack/"
+}

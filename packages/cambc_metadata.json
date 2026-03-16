@@ -1,11 +1,11 @@
 {
   "name": "cambc",
-  "version": "0.6.2",
+  "version": "1.0.1",
   "summary": "CLI for Cambridge Battlecode",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cambc-0.6.2-cp312-cp312-win_amd64.whl",
-  "download_time": "2026-03-15T22:57:09.977080",
+  "download_filename": "cambc-1.0.1-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-03-16T06:13:37.391933",
   "package_url": "https://pypi.org/project/cambc/"
 }

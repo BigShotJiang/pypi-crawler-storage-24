@@ -1,11 +1,11 @@
 {
   "name": "wahooks",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Official WAHooks SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wahooks-0.1.0.tar.gz",
-  "download_time": "2026-03-14T05:06:35.496000",
+  "download_filename": "wahooks-0.2.0.tar.gz",
+  "download_time": "2026-03-16T06:13:21.229610",
   "package_url": "https://pypi.org/project/wahooks/"
 }

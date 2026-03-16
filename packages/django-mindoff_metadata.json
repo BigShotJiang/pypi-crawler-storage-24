@@ -1,0 +1,11 @@
+{
+  "name": "django-mindoff",
+  "version": "0.2.0",
+  "summary": "Build production-ready Django REST APIs faster with less boilerplate.",
+  "author": "Joel Samraj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_mindoff-0.2.0.tar.gz",
+  "download_time": "2026-03-16T06:13:24.672303",
+  "package_url": "https://pypi.org/project/django-mindoff/"
+}

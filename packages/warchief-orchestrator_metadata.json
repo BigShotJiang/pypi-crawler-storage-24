@@ -1,11 +1,11 @@
 {
   "name": "warchief-orchestrator",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "WoW-themed AI agent orchestration framework for Claude Code CLI. Coordinates parallel coding agents through automated pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "warchief_orchestrator-0.1.0.tar.gz",
-  "download_time": "2026-03-15T13:39:46.711343",
+  "download_filename": "warchief_orchestrator-0.2.1.tar.gz",
+  "download_time": "2026-03-16T06:13:38.465547",
   "package_url": "https://pypi.org/project/warchief-orchestrator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tribalmind",
-  "version": "2.0.1",
+  "version": "2.2.1",
   "summary": "Shared memory for AI development agents - remember, recall, and share knowledge across projects and teams",
   "author": "TribalMind Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "tribalmind-2.0.1.tar.gz",
-  "download_time": "2026-03-15T05:54:07.557825",
+  "download_filename": "tribalmind-2.2.1.tar.gz",
+  "download_time": "2026-03-16T06:13:21.801683",
   "package_url": "https://pypi.org/project/tribalmind/"
 }
