@@ -1,11 +1,11 @@
 {
   "name": "jira-jr",
-  "version": "0.9.2",
+  "version": "0.9.6",
   "summary": "Agent-friendly Jira CLI with structured JSON output and jq filtering",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jira_jr-0.9.2.tar.gz",
-  "download_time": "2026-03-16T16:48:15.943173",
+  "download_filename": "jira_jr-0.9.6.tar.gz",
+  "download_time": "2026-03-16T19:56:21.309898",
   "package_url": "https://pypi.org/project/jira-jr/"
 }

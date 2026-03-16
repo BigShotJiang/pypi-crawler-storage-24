@@ -1,0 +1,11 @@
+{
+  "name": "spice-crypt",
+  "version": "1.2.0",
+  "summary": "A library for decrypting LTspice® encrypted files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spice_crypt-1.2.0.tar.gz",
+  "download_time": "2026-03-16T19:56:54.681366",
+  "package_url": "https://pypi.org/project/spice-crypt/"
+}

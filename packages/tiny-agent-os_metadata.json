@@ -1,0 +1,11 @@
+{
+  "name": "tiny-agent-os",
+  "version": "1.2.9",
+  "summary": "Python agent loop",
+  "author": "Fabian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiny_agent_os-1.2.9.tar.gz",
+  "download_time": "2026-03-16T19:56:17.117926",
+  "package_url": "https://pypi.org/project/tiny-agent-os/"
+}

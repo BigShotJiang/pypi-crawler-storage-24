@@ -1,0 +1,11 @@
+{
+  "name": "alphaxiv-py",
+  "version": "0.2.0",
+  "summary": "Python SDK and CLI for alphaXiv public research APIs",
+  "author": "Petros",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alphaxiv_py-0.2.0.tar.gz",
+  "download_time": "2026-03-16T19:56:14.054576",
+  "package_url": "https://pypi.org/project/alphaxiv-py/"
+}

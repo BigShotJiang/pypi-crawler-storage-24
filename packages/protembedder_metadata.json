@@ -1,0 +1,11 @@
+{
+  "name": "protembedder",
+  "version": "0.4.0",
+  "summary": "Extract protein embeddings from FASTA files using ESM-2, ProtT5, and ProtBert models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "protembedder-0.4.0.tar.gz",
+  "download_time": "2026-03-16T19:56:28.590311",
+  "package_url": "https://pypi.org/project/protembedder/"
+}

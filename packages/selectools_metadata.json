@@ -1,11 +1,11 @@
 {
   "name": "selectools",
-  "version": "0.16.5",
+  "version": "0.16.7",
   "summary": "Production-ready AI agents with tool calling, structured output, execution traces, and RAG. Provider-agnostic (OpenAI, Anthropic, Gemini, Ollama) with fallback chains, batch processing, tool policies, streaming, caching, and cost tracking.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "selectools-0.16.5.tar.gz",
-  "download_time": "2026-03-16T01:57:33.069845",
+  "download_filename": "selectools-0.16.7.tar.gz",
+  "download_time": "2026-03-16T19:56:29.616347",
   "package_url": "https://pypi.org/project/selectools/"
 }

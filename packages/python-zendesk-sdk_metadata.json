@@ -1,11 +1,11 @@
 {
   "name": "python-zendesk-sdk",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "Modern Python SDK for Zendesk API",
   "author": "bormog",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_zendesk_sdk-0.10.0.tar.gz",
-  "download_time": "2026-03-11T14:35:46.021228",
+  "download_filename": "python_zendesk_sdk-0.11.0.tar.gz",
+  "download_time": "2026-03-16T19:56:47.887442",
   "package_url": "https://pypi.org/project/python-zendesk-sdk/"
 }

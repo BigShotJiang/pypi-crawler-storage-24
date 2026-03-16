@@ -1,0 +1,11 @@
+{
+  "name": "maxapi-sdk",
+  "version": "0.12.2",
+  "summary": "Python SDK for MAX Messenger Bot API",
+  "author": "Maxim Strekolovskiy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maxapi_sdk-0.12.2.tar.gz",
+  "download_time": "2026-03-16T19:56:33.227911",
+  "package_url": "https://pypi.org/project/maxapi-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mango-auth",
+  "version": "0.0.10",
+  "summary": "Mango Auth is a small python module to authenticate using interactive pam authentication against an iRODS installation, opening web browser links as needed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mango_auth-0.0.10.tar.gz",
+  "download_time": "2026-03-16T19:56:30.642899",
+  "package_url": "https://pypi.org/project/mango-auth/"
+}

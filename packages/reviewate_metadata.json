@@ -1,11 +1,11 @@
 {
   "name": "reviewate",
-  "version": "0.5.3",
+  "version": "1.0.0",
   "summary": "AI-powered code reviewer for GitHub and GitLab",
   "author": "Adam Saimi",
   "license": null,
   "home_page": null,
-  "download_filename": "reviewate-0.5.3.tar.gz",
-  "download_time": "2026-03-13T15:30:32.808191",
+  "download_filename": "reviewate-1.0.0.tar.gz",
+  "download_time": "2026-03-16T19:56:41.685745",
   "package_url": "https://pypi.org/project/reviewate/"
 }

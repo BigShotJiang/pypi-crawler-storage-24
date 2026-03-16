@@ -1,0 +1,11 @@
+{
+  "name": "vsc-mympirun",
+  "version": "5.5.1",
+  "summary": "`mympirun` is a tool to make it easier for users of HPC clusters to run MPI programs with good performance.",
+  "author": "Stijn De Weirdt;Kenneth Hoste",
+  "license": "GPLv2",
+  "home_page": "https://github.com/hpcugent/vsc-mympirun",
+  "download_filename": "vsc_mympirun-5.5.1.tar.gz",
+  "download_time": "2026-03-16T19:56:16.096885",
+  "package_url": "https://pypi.org/project/vsc-mympirun/"
+}
