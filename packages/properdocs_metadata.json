@@ -1,11 +1,11 @@
 {
   "name": "properdocs",
-  "version": "0.0.1a1",
-  "summary": "Documentation generator",
+  "version": "1.6.6",
+  "summary": "Project documentation with Markdown.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "properdocs-0.0.1a1.tar.gz",
-  "download_time": "2026-03-13T23:52:59.926607",
+  "download_filename": "properdocs-1.6.6.tar.gz",
+  "download_time": "2026-03-16T23:32:13.112567",
   "package_url": "https://pypi.org/project/properdocs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-gen-files",
+  "version": "0.6.1",
+  "summary": "MkDocs plugin to programmatically generate documentation pages during the build",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_gen_files-0.6.1.tar.gz",
+  "download_time": "2026-03-16T23:31:49.742359",
+  "package_url": "https://pypi.org/project/mkdocs-gen-files/"
+}

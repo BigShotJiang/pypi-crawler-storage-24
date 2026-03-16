@@ -1,0 +1,11 @@
+{
+  "name": "shieldauth-key",
+  "version": "0.1.0",
+  "summary": "License key protection for Python apps — one line of code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shieldauth_key-0.1.0.tar.gz",
+  "download_time": "2026-03-16T23:31:57.186945",
+  "package_url": "https://pypi.org/project/shieldauth-key/"
+}

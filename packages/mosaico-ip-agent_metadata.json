@@ -1,0 +1,11 @@
+{
+  "name": "mosaico-ip-agent",
+  "version": "0.1.0",
+  "summary": "MOSAICO Solution Agent for IP-related queries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mosaico_ip_agent-0.1.0.tar.gz",
+  "download_time": "2026-03-16T23:31:38.226379",
+  "package_url": "https://pypi.org/project/mosaico-ip-agent/"
+}

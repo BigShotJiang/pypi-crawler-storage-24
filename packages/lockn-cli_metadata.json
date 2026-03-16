@@ -1,0 +1,11 @@
+{
+  "name": "lockn-cli",
+  "version": "0.1.1",
+  "summary": "LockN CLI — AI orchestration toolkit for local model management and hardware profiling",
+  "author": null,
+  "license": "FSL-1.1-ALv2",
+  "home_page": null,
+  "download_filename": "lockn_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-16T23:32:15.326545",
+  "package_url": "https://pypi.org/project/lockn-cli/"
+}

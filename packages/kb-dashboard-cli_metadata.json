@@ -1,0 +1,11 @@
+{
+  "name": "kb-dashboard-cli",
+  "version": "0.3.0",
+  "summary": "CLI, LSP, and future MCP server for kb-yaml-to-lens dashboard compiler",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kb_dashboard_cli-0.3.0.tar.gz",
+  "download_time": "2026-03-16T23:31:25.892566",
+  "package_url": "https://pypi.org/project/kb-dashboard-cli/"
+}

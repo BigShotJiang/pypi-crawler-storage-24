@@ -1,0 +1,11 @@
+{
+  "name": "YOLOLogic",
+  "version": "2.1.5",
+  "summary": "An educational module for experimenting with the YOLO logic for multi-instance object detection and for generating region proposals with graph-based algorithms",
+  "author": "Avinash Kak",
+  "license": "Python Software Foundation License",
+  "home_page": "https://engineering.purdue.edu/kak/distYOLO/YOLOLogic-2.1.5.html",
+  "download_filename": "yolologic-2.1.5.tar.gz",
+  "download_time": "2026-03-16T23:31:55.550189",
+  "package_url": "https://pypi.org/project/YOLOLogic/"
+}

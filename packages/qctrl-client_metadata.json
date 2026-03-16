@@ -1,0 +1,11 @@
+{
+  "name": "qctrl-client",
+  "version": "16.1.0",
+  "summary": "Q-CTRL Client",
+  "author": "Q-CTRL",
+  "license": "https://q-ctrl.com/terms",
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "qctrl_client-16.1.0.tar.gz",
+  "download_time": "2026-03-16T23:31:35.909654",
+  "package_url": "https://pypi.org/project/qctrl-client/"
+}

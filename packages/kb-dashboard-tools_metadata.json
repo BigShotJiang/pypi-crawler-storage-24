@@ -1,0 +1,11 @@
+{
+  "name": "kb-dashboard-tools",
+  "version": "0.2.7",
+  "summary": "Shared utilities for Kibana operations, authentication, and workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kb_dashboard_tools-0.2.7.tar.gz",
+  "download_time": "2026-03-16T23:31:28.351740",
+  "package_url": "https://pypi.org/project/kb-dashboard-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ibm-watsonxdata-mcp-server",
+  "version": "0.1.2",
+  "summary": "Model Context Protocol (MCP) server for IBM watsonx.data - enables AI assistants to query and explore lakehouse data",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ibm_watsonxdata_mcp_server-0.1.2.tar.gz",
+  "download_time": "2026-03-16T23:31:55.004608",
+  "package_url": "https://pypi.org/project/ibm-watsonxdata-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stt-qubo-core",
+  "version": "0.1.4",
+  "summary": "Reusable QUBO core library for API and HPC execution",
+  "author": "CADT",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stt_qubo_core-0.1.4.tar.gz",
+  "download_time": "2026-03-16T23:31:48.576206",
+  "package_url": "https://pypi.org/project/stt-qubo-core/"
+}

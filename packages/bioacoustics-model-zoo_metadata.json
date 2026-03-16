@@ -1,0 +1,11 @@
+{
+  "name": "bioacoustics-model-zoo",
+  "version": "0.12.3",
+  "summary": "Public repository of machine learning models for bioacoustics, with OpenSoundscape integration",
+  "author": "sammlapp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bioacoustics_model_zoo-0.12.3.tar.gz",
+  "download_time": "2026-03-16T23:32:07.152007",
+  "package_url": "https://pypi.org/project/bioacoustics-model-zoo/"
+}

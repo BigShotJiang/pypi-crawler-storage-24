@@ -1,0 +1,11 @@
+{
+  "name": "InvestimentosPy",
+  "version": "0.1.0",
+  "summary": "Uma biblioteca para cálculos financeiros básicos",
+  "author": "Pedro R Rogala",
+  "license": null,
+  "home_page": null,
+  "download_filename": "investimentospy-0.1.0.tar.gz",
+  "download_time": "2026-03-16T23:32:03.853948",
+  "package_url": "https://pypi.org/project/InvestimentosPy/"
+}

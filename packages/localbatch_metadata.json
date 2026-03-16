@@ -1,0 +1,11 @@
+{
+  "name": "localbatch",
+  "version": "0.3.0",
+  "summary": "Local AWS Batch emulator for integration testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "localbatch-0.3.0.tar.gz",
+  "download_time": "2026-03-16T23:32:10.394559",
+  "package_url": "https://pypi.org/project/localbatch/"
+}

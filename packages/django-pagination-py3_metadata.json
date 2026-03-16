@@ -1,0 +1,11 @@
+{
+  "name": "django-pagination-py3",
+  "version": "2.3.0",
+  "summary": "A port of ericflo/django-pagination to Python 3 and beyond!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pagination_py3-2.3.0.tar.gz",
+  "download_time": "2026-03-16T23:31:40.124619",
+  "package_url": "https://pypi.org/project/django-pagination-py3/"
+}

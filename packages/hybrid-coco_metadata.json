@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-coco",
+  "version": "0.1.1",
+  "summary": "Local code intelligence: index, query and expose codebase context deterministically",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hybrid_coco-0.1.1.tar.gz",
+  "download_time": "2026-03-16T23:31:30.834895",
+  "package_url": "https://pypi.org/project/hybrid-coco/"
+}
