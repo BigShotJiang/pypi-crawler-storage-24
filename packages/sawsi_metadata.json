@@ -1,11 +1,11 @@
 {
   "name": "sawsi",
-  "version": "19.91",
+  "version": "19.93",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sawsi-19.91-py3-none-any.whl",
-  "download_time": "2026-03-13T08:36:24.951089",
+  "download_filename": "sawsi-19.93.tar.gz",
+  "download_time": "2026-03-17T06:47:30.534438",
   "package_url": "https://pypi.org/project/sawsi/"
 }

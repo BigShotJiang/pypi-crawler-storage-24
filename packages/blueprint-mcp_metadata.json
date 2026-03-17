@@ -1,0 +1,11 @@
+{
+  "name": "blueprint-mcp",
+  "version": "1.0.8",
+  "summary": "Sitemule Blueprint MCP Server - Access IBM i program analysis via MCP",
+  "author": "Sitemule",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blueprint_mcp-1.0.8.tar.gz",
+  "download_time": "2026-03-17T06:47:25.256584",
+  "package_url": "https://pypi.org/project/blueprint-mcp/"
+}

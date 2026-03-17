@@ -1,11 +1,11 @@
 {
   "name": "yta-testing",
-  "version": "0.0.21",
+  "version": "0.1.1",
   "summary": "Youtube Autonomous Testing Module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_testing-0.0.21.tar.gz",
-  "download_time": "2026-03-16T10:03:28.231352",
+  "download_filename": "yta_testing-0.1.1.tar.gz",
+  "download_time": "2026-03-17T06:47:43.774763",
   "package_url": "https://pypi.org/project/yta-testing/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fers-calculations",
-  "version": "0.1.80",
+  "version": "0.1.84",
   "summary": "High-performance Rust-backed calculations for FERS.",
   "author": null,
   "license": null,
   "home_page": "https://ferscloud.com",
-  "download_filename": "fers_calculations-0.1.80.tar.gz",
-  "download_time": "2026-03-16T13:14:31.538878",
+  "download_filename": "fers_calculations-0.1.84.tar.gz",
+  "download_time": "2026-03-17T06:46:59.790441",
   "package_url": "https://pypi.org/project/fers-calculations/"
 }

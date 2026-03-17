@@ -1,0 +1,11 @@
+{
+  "name": "timecopilot",
+  "version": "0.0.24",
+  "summary": "The GenAI Forecasting Agent · LLMs × Time Series Foundation Models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timecopilot-0.0.24.tar.gz",
+  "download_time": "2026-03-17T06:47:31.265261",
+  "package_url": "https://pypi.org/project/timecopilot/"
+}

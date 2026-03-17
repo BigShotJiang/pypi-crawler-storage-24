@@ -1,11 +1,11 @@
 {
   "name": "colorado-py",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A utility package for Colorado-related projects",
   "author": null,
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": null,
-  "download_filename": "colorado_py-0.2.2-py3-none-any.whl",
-  "download_time": "2026-03-15T08:07:04.576571",
+  "download_filename": "colorado_py-0.2.3-py3-none-any.whl",
+  "download_time": "2026-03-17T06:47:42.200290",
   "package_url": "https://pypi.org/project/colorado-py/"
 }

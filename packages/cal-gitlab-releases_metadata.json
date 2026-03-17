@@ -1,0 +1,11 @@
+{
+  "name": "cal-gitlab-releases",
+  "version": "1.0.0",
+  "summary": "Download and upload release assets for GitLab projects and groups",
+  "author": "Cyber Assessment Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cal_gitlab_releases-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-17T06:47:17.299886",
+  "package_url": "https://pypi.org/project/cal-gitlab-releases/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mercuto-client",
+  "version": "0.3.8",
+  "summary": "Library for interfacing with Rockfield's Mercuto API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mercuto_client-0.3.8.tar.gz",
+  "download_time": "2026-03-17T06:47:26.321217",
+  "package_url": "https://pypi.org/project/mercuto-client/"
+}

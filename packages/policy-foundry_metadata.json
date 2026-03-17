@@ -1,0 +1,11 @@
+{
+  "name": "policy-foundry",
+  "version": "0.1.1",
+  "summary": "AI-powered firewall policy management",
+  "author": "Vahagn Madatyan",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "policy_foundry-0.1.1.tar.gz",
+  "download_time": "2026-03-17T06:47:10.884875",
+  "package_url": "https://pypi.org/project/policy-foundry/"
+}
