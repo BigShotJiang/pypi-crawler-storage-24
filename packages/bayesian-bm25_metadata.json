@@ -1,0 +1,11 @@
+{
+  "name": "bayesian-bm25",
+  "version": "0.11.0",
+  "summary": "Bayesian probability transforms for BM25 retrieval scores",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bayesian_bm25-0.11.0.tar.gz",
+  "download_time": "2026-03-17T13:54:55.654979",
+  "package_url": "https://pypi.org/project/bayesian-bm25/"
+}

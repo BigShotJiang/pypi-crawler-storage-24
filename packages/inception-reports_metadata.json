@@ -1,0 +1,11 @@
+{
+  "name": "inception-reports",
+  "version": "1.0.0",
+  "summary": "Generate plots that report the progress of an INCEpTION project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inception_reports-1.0.0.tar.gz",
+  "download_time": "2026-03-17T13:54:33.390066",
+  "package_url": "https://pypi.org/project/inception-reports/"
+}

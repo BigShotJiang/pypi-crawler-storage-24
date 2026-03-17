@@ -1,0 +1,11 @@
+{
+  "name": "geobn",
+  "version": "0.1.1",
+  "summary": "Bayesian network inference over geographic space",
+  "author": "Jens Einar Bremnes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geobn-0.1.1.tar.gz",
+  "download_time": "2026-03-17T13:54:33.946217",
+  "package_url": "https://pypi.org/project/geobn/"
+}

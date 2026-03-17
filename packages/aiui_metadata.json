@@ -1,11 +1,11 @@
 {
   "name": "aiui",
-  "version": "0.3.82",
+  "version": "0.3.90",
   "summary": "YAML-driven website generator - CLI and compiler",
   "author": "Mervin Praison",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiui-0.3.82.tar.gz",
-  "download_time": "2026-03-16T16:48:24.825429",
+  "download_filename": "aiui-0.3.90.tar.gz",
+  "download_time": "2026-03-17T13:54:59.883233",
   "package_url": "https://pypi.org/project/aiui/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "suno-cli",
+  "version": "2026.3.17.0",
+  "summary": "CLI tool for Suno AI Music Generation via AceDataCloud API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "suno_cli-2026.3.17.0.tar.gz",
+  "download_time": "2026-03-17T13:54:40.459197",
+  "package_url": "https://pypi.org/project/suno-cli/"
+}

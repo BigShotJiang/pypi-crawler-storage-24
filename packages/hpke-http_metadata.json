@@ -1,11 +1,11 @@
 {
   "name": "hpke-http",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "End-to-end encryption for HTTP APIs using RFC 9180 HPKE. Drop-in middleware for FastAPI, aiohttp, and httpx.",
   "author": "Duale AI",
   "license": null,
   "home_page": null,
-  "download_filename": "hpke_http-1.6.0.tar.gz",
-  "download_time": "2026-03-11T20:01:27.883097",
+  "download_filename": "hpke_http-1.6.1.tar.gz",
+  "download_time": "2026-03-17T13:55:20.277320",
   "package_url": "https://pypi.org/project/hpke-http/"
 }

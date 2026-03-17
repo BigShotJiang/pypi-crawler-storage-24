@@ -1,0 +1,11 @@
+{
+  "name": "planars",
+  "version": "0.1.0a1",
+  "summary": "Toolkit for deriving morphosyntactic constituency spans from annotated planar structures",
+  "author": "Jeff Good",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "planars-0.1.0a1.tar.gz",
+  "download_time": "2026-03-17T13:54:48.345820",
+  "package_url": "https://pypi.org/project/planars/"
+}

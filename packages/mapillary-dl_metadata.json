@@ -1,0 +1,11 @@
+{
+  "name": "mapillary-dl",
+  "version": "0.1.8",
+  "summary": "CLI tool to bulk-download street-level imagery from Mapillary",
+  "author": "Stiven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mapillary_dl-0.1.8.tar.gz",
+  "download_time": "2026-03-17T13:54:49.384366",
+  "package_url": "https://pypi.org/project/mapillary-dl/"
+}

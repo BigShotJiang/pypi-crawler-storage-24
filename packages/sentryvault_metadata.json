@@ -1,11 +1,11 @@
 {
   "name": "sentryvault",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Secure local password manager with Argon2/Fernet encryption and optional Shamir-based sharding",
-  "author": "Saumyajit Purakayastha",
+  "author": "agspades",
   "license": null,
   "home_page": null,
-  "download_filename": "sentryvault-0.1.0.tar.gz",
-  "download_time": "2026-03-17T10:36:36.247040",
+  "download_filename": "sentryvault-0.1.1.tar.gz",
+  "download_time": "2026-03-17T13:55:08.208181",
   "package_url": "https://pypi.org/project/sentryvault/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tda-repr",
+  "version": "0.1.2",
+  "summary": "Topological and spectral analysis of neural representations.",
+  "author": "Stepan Pankratov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tda_repr-0.1.2.tar.gz",
+  "download_time": "2026-03-17T13:55:07.168597",
+  "package_url": "https://pypi.org/project/tda-repr/"
+}

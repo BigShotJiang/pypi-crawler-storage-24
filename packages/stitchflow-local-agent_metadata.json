@@ -1,11 +1,11 @@
 {
   "name": "stitchflow-local-agent",
-  "version": "0.3.10",
+  "version": "0.3.13",
   "summary": "Local Stitchflow daemon for browser automation tasks and data sync",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stitchflow_local_agent-0.3.10.tar.gz",
-  "download_time": "2026-03-17T10:36:45.297623",
+  "download_filename": "stitchflow_local_agent-0.3.13.tar.gz",
+  "download_time": "2026-03-17T13:54:58.784604",
   "package_url": "https://pypi.org/project/stitchflow-local-agent/"
 }

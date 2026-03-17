@@ -1,0 +1,11 @@
+{
+  "name": "abundai",
+  "version": "0.1.2",
+  "summary": "The official Python library for the abundai API",
+  "author": "Abundai",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "abundai-0.1.2.tar.gz",
+  "download_time": "2026-03-17T13:54:34.472165",
+  "package_url": "https://pypi.org/project/abundai/"
+}

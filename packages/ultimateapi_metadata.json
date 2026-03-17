@@ -1,0 +1,11 @@
+{
+  "name": "ultimateapi",
+  "version": "1.0.3",
+  "summary": "Multi-provider AI API wrapper with automatic key rotation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ultimateapi-1.0.3.tar.gz",
+  "download_time": "2026-03-17T13:55:04.051774",
+  "package_url": "https://pypi.org/project/ultimateapi/"
+}
