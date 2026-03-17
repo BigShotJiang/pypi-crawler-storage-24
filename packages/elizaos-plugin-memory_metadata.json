@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-memory",
+  "version": "2.0.0a5",
+  "summary": "Memory management plugin for elizaOS (Python)",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_memory-2.0.0a5.tar.gz",
+  "download_time": "2026-03-17T05:40:38.303014",
+  "package_url": "https://pypi.org/project/elizaos-plugin-memory/"
+}

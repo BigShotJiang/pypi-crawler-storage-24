@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-th-base-utils",
+  "version": "18.0.3.0.0",
+  "summary": "Collection of all Thai fonts, Convert month/year/number to thai",
+  "author": "Ecosoft, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-thailand",
+  "download_filename": "odoo_addon_l10n_th_base_utils-18.0.3.0.0-py3-none-any.whl",
+  "download_time": "2026-03-17T05:40:50.119488",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-th-base-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stdout-err",
+  "version": "1.0.0",
+  "summary": "Run a command and propagate errors to stdout",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stdout_err-1.0.0.tar.gz",
+  "download_time": "2026-03-17T05:41:06.201208",
+  "package_url": "https://pypi.org/project/stdout-err/"
+}

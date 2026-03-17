@@ -1,0 +1,11 @@
+{
+  "name": "indico-cli-tools",
+  "version": "0.1.2",
+  "summary": "CLI tool for interacting with Indico event management systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indico_cli_tools-0.1.2.tar.gz",
+  "download_time": "2026-03-17T05:41:11.021721",
+  "package_url": "https://pypi.org/project/indico-cli-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reionemu",
+  "version": "0.1.0",
+  "summary": "Machine-learning emulator pipeline for the kinetic Sunyaev-Zel'dovich angular power spectrum.",
+  "author": "Dr. Paul La Plante",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reionemu-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-17T05:41:15.867819",
+  "package_url": "https://pypi.org/project/reionemu/"
+}

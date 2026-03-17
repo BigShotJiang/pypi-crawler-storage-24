@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-local-embedding",
+  "version": "2.0.0a5",
+  "summary": "elizaOS Local Embedding Plugin - Local text embedding and tokenization",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_local_embedding-2.0.0a5.tar.gz",
+  "download_time": "2026-03-17T05:40:39.370917",
+  "package_url": "https://pypi.org/project/elizaos-plugin-local-embedding/"
+}

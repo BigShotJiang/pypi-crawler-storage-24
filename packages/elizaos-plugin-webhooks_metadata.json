@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-webhooks",
+  "version": "2.0.0a5",
+  "summary": "HTTP webhook ingress plugin for elizaOS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_webhooks-2.0.0a5.tar.gz",
+  "download_time": "2026-03-17T05:40:26.913691",
+  "package_url": "https://pypi.org/project/elizaos-plugin-webhooks/"
+}

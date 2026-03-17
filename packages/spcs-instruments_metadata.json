@@ -1,0 +1,11 @@
+{
+  "name": "spcs-instruments",
+  "version": "0.9.4",
+  "summary": "A collection of python drivers with native support for use in Rex",
+  "author": "Jamin Martin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spcs_instruments-0.9.4.tar.gz",
+  "download_time": "2026-03-17T05:41:05.668067",
+  "package_url": "https://pypi.org/project/spcs-instruments/"
+}

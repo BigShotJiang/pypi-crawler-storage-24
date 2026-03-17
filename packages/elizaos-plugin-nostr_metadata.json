@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-nostr",
+  "version": "2.0.0a5",
+  "summary": "Nostr decentralized messaging plugin for elizaOS agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "elizaos_plugin_nostr-2.0.0a5.tar.gz",
+  "download_time": "2026-03-17T05:40:35.042284",
+  "package_url": "https://pypi.org/project/elizaos-plugin-nostr/"
+}

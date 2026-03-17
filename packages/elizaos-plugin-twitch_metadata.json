@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-twitch",
+  "version": "2.0.0a5",
+  "summary": "Twitch chat integration plugin for elizaOS agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_twitch-2.0.0a5.tar.gz",
+  "download_time": "2026-03-17T05:40:27.465170",
+  "package_url": "https://pypi.org/project/elizaos-plugin-twitch/"
+}

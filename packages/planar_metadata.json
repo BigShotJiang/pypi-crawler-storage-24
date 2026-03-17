@@ -1,11 +1,11 @@
 {
   "name": "planar",
-  "version": "0.28.0",
+  "version": "0.29.1",
   "summary": "Batteries-included framework for building durable agentic workflows and business applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "planar-0.28.0-py3-none-any.whl",
-  "download_time": "2026-03-10T23:51:02.773580",
+  "download_filename": "planar-0.29.1-py3-none-any.whl",
+  "download_time": "2026-03-17T05:41:04.601646",
   "package_url": "https://pypi.org/project/planar/"
 }

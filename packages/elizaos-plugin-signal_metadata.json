@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-signal",
+  "version": "2.0.0a5",
+  "summary": "Signal messaging integration plugin for elizaOS agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_signal-2.0.0a5.tar.gz",
+  "download_time": "2026-03-17T05:40:29.083070",
+  "package_url": "https://pypi.org/project/elizaos-plugin-signal/"
+}

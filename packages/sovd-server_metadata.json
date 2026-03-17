@@ -1,0 +1,11 @@
+{
+  "name": "sovd-server",
+  "version": "1.0.1",
+  "summary": "SOVD (Service-Oriented Vehicle Data) Server Implementation",
+  "author": "SOVD Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sovd_server-1.0.1.tar.gz",
+  "download_time": "2026-03-17T05:40:45.823908",
+  "package_url": "https://pypi.org/project/sovd-server/"
+}

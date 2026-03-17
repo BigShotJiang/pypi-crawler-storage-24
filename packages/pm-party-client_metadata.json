@@ -1,11 +1,11 @@
 {
   "name": "pm-party-client",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python SDK for Project Manager third-party authentication (Ed25519 + JWT + GraphQL)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pm_party_client-0.1.0.tar.gz",
-  "download_time": "2026-03-13T07:57:46.920233",
+  "download_filename": "pm_party_client-0.2.0.tar.gz",
+  "download_time": "2026-03-17T05:40:51.189820",
   "package_url": "https://pypi.org/project/pm-party-client/"
 }

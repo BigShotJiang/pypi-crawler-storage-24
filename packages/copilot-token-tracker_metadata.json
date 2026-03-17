@@ -1,0 +1,11 @@
+{
+  "name": "copilot-token-tracker",
+  "version": "0.2.0",
+  "summary": "Global token tracker for GitHub Copilot CLI and VS Code sessions",
+  "author": "J-Bax",
+  "license": null,
+  "home_page": null,
+  "download_filename": "copilot_token_tracker-0.2.0.tar.gz",
+  "download_time": "2026-03-17T05:41:05.135327",
+  "package_url": "https://pypi.org/project/copilot-token-tracker/"
+}
