@@ -1,0 +1,11 @@
+{
+  "name": "base-model-tools",
+  "version": "1.0.8",
+  "summary": "Nearly Human Base Model Tools dependency for training, saving, loading, deploying, and inferencing models.",
+  "author": "Nearly Human",
+  "license": null,
+  "home_page": null,
+  "download_filename": "base_model_tools-1.0.8.tar.gz",
+  "download_time": "2026-03-17T15:07:55.646343",
+  "package_url": "https://pypi.org/project/base-model-tools/"
+}

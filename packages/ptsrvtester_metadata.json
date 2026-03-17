@@ -1,11 +1,11 @@
 {
   "name": "ptsrvtester",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Application server penetration testing tool (Penterep tool)",
   "author": "Penterep",
   "license": "GPLv3+",
   "home_page": "https://www.penterep.com/",
-  "download_filename": "ptsrvtester-1.0.7.tar.gz",
-  "download_time": "2026-03-15T17:57:09.614463",
+  "download_filename": "ptsrvtester-1.0.8.tar.gz",
+  "download_time": "2026-03-17T15:07:54.621516",
   "package_url": "https://pypi.org/project/ptsrvtester/"
 }

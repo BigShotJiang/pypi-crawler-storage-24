@@ -1,0 +1,11 @@
+{
+  "name": "constitutional-os",
+  "version": "0.1.0",
+  "summary": "A formal runtime for epistemic-governance systems: profiles, invariants, membranes, delta calculus, Lyapunov stability, and A-safety proofs.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "constitutional_os-0.1.0.tar.gz",
+  "download_time": "2026-03-17T15:07:15.991095",
+  "package_url": "https://pypi.org/project/constitutional-os/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yousee-epg-mcp",
+  "version": "1.0.3",
+  "summary": "MCP-server til YouSee's danske TV-guide — brug Claude eller ChatGPT til at se hvad der kører i TV",
+  "author": "Tue Topholm",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yousee_epg_mcp-1.0.3.tar.gz",
+  "download_time": "2026-03-17T15:07:25.492164",
+  "package_url": "https://pypi.org/project/yousee-epg-mcp/"
+}

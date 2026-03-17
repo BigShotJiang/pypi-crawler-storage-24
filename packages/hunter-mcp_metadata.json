@@ -1,0 +1,11 @@
+{
+  "name": "hunter-mcp",
+  "version": "0.1.1",
+  "summary": "MCP Server for Qianxin Hunter cyberspace mapping",
+  "author": "PiggyHurry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hunter_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-17T15:07:58.203737",
+  "package_url": "https://pypi.org/project/hunter-mcp/"
+}

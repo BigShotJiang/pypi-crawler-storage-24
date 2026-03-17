@@ -1,11 +1,11 @@
 {
   "name": "ngksgraph",
-  "version": "0.1.3",
+  "version": "0.1.12",
   "summary": "Deterministic graph planner and BuildCore handoff for MSVC C++ projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ngksgraph-0.1.3-py3-none-any.whl",
-  "download_time": "2026-03-09T09:02:55.326012",
+  "download_filename": "ngksgraph-0.1.12-py3-none-any.whl",
+  "download_time": "2026-03-17T15:07:22.163702",
   "package_url": "https://pypi.org/project/ngksgraph/"
 }

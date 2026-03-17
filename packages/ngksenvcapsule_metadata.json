@@ -1,11 +1,11 @@
 {
   "name": "ngksenvcapsule",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Deterministic environment capsule system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ngksenvcapsule-0.1.1-py3-none-any.whl",
-  "download_time": "2026-03-09T07:39:55.174443",
+  "download_filename": "ngksenvcapsule-0.1.6-py3-none-any.whl",
+  "download_time": "2026-03-17T15:07:22.673917",
   "package_url": "https://pypi.org/project/ngksenvcapsule/"
 }

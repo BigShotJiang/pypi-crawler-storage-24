@@ -1,11 +1,11 @@
 {
   "name": "pbi-semantic-doc",
-  "version": "0.2.3",
+  "version": "0.5.8",
   "summary": "Automatic documentation generator and analyzer for Power BI semantic models (TMDL) and reports (PBIR)",
   "author": "viciuslio",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pbi_semantic_doc-0.2.3.tar.gz",
-  "download_time": "2026-03-12T08:40:52.610717",
+  "download_filename": "pbi_semantic_doc-0.5.8.tar.gz",
+  "download_time": "2026-03-17T15:07:53.599011",
   "package_url": "https://pypi.org/project/pbi-semantic-doc/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "oasyce",
-  "version": "1.3.0",
+  "version": "1.5.1",
   "summary": "Decentralized data ownership and settlement protocol for the AI era",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oasyce-1.3.0.tar.gz",
-  "download_time": "2026-03-15T19:19:27.453060",
+  "download_filename": "oasyce-1.5.1.tar.gz",
+  "download_time": "2026-03-17T15:07:42.121664",
   "package_url": "https://pypi.org/project/oasyce/"
 }

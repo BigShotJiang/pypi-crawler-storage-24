@@ -1,11 +1,11 @@
 {
   "name": "ngksdevfabric",
-  "version": "0.1.17",
+  "version": "1.2.4",
   "summary": "NGKs DevFabric build/ship/doctor orchestration CLI",
   "author": "NGKsSystems",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ngksdevfabric-0.1.17-py3-none-any.whl",
-  "download_time": "2026-03-11T08:09:13.592525",
+  "download_filename": "ngksdevfabric-1.2.4-py3-none-any.whl",
+  "download_time": "2026-03-17T15:07:23.248956",
   "package_url": "https://pypi.org/project/ngksdevfabric/"
 }

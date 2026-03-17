@@ -1,11 +1,11 @@
 {
   "name": "selfx",
-  "version": "0.1.23",
+  "version": "0.1.28",
   "summary": "A Python framework for building apps for AI for CPS.Developed by AI4CPS.",
   "author": "Nemanja Hranisavljevic",
   "license": "MIT",
-  "home_page": "https://ai4cps.com/selfx",
-  "download_filename": "selfx-0.1.23.tar.gz",
-  "download_time": "2026-03-12T17:14:32.896073",
+  "home_page": "https://selfx.ai4cps.com",
+  "download_filename": "selfx-0.1.28.tar.gz",
+  "download_time": "2026-03-17T15:07:38.467641",
   "package_url": "https://pypi.org/project/selfx/"
 }

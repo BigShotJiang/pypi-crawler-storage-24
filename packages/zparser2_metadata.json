@@ -1,0 +1,11 @@
+{
+  "name": "zparser2",
+  "version": "0.0.16",
+  "summary": "ZParser Cli Argument Library. Nothing comes after Z",
+  "author": "Marcos Diez, Benjamin Port",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zparser2-0.0.16.tar.gz",
+  "download_time": "2026-03-17T15:07:34.350788",
+  "package_url": "https://pypi.org/project/zparser2/"
+}

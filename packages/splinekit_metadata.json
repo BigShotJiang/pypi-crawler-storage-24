@@ -1,0 +1,11 @@
+{
+  "name": "splinekit",
+  "version": "0.0.21",
+  "summary": "A set of functions and classes to handle periodic 1D polynomial splines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splinekit-0.0.21.tar.gz",
+  "download_time": "2026-03-17T15:07:43.654105",
+  "package_url": "https://pypi.org/project/splinekit/"
+}

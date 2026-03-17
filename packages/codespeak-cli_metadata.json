@@ -1,11 +1,11 @@
 {
   "name": "codespeak-cli",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "CodeSpeak Console Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codespeak_cli-0.3.5-py3-none-any.whl",
-  "download_time": "2026-03-10T19:10:09.447568",
+  "download_filename": "codespeak_cli-0.3.6-py3-none-any.whl",
+  "download_time": "2026-03-17T15:07:30.164000",
   "package_url": "https://pypi.org/project/codespeak-cli/"
 }

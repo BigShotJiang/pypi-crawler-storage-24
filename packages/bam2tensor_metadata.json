@@ -1,11 +1,11 @@
 {
   "name": "bam2tensor",
-  "version": "2.0",
+  "version": "2.2",
   "summary": "Convert bisulfite-seq and EM-seq BAM files to sparse tensor representations of DNA methylation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bam2tensor-2.0.tar.gz",
-  "download_time": "2026-03-16T01:57:41.137770",
+  "download_filename": "bam2tensor-2.2.tar.gz",
+  "download_time": "2026-03-17T15:07:59.284450",
   "package_url": "https://pypi.org/project/bam2tensor/"
 }

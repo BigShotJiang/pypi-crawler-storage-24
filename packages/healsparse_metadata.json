@@ -1,0 +1,11 @@
+{
+  "name": "healsparse",
+  "version": "1.12.2",
+  "summary": "Sparse healpix maps and geometry library",
+  "author": "Eli Rykoff, Javier Sanchez, and the Dark Energy Science Collaboration",
+  "license": null,
+  "home_page": "https://github.com/lsstdesc/healsparse",
+  "download_filename": "healsparse-1.12.2.tar.gz",
+  "download_time": "2026-03-17T15:07:26.583895",
+  "package_url": "https://pypi.org/project/healsparse/"
+}

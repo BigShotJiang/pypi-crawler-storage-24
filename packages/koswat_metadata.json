@@ -1,0 +1,11 @@
+{
+  "name": "koswat",
+  "version": "0.16.1",
+  "summary": "Koswat, from the dutch combination of words `Kosts-Wat` (what are the costs). Analyzes all the possible dikes reinforcements based on a provided traject, with surrounding constructions, and what their related costs will be.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koswat-0.16.1-py3-none-any.whl",
+  "download_time": "2026-03-17T15:08:01.419841",
+  "package_url": "https://pypi.org/project/koswat/"
+}
