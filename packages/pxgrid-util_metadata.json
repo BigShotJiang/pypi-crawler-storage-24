@@ -1,0 +1,11 @@
+{
+  "name": "pxgrid-util",
+  "version": "0.7.1",
+  "summary": "A utility library and example scripts for Cisco pxGrid 2.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxgrid_util-0.7.1.tar.gz",
+  "download_time": "2026-03-17T23:59:05.345847",
+  "package_url": "https://pypi.org/project/pxgrid-util/"
+}

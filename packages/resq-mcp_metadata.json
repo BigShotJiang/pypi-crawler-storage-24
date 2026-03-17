@@ -1,11 +1,11 @@
 {
   "name": "resq-mcp",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "FastMCP server exposing ResQ platform capabilities to AI clients",
   "author": "ResQ Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "resq_mcp-0.3.2.tar.gz",
-  "download_time": "2026-03-17T23:41:24.240441",
+  "download_filename": "resq_mcp-0.3.4.tar.gz",
+  "download_time": "2026-03-17T23:59:10.024545",
   "package_url": "https://pypi.org/project/resq-mcp/"
 }
