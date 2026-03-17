@@ -1,0 +1,11 @@
+{
+  "name": "bat-sync",
+  "version": "0.0.1",
+  "summary": "Batch file synchronization utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bat_sync-0.0.1.tar.gz",
+  "download_time": "2026-03-17T08:34:13.024958",
+  "package_url": "https://pypi.org/project/bat-sync/"
+}

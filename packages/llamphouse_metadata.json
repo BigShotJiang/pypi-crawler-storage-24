@@ -1,0 +1,11 @@
+{
+  "name": "llamphouse",
+  "version": "1.2.0",
+  "summary": "LLAMPHouse — Serving Your LLM Apps, Scalable and Reliable",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llamphouse-1.2.0.tar.gz",
+  "download_time": "2026-03-17T08:34:26.648583",
+  "package_url": "https://pypi.org/project/llamphouse/"
+}

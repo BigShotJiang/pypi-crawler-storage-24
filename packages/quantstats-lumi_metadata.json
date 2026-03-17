@@ -1,0 +1,11 @@
+{
+  "name": "quantstats-lumi",
+  "version": "1.1.2",
+  "summary": "Portfolio analytics for quants",
+  "author": "Robert Grzesik (Lumiwealth)",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/Lumiwealth/quantstats_lumi",
+  "download_filename": "quantstats_lumi-1.1.2.tar.gz",
+  "download_time": "2026-03-17T08:34:27.166506",
+  "package_url": "https://pypi.org/project/quantstats-lumi/"
+}

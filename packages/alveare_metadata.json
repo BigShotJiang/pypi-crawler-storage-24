@@ -1,0 +1,11 @@
+{
+  "name": "alveare",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Alveare Private SLM Inference-as-a-Service platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alveare-0.1.0.tar.gz",
+  "download_time": "2026-03-17T08:34:38.608844",
+  "package_url": "https://pypi.org/project/alveare/"
+}

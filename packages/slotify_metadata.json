@@ -1,0 +1,11 @@
+{
+  "name": "slotify",
+  "version": "0.1.0",
+  "summary": "Enforce, validate, and promote the usage of slots.",
+  "author": "Valentin Calomme",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slotify-0.1.0.tar.gz",
+  "download_time": "2026-03-17T08:34:39.647400",
+  "package_url": "https://pypi.org/project/slotify/"
+}

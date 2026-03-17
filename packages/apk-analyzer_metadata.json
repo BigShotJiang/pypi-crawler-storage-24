@@ -1,11 +1,11 @@
 {
   "name": "apk-analyzer",
-  "version": "1.25.0",
+  "version": "1.27.2",
   "summary": "Static SDK detection for Android APK files — 5-layer analysis engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apk_analyzer-1.25.0.tar.gz",
-  "download_time": "2026-03-12T12:00:31.953652",
+  "download_filename": "apk_analyzer-1.27.2.tar.gz",
+  "download_time": "2026-03-17T08:34:47.964948",
   "package_url": "https://pypi.org/project/apk-analyzer/"
 }

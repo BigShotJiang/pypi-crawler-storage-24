@@ -1,0 +1,11 @@
+{
+  "name": "markdup",
+  "version": "0.0.28",
+  "summary": "Fast, accurate BAM deduplication with intelligent UMI detection and correct fragment detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdup-0.0.28.tar.gz",
+  "download_time": "2026-03-17T08:34:17.180377",
+  "package_url": "https://pypi.org/project/markdup/"
+}

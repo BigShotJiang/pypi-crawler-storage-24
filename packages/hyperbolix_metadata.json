@@ -1,11 +1,11 @@
 {
   "name": "hyperbolix",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Hyperbolic Deep Learning in JAX",
   "author": "Timo Klein, Thomas Lang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hyperbolix-0.3.0.tar.gz",
-  "download_time": "2026-03-10T08:36:20.240149",
+  "download_filename": "hyperbolix-0.4.0.tar.gz",
+  "download_time": "2026-03-17T08:34:45.352517",
   "package_url": "https://pypi.org/project/hyperbolix/"
 }

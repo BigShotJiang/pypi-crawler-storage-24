@@ -1,0 +1,11 @@
+{
+  "name": "kmbit-client",
+  "version": "0.1.0",
+  "summary": "KmBiT Spatial Awareness Client — Track AI agent locations in codebases",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kmbit_client-0.1.0.tar.gz",
+  "download_time": "2026-03-17T08:34:10.401766",
+  "package_url": "https://pypi.org/project/kmbit-client/"
+}

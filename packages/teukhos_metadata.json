@@ -1,11 +1,11 @@
 {
   "name": "teukhos",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "Spawn MCP servers from declarative YAML configuration",
   "author": "Mihai Ciprian Chezan",
   "license": null,
   "home_page": null,
-  "download_filename": "teukhos-0.3.2.tar.gz",
-  "download_time": "2026-03-16T04:40:00.066775",
+  "download_filename": "teukhos-0.3.4.tar.gz",
+  "download_time": "2026-03-17T08:34:32.873557",
   "package_url": "https://pypi.org/project/teukhos/"
 }

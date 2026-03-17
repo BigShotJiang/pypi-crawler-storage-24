@@ -1,0 +1,11 @@
+{
+  "name": "causalmatch",
+  "version": "0.0.7",
+  "summary": "Propensity score matching and coarsened exact matching",
+  "author": "Xiaoyu Zhou",
+  "license": null,
+  "home_page": "https://github.com/bytedance/CausalMatch",
+  "download_filename": "causalmatch-0.0.7.tar.gz",
+  "download_time": "2026-03-17T08:34:15.624245",
+  "package_url": "https://pypi.org/project/causalmatch/"
+}
