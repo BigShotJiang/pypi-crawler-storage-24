@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-celery",
+  "version": "1.2.0",
+  "summary": "Celery cube",
+  "author": "Logilab",
+  "license": "LGPL",
+  "home_page": "https://forge.extranet.logilab.fr/cubicweb/cubes/celery",
+  "download_filename": "cubicweb_celery-1.2.0.tar.gz",
+  "download_time": "2026-03-17T10:36:30.284426",
+  "package_url": "https://pypi.org/project/cubicweb-celery/"
+}

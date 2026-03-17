@@ -1,0 +1,11 @@
+{
+  "name": "021-mcp",
+  "version": "0.1.4",
+  "summary": "MCP server for interacting with LLM traces - search, analyze, and debug your AI agent executions",
+  "author": "021 Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "021_mcp-0.1.4.tar.gz",
+  "download_time": "2026-03-17T10:36:39.966665",
+  "package_url": "https://pypi.org/project/021-mcp/"
+}

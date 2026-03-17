@@ -1,0 +1,11 @@
+{
+  "name": "ohme",
+  "version": "1.7.1",
+  "summary": "A Python wrapper for the Ohme API, used by the Home Assistant integration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ohme-1.7.1.tar.gz",
+  "download_time": "2026-03-17T10:37:07.197566",
+  "package_url": "https://pypi.org/project/ohme/"
+}

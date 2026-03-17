@@ -1,0 +1,11 @@
+{
+  "name": "tarandm_analytics_utils",
+  "version": "1.1.10",
+  "summary": "Package provides support for analytics methods and models in TaranDM.",
+  "author": "Matej Scerba",
+  "license": "Copyright © 2021-2026: Taran Advisory PTE. LTD.\n         9 Raffles Place, #06-01, Republic Plaza, Singapore, 048619\n         ACRA Registration No. 201902470R\n         info@taran.ai\n         (\"Taran\")\n         Exercise of exclusive rights to this package belongs to Taran and distribution, duplication or any other usage without a duly signed, valid and effective license agreement from Taran is prohibited.",
+  "home_page": null,
+  "download_filename": "tarandm_analytics_utils-1.1.10.tar.gz",
+  "download_time": "2026-03-17T10:36:51.248284",
+  "package_url": "https://pypi.org/project/tarandm_analytics_utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auth0-fastapi-api",
+  "version": "1.0.0b6",
+  "summary": "SDK for verifying access tokens and securing APIs with Auth0, using Authlib.",
+  "author": "Auth0",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auth0_fastapi_api-1.0.0b6.tar.gz",
+  "download_time": "2026-03-17T10:36:29.754299",
+  "package_url": "https://pypi.org/project/auth0-fastapi-api/"
+}

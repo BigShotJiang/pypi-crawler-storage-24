@@ -1,11 +1,11 @@
 {
   "name": "mise-uv-template",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "summary": "Add your description here",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mise_uv_template-2.6.0.tar.gz",
-  "download_time": "2026-03-16T21:25:59.380735",
+  "download_filename": "mise_uv_template-2.7.0.tar.gz",
+  "download_time": "2026-03-17T10:36:39.437155",
   "package_url": "https://pypi.org/project/mise-uv-template/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "shiro-memory",
-  "version": "5.5.2",
+  "version": "5.6.0",
   "summary": "Persistent memory for Shiro — upgraded to antaris-memory v5.5.0 feature parity. Stripped: MCP, Supabase collection, sharding.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "shiro_memory-5.5.2.tar.gz",
-  "download_time": "2026-03-16T10:03:31.889514",
+  "download_filename": "shiro_memory-5.6.0.tar.gz",
+  "download_time": "2026-03-17T10:36:55.500920",
   "package_url": "https://pypi.org/project/shiro-memory/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "beibei-downloader",
+  "version": "0.3.1",
+  "summary": "蓓蓓无水印下载：YouTube / Bilibili / 抖音 / 小红书 批量下载 Web UI（基于 yt-dlp）",
+  "author": "蓓蓓无水印下载",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beibei_downloader-0.3.1.tar.gz",
+  "download_time": "2026-03-17T10:37:03.998165",
+  "package_url": "https://pypi.org/project/beibei-downloader/"
+}

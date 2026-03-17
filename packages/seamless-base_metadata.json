@@ -1,0 +1,11 @@
+{
+  "name": "seamless-base",
+  "version": "0.1.0",
+  "summary": "Core runtime primitives for Seamless (checksums, buffers, caching and transformer base APIs)",
+  "author": "Sjoerd de Vries",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seamless_base-0.1.0.tar.gz",
+  "download_time": "2026-03-17T10:36:38.372038",
+  "package_url": "https://pypi.org/project/seamless-base/"
+}
