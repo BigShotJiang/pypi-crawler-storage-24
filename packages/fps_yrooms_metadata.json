@@ -1,0 +1,11 @@
+{
+  "name": "fps_yrooms",
+  "version": "0.2.2",
+  "summary": "An FPS plugin for YRooms",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_yrooms-0.2.2.tar.gz",
+  "download_time": "2026-03-17T11:33:26.643645",
+  "package_url": "https://pypi.org/project/fps_yrooms/"
+}

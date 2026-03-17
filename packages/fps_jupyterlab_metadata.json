@@ -1,0 +1,11 @@
+{
+  "name": "fps_jupyterlab",
+  "version": "0.11.2",
+  "summary": "An FPS plugin for the JupyterLab API",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_jupyterlab-0.11.2.tar.gz",
+  "download_time": "2026-03-17T11:33:36.605205",
+  "package_url": "https://pypi.org/project/fps_jupyterlab/"
+}

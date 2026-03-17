@@ -1,0 +1,11 @@
+{
+  "name": "fps_jupyter_server",
+  "version": "0.2.1",
+  "summary": "An FPS plugin for proxying a Jupyter server",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_jupyter_server-0.2.1.tar.gz",
+  "download_time": "2026-03-17T11:33:37.237714",
+  "package_url": "https://pypi.org/project/fps_jupyter_server/"
+}

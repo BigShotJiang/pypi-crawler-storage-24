@@ -1,11 +1,11 @@
 {
   "name": "qremotex",
-  "version": "2.0.11898",
+  "version": "2.0.12207",
   "summary": "qRemoteX — Federated Remote Execution Agent for qRaptor",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "qremotex-2.0.11898.tar.gz",
-  "download_time": "2026-03-15T17:26:25.446663",
+  "download_filename": "qremotex-2.0.12207.tar.gz",
+  "download_time": "2026-03-17T11:33:45.544297",
   "package_url": "https://pypi.org/project/qremotex/"
 }

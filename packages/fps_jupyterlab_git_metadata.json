@@ -1,0 +1,11 @@
+{
+  "name": "fps_jupyterlab_git",
+  "version": "0.2.1",
+  "summary": "An FPS plugin for serving jupyterlab-git through a Jupyter server",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_jupyterlab_git-0.2.1.tar.gz",
+  "download_time": "2026-03-17T11:33:35.968771",
+  "package_url": "https://pypi.org/project/fps_jupyterlab_git/"
+}

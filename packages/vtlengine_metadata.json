@@ -1,11 +1,11 @@
 {
   "name": "vtlengine",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Run and Validate VTL Scripts",
   "author": "MeaningfulData",
   "license": null,
   "home_page": null,
-  "download_filename": "vtlengine-1.5.0.tar.gz",
-  "download_time": "2026-03-09T15:15:11.268024",
+  "download_filename": "vtlengine-1.6.0.tar.gz",
+  "download_time": "2026-03-17T11:33:11.802166",
   "package_url": "https://pypi.org/project/vtlengine/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fps_file_id",
+  "version": "0.4.2",
+  "summary": "An FPS plugin for the file ID API",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_file_id-0.4.2.tar.gz",
+  "download_time": "2026-03-17T11:33:42.355838",
+  "package_url": "https://pypi.org/project/fps_file_id/"
+}

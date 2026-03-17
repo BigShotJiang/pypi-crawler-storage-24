@@ -1,0 +1,11 @@
+{
+  "name": "jupyverse-ystore",
+  "version": "0.1.1",
+  "summary": "The API for Jupyverse's YStore",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyverse_ystore-0.1.1.tar.gz",
+  "download_time": "2026-03-17T11:33:14.138461",
+  "package_url": "https://pypi.org/project/jupyverse-ystore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fps_notebook",
+  "version": "0.10.3",
+  "summary": "An FPS plugin for the Notebook API",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_notebook-0.10.3.tar.gz",
+  "download_time": "2026-03-17T11:33:30.132948",
+  "package_url": "https://pypi.org/project/fps_notebook/"
+}

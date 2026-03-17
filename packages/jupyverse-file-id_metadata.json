@@ -1,0 +1,11 @@
+{
+  "name": "jupyverse-file-id",
+  "version": "0.1.1",
+  "summary": "The API for Jupyverse's file ID",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyverse_file_id-0.1.1.tar.gz",
+  "download_time": "2026-03-17T11:33:22.144435",
+  "package_url": "https://pypi.org/project/jupyverse-file-id/"
+}

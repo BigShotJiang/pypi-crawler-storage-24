@@ -1,0 +1,11 @@
+{
+  "name": "fubot",
+  "version": "0.2.0",
+  "summary": "A lightweight AI assistant system designed to run on your own device or private server.",
+  "author": "fubot contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fubot-0.2.0.tar.gz",
+  "download_time": "2026-03-17T11:32:52.864531",
+  "package_url": "https://pypi.org/project/fubot/"
+}

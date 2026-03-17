@@ -1,0 +1,11 @@
+{
+  "name": "neurostack-org",
+  "version": "1.2.1",
+  "summary": "Enterprise AI SDK — permission-enforced knowledge retrieval across Jira, Slack, Google Docs",
+  "author": "Tauseeq Kazi",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "neurostack_org-1.2.1.tar.gz",
+  "download_time": "2026-03-17T11:32:56.558207",
+  "package_url": "https://pypi.org/project/neurostack-org/"
+}

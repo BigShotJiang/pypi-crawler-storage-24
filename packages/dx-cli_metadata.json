@@ -1,0 +1,11 @@
+{
+  "name": "dx-cli",
+  "version": "0.2.0",
+  "summary": "Developer experience CLI for Docker Compose monorepos — service scaffolding, port management, and project health checks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dx_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-17T11:32:58.506707",
+  "package_url": "https://pypi.org/project/dx-cli/"
+}
