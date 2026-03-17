@@ -1,11 +1,11 @@
 {
   "name": "vectimus",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "Stop your AI agents from breaking things. Intercepts every action and blocks the dangerous ones before they execute.",
   "author": "Joseph Holland",
   "license": null,
   "home_page": null,
-  "download_filename": "vectimus-0.17.0.tar.gz",
-  "download_time": "2026-03-11T22:50:29.397638",
+  "download_filename": "vectimus-0.18.0.tar.gz",
+  "download_time": "2026-03-17T12:07:34.455196",
   "package_url": "https://pypi.org/project/vectimus/"
 }

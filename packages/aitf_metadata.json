@@ -1,11 +1,11 @@
 {
   "name": "aitf",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "AI Translation Framework - CLI tool for batch translation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aitf-0.1.14.tar.gz",
-  "download_time": "2026-03-17T11:33:10.640255",
+  "download_filename": "aitf-0.1.16.tar.gz",
+  "download_time": "2026-03-17T12:08:14.528708",
   "package_url": "https://pypi.org/project/aitf/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mfd-connect",
-  "version": "7.14.1",
+  "version": "7.15.0",
   "summary": "Module for running commands on remote machine.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mfd_connect-7.14.1-py3-none-any.whl",
-  "download_time": "2026-03-13T12:45:19.261222",
+  "download_filename": "mfd_connect-7.15.0-py3-none-any.whl",
+  "download_time": "2026-03-17T12:08:04.696459",
   "package_url": "https://pypi.org/project/mfd-connect/"
 }

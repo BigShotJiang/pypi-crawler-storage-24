@@ -1,11 +1,11 @@
 {
   "name": "clickset",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "summary": "In-class settings configurable via both click and confuse libraries\u001b",
   "author": "David Morris",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "clickset-1.2.1.tar.gz",
-  "download_time": "2026-03-14T07:02:37.988101",
+  "home_page": "https://gitlab.com/selcouth/clickset",
+  "download_filename": "clickset-1.3.0.tar.gz",
+  "download_time": "2026-03-17T12:08:30.844823",
   "package_url": "https://pypi.org/project/clickset/"
 }

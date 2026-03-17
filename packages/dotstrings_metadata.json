@@ -1,0 +1,11 @@
+{
+  "name": "dotstrings",
+  "version": "3.1.5",
+  "summary": "Tools for dealing with the .strings files for iOS and macOS",
+  "author": "Dale Myers",
+  "license": "MIT",
+  "home_page": "https://github.com/Microsoft/dotstrings",
+  "download_filename": "dotstrings-3.1.5.tar.gz",
+  "download_time": "2026-03-17T12:07:46.695800",
+  "package_url": "https://pypi.org/project/dotstrings/"
+}

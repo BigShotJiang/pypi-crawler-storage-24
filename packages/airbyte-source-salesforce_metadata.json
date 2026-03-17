@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-salesforce",
+  "version": "2.7.18",
+  "summary": "Source implementation for Salesforce.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_salesforce-2.7.18.tar.gz",
+  "download_time": "2026-03-17T12:08:32.547382",
+  "package_url": "https://pypi.org/project/airbyte-source-salesforce/"
+}

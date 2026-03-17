@@ -1,0 +1,11 @@
+{
+  "name": "HypEx",
+  "version": "1.0.4",
+  "summary": "Fast and customizable framework for Causal Inference",
+  "author": "Dmitry Tikhomirov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sb-ai-lab/HypEx",
+  "download_filename": "hypex-1.0.4.tar.gz",
+  "download_time": "2026-03-17T12:08:03.408460",
+  "package_url": "https://pypi.org/project/HypEx/"
+}

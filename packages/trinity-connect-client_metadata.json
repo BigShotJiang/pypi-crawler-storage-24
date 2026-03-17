@@ -1,0 +1,11 @@
+{
+  "name": "trinity-connect-client",
+  "version": "0.3.2",
+  "summary": "Official Python library for Trinity IoT Connect API interactions",
+  "author": "Jan Badenhorst, Andries Niemandt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trinity_connect_client-0.3.2.tar.gz",
+  "download_time": "2026-03-17T12:07:46.053296",
+  "package_url": "https://pypi.org/project/trinity-connect-client/"
+}

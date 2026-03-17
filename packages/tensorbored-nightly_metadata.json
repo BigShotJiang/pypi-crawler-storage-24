@@ -1,11 +1,11 @@
 {
   "name": "tensorbored-nightly",
-  "version": "2.21.0a20260314",
+  "version": "2.21.0a20260317",
   "summary": "TensorBored: a PyTorch-first TensorBoard fork",
   "author": "TensorBored authors",
   "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/Demonstrandum/tensorbored",
-  "download_filename": "tensorbored_nightly-2.21.0a20260314-py3-none-any.whl",
-  "download_time": "2026-03-14T11:22:03.761720",
+  "download_filename": "tensorbored_nightly-2.21.0a20260317-py3-none-any.whl",
+  "download_time": "2026-03-17T12:08:19.499284",
   "package_url": "https://pypi.org/project/tensorbored-nightly/"
 }

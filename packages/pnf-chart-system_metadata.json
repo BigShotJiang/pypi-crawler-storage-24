@@ -1,0 +1,11 @@
+{
+  "name": "pnf-chart-system",
+  "version": "0.1.1",
+  "summary": "Point and Figure Chart Library - Python bindings",
+  "author": "Gregorian Rayne",
+  "license": null,
+  "home_page": "https://github.com/gregorian-09/pnf-chart-system",
+  "download_filename": "pnf_chart_system-0.1.1.tar.gz",
+  "download_time": "2026-03-17T12:08:24.070848",
+  "package_url": "https://pypi.org/project/pnf-chart-system/"
+}

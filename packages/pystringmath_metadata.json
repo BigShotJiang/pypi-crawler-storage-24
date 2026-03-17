@@ -1,0 +1,11 @@
+{
+  "name": "pystringmath",
+  "version": "1.0.3",
+  "summary": "Package for string maths",
+  "author": "shTrueDDel",
+  "license": null,
+  "home_page": "https://github.com/shTrueDDel/pystringmath/",
+  "download_filename": "pystringmath-1.0.3.tar.gz",
+  "download_time": "2026-03-17T12:07:57.581895",
+  "package_url": "https://pypi.org/project/pystringmath/"
+}

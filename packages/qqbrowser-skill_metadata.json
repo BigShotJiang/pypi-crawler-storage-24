@@ -1,0 +1,11 @@
+{
+  "name": "qqbrowser-skill",
+  "version": "1.0.11",
+  "summary": "QQ Browser Skill - Browser automation toolkit via WebSocket",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qqbrowser_skill-1.0.11.tar.gz",
+  "download_time": "2026-03-17T12:07:58.214866",
+  "package_url": "https://pypi.org/project/qqbrowser-skill/"
+}

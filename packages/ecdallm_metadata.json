@@ -1,0 +1,11 @@
+{
+  "name": "ecdallm",
+  "version": "0.3.6",
+  "summary": "Retrieval-Augmented Generation - (RAG)",
+  "author": "EDC - Erasmus Data Collaboratory",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ecdallm-0.3.6.tar.gz",
+  "download_time": "2026-03-17T12:07:52.960023",
+  "package_url": "https://pypi.org/project/ecdallm/"
+}

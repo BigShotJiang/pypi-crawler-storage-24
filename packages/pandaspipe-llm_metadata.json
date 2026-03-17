@@ -1,0 +1,11 @@
+{
+  "name": "pandaspipe-llm",
+  "version": "0.1.0",
+  "summary": "Safe DataFrame query pipeline for LLM agents. Generates instructions, validates pipelines, executes operations.",
+  "author": "Alex Moura",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandaspipe_llm-0.1.0.tar.gz",
+  "download_time": "2026-03-17T12:07:44.137019",
+  "package_url": "https://pypi.org/project/pandaspipe-llm/"
+}

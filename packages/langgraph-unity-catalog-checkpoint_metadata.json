@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-unity-catalog-checkpoint",
+  "version": "0.0.3",
+  "summary": "Unity Catalog-backed persistence for LangChain and LangGraph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_unity_catalog_checkpoint-0.0.3.tar.gz",
+  "download_time": "2026-03-17T12:07:39.610557",
+  "package_url": "https://pypi.org/project/langgraph-unity-catalog-checkpoint/"
+}

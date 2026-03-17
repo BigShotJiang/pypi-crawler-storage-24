@@ -1,0 +1,11 @@
+{
+  "name": "obs-img-utils",
+  "version": "1.12.0",
+  "summary": "Package provides utils for images in Open Build Service.",
+  "author": "SUSE",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/SUSE-Enceladus/obs-img-utils",
+  "download_filename": "obs_img_utils-1.12.0.tar.gz",
+  "download_time": "2026-03-17T12:08:22.795866",
+  "package_url": "https://pypi.org/project/obs-img-utils/"
+}

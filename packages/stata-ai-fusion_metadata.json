@@ -1,0 +1,11 @@
+{
+  "name": "stata-ai-fusion",
+  "version": "0.2.3",
+  "summary": "MCP Server + Skill for Stata: execute commands, inspect data, and generate high-quality Stata code with AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stata_ai_fusion-0.2.3.tar.gz",
+  "download_time": "2026-03-17T12:08:24.718967",
+  "package_url": "https://pypi.org/project/stata-ai-fusion/"
+}
