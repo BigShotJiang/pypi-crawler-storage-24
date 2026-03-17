@@ -1,0 +1,11 @@
+{
+  "name": "ptspy",
+  "version": "0.1.0",
+  "summary": "Pts.py is a Python library for visual composability, creative coding, and generative graphics.",
+  "author": "William Ngan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ptspy-0.1.0.tar.gz",
+  "download_time": "2026-03-17T07:45:49.052478",
+  "package_url": "https://pypi.org/project/ptspy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "illyrian",
+  "version": "0.3.8",
+  "summary": "Illyrian is CMake extension for easily creating Python packages.",
+  "author": "Nicolas Weber",
+  "license": "3 BSD-License",
+  "home_page": null,
+  "download_filename": "illyrian-0.3.8-py3-none-any.whl",
+  "download_time": "2026-03-17T07:45:29.093239",
+  "package_url": "https://pypi.org/project/illyrian/"
+}

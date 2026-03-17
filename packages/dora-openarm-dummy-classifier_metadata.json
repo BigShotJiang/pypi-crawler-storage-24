@@ -1,0 +1,11 @@
+{
+  "name": "dora-openarm-dummy-classifier",
+  "version": "1.0.0",
+  "summary": "dora-rs node that mimics classifier for testing",
+  "author": "Enactic, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dora_openarm_dummy_classifier-1.0.0.tar.gz",
+  "download_time": "2026-03-17T07:45:45.546975",
+  "package_url": "https://pypi.org/project/dora-openarm-dummy-classifier/"
+}

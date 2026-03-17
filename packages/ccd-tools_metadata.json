@@ -1,0 +1,11 @@
+{
+  "name": "ccd-tools",
+  "version": "0.8.19",
+  "summary": "Time-lapse Cole-Cole decomposition routines",
+  "author": "Maximilian Weigand and Department of Geophysics,University of Bonn, Germany",
+  "license": "GPL-3",
+  "home_page": "https://github.com/m-weigand/ccd_tools",
+  "download_filename": "ccd_tools-0.8.19.tar.gz",
+  "download_time": "2026-03-17T07:45:58.276265",
+  "package_url": "https://pypi.org/project/ccd-tools/"
+}

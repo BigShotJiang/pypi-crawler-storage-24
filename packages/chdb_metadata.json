@@ -1,11 +1,11 @@
 {
   "name": "chdb",
-  "version": "4.1.1",
+  "version": "4.1.3",
   "summary": "chDB is an in-process OLAP SQL Engine powered by ClickHouse",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "chdb-4.1.1-py3-none-any.whl",
-  "download_time": "2026-03-10T05:03:08.902454",
+  "download_filename": "chdb-4.1.3-py3-none-any.whl",
+  "download_time": "2026-03-17T07:46:08.948698",
   "package_url": "https://pypi.org/project/chdb/"
 }

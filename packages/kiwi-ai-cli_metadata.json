@@ -1,11 +1,11 @@
 {
   "name": "kiwi-ai-cli",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "Kiwi AI Terminal Agent — connect your local machine to AI-powered automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kiwi_ai_cli-0.1.8.tar.gz",
-  "download_time": "2026-03-15T20:25:36.826583",
+  "download_filename": "kiwi_ai_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-17T07:45:57.111458",
   "package_url": "https://pypi.org/project/kiwi-ai-cli/"
 }

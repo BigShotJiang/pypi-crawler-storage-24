@@ -1,0 +1,11 @@
+{
+  "name": "veda",
+  "version": "2.3.1",
+  "summary": "VEDA",
+  "author": "Nicolas Weber",
+  "license": "3 BSD-License",
+  "home_page": null,
+  "download_filename": "veda-2.3.1-py3-none-manylinux_2_24_x86_64.whl",
+  "download_time": "2026-03-17T07:45:27.952090",
+  "package_url": "https://pypi.org/project/veda/"
+}

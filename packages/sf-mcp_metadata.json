@@ -1,0 +1,11 @@
+{
+  "name": "sf-mcp",
+  "version": "0.1.0",
+  "summary": "Signal Found MCP server — connect AI agents to the world's largest Reddit outreach network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sf_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-17T07:46:04.940446",
+  "package_url": "https://pypi.org/project/sf-mcp/"
+}

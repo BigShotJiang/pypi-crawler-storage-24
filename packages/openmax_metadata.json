@@ -1,11 +1,11 @@
 {
   "name": "openmax",
-  "version": "0.5.2",
+  "version": "0.5.7",
   "summary": "Multi AI Agent orchestration hub — dispatch interactive AI agents across terminal panes",
   "author": "Chen Kailun",
   "license": null,
   "home_page": null,
-  "download_filename": "openmax-0.5.2.tar.gz",
-  "download_time": "2026-03-17T06:47:27.368454",
+  "download_filename": "openmax-0.5.7.tar.gz",
+  "download_time": "2026-03-17T07:45:47.727605",
   "package_url": "https://pypi.org/project/openmax/"
 }

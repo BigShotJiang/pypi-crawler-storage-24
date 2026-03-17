@@ -1,0 +1,11 @@
+{
+  "name": "hello-khirawat",
+  "version": "0.2.0",
+  "summary": "A simple sample package to test PyPI publishing",
+  "author": "khirawat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hello_khirawat-0.2.0.tar.gz",
+  "download_time": "2026-03-17T07:45:24.850056",
+  "package_url": "https://pypi.org/project/hello-khirawat/"
+}
