@@ -1,0 +1,11 @@
+{
+  "name": "heliosica",
+  "version": "1.0.0",
+  "summary": "HELIOSICA: Nine Parameters to Decode the Solar Wind and Shield Our Digital World",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": "https://heliosica.netlify.app",
+  "download_filename": "heliosica-1.0.0.tar.gz",
+  "download_time": "2026-03-17T05:08:56.400402",
+  "package_url": "https://pypi.org/project/heliosica/"
+}

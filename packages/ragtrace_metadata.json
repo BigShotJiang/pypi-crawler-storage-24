@@ -1,0 +1,11 @@
+{
+  "name": "ragtrace",
+  "version": "0.3.2",
+  "summary": "Observability and tracing for Retrieval-Augmented Generation pipelines",
+  "author": "Sabyasachi Ghosh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragtrace-0.3.2.tar.gz",
+  "download_time": "2026-03-17T05:08:59.590945",
+  "package_url": "https://pypi.org/project/ragtrace/"
+}

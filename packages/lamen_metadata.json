@@ -1,0 +1,11 @@
+{
+  "name": "lamen",
+  "version": "0.4.0",
+  "summary": "Official Python SDK for Lamen",
+  "author": "Lamen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lamen-0.4.0.tar.gz",
+  "download_time": "2026-03-17T05:08:54.709265",
+  "package_url": "https://pypi.org/project/lamen/"
+}

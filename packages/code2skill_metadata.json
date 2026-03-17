@@ -1,0 +1,11 @@
+{
+  "name": "code2skill",
+  "version": "0.1.4",
+  "summary": "Generate repository-aware Skills, blueprints, and AI rule files from real Python codebases.",
+  "author": "OceanusXXD",
+  "license": null,
+  "home_page": null,
+  "download_filename": "code2skill-0.1.4.tar.gz",
+  "download_time": "2026-03-17T05:09:01.713660",
+  "package_url": "https://pypi.org/project/code2skill/"
+}

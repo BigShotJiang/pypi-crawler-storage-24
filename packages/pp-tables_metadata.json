@@ -1,0 +1,11 @@
+{
+  "name": "pp-tables",
+  "version": "1.0.1",
+  "summary": "Lightweight table formatting with color support for terminal output",
+  "author": "Liam Taylor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pp_tables-1.0.1.tar.gz",
+  "download_time": "2026-03-17T05:08:55.817105",
+  "package_url": "https://pypi.org/project/pp-tables/"
+}

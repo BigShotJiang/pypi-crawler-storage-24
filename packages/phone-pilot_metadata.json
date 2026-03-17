@@ -1,0 +1,11 @@
+{
+  "name": "phone-pilot",
+  "version": "0.5.5",
+  "summary": "Multi-platform mobile automation via MCP - Control Android devices through AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phone_pilot-0.5.5.tar.gz",
+  "download_time": "2026-03-17T05:08:34.743829",
+  "package_url": "https://pypi.org/project/phone-pilot/"
+}

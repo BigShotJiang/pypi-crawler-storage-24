@@ -1,0 +1,11 @@
+{
+  "name": "shogiarena",
+  "version": "0.3.1",
+  "summary": "Asynchronous tournament and SPSA tuning platform for USI shogi engines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shogiarena-0.3.1.tar.gz",
+  "download_time": "2026-03-17T05:09:15.589356",
+  "package_url": "https://pypi.org/project/shogiarena/"
+}

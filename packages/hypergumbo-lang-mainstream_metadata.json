@@ -1,0 +1,11 @@
+{
+  "name": "hypergumbo-lang-mainstream",
+  "version": "2.3.0",
+  "summary": "Mainstream language analyzers for hypergumbo",
+  "author": "Hypergumbo contributors",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "hypergumbo_lang_mainstream-2.3.0.tar.gz",
+  "download_time": "2026-03-17T05:09:17.701187",
+  "package_url": "https://pypi.org/project/hypergumbo-lang-mainstream/"
+}

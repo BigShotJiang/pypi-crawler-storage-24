@@ -1,0 +1,11 @@
+{
+  "name": "qcuit",
+  "version": "0.1.0",
+  "summary": "The most beginner-friendly quantum computing library. Write quantum programs in plain English.",
+  "author": "Qcuit Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qcuit-0.1.0.tar.gz",
+  "download_time": "2026-03-17T05:08:28.045533",
+  "package_url": "https://pypi.org/project/qcuit/"
+}

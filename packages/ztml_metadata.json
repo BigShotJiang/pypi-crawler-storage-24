@@ -1,11 +1,11 @@
 {
   "name": "ztml",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "summary": "Rust-backed framework for building websites in pure Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ztml-0.1.0.tar.gz",
-  "download_time": "2026-03-15T10:00:39.185245",
+  "download_filename": "ztml-0.2.2.tar.gz",
+  "download_time": "2026-03-17T05:09:05.079960",
   "package_url": "https://pypi.org/project/ztml/"
 }

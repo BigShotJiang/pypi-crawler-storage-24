@@ -1,0 +1,11 @@
+{
+  "name": "add-srt-next-to-videos",
+  "version": "0.1.0",
+  "summary": "Generate .srt subtitle files next to video files using local MLX Whisper and LLM translation",
+  "author": "Yang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "add_srt_next_to_videos-0.1.0.tar.gz",
+  "download_time": "2026-03-17T05:09:20.338556",
+  "package_url": "https://pypi.org/project/add-srt-next-to-videos/"
+}
