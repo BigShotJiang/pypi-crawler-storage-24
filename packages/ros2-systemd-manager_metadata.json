@@ -1,0 +1,11 @@
+{
+  "name": "ros2-systemd-manager",
+  "version": "0.1.0",
+  "summary": "YAML-driven ROS2 systemd service manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros2_systemd_manager-0.1.0.tar.gz",
+  "download_time": "2026-03-17T21:40:00.090033",
+  "package_url": "https://pypi.org/project/ros2-systemd-manager/"
+}

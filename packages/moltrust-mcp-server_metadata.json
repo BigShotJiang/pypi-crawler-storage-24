@@ -1,11 +1,11 @@
 {
   "name": "moltrust-mcp-server",
-  "version": "0.6.0",
+  "version": "0.9.0",
   "summary": "MCP server for MolTrust — Trust Infrastructure for AI Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moltrust_mcp_server-0.6.0.tar.gz",
-  "download_time": "2026-03-07T09:24:07.928567",
+  "download_filename": "moltrust_mcp_server-0.9.0.tar.gz",
+  "download_time": "2026-03-17T21:40:02.731380",
   "package_url": "https://pypi.org/project/moltrust-mcp-server/"
 }

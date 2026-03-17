@@ -1,0 +1,11 @@
+{
+  "name": "tensorrt-rtx-cu13",
+  "version": "1.4.0.76",
+  "summary": "A high performance deep learning inference library",
+  "author": "NVIDIA Corporation",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "tensorrt_rtx_cu13-1.4.0.76.tar.gz",
+  "download_time": "2026-03-17T21:39:54.319440",
+  "package_url": "https://pypi.org/project/tensorrt-rtx-cu13/"
+}

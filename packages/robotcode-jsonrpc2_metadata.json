@@ -1,0 +1,11 @@
+{
+  "name": "robotcode-jsonrpc2",
+  "version": "2.4.0",
+  "summary": "JSONRPC Server for RobotCode",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotcode_jsonrpc2-2.4.0.tar.gz",
+  "download_time": "2026-03-17T21:39:31.528568",
+  "package_url": "https://pypi.org/project/robotcode-jsonrpc2/"
+}

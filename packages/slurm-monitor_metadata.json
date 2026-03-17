@@ -1,0 +1,11 @@
+{
+  "name": "slurm-monitor",
+  "version": "1.0.0",
+  "summary": "A terminal-based SLURM job monitoring utility that provides a clean, interactive TUI for viewing and managing jobs on HPC clusters.",
+  "author": "Saurabh Atreya",
+  "license": null,
+  "home_page": "https://github.com/atrey-a/spilot",
+  "download_filename": "slurm_monitor-1.0.0.tar.gz",
+  "download_time": "2026-03-17T21:39:55.884004",
+  "package_url": "https://pypi.org/project/slurm-monitor/"
+}

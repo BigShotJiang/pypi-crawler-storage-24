@@ -1,0 +1,11 @@
+{
+  "name": "promptflow-azure",
+  "version": "1.18.4",
+  "summary": "Prompt flow azure",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://microsoft.github.io/promptflow/",
+  "download_filename": "promptflow_azure-1.18.4-py3-none-any.whl",
+  "download_time": "2026-03-17T21:39:36.806119",
+  "package_url": "https://pypi.org/project/promptflow-azure/"
+}

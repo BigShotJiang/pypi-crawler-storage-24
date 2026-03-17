@@ -1,11 +1,11 @@
 {
   "name": "sys-inspector",
-  "version": "0.90.7",
+  "version": "0.90.10",
   "summary": "eBPF-based System Inspector and Forensic Tool (Multi-Agent/Web)",
   "author": "Mario Luz",
-  "license": null,
+  "license": "GPLv3",
   "home_page": "https://github.com/mariosergiosl/sys-inspector",
-  "download_filename": "sys_inspector-0.90.7.tar.gz",
-  "download_time": "2026-03-17T21:00:15.168819",
+  "download_filename": "sys_inspector-0.90.10.tar.gz",
+  "download_time": "2026-03-17T21:39:55.361928",
   "package_url": "https://pypi.org/project/sys-inspector/"
 }

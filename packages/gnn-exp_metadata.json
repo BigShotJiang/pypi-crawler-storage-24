@@ -1,0 +1,11 @@
+{
+  "name": "gnn-exp",
+  "version": "0.1.1",
+  "summary": "Visual exploration and explanation of Graph Neural Networks in computational notebooks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gnn_exp-0.1.1.tar.gz",
+  "download_time": "2026-03-17T21:40:15.849165",
+  "package_url": "https://pypi.org/project/gnn-exp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ai-pipeline-core",
-  "version": "0.16.3",
+  "version": "0.18.0",
   "summary": "Core utilities for AI-powered processing pipelines using prefect",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_pipeline_core-0.16.3.tar.gz",
-  "download_time": "2026-03-17T10:36:52.313326",
+  "download_filename": "ai_pipeline_core-0.18.0.tar.gz",
+  "download_time": "2026-03-17T21:40:06.931567",
   "package_url": "https://pypi.org/project/ai-pipeline-core/"
 }

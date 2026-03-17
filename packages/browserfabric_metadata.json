@@ -1,0 +1,11 @@
+{
+  "name": "browserfabric",
+  "version": "1.0.0",
+  "summary": "BrowserFabric Python SDK - Client library for BrowserFabric browser automation API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "browserfabric-1.0.0.tar.gz",
+  "download_time": "2026-03-17T21:40:04.818897",
+  "package_url": "https://pypi.org/project/browserfabric/"
+}

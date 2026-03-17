@@ -1,0 +1,11 @@
+{
+  "name": "zanshinsdk",
+  "version": "2.3",
+  "summary": "Python SDK to access the Tenchi Security Zanshin API v1",
+  "author": "Tenchi Security",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/tenchi-security/zanshin-sdk-python",
+  "download_filename": "zanshinsdk-2.3.tar.gz",
+  "download_time": "2026-03-17T21:39:27.854039",
+  "package_url": "https://pypi.org/project/zanshinsdk/"
+}

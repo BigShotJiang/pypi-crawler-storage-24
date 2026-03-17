@@ -1,0 +1,11 @@
+{
+  "name": "knitpkg-mt",
+  "version": "1.0.1",
+  "summary": "KnitPkg for MetaTrader – Professional package manager for MQL5/MQL4",
+  "author": "Douglas Rechia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "knitpkg_mt-1.0.1.tar.gz",
+  "download_time": "2026-03-17T21:40:09.022429",
+  "package_url": "https://pypi.org/project/knitpkg-mt/"
+}

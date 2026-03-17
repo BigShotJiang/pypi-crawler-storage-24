@@ -1,0 +1,11 @@
+{
+  "name": "hyphae-memory",
+  "version": "0.1.1",
+  "summary": "Self-organizing memory with gap-aware retrieval. Add facts, query gaps, the network grows itself.",
+  "author": "Ben Olenick",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyphae_memory-0.1.1.tar.gz",
+  "download_time": "2026-03-17T21:39:58.528599",
+  "package_url": "https://pypi.org/project/hyphae-memory/"
+}

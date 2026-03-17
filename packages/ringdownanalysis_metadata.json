@@ -1,0 +1,11 @@
+{
+  "name": "ringdownanalysis",
+  "version": "1.0.2",
+  "summary": "Frequency estimation of ring-down signals using NLS and DFT methods",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ringdownanalysis-1.0.2.tar.gz",
+  "download_time": "2026-03-17T21:40:04.298104",
+  "package_url": "https://pypi.org/project/ringdownanalysis/"
+}

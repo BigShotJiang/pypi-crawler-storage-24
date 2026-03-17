@@ -1,11 +1,11 @@
 {
   "name": "idds-doma",
-  "version": "2.5.12",
+  "version": "2.6.1",
   "summary": "intelligent Distributed Dispatch and Scheduling Service (iDDS) - DOMA Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "idds_doma-2.5.12-py2.py3-none-any.whl",
-  "download_time": "2026-03-09T10:07:56.835223",
+  "download_filename": "idds_doma-2.6.1-py3-none-any.whl",
+  "download_time": "2026-03-17T21:39:45.957397",
   "package_url": "https://pypi.org/project/idds-doma/"
 }
