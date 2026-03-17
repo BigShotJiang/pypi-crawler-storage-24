@@ -1,11 +1,11 @@
 {
   "name": "hof-engine",
-  "version": "0.1.21",
+  "version": "0.1.34",
   "summary": "Full-stack Python + React framework for building applications with workflows, tables, UIs, and LLM integration.",
   "author": "Johannes Hoetter",
   "license": null,
   "home_page": null,
-  "download_filename": "hof_engine-0.1.21.tar.gz",
-  "download_time": "2026-03-16T16:48:31.023042",
+  "download_filename": "hof_engine-0.1.34.tar.gz",
+  "download_time": "2026-03-17T09:44:55.259347",
   "package_url": "https://pypi.org/project/hof-engine/"
 }

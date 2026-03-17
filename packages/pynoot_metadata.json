@@ -1,11 +1,11 @@
 {
   "name": "pynoot",
-  "version": "0.1",
-  "summary": "Arabic style Python library",
+  "version": "0.6",
+  "summary": "بوابة لتعلم منطق لغة البرمجة باثيون بالمصري",
   "author": "Nour Eldeen Ahmed",
   "license": null,
-  "home_page": null,
-  "download_filename": "pynoot-0.1.tar.gz",
-  "download_time": "2026-03-16T12:00:40.636236",
+  "home_page": "https://github.com/noureldeen216/PyNoot",
+  "download_filename": "pynoot-0.6.tar.gz",
+  "download_time": "2026-03-17T09:44:36.460428",
   "package_url": "https://pypi.org/project/pynoot/"
 }

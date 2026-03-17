@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-query-dois",
+  "version": "6.0.4",
+  "summary": "A CKAN extension that creates DOIs for queries on resources.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ckanext_query_dois-6.0.4.tar.gz",
+  "download_time": "2026-03-17T09:44:21.532880",
+  "package_url": "https://pypi.org/project/ckanext-query-dois/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cf-ontology",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "CogniFlow ontology definitions and utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cf_ontology-0.2.0.tar.gz",
-  "download_time": "2026-03-14T23:51:29.310262",
+  "download_filename": "cf_ontology-0.2.2.tar.gz",
+  "download_time": "2026-03-17T09:44:42.442979",
   "package_url": "https://pypi.org/project/cf-ontology/"
 }

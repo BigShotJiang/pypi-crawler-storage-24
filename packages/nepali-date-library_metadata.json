@@ -1,0 +1,11 @@
+{
+  "name": "nepali-date-library",
+  "version": "1.0.0",
+  "summary": "A Nepali Date Library for Python (Bikram Sambat ↔ AD conversion and manipulation)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nepali_date_library-1.0.0.tar.gz",
+  "download_time": "2026-03-17T09:44:20.360012",
+  "package_url": "https://pypi.org/project/nepali-date-library/"
+}

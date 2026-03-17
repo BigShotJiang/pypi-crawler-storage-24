@@ -1,11 +1,11 @@
 {
   "name": "openchatci",
-  "version": "0.25.0",
+  "version": "0.28.0",
   "summary": "Hawaii-built localhost-first AI agent platform powered by Microsoft Agent Framework.",
   "author": "Jingun Jung",
   "license": null,
   "home_page": null,
-  "download_filename": "openchatci-0.25.0.tar.gz",
-  "download_time": "2026-03-15T11:05:53.504483",
+  "download_filename": "openchatci-0.28.0.tar.gz",
+  "download_time": "2026-03-17T09:44:25.301736",
   "package_url": "https://pypi.org/project/openchatci/"
 }

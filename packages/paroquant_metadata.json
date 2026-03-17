@@ -1,11 +1,11 @@
 {
   "name": "paroquant",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "ParoQuant — Pairwise Rotation Quantization for LLMs",
   "author": "Z Lab",
   "license": null,
   "home_page": null,
-  "download_filename": "paroquant-0.1.9.tar.gz",
-  "download_time": "2026-03-17T05:40:24.106036",
+  "download_filename": "paroquant-0.1.10.tar.gz",
+  "download_time": "2026-03-17T09:44:50.338989",
   "package_url": "https://pypi.org/project/paroquant/"
 }

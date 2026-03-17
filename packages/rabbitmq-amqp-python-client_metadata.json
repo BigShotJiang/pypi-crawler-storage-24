@@ -1,0 +1,11 @@
+{
+  "name": "rabbitmq-amqp-python-client",
+  "version": "0.6.0",
+  "summary": "Python RabbitMQ client for AMQP 1.0 protocol",
+  "author": "RabbitMQ team",
+  "license": "Apache-2.0 license",
+  "home_page": null,
+  "download_filename": "rabbitmq_amqp_python_client-0.6.0.tar.gz",
+  "download_time": "2026-03-17T09:44:53.045962",
+  "package_url": "https://pypi.org/project/rabbitmq-amqp-python-client/"
+}

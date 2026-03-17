@@ -1,0 +1,11 @@
+{
+  "name": "fast-cipher",
+  "version": "0.1.0",
+  "summary": "FAST format-preserving encryption cipher in pure Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_cipher-0.1.0.tar.gz",
+  "download_time": "2026-03-17T09:44:28.980608",
+  "package_url": "https://pypi.org/project/fast-cipher/"
+}

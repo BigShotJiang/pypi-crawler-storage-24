@@ -1,11 +1,11 @@
 {
   "name": "fullstack-rag-ai",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Lightweight RAG library for internal knowledge systems",
   "author": "fullstack-solutions",
   "license": null,
   "home_page": null,
-  "download_filename": "fullstack_rag_ai-0.1.4.tar.gz",
-  "download_time": "2026-03-14T23:24:44.865844",
+  "download_filename": "fullstack_rag_ai-0.1.6.tar.gz",
+  "download_time": "2026-03-17T09:44:58.981945",
   "package_url": "https://pypi.org/project/fullstack-rag-ai/"
 }

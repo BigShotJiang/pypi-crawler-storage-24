@@ -1,11 +1,11 @@
 {
   "name": "brokk",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "AI-native code platform for million-line repos with fragment-level context management and code intelligence",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "brokk-0.4.3.tar.gz",
-  "download_time": "2026-03-14T08:48:56.242955",
+  "download_filename": "brokk-0.4.4.tar.gz",
+  "download_time": "2026-03-17T09:44:24.707427",
   "package_url": "https://pypi.org/project/brokk/"
 }

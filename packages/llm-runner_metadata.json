@@ -1,11 +1,11 @@
 {
   "name": "llm-runner",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_runner-0.2.13.tar.gz",
-  "download_time": "2026-03-13T22:25:10.552027",
+  "download_filename": "llm_runner-0.2.14.tar.gz",
+  "download_time": "2026-03-17T09:44:22.638394",
   "package_url": "https://pypi.org/project/llm-runner/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mem7",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "High-performance AI memory engine with Rust core",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mem7-0.2.2.tar.gz",
-  "download_time": "2026-03-14T08:48:45.351266",
+  "download_filename": "mem7-0.3.0.tar.gz",
+  "download_time": "2026-03-17T09:44:49.829379",
   "package_url": "https://pypi.org/project/mem7/"
 }

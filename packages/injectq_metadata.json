@@ -1,0 +1,11 @@
+{
+  "name": "injectq",
+  "version": "0.4.1",
+  "summary": "Modern Python dependency injection library combining simplicity, power, and performance",
+  "author": "InjectQ Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "injectq-0.4.1.tar.gz",
+  "download_time": "2026-03-17T09:44:54.153563",
+  "package_url": "https://pypi.org/project/injectq/"
+}

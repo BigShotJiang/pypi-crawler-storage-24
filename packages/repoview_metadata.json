@@ -1,0 +1,11 @@
+{
+  "name": "repoview",
+  "version": "1.4.0",
+  "summary": "Turn any codebase into LLM-ready context — in seconds.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repoview-1.4.0.tar.gz",
+  "download_time": "2026-03-17T09:44:34.928156",
+  "package_url": "https://pypi.org/project/repoview/"
+}

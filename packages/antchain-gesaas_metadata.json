@@ -1,0 +1,11 @@
+{
+  "name": "antchain-gesaas",
+  "version": "1.3.0",
+  "summary": "Ant Chain GESAAS SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_gesaas-1.3.0.tar.gz",
+  "download_time": "2026-03-17T09:44:23.148995",
+  "package_url": "https://pypi.org/project/antchain-gesaas/"
+}

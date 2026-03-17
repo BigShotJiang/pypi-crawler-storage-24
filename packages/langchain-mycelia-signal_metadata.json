@@ -1,0 +1,11 @@
+{
+  "name": "langchain-mycelia-signal",
+  "version": "1.2.0",
+  "summary": "LangChain tools for Mycelia Signal — cryptographically signed price oracles with automatic x402 (USDC on Base) payment",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_mycelia_signal-1.2.0.tar.gz",
+  "download_time": "2026-03-17T09:45:06.109108",
+  "package_url": "https://pypi.org/project/langchain-mycelia-signal/"
+}

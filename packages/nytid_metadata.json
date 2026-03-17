@@ -1,11 +1,11 @@
 {
   "name": "nytid",
-  "version": "11.1",
+  "version": "11.2",
   "summary": "TA bookings, schedules, time tracking, and task management",
   "author": "Daniel Bosk",
   "license": null,
   "home_page": null,
-  "download_filename": "nytid-11.1.tar.gz",
-  "download_time": "2026-03-16T08:53:57.582621",
+  "download_filename": "nytid-11.2.tar.gz",
+  "download_time": "2026-03-17T09:44:23.665815",
   "package_url": "https://pypi.org/project/nytid/"
 }

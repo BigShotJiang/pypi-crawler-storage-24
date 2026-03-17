@@ -1,0 +1,11 @@
+{
+  "name": "yukka",
+  "version": "0.1.8",
+  "summary": "Wrapper around Yukka APIs for getting easy access to quantitative insights",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yukka-0.1.8.tar.gz",
+  "download_time": "2026-03-17T09:45:03.421979",
+  "package_url": "https://pypi.org/project/yukka/"
+}

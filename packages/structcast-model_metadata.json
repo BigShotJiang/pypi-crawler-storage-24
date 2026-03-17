@@ -1,0 +1,11 @@
+{
+  "name": "structcast-model",
+  "version": "1.2.0",
+  "summary": "Construct neural network models and training workflows by structcast package.",
+  "author": "f6ra07nk14",
+  "license": null,
+  "home_page": null,
+  "download_filename": "structcast_model-1.2.0-py3-none-any.whl",
+  "download_time": "2026-03-17T09:44:31.527948",
+  "package_url": "https://pypi.org/project/structcast-model/"
+}
