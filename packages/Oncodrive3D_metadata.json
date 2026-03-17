@@ -1,0 +1,11 @@
+{
+  "name": "Oncodrive3D",
+  "version": "1.0.8",
+  "summary": "Oncodrive3D is a method designed to analyse patterns of somatic mutations across tumors to identify three-dimensional (3D) clusters of missense mutations and detect genes that are under positive selection.",
+  "author": null,
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)",
+  "home_page": null,
+  "download_filename": "oncodrive3d-1.0.8.tar.gz",
+  "download_time": "2026-03-17T16:04:21.101070",
+  "package_url": "https://pypi.org/project/Oncodrive3D/"
+}

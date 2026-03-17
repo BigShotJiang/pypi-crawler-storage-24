@@ -1,0 +1,11 @@
+{
+  "name": "phylotreelib",
+  "version": "2.0.0",
+  "summary": "Analyze and manipulate phylogenetic trees",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phylotreelib-2.0.0.tar.gz",
+  "download_time": "2026-03-17T16:03:46.909062",
+  "package_url": "https://pypi.org/project/phylotreelib/"
+}

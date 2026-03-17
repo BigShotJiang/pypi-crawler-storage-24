@@ -1,11 +1,11 @@
 {
   "name": "dbt-lens",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "CLI tool for navigating and understanding dbt projects",
   "author": "Ishan Yash",
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_lens-0.2.0.tar.gz",
-  "download_time": "2026-03-16T22:09:47.640901",
+  "download_filename": "dbt_lens-0.3.0.tar.gz",
+  "download_time": "2026-03-17T16:04:20.552854",
   "package_url": "https://pypi.org/project/dbt-lens/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-tenants",
+  "version": "3.10.1",
+  "summary": "Tenant support for Django using PostgreSQL schemas.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_tenants-3.10.1.tar.gz",
+  "download_time": "2026-03-17T16:03:47.957043",
+  "package_url": "https://pypi.org/project/django-tenants/"
+}

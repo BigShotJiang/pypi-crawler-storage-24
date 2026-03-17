@@ -1,0 +1,11 @@
+{
+  "name": "indexclient",
+  "version": "3.0.0",
+  "summary": null,
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "indexclient-3.0.0.tar.gz",
+  "download_time": "2026-03-17T16:03:51.147828",
+  "package_url": "https://pypi.org/project/indexclient/"
+}

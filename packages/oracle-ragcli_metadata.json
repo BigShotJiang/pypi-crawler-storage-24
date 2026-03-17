@@ -1,0 +1,11 @@
+{
+  "name": "oracle-ragcli",
+  "version": "2.0.1",
+  "summary": "Production RAG system with multi-agent reasoning, knowledge graph, and hybrid search for Oracle DB 26ai",
+  "author": "jasperan",
+  "license": null,
+  "home_page": "https://github.com/jasperan/ragcli",
+  "download_filename": "oracle_ragcli-2.0.1.tar.gz",
+  "download_time": "2026-03-17T16:03:55.381936",
+  "package_url": "https://pypi.org/project/oracle-ragcli/"
+}

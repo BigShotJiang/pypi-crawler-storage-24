@@ -1,0 +1,11 @@
+{
+  "name": "lobstrio-sdk",
+  "version": "0.2.1",
+  "summary": "Python SDK for the Lobstr.io API",
+  "author": "Lobstr.io",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lobstrio_sdk-0.2.1.tar.gz",
+  "download_time": "2026-03-17T16:04:33.245727",
+  "package_url": "https://pypi.org/project/lobstrio-sdk/"
+}

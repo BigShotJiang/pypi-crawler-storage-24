@@ -1,0 +1,11 @@
+{
+  "name": "glview",
+  "version": "1.20.0",
+  "summary": "Lightning-fast image viewer with smooth zooming & panning.",
+  "author": "Tomi Aarnio",
+  "license": "MIT",
+  "home_page": "http://github.com/toaarnio/glview",
+  "download_filename": "glview-1.20.0.tar.gz",
+  "download_time": "2026-03-17T16:04:21.624787",
+  "package_url": "https://pypi.org/project/glview/"
+}

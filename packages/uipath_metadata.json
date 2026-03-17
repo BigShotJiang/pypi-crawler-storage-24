@@ -1,11 +1,11 @@
 {
   "name": "uipath",
-  "version": "2.10.13",
+  "version": "2.10.16",
   "summary": "Python SDK and CLI for UiPath Platform, enabling programmatic interaction with automation services, process management, and deployment tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath-2.10.13.tar.gz",
-  "download_time": "2026-03-13T07:57:47.996843",
+  "download_filename": "uipath-2.10.16.tar.gz",
+  "download_time": "2026-03-17T16:04:29.016416",
   "package_url": "https://pypi.org/project/uipath/"
 }

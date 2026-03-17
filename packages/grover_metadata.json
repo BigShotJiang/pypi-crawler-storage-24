@@ -1,11 +1,11 @@
 {
   "name": "grover",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "The agentic filesystem. Safe file operations, knowledge graphs, and semantic search — unified for AI agents.",
   "author": "Clay Gendron",
   "license": null,
   "home_page": null,
-  "download_filename": "grover-0.0.8.tar.gz",
-  "download_time": "2026-03-17T13:55:21.320137",
+  "download_filename": "grover-0.0.9.tar.gz",
+  "download_time": "2026-03-17T16:04:16.380191",
   "package_url": "https://pypi.org/project/grover/"
 }

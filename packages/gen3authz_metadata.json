@@ -1,0 +1,11 @@
+{
+  "name": "gen3authz",
+  "version": "3.1.0",
+  "summary": "Gen3 authz client",
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gen3authz-3.1.0.tar.gz",
+  "download_time": "2026-03-17T16:04:02.822215",
+  "package_url": "https://pypi.org/project/gen3authz/"
+}
