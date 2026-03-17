@@ -1,11 +1,11 @@
 {
   "name": "gcp-pipeline-tester",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "summary": "Testing framework for GCP data pipelines with mocks, fixtures, and assertions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gcp_pipeline_tester-1.0.11.tar.gz",
-  "download_time": "2026-03-15T17:26:18.089224",
+  "download_filename": "gcp_pipeline_tester-1.0.13.tar.gz",
+  "download_time": "2026-03-17T19:24:10.236501",
   "package_url": "https://pypi.org/project/gcp-pipeline-tester/"
 }

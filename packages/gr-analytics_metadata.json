@@ -1,0 +1,11 @@
+{
+  "name": "gr-analytics",
+  "version": "0.2.1",
+  "summary": "Scoring and salary calculation for GridRival fantasy F1",
+  "author": "nce8",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gr_analytics-0.2.1.tar.gz",
+  "download_time": "2026-03-17T19:24:24.080985",
+  "package_url": "https://pypi.org/project/gr-analytics/"
+}

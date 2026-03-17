@@ -1,0 +1,11 @@
+{
+  "name": "pybtrfs",
+  "version": "0.6.1",
+  "summary": "Static Python bindings for btrfs ioctl operations",
+  "author": null,
+  "license": "GPL-2.0",
+  "home_page": "https://github.com/mosquito/pybtrfs",
+  "download_filename": "pybtrfs-0.6.1.tar.gz",
+  "download_time": "2026-03-17T19:24:14.548435",
+  "package_url": "https://pypi.org/project/pybtrfs/"
+}

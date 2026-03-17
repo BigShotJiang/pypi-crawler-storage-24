@@ -1,0 +1,11 @@
+{
+  "name": "langchain-arp",
+  "version": "0.1.0",
+  "summary": "LangChain Document Loader for reasoning.json — the Agentic Reasoning Protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_arp-0.1.0.tar.gz",
+  "download_time": "2026-03-17T19:24:08.409329",
+  "package_url": "https://pypi.org/project/langchain-arp/"
+}

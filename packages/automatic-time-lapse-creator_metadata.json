@@ -1,0 +1,11 @@
+{
+  "name": "automatic-time-lapse-creator",
+  "version": "2.2.1",
+  "summary": "automatic_time_lapse_creator is a Python program for scraping images from a web cam url and converting them into a timelapse",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "automatic_time_lapse_creator-2.2.1.tar.gz",
+  "download_time": "2026-03-17T19:23:58.943907",
+  "package_url": "https://pypi.org/project/automatic-time-lapse-creator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "og-pilot",
+  "version": "0.4.4",
+  "summary": "Python client for the OG Pilot Open Graph image generator with Django integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "og_pilot-0.4.4.tar.gz",
+  "download_time": "2026-03-17T19:24:56.968058",
+  "package_url": "https://pypi.org/project/og-pilot/"
+}

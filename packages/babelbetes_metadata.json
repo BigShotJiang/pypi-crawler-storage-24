@@ -1,0 +1,11 @@
+{
+  "name": "babelbetes",
+  "version": "0.2.1",
+  "summary": "A Data Processing Tool to Standardize Publicly Available Clinical Diabetes Trial Data",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/nudgebg/babelbetes",
+  "download_filename": "babelbetes-0.2.1-py3-none-any.whl",
+  "download_time": "2026-03-17T19:24:42.139558",
+  "package_url": "https://pypi.org/project/babelbetes/"
+}

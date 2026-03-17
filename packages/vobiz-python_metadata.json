@@ -1,0 +1,11 @@
+{
+  "name": "vobiz-python",
+  "version": "0.1.1",
+  "summary": "Vobiz Python SDK for voice, trunks, phone numbers, endpoints, and XML.",
+  "author": "Vobiz",
+  "license": "MIT",
+  "home_page": "https://github.com/vobiz-ai/Vobiz-Python-SDK",
+  "download_filename": "vobiz_python-0.1.1.tar.gz",
+  "download_time": "2026-03-17T19:24:12.047664",
+  "package_url": "https://pypi.org/project/vobiz-python/"
+}
