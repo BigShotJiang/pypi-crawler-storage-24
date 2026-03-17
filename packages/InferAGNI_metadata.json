@@ -1,0 +1,11 @@
+{
+  "name": "InferAGNI",
+  "version": "26.3.17",
+  "summary": "Infer planet properties using AGNI as a static structure model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inferagni-26.3.17.tar.gz",
+  "download_time": "2026-03-17T21:00:41.630617",
+  "package_url": "https://pypi.org/project/InferAGNI/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "askfind",
+  "version": "0.1.21",
+  "summary": "Natural language file finder for the terminal",
+  "author": "wgsim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "askfind-0.1.21.tar.gz",
+  "download_time": "2026-03-17T21:00:52.035356",
+  "package_url": "https://pypi.org/project/askfind/"
+}

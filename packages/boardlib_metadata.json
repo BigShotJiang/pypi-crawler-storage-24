@@ -1,0 +1,11 @@
+{
+  "name": "boardlib",
+  "version": "0.15.1",
+  "summary": "Utilities for interacting with climbing board APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boardlib-0.15.1.tar.gz",
+  "download_time": "2026-03-17T21:00:28.580820",
+  "package_url": "https://pypi.org/project/boardlib/"
+}

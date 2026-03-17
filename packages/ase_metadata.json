@@ -1,0 +1,11 @@
+{
+  "name": "ase",
+  "version": "3.28.0",
+  "summary": "Atomic Simulation Environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ase-3.28.0.tar.gz",
+  "download_time": "2026-03-17T21:00:45.781698",
+  "package_url": "https://pypi.org/project/ase/"
+}

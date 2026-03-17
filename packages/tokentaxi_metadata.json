@@ -1,11 +1,11 @@
 {
   "name": "tokentaxi",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Adaptive rate-limit-aware LLM routing. Bring your own clients.",
   "author": "tokentaxi  contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tokentaxi-1.0.0.tar.gz",
-  "download_time": "2026-03-17T20:06:23.659384",
+  "download_filename": "tokentaxi-1.1.1.tar.gz",
+  "download_time": "2026-03-17T21:00:57.096351",
   "package_url": "https://pypi.org/project/tokentaxi/"
 }

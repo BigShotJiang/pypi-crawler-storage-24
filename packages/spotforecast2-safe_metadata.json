@@ -1,11 +1,11 @@
 {
   "name": "spotforecast2-safe",
-  "version": "0.17.3",
+  "version": "0.18.1",
   "summary": "spotforecast2-safe (Core): Safety-critical time series forecasting for production",
   "author": "bartzbeielstein",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "spotforecast2_safe-0.17.3.tar.gz",
-  "download_time": "2026-03-16T21:26:24.379310",
+  "download_filename": "spotforecast2_safe-0.18.1.tar.gz",
+  "download_time": "2026-03-17T21:00:25.736318",
   "package_url": "https://pypi.org/project/spotforecast2-safe/"
 }

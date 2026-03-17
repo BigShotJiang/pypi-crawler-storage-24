@@ -1,11 +1,11 @@
 {
   "name": "TeLLMgramBot",
-  "version": "2.4.3",
+  "version": "2.5.1",
   "summary": "LLM-powered Telegram bot (OpenAI + Anthropic)",
   "author": "Digital Heresy",
   "license": "MIT",
   "home_page": "https://github.com/Digital-Heresy/TeLLMgramBot",
-  "download_filename": "tellmgrambot-2.4.3.tar.gz",
-  "download_time": "2026-03-15T21:27:34.352721",
+  "download_filename": "tellmgrambot-2.5.1.tar.gz",
+  "download_time": "2026-03-17T21:00:17.000024",
   "package_url": "https://pypi.org/project/TeLLMgramBot/"
 }

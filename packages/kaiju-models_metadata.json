@@ -1,0 +1,11 @@
+{
+  "name": "kaiju-models",
+  "version": "1.0.6",
+  "summary": "Base classes and services for a backend application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaiju_models-1.0.6-py3-none-any.whl",
+  "download_time": "2026-03-17T21:00:13.425386",
+  "package_url": "https://pypi.org/project/kaiju-models/"
+}

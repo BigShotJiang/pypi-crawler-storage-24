@@ -1,0 +1,11 @@
+{
+  "name": "keymap-drawer",
+  "version": "0.23.0",
+  "summary": "A module and CLI tool to help parse and draw keyboard layouts.",
+  "author": "Cem Aksoylar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keymap_drawer-0.23.0.tar.gz",
+  "download_time": "2026-03-17T21:00:43.293772",
+  "package_url": "https://pypi.org/project/keymap-drawer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "md-viewer-py",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Drop-in single-file Markdown viewer for any folder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "md_viewer_py-1.1.0.tar.gz",
-  "download_time": "2026-03-16T23:55:31.573697",
+  "download_filename": "md_viewer_py-1.1.1.tar.gz",
+  "download_time": "2026-03-17T21:00:39.351626",
   "package_url": "https://pypi.org/project/md-viewer-py/"
 }

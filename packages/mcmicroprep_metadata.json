@@ -1,11 +1,11 @@
 {
   "name": "mcmicroprep",
-  "version": "0.1.8",
+  "version": "0.2.2",
   "summary": null,
   "author": "Ajit Johnson Nirmal",
   "license": null,
   "home_page": null,
-  "download_filename": "mcmicroprep-0.1.8.tar.gz",
-  "download_time": "2026-03-16T23:55:12.149978",
+  "download_filename": "mcmicroprep-0.2.2.tar.gz",
+  "download_time": "2026-03-17T21:00:26.294745",
   "package_url": "https://pypi.org/project/mcmicroprep/"
 }
