@@ -1,0 +1,11 @@
+{
+  "name": "optisim",
+  "version": "0.19.0",
+  "summary": "Lightweight humanoid robot task planner and simulator",
+  "author": "Timo Aeckerle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optisim-0.19.0.tar.gz",
+  "download_time": "2026-03-17T22:27:10.455453",
+  "package_url": "https://pypi.org/project/optisim/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "unisi",
-  "version": "0.5.4",
+  "version": "0.5.6",
   "summary": "Unified System Interface, GUI and Remote API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "unisi-0.5.4.tar.gz",
-  "download_time": "2026-03-07T19:53:43.867908",
+  "download_filename": "unisi-0.5.6.tar.gz",
+  "download_time": "2026-03-17T22:27:11.488128",
   "package_url": "https://pypi.org/project/unisi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "applyagent",
+  "version": "0.3.4",
+  "summary": "AI-powered end-to-end job application pipeline",
+  "author": "Pickle-Pixel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "applyagent-0.3.4.tar.gz",
+  "download_time": "2026-03-17T22:26:59.548918",
+  "package_url": "https://pypi.org/project/applyagent/"
+}

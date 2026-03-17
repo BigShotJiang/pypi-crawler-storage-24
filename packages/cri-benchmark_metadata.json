@@ -1,0 +1,11 @@
+{
+  "name": "cri-benchmark",
+  "version": "0.1.0",
+  "summary": "CRI Benchmark — Contextual Resonance Index: An open-source benchmark for evaluating AI long-term memory systems",
+  "author": "CRI Benchmark Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cri_benchmark-0.1.0.tar.gz",
+  "download_time": "2026-03-17T22:27:02.180732",
+  "package_url": "https://pypi.org/project/cri-benchmark/"
+}

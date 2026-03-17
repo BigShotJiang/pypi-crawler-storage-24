@@ -1,11 +1,11 @@
 {
   "name": "vprikol",
-  "version": "6.3.7",
+  "version": "6.3.8",
   "summary": null,
   "author": "whynotban",
   "license": null,
   "home_page": null,
-  "download_filename": "vprikol-6.3.7.tar.gz",
-  "download_time": "2026-03-15T22:57:16.195495",
+  "download_filename": "vprikol-6.3.8.tar.gz",
+  "download_time": "2026-03-17T22:27:15.591015",
   "package_url": "https://pypi.org/project/vprikol/"
 }

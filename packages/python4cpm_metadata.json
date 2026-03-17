@@ -1,11 +1,11 @@
 {
   "name": "python4cpm",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "Python for CPM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python4cpm-1.1.6.tar.gz",
-  "download_time": "2026-03-16T04:39:56.965403",
+  "download_filename": "python4cpm-1.1.7.tar.gz",
+  "download_time": "2026-03-17T22:27:07.840901",
   "package_url": "https://pypi.org/project/python4cpm/"
 }
