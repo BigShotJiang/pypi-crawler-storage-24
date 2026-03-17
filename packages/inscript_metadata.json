@@ -1,11 +1,11 @@
 {
   "name": "inscript",
-  "version": "0.1.0",
-  "summary": "Universal agent context tracking. Know what codebase the agent is working in.",
+  "version": "0.3.0",
+  "summary": "Universal agent activity ledger. Records what AI agents do.",
   "author": "Andrew Park",
   "license": null,
   "home_page": null,
-  "download_filename": "inscript-0.1.0.tar.gz",
-  "download_time": "2026-03-17T19:24:32.238066",
+  "download_filename": "inscript-0.3.0.tar.gz",
+  "download_time": "2026-03-17T22:56:30.474845",
   "package_url": "https://pypi.org/project/inscript/"
 }

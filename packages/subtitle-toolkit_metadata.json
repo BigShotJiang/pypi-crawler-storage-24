@@ -1,11 +1,11 @@
 {
   "name": "subtitle-toolkit",
-  "version": "0.9.5.7",
+  "version": "0.9.5.8",
   "summary": "Subtitle Toolkit - A collection of utilities for working with subtitle files",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "subtitle_toolkit-0.9.5.7.tar.gz",
-  "download_time": "2026-03-15T21:27:04.587986",
+  "download_filename": "subtitle_toolkit-0.9.5.8.tar.gz",
+  "download_time": "2026-03-17T22:56:18.489827",
   "package_url": "https://pypi.org/project/subtitle-toolkit/"
 }

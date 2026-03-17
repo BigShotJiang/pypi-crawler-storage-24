@@ -1,0 +1,11 @@
+{
+  "name": "laxate",
+  "version": "0.1.0",
+  "summary": "Cloud-based ASV benchmark runner",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "laxate-0.1.0.tar.gz",
+  "download_time": "2026-03-17T22:56:06.490940",
+  "package_url": "https://pypi.org/project/laxate/"
+}

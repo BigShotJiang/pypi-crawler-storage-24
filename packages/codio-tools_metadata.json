@@ -1,0 +1,11 @@
+{
+  "name": "codio-tools",
+  "version": "0.1.0",
+  "summary": "Code intelligence and reuse discovery for research repositories",
+  "author": "Arash Shahidi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codio_tools-0.1.0.tar.gz",
+  "download_time": "2026-03-17T22:56:22.714112",
+  "package_url": "https://pypi.org/project/codio-tools/"
+}

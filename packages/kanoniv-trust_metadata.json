@@ -1,11 +1,11 @@
 {
   "name": "kanoniv-trust",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Trust-based agent selection for multi-agent systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kanoniv_trust-0.1.4.tar.gz",
-  "download_time": "2026-03-17T21:40:11.632200",
+  "download_filename": "kanoniv_trust-0.1.6.tar.gz",
+  "download_time": "2026-03-17T22:56:39.441891",
   "package_url": "https://pypi.org/project/kanoniv-trust/"
 }

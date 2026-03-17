@@ -1,11 +1,11 @@
 {
   "name": "graft-engine-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Command line tools for the Graft game engine",
   "author": "Phaedalus",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graft_engine_cli-0.0.1.tar.gz",
-  "download_time": "2026-03-13T01:31:00.671672",
+  "download_filename": "graft_engine_cli-0.0.2.tar.gz",
+  "download_time": "2026-03-17T22:56:17.976804",
   "package_url": "https://pypi.org/project/graft-engine-cli/"
 }

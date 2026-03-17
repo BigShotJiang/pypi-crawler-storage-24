@@ -1,11 +1,11 @@
 {
   "name": "luckee-cli",
-  "version": "0.1.20260317204244134",
+  "version": "0.1.20260317223710136",
   "summary": "CLI for Core Agent Loop websocket streaming",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "luckee_cli-0.1.20260317204244134.tar.gz",
-  "download_time": "2026-03-17T21:01:00.880298",
+  "download_filename": "luckee_cli-0.1.20260317223710136.tar.gz",
+  "download_time": "2026-03-17T22:56:28.375603",
   "package_url": "https://pypi.org/project/luckee-cli/"
 }

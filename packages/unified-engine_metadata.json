@@ -1,0 +1,11 @@
+{
+  "name": "unified-engine",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Unified Engine FPGA accelerator",
+  "author": "Apex Compute",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unified_engine-0.1.0.tar.gz",
+  "download_time": "2026-03-17T22:55:58.184552",
+  "package_url": "https://pypi.org/project/unified-engine/"
+}

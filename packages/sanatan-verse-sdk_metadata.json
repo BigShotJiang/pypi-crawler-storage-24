@@ -1,11 +1,11 @@
 {
   "name": "sanatan-verse-sdk",
-  "version": "0.90.0",
+  "version": "0.91.0",
   "summary": "Python SDK for creating verse-based content sites with AI translations, multimedia (images, audio), semantic search, RAG-grounded Puranic context, and deployment",
   "author": "Sanatan Learnings",
   "license": null,
   "home_page": "https://github.com/sanatan-learnings/sanatan-verse-sdk",
-  "download_filename": "sanatan_verse_sdk-0.90.0.tar.gz",
-  "download_time": "2026-03-17T22:27:26.091760",
+  "download_filename": "sanatan_verse_sdk-0.91.0.tar.gz",
+  "download_time": "2026-03-17T22:55:53.979423",
   "package_url": "https://pypi.org/project/sanatan-verse-sdk/"
 }

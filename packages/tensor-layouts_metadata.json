@@ -1,0 +1,11 @@
+{
+  "name": "tensor-layouts",
+  "version": "0.1.0",
+  "summary": "Pure-Python GPU layout algebra for NVIDIA and AMD tensor core access patterns — no GPU required",
+  "author": "Jean-Luc Duprat, Meta Platforms, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensor_layouts-0.1.0.tar.gz",
+  "download_time": "2026-03-17T22:55:54.494536",
+  "package_url": "https://pypi.org/project/tensor-layouts/"
+}

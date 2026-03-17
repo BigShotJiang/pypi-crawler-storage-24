@@ -1,11 +1,11 @@
 {
   "name": "frisk-sdk",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Frisk AI Python SDK",
   "author": "FriskAI",
   "license": null,
   "home_page": null,
-  "download_filename": "frisk_sdk-0.2.3.tar.gz",
-  "download_time": "2026-03-09T19:44:30.119102",
+  "download_filename": "frisk_sdk-0.2.4.tar.gz",
+  "download_time": "2026-03-17T22:56:03.886752",
   "package_url": "https://pypi.org/project/frisk-sdk/"
 }

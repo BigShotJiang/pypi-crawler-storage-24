@@ -1,11 +1,11 @@
 {
   "name": "ayase",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Modular media quality metrics toolkit",
   "author": "Ayase Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "ayase-0.1.8.tar.gz",
-  "download_time": "2026-03-17T19:24:46.455888",
+  "download_filename": "ayase-0.1.10.tar.gz",
+  "download_time": "2026-03-17T22:56:14.826978",
   "package_url": "https://pypi.org/project/ayase/"
 }

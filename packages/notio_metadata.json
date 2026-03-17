@@ -1,0 +1,11 @@
+{
+  "name": "notio",
+  "version": "0.1.0",
+  "summary": "Lightweight project-agnostic CLI for templated notes and log indexes",
+  "author": "Arash Shahidi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "notio-0.1.0.tar.gz",
+  "download_time": "2026-03-17T22:56:30.987017",
+  "package_url": "https://pypi.org/project/notio/"
+}

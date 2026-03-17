@@ -1,0 +1,11 @@
+{
+  "name": "fcp7xml-to-unreal",
+  "version": "0.2.0",
+  "summary": "Filter FCP XML files for import into Unreal Engine.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fcp7xml_to_unreal-0.2.0.tar.gz",
+  "download_time": "2026-03-17T22:56:04.433713",
+  "package_url": "https://pypi.org/project/fcp7xml-to-unreal/"
+}

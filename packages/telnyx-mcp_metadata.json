@@ -1,0 +1,11 @@
+{
+  "name": "telnyx-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Telnyx API — billing, phone numbers, and messaging",
+  "author": "Luca Stucchi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "telnyx_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-17T22:56:24.264391",
+  "package_url": "https://pypi.org/project/telnyx-mcp/"
+}

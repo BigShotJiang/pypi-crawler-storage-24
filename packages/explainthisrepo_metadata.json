@@ -1,0 +1,11 @@
+{
+  "name": "explainthisrepo",
+  "version": "0.9.2",
+  "summary": "CLI that generates plain English explanations of any codebase",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "explainthisrepo-0.9.2.tar.gz",
+  "download_time": "2026-03-17T22:55:56.041039",
+  "package_url": "https://pypi.org/project/explainthisrepo/"
+}

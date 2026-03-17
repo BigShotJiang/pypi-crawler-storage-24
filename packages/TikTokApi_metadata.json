@@ -1,0 +1,11 @@
+{
+  "name": "TikTokApi",
+  "version": "7.3.2",
+  "summary": "The Unofficial TikTok API Wrapper in Python 3.",
+  "author": "David Teather",
+  "license": "MIT",
+  "home_page": "https://github.com/davidteather/tiktok-api",
+  "download_filename": "tiktokapi-7.3.2.tar.gz",
+  "download_time": "2026-03-17T22:56:33.577923",
+  "package_url": "https://pypi.org/project/TikTokApi/"
+}

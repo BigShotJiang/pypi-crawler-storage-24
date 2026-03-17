@@ -1,0 +1,11 @@
+{
+  "name": "mercury-launcher",
+  "version": "0.1.2",
+  "summary": "Daemon that spawns Claude Code sessions for Mercury agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mercury_launcher-0.1.2.tar.gz",
+  "download_time": "2026-03-17T22:56:35.740062",
+  "package_url": "https://pypi.org/project/mercury-launcher/"
+}

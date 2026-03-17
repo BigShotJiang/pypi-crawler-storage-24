@@ -1,0 +1,11 @@
+{
+  "name": "smplfitter",
+  "version": "0.4.0",
+  "summary": "Fast inverse kinematics and shape fitting for SMPL-family models in NumPy, PyTorch, TensorFlow, JAX, and Numba",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smplfitter-0.4.0.tar.gz",
+  "download_time": "2026-03-17T22:56:29.957893",
+  "package_url": "https://pypi.org/project/smplfitter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nhinsight",
+  "version": "0.2.3",
+  "summary": "Discover risky non-human identities and privilege paths across AWS, Azure, GCP, GitHub, and Kubernetes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nhinsight-0.2.3.tar.gz",
+  "download_time": "2026-03-17T22:56:27.858410",
+  "package_url": "https://pypi.org/project/nhinsight/"
+}
