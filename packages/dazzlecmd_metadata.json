@@ -1,0 +1,11 @@
+{
+  "name": "dazzlecmd",
+  "version": "0.2.2a0",
+  "summary": "Unified CLI for the DazzleTools collection - many tools, one command",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "dazzlecmd-0.2.2a0.tar.gz",
+  "download_time": "2026-03-17T01:46:20.690928",
+  "package_url": "https://pypi.org/project/dazzlecmd/"
+}

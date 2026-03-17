@@ -1,11 +1,11 @@
 {
   "name": "html-tags",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "concise html tag generation",
   "author": "Deufel",
   "license": null,
   "home_page": null,
-  "download_filename": "html_tags-0.0.1.tar.gz",
-  "download_time": "2026-03-16T19:56:42.704646",
+  "download_filename": "html_tags-0.0.3.tar.gz",
+  "download_time": "2026-03-17T01:45:49.515873",
   "package_url": "https://pypi.org/project/html-tags/"
 }

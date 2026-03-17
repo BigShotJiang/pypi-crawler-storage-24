@@ -1,0 +1,11 @@
+{
+  "name": "kdm-sdk",
+  "version": "0.2.5",
+  "summary": "KDM (K-water Data Model) SDK for water resource data access",
+  "author": "K-water",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kdm_sdk-0.2.5.tar.gz",
+  "download_time": "2026-03-17T01:45:54.713778",
+  "package_url": "https://pypi.org/project/kdm-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "abstract-flask",
-  "version": "0.0.0.1019",
+  "version": "0.0.0.1020",
   "summary": "A composable toolkit for standing up Flask APIs without repeating yourself. Handles blueprint discovery, CORS, request parsing, endpoint introspection, and route generation — so the only code you write is the code that matters.",
   "author": "putkoff",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_flask",
-  "download_filename": "abstract_flask-0.0.0.1019.tar.gz",
-  "download_time": "2026-03-16T07:51:49.405071",
+  "download_filename": "abstract_flask-0.0.0.1020.tar.gz",
+  "download_time": "2026-03-17T01:46:03.473873",
   "package_url": "https://pypi.org/project/abstract-flask/"
 }

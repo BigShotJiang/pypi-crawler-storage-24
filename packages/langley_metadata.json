@@ -1,11 +1,11 @@
 {
   "name": "langley",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "For your agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "langley-0.1.0.tar.gz",
-  "download_time": "2026-03-15T19:52:09.072690",
+  "download_filename": "langley-0.1.1.tar.gz",
+  "download_time": "2026-03-17T01:46:22.762363",
   "package_url": "https://pypi.org/project/langley/"
 }

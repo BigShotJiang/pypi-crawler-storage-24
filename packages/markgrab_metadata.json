@@ -1,0 +1,11 @@
+{
+  "name": "markgrab",
+  "version": "0.1.2",
+  "summary": "Universal web content extraction — URL to LLM-ready markdown",
+  "author": "hmj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markgrab-0.1.2.tar.gz",
+  "download_time": "2026-03-17T01:46:28.894464",
+  "package_url": "https://pypi.org/project/markgrab/"
+}

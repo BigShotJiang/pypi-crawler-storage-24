@@ -1,11 +1,11 @@
 {
   "name": "ryeos",
-  "version": "0.1.15",
+  "version": "0.1.20",
   "summary": "RYE Standard Bundle — agent, bash, file-system, MCP, and primary actions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ryeos-0.1.15-py3-none-any.whl",
-  "download_time": "2026-03-12T06:08:21.032204",
+  "download_filename": "ryeos-0.1.20-py3-none-any.whl",
+  "download_time": "2026-03-17T01:45:56.778251",
   "package_url": "https://pypi.org/project/ryeos/"
 }

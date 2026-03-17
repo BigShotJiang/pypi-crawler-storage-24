@@ -1,0 +1,11 @@
+{
+  "name": "justpdf",
+  "version": "0.0.2",
+  "summary": "A lightweight, high-performance PDF text extraction library with a pandas-style API.",
+  "author": "Pujan Neupane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "justpdf-0.0.2.tar.gz",
+  "download_time": "2026-03-17T01:46:08.675051",
+  "package_url": "https://pypi.org/project/justpdf/"
+}

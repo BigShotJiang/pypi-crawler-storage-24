@@ -1,0 +1,11 @@
+{
+  "name": "finclawhub",
+  "version": "0.1.0",
+  "summary": "FinClaw Skills CLI — install and manage financial AI skills",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "finclawhub-0.1.0.tar.gz",
+  "download_time": "2026-03-17T01:46:04.011615",
+  "package_url": "https://pypi.org/project/finclawhub/"
+}

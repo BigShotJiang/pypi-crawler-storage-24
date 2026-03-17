@@ -1,0 +1,11 @@
+{
+  "name": "python-ulid-django",
+  "version": "1.4.0",
+  "summary": "ULID (Universally Unique Lexicographically Sortable Identifier) support for Django.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_ulid_django-1.4.0.tar.gz",
+  "download_time": "2026-03-17T01:46:18.624978",
+  "package_url": "https://pypi.org/project/python-ulid-django/"
+}
