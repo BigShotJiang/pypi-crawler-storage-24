@@ -1,11 +1,11 @@
 {
   "name": "quickplay",
-  "version": "1.1.7",
+  "version": "1.2.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quickplay-1.1.7.tar.gz",
-  "download_time": "2026-03-15T14:52:17.834948",
+  "download_filename": "quickplay-1.2.0.tar.gz",
+  "download_time": "2026-03-17T17:15:20.674079",
   "package_url": "https://pypi.org/project/quickplay/"
 }

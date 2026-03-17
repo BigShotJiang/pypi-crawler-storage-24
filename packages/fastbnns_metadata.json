@@ -1,0 +1,11 @@
+{
+  "name": "fastbnns",
+  "version": "0.3.0",
+  "summary": "Fast training and inference for Bayesian neural networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastbnns-0.3.0.tar.gz",
+  "download_time": "2026-03-17T17:15:35.685928",
+  "package_url": "https://pypi.org/project/fastbnns/"
+}

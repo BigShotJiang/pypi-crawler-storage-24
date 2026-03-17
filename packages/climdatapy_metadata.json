@@ -1,11 +1,11 @@
 {
   "name": "climdatapy",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Downloader for meteorological and ocean datasets",
   "author": "So Tomita",
   "license": null,
   "home_page": null,
-  "download_filename": "climdatapy-0.1.1.tar.gz",
-  "download_time": "2026-03-16T22:55:17.577261",
+  "download_filename": "climdatapy-0.2.0.tar.gz",
+  "download_time": "2026-03-17T17:15:12.547128",
   "package_url": "https://pypi.org/project/climdatapy/"
 }

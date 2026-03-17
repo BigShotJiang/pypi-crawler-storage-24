@@ -1,0 +1,11 @@
+{
+  "name": "schedops-cli",
+  "version": "0.0.1",
+  "summary": "Scheduler operations CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schedops_cli-0.0.1.tar.gz",
+  "download_time": "2026-03-17T17:15:41.290658",
+  "package_url": "https://pypi.org/project/schedops-cli/"
+}

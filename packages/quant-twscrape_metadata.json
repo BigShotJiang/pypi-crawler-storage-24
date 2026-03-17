@@ -1,0 +1,11 @@
+{
+  "name": "quant-twscrape",
+  "version": "1.0.1",
+  "summary": "Twitter scraper API for Quant",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quant_twscrape-1.0.1.tar.gz",
+  "download_time": "2026-03-17T17:14:38.599725",
+  "package_url": "https://pypi.org/project/quant-twscrape/"
+}

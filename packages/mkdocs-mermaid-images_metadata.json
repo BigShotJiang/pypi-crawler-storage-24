@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-mermaid-images",
+  "version": "0.2.0",
+  "summary": "MkDocs plugin that renders Mermaid fences to hashed PNG assets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_mermaid_images-0.2.0.tar.gz",
+  "download_time": "2026-03-17T17:15:18.127772",
+  "package_url": "https://pypi.org/project/mkdocs-mermaid-images/"
+}

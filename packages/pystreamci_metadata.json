@@ -1,0 +1,11 @@
+{
+  "name": "pystreamci",
+  "version": "0.4.1",
+  "summary": "Python client library for StreamCI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pystreamci-0.4.1.tar.gz",
+  "download_time": "2026-03-17T17:14:46.756220",
+  "package_url": "https://pypi.org/project/pystreamci/"
+}

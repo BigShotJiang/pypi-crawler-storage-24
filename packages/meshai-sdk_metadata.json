@@ -1,0 +1,11 @@
+{
+  "name": "meshai-sdk",
+  "version": "0.2.1",
+  "summary": "MeshAI Python SDK — Agent Control Plane client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meshai_sdk-0.2.1.tar.gz",
+  "download_time": "2026-03-17T17:14:42.420686",
+  "package_url": "https://pypi.org/project/meshai-sdk/"
+}

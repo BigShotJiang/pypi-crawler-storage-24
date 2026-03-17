@@ -1,11 +1,11 @@
 {
   "name": "ollama-herd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Smart inference router that herds your Ollama instances into one endpoint",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ollama_herd-0.1.0.tar.gz",
-  "download_time": "2026-03-11T08:09:09.566015",
+  "download_filename": "ollama_herd-0.1.1.tar.gz",
+  "download_time": "2026-03-17T17:15:29.254020",
   "package_url": "https://pypi.org/project/ollama-herd/"
 }
