@@ -1,0 +1,11 @@
+{
+  "name": "reliai",
+  "version": "0.1.0",
+  "summary": "Observability and reliability tooling for AI systems",
+  "author": "Reliai Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reliai-0.1.0.tar.gz",
+  "download_time": "2026-03-17T23:41:40.067135",
+  "package_url": "https://pypi.org/project/reliai/"
+}

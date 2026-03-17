@@ -1,0 +1,11 @@
+{
+  "name": "pathwaygat",
+  "version": "1.0.0",
+  "summary": "PathwayGAT is a GAT-based framework that could integrate information from different biological modalities, such as genes, microbes, and genetic variations. PathwayGAT organizes different elements into pathways and train an explainable GAT network to perform different tasks and reveal the underlying biological mechanism.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pathwaygat-1.0.0.tar.gz",
+  "download_time": "2026-03-17T23:41:01.737972",
+  "package_url": "https://pypi.org/project/pathwaygat/"
+}

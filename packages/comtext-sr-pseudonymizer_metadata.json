@@ -1,0 +1,11 @@
+{
+  "name": "comtext-sr-pseudonymizer",
+  "version": "0.5.7",
+  "summary": "Pseudonymization library for COMtext.SR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "comtext_sr_pseudonymizer-0.5.7.tar.gz",
+  "download_time": "2026-03-17T23:41:18.156756",
+  "package_url": "https://pypi.org/project/comtext-sr-pseudonymizer/"
+}

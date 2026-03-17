@@ -1,11 +1,11 @@
 {
   "name": "runcost",
-  "version": "0.1.0",
-  "summary": "Drop-in cost intelligence for Python AI agent frameworks.",
+  "version": "0.1.4",
+  "summary": "Run a 1,000-agent simulation for $2 instead of $200. Drop-in cost intelligence for Python AI agent frameworks.",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "runcost-0.1.0.tar.gz",
-  "download_time": "2026-03-17T16:04:16.899054",
+  "download_filename": "runcost-0.1.4.tar.gz",
+  "download_time": "2026-03-17T23:41:05.113364",
   "package_url": "https://pypi.org/project/runcost/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "impsy",
+  "version": "0.6.0",
+  "summary": "IMPSY is the Interactive Musical Prediction SYstem, a tool for creative interactive intelligent musical instruments using a recurrent mixture density neural network.",
+  "author": "Charles Martin",
+  "license": "MIT",
+  "home_page": "https://github.com/cpmpercussion/impsy",
+  "download_filename": "impsy-0.6.0.tar.gz",
+  "download_time": "2026-03-17T23:41:16.611681",
+  "package_url": "https://pypi.org/project/impsy/"
+}

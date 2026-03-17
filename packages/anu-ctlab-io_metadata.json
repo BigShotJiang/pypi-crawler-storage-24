@@ -1,0 +1,11 @@
+{
+  "name": "anu-ctlab-io",
+  "version": "1.2.1",
+  "summary": "python I/O for the ANU CTLab array storage format(s)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anu_ctlab_io-1.2.1.tar.gz",
+  "download_time": "2026-03-17T23:41:45.752620",
+  "package_url": "https://pypi.org/project/anu-ctlab-io/"
+}

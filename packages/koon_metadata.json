@@ -1,11 +1,11 @@
 {
   "name": "koon",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Browser impersonation HTTP client with TLS/HTTP2 fingerprint spoofing",
-  "author": "scrape-hub",
+  "author": "Wedge",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "koon-0.6.0.tar.gz",
-  "download_time": "2026-03-17T21:00:11.171541",
+  "download_filename": "koon-0.6.1.tar.gz",
+  "download_time": "2026-03-17T23:41:43.489830",
   "package_url": "https://pypi.org/project/koon/"
 }

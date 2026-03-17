@@ -1,0 +1,11 @@
+{
+  "name": "dpop-broker-auth",
+  "version": "0.1.0",
+  "summary": "Agent-side ES256 key enrollment and DPoP proof-of-possession (RFC 9449) for MCP broker authentication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dpop_broker_auth-0.1.0.tar.gz",
+  "download_time": "2026-03-17T23:41:17.635701",
+  "package_url": "https://pypi.org/project/dpop-broker-auth/"
+}

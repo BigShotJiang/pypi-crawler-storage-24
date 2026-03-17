@@ -1,0 +1,11 @@
+{
+  "name": "visiongauge",
+  "version": "1.0.0",
+  "summary": "A computer vision model to detect and read u-tube manometers.",
+  "author": "Clayton Silva dos Santos, Marcos Noboru Arima",
+  "license": null,
+  "home_page": null,
+  "download_filename": "visiongauge-1.0.0.tar.gz",
+  "download_time": "2026-03-17T23:41:06.146381",
+  "package_url": "https://pypi.org/project/visiongauge/"
+}

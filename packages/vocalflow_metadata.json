@@ -1,0 +1,11 @@
+{
+  "name": "vocalflow",
+  "version": "0.3.1",
+  "summary": "Local TTS and audio transcription web app",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vocalflow-0.3.1.tar.gz",
+  "download_time": "2026-03-17T23:41:27.777526",
+  "package_url": "https://pypi.org/project/vocalflow/"
+}
