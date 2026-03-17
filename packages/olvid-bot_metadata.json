@@ -1,0 +1,11 @@
+{
+  "name": "olvid-bot",
+  "version": "2.0.0",
+  "summary": "A Python GRPC client implementation for building chatbots and programs that interact with the Olvid application.",
+  "author": "olvid.io",
+  "license": null,
+  "home_page": null,
+  "download_filename": "olvid_bot-2.0.0.tar.gz",
+  "download_time": "2026-03-17T20:06:39.283379",
+  "package_url": "https://pypi.org/project/olvid-bot/"
+}

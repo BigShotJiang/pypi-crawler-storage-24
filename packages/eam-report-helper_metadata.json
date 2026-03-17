@@ -1,0 +1,11 @@
+{
+  "name": "eam-report-helper",
+  "version": "0.2.9",
+  "summary": "A package that returns formatted data for reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eam_report_helper-0.2.9.tar.gz",
+  "download_time": "2026-03-17T20:06:50.191821",
+  "package_url": "https://pypi.org/project/eam-report-helper/"
+}

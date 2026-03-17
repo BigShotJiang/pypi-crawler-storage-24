@@ -1,0 +1,11 @@
+{
+  "name": "astropods-messaging",
+  "version": "0.0.4",
+  "summary": "Generated gRPC stubs for the Astropods messaging service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astropods_messaging-0.0.4.tar.gz",
+  "download_time": "2026-03-17T20:06:51.743740",
+  "package_url": "https://pypi.org/project/astropods-messaging/"
+}

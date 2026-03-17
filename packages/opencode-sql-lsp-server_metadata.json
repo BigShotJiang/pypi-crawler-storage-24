@@ -1,0 +1,11 @@
+{
+  "name": "opencode-sql-lsp-server",
+  "version": "0.1.2",
+  "summary": "SQL Language Server for OpenCode with Trino/StarRocks dialect support",
+  "author": "OpenCode SQL LSP port",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opencode_sql_lsp_server-0.1.2.tar.gz",
+  "download_time": "2026-03-17T20:06:40.308358",
+  "package_url": "https://pypi.org/project/opencode-sql-lsp-server/"
+}

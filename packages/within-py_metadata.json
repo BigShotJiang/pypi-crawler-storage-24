@@ -1,0 +1,11 @@
+{
+  "name": "within-py",
+  "version": "0.1.0",
+  "summary": "High-performance fixed-effects solver for econometric panel data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "within_py-0.1.0.tar.gz",
+  "download_time": "2026-03-17T20:06:36.151621",
+  "package_url": "https://pypi.org/project/within-py/"
+}

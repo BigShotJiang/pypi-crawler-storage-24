@@ -1,11 +1,11 @@
 {
   "name": "atomix-stm",
-  "version": "3.3.4",
-  "summary": "Production-grade Software Transactional Memory for Python 3.13+",
+  "version": "3.3.5",
+  "summary": "Atomix 3.3: Production-Grade Software Transactional Memory for Python 3.13+",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atomix_stm-3.3.4.tar.gz",
-  "download_time": "2026-03-14T12:01:40.680128",
+  "download_filename": "atomix_stm-3.3.5.tar.gz",
+  "download_time": "2026-03-17T20:06:54.316937",
   "package_url": "https://pypi.org/project/atomix-stm/"
 }

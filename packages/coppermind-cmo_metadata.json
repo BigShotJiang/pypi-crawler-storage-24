@@ -1,0 +1,11 @@
+{
+  "name": "coppermind-cmo",
+  "version": "0.3.2",
+  "summary": "AI-powered memory for fractional CMOs — never forget a client detail, never leak data between clients",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coppermind_cmo-0.3.2.tar.gz",
+  "download_time": "2026-03-17T20:06:21.064559",
+  "package_url": "https://pypi.org/project/coppermind-cmo/"
+}

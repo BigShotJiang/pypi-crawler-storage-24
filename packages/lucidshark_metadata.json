@@ -1,11 +1,11 @@
 {
   "name": "lucidshark",
-  "version": "0.6.3",
-  "summary": "LucidShark - The trust layer for AI-assisted development",
+  "version": "0.6.13",
+  "summary": "Unified code quality and security scanner for AI-assisted development",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lucidshark-0.6.3.tar.gz",
-  "download_time": "2026-03-15T21:53:09.662787",
+  "download_filename": "lucidshark-0.6.13.tar.gz",
+  "download_time": "2026-03-17T20:06:28.347476",
   "package_url": "https://pypi.org/project/lucidshark/"
 }

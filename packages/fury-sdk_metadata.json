@@ -1,11 +1,11 @@
 {
   "name": "fury-sdk",
-  "version": "0.0.16",
+  "version": "0.1.1",
   "summary": "A flexible AI agent library with tool support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fury_sdk-0.0.16.tar.gz",
-  "download_time": "2026-03-10T15:34:50.135983",
+  "download_filename": "fury_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-17T20:06:48.653404",
   "package_url": "https://pypi.org/project/fury-sdk/"
 }

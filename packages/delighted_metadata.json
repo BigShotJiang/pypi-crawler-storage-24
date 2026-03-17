@@ -1,0 +1,11 @@
+{
+  "name": "delighted",
+  "version": "4.2.0",
+  "summary": "Delighted API Python Client.",
+  "author": "Ben Turner, Robby Colvin",
+  "license": "MIT",
+  "home_page": "https://delighted.com/",
+  "download_filename": "delighted-4.2.0.tar.gz",
+  "download_time": "2026-03-17T20:06:24.734546",
+  "package_url": "https://pypi.org/project/delighted/"
+}

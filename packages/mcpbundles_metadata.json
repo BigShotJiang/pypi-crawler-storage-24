@@ -1,11 +1,11 @@
 {
   "name": "mcpbundles",
-  "version": "1.3.1",
+  "version": "1.5.1",
   "summary": "MCPBundles CLI — connect AI to all your MCP tools from the command line",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcpbundles-1.3.1.tar.gz",
-  "download_time": "2026-03-09T22:54:23.682141",
+  "download_filename": "mcpbundles-1.5.1.tar.gz",
+  "download_time": "2026-03-17T20:06:33.570344",
   "package_url": "https://pypi.org/project/mcpbundles/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "toolstorepy",
+  "version": "0.1.1",
+  "summary": "Automatic MCP server builder — describe tools in plain English, get a ready-to-run server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolstorepy-0.1.1.tar.gz",
+  "download_time": "2026-03-17T20:06:35.632480",
+  "package_url": "https://pypi.org/project/toolstorepy/"
+}
