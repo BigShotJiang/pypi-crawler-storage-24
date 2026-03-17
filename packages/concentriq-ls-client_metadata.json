@@ -1,11 +1,11 @@
 {
   "name": "concentriq-ls-client",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python client library for Proscia Concentriq Life Sciences API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "concentriq_ls_client-0.2.0.tar.gz",
-  "download_time": "2026-03-17T17:15:31.472024",
+  "download_filename": "concentriq_ls_client-0.2.1.tar.gz",
+  "download_time": "2026-03-17T18:12:51.912372",
   "package_url": "https://pypi.org/project/concentriq-ls-client/"
 }

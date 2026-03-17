@@ -1,0 +1,11 @@
+{
+  "name": "feishu-operator",
+  "version": "1.2.1",
+  "summary": "以个人身份操作飞书消息、文档、多维表格、通讯录的 Python 工具库",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feishu_operator-1.2.1.tar.gz",
+  "download_time": "2026-03-17T18:12:36.956239",
+  "package_url": "https://pypi.org/project/feishu-operator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "servify",
+  "version": "0.0.32",
+  "summary": "A Python library that simplifies data manipulation and workflow development with PySpark in Databricks environments.",
+  "author": "Felipe Pegoraro",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "servify-0.0.32.tar.gz",
+  "download_time": "2026-03-17T18:12:34.897687",
+  "package_url": "https://pypi.org/project/servify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reflex-google-recaptcha-v2",
+  "version": "0.1.0.post1",
+  "summary": "Google ReCAPTCHA v2 Integration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "reflex_google_recaptcha_v2-0.1.0.post1.tar.gz",
+  "download_time": "2026-03-17T18:12:32.286434",
+  "package_url": "https://pypi.org/project/reflex-google-recaptcha-v2/"
+}

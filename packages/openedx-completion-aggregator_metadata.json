@@ -1,0 +1,11 @@
+{
+  "name": "openedx-completion-aggregator",
+  "version": "4.4.0",
+  "summary": "an app that aggregates block level completion data for different block types for Open edX.",
+  "author": "OpenCraft",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/open-craft/openedx-completion-aggregator",
+  "download_filename": "openedx_completion_aggregator-4.4.0.tar.gz",
+  "download_time": "2026-03-17T18:12:33.317449",
+  "package_url": "https://pypi.org/project/openedx-completion-aggregator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fragmented-keys-django",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Django cache management with fragmented keys for better invalidation support",
-  "author": "GreatNonProfit",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fragmented_keys_django-0.1.1.tar.gz",
-  "download_time": "2026-03-14T15:25:09.107566",
+  "download_filename": "fragmented_keys_django-0.1.5.tar.gz",
+  "download_time": "2026-03-17T18:12:53.991685",
   "package_url": "https://pypi.org/project/fragmented-keys-django/"
 }

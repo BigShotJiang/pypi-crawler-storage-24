@@ -1,11 +1,11 @@
 {
   "name": "cecli-dev",
-  "version": "0.97.4",
+  "version": "0.97.5",
   "summary": "we also can't pronounce cecli",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cecli_dev-0.97.4.tar.gz",
-  "download_time": "2026-03-10T13:39:41.269048",
+  "download_filename": "cecli_dev-0.97.5.tar.gz",
+  "download_time": "2026-03-17T18:12:52.960501",
   "package_url": "https://pypi.org/project/cecli-dev/"
 }

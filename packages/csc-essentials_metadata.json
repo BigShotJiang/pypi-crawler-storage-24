@@ -1,11 +1,11 @@
 {
   "name": "csc-essentials",
-  "version": "1.0.0",
+  "version": "1.1.4",
   "summary": "Biblioteca de utilitários essenciais para projetos CSC",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csc_essentials-1.0.0.tar.gz",
-  "download_time": "2026-03-16T19:56:26.986671",
+  "download_filename": "csc_essentials-1.1.4.tar.gz",
+  "download_time": "2026-03-17T18:12:17.638607",
   "package_url": "https://pypi.org/project/csc-essentials/"
 }

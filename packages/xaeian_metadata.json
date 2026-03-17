@@ -1,11 +1,11 @@
 {
   "name": "xaeian",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "summary": "Python utilities for files, strings, time, serial, structs, media, electronics, plotting, and database and more...",
   "author": "Xaeian",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xaeian-0.4.1.tar.gz",
-  "download_time": "2026-03-08T20:48:51.473322",
+  "download_filename": "xaeian-0.5.1.tar.gz",
+  "download_time": "2026-03-17T18:12:31.258776",
   "package_url": "https://pypi.org/project/xaeian/"
 }

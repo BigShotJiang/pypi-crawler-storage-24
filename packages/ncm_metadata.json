@@ -1,0 +1,11 @@
+{
+  "name": "ncm",
+  "version": "0.0.66",
+  "summary": "Python client library for Cradlepoint NCM API",
+  "author": "Nathan Wiens - Cradlepoint",
+  "license": null,
+  "home_page": "https://github.com/cradlepoint/api-samples/tree/master/ncm",
+  "download_filename": "ncm-0.0.66.tar.gz",
+  "download_time": "2026-03-17T18:12:40.582546",
+  "package_url": "https://pypi.org/project/ncm/"
+}

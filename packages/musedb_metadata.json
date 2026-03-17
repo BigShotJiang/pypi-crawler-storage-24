@@ -1,0 +1,11 @@
+{
+  "name": "musedb",
+  "version": "0.1.0",
+  "summary": "The AI-native file database. Built from the ground up for LLM agents to read and search any document format as plain text.",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "musedb-0.1.0.tar.gz",
+  "download_time": "2026-03-17T18:12:24.992942",
+  "package_url": "https://pypi.org/project/musedb/"
+}

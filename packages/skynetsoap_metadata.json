@@ -1,0 +1,11 @@
+{
+  "name": "skynetsoap",
+  "version": "1.0.0",
+  "summary": "Field-wide aperture photometry pipeline for Skynet observations",
+  "author": "Donovan Schlekat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skynetsoap-1.0.0.tar.gz",
+  "download_time": "2026-03-17T18:12:42.121305",
+  "package_url": "https://pypi.org/project/skynetsoap/"
+}

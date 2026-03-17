@@ -1,0 +1,11 @@
+{
+  "name": "gce-rescue",
+  "version": "2.0.0",
+  "summary": "GCE Rescue - Rescue unbootable Google Compute Engine VMs.",
+  "author": "GCE Rescue Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/googlecloudplatform/gce-rescue",
+  "download_filename": "gce_rescue-2.0.0.tar.gz",
+  "download_time": "2026-03-17T18:12:37.987989",
+  "package_url": "https://pypi.org/project/gce-rescue/"
+}
