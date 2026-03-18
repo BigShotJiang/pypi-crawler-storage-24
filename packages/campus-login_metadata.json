@@ -1,0 +1,11 @@
+{
+  "name": "campus-login",
+  "version": "0.1.2",
+  "summary": "校园网自动登录工具（Eportal 动态公钥型）",
+  "author": "wangsiyuan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "campus_login-0.1.2.tar.gz",
+  "download_time": "2026-03-18T12:09:39.228495",
+  "package_url": "https://pypi.org/project/campus-login/"
+}

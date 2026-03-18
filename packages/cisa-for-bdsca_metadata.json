@@ -1,0 +1,11 @@
+{
+  "name": "cisa-for-bdsca",
+  "version": "0.1.1",
+  "summary": "Collect CISA vulnerability information from Black Duck SCA for CVE, EUVD, and BDSA vulnerabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cisa_for_bdsca-0.1.1.tar.gz",
+  "download_time": "2026-03-18T12:09:24.071119",
+  "package_url": "https://pypi.org/project/cisa-for-bdsca/"
+}

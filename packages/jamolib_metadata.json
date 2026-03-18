@@ -1,0 +1,11 @@
+{
+  "name": "jamolib",
+  "version": "0.2.0",
+  "summary": "Utilities for decomposing, composing, and keyboard-mapping Korean Hangul text.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jamolib-0.2.0.tar.gz",
+  "download_time": "2026-03-18T12:09:33.448910",
+  "package_url": "https://pypi.org/project/jamolib/"
+}

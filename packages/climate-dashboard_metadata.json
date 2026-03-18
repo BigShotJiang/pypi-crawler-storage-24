@@ -1,0 +1,11 @@
+{
+  "name": "climate-dashboard",
+  "version": "0.1.0",
+  "summary": "Interactive Climate Entropy Dashboard for the GenesisAeon stack – visualizes duality, modulation, UTAC thresholds, mandala resonance and sonification output.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "climate_dashboard-0.1.0.tar.gz",
+  "download_time": "2026-03-18T12:09:26.494611",
+  "package_url": "https://pypi.org/project/climate-dashboard/"
+}

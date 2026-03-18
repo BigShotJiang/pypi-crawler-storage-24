@@ -1,0 +1,11 @@
+{
+  "name": "bin2path",
+  "version": "0.1.1",
+  "summary": "Transform numbers into 3D geometric paths - binary visualization",
+  "author": "bin2path",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bin2path-0.1.1.tar.gz",
+  "download_time": "2026-03-18T12:09:41.096912",
+  "package_url": "https://pypi.org/project/bin2path/"
+}

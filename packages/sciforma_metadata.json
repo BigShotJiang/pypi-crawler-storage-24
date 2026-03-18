@@ -1,11 +1,11 @@
 {
   "name": "sciforma",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "High-performance 3D molecular conformer generation — Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sciforma-0.6.1-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-18T11:32:06.682956",
+  "download_filename": "sciforma-0.7.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-18T12:09:08.095347",
   "package_url": "https://pypi.org/project/sciforma/"
 }

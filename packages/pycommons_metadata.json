@@ -1,0 +1,11 @@
+{
+  "name": "pycommons",
+  "version": "0.8.91",
+  "summary": "A package with utility functionality for Python projects.",
+  "author": "Thomas Weise",
+  "license": "GPL 3.0",
+  "home_page": "https://thomasweise.github.io/pycommons",
+  "download_filename": "pycommons-0.8.91.tar.gz",
+  "download_time": "2026-03-18T12:08:56.602616",
+  "package_url": "https://pypi.org/project/pycommons/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-mysql-ops",
-  "version": "1.3.8",
+  "version": "1.3.9",
   "summary": "MCP server for MySQL database operations and monitoring",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_mysql_ops-1.3.8.tar.gz",
-  "download_time": "2026-03-15T12:00:26.276718",
+  "download_filename": "mcp_mysql_ops-1.3.9.tar.gz",
+  "download_time": "2026-03-18T12:09:07.439013",
   "package_url": "https://pypi.org/project/mcp-mysql-ops/"
 }

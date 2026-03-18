@@ -1,0 +1,11 @@
+{
+  "name": "diffai-python",
+  "version": "0.5.2",
+  "summary": "Python bindings for diffai - AI/ML model diff tool for PyTorch, Safetensors, NumPy, MATLAB tensor comparison. Powered by Rust for blazing fast performance.",
+  "author": "kako-jun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffai_python-0.5.2-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-18T12:09:05.643235",
+  "package_url": "https://pypi.org/project/diffai-python/"
+}
