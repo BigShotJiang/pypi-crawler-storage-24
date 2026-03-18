@@ -1,0 +1,11 @@
+{
+  "name": "local-openai2anthropic",
+  "version": "0.6.1",
+  "summary": "A lightweight proxy server that converts Anthropic Messages API to OpenAI API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "local_openai2anthropic-0.6.1.tar.gz",
+  "download_time": "2026-03-18T05:49:01.990340",
+  "package_url": "https://pypi.org/project/local-openai2anthropic/"
+}

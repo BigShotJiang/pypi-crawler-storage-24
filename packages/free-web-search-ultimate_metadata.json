@@ -1,11 +1,11 @@
 {
   "name": "free-web-search-ultimate",
-  "version": "11.0.0",
+  "version": "12.0.0",
   "summary": "Universal Search-First Knowledge Acquisition Plugin for LLMs (MCP + CLI-Anything)",
   "author": "wd041216-bit",
   "license": null,
   "home_page": "https://github.com/wd041216-bit/free-web-search-ultimate",
-  "download_filename": "free_web_search_ultimate-11.0.0.tar.gz",
-  "download_time": "2026-03-18T04:24:39.540139",
+  "download_filename": "free_web_search_ultimate-12.0.0.tar.gz",
+  "download_time": "2026-03-18T05:49:34.412597",
   "package_url": "https://pypi.org/project/free-web-search-ultimate/"
 }

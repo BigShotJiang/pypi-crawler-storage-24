@@ -1,0 +1,11 @@
+{
+  "name": "mureq",
+  "version": "0.3.0",
+  "summary": "Single-file alternative to python-requests",
+  "author": "Shivaram Lingamneni",
+  "license": null,
+  "home_page": "https://github.com/slingamn/mureq",
+  "download_filename": "mureq-0.3.0.tar.gz",
+  "download_time": "2026-03-18T05:49:00.411200",
+  "package_url": "https://pypi.org/project/mureq/"
+}

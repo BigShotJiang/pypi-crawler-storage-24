@@ -1,11 +1,11 @@
 {
   "name": "microsoft-agent",
-  "version": "0.2.43",
+  "version": "0.2.46",
   "summary": "Microsoft Graph Agent MCP Server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microsoft_agent-0.2.43.tar.gz",
-  "download_time": "2026-03-14T03:44:16.808701",
+  "download_filename": "microsoft_agent-0.2.46.tar.gz",
+  "download_time": "2026-03-18T05:49:18.212160",
   "package_url": "https://pypi.org/project/microsoft-agent/"
 }

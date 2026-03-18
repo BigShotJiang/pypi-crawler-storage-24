@@ -1,0 +1,11 @@
+{
+  "name": "souse",
+  "version": "5.0",
+  "summary": "A tool for converting Python source code to opcode(pickle)",
+  "author": "Tr0y",
+  "license": null,
+  "home_page": "https://github.com/Macr0phag3/souse",
+  "download_filename": "souse-5.0.tar.gz",
+  "download_time": "2026-03-18T05:49:10.894303",
+  "package_url": "https://pypi.org/project/souse/"
+}

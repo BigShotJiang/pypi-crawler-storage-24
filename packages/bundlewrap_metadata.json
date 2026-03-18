@@ -1,0 +1,11 @@
+{
+  "name": "bundlewrap",
+  "version": "5.0.3",
+  "summary": "Config management with Python",
+  "author": "Torsten Rehn",
+  "license": "GPLv3",
+  "home_page": "http://bundlewrap.org",
+  "download_filename": "bundlewrap-5.0.3.tar.gz",
+  "download_time": "2026-03-18T05:48:48.899083",
+  "package_url": "https://pypi.org/project/bundlewrap/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jellyfin-mcp",
-  "version": "0.2.43",
+  "version": "0.2.46",
   "summary": "Jellyfin MCP Server for Agentic AI!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jellyfin_mcp-0.2.43.tar.gz",
-  "download_time": "2026-03-14T03:44:12.748138",
+  "download_filename": "jellyfin_mcp-0.2.46.tar.gz",
+  "download_time": "2026-03-18T05:49:19.773127",
   "package_url": "https://pypi.org/project/jellyfin-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "leanix-agent",
-  "version": "0.1.16",
+  "version": "0.1.19",
   "summary": "Agent package for communicating with LeanIX Enterprise Architecture Management via REST APIs and GraphQL.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "leanix_agent-0.1.16.tar.gz",
-  "download_time": "2026-03-14T03:44:10.063201",
+  "download_filename": "leanix_agent-0.1.19.tar.gz",
+  "download_time": "2026-03-18T05:49:11.954268",
   "package_url": "https://pypi.org/project/leanix-agent/"
 }

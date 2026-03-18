@@ -1,11 +1,11 @@
 {
   "name": "mangum-ws",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "WebSocket support for Mangum (AWS API Gateway WebSocket API → FastAPI)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mangum_ws-0.1.0.tar.gz",
-  "download_time": "2026-03-17T08:34:48.483819",
+  "download_filename": "mangum_ws-0.1.1.tar.gz",
+  "download_time": "2026-03-18T05:48:55.206070",
   "package_url": "https://pypi.org/project/mangum-ws/"
 }

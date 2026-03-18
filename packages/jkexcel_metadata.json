@@ -1,0 +1,11 @@
+{
+  "name": "jkexcel",
+  "version": "0.1.9",
+  "summary": "A Python library for Excel operations using COM interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jkexcel-0.1.9.tar.gz",
+  "download_time": "2026-03-18T05:48:56.771086",
+  "package_url": "https://pypi.org/project/jkexcel/"
+}

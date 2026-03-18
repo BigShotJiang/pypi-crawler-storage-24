@@ -1,0 +1,11 @@
+{
+  "name": "blender-mcp",
+  "version": "1.5.6",
+  "summary": "Blender integration through the Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blender_mcp-1.5.6.tar.gz",
+  "download_time": "2026-03-18T05:49:16.655155",
+  "package_url": "https://pypi.org/project/blender-mcp/"
+}

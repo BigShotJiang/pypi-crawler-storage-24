@@ -1,11 +1,11 @@
 {
   "name": "tibet-triage",
-  "version": "0.2.0",
-  "summary": "Human-in-the-Loop as a discipline. Airlock sandbox, dependency triage, cross-machine replay, Zenodo reproducibility bundles with TIBET provenance.",
+  "version": "0.3.2",
+  "summary": "Human-in-the-Loop as a discipline. UPIP (Universal Process Integrity Protocol), airlock sandbox, dependency triage, cross-machine replay, Zenodo reproducibility bundles with TIBET provenance.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tibet_triage-0.2.0.tar.gz",
-  "download_time": "2026-03-17T18:12:19.750306",
+  "download_filename": "tibet_triage-0.3.2.tar.gz",
+  "download_time": "2026-03-18T05:49:12.474463",
   "package_url": "https://pypi.org/project/tibet-triage/"
 }

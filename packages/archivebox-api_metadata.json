@@ -1,11 +1,11 @@
 {
   "name": "archivebox-api",
-  "version": "0.1.41",
+  "version": "0.1.44",
   "summary": "Pythonic ArchiveBox API Wrapper and Fast MCP Server for Agentic AI use!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "archivebox_api-0.1.41.tar.gz",
-  "download_time": "2026-03-14T03:44:17.345009",
+  "download_filename": "archivebox_api-0.1.44.tar.gz",
+  "download_time": "2026-03-18T05:49:23.932170",
   "package_url": "https://pypi.org/project/archivebox-api/"
 }

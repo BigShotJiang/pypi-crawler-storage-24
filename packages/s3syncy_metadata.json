@@ -1,0 +1,11 @@
+{
+  "name": "s3syncy",
+  "version": "0.1.0",
+  "summary": "Cross-platform, multithreaded S3 file synchronization daemon",
+  "author": "mtahle",
+  "license": "MIT",
+  "home_page": "https://github.com/mtahle/s3syncy",
+  "download_filename": "s3syncy-0.1.0.tar.gz",
+  "download_time": "2026-03-18T05:49:20.290174",
+  "package_url": "https://pypi.org/project/s3syncy/"
+}

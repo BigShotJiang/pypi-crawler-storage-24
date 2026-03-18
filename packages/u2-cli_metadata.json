@@ -1,0 +1,11 @@
+{
+  "name": "u2-cli",
+  "version": "0.1.1",
+  "summary": "CLI tool for executing uiautomator2 commands to control Android devices from the AI Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "u2_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-18T05:48:59.365984",
+  "package_url": "https://pypi.org/project/u2-cli/"
+}

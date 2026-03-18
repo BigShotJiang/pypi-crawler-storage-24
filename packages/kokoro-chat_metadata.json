@@ -1,0 +1,11 @@
+{
+  "name": "kokoro-chat",
+  "version": "0.1.0",
+  "summary": "Character chat engine core — Protocol-based storage, dependency-injectable ChatEngine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kokoro_chat-0.1.0.tar.gz",
+  "download_time": "2026-03-18T05:49:16.135717",
+  "package_url": "https://pypi.org/project/kokoro-chat/"
+}

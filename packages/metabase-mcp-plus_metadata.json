@@ -1,0 +1,11 @@
+{
+  "name": "metabase-mcp-plus",
+  "version": "1.0.0",
+  "summary": "Enhanced MCP server for Metabase — query databases, manage dashboards, cards, and collections from AI assistants like Claude and Cursor",
+  "author": "Sahil Chachan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metabase_mcp_plus-1.0.0.tar.gz",
+  "download_time": "2026-03-18T05:49:33.345628",
+  "package_url": "https://pypi.org/project/metabase-mcp-plus/"
+}

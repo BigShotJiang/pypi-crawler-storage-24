@@ -1,11 +1,11 @@
 {
   "name": "codedthemes-cli",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "CLI tool for Code Theme and Integration",
   "author": "codedthemes",
   "license": null,
   "home_page": null,
-  "download_filename": "codedthemes_cli-0.1.14.tar.gz",
-  "download_time": "2026-03-13T10:58:30.105313",
+  "download_filename": "codedthemes_cli-0.1.16.tar.gz",
+  "download_time": "2026-03-18T05:48:52.067266",
   "package_url": "https://pypi.org/project/codedthemes-cli/"
 }

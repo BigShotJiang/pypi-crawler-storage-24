@@ -1,0 +1,11 @@
+{
+  "name": "deploy-zscaler-mcp",
+  "version": "0.1.0",
+  "summary": "CLI tool for deploying Zscaler MCP servers to AWS Bedrock AgentCore with preflight validation and secure credential handling",
+  "author": "Vahagn Madatyan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deploy_zscaler_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-18T05:48:54.686911",
+  "package_url": "https://pypi.org/project/deploy-zscaler-mcp/"
+}
