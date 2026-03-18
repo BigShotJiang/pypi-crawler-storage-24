@@ -1,0 +1,11 @@
+{
+  "name": "codefission",
+  "version": "0.1.4",
+  "summary": "Tree-structured AI coding assistant with git worktree isolation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codefission-0.1.4-py3-none-any.whl",
+  "download_time": "2026-03-18T04:24:24.088136",
+  "package_url": "https://pypi.org/project/codefission/"
+}

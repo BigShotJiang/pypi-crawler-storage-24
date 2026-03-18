@@ -1,11 +1,11 @@
 {
   "name": "blastdbbuilder-gui",
-  "version": "1.0.12",
+  "version": "1.1.0",
   "summary": "Graphical user interface for building customised BLASTn databases using blastdbbuilder",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "blastdbbuilder_gui-1.0.12.tar.gz",
-  "download_time": "2026-03-14T22:54:53.023671",
+  "download_filename": "blastdbbuilder_gui-1.1.0.tar.gz",
+  "download_time": "2026-03-18T04:24:44.145299",
   "package_url": "https://pypi.org/project/blastdbbuilder-gui/"
 }

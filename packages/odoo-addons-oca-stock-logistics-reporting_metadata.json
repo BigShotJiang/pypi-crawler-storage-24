@@ -1,11 +1,11 @@
 {
   "name": "odoo-addons-oca-stock-logistics-reporting",
-  "version": "19.0.20260119.0",
+  "version": "19.0.20260317.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_addons_oca_stock_logistics_reporting-19.0.20260119.0-py3-none-any.whl",
-  "download_time": "2026-03-15T04:32:32.411584",
+  "download_filename": "odoo_addons_oca_stock_logistics_reporting-19.0.20260317.0-py3-none-any.whl",
+  "download_time": "2026-03-18T04:24:44.656165",
   "package_url": "https://pypi.org/project/odoo-addons-oca-stock-logistics-reporting/"
 }

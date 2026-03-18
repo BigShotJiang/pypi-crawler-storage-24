@@ -1,0 +1,11 @@
+{
+  "name": "agentlens-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for AgentLens — observability for AI agents",
+  "author": "AgentLens Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentlens_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-18T04:24:41.072117",
+  "package_url": "https://pypi.org/project/agentlens-sdk/"
+}

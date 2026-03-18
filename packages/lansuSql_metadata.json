@@ -1,0 +1,11 @@
+{
+  "name": "lansuSql",
+  "version": "0.1.1",
+  "summary": "Uma biblioteca robusta de repositórios genéricos combinando SQLAlchemy e Pydantic.",
+  "author": "Tiago Sversut",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lansusql-0.1.1.tar.gz",
+  "download_time": "2026-03-18T04:25:02.707770",
+  "package_url": "https://pypi.org/project/lansuSql/"
+}

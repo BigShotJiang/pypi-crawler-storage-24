@@ -1,0 +1,11 @@
+{
+  "name": "agentlens-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for AgentLens — zero-code observability for MCP-native AI agents",
+  "author": "AgentLens Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentlens_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-18T04:24:40.561351",
+  "package_url": "https://pypi.org/project/agentlens-mcp/"
+}

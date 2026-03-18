@@ -1,0 +1,11 @@
+{
+  "name": "cortex-gateway",
+  "version": "1.0.0",
+  "summary": "OpenAI-compatible AI gateway with automatic complexity-based model routing.",
+  "author": "Leandix",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cortex_gateway-1.0.0.tar.gz",
+  "download_time": "2026-03-18T04:24:51.354054",
+  "package_url": "https://pypi.org/project/cortex-gateway/"
+}

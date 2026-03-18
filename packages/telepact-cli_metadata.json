@@ -1,11 +1,11 @@
 {
   "name": "telepact-cli",
-  "version": "1.0.0a206",
+  "version": "1.0.0a208",
   "summary": "A CLI tool for various local Telepact operations.",
   "author": "Telepact Authors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "telepact_cli-1.0.0a206.tar.gz",
-  "download_time": "2026-03-17T20:06:12.757427",
+  "download_filename": "telepact_cli-1.0.0a208.tar.gz",
+  "download_time": "2026-03-18T04:24:29.238448",
   "package_url": "https://pypi.org/project/telepact-cli/"
 }

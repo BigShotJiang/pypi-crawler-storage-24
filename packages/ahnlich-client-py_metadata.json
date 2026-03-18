@@ -1,0 +1,11 @@
+{
+  "name": "ahnlich-client-py",
+  "version": "0.2.1",
+  "summary": "A python client for interacting with Ahnlich DB and AI",
+  "author": "David Onuh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ahnlich_client_py-0.2.1.tar.gz",
+  "download_time": "2026-03-18T04:24:23.052595",
+  "package_url": "https://pypi.org/project/ahnlich-client-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cmlutils",
+  "version": "2.6.1",
+  "summary": "A collection of utilities for interacting with Cisco Modeling Labs",
+  "author": "Joe Clarke",
+  "license": null,
+  "home_page": "https://github.com/CiscoDevNet/virlutils",
+  "download_filename": "cmlutils-2.6.1.tar.gz",
+  "download_time": "2026-03-18T04:24:25.115239",
+  "package_url": "https://pypi.org/project/cmlutils/"
+}

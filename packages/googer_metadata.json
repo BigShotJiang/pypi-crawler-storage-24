@@ -1,0 +1,11 @@
+{
+  "name": "googer",
+  "version": "0.4.1",
+  "summary": "A powerful, type-safe Google Search library for Python.",
+  "author": "googer contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "googer-0.4.1.tar.gz",
+  "download_time": "2026-03-18T04:24:46.726254",
+  "package_url": "https://pypi.org/project/googer/"
+}

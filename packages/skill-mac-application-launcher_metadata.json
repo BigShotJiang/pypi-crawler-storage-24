@@ -1,0 +1,11 @@
+{
+  "name": "skill-mac-application-launcher",
+  "version": "1.0.2",
+  "summary": "Launch Mac desktop applications by voice",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skill_mac_application_launcher-1.0.2.tar.gz",
+  "download_time": "2026-03-18T04:24:38.510743",
+  "package_url": "https://pypi.org/project/skill-mac-application-launcher/"
+}

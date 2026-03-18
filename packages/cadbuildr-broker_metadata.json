@@ -1,11 +1,11 @@
 {
   "name": "cadbuildr-broker",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "WebRTC broker for CADbuildr - mediates communication between foundation library and viewer",
   "author": "CADbuildr Team",
   "license": null,
   "home_page": null,
-  "download_filename": "cadbuildr_broker-0.2.0.tar.gz",
-  "download_time": "2026-03-16T22:54:59.609419",
+  "download_filename": "cadbuildr_broker-0.2.1.tar.gz",
+  "download_time": "2026-03-18T04:24:34.391663",
   "package_url": "https://pypi.org/project/cadbuildr-broker/"
 }

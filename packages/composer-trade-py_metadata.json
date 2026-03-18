@@ -1,0 +1,11 @@
+{
+  "name": "composer-trade-py",
+  "version": "0.5.1",
+  "summary": "Python SDK for Composer.Trade API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "composer_trade_py-0.5.1.tar.gz",
+  "download_time": "2026-03-18T04:25:02.195156",
+  "package_url": "https://pypi.org/project/composer-trade-py/"
+}

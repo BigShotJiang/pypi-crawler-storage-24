@@ -1,0 +1,11 @@
+{
+  "name": "intent-cli-python",
+  "version": "0.5.0",
+  "summary": "Semantic history for agent-driven development. Records what you did and why.",
+  "author": "Zeng Deyang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "intent_cli_python-0.5.0.tar.gz",
+  "download_time": "2026-03-18T04:24:48.265904",
+  "package_url": "https://pypi.org/project/intent-cli-python/"
+}

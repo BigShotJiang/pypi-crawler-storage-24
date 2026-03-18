@@ -1,0 +1,11 @@
+{
+  "name": "ssm-simulators",
+  "version": "0.12.2",
+  "summary": "SSMS is a package collecting simulators and training data generators for cognitive science, neuroscience, and approximate bayesian computation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssm_simulators-0.12.2.tar.gz",
+  "download_time": "2026-03-18T04:24:37.484792",
+  "package_url": "https://pypi.org/project/ssm-simulators/"
+}
