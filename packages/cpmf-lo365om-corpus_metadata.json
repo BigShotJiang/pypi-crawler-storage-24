@@ -1,0 +1,11 @@
+{
+  "name": "cpmf-lo365om-corpus",
+  "version": "0.1.1",
+  "summary": "Test corpus setup for LatchedLO365om — creates M365 fixture messages via Graph API",
+  "author": null,
+  "license": "# Dual License\n        \n        Copyright (c) 2026 Christian Prior-Mamulyan\n        \n        This project uses a dual-license model:\n        \n        ## Code — Apache License 2.0\n        \n        All source code files (`.py`, `.toml`, `.yaml`, `.json`, and similar) are licensed under the Apache License, Version 2.0.\n        \n        You may obtain a copy of the license at: <https://www.apache.org/licenses/LICENSE-2.0>\n        \n        ## Documentation — Creative Commons Attribution 4.0 International (CC BY 4.0)\n        \n        All documentation files (`.md`, `.txt`, `.html`, and similar) are licensed under CC BY 4.0.\n        \n        You may obtain a copy of the license at: <https://creativecommons.org/licenses/by/4.0/legalcode>",
+  "home_page": null,
+  "download_filename": "cpmf_lo365om_corpus-0.1.1.tar.gz",
+  "download_time": "2026-03-18T20:44:12.351520",
+  "package_url": "https://pypi.org/project/cpmf-lo365om-corpus/"
+}

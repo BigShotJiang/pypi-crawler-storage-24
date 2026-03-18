@@ -1,11 +1,11 @@
 {
   "name": "honeyhive-daemon",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Minimal Claude Code telemetry daemon for HoneyHive",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "honeyhive_daemon-0.1.0.tar.gz",
-  "download_time": "2026-03-17T21:40:06.406190",
+  "download_filename": "honeyhive_daemon-0.3.0.tar.gz",
+  "download_time": "2026-03-18T20:43:49.525889",
   "package_url": "https://pypi.org/project/honeyhive-daemon/"
 }

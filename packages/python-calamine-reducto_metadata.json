@@ -1,11 +1,11 @@
 {
   "name": "python-calamine-reducto",
-  "version": "0.7.8",
+  "version": "0.7.9",
   "summary": "Reducto fork of python-calamine — Python binding for calamine (Rust xlsx/xls/ods reader) with CellGrid, Rust SSF formatting, and style bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_calamine_reducto-0.7.8-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-13T22:53:45.181128",
+  "download_filename": "python_calamine_reducto-0.7.9-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-18T20:44:22.578328",
   "package_url": "https://pypi.org/project/python-calamine-reducto/"
 }

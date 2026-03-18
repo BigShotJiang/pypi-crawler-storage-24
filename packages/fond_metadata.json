@@ -1,11 +1,11 @@
 {
   "name": "fond",
-  "version": "0.1.1",
-  "summary": "A build system language that compiles to C++. The foundation for your build system needs.",
+  "version": "0.0.5",
+  "summary": "Foundation for Cooking, Foundation for Life.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fond-0.1.1-py3-none-any.whl",
-  "download_time": "2026-03-14T09:29:43.650072",
+  "download_filename": "fond-0.0.5-py3-none-any.whl",
+  "download_time": "2026-03-18T20:44:04.816256",
   "package_url": "https://pypi.org/project/fond/"
 }

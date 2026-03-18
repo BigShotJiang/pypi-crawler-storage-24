@@ -1,11 +1,11 @@
 {
   "name": "lcsajdump",
-  "version": "1.1.2.1",
-  "summary": "A Graph-Based ROP Gadget Finder for RISC-V architectures",
+  "version": "1.1.3.1",
+  "summary": "A Graph-Based ROP Gadget Finder for every architecture",
   "author": "Chris1sFlaggin",
   "license": null,
   "home_page": "https://chris1sflaggin.it/LCSAJdump/",
-  "download_filename": "lcsajdump-1.1.2.1.tar.gz",
-  "download_time": "2026-03-09T11:50:46.669767",
+  "download_filename": "lcsajdump-1.1.3.1.tar.gz",
+  "download_time": "2026-03-18T20:44:24.164690",
   "package_url": "https://pypi.org/project/lcsajdump/"
 }

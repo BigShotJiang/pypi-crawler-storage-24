@@ -1,0 +1,11 @@
+{
+  "name": "jinja-flow",
+  "version": "0.1.2",
+  "summary": "Renders Jinja2 templates from a declarative YAML config",
+  "author": "Ovidiu Gheorghies",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jinja_flow-0.1.2.tar.gz",
+  "download_time": "2026-03-18T20:44:20.422204",
+  "package_url": "https://pypi.org/project/jinja-flow/"
+}

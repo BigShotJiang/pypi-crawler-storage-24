@@ -1,0 +1,11 @@
+{
+  "name": "cpp-linter-hooks",
+  "version": "1.1.14",
+  "summary": "Automatically formats and lints C/C++ code using clang-format and clang-tidy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpp_linter_hooks-1.1.14-py3-none-any.whl",
+  "download_time": "2026-03-18T20:43:52.395615",
+  "package_url": "https://pypi.org/project/cpp-linter-hooks/"
+}

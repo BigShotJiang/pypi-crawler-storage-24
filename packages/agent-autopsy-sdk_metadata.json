@@ -1,11 +1,11 @@
 {
   "name": "agent-autopsy-sdk",
-  "version": "0.1.0",
-  "summary": "Debug AI agent failures with zero-config execution traces",
+  "version": "0.1.1",
+  "summary": "Debug AI agent failures with minimal-config execution traces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_autopsy_sdk-0.1.0.tar.gz",
-  "download_time": "2026-03-07T10:18:22.569430",
+  "download_filename": "agent_autopsy_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-18T20:44:29.478197",
   "package_url": "https://pypi.org/project/agent-autopsy-sdk/"
 }

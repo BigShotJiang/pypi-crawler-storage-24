@@ -1,0 +1,11 @@
+{
+  "name": "djangorestframework",
+  "version": "3.17.0",
+  "summary": "Web APIs for Django, made easy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangorestframework-3.17.0.tar.gz",
+  "download_time": "2026-03-18T20:44:17.183016",
+  "package_url": "https://pypi.org/project/djangorestframework/"
+}
