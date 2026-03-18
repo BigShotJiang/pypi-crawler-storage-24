@@ -1,0 +1,11 @@
+{
+  "name": "PyViCare",
+  "version": "2.58.1",
+  "summary": "Library to communicate with the Viessmann ViCare API.",
+  "author": "Simon Gillet",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyvicare-2.58.1.tar.gz",
+  "download_time": "2026-03-18T21:23:55.922955",
+  "package_url": "https://pypi.org/project/PyViCare/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ltx-pipelines",
+  "version": "1.0.0",
+  "summary": "Pipelines implementation for Lightricks' LTX-2 model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ltx_pipelines-1.0.0.tar.gz",
+  "download_time": "2026-03-18T21:24:08.011281",
+  "package_url": "https://pypi.org/project/ltx-pipelines/"
+}

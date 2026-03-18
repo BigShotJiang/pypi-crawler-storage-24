@@ -1,0 +1,11 @@
+{
+  "name": "sally",
+  "version": "1.0.4",
+  "summary": "vLEI Audit Reporting API",
+  "author": "Philip S. Feairheller",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/GLEIF-IT/sally",
+  "download_filename": "sally-1.0.4.tar.gz",
+  "download_time": "2026-03-18T21:24:30.123223",
+  "package_url": "https://pypi.org/project/sally/"
+}

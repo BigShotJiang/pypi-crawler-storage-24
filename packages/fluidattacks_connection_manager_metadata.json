@@ -1,0 +1,11 @@
+{
+  "name": "fluidattacks_connection_manager",
+  "version": "6.0.0",
+  "summary": "Common connection utils",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluidattacks_connection_manager-6.0.0.tar.gz",
+  "download_time": "2026-03-18T21:24:24.361688",
+  "package_url": "https://pypi.org/project/fluidattacks_connection_manager/"
+}

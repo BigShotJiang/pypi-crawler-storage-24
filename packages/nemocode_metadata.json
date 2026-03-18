@@ -1,11 +1,11 @@
 {
   "name": "nemocode",
-  "version": "0.1.12",
+  "version": "0.1.16",
   "summary": "Terminal-first control plane for NVIDIA Nemotron 3 — agentic coding, RAG, doc-ops, and multi-model formations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nemocode-0.1.12.tar.gz",
-  "download_time": "2026-03-15T22:25:36.827208",
+  "download_filename": "nemocode-0.1.16.tar.gz",
+  "download_time": "2026-03-18T21:24:13.826856",
   "package_url": "https://pypi.org/project/nemocode/"
 }

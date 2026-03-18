@@ -1,0 +1,11 @@
+{
+  "name": "datagate-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server and CLI for the DataGate billing platform API",
+  "author": "Mike Hyams",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datagate_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-18T21:24:30.642097",
+  "package_url": "https://pypi.org/project/datagate-mcp/"
+}

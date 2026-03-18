@@ -1,11 +1,11 @@
 {
   "name": "data-pebbles",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A Python library for interacting with the open source data catalog Data Pebbles.",
   "author": "Leon David Zipp",
   "license": null,
   "home_page": null,
-  "download_filename": "data_pebbles-0.0.2.tar.gz",
-  "download_time": "2026-03-15T12:00:13.481057",
+  "download_filename": "data_pebbles-0.0.3.tar.gz",
+  "download_time": "2026-03-18T21:23:53.263958",
   "package_url": "https://pypi.org/project/data-pebbles/"
 }

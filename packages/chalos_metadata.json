@@ -1,0 +1,11 @@
+{
+  "name": "chalos",
+  "version": "0.2.0",
+  "summary": "Order Chalos empanadas, burritos, sandwiches, and coffee from the CLI. Real hackers order Chalos from the CLI.",
+  "author": "William",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chalos-0.2.0.tar.gz",
+  "download_time": "2026-03-18T21:24:12.264125",
+  "package_url": "https://pypi.org/project/chalos/"
+}

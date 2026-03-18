@@ -1,0 +1,11 @@
+{
+  "name": "dimensionality",
+  "version": "0.1.3",
+  "summary": "Bias-corrected participation ratio estimator for measuring dimensionality of neural representations",
+  "author": "Chanwoo Chun",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dimensionality-0.1.3-py3-none-any.whl",
+  "download_time": "2026-03-18T21:24:32.206187",
+  "package_url": "https://pypi.org/project/dimensionality/"
+}
