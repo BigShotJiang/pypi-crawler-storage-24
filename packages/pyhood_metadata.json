@@ -1,0 +1,11 @@
+{
+  "name": "pyhood",
+  "version": "0.2.0",
+  "summary": "A modern, reliable Python client for the Robinhood API",
+  "author": "James Ford",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhood-0.2.0.tar.gz",
+  "download_time": "2026-03-18T20:03:07.297592",
+  "package_url": "https://pypi.org/project/pyhood/"
+}

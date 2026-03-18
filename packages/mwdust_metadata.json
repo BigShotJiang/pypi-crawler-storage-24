@@ -1,0 +1,11 @@
+{
+  "name": "mwdust",
+  "version": "1.8",
+  "summary": "Dust in the Milky Way",
+  "author": "Jo Bovy",
+  "license": "New BSD",
+  "home_page": "https://github.com/jobovy/mwdust",
+  "download_filename": "mwdust-1.8.tar.gz",
+  "download_time": "2026-03-18T20:02:44.430948",
+  "package_url": "https://pypi.org/project/mwdust/"
+}

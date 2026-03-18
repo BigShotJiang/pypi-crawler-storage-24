@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.25.0",
-  "summary": "v0.25.0: StepTransformerVerifier (2-layer Transformer, best HP+TV joint training AUROC 0.705), ZeroShotCalibrator (0-label conformal calibration precision 0.708), MathVerifier (TPR=100% FPR=15%), score_with_selfconsistency + score_with_selfcritique. NLI grounding negative result documented.",
+  "version": "0.28.0",
+  "summary": "v0.28.0: ComprehensiveMathVerifier — programmatic math verification (SymPy + exec sandbox + step-pattern analysis), no LLM required.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.25.0.tar.gz",
-  "download_time": "2026-03-15T21:27:21.722232",
+  "download_filename": "llm_guard_kit-0.28.0.tar.gz",
+  "download_time": "2026-03-18T20:02:38.823934",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

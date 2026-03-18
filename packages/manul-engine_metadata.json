@@ -1,11 +1,11 @@
 {
   "name": "manul-engine",
-  "version": "0.0.9.6",
+  "version": "0.0.9.9",
   "summary": "Deterministic DSL-first browser automation platform powered by Playwright heuristics with optional local AI self-healing (Ollama)",
   "author": "ManulEngine Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "manul_engine-0.0.9.6.tar.gz",
-  "download_time": "2026-03-17T09:45:09.305140",
+  "download_filename": "manul_engine-0.0.9.9.tar.gz",
+  "download_time": "2026-03-18T20:03:02.751225",
   "package_url": "https://pypi.org/project/manul-engine/"
 }

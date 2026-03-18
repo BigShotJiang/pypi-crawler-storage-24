@@ -1,0 +1,11 @@
+{
+  "name": "llmq-gate",
+  "version": "0.1.2",
+  "summary": "LLM Quality Gate - A provider-agnostic evaluation framework for LLM applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmq_gate-0.1.2.tar.gz",
+  "download_time": "2026-03-18T20:03:05.482418",
+  "package_url": "https://pypi.org/project/llmq-gate/"
+}

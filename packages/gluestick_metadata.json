@@ -1,11 +1,11 @@
 {
   "name": "gluestick",
-  "version": "3.0.7",
+  "version": "3.0.9",
   "summary": "ETL utility functions built for the hotglue iPaaS platform",
   "author": "hotglue",
   "license": "MIT",
   "home_page": "https://github.com/hotgluexyz/gluestick",
-  "download_filename": "gluestick-3.0.7.tar.gz",
-  "download_time": "2026-03-15T22:57:21.368872",
+  "download_filename": "gluestick-3.0.9.tar.gz",
+  "download_time": "2026-03-18T20:02:28.100078",
   "package_url": "https://pypi.org/project/gluestick/"
 }

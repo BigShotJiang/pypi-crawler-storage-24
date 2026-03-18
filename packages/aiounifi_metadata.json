@@ -1,0 +1,11 @@
+{
+  "name": "aiounifi",
+  "version": "90",
+  "summary": "Python library for communicating with UniFi Network Controller API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiounifi-90.tar.gz",
+  "download_time": "2026-03-18T20:02:52.443877",
+  "package_url": "https://pypi.org/project/aiounifi/"
+}

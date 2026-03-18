@@ -1,0 +1,11 @@
+{
+  "name": "mail-configuration",
+  "version": "1.0.3",
+  "summary": "A Django app for configuring mail",
+  "author": "jasirmj",
+  "license": "MIT",
+  "home_page": "https://github.com/JasirMJ/solutionizeit_mail_engine",
+  "download_filename": "mail_configuration-1.0.3.tar.gz",
+  "download_time": "2026-03-18T20:02:30.926542",
+  "package_url": "https://pypi.org/project/mail-configuration/"
+}

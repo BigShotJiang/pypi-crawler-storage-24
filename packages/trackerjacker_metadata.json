@@ -1,0 +1,11 @@
+{
+  "name": "trackerjacker",
+  "version": "2.0.6",
+  "summary": "Finds and tracks wifi devices through raw 802.11 monitoring",
+  "author": "Caleb Madrigal",
+  "license": "MIT",
+  "home_page": "https://github.com/calebmadrigal/trackerjacker",
+  "download_filename": "trackerjacker-2.0.6.tar.gz",
+  "download_time": "2026-03-18T20:02:42.278551",
+  "package_url": "https://pypi.org/project/trackerjacker/"
+}
