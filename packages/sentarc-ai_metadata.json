@@ -1,11 +1,11 @@
 {
   "name": "sentarc-ai",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Unified LLM client and types for Sentarc AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sentarc_ai-0.1.0.tar.gz",
-  "download_time": "2026-03-18T20:03:13.203344",
+  "download_filename": "sentarc_ai-0.1.2.tar.gz",
+  "download_time": "2026-03-18T22:01:28.785986",
   "package_url": "https://pypi.org/project/sentarc-ai/"
 }

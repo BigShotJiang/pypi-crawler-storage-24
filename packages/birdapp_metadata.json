@@ -1,11 +1,11 @@
 {
   "name": "birdapp",
-  "version": "2.1.2",
+  "version": "2.1.4",
   "summary": "A CLI tool for generating and posting tweets using LLMs and the Twitter/X API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "birdapp-2.1.2.tar.gz",
-  "download_time": "2026-03-13T19:49:51.915773",
+  "download_filename": "birdapp-2.1.4.tar.gz",
+  "download_time": "2026-03-18T22:01:44.540068",
   "package_url": "https://pypi.org/project/birdapp/"
 }

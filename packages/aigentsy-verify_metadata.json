@@ -1,0 +1,11 @@
+{
+  "name": "aigentsy-verify",
+  "version": "1.0.0",
+  "summary": "Standalone offline verification for AiGentsy proof bundles and attestations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aigentsy_verify-1.0.0.tar.gz",
+  "download_time": "2026-03-18T22:01:13.927801",
+  "package_url": "https://pypi.org/project/aigentsy-verify/"
+}

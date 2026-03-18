@@ -1,11 +1,11 @@
 {
   "name": "planpoint-sdk",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "planpoint_sdk-0.0.3.tar.gz",
-  "download_time": "2026-03-18T20:44:33.190134",
+  "download_filename": "planpoint_sdk-0.0.6.tar.gz",
+  "download_time": "2026-03-18T22:01:30.350348",
   "package_url": "https://pypi.org/project/planpoint-sdk/"
 }

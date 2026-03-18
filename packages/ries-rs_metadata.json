@@ -1,11 +1,11 @@
 {
   "name": "ries-rs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Find algebraic equations given their solution",
   "author": "Maxwell Santoro",
   "license": "MIT",
   "home_page": "https://maxwellsantoro.com/projects/ries-rs",
-  "download_filename": "ries_rs-1.1.0.tar.gz",
-  "download_time": "2026-03-18T21:24:08.531997",
+  "download_filename": "ries_rs-1.1.1.tar.gz",
+  "download_time": "2026-03-18T22:01:29.309894",
   "package_url": "https://pypi.org/project/ries-rs/"
 }

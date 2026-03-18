@@ -1,0 +1,11 @@
+{
+  "name": "arthur-ai-observability-sdk",
+  "version": "2.1.469.dev0",
+  "summary": "Arthur Observability SDK — telemetry, prompt management, and framework instrumentation",
+  "author": "Arthur AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arthur_ai_observability_sdk-2.1.469.dev0-py3-none-any.whl",
+  "download_time": "2026-03-18T22:01:04.501176",
+  "package_url": "https://pypi.org/project/arthur-ai-observability-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "volttron-lib-base-driver",
+  "version": "2.0.0rc4",
+  "summary": "Volttron Driver libraries used to support development within the Volttron Driver Framework.",
+  "author": "VOLTTRON Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eclipse-volttron/volttron-lib-base-driver",
+  "download_filename": "volttron_lib_base_driver-2.0.0rc4.tar.gz",
+  "download_time": "2026-03-18T22:01:34.550405",
+  "package_url": "https://pypi.org/project/volttron-lib-base-driver/"
+}

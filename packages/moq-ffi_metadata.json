@@ -1,11 +1,11 @@
 {
   "name": "moq-ffi",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Media over QUIC - Python bindings",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "moq_ffi-0.1.3-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-16T23:32:02.726780",
+  "download_filename": "moq_ffi-0.1.4-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-18T22:01:08.184317",
   "package_url": "https://pypi.org/project/moq-ffi/"
 }

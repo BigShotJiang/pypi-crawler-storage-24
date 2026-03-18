@@ -1,11 +1,11 @@
 {
   "name": "cjm-transcript-source-select",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "FastHTML source selection component for transcript decomposition workflows, with federated database browsing, drag-drop ordering, and keyboard navigation.",
   "author": "Christian J. Mills",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cj-mills/cjm-transcript-source-select",
-  "download_filename": "cjm_transcript_source_select-0.0.12.tar.gz",
-  "download_time": "2026-03-18T21:24:17.517081",
+  "download_filename": "cjm_transcript_source_select-0.0.13.tar.gz",
+  "download_time": "2026-03-18T22:01:46.625090",
   "package_url": "https://pypi.org/project/cjm-transcript-source-select/"
 }

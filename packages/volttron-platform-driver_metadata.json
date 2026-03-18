@@ -1,0 +1,11 @@
+{
+  "name": "volttron-platform-driver",
+  "version": "2.0.0rc6",
+  "summary": "The Platform Driver agent is a special purpose agent that manages communication between the Volttron platform and devices. The Platform driver features a number of endpoints for collecting data and sending control signals using the message bus and automatically publishes data to the bus on a specified interval.",
+  "author": "VOLTTRON Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eclipse-volttron/platform-driver-agent",
+  "download_filename": "volttron_platform_driver-2.0.0rc6.tar.gz",
+  "download_time": "2026-03-18T22:01:21.307924",
+  "package_url": "https://pypi.org/project/volttron-platform-driver/"
+}

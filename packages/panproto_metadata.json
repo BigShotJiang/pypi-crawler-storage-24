@@ -1,11 +1,11 @@
 {
   "name": "panproto",
-  "version": "0.4.0",
+  "version": "0.7.0",
   "summary": "Universal schema migration engine (Python SDK)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "panproto-0.4.0.tar.gz",
-  "download_time": "2026-03-15T23:27:49.942126",
+  "download_filename": "panproto-0.7.0.tar.gz",
+  "download_time": "2026-03-18T22:01:41.877539",
   "package_url": "https://pypi.org/project/panproto/"
 }

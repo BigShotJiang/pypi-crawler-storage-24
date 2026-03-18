@@ -1,0 +1,11 @@
+{
+  "name": "sophi",
+  "version": "0.1.1",
+  "summary": "Balance-based non-custodial swap language for Bitcoin",
+  "author": "Eduardo de Figueiredo",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "sophi-0.1.1.tar.gz",
+  "download_time": "2026-03-18T22:01:21.830359",
+  "package_url": "https://pypi.org/project/sophi/"
+}

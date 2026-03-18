@@ -1,11 +1,11 @@
 {
   "name": "hyxi-cloud-api",
-  "version": "0.1.7",
+  "version": "1.0.1",
   "summary": "An async API client for HYXi Cloud.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyxi_cloud_api-0.1.7.tar.gz",
-  "download_time": "2026-03-11T23:22:00.231696",
+  "download_filename": "hyxi_cloud_api-1.0.1.tar.gz",
+  "download_time": "2026-03-18T22:01:02.392313",
   "package_url": "https://pypi.org/project/hyxi-cloud-api/"
 }
