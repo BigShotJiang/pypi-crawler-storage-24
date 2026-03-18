@@ -1,11 +1,11 @@
 {
   "name": "quannengbao",
-  "version": "0.0.25",
+  "version": "0.0.27",
   "summary": "A short description of your package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quannengbao-0.0.25.tar.gz",
-  "download_time": "2026-03-18T04:24:36.440002",
+  "download_filename": "quannengbao-0.0.27.tar.gz",
+  "download_time": "2026-03-18T06:48:40.943785",
   "package_url": "https://pypi.org/project/quannengbao/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nebula-protocol",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "CRDT-based convergent state replication for heterogeneous multi-agent systems. Prevents phantom commitments via AS-CRDTs and A2A protocol extension.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nebula_protocol-1.0.0.tar.gz",
-  "download_time": "2026-03-18T05:49:31.236532",
+  "download_filename": "nebula_protocol-1.1.1.tar.gz",
+  "download_time": "2026-03-18T06:48:59.774182",
   "package_url": "https://pypi.org/project/nebula-protocol/"
 }

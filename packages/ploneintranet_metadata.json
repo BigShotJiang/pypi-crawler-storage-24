@@ -1,0 +1,11 @@
+{
+  "name": "ploneintranet",
+  "version": "7.2.0",
+  "summary": "Intranet suite for Plone",
+  "author": "Plone Intranet Consortium",
+  "license": "gpl",
+  "home_page": "https://github.com/ploneintranet/ploneintranet",
+  "download_filename": "ploneintranet-7.2.0.tar.gz",
+  "download_time": "2026-03-18T06:48:50.903866",
+  "package_url": "https://pypi.org/project/ploneintranet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trafficbroker",
+  "version": "0.0.0a1",
+  "summary": "HTTE-based traffic multiplexer",
+  "author": "pledgesec",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trafficbroker-0.0.0a1.tar.gz",
+  "download_time": "2026-03-18T06:48:59.254904",
+  "package_url": "https://pypi.org/project/trafficbroker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smartmcp-router",
+  "version": "0.2.1",
+  "summary": "Intelligent MCP tool routing — reduce context bloat by serving only relevant tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartmcp_router-0.2.1.tar.gz",
+  "download_time": "2026-03-18T06:48:49.829197",
+  "package_url": "https://pypi.org/project/smartmcp-router/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "interlinked-mapper",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "A Python program topology explorer — visualize the shape of your codebase",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "interlinked_mapper-0.1.9.tar.gz",
-  "download_time": "2026-03-17T21:00:59.264135",
+  "download_filename": "interlinked_mapper-0.2.0.tar.gz",
+  "download_time": "2026-03-18T06:48:54.048999",
   "package_url": "https://pypi.org/project/interlinked-mapper/"
 }

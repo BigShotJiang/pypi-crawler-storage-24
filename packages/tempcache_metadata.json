@@ -1,0 +1,11 @@
+{
+  "name": "tempcache",
+  "version": "0.0.14",
+  "summary": "Python library to cache data and function results in temporary files",
+  "author": "furechan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tempcache-0.0.14-py3-none-any.whl",
+  "download_time": "2026-03-18T06:49:12.295582",
+  "package_url": "https://pypi.org/project/tempcache/"
+}

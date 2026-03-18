@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-ice20201109",
-  "version": "6.13.1",
+  "version": "6.14.0",
   "summary": "Alibaba Cloud ICE (20201109) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_ice20201109-6.13.1.tar.gz",
-  "download_time": "2026-03-18T01:50:37.609992",
+  "download_filename": "alibabacloud_ice20201109-6.14.0.tar.gz",
+  "download_time": "2026-03-18T06:49:00.817422",
   "package_url": "https://pypi.org/project/alibabacloud-ice20201109/"
 }

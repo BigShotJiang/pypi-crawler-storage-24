@@ -1,0 +1,11 @@
+{
+  "name": "genai-calling",
+  "version": "0.1.6",
+  "summary": "Single-endpoint GenAI SDK (multi-provider, multimodal)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genai_calling-0.1.6.tar.gz",
+  "download_time": "2026-03-18T06:48:40.423955",
+  "package_url": "https://pypi.org/project/genai-calling/"
+}

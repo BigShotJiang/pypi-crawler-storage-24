@@ -1,0 +1,11 @@
+{
+  "name": "bdownload",
+  "version": "0.2.4",
+  "summary": "A multi-threaded and multi-source aria2-like batch file downloading library for Python",
+  "author": "Jesse Gao",
+  "license": "MIT License",
+  "home_page": "https://github.com/Jesseatgao/bdownload",
+  "download_filename": "bdownload-0.2.4.tar.gz",
+  "download_time": "2026-03-18T06:49:12.813748",
+  "package_url": "https://pypi.org/project/bdownload/"
+}

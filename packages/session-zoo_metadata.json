@@ -1,0 +1,11 @@
+{
+  "name": "session-zoo",
+  "version": "0.1.0",
+  "summary": "AI development session recorder — save and sync sessions to GitHub",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "session_zoo-0.1.0.tar.gz",
+  "download_time": "2026-03-18T06:48:27.845326",
+  "package_url": "https://pypi.org/project/session-zoo/"
+}

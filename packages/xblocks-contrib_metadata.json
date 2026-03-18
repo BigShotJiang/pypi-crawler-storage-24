@@ -1,11 +1,11 @@
 {
   "name": "xblocks-contrib",
-  "version": "0.13.1",
+  "version": "0.15.0",
   "summary": "core xblocks",
   "author": "Open edX Project",
   "license": "AGPL 3.0",
   "home_page": "https://github.com/openedx/xblocks-contrib",
-  "download_filename": "xblocks_contrib-0.13.1.tar.gz",
-  "download_time": "2026-03-10T07:00:50.006016",
+  "download_filename": "xblocks_contrib-0.15.0.tar.gz",
+  "download_time": "2026-03-18T06:48:39.355529",
   "package_url": "https://pypi.org/project/xblocks-contrib/"
 }

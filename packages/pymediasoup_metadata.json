@@ -1,11 +1,11 @@
 {
   "name": "pymediasoup",
-  "version": "1.3.0",
+  "version": "1.5.0",
   "summary": "mediasoup python client",
   "author": "Jiang Yue",
   "license": null,
   "home_page": null,
-  "download_filename": "pymediasoup-1.3.0.tar.gz",
-  "download_time": "2026-03-11T05:05:19.099226",
+  "download_filename": "pymediasoup-1.5.0.tar.gz",
+  "download_time": "2026-03-18T06:48:38.306161",
   "package_url": "https://pypi.org/project/pymediasoup/"
 }
