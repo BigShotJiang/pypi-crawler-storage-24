@@ -1,0 +1,11 @@
+{
+  "name": "tiltshift",
+  "version": "0.7.0",
+  "summary": "Universal agent activity ledger. Records what AI agents do.",
+  "author": "Andrew Park",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiltshift-0.7.0.tar.gz",
+  "download_time": "2026-03-18T01:51:18.920610",
+  "package_url": "https://pypi.org/project/tiltshift/"
+}

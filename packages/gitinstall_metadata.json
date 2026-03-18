@@ -1,0 +1,11 @@
+{
+  "name": "gitinstall",
+  "version": "1.2.0",
+  "summary": "MCP server & CLI that helps you easily install GitHub projects — zero dependencies",
+  "author": "icerui",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitinstall-1.2.0.tar.gz",
+  "download_time": "2026-03-18T01:50:35.940001",
+  "package_url": "https://pypi.org/project/gitinstall/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docker-pyo3",
+  "version": "0.3.2",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/dylanbstorey/docker-pyo3",
+  "download_filename": "docker_pyo3-0.3.2.tar.gz",
+  "download_time": "2026-03-18T01:51:20.017882",
+  "package_url": "https://pypi.org/project/docker-pyo3/"
+}

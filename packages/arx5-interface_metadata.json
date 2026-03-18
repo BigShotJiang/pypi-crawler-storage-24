@@ -1,0 +1,11 @@
+{
+  "name": "arx5-interface",
+  "version": "0.1.0",
+  "summary": "C++ and Python controller for ARX5 robot arm developed by @yihuai-gao (@real-stanford)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arx5_interface-0.1.0-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-18T01:51:12.863885",
+  "package_url": "https://pypi.org/project/arx5-interface/"
+}

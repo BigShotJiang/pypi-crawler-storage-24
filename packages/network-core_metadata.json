@@ -1,0 +1,11 @@
+{
+  "name": "network-core",
+  "version": "0.1.0",
+  "summary": "Core networking utilities and data models",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "network_core-0.1.0.tar.gz",
+  "download_time": "2026-03-18T01:51:22.201277",
+  "package_url": "https://pypi.org/project/network-core/"
+}

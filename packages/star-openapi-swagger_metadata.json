@@ -1,0 +1,11 @@
+{
+  "name": "star-openapi-swagger",
+  "version": "5.32.1",
+  "summary": "Provide Swagger UI for star-openapi.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "star_openapi_swagger-5.32.1.tar.gz",
+  "download_time": "2026-03-18T01:50:37.060160",
+  "package_url": "https://pypi.org/project/star-openapi-swagger/"
+}

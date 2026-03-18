@@ -1,0 +1,11 @@
+{
+  "name": "NewsWatcher-Johan",
+  "version": "0.1.0",
+  "summary": "A global conflict and news tracker using GDELT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "newswatcher_johan-0.1.0.tar.gz",
+  "download_time": "2026-03-18T01:50:32.585992",
+  "package_url": "https://pypi.org/project/NewsWatcher-Johan/"
+}
