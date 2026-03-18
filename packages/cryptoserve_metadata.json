@@ -1,0 +1,11 @@
+{
+  "name": "cryptoserve",
+  "version": "1.4.3",
+  "summary": "CryptoServe SDK - Zero-config cryptographic operations with auto-registration and local key caching",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cryptoserve-1.4.3.tar.gz",
+  "download_time": "2026-03-18T16:14:42.960956",
+  "package_url": "https://pypi.org/project/cryptoserve/"
+}

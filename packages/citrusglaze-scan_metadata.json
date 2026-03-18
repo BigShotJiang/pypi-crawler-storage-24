@@ -1,0 +1,11 @@
+{
+  "name": "citrusglaze-scan",
+  "version": "0.1.1",
+  "summary": "Scan AI chat histories for leaked secrets. Find out what you've accidentally shared with AI providers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "citrusglaze_scan-0.1.1.tar.gz",
+  "download_time": "2026-03-18T16:14:21.507649",
+  "package_url": "https://pypi.org/project/citrusglaze-scan/"
+}

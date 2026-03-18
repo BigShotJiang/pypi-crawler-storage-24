@@ -1,0 +1,11 @@
+{
+  "name": "ezfastq",
+  "version": "0.2",
+  "summary": "Scan directories for FASTQ files and associate with sample names",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezfastq-0.2.tar.gz",
+  "download_time": "2026-03-18T16:14:16.219303",
+  "package_url": "https://pypi.org/project/ezfastq/"
+}

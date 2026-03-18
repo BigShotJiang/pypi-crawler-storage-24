@@ -1,0 +1,11 @@
+{
+  "name": "linode-cli",
+  "version": "5.66.0",
+  "summary": "The official command-line interface for interacting with the Linode API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linode_cli-5.66.0.tar.gz",
+  "download_time": "2026-03-18T16:14:15.581836",
+  "package_url": "https://pypi.org/project/linode-cli/"
+}

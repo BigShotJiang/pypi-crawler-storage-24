@@ -1,0 +1,11 @@
+{
+  "name": "AirField",
+  "version": "0.4.0",
+  "summary": "Dataclasses that describe how Pydantic model fields should be presented in any UI context: web forms, CLI prompts, data tables, notebooks, API docs, charts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airfield-0.4.0.tar.gz",
+  "download_time": "2026-03-18T16:14:20.977827",
+  "package_url": "https://pypi.org/project/AirField/"
+}

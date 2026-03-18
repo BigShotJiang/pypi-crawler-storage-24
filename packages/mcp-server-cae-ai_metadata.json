@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-cae-ai",
+  "version": "1.11.1",
+  "summary": "MCP servers for CAE: Radia magnetostatics + NGSolve FEM + Cubit meshing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_cae_ai-1.11.1.tar.gz",
+  "download_time": "2026-03-18T16:14:05.289561",
+  "package_url": "https://pypi.org/project/mcp-server-cae-ai/"
+}

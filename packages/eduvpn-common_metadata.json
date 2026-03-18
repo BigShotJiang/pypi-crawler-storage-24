@@ -1,0 +1,11 @@
+{
+  "name": "eduvpn-common",
+  "version": "5.0.1",
+  "summary": "Python wrapper for eduvpn-common, a codebase to build eduVPN clients with",
+  "author": "Jeroen Wijenbergh",
+  "license": "MIT",
+  "home_page": "https://codeberg.org/eduVPN/eduvpn-common",
+  "download_filename": "eduvpn_common-5.0.1-py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-03-18T16:14:26.935576",
+  "package_url": "https://pypi.org/project/eduvpn-common/"
+}

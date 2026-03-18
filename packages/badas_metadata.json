@@ -1,11 +1,11 @@
 {
   "name": "badas",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Beyond ADAS — collision anticipation inference for dashcam video",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "badas-1.0.4.tar.gz",
-  "download_time": "2026-03-15T11:41:49.302887",
+  "download_filename": "badas-1.0.5.tar.gz",
+  "download_time": "2026-03-18T16:14:45.773902",
   "package_url": "https://pypi.org/project/badas/"
 }

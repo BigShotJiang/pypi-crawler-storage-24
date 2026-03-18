@@ -1,0 +1,11 @@
+{
+  "name": "kap",
+  "version": "0.2.2",
+  "summary": "Gabrovšek's Multiple Hungarian method for solving k-Assignment Problem.",
+  "author": "Hoang-Nhat Tran (inspiros)",
+  "license": "MIT",
+  "home_page": "https://github.com/inspiros/kap",
+  "download_filename": "kap-0.2.2.tar.gz",
+  "download_time": "2026-03-18T16:14:41.409211",
+  "package_url": "https://pypi.org/project/kap/"
+}

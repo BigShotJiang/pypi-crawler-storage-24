@@ -1,0 +1,11 @@
+{
+  "name": "pynop-cli",
+  "version": "0.1.0",
+  "summary": "Python NopCommerce CLI and DB access (MSSQL/pyodbc)",
+  "author": "Sync Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pynop_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-18T16:14:22.679567",
+  "package_url": "https://pypi.org/project/pynop-cli/"
+}

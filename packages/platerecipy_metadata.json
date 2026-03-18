@@ -1,0 +1,11 @@
+{
+  "name": "platerecipy",
+  "version": "1.2.2",
+  "summary": "PLATE RECognition In PYthon",
+  "author": "Pejvak Javaheri",
+  "license": "MIT",
+  "home_page": "https://github.com/pjavaheri/platerecipy",
+  "download_filename": "platerecipy-1.2.2.tar.gz",
+  "download_time": "2026-03-18T16:14:23.190822",
+  "package_url": "https://pypi.org/project/platerecipy/"
+}

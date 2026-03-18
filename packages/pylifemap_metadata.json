@@ -1,0 +1,11 @@
+{
+  "name": "pylifemap",
+  "version": "0.2.0",
+  "summary": "Taxonomy data visualizations on the Lifemap tree of life",
+  "author": "Julien Barnier, Damien de Vienne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylifemap-0.2.0.tar.gz",
+  "download_time": "2026-03-18T16:14:31.707414",
+  "package_url": "https://pypi.org/project/pylifemap/"
+}

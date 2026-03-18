@@ -1,11 +1,11 @@
 {
   "name": "hush-serve",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Auto-generate API servers from Hush workflow graphs",
   "author": "Hush Team",
   "license": null,
   "home_page": null,
-  "download_filename": "hush_serve-0.1.6.tar.gz",
-  "download_time": "2026-03-18T10:33:43.887722",
+  "download_filename": "hush_serve-0.1.8.tar.gz",
+  "download_time": "2026-03-18T16:14:13.780700",
   "package_url": "https://pypi.org/project/hush-serve/"
 }

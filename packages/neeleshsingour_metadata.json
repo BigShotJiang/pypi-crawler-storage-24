@@ -1,11 +1,11 @@
 {
   "name": "neeleshsingour",
-  "version": "1.0.3",
+  "version": "2.0.2",
   "summary": "A simple Python Desktop Framework with HTML/CSS/JS and SQLite Support",
   "author": "Neelesh Singour",
   "license": null,
   "home_page": null,
-  "download_filename": "neeleshsingour-1.0.3.tar.gz",
-  "download_time": "2026-03-18T13:57:35.827459",
+  "download_filename": "neeleshsingour-2.0.2.tar.gz",
+  "download_time": "2026-03-18T16:14:44.540313",
   "package_url": "https://pypi.org/project/neeleshsingour/"
 }

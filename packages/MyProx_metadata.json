@@ -1,0 +1,11 @@
+{
+  "name": "MyProx",
+  "version": "1.2.0",
+  "summary": "simple web frontend for Proxmox VE users",
+  "author": "Dirk Henrici",
+  "license": null,
+  "home_page": "https://www.github.com/towalink/myprox",
+  "download_filename": "myprox-1.2.0.tar.gz",
+  "download_time": "2026-03-18T16:14:30.085132",
+  "package_url": "https://pypi.org/project/MyProx/"
+}

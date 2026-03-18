@@ -1,0 +1,11 @@
+{
+  "name": "scriptworker",
+  "version": "62.7.0",
+  "summary": "Taskcluster scriptworker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scriptworker-62.7.0.tar.gz",
+  "download_time": "2026-03-18T16:14:23.724617",
+  "package_url": "https://pypi.org/project/scriptworker/"
+}

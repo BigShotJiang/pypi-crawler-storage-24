@@ -1,11 +1,11 @@
 {
   "name": "owlbear",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Feathers and claws for your data lake",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "owlbear-0.2.2.tar.gz",
-  "download_time": "2026-03-09T22:54:17.177028",
+  "download_filename": "owlbear-0.3.0.tar.gz",
+  "download_time": "2026-03-18T16:14:46.810531",
   "package_url": "https://pypi.org/project/owlbear/"
 }
