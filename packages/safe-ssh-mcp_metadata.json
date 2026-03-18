@@ -1,0 +1,11 @@
+{
+  "name": "safe-ssh-mcp",
+  "version": "0.1.3",
+  "summary": "A secure and scoped SSH Model Context Protocol (MCP) server for executing safe, read-only diagnostic commands only",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safe_ssh_mcp-0.1.3.tar.gz",
+  "download_time": "2026-03-18T22:53:57.262876",
+  "package_url": "https://pypi.org/project/safe-ssh-mcp/"
+}

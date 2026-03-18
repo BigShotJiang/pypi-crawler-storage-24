@@ -1,0 +1,11 @@
+{
+  "name": "trytond-sale-point",
+  "version": "7.8.3",
+  "summary": "Tryton module for Point of Sales",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_sale_point-7.8.3.tar.gz",
+  "download_time": "2026-03-18T22:53:34.909436",
+  "package_url": "https://pypi.org/project/trytond-sale-point/"
+}

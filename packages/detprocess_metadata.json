@@ -1,11 +1,11 @@
 {
   "name": "detprocess",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Detector Data Processing Package",
   "author": "Bruno Serfass, Samuel Watkins",
   "license": null,
   "home_page": "https://github.com/spice-herald/detprocess",
-  "download_filename": "detprocess-0.7.0.tar.gz",
-  "download_time": "2026-03-18T22:01:26.182914",
+  "download_filename": "detprocess-0.7.2.tar.gz",
+  "download_time": "2026-03-18T22:53:51.114698",
   "package_url": "https://pypi.org/project/detprocess/"
 }

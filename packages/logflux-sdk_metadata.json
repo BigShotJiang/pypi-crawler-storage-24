@@ -1,0 +1,11 @@
+{
+  "name": "logflux-sdk",
+  "version": "3.0.0",
+  "summary": "Official Python SDK for LogFlux.io -- end-to-end encrypted log ingestion",
+  "author": null,
+  "license": "Elastic License 2.0",
+  "home_page": null,
+  "download_filename": "logflux_sdk-3.0.0.tar.gz",
+  "download_time": "2026-03-18T22:53:55.731276",
+  "package_url": "https://pypi.org/project/logflux-sdk/"
+}

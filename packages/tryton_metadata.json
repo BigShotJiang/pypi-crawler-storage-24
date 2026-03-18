@@ -1,0 +1,11 @@
+{
+  "name": "tryton",
+  "version": "7.8.5",
+  "summary": "Tryton desktop client",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "tryton-7.8.5.tar.gz",
+  "download_time": "2026-03-18T22:54:01.778554",
+  "package_url": "https://pypi.org/project/tryton/"
+}

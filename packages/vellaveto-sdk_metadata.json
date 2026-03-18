@@ -1,11 +1,11 @@
 {
   "name": "vellaveto-sdk",
-  "version": "6.0.6",
+  "version": "6.0.9",
   "summary": "Python SDK for the Vellaveto agent interaction firewall",
   "author": null,
   "license": "This package follows VellaVeto's repository-wide multi-license model.\n        See ../../LICENSE and ../../LICENSING.md for the applicable terms.",
   "home_page": null,
-  "download_filename": "vellaveto_sdk-6.0.6.tar.gz",
-  "download_time": "2026-03-15T20:55:50.756938",
+  "download_filename": "vellaveto_sdk-6.0.9.tar.gz",
+  "download_time": "2026-03-18T22:53:42.276529",
   "package_url": "https://pypi.org/project/vellaveto-sdk/"
 }

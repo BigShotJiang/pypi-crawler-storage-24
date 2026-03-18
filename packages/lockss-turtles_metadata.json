@@ -1,11 +1,11 @@
 {
   "name": "lockss-turtles",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "Library and command line tool to manage LOCKSS plugin sets and LOCKSS plugin registries",
   "author": "Thib Guicherd-Callin",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/lockss/lockss-turtles",
-  "download_filename": "lockss_turtles-0.6.1.tar.gz",
-  "download_time": "2026-03-17T22:26:56.378883",
+  "download_filename": "lockss_turtles-0.7.0.tar.gz",
+  "download_time": "2026-03-18T22:53:43.877034",
   "package_url": "https://pypi.org/project/lockss-turtles/"
 }

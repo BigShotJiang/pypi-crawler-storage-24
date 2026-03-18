@@ -1,0 +1,11 @@
+{
+  "name": "ciaf-agents",
+  "version": "1.0.0",
+  "summary": "Identity and Access Management (IAM) and Privileged Access Management (PAM) for AI agents",
+  "author": "CIAF-LCM Project Contributors",
+  "license": "BUSL-1.1",
+  "home_page": null,
+  "download_filename": "ciaf_agents-1.0.0.tar.gz",
+  "download_time": "2026-03-18T22:53:37.536898",
+  "package_url": "https://pypi.org/project/ciaf-agents/"
+}

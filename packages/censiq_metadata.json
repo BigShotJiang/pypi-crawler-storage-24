@@ -1,0 +1,11 @@
+{
+  "name": "censiq",
+  "version": "0.1.1",
+  "summary": "Estimate median home value within a radius using US Census data",
+  "author": "Nathaniel Scholze",
+  "license": null,
+  "home_page": null,
+  "download_filename": "censiq-0.1.1.tar.gz",
+  "download_time": "2026-03-18T22:53:39.645488",
+  "package_url": "https://pypi.org/project/censiq/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cirro",
+  "version": "1.10.2",
+  "summary": "CLI tool and SDK for interacting with the Cirro platform",
+  "author": "Cirro Bio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cirro-1.10.2.tar.gz",
+  "download_time": "2026-03-18T22:53:50.092961",
+  "package_url": "https://pypi.org/project/cirro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-async-backend",
+  "version": "0.0.3",
+  "summary": "Django extension providing async capabilities for database and other components",
+  "author": "Arfey",
+  "license": "MIT",
+  "home_page": "https://github.com/Arfey/django-async-backend",
+  "download_filename": "django_async_backend-0.0.3.tar.gz",
+  "download_time": "2026-03-18T22:53:49.017899",
+  "package_url": "https://pypi.org/project/django-async-backend/"
+}

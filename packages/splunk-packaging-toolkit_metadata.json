@@ -1,0 +1,11 @@
+{
+  "name": "splunk-packaging-toolkit",
+  "version": "1.2.7",
+  "summary": "Splunk Packaging Toolkit",
+  "author": "Splunk, Inc.",
+  "license": "https://www.splunk.com/en_us/legal/splunk-software-license-agreement.html",
+  "home_page": "https://dev.splunk.com",
+  "download_filename": "splunk_packaging_toolkit-1.2.7.tar.gz",
+  "download_time": "2026-03-18T22:53:36.447484",
+  "package_url": "https://pypi.org/project/splunk-packaging-toolkit/"
+}
