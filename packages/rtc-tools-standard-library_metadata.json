@@ -1,0 +1,11 @@
+{
+  "name": "rtc-tools-standard-library",
+  "version": "0.1.2",
+  "summary": "Standard Modelica library for RTC-Tools ecosystem",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "rtc_tools_standard_library-0.1.2.tar.gz",
+  "download_time": "2026-03-18T10:34:01.412762",
+  "package_url": "https://pypi.org/project/rtc-tools-standard-library/"
+}

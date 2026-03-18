@@ -1,0 +1,11 @@
+{
+  "name": "wirepas-mesh-messaging",
+  "version": "1.4.1",
+  "summary": "Wrapper interfaces to interact with Backend to/from Gateway API.",
+  "author": "Wirepas Ltd",
+  "license": "Apache-2",
+  "home_page": "https://github.com/wirepas/backend-apis/tree/master/gateway_to_backend",
+  "download_filename": "wirepas_mesh_messaging-1.4.1.tar.gz",
+  "download_time": "2026-03-18T10:33:56.252097",
+  "package_url": "https://pypi.org/project/wirepas-mesh-messaging/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "versed-pdf",
+  "version": "1.1.0",
+  "summary": "Semantic PDF-to-Markdown engine for Arabic and bilingual texts with local routing and repair",
+  "author": "Versed Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "versed_pdf-1.1.0.tar.gz",
+  "download_time": "2026-03-18T10:34:03.472688",
+  "package_url": "https://pypi.org/project/versed-pdf/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hush-telemetry",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Observability, tracing, and telemetry framework for Hush",
   "author": "Hush Team",
   "license": null,
   "home_page": null,
-  "download_filename": "hush_telemetry-0.1.5.tar.gz",
-  "download_time": "2026-03-18T05:49:37.535153",
+  "download_filename": "hush_telemetry-0.1.6.tar.gz",
+  "download_time": "2026-03-18T10:33:44.399544",
   "package_url": "https://pypi.org/project/hush-telemetry/"
 }

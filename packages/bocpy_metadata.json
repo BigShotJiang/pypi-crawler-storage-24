@@ -1,0 +1,11 @@
+{
+  "name": "bocpy",
+  "version": "0.2.2",
+  "summary": "bocpy is a Python extension that adds Behavior-oriented concurrency built on top of cross-interpreter data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bocpy-0.2.2.tar.gz",
+  "download_time": "2026-03-18T10:34:20.028606",
+  "package_url": "https://pypi.org/project/bocpy/"
+}

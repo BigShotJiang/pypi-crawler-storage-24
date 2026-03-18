@@ -1,0 +1,11 @@
+{
+  "name": "ibm-watsonx-data-intelligence-mcp-server",
+  "version": "0.7.0",
+  "summary": "MCP Server implementation for IBM Data Intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibm_watsonx_data_intelligence_mcp_server-0.7.0.tar.gz",
+  "download_time": "2026-03-18T10:34:00.391191",
+  "package_url": "https://pypi.org/project/ibm-watsonx-data-intelligence-mcp-server/"
+}

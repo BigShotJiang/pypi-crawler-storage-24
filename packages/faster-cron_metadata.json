@@ -1,0 +1,11 @@
+{
+  "name": "faster-cron",
+  "version": "2.1.0",
+  "summary": "一个轻量、直观、支持异步与同步双模式的定时任务调度器",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faster_cron-2.1.0.tar.gz",
+  "download_time": "2026-03-18T10:33:43.376174",
+  "package_url": "https://pypi.org/project/faster-cron/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vclawctl",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "Control-plane CLI for v-claw",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vclawctl-0.1.8.tar.gz",
-  "download_time": "2026-03-13T16:04:44.808050",
+  "download_filename": "vclawctl-0.1.11.tar.gz",
+  "download_time": "2026-03-18T10:34:19.515835",
   "package_url": "https://pypi.org/project/vclawctl/"
 }

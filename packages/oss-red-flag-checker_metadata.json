@@ -1,0 +1,11 @@
+{
+  "name": "oss-red-flag-checker",
+  "version": "0.1.8",
+  "summary": "Check remote repositories for typical red flags like CLAs and risks due to low development activity",
+  "author": "Open Source at Deutsche Bahn",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oss_red_flag_checker-0.1.8.tar.gz",
+  "download_time": "2026-03-18T10:33:44.910926",
+  "package_url": "https://pypi.org/project/oss-red-flag-checker/"
+}

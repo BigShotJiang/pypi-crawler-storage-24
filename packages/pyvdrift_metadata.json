@@ -1,0 +1,11 @@
+{
+  "name": "pyvdrift",
+  "version": "0.1.0",
+  "summary": "Detect environment drift across all your Python projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyvdrift-0.1.0.tar.gz",
+  "download_time": "2026-03-18T10:34:09.177567",
+  "package_url": "https://pypi.org/project/pyvdrift/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyronut",
+  "version": "2.0.185",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "author": "Dan",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/iamnolimit/pyronut",
+  "download_filename": "pyronut-2.0.185.tar.gz",
+  "download_time": "2026-03-18T10:34:21.567600",
+  "package_url": "https://pypi.org/project/pyronut/"
+}

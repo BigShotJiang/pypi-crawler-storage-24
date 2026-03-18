@@ -1,0 +1,11 @@
+{
+  "name": "python-po-lint",
+  "version": "0.2.0",
+  "summary": "Lint .po translation files for contamination, wrong languages, shifts, and garbled text",
+  "author": "PesCheck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_po_lint-0.2.0.tar.gz",
+  "download_time": "2026-03-18T10:33:59.368017",
+  "package_url": "https://pypi.org/project/python-po-lint/"
+}
