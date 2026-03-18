@@ -1,0 +1,11 @@
+{
+  "name": "hindi-readability",
+  "version": "0.1.0",
+  "summary": "The first Python package for measuring readability of Hindi text using Devanagari-aware formulas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hindi_readability-0.1.0.tar.gz",
+  "download_time": "2026-03-18T18:19:28.178215",
+  "package_url": "https://pypi.org/project/hindi-readability/"
+}

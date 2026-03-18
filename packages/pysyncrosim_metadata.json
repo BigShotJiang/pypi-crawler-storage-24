@@ -1,0 +1,11 @@
+{
+  "name": "pysyncrosim",
+  "version": "2.1.4",
+  "summary": "Python interface to SyncroSim",
+  "author": "ApexRMS",
+  "license": null,
+  "home_page": "https://syncrosim.com/",
+  "download_filename": "pysyncrosim-2.1.4.tar.gz",
+  "download_time": "2026-03-18T18:19:17.460600",
+  "package_url": "https://pypi.org/project/pysyncrosim/"
+}

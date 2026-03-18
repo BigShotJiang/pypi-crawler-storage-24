@@ -1,11 +1,11 @@
 {
   "name": "ethiack-beacon",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "summary": "Ethiack Beacon CLI - secure network tunnel management",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ethiack_beacon-2.0.2.tar.gz",
-  "download_time": "2026-03-18T17:21:32.617018",
+  "download_filename": "ethiack_beacon-2.0.4.tar.gz",
+  "download_time": "2026-03-18T18:19:50.208995",
   "package_url": "https://pypi.org/project/ethiack-beacon/"
 }

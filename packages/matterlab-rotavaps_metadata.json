@@ -1,0 +1,11 @@
+{
+  "name": "matterlab-rotavaps",
+  "version": "1.1.0",
+  "summary": "A Python API for the rotavaps in the Matter Lab.",
+  "author": "Han Hao, Martin Seifrid, Tony C. Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "matterlab_rotavaps-1.1.0.tar.gz",
+  "download_time": "2026-03-18T18:19:27.645073",
+  "package_url": "https://pypi.org/project/matterlab-rotavaps/"
+}

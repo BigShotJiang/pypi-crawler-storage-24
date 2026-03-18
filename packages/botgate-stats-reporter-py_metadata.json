@@ -1,0 +1,11 @@
+{
+  "name": "botgate-stats-reporter-py",
+  "version": "1.0.4",
+  "summary": "Official BotGate module for reporting Discord bot stats automatically",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "botgate_stats_reporter_py-1.0.4.tar.gz",
+  "download_time": "2026-03-18T18:19:42.363413",
+  "package_url": "https://pypi.org/project/botgate-stats-reporter-py/"
+}

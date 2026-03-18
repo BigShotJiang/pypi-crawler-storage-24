@@ -1,11 +1,11 @@
 {
   "name": "gen-dsp",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "Generate multiple dsp plugin formats from Max gen~ exports",
   "author": "Michael Spears, Shakeeb Alireza",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "gen_dsp-0.1.17.tar.gz",
-  "download_time": "2026-03-10T22:00:10.817806",
+  "download_filename": "gen_dsp-0.1.18.tar.gz",
+  "download_time": "2026-03-18T18:19:22.824312",
   "package_url": "https://pypi.org/project/gen-dsp/"
 }

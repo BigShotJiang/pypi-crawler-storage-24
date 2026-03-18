@@ -1,0 +1,11 @@
+{
+  "name": "space-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server giving AI agents access to NASA and space/astronomy data — APOD, Mars rovers, asteroids, exoplanets, earth imagery",
+  "author": "AiAgentKarl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "space_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-18T18:19:45.453406",
+  "package_url": "https://pypi.org/project/space-mcp-server/"
+}

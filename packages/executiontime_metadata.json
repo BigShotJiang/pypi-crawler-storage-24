@@ -1,0 +1,11 @@
+{
+  "name": "executiontime",
+  "version": "0.4.6",
+  "summary": "A simple function decorator to display its execution time on the console or in the logs.",
+  "author": "Timokasse",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "executiontime-0.4.6.tar.gz",
+  "download_time": "2026-03-18T18:19:35.719151",
+  "package_url": "https://pypi.org/project/executiontime/"
+}

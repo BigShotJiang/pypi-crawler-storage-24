@@ -1,0 +1,11 @@
+{
+  "name": "libcontext",
+  "version": "0.2.0",
+  "summary": "Generate optimized LLM context from Python library APIs — CLI, skill, and MCP server",
+  "author": "Jonathan VARELA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libcontext-0.2.0.tar.gz",
+  "download_time": "2026-03-18T18:19:40.146217",
+  "package_url": "https://pypi.org/project/libcontext/"
+}

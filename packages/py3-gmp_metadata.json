@@ -1,0 +1,11 @@
+{
+  "name": "py3-gmp",
+  "version": "1.0",
+  "summary": "Python wrapper for GNU MP library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py3_gmp-1.0.tar.gz",
+  "download_time": "2026-03-18T18:19:32.406561",
+  "package_url": "https://pypi.org/project/py3-gmp/"
+}

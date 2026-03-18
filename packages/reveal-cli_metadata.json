@@ -1,11 +1,11 @@
 {
   "name": "reveal-cli",
-  "version": "0.63.0",
-  "summary": "Progressive code exploration with semantic queries and structural diffs - understand code by navigating structure, not reading text",
+  "version": "0.64.0",
+  "summary": "How AI agents understand codebases without wasting tokens — local-first, adapter-driven, progressive disclosure enforced by design",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reveal_cli-0.63.0.tar.gz",
-  "download_time": "2026-03-15T11:05:52.724797",
+  "download_filename": "reveal_cli-0.64.0.tar.gz",
+  "download_time": "2026-03-18T18:19:53.517960",
   "package_url": "https://pypi.org/project/reveal-cli/"
 }

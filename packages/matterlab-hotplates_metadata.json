@@ -1,11 +1,11 @@
 {
   "name": "matterlab-hotplates",
-  "version": "1.0.6.1",
+  "version": "1.1.0",
   "summary": "A Python API for the hotplates in the Matter Lab.",
   "author": "Han Hao, Martin Seifrid, Tony C. Wu",
   "license": null,
   "home_page": null,
-  "download_filename": "matterlab_hotplates-1.0.6.1.tar.gz",
-  "download_time": "2026-03-16T04:39:44.463073",
+  "download_filename": "matterlab_hotplates-1.1.0.tar.gz",
+  "download_time": "2026-03-18T18:19:30.313826",
   "package_url": "https://pypi.org/project/matterlab-hotplates/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nccgest",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Sync and async Python client for NCCGEST REST API.",
   "author": "Oleg Klishin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nccgest-0.1.4.tar.gz",
-  "download_time": "2026-03-18T10:34:11.768155",
+  "download_filename": "nccgest-0.1.5.tar.gz",
+  "download_time": "2026-03-18T18:19:14.743891",
   "package_url": "https://pypi.org/project/nccgest/"
 }

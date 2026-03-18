@@ -1,11 +1,11 @@
 {
   "name": "uaml-memory",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Universal Agent Memory Layer — persistent, temporal, ethical memory for AI agents",
   "author": "GLG, a.s.",
   "license": "Proprietary — Free for personal use, commercial use requires paid subscription (see LICENSE)",
   "home_page": null,
-  "download_filename": "uaml_memory-1.0.0.tar.gz",
-  "download_time": "2026-03-17T10:36:57.096049",
+  "download_filename": "uaml_memory-1.1.1.tar.gz",
+  "download_time": "2026-03-18T18:19:49.142093",
   "package_url": "https://pypi.org/project/uaml-memory/"
 }

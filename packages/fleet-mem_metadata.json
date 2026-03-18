@@ -1,11 +1,11 @@
 {
   "name": "fleet-mem",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "summary": "Shared code intelligence for agent fleets — AST-aware semantic search + multi-agent memory with git-concurrent coordination",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fleet_mem-0.1.0.tar.gz",
-  "download_time": "2026-03-17T06:47:27.900503",
+  "download_filename": "fleet_mem-0.5.0.tar.gz",
+  "download_time": "2026-03-18T18:19:38.805109",
   "package_url": "https://pypi.org/project/fleet-mem/"
 }

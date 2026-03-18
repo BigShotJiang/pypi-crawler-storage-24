@@ -1,0 +1,11 @@
+{
+  "name": "spade-fipaproto",
+  "version": "0.5.1",
+  "summary": "Implementation with spade of some FIPA interaction protocols, such as FIPA-Request and FIPA-ContractNet",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spade_fipaproto-0.5.1.tar.gz",
+  "download_time": "2026-03-18T18:19:28.711467",
+  "package_url": "https://pypi.org/project/spade-fipaproto/"
+}

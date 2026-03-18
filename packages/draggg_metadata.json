@@ -1,0 +1,11 @@
+{
+  "name": "draggg",
+  "version": "1.0.18",
+  "summary": "macOS-style three-finger drag gestures for Linux trackpads",
+  "author": "draggg Contributors",
+  "license": null,
+  "home_page": "https://github.com/j031nich0145/draggg",
+  "download_filename": "draggg-1.0.18.tar.gz",
+  "download_time": "2026-03-18T18:19:38.292643",
+  "package_url": "https://pypi.org/project/draggg/"
+}
