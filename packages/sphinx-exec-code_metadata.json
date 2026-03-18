@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-exec-code",
+  "version": "0.18",
+  "summary": "Execute code blocks in Sphinx and display the output",
+  "author": "spaceman_spiff",
+  "license": null,
+  "home_page": "https://github.com/spacemanspiff2007/sphinx-exec-code",
+  "download_filename": "sphinx_exec_code-0.18.tar.gz",
+  "download_time": "2026-03-18T08:33:41.163157",
+  "package_url": "https://pypi.org/project/sphinx-exec-code/"
+}

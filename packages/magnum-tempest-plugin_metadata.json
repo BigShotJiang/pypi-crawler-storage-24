@@ -1,0 +1,11 @@
+{
+  "name": "magnum-tempest-plugin",
+  "version": "2.10.0",
+  "summary": "Tempest plugin for Magnum Project",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://opendev.org/openstack/magnum-tempest-plugin",
+  "download_filename": "magnum_tempest_plugin-2.10.0.tar.gz",
+  "download_time": "2026-03-18T08:33:48.021955",
+  "package_url": "https://pypi.org/project/magnum-tempest-plugin/"
+}

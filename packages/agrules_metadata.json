@@ -1,0 +1,11 @@
+{
+  "name": "agrules",
+  "version": "0.2.1",
+  "summary": "통합 에이전트 규칙 동기화 도구 - 하나의 소스에서 모든 AI 코딩 도구 규칙 생성",
+  "author": "Jinwoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agrules-0.2.1.tar.gz",
+  "download_time": "2026-03-18T08:33:25.108170",
+  "package_url": "https://pypi.org/project/agrules/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aionis-sdk",
-  "version": "0.2.17",
+  "version": "0.2.21",
   "summary": "Python SDK for Aionis Memory Graph API",
   "author": "Aionis Core",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aionis_sdk-0.2.17.tar.gz",
-  "download_time": "2026-03-08T13:28:40.824316",
+  "download_filename": "aionis_sdk-0.2.21.tar.gz",
+  "download_time": "2026-03-18T08:33:22.342058",
   "package_url": "https://pypi.org/project/aionis-sdk/"
 }

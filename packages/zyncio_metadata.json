@@ -1,11 +1,11 @@
 {
   "name": "zyncio",
-  "version": "0.6.0",
+  "version": "0.8.1",
   "summary": "Write dual sync/async interfaces with minimal duplication.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zyncio-0.6.0.tar.gz",
-  "download_time": "2026-03-15T09:32:23.185236",
+  "download_filename": "zyncio-0.8.1.tar.gz",
+  "download_time": "2026-03-18T08:33:37.005022",
   "package_url": "https://pypi.org/project/zyncio/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ssh-mcp-zlzero",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "SSH MCP Server (zlzero) - Model Context Protocol server for SSH remote system management",
   "author": "zlzero",
   "license": null,
   "home_page": null,
-  "download_filename": "ssh_mcp_zlzero-0.1.0.tar.gz",
-  "download_time": "2026-03-18T06:48:33.610150",
+  "download_filename": "ssh_mcp_zlzero-0.1.4.tar.gz",
+  "download_time": "2026-03-18T08:33:16.239923",
   "package_url": "https://pypi.org/project/ssh-mcp-zlzero/"
 }

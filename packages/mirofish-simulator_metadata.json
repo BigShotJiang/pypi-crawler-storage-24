@@ -1,0 +1,11 @@
+{
+  "name": "mirofish-simulator",
+  "version": "0.9.0",
+  "summary": "Agentic student simulation using misconception matching - realistic wrong answers without LLM cheating",
+  "author": "MiroFish Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mirofish_simulator-0.9.0.tar.gz",
+  "download_time": "2026-03-18T08:33:24.595998",
+  "package_url": "https://pypi.org/project/mirofish-simulator/"
+}

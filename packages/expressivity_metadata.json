@@ -1,11 +1,11 @@
 {
   "name": "expressivity",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "A package made to objectively compare the predicting power of neural network architectures implented with torch.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "expressivity-0.2.0.tar.gz",
-  "download_time": "2026-03-16T11:05:15.725247",
+  "download_filename": "expressivity-0.4.0.tar.gz",
+  "download_time": "2026-03-18T08:33:18.483707",
   "package_url": "https://pypi.org/project/expressivity/"
 }

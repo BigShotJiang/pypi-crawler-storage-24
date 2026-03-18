@@ -1,0 +1,11 @@
+{
+  "name": "bbeye",
+  "version": "0.1.0",
+  "summary": "Python SDK for BBEye MITM proxy decrypt scripts",
+  "author": "BBEye Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbeye-0.1.0.tar.gz",
+  "download_time": "2026-03-18T08:33:03.291126",
+  "package_url": "https://pypi.org/project/bbeye/"
+}

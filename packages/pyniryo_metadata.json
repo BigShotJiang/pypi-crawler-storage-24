@@ -1,0 +1,11 @@
+{
+  "name": "pyniryo",
+  "version": "1.2.4",
+  "summary": "Package to control Niryo Robot \"Ned\" through TCP",
+  "author": "Niryo",
+  "license": "GNU 3.0",
+  "home_page": "https://github.com/NiryoRobotics/pyniryo",
+  "download_filename": "pyniryo-1.2.4.tar.gz",
+  "download_time": "2026-03-18T08:33:20.656219",
+  "package_url": "https://pypi.org/project/pyniryo/"
+}

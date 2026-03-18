@@ -1,0 +1,11 @@
+{
+  "name": "dupix",
+  "version": "0.0.2.1",
+  "summary": "File indexing and deduplication tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dupix-0.0.2.1.tar.gz",
+  "download_time": "2026-03-18T08:33:08.767854",
+  "package_url": "https://pypi.org/project/dupix/"
+}
