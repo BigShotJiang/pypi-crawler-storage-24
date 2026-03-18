@@ -1,0 +1,11 @@
+{
+  "name": "tiny-pytorch",
+  "version": "0.1.3",
+  "summary": "Mini Deep Learning framework similar to PyTorch",
+  "author": "Imad Dabbura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiny_pytorch-0.1.3-cp313-cp313-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-18T23:46:30.242938",
+  "package_url": "https://pypi.org/project/tiny-pytorch/"
+}

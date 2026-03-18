@@ -1,0 +1,11 @@
+{
+  "name": "useful-rdkit-utils",
+  "version": "0.97",
+  "summary": "A collection of useful RDKit functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "useful_rdkit_utils-0.97.tar.gz",
+  "download_time": "2026-03-18T23:46:56.684669",
+  "package_url": "https://pypi.org/project/useful-rdkit-utils/"
+}

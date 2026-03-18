@@ -1,0 +1,11 @@
+{
+  "name": "dokime",
+  "version": "0.1.0",
+  "summary": "Open-source data curation toolkit for ML. Filter, deduplicate, score, and explore your training data.",
+  "author": "Dokime AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dokime-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-18T23:46:33.390490",
+  "package_url": "https://pypi.org/project/dokime/"
+}

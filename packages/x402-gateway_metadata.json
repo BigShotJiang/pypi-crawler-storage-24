@@ -1,0 +1,11 @@
+{
+  "name": "x402-gateway",
+  "version": "0.0.1",
+  "summary": "Hosted payment gateway middleware for the x402 protocol. Drop-in USDC billing for APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "x402_gateway-0.0.1.tar.gz",
+  "download_time": "2026-03-18T23:46:45.070830",
+  "package_url": "https://pypi.org/project/x402-gateway/"
+}

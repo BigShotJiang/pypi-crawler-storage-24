@@ -1,0 +1,11 @@
+{
+  "name": "eo-tides",
+  "version": "0.10.4",
+  "summary": "Tide modelling tools for large-scale satellite earth observation analysis",
+  "author": "Robbi Bishop-Taylor, Stephen Sagar, Claire Phillips, Vanessa Newey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eo_tides-0.10.4.tar.gz",
+  "download_time": "2026-03-18T23:46:22.779185",
+  "package_url": "https://pypi.org/project/eo-tides/"
+}

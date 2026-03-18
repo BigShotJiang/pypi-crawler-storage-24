@@ -1,0 +1,11 @@
+{
+  "name": "findlike",
+  "version": "2.1.1",
+  "summary": "findlike is a package to retrieve similar documents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "findlike-2.1.1.tar.gz",
+  "download_time": "2026-03-18T23:46:40.815374",
+  "package_url": "https://pypi.org/project/findlike/"
+}

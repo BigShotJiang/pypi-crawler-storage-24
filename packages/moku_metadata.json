@@ -1,0 +1,11 @@
+{
+  "name": "moku",
+  "version": "4.2.1.1",
+  "summary": "Python scripting interface to the Liquid Instruments Moku hardware",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "moku-4.2.1.1.tar.gz",
+  "download_time": "2026-03-18T23:46:46.644376",
+  "package_url": "https://pypi.org/project/moku/"
+}

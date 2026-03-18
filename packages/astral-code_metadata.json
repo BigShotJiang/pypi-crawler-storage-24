@@ -1,11 +1,11 @@
 {
   "name": "astral-code",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Analyse any codebase with Claude — at scale, at 50% cost",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astral_code-0.1.0.tar.gz",
-  "download_time": "2026-03-18T23:07:17.077635",
+  "download_filename": "astral_code-0.1.2.tar.gz",
+  "download_time": "2026-03-18T23:46:35.483256",
   "package_url": "https://pypi.org/project/astral-code/"
 }

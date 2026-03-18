@@ -1,0 +1,11 @@
+{
+  "name": "gatling",
+  "version": "0.3.0.25.11",
+  "summary": "A unified I/O management toolkit supporting threads, coroutines, files, databases, and data formats",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gatling-0.3.0.25.11.tar.gz",
+  "download_time": "2026-03-18T23:46:41.855894",
+  "package_url": "https://pypi.org/project/gatling/"
+}
