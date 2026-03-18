@@ -1,0 +1,11 @@
+{
+  "name": "safe-genai",
+  "version": "0.2.0",
+  "summary": "Google GenAI wrapper with mandatory generate → format → validate pipeline",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safe_genai-0.2.0.tar.gz",
+  "download_time": "2026-03-18T13:57:51.272855",
+  "package_url": "https://pypi.org/project/safe-genai/"
+}

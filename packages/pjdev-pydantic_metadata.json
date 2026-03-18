@@ -1,11 +1,11 @@
 {
   "name": "pjdev-pydantic",
-  "version": "4.6.6",
+  "version": "4.6.8",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pjdev_pydantic-4.6.6.tar.gz",
-  "download_time": "2026-03-17T17:15:06.218771",
+  "download_filename": "pjdev_pydantic-4.6.8.tar.gz",
+  "download_time": "2026-03-18T13:57:19.274165",
   "package_url": "https://pypi.org/project/pjdev-pydantic/"
 }

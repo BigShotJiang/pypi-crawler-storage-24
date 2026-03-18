@@ -1,0 +1,11 @@
+{
+  "name": "astropods-adapter-core",
+  "version": "0.1.0",
+  "summary": "Framework-agnostic bridge between agent adapters and the Astropods messaging service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astropods_adapter_core-0.1.0.tar.gz",
+  "download_time": "2026-03-18T13:57:36.339411",
+  "package_url": "https://pypi.org/project/astropods-adapter-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "WWF-ITR",
+  "version": "1.5.4",
+  "summary": "This package helps companies and financial institutions to assess the temperature alignment of current climate reduction targets and commitments for investment and lending portfolios. The tool can also be used to develop targets for official validation by the SBTi.'",
+  "author": "wwf",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wwf_itr-1.5.4.tar.gz",
+  "download_time": "2026-03-18T13:57:31.701821",
+  "package_url": "https://pypi.org/project/WWF-ITR/"
+}

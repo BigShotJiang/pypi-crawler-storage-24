@@ -1,0 +1,11 @@
+{
+  "name": "aoskit",
+  "version": "0.1.0",
+  "summary": "The reference SDK for building Agentic Operating Systems (AOS)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aoskit-0.1.0.tar.gz",
+  "download_time": "2026-03-18T13:57:55.395415",
+  "package_url": "https://pypi.org/project/aoskit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-mcp230xx",
+  "version": "2.6.0",
+  "summary": "CircuitPython library for controlling a MCP23008 or MCP23017 I2C GPIO expander.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_mcp230xx-2.6.0.tar.gz",
+  "download_time": "2026-03-18T13:57:22.352098",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-mcp230xx/"
+}

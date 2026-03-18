@@ -1,11 +1,11 @@
 {
   "name": "trust-plane",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "TrustPlane — EATP-powered trust environment for human-AI collaborative work",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trust_plane-0.2.0.tar.gz",
-  "download_time": "2026-03-15T08:07:30.730401",
+  "download_filename": "trust_plane-0.2.1-py3-none-any.whl",
+  "download_time": "2026-03-18T13:57:25.471469",
   "package_url": "https://pypi.org/project/trust-plane/"
 }

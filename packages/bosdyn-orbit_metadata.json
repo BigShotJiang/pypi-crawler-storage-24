@@ -1,0 +1,11 @@
+{
+  "name": "bosdyn-orbit",
+  "version": "5.1.4",
+  "summary": "Boston Dynamics API Orbit Client",
+  "author": "Boston Dynamics",
+  "license": null,
+  "home_page": "https://dev.bostondynamics.com/docs/orbit/",
+  "download_filename": "bosdyn_orbit-5.1.4-py3-none-any.whl",
+  "download_time": "2026-03-18T13:57:38.901568",
+  "package_url": "https://pypi.org/project/bosdyn-orbit/"
+}

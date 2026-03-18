@@ -1,0 +1,11 @@
+{
+  "name": "uht-discovery",
+  "version": "0.2.11",
+  "summary": "Semi-automated protein discovery pipeline using BLAST, quality control, and language model clustering",
+  "author": "Matthew Penner",
+  "license": "MIT",
+  "home_page": "https://github.com/Matt115A/uht-discovery",
+  "download_filename": "uht_discovery-0.2.11.tar.gz",
+  "download_time": "2026-03-18T13:57:58.534877",
+  "package_url": "https://pypi.org/project/uht-discovery/"
+}

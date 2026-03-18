@@ -1,11 +1,11 @@
 {
   "name": "nl-voting-data-scraper",
-  "version": "0.2.0",
-  "summary": "Scrape Dutch voting advice (StemWijzer) data for any election",
+  "version": "0.3.0",
+  "summary": "Scrape Dutch voting advice (StemWijzer) data across live and archived elections",
   "author": "Rehan Fazal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nl_voting_data_scraper-0.2.0.tar.gz",
-  "download_time": "2026-03-14T20:53:59.470053",
+  "download_filename": "nl_voting_data_scraper-0.3.0.tar.gz",
+  "download_time": "2026-03-18T13:57:22.863046",
   "package_url": "https://pypi.org/project/nl-voting-data-scraper/"
 }

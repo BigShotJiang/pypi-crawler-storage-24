@@ -1,0 +1,11 @@
+{
+  "name": "maxapi",
+  "version": "0.9.17",
+  "summary": "Библиотека для разработки чат-ботов с помощью API мессенджера MAX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maxapi-0.9.17.tar.gz",
+  "download_time": "2026-03-18T13:57:33.238735",
+  "package_url": "https://pypi.org/project/maxapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "catchtable-cli",
+  "version": "0.1.0",
+  "summary": "캐치테이블 비공식 CLI — AI 에이전트 친화적 설계 (Agent DX)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "catchtable_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-18T13:57:14.123640",
+  "package_url": "https://pypi.org/project/catchtable-cli/"
+}

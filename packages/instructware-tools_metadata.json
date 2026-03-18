@@ -1,0 +1,11 @@
+{
+  "name": "instructware-tools",
+  "version": "0.1.3",
+  "summary": "CLI tools for InstructWare protocol linting and incremental build workflows.",
+  "author": "InstructWare Maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instructware_tools-0.1.3.tar.gz",
+  "download_time": "2026-03-18T13:57:45.618163",
+  "package_url": "https://pypi.org/project/instructware-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kedifa",
+  "version": "0.0.8",
+  "summary": "KEy DIstribution FAcility",
+  "author": "Lukasz Nowak",
+  "license": "GPLv3+ with wide exception for FOSS",
+  "home_page": "https://lab.nexedi.com/nexedi/kedifa",
+  "download_filename": "kedifa-0.0.8.tar.gz",
+  "download_time": "2026-03-18T13:57:44.088373",
+  "package_url": "https://pypi.org/project/kedifa/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codemeta2html",
+  "version": "0.2.1",
+  "summary": "Convert software metadata in codemeta to html for visualisation",
+  "author": "Maarten van Gompel",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/proycon/codemeta2html",
+  "download_filename": "codemeta2html-0.2.1.tar.gz",
+  "download_time": "2026-03-18T13:58:01.641849",
+  "package_url": "https://pypi.org/project/codemeta2html/"
+}
