@@ -1,11 +1,11 @@
 {
   "name": "lootqdm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Turn your training loop into an idle RPG.",
   "author": "lootqdm contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "lootqdm-0.1.0.tar.gz",
-  "download_time": "2026-03-10T05:03:42.016424",
+  "download_filename": "lootqdm-0.2.0.tar.gz",
+  "download_time": "2026-03-18T15:03:03.082454",
   "package_url": "https://pypi.org/project/lootqdm/"
 }

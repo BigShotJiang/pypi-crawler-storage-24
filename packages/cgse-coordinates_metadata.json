@@ -1,11 +1,11 @@
 {
   "name": "cgse-coordinates",
-  "version": "0.19.4",
+  "version": "0.19.6",
   "summary": "Reference Frames and Coordinate Transofrmations for CGSE",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "cgse_coordinates-0.19.4.tar.gz",
-  "download_time": "2026-03-13T22:54:17.806759",
+  "download_filename": "cgse_coordinates-0.19.6.tar.gz",
+  "download_time": "2026-03-18T15:02:54.496982",
   "package_url": "https://pypi.org/project/cgse-coordinates/"
 }

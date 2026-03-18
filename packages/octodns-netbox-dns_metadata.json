@@ -1,0 +1,11 @@
+{
+  "name": "octodns-netbox-dns",
+  "version": "0.3.16",
+  "summary": "octodns netbox-dns provider",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "octodns_netbox_dns-0.3.16.tar.gz",
+  "download_time": "2026-03-18T15:03:08.981293",
+  "package_url": "https://pypi.org/project/octodns-netbox-dns/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aim_tti_awg",
-  "version": "0.19.4",
+  "version": "0.19.6",
   "summary": "Aim-TTi TGF4000 Arbitrary Wave Generator",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "aim_tti_awg-0.19.4.tar.gz",
-  "download_time": "2026-03-13T22:54:18.843849",
+  "download_filename": "aim_tti_awg-0.19.6.tar.gz",
+  "download_time": "2026-03-18T15:02:56.648648",
   "package_url": "https://pypi.org/project/aim_tti_awg/"
 }

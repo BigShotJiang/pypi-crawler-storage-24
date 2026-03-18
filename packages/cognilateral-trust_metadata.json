@@ -1,0 +1,11 @@
+{
+  "name": "cognilateral-trust",
+  "version": "0.8.0",
+  "summary": "Epistemic trust layer for AI agents — confidence tiers, routing, and accountability",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognilateral_trust-0.8.0.tar.gz",
+  "download_time": "2026-03-18T15:03:02.014138",
+  "package_url": "https://pypi.org/project/cognilateral-trust/"
+}

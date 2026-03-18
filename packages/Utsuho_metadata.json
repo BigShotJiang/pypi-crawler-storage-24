@@ -1,0 +1,11 @@
+{
+  "name": "Utsuho",
+  "version": "2.1.2",
+  "summary": "Deterministic normalization utilities for Japanese text variants.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "utsuho-2.1.2.tar.gz",
+  "download_time": "2026-03-18T15:02:42.666774",
+  "package_url": "https://pypi.org/project/Utsuho/"
+}

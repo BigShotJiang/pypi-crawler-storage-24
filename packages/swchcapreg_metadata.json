@@ -1,0 +1,11 @@
+{
+  "name": "swchcapreg",
+  "version": "0.1.2",
+  "summary": "A library to manage resources and offers generated from application requirements",
+  "author": "Dr. József Kovács",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swchcapreg-0.1.2.tar.gz",
+  "download_time": "2026-03-18T15:02:35.681874",
+  "package_url": "https://pypi.org/project/swchcapreg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentfield",
-  "version": "0.1.58",
+  "version": "0.1.59",
   "summary": "Python SDK for the AgentField control plane",
   "author": "AgentField Maintainers",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentfield-0.1.58.tar.gz",
-  "download_time": "2026-03-16T16:48:01.351531",
+  "download_filename": "agentfield-0.1.59.tar.gz",
+  "download_time": "2026-03-18T15:03:14.867444",
   "package_url": "https://pypi.org/project/agentfield/"
 }
