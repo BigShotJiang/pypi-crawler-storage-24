@@ -1,0 +1,11 @@
+{
+  "name": "db-connector-tool",
+  "version": "0.4.9",
+  "summary": "跨平台数据库连接管理工具，支持多种数据库类型（Oracle, PostgreSQL, SQL Server, MySQL, SQLite, GBase 8s）",
+  "author": "wangquanqing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "db_connector_tool-0.4.9.tar.gz",
+  "download_time": "2026-03-18T09:32:47.983956",
+  "package_url": "https://pypi.org/project/db-connector-tool/"
+}

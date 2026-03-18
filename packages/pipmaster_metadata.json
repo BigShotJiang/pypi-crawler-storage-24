@@ -1,0 +1,11 @@
+{
+  "name": "pipmaster",
+  "version": "1.1.2",
+  "summary": "A versatile Python package manager utility for simplifying package installation, updates, checks, and environment management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipmaster-1.1.2.tar.gz",
+  "download_time": "2026-03-18T09:33:00.847313",
+  "package_url": "https://pypi.org/project/pipmaster/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-executor-plugin-slurm-jobstep",
+  "version": "0.5.0",
+  "summary": "A Snakemake executor plugin for running srun jobs inside of SLURM jobs (meant for internal use by snakemake-executor-plugin-slurm)",
+  "author": "Christian Meesters",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snakemake_executor_plugin_slurm_jobstep-0.5.0.tar.gz",
+  "download_time": "2026-03-18T09:32:43.075724",
+  "package_url": "https://pypi.org/project/snakemake-executor-plugin-slurm-jobstep/"
+}

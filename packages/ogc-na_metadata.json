@@ -1,11 +1,11 @@
 {
   "name": "ogc-na",
-  "version": "0.5.23",
+  "version": "0.5.24",
   "summary": "OGC Naming Authority tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ogc_na-0.5.23.tar.gz",
-  "download_time": "2026-03-17T12:07:55.508676",
+  "download_filename": "ogc_na-0.5.24.tar.gz",
+  "download_time": "2026-03-18T09:33:24.678342",
   "package_url": "https://pypi.org/project/ogc-na/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "brain-indexer",
+  "version": "3.1.2",
+  "summary": "A spatial index implementation for spheres, morphologies and synapses",
+  "author": "Blue Brain Project, EPFL",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brain_indexer-3.1.2.tar.gz",
+  "download_time": "2026-03-18T09:33:00.334498",
+  "package_url": "https://pypi.org/project/brain-indexer/"
+}

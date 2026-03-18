@@ -1,11 +1,11 @@
 {
   "name": "hoh-game",
-  "version": "1.3.7",
+  "version": "1.4.0",
   "summary": "HKIE BME Dual Grip Game - A kid-friendly game for controlling exoskeleton hand braces using EMG sensors",
   "author": "HKIE BME Team",
   "license": null,
   "home_page": null,
-  "download_filename": "hoh_game-1.3.7.tar.gz",
-  "download_time": "2026-03-17T12:08:17.829819",
+  "download_filename": "hoh_game-1.4.0.tar.gz",
+  "download_time": "2026-03-18T09:33:06.967537",
   "package_url": "https://pypi.org/project/hoh-game/"
 }

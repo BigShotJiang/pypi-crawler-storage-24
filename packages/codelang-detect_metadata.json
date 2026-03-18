@@ -1,0 +1,11 @@
+{
+  "name": "codelang-detect",
+  "version": "1.1.0",
+  "summary": "A fast, lightweight, zero-dependency programming language detector for Python.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codelang_detect-1.1.0.tar.gz",
+  "download_time": "2026-03-18T09:33:13.282477",
+  "package_url": "https://pypi.org/project/codelang-detect/"
+}

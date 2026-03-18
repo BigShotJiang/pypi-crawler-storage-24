@@ -1,0 +1,11 @@
+{
+  "name": "mypackage-test-demo",
+  "version": "0.1.0",
+  "summary": "一个示例 Python 包，用于演示打包和测试",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mypackage_test_demo-0.1.0.tar.gz",
+  "download_time": "2026-03-18T09:33:16.466551",
+  "package_url": "https://pypi.org/project/mypackage-test-demo/"
+}
