@@ -1,0 +1,11 @@
+{
+  "name": "path-cfg-manager",
+  "version": "0.0.4",
+  "summary": "Auto-detect project root and provide convenient path accessors for data, models, conf, and logs directories",
+  "author": "zxh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "path_cfg_manager-0.0.4-py3-none-any.whl",
+  "download_time": "2026-03-18T07:45:54.512126",
+  "package_url": "https://pypi.org/project/path-cfg-manager/"
+}

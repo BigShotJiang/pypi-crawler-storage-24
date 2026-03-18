@@ -1,0 +1,11 @@
+{
+  "name": "streak-saver",
+  "version": "0.1.10",
+  "summary": "CLI app that automatically messages your friends on the tik tok and saves your streak.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "streak_saver-0.1.10.tar.gz",
+  "download_time": "2026-03-18T07:45:35.366217",
+  "package_url": "https://pypi.org/project/streak-saver/"
+}

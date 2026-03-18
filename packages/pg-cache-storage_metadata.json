@@ -1,0 +1,11 @@
+{
+  "name": "pg-cache-storage",
+  "version": "1.0.5",
+  "summary": "PostgreSQL cache storage for botasaurus.",
+  "author": "Chetan Jain",
+  "license": "MIT",
+  "home_page": "https://github.com/omkarcloud/botasaurus",
+  "download_filename": "pg_cache_storage-1.0.5.tar.gz",
+  "download_time": "2026-03-18T07:45:29.055987",
+  "package_url": "https://pypi.org/project/pg-cache-storage/"
+}

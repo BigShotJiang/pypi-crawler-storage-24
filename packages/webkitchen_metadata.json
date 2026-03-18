@@ -1,0 +1,11 @@
+{
+  "name": "webkitchen",
+  "version": "0.1.1",
+  "summary": "A CLI tool to manage, collaborate, and deploy web projects easily",
+  "author": "Udit N. Khare, Rama Khare, Swara Verma, Apoorv Verma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "webkitchen-0.1.1.tar.gz",
+  "download_time": "2026-03-18T07:45:56.649434",
+  "package_url": "https://pypi.org/project/webkitchen/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "essence-wars",
-  "version": "0.10.2",
+  "version": "0.11.4",
   "summary": "High-performance card game environment",
   "author": "Christian Wissmann",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "essence_wars-0.10.2.tar.gz",
-  "download_time": "2026-03-15T15:28:09.658229",
+  "download_filename": "essence_wars-0.11.4.tar.gz",
+  "download_time": "2026-03-18T07:45:27.211071",
   "package_url": "https://pypi.org/project/essence-wars/"
 }

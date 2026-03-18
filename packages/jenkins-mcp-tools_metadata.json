@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-mcp-tools",
+  "version": "2.0.0",
+  "summary": "Jenkins MCP Server for Cursor IDE - CI/CD Integration with Access Modes and 27+ Tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jenkins_mcp_tools-2.0.0-py3-none-any.whl",
+  "download_time": "2026-03-18T07:46:10.145719",
+  "package_url": "https://pypi.org/project/jenkins-mcp-tools/"
+}

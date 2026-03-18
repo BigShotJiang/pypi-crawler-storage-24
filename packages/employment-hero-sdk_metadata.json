@@ -1,0 +1,11 @@
+{
+  "name": "employment-hero-sdk",
+  "version": "0.1.24",
+  "summary": "Efficiently interact with the Employment Hero/Key Pay API",
+  "author": "duneraccoon",
+  "license": "CC BY-NC 4.0",
+  "home_page": null,
+  "download_filename": "employment_hero_sdk-0.1.24.tar.gz",
+  "download_time": "2026-03-18T07:45:33.647320",
+  "package_url": "https://pypi.org/project/employment-hero-sdk/"
+}

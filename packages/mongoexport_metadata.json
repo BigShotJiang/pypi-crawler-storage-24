@@ -1,0 +1,11 @@
+{
+  "name": "mongoexport",
+  "version": "0.1.2",
+  "summary": "Export data from MongoDB collections with pagination, delays, and retry logic",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mongoexport-0.1.2.tar.gz",
+  "download_time": "2026-03-18T07:46:12.845720",
+  "package_url": "https://pypi.org/project/mongoexport/"
+}

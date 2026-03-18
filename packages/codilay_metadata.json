@@ -1,11 +1,11 @@
 {
   "name": "codilay",
-  "version": "0.1.2",
-  "summary": "AI Agent for Codebase Documentation",
+  "version": "0.1.4",
+  "summary": "AI Agent for Codebase Documentation & Auditing",
   "author": "CodiLay",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codilay-0.1.2.tar.gz",
-  "download_time": "2026-03-17T07:45:30.183657",
+  "download_filename": "codilay-0.1.4.tar.gz",
+  "download_time": "2026-03-18T07:46:13.381132",
   "package_url": "https://pypi.org/project/codilay/"
 }

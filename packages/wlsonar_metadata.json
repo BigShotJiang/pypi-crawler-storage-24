@@ -1,0 +1,11 @@
+{
+  "name": "wlsonar",
+  "version": "0.4.0",
+  "summary": "Python client and Range Image Protocol utilities for Water Linked Sonar 3D-15.",
+  "author": "Water Linked",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wlsonar-0.4.0.tar.gz",
+  "download_time": "2026-03-18T07:46:13.915547",
+  "package_url": "https://pypi.org/project/wlsonar/"
+}

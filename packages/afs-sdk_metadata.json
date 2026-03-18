@@ -1,11 +1,11 @@
 {
   "name": "afs-sdk",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Asyncio grpclib SDK for afs_proxy/afslet",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "afs_sdk-0.2.2.tar.gz",
-  "download_time": "2026-03-17T08:34:09.366015",
+  "download_filename": "afs_sdk-0.2.4.tar.gz",
+  "download_time": "2026-03-18T07:45:52.341954",
   "package_url": "https://pypi.org/project/afs-sdk/"
 }

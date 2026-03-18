@@ -1,0 +1,11 @@
+{
+  "name": "x-api-rs",
+  "version": "1.0.4",
+  "summary": "Twitter/X API 客户端库 (Rust 实现, 提供 Python 绑定)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "x_api_rs-1.0.4-cp38-abi3-macosx_10_13_x86_64.macosx_11_0_arm64.macosx_10_13_universal2.whl",
+  "download_time": "2026-03-18T07:46:15.078860",
+  "package_url": "https://pypi.org/project/x-api-rs/"
+}

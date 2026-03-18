@@ -1,0 +1,11 @@
+{
+  "name": "anakin-cli",
+  "version": "0.2.0",
+  "summary": "CLI for Anakin.io web scraping, search, and research API",
+  "author": "Anakin.io",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anakin_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-18T07:45:53.411675",
+  "package_url": "https://pypi.org/project/anakin-cli/"
+}

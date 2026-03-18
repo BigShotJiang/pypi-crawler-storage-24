@@ -1,11 +1,11 @@
 {
   "name": "pydiffbmp",
-  "version": "0.1.0",
-  "summary": "DiffBMP: Fast Differentiable Painting with Any Image Primitives",
+  "version": "0.1.3",
+  "summary": "DiffBMP: Differentiable Rendering with Bitmap Primitives",
   "author": "DiffBMP Team",
   "license": "MIT",
   "home_page": "https://github.com/smhongok/diffbmp",
-  "download_filename": "pydiffbmp-0.1.0.tar.gz",
-  "download_time": "2026-03-18T06:48:57.694416",
+  "download_filename": "pydiffbmp-0.1.3.tar.gz",
+  "download_time": "2026-03-18T07:45:35.935390",
   "package_url": "https://pypi.org/project/pydiffbmp/"
 }

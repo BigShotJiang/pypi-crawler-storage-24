@@ -1,11 +1,11 @@
 {
   "name": "adctoolbox",
-  "version": "0.6.0",
+  "version": "0.6.3",
   "summary": "ADC Testing and Analysis Toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adctoolbox-0.6.0.tar.gz",
-  "download_time": "2026-03-18T06:48:26.806959",
+  "download_filename": "adctoolbox-0.6.3.tar.gz",
+  "download_time": "2026-03-18T07:46:04.175085",
   "package_url": "https://pypi.org/project/adctoolbox/"
 }

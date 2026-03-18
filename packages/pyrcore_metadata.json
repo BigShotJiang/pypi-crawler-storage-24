@@ -1,0 +1,11 @@
+{
+  "name": "pyrcore",
+  "version": "0.0.2",
+  "summary": "Creates an R core for Python",
+  "author": "Ricardo Werner Rivas",
+  "license": "MIT",
+  "home_page": "https://github.com/Ricardo-Werner-Rivas/pyrcore/tree/PyPI",
+  "download_filename": "pyrcore-0.0.2.tar.gz",
+  "download_time": "2026-03-18T07:46:10.681427",
+  "package_url": "https://pypi.org/project/pyrcore/"
+}
