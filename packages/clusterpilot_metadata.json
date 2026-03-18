@@ -1,0 +1,11 @@
+{
+  "name": "clusterpilot",
+  "version": "0.1.1",
+  "summary": "AI-assisted HPC workflow manager for SLURM clusters",
+  "author": "Julia Frank",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clusterpilot-0.1.1.tar.gz",
+  "download_time": "2026-03-18T17:22:03.582951",
+  "package_url": "https://pypi.org/project/clusterpilot/"
+}

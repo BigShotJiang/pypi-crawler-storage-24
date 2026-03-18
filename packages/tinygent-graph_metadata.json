@@ -1,11 +1,11 @@
 {
   "name": "tinygent-graph",
-  "version": "0.1.1011",
+  "version": "0.1.1012",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tinygent_graph-0.1.1011.tar.gz",
-  "download_time": "2026-03-15T16:58:42.623453",
+  "download_filename": "tinygent_graph-0.1.1012.tar.gz",
+  "download_time": "2026-03-18T17:21:36.717963",
   "package_url": "https://pypi.org/project/tinygent-graph/"
 }

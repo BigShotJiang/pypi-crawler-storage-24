@@ -1,0 +1,11 @@
+{
+  "name": "pyferox",
+  "version": "0.0.2",
+  "summary": "Transport-agnostic, async-first modular service application framework.",
+  "author": "PyFerOx Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyferox-0.0.2.tar.gz",
+  "download_time": "2026-03-18T17:21:32.105719",
+  "package_url": "https://pypi.org/project/pyferox/"
+}

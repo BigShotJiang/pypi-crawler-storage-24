@@ -1,11 +1,11 @@
 {
   "name": "karrio-server-pricing",
-  "version": "2026.1.22",
+  "version": "2026.1.24",
   "summary": "Multi-carrier shipping API Pricing panel",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_server_pricing-2026.1.22-py3-none-any.whl",
-  "download_time": "2026-03-17T22:27:23.323869",
+  "download_filename": "karrio_server_pricing-2026.1.24-py3-none-any.whl",
+  "download_time": "2026-03-18T17:21:48.051289",
   "package_url": "https://pypi.org/project/karrio-server-pricing/"
 }

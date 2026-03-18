@@ -1,11 +1,11 @@
 {
   "name": "karrio-shipengine",
-  "version": "2026.1.22",
+  "version": "2026.1.24",
   "summary": "Karrio - ShipEngine Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_shipengine-2026.1.22-py3-none-any.whl",
-  "download_time": "2026-03-17T22:27:22.297689",
+  "download_filename": "karrio_shipengine-2026.1.24-py3-none-any.whl",
+  "download_time": "2026-03-18T17:21:47.022444",
   "package_url": "https://pypi.org/project/karrio-shipengine/"
 }

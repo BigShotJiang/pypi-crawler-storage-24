@@ -1,0 +1,11 @@
+{
+  "name": "simplipy",
+  "version": "0.2.14",
+  "summary": "Efficient Simplification of Mathematical Expressions",
+  "author": "Paul Saegert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simplipy-0.2.14.tar.gz",
+  "download_time": "2026-03-18T17:21:28.993164",
+  "package_url": "https://pypi.org/project/simplipy/"
+}

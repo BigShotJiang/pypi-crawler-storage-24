@@ -1,11 +1,11 @@
 {
   "name": "karrio-mydhl",
-  "version": "2026.1.22",
+  "version": "2026.1.24",
   "summary": "Karrio - MyDHL Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_mydhl-2026.1.22-py3-none-any.whl",
-  "download_time": "2026-03-17T22:27:33.982081",
+  "download_filename": "karrio_mydhl-2026.1.24-py3-none-any.whl",
+  "download_time": "2026-03-18T17:21:57.898654",
   "package_url": "https://pypi.org/project/karrio-mydhl/"
 }
