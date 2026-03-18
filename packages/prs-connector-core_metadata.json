@@ -1,0 +1,11 @@
+{
+  "name": "prs-connector-core",
+  "version": "0.10.1",
+  "summary": "Базовый модуль для коннекторов платформы Пересвет",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "prs_connector_core-0.10.1.tar.gz",
+  "download_time": "2026-03-18T11:32:01.333955",
+  "package_url": "https://pypi.org/project/prs-connector-core/"
+}

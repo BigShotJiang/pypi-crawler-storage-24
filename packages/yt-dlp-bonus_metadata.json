@@ -1,0 +1,11 @@
+{
+  "name": "yt-dlp-bonus",
+  "version": "0.2.8",
+  "summary": "An extension of yt-dlp targeting YoutubeDL with pydantic support.",
+  "author": "Smartwa",
+  "license": "The Unlicense",
+  "home_page": "https://github.com/Simatwa/yt-dlp-bonus",
+  "download_filename": "yt_dlp_bonus-0.2.8.tar.gz",
+  "download_time": "2026-03-18T11:32:08.611207",
+  "package_url": "https://pypi.org/project/yt-dlp-bonus/"
+}

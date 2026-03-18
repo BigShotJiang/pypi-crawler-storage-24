@@ -1,0 +1,11 @@
+{
+  "name": "sqlfactory",
+  "version": "1.19.0",
+  "summary": "Convenient classes for building SQL queries in Python. Main purpose of this library is to ease construction of SQL queries in Python code. It is not an ORM (and don't intend to be), just a plain SQL query builder with syntax as similar to actual SQL as possible.",
+  "author": "Michal Kuchta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlfactory-1.19.0.tar.gz",
+  "download_time": "2026-03-18T11:32:21.590595",
+  "package_url": "https://pypi.org/project/sqlfactory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sprintsolo-sally-db-client",
+  "version": "0.1.133",
+  "summary": "Prisma Python client for organization services (generated in central repo)",
+  "author": null,
+  "license": "UNLICENSED",
+  "home_page": null,
+  "download_filename": "sprintsolo_sally_db_client-0.1.133.tar.gz",
+  "download_time": "2026-03-18T11:32:52.531941",
+  "package_url": "https://pypi.org/project/sprintsolo-sally-db-client/"
+}

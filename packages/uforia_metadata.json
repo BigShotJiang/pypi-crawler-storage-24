@@ -1,11 +1,11 @@
 {
   "name": "uforia",
-  "version": "0.1.0.dev19",
+  "version": "0.1.0.dev22",
   "summary": "Research-first trading platform with BTC VVIX analytics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uforia-0.1.0.dev19.tar.gz",
-  "download_time": "2026-03-18T09:33:01.922821",
+  "download_filename": "uforia-0.1.0.dev22.tar.gz",
+  "download_time": "2026-03-18T11:32:07.336063",
   "package_url": "https://pypi.org/project/uforia/"
 }

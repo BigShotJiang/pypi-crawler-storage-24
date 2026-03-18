@@ -1,0 +1,11 @@
+{
+  "name": "PySuperTuxKart2",
+  "version": "0.7.0",
+  "summary": "Python bindings for SuperTuxKart",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysupertuxkart2-0.7.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-03-18T11:32:46.481546",
+  "package_url": "https://pypi.org/project/PySuperTuxKart2/"
+}

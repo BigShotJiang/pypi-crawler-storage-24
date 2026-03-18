@@ -1,0 +1,11 @@
+{
+  "name": "xuanwo-xurl",
+  "version": "0.0.23",
+  "summary": "Locate and read local code-agent thread files",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Xuanwo/xurl",
+  "download_filename": "xuanwo_xurl-0.0.23-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-18T11:32:31.989825",
+  "package_url": "https://pypi.org/project/xuanwo-xurl/"
+}

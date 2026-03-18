@@ -1,11 +1,11 @@
 {
   "name": "cobweb-py",
-  "version": "0.1.3",
-  "summary": "Python SDK for the CobwebSim stock simulation and backtesting API. Compute 71 technical features, run backtests with realistic execution modeling, and generate 27 plot types.",
+  "version": "0.3.1",
+  "summary": "Python SDK for the CobwebSim stock simulation and backtesting API. Compute 71 technical features, run backtests with realistic execution modeling, generate 27 plot types, and deploy strategies to Alpaca.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cobweb_py-0.1.3.tar.gz",
-  "download_time": "2026-03-11T11:40:46.638347",
+  "download_filename": "cobweb_py-0.3.1.tar.gz",
+  "download_time": "2026-03-18T11:32:11.054695",
   "package_url": "https://pypi.org/project/cobweb-py/"
 }

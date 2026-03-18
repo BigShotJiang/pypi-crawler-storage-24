@@ -1,0 +1,11 @@
+{
+  "name": "tutor-contrib-branding",
+  "version": "20.0.0",
+  "summary": "Tutor plugin that simplifies branding an Open edX instance",
+  "author": "Aulasneo",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/aulasneo/tutor-contrib-branding",
+  "download_filename": "tutor_contrib_branding-20.0.0.tar.gz",
+  "download_time": "2026-03-18T11:32:29.834030",
+  "package_url": "https://pypi.org/project/tutor-contrib-branding/"
+}

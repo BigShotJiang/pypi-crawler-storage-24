@@ -1,0 +1,11 @@
+{
+  "name": "biocypher",
+  "version": "0.13.0",
+  "summary": "A unifying framework for biomedical research knowledge graphs",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "biocypher-0.13.0.tar.gz",
+  "download_time": "2026-03-18T11:32:06.027024",
+  "package_url": "https://pypi.org/project/biocypher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tutor-contrib-let",
+  "version": "20.0.0",
+  "summary": "Tutor plugin to simplify the configuration of Open edX settings.",
+  "author": "Andrés González",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/aulasneo/tutor-contrib-let",
+  "download_filename": "tutor_contrib_let-20.0.0.tar.gz",
+  "download_time": "2026-03-18T11:32:53.808354",
+  "package_url": "https://pypi.org/project/tutor-contrib-let/"
+}

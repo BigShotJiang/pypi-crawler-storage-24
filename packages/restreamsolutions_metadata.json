@@ -1,0 +1,11 @@
+{
+  "name": "restreamsolutions",
+  "version": "0.4.0",
+  "summary": "ReStream Datastore SDK",
+  "author": "Steven Brotherton",
+  "license": null,
+  "home_page": "https://restreamsolutions.com/",
+  "download_filename": "restreamsolutions-0.4.0-py3-none-any.whl",
+  "download_time": "2026-03-18T11:32:42.615223",
+  "package_url": "https://pypi.org/project/restreamsolutions/"
+}
