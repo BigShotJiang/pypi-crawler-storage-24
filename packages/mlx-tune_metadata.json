@@ -1,11 +1,11 @@
 {
   "name": "mlx-tune",
-  "version": "0.4.3",
+  "version": "0.4.5",
   "summary": "MLX-powered LLM fine-tuning for Apple Silicon - Unsloth-compatible API for Mac",
   "author": "MLX-Tune Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mlx_tune-0.4.3.tar.gz",
-  "download_time": "2026-03-13T14:42:10.130956",
+  "download_filename": "mlx_tune-0.4.5.tar.gz",
+  "download_time": "2026-03-18T23:07:40.150170",
   "package_url": "https://pypi.org/project/mlx-tune/"
 }

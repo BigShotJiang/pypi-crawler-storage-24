@@ -1,0 +1,11 @@
+{
+  "name": "text-digest",
+  "version": "0.1.0",
+  "summary": "Convert long texts into styled digests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "text_digest-0.1.0.tar.gz",
+  "download_time": "2026-03-18T23:07:37.918235",
+  "package_url": "https://pypi.org/project/text-digest/"
+}

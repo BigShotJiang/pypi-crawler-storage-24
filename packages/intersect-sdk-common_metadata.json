@@ -1,0 +1,11 @@
+{
+  "name": "intersect-sdk-common",
+  "version": "0.9.3",
+  "summary": "Python SDK to interact with INTERSECT",
+  "author": "Lance Drane, Marshall McDonnell, Seth Hitefield, Andrew Ayres, Gregory Cage, Jesse McGaha, Robert Smith, Gavin Wiggins, Michael Brim, Rick Archibald, Addi Malviya Thakur",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "intersect_sdk_common-0.9.3.tar.gz",
+  "download_time": "2026-03-18T23:07:04.902474",
+  "package_url": "https://pypi.org/project/intersect-sdk-common/"
+}

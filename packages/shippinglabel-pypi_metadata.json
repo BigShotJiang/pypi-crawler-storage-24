@@ -1,0 +1,11 @@
+{
+  "name": "shippinglabel-pypi",
+  "version": "0.3.0",
+  "summary": "Shippinglabel extension for interacting with PyPI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/domdfcoding/shippinglabel-pypi",
+  "download_filename": "shippinglabel_pypi-0.3.0.tar.gz",
+  "download_time": "2026-03-18T23:07:14.407767",
+  "package_url": "https://pypi.org/project/shippinglabel-pypi/"
+}

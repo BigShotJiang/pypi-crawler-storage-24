@@ -1,0 +1,11 @@
+{
+  "name": "trytond-product-attribute",
+  "version": "7.8.0",
+  "summary": "Tryton module with product attributes",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_product_attribute-7.8.0.tar.gz",
+  "download_time": "2026-03-18T23:07:09.119150",
+  "package_url": "https://pypi.org/project/trytond-product-attribute/"
+}

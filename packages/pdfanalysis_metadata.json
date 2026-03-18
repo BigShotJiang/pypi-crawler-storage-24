@@ -1,11 +1,11 @@
 {
   "name": "pdfanalysis",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Automated PDF structure analysis for nanoparticles",
   "author": "Nicolas Ratel-Ramond",
   "license": "MIT",
   "home_page": "https://github.com/nicoratel/pdfanalysis",
-  "download_filename": "pdfanalysis-0.1.2.tar.gz",
-  "download_time": "2026-03-18T22:54:00.656431",
+  "download_filename": "pdfanalysis-0.1.4.tar.gz",
+  "download_time": "2026-03-18T23:07:10.263817",
   "package_url": "https://pypi.org/project/pdfanalysis/"
 }

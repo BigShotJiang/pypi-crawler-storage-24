@@ -1,0 +1,11 @@
+{
+  "name": "ascii-maker",
+  "version": "1.0.0",
+  "summary": "Full-featured ASCII art designer — text banners, art browser, boxes, charts, mermaid templates, README generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ascii_maker-1.0.0.tar.gz",
+  "download_time": "2026-03-18T23:07:18.740560",
+  "package_url": "https://pypi.org/project/ascii-maker/"
+}
