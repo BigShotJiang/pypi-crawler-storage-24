@@ -1,0 +1,11 @@
+{
+  "name": "stlflib",
+  "version": "1.0.12",
+  "summary": "Short-Term Forecasting of Regional Electrical Load Based on CatBoost Model",
+  "author": "caapel",
+  "license": "KSPEU License",
+  "home_page": "https://github.com/caapel/ForecastPowerEnergy",
+  "download_filename": "stlflib-1.0.12.tar.gz",
+  "download_time": "2026-03-19T11:05:33.414639",
+  "package_url": "https://pypi.org/project/stlflib/"
+}

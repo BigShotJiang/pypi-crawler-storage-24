@@ -1,11 +1,11 @@
 {
   "name": "astra-core-engine",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "summary": "Autonomous Space Traffic Risk Analyzer - Computation Engine",
   "author": "ASTRA Team - Ishan Tare",
   "license": null,
   "home_page": null,
-  "download_filename": "astra_core_engine-1.0.1.tar.gz",
-  "download_time": "2026-03-18T22:01:12.880386",
+  "download_filename": "astra_core_engine-2.0.0.tar.gz",
+  "download_time": "2026-03-19T11:05:38.062365",
   "package_url": "https://pypi.org/project/astra-core-engine/"
 }

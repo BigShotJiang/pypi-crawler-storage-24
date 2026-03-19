@@ -1,11 +1,11 @@
 {
   "name": "healpix-resample",
-  "version": "0.0.0",
+  "version": "0.1.4",
   "summary": "Sparse GPU-enabled regridding from lon/lat to HEALPix",
   "author": "Jean-Marc Delouis, Tina Odaka",
   "license": null,
   "home_page": null,
-  "download_filename": "healpix_resample-0.0.0.tar.gz",
-  "download_time": "2026-03-17T21:40:13.202042",
+  "download_filename": "healpix_resample-0.1.4.tar.gz",
+  "download_time": "2026-03-19T11:05:15.092834",
   "package_url": "https://pypi.org/project/healpix-resample/"
 }

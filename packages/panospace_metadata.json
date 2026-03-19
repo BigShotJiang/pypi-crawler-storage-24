@@ -1,0 +1,11 @@
+{
+  "name": "panospace",
+  "version": "0.1.4",
+  "summary": "High-resolution spatial transcriptomics analysis toolkit",
+  "author": "Hui-Feng He",
+  "license": "MIT",
+  "home_page": "https://github.com/hehuifeng/PanoSpace-core",
+  "download_filename": "panospace-0.1.4.tar.gz",
+  "download_time": "2026-03-19T11:05:37.551643",
+  "package_url": "https://pypi.org/project/panospace/"
+}

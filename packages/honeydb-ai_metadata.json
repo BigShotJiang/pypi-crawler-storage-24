@@ -1,11 +1,11 @@
 {
   "name": "honeydb-ai",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "HoneyDB AI Interface with HoneyDB MCP Server",
   "author": null,
   "license": "Proprietary License\n        \n        Copyright (c) 2024–2026 Deception Logic. All Rights Reserved.\n        \n        This software and associated documentation files (the \"Software\") are the \n        proprietary and confidential property of Deception Logic.\n        \n        NOTICE: All information contained herein is, and remains the property of \n        Deception Logic. The intellectual and technical concepts contained herein \n        are proprietary to Deception Logic and may be covered by U.S. and Foreign \n        Patents, patents in process, and are protected by trade secret or copyright law.\n        \n        Dissemination of this information or reproduction of this material is strictly \n        forbidden unless prior written permission is obtained from Deception Logic.\n        \n        Unauthorized copying of this file, via any medium, is strictly prohibited.\n        \n        For licensing inquiries, please contact: info@deceptionlogic.com\n        ",
   "home_page": null,
-  "download_filename": "honeydb_ai-0.2.6.tar.gz",
-  "download_time": "2026-03-18T21:24:00.675643",
+  "download_filename": "honeydb_ai-0.2.7.tar.gz",
+  "download_time": "2026-03-19T11:05:18.819733",
   "package_url": "https://pypi.org/project/honeydb-ai/"
 }

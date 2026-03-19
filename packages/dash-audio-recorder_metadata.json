@@ -1,11 +1,11 @@
 {
   "name": "dash-audio-recorder",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Dash Audio Recorder Component",
   "author": "Tuomas Poukkula <tajpou@gmail.com>",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dash_audio_recorder-0.0.3.tar.gz",
-  "download_time": "2026-03-07T09:50:24.544285",
+  "download_filename": "dash_audio_recorder-0.0.4.tar.gz",
+  "download_time": "2026-03-19T11:05:51.588782",
   "package_url": "https://pypi.org/project/dash-audio-recorder/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "datadog-checks-base",
+  "version": "37.32.0",
+  "summary": "The Datadog Check Toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datadog_checks_base-37.32.0-py2.py3-none-any.whl",
+  "download_time": "2026-03-19T11:05:23.092537",
+  "package_url": "https://pypi.org/project/datadog-checks-base/"
+}

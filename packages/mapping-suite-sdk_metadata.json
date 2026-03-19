@@ -1,0 +1,11 @@
+{
+  "name": "mapping-suite-sdk",
+  "version": "1.0.0",
+  "summary": "Software development kit for XML-RML mapping rules packaging",
+  "author": "meaningfy.ws",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mapping_suite_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-19T11:05:48.506681",
+  "package_url": "https://pypi.org/project/mapping-suite-sdk/"
+}

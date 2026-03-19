@@ -1,11 +1,11 @@
 {
   "name": "onnx2tf",
-  "version": "2.3.9",
-  "summary": "Self-Created Tools to convert ONNX files (NCHW) to TensorFlow/TFLite/Keras format (NHWC). The purpose of this tool is to solve the massive Transpose extrapolation problem in onnx-tensorflow (onnx-tf).",
+  "version": "2.3.12",
+  "summary": "A tool for converting ONNX files to LiteRT/TFLite/TensorFlow, PyTorch native code (nn.Module), TorchScript (.pt), state_dict (.pt), Exported Program (.pt2), and Dynamo ONNX. It also supports direct conversion from LiteRT to PyTorch.",
   "author": "Katsuya Hyodo",
   "license": null,
   "home_page": null,
-  "download_filename": "onnx2tf-2.3.9.tar.gz",
-  "download_time": "2026-03-15T05:54:29.608992",
+  "download_filename": "onnx2tf-2.3.12.tar.gz",
+  "download_time": "2026-03-19T11:05:40.644802",
   "package_url": "https://pypi.org/project/onnx2tf/"
 }

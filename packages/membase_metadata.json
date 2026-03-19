@@ -1,0 +1,11 @@
+{
+  "name": "membase",
+  "version": "0.0.2",
+  "summary": "A fast, ergonomic workspace in the cloud for AI agents — backed by Hugging Face Storage Buckets.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "membase-0.0.2.tar.gz",
+  "download_time": "2026-03-19T11:05:33.928173",
+  "package_url": "https://pypi.org/project/membase/"
+}
