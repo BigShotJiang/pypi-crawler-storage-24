@@ -1,0 +1,11 @@
+{
+  "name": "xai-sdk",
+  "version": "1.9.1",
+  "summary": "The official Python SDK for the xAI API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xai_sdk-1.9.1.tar.gz",
+  "download_time": "2026-03-19T22:59:23.817699",
+  "package_url": "https://pypi.org/project/xai-sdk/"
+}

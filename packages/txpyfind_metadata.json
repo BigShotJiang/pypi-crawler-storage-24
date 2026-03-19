@@ -1,11 +1,11 @@
 {
   "name": "txpyfind",
-  "version": "1.2.5",
+  "version": "1.2.8",
   "summary": "enables Pythonic access to data exports from TYPO3-find",
   "author": "Donatus Herre",
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "txpyfind-1.2.5.tar.gz",
-  "download_time": "2026-03-19T12:57:19.918170",
+  "download_filename": "txpyfind-1.2.8.tar.gz",
+  "download_time": "2026-03-19T22:59:24.978611",
   "package_url": "https://pypi.org/project/txpyfind/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "supereval",
+  "version": "0.1.0",
+  "summary": "LLM and Agent evaluation dataset registry and tooling",
+  "author": "satchpx",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "supereval-0.1.0.tar.gz",
+  "download_time": "2026-03-19T23:00:05.856485",
+  "package_url": "https://pypi.org/project/supereval/"
+}

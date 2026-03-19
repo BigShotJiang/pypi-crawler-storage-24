@@ -1,0 +1,11 @@
+{
+  "name": "varpulis-agent-runtime",
+  "version": "0.2.0",
+  "summary": "Real-time behavioral guardrails for AI agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "varpulis_agent_runtime-0.2.0.tar.gz",
+  "download_time": "2026-03-19T22:59:56.003129",
+  "package_url": "https://pypi.org/project/varpulis-agent-runtime/"
+}

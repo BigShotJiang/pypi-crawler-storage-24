@@ -1,11 +1,11 @@
 {
   "name": "deployless",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Compile Flask/FastAPI apps to AWS SAM serverless",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deployless-0.1.0.tar.gz",
-  "download_time": "2026-03-19T02:47:36.064383",
+  "download_filename": "deployless-0.1.2.tar.gz",
+  "download_time": "2026-03-19T23:00:11.350300",
   "package_url": "https://pypi.org/project/deployless/"
 }

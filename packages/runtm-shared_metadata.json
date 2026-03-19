@@ -1,0 +1,11 @@
+{
+  "name": "runtm-shared",
+  "version": "0.2.4",
+  "summary": "Canonical contracts for Runtm: manifest schema, types, errors",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "runtm_shared-0.2.4.tar.gz",
+  "download_time": "2026-03-19T23:00:06.402627",
+  "package_url": "https://pypi.org/project/runtm-shared/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clearml-agent",
+  "version": "2.0.7",
+  "summary": "ClearML Agent - Auto-Magical DevOps for Deep Learning",
+  "author": "clearml",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/clearml/clearml-agent",
+  "download_filename": "clearml_agent-2.0.7-py3-none-any.whl",
+  "download_time": "2026-03-19T23:00:05.310251",
+  "package_url": "https://pypi.org/project/clearml-agent/"
+}

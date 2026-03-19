@@ -1,11 +1,11 @@
 {
   "name": "pollyweb-cli",
-  "version": "0.1.188",
+  "version": "0.1.193",
   "summary": "Command line wallet tooling built on the pollyweb library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pollyweb_cli-0.1.188.tar.gz",
-  "download_time": "2026-03-19T15:10:29.959887",
+  "download_filename": "pollyweb_cli-0.1.193.tar.gz",
+  "download_time": "2026-03-19T22:59:36.224904",
   "package_url": "https://pypi.org/project/pollyweb-cli/"
 }

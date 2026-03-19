@@ -1,0 +1,11 @@
+{
+  "name": "wdata-client",
+  "version": "1.0.1",
+  "summary": "Wdata API",
+  "author": "Workiva Inc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wdata_client-1.0.1.tar.gz",
+  "download_time": "2026-03-19T22:59:58.714997",
+  "package_url": "https://pypi.org/project/wdata-client/"
+}

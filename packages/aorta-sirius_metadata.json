@@ -1,11 +1,11 @@
 {
   "name": "aorta-sirius",
-  "version": "0.90",
+  "version": "0.96",
   "summary": null,
   "author": "Kavindu Athaudha",
   "license": null,
   "home_page": "https://github.com/kontinuum-investments/Aorta-Sirius",
-  "download_filename": "aorta_sirius-0.90.tar.gz",
-  "download_time": "2026-03-18T04:24:35.928381",
+  "download_filename": "aorta_sirius-0.96.tar.gz",
+  "download_time": "2026-03-19T22:59:47.885957",
   "package_url": "https://pypi.org/project/aorta-sirius/"
 }

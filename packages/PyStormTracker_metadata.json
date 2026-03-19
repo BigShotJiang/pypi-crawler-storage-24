@@ -1,11 +1,11 @@
 {
   "name": "PyStormTracker",
-  "version": "0.3.2",
-  "summary": "A Parallel Object-Oriented Cyclone Tracker in Python",
+  "version": "0.4.2",
+  "summary": "A High-Performance Cyclone Tracker in Python",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "pystormtracker-0.3.2.tar.gz",
-  "download_time": "2026-03-10T03:40:54.166788",
+  "download_filename": "pystormtracker-0.4.2.tar.gz",
+  "download_time": "2026-03-19T22:59:46.712448",
   "package_url": "https://pypi.org/project/PyStormTracker/"
 }
