@@ -1,11 +1,11 @@
 {
   "name": "smrti",
-  "version": "0.4.6",
+  "version": "0.6.3",
   "summary": "AtomSpace-inspired memory + personality engine for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smrti-0.4.6.tar.gz",
-  "download_time": "2026-03-17T23:41:25.389351",
+  "download_filename": "smrti-0.6.3.tar.gz",
+  "download_time": "2026-03-19T14:10:25.085784",
   "package_url": "https://pypi.org/project/smrti/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "apfio",
+  "version": "0.0.1",
+  "summary": "Apfio packs files into one",
+  "author": "Gereon Fox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apfio-0.0.1.tar.gz",
+  "download_time": "2026-03-19T14:10:06.215948",
+  "package_url": "https://pypi.org/project/apfio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fs-image",
+  "version": "18.0.1.0.0.4",
+  "summary": "Field to store images into filesystem storages",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/storage",
+  "download_filename": "odoo_addon_fs_image-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-03-19T14:10:21.444023",
+  "package_url": "https://pypi.org/project/odoo-addon-fs-image/"
+}

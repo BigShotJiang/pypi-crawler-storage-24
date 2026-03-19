@@ -1,0 +1,11 @@
+{
+  "name": "pkaraptor",
+  "version": "0.1.0",
+  "summary": "Protein pKa and environment analysis with an interactive HTML dashboard",
+  "author": "Joana Ribeiro da Silva",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pkaraptor-0.1.0.tar.gz",
+  "download_time": "2026-03-19T14:10:19.355505",
+  "package_url": "https://pypi.org/project/pkaraptor/"
+}

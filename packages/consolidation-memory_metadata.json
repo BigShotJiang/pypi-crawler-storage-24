@@ -1,11 +1,11 @@
 {
   "name": "consolidation-memory",
-  "version": "0.13.5",
-  "summary": "Local-first persistent memory for AI agents - store, recall, and consolidate knowledge across sessions using FAISS, SQLite, and any LLM",
+  "version": "0.14.0",
+  "summary": "Trust-calibrated working memory for coding agents with provenance, drift awareness, and scoped sharing",
   "author": "Charlie Wright",
   "license": null,
   "home_page": null,
-  "download_filename": "consolidation_memory-0.13.5.tar.gz",
-  "download_time": "2026-03-08T11:17:03.266989",
+  "download_filename": "consolidation_memory-0.14.0.tar.gz",
+  "download_time": "2026-03-19T14:10:15.169926",
   "package_url": "https://pypi.org/project/consolidation-memory/"
 }

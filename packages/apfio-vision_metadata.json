@@ -1,0 +1,11 @@
+{
+  "name": "apfio-vision",
+  "version": "0.0.1",
+  "summary": "This package adds convenience procedures for computer vision applications to apfio.",
+  "author": "Gereon Fox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apfio_vision-0.0.1.tar.gz",
+  "download_time": "2026-03-19T14:10:05.174857",
+  "package_url": "https://pypi.org/project/apfio-vision/"
+}
