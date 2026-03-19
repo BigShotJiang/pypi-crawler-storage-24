@@ -1,0 +1,11 @@
+{
+  "name": "mcp-bitbucket-dc",
+  "version": "0.6.0",
+  "summary": "MCP server for Bitbucket Data Center — code search, file browsing, PRs, commits, and more.",
+  "author": "Christopher Ekfeldt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_bitbucket_dc-0.6.0.tar.gz",
+  "download_time": "2026-03-19T12:57:05.382181",
+  "package_url": "https://pypi.org/project/mcp-bitbucket-dc/"
+}

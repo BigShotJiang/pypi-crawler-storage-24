@@ -1,0 +1,11 @@
+{
+  "name": "codex-telegram",
+  "version": "0.4.0",
+  "summary": "Bridge for controlling the Codex App Server from Telegram and Web UI",
+  "author": "heungtae",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codex_telegram-0.4.0.tar.gz",
+  "download_time": "2026-03-19T12:57:06.936580",
+  "package_url": "https://pypi.org/project/codex-telegram/"
+}

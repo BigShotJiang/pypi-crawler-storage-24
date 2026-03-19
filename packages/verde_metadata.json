@@ -1,0 +1,11 @@
+{
+  "name": "verde",
+  "version": "1.9.0",
+  "summary": "Processing and gridding spatial data, machine-learning style",
+  "author": "The Verde Developers",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/fatiando/verde",
+  "download_filename": "verde-1.9.0.tar.gz",
+  "download_time": "2026-03-19T12:57:08.466294",
+  "package_url": "https://pypi.org/project/verde/"
+}

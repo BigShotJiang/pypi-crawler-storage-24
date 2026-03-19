@@ -1,0 +1,11 @@
+{
+  "name": "sdm-pycli",
+  "version": "0.1.0",
+  "summary": "A fast, lightweight, and reliable CLI tool to download and sync Spotify playlists, albums, and tracks.",
+  "author": "Hack Club Flavortown Shipper",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sdm_pycli-0.1.0.tar.gz",
+  "download_time": "2026-03-19T12:57:24.544649",
+  "package_url": "https://pypi.org/project/sdm-pycli/"
+}

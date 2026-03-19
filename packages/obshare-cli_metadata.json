@@ -1,11 +1,11 @@
 {
   "name": "obshare-cli",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "CLI tool for uploading Obsidian Markdown documents to Feishu cloud documents",
   "author": "SuShuHeng",
   "license": "MIT",
   "home_page": "https://github.com/SuShuHeng/obshare-cli",
-  "download_filename": "obshare_cli-0.1.6.tar.gz",
-  "download_time": "2026-03-18T08:33:50.614854",
+  "download_filename": "obshare_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-19T12:56:50.305568",
   "package_url": "https://pypi.org/project/obshare-cli/"
 }

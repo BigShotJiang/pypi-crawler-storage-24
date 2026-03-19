@@ -1,0 +1,11 @@
+{
+  "name": "agentyper",
+  "version": "0.1.6",
+  "summary": "Agent-first Python CLI library — Typer-compatible, built on argparse + pydantic",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentyper-0.1.6.tar.gz",
+  "download_time": "2026-03-19T12:57:07.446765",
+  "package_url": "https://pypi.org/project/agentyper/"
+}

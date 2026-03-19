@@ -1,11 +1,11 @@
 {
   "name": "agentic-devtools",
-  "version": "0.2.33",
+  "version": "0.2.37",
   "summary": "AI assistant helper commands for the Dragonfly platform",
   "author": "Dragonfly Team",
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_devtools-0.2.33.tar.gz",
-  "download_time": "2026-03-17T23:41:37.741715",
+  "download_filename": "agentic_devtools-0.2.37.tar.gz",
+  "download_time": "2026-03-19T12:57:27.116037",
   "package_url": "https://pypi.org/project/agentic-devtools/"
 }

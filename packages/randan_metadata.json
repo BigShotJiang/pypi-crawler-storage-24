@@ -1,11 +1,11 @@
 {
   "name": "randan",
-  "version": "1.5.10",
+  "version": "1.5.11",
   "summary": "A python package for gaining social and financial data and their analysis",
   "author": "Aleksei Rotmistrov, Svetlana Zhuchkova",
   "license": "MIT",
   "home_page": "https://github.com/RandanCSS/randan",
-  "download_filename": "randan-1.5.10.tar.gz",
-  "download_time": "2026-03-12T23:24:18.716421",
+  "download_filename": "randan-1.5.11.tar.gz",
+  "download_time": "2026-03-19T12:57:01.715622",
   "package_url": "https://pypi.org/project/randan/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "enumagic",
+  "version": "0.2.3",
+  "summary": "Enums infused with magic.",
+  "author": "ObserverOfTime",
+  "license": "Zlib",
+  "home_page": "https://github.com/ObserverOfTime/enumagic.py",
+  "download_filename": "enumagic-0.2.3.tar.gz",
+  "download_time": "2026-03-19T12:57:20.943797",
+  "package_url": "https://pypi.org/project/enumagic/"
+}

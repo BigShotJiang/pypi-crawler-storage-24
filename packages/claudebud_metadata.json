@@ -1,0 +1,11 @@
+{
+  "name": "claudebud",
+  "version": "0.1.3",
+  "summary": "Monitor and control Claude Code CLI sessions from your phone",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claudebud-0.1.3.tar.gz",
+  "download_time": "2026-03-19T12:57:05.911822",
+  "package_url": "https://pypi.org/project/claudebud/"
+}

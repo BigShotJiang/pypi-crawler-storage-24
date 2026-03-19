@@ -1,11 +1,11 @@
 {
   "name": "pgqueuer",
-  "version": "0.26.1",
+  "version": "0.26.2",
   "summary": "Pgqueuer is a Python library leveraging PostgreSQL for efficient job queuing.",
   "author": "JeyBee",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "pgqueuer-0.26.1.tar.gz",
-  "download_time": "2026-03-12T21:52:42.720338",
+  "download_filename": "pgqueuer-0.26.2.tar.gz",
+  "download_time": "2026-03-19T12:57:15.233931",
   "package_url": "https://pypi.org/project/pgqueuer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "delfinance-api-sdk",
+  "version": "0.7.6",
+  "summary": "SDK oficial da Delfinance para Python",
+  "author": "Delfinance Team",
+  "license": null,
+  "home_page": "https://github.com/delfinance/python-sdk",
+  "download_filename": "delfinance_api_sdk-0.7.6.tar.gz",
+  "download_time": "2026-03-19T12:56:46.187457",
+  "package_url": "https://pypi.org/project/delfinance-api-sdk/"
+}

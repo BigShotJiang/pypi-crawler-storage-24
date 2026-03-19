@@ -1,11 +1,11 @@
 {
   "name": "aiortp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Asyncio RTP/RTCP audio and video library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiortp-0.3.0.tar.gz",
-  "download_time": "2026-03-14T03:44:35.815774",
+  "download_filename": "aiortp-0.3.1.tar.gz",
+  "download_time": "2026-03-19T12:57:10.568908",
   "package_url": "https://pypi.org/project/aiortp/"
 }

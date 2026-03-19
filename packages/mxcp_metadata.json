@@ -1,11 +1,11 @@
 {
   "name": "mxcp",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "Enterprise MCP framework for building production AI tools with SQL/Python, featuring security, audit trails, and policy enforcement",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mxcp-0.11.0.tar.gz",
-  "download_time": "2026-03-13T12:45:21.850024",
+  "download_filename": "mxcp-0.12.0.tar.gz",
+  "download_time": "2026-03-19T12:57:20.432121",
   "package_url": "https://pypi.org/project/mxcp/"
 }
