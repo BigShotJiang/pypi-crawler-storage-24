@@ -1,0 +1,11 @@
+{
+  "name": "meshclaw",
+  "version": "0.4.3",
+  "summary": "Distributed AI agent orchestration across mesh networks — with messenger support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meshclaw-0.4.3.tar.gz",
+  "download_time": "2026-03-19T10:37:48.773089",
+  "package_url": "https://pypi.org/project/meshclaw/"
+}

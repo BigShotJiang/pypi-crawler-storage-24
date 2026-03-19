@@ -1,0 +1,11 @@
+{
+  "name": "namecheap-python",
+  "version": "1.6.0",
+  "summary": "A friendly Python SDK for Namecheap API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "namecheap_python-1.6.0.tar.gz",
+  "download_time": "2026-03-19T10:37:56.297793",
+  "package_url": "https://pypi.org/project/namecheap-python/"
+}

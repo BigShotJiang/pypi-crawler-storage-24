@@ -1,0 +1,11 @@
+{
+  "name": "ai-agent-scope",
+  "version": "0.3.0",
+  "summary": "Agent debugging and observability platform - SDK",
+  "author": "AgentScope Team",
+  "license": null,
+  "home_page": "https://github.com/shenchengtsi/agent-scope",
+  "download_filename": "ai_agent_scope-0.3.0.tar.gz",
+  "download_time": "2026-03-19T10:37:50.438720",
+  "package_url": "https://pypi.org/project/ai-agent-scope/"
+}

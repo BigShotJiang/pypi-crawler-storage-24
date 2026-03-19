@@ -1,0 +1,11 @@
+{
+  "name": "prompt2bin",
+  "version": "0.2.0",
+  "summary": "From natural language to verified machine code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt2bin-0.2.0.tar.gz",
+  "download_time": "2026-03-19T10:37:58.484072",
+  "package_url": "https://pypi.org/project/prompt2bin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dfgscript",
+  "version": "0.3.1",
+  "summary": "A minimal, deterministic, LLM-friendly, line-based file manipulation DSL",
+  "author": null,
+  "license": "SOCL",
+  "home_page": null,
+  "download_filename": "dfgscript-0.3.1.tar.gz",
+  "download_time": "2026-03-19T10:37:52.844869",
+  "package_url": "https://pypi.org/project/dfgscript/"
+}

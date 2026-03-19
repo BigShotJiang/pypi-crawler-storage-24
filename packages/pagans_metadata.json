@@ -1,0 +1,11 @@
+{
+  "name": "pagans",
+  "version": "0.1.3",
+  "summary": "Prompts Aligned to Guidelines and Normalization System for OpenAI, Anthropic, xAI, and Google models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pagans-0.1.3.tar.gz",
+  "download_time": "2026-03-19T10:38:16.995787",
+  "package_url": "https://pypi.org/project/pagans/"
+}

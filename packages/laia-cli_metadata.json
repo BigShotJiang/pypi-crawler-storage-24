@@ -1,0 +1,11 @@
+{
+  "name": "laia-cli",
+  "version": "0.3.15",
+  "summary": "CLI de la librería de LAIA",
+  "author": "Itziar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "laia_cli-0.3.15.tar.gz",
+  "download_time": "2026-03-19T10:37:46.290111",
+  "package_url": "https://pypi.org/project/laia-cli/"
+}

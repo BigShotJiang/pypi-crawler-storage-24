@@ -1,0 +1,11 @@
+{
+  "name": "agendex",
+  "version": "0.2.4",
+  "summary": "Governance SDK for AI Agents - Runtime policy enforcement, activity capture, and approval workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agendex-0.2.4.tar.gz",
+  "download_time": "2026-03-19T10:37:46.872130",
+  "package_url": "https://pypi.org/project/agendex/"
+}

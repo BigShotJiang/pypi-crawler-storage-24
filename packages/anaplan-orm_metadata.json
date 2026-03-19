@@ -1,11 +1,11 @@
 {
   "name": "anaplan-orm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "An Object-Relational Mapper (ORM) for the Anaplan API using Pydantic.",
   "author": "Valerio DAlessio",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "anaplan_orm-0.1.0.tar.gz",
-  "download_time": "2026-03-16T11:05:03.280527",
+  "download_filename": "anaplan_orm-0.2.0.tar.gz",
+  "download_time": "2026-03-19T10:38:23.574554",
   "package_url": "https://pypi.org/project/anaplan-orm/"
 }

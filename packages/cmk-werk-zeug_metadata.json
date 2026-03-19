@@ -1,11 +1,11 @@
 {
   "name": "cmk-werk-zeug",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "cmk-werk-zeug",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cmk_werk_zeug-0.2.2.tar.gz",
-  "download_time": "2026-03-18T13:57:48.702526",
+  "download_filename": "cmk_werk_zeug-0.2.5.tar.gz",
+  "download_time": "2026-03-19T10:38:13.788942",
   "package_url": "https://pypi.org/project/cmk-werk-zeug/"
 }
