@@ -1,11 +1,11 @@
 {
   "name": "money-warp",
-  "version": "0.12.0",
+  "version": "0.14.0",
   "summary": "MoneyWarp – Bend time. Model cash.",
   "author": "Tomas Correa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "money_warp-0.12.0.tar.gz",
-  "download_time": "2026-03-13T19:50:06.350840",
+  "download_filename": "money_warp-0.14.0.tar.gz",
+  "download_time": "2026-03-19T22:28:08.094805",
   "package_url": "https://pypi.org/project/money-warp/"
 }

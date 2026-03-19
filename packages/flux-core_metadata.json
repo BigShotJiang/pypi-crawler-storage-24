@@ -1,11 +1,11 @@
 {
   "name": "flux-core",
-  "version": "0.10.0",
+  "version": "0.12.0",
   "summary": "Flux is a distributed workflow orchestration engine to build stateful and fault-tolerant workflows.",
   "author": "Eduardo Dias",
   "license": null,
   "home_page": "https://github.com/edurdias/flux",
-  "download_filename": "flux_core-0.10.0.tar.gz",
-  "download_time": "2026-03-19T14:10:27.268591",
+  "download_filename": "flux_core-0.12.0.tar.gz",
+  "download_time": "2026-03-19T22:28:23.221270",
   "package_url": "https://pypi.org/project/flux-core/"
 }

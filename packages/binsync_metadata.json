@@ -1,0 +1,11 @@
+{
+  "name": "binsync",
+  "version": "5.12.0",
+  "summary": "A Collaboration framework for binary analysis tasks.",
+  "author": null,
+  "license": "BSD 2 Clause",
+  "home_page": null,
+  "download_filename": "binsync-5.12.0.tar.gz",
+  "download_time": "2026-03-19T22:28:13.800150",
+  "package_url": "https://pypi.org/project/binsync/"
+}

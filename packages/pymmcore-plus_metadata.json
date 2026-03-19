@@ -1,0 +1,11 @@
+{
+  "name": "pymmcore-plus",
+  "version": "0.17.3",
+  "summary": "pymmcore superset providing improved APIs, event handling, and a pure python acquisition engine",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "pymmcore_plus-0.17.3.tar.gz",
+  "download_time": "2026-03-19T22:28:21.678439",
+  "package_url": "https://pypi.org/project/pymmcore-plus/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rseqc-redux",
-  "version": "6.2.0",
+  "version": "6.2.1",
   "summary": "RNA-seq Quality Control — modernized fork of RSeQC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rseqc_redux-6.2.0.tar.gz",
-  "download_time": "2026-03-19T21:58:17.256211",
+  "download_filename": "rseqc_redux-6.2.1.tar.gz",
+  "download_time": "2026-03-19T22:28:40.314634",
   "package_url": "https://pypi.org/project/rseqc-redux/"
 }

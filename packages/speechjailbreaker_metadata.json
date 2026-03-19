@@ -1,0 +1,11 @@
+{
+  "name": "speechjailbreaker",
+  "version": "0.1.1",
+  "summary": "SpeechJailbreaker: Framework for testing SpeechLLM robustness against jailbreak attacks",
+  "author": "SpeechJailbreaker Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speechjailbreaker-0.1.1.tar.gz",
+  "download_time": "2026-03-19T22:28:24.747029",
+  "package_url": "https://pypi.org/project/speechjailbreaker/"
+}

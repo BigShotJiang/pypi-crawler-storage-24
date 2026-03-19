@@ -1,0 +1,11 @@
+{
+  "name": "mpl-animator",
+  "version": "0.1.0",
+  "summary": "Turn any static matplotlib script into an animated GIF by sweeping a variable",
+  "author": "Basem Rajjoub",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mpl_animator-0.1.0.tar.gz",
+  "download_time": "2026-03-19T22:28:19.549926",
+  "package_url": "https://pypi.org/project/mpl-animator/"
+}

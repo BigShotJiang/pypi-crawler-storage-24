@@ -1,0 +1,11 @@
+{
+  "name": "vhi-python",
+  "version": "0.1.4",
+  "summary": "A Python client library for the Vhi API, handling authentication, MFA callbacks, claims retrieval, and document downloads.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vhi_python-0.1.4.tar.gz",
+  "download_time": "2026-03-19T22:28:00.205113",
+  "package_url": "https://pypi.org/project/vhi-python/"
+}

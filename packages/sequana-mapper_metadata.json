@@ -1,0 +1,11 @@
+{
+  "name": "sequana-mapper",
+  "version": "1.4.0",
+  "summary": "A multi-sample mapper to map reads onto a reference",
+  "author": "Sequana Team",
+  "license": "BSD-3",
+  "home_page": "https://github.com/sequana/mapper",
+  "download_filename": "sequana_mapper-1.4.0.tar.gz",
+  "download_time": "2026-03-19T22:28:38.777689",
+  "package_url": "https://pypi.org/project/sequana-mapper/"
+}

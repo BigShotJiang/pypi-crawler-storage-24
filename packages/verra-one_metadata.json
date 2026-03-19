@@ -1,11 +1,11 @@
 {
   "name": "verra-one",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "summary": "Chat with your business data — emails, docs, spreadsheets.",
   "author": "Connor Berghoffer",
   "license": null,
   "home_page": null,
-  "download_filename": "verra_one-0.1.2.tar.gz",
-  "download_time": "2026-03-19T07:48:25.627279",
+  "download_filename": "verra_one-1.0.0.tar.gz",
+  "download_time": "2026-03-19T22:28:01.229633",
   "package_url": "https://pypi.org/project/verra-one/"
 }

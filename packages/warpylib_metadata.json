@@ -1,0 +1,11 @@
+{
+  "name": "warpylib",
+  "version": "1.0.0",
+  "summary": "PyTorch replica of WarpLib's data and tilt series model and some functionality",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "warpylib-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-19T22:27:58.659418",
+  "package_url": "https://pypi.org/project/warpylib/"
+}
