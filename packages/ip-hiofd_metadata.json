@@ -1,11 +1,11 @@
 {
   "name": "ip-hiofd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Query IP geolocation/ISP via real browser interaction on tool.hiofd.com",
   "author": "Qoo-330ml",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ip_hiofd-0.1.1.tar.gz",
-  "download_time": "2026-03-19T06:56:30.981770",
+  "download_filename": "ip_hiofd-0.1.2.tar.gz",
+  "download_time": "2026-03-19T08:30:15.366623",
   "package_url": "https://pypi.org/project/ip-hiofd/"
 }

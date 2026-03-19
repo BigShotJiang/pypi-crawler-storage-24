@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-acp",
+  "version": "0.5.1",
+  "summary": "ACP-compatible agent for Claude Code (Python version)",
+  "author": "yazelin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_code_acp-0.5.1.tar.gz",
+  "download_time": "2026-03-19T08:30:21.607722",
+  "package_url": "https://pypi.org/project/claude-code-acp/"
+}

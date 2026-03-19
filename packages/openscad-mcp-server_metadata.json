@@ -1,11 +1,11 @@
 {
   "name": "openscad-mcp-server",
-  "version": "0.12.0",
+  "version": "0.15.1",
   "summary": "MCP server for OpenSCAD 3D model generation, compilation, and visual inspection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openscad_mcp_server-0.12.0.tar.gz",
-  "download_time": "2026-03-18T15:02:45.905175",
+  "download_filename": "openscad_mcp_server-0.15.1.tar.gz",
+  "download_time": "2026-03-19T08:30:43.710895",
   "package_url": "https://pypi.org/project/openscad-mcp-server/"
 }

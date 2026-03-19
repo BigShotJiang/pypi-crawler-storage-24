@@ -1,0 +1,11 @@
+{
+  "name": "masterchief",
+  "version": "1.2.1",
+  "summary": "Enterprise DevOps Automation Platform",
+  "author": "MasterChief Team",
+  "license": null,
+  "home_page": "https://github.com/jbalestrine/masterchief",
+  "download_filename": "masterchief-1.2.1-py3-none-any.whl",
+  "download_time": "2026-03-19T08:30:14.846675",
+  "package_url": "https://pypi.org/project/masterchief/"
+}

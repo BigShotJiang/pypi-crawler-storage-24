@@ -1,0 +1,11 @@
+{
+  "name": "pm-os",
+  "version": "4.4.2",
+  "summary": "PM-OS: AI-powered Product Management Operating System",
+  "author": "PM-OS Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pm_os-4.4.2.tar.gz",
+  "download_time": "2026-03-19T08:30:12.231915",
+  "package_url": "https://pypi.org/project/pm-os/"
+}

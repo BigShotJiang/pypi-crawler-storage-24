@@ -1,11 +1,11 @@
 {
   "name": "soft-ue-cli",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "CLI tool for controlling Unreal Engine via soft-ue-bridge plugin",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "soft_ue_cli-1.0.3.tar.gz",
-  "download_time": "2026-03-16T10:04:03.750881",
+  "download_filename": "soft_ue_cli-1.1.0.tar.gz",
+  "download_time": "2026-03-19T08:30:13.802852",
   "package_url": "https://pypi.org/project/soft-ue-cli/"
 }

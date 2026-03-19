@@ -1,0 +1,11 @@
+{
+  "name": "downsampler",
+  "version": "0.2.0",
+  "summary": "Timeseries DataFrame downsampling with LTTB, aggregation methods, gap handling, and fidelity testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "downsampler-0.2.0.tar.gz",
+  "download_time": "2026-03-19T08:30:48.415108",
+  "package_url": "https://pypi.org/project/downsampler/"
+}
