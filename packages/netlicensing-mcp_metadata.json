@@ -1,11 +1,11 @@
 {
   "name": "netlicensing-mcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "MCP server for the Labs64 NetLicensing license management API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "netlicensing_mcp-0.1.0.tar.gz",
-  "download_time": "2026-03-19T14:10:23.522659",
+  "download_filename": "netlicensing_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-19T21:58:46.394141",
   "package_url": "https://pypi.org/project/netlicensing-mcp/"
 }

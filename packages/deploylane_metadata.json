@@ -1,0 +1,11 @@
+{
+  "name": "deploylane",
+  "version": "0.2.1",
+  "summary": "Deployment configs as code. GitLab CI & GitHub Actions variable management CLI.",
+  "author": "Ahmet Atakan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deploylane-0.2.1.tar.gz",
+  "download_time": "2026-03-19T21:58:34.680920",
+  "package_url": "https://pypi.org/project/deploylane/"
+}

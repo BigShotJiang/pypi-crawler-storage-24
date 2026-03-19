@@ -1,0 +1,11 @@
+{
+  "name": "django-workspaces",
+  "version": "0.2.1",
+  "summary": "Django reusable app to manage user workspaces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_workspaces-0.2.1.tar.gz",
+  "download_time": "2026-03-19T21:58:38.893452",
+  "package_url": "https://pypi.org/project/django-workspaces/"
+}

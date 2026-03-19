@@ -1,11 +1,11 @@
 {
   "name": "lynkio",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "Lynk – Python only Realtime Server Framework: HTTP + WebSockets + Database in one engine. No dependencies.",
   "author": "Alex Austin",
   "license": "MIT",
   "home_page": "https://github.com/pythos-team/lynk",
-  "download_filename": "lynkio-1.1.6.tar.gz",
-  "download_time": "2026-03-11T23:49:58.027766",
+  "download_filename": "lynkio-1.1.7.tar.gz",
+  "download_time": "2026-03-19T21:58:49.246500",
   "package_url": "https://pypi.org/project/lynkio/"
 }

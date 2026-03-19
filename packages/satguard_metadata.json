@@ -1,0 +1,11 @@
+{
+  "name": "satguard",
+  "version": "1.0.0",
+  "summary": "Open-source conjunction assessment pipeline for space objects",
+  "author": "Genius Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "satguard-1.0.0.tar.gz",
+  "download_time": "2026-03-19T21:58:42.422387",
+  "package_url": "https://pypi.org/project/satguard/"
+}

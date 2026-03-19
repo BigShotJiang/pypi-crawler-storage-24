@@ -1,0 +1,11 @@
+{
+  "name": "bokehheat",
+  "version": "0.0.9",
+  "summary": "A python3 bokeh based boolean data, categorical data, numerical data, dendrogram, and heatmap plotting library.",
+  "author": "Elmar Bucher",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/biotransistor/bokehheat",
+  "download_filename": "bokehheat-0.0.9.tar.gz",
+  "download_time": "2026-03-19T21:58:31.018994",
+  "package_url": "https://pypi.org/project/bokehheat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "konfuzio-sdk",
+  "version": "0.3.49",
+  "summary": "Konfuzio Software Development Kit",
+  "author": "Helm & Nagel GmbH",
+  "license": null,
+  "home_page": "https://dev.konfuzio.com/sdk/index.html",
+  "download_filename": "konfuzio_sdk-0.3.49.tar.gz",
+  "download_time": "2026-03-19T21:58:07.161050",
+  "package_url": "https://pypi.org/project/konfuzio-sdk/"
+}

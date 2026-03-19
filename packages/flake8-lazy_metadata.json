@@ -1,0 +1,11 @@
+{
+  "name": "flake8-lazy",
+  "version": "0.1.0",
+  "summary": "Detect imports that can be lazy",
+  "author": "Henry Schreiner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_lazy-0.1.0.tar.gz",
+  "download_time": "2026-03-19T21:58:51.060027",
+  "package_url": "https://pypi.org/project/flake8-lazy/"
+}

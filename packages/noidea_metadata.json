@@ -1,11 +1,11 @@
 {
   "name": "noidea",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "AI powered commit suggestions",
   "author": "AccursedGalaxy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "noidea-0.5.1.tar.gz",
-  "download_time": "2026-03-19T20:35:07.578652",
+  "download_filename": "noidea-0.5.2.tar.gz",
+  "download_time": "2026-03-19T21:58:46.937170",
   "package_url": "https://pypi.org/project/noidea/"
 }

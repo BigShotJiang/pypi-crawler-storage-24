@@ -1,0 +1,11 @@
+{
+  "name": "agent-cdp",
+  "version": "0.3.0",
+  "summary": "Scoped Event System for agent-era browser automation",
+  "author": "QLYYLQ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_cdp-0.3.0.tar.gz",
+  "download_time": "2026-03-19T21:58:29.251751",
+  "package_url": "https://pypi.org/project/agent-cdp/"
+}

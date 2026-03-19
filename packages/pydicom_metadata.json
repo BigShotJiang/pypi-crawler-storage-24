@@ -1,0 +1,11 @@
+{
+  "name": "pydicom",
+  "version": "3.0.2",
+  "summary": "A pure Python package for reading and writing DICOM data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydicom-3.0.2.tar.gz",
+  "download_time": "2026-03-19T21:58:35.970704",
+  "package_url": "https://pypi.org/project/pydicom/"
+}
