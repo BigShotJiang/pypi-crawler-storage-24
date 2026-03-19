@@ -1,11 +1,11 @@
 {
   "name": "hearthstone-data",
-  "version": "237510.4",
+  "version": "238087.1",
   "summary": "CardDefs.xml and Strings for Hearthstone",
   "author": "Jerome Leclanche",
   "license": null,
   "home_page": "https://github.com/HearthSim/python-hearthstone-data/",
-  "download_filename": "hearthstone_data-237510.4.tar.gz",
-  "download_time": "2026-03-10T22:27:44.782844",
+  "download_filename": "hearthstone_data-238087.1.tar.gz",
+  "download_time": "2026-03-19T18:07:27.783987",
   "package_url": "https://pypi.org/project/hearthstone-data/"
 }

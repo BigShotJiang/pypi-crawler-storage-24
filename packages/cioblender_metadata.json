@@ -1,0 +1,11 @@
+{
+  "name": "cioblender",
+  "version": "0.5.0",
+  "summary": "Blender plugin for Conductor Cloud Rendering Platform.",
+  "author": "conductor",
+  "license": null,
+  "home_page": "https://github.com/ConductorTechnologies/cioblender",
+  "download_filename": "cioblender-0.5.0-py2.py3-none-any.whl",
+  "download_time": "2026-03-19T18:08:12.810068",
+  "package_url": "https://pypi.org/project/cioblender/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tecjustica-transcribe",
-  "version": "0.1.13",
+  "version": "0.1.16",
   "summary": "CLI para transcrição de audiências judiciais com WhisperX e diarização",
   "author": "TecJustiça",
   "license": null,
   "home_page": null,
-  "download_filename": "tecjustica_transcribe-0.1.13.tar.gz",
-  "download_time": "2026-03-19T17:18:18.128932",
+  "download_filename": "tecjustica_transcribe-0.1.16.tar.gz",
+  "download_time": "2026-03-19T18:07:30.848040",
   "package_url": "https://pypi.org/project/tecjustica-transcribe/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dbmerge",
+  "version": "1.0.13",
+  "summary": "A database-agnostic Python library for simple and fast UPSERT (Insert/Update/Delete) operations via SQLAlchemy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbmerge-1.0.13.tar.gz",
+  "download_time": "2026-03-19T18:08:00.241235",
+  "package_url": "https://pypi.org/project/dbmerge/"
+}

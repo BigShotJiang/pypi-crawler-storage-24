@@ -1,11 +1,11 @@
 {
   "name": "klock",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Native Rust-powered coordination kernel for multi-agent systems",
   "author": null,
   "license": "MIT",
   "home_page": "https://klockcore.com",
-  "download_filename": "klock-0.1.1.tar.gz",
-  "download_time": "2026-03-19T14:10:29.418915",
+  "download_filename": "klock-0.1.2.tar.gz",
+  "download_time": "2026-03-19T18:07:42.496912",
   "package_url": "https://pypi.org/project/klock/"
 }

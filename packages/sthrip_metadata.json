@@ -1,0 +1,11 @@
+{
+  "name": "sthrip",
+  "version": "0.2.1",
+  "summary": "Anonymous payments for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sthrip-0.2.1.tar.gz",
+  "download_time": "2026-03-19T18:07:36.095165",
+  "package_url": "https://pypi.org/project/sthrip/"
+}

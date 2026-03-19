@@ -1,0 +1,11 @@
+{
+  "name": "pyphonetik",
+  "version": "0.2.1",
+  "summary": "Python bindings for the phonetik phonetic analysis engine.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyphonetik-0.2.1.tar.gz",
+  "download_time": "2026-03-19T18:08:19.199771",
+  "package_url": "https://pypi.org/project/pyphonetik/"
+}

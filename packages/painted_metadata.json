@@ -1,11 +1,11 @@
 {
   "name": "painted",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A cell-buffer terminal UI framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "painted-0.1.2.tar.gz",
-  "download_time": "2026-03-17T19:24:38.267154",
+  "download_filename": "painted-0.1.4.tar.gz",
+  "download_time": "2026-03-19T18:08:13.697398",
   "package_url": "https://pypi.org/project/painted/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "skill-tuple-space",
+  "version": "0.2.0",
+  "summary": "Fuzzy Tuple Space for Agent Skills — index, search, and predict across skill git repos",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skill_tuple_space-0.2.0.tar.gz",
+  "download_time": "2026-03-19T18:07:46.020363",
+  "package_url": "https://pypi.org/project/skill-tuple-space/"
+}

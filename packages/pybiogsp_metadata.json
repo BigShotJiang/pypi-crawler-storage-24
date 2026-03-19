@@ -1,0 +1,11 @@
+{
+  "name": "pybiogsp",
+  "version": "1.0.0",
+  "summary": "Biological Graph Signal Processing for Spatial Data Analysis",
+  "author": "Yuzhou Chang",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/BMEngineeR/PyBioGSP",
+  "download_filename": "pybiogsp-1.0.0.tar.gz",
+  "download_time": "2026-03-19T18:07:59.086958",
+  "package_url": "https://pypi.org/project/pybiogsp/"
+}

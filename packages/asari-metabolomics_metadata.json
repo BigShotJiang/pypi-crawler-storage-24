@@ -1,0 +1,11 @@
+{
+  "name": "asari-metabolomics",
+  "version": "1.16.4",
+  "summary": "metabolomics data processing",
+  "author": "Shuzhao Li",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/shuzhao-li/asari",
+  "download_filename": "asari_metabolomics-1.16.4.tar.gz",
+  "download_time": "2026-03-19T18:08:05.189770",
+  "package_url": "https://pypi.org/project/asari-metabolomics/"
+}
