@@ -1,0 +1,11 @@
+{
+  "name": "fake-gcs-server-python-wrapper",
+  "version": "0.1.1",
+  "summary": "Python wrapper for fake-gcs-server, with binaries bundled in the wheel",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fake_gcs_server_python_wrapper-0.1.1-py3-none-macosx_12_0_arm64.whl",
+  "download_time": "2026-03-19T20:35:24.227215",
+  "package_url": "https://pypi.org/project/fake-gcs-server-python-wrapper/"
+}

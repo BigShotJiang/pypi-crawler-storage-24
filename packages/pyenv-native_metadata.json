@@ -1,0 +1,11 @@
+{
+  "name": "pyenv-native",
+  "version": "0.1.14",
+  "summary": "Python install package for the native-first pyenv-native runtime bundles.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyenv_native-0.1.14.tar.gz",
+  "download_time": "2026-03-19T20:35:10.246330",
+  "package_url": "https://pypi.org/project/pyenv-native/"
+}

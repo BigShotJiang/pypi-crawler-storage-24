@@ -1,0 +1,11 @@
+{
+  "name": "deep-learning-toolkit",
+  "version": "0.3.1",
+  "summary": "Deep Learning Toolkit — Reusable PyTorch building blocks for artificial intelligence & scientific machine learning: networks, losses, training loops, and utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deep_learning_toolkit-0.3.1.tar.gz",
+  "download_time": "2026-03-19T20:35:42.995070",
+  "package_url": "https://pypi.org/project/deep-learning-toolkit/"
+}

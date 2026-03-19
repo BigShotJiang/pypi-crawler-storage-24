@@ -1,0 +1,11 @@
+{
+  "name": "acodex",
+  "version": "0.116.0",
+  "summary": "Fast, typed Python SDK for Codex CLI workflows with TypeScript SDK parity.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acodex-0.116.0.tar.gz",
+  "download_time": "2026-03-19T20:35:37.632365",
+  "package_url": "https://pypi.org/project/acodex/"
+}

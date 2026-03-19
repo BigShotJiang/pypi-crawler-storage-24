@@ -1,0 +1,11 @@
+{
+  "name": "dtfft",
+  "version": "3.2.0",
+  "summary": "Python bindings for the dtFFT library — distributed FFT via MPI",
+  "author": "Oleg Shatrov",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/ShatrovOA/dtFFT",
+  "download_filename": "dtfft-3.2.0.tar.gz",
+  "download_time": "2026-03-19T20:35:16.326603",
+  "package_url": "https://pypi.org/project/dtfft/"
+}

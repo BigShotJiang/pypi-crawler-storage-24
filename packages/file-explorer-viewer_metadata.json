@@ -1,11 +1,11 @@
 {
   "name": "file-explorer-viewer",
-  "version": "1.1.0",
-  "summary": "A world-class immersive File Explorer and Crop Studio",
+  "version": "2.1.0",
+  "summary": "Professional enterprise file explorer with modern neutral UI, background daemon mode, and comprehensive file operations",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "file_explorer_viewer-1.1.0.tar.gz",
-  "download_time": "2026-03-12T20:38:39.417188",
+  "download_filename": "file_explorer_viewer-2.1.0.tar.gz",
+  "download_time": "2026-03-19T20:35:18.343934",
   "package_url": "https://pypi.org/project/file-explorer-viewer/"
 }

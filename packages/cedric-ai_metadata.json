@@ -1,0 +1,11 @@
+{
+  "name": "cedric-ai",
+  "version": "1.0.0",
+  "summary": "Client Python pour l'IA Cédric — requêtes à Ollama avec file d'attente automatique",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cedric_ai-1.0.0.tar.gz",
+  "download_time": "2026-03-19T20:35:05.487477",
+  "package_url": "https://pypi.org/project/cedric-ai/"
+}

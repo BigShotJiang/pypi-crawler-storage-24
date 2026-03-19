@@ -1,0 +1,11 @@
+{
+  "name": "proactivebench",
+  "version": "0.1.1",
+  "summary": "Benchmark utilities and environments for evaluating multimodal LLMs' proactiveness.",
+  "author": "Thomas De Min",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proactivebench-0.1.1.tar.gz",
+  "download_time": "2026-03-19T20:35:14.183412",
+  "package_url": "https://pypi.org/project/proactivebench/"
+}

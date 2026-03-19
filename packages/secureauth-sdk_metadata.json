@@ -1,0 +1,11 @@
+{
+  "name": "secureauth-sdk",
+  "version": "1.0.0",
+  "summary": "A secure authentication client for integrating with SecureAuth server",
+  "author": "SecureAuth Team",
+  "license": null,
+  "home_page": "https://github.com/secureauth/python-sdk",
+  "download_filename": "secureauth_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-19T20:35:20.601111",
+  "package_url": "https://pypi.org/project/secureauth-sdk/"
+}
