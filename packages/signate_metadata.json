@@ -1,0 +1,11 @@
+{
+  "name": "signate",
+  "version": "0.11.0",
+  "summary": "SIGNATE CLI",
+  "author": "SIGNATE Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://user.competition.signate.jp",
+  "download_filename": "signate-0.11.0.tar.gz",
+  "download_time": "2026-03-19T02:47:34.952921",
+  "package_url": "https://pypi.org/project/signate/"
+}

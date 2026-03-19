@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-supplychain",
+  "version": "3.3.0",
+  "summary": "Type annotations for aiobotocore SupplyChain 3.3.0 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_aiobotocore_supplychain-3.3.0.tar.gz",
+  "download_time": "2026-03-19T02:48:09.837922",
+  "package_url": "https://pypi.org/project/types-aiobotocore-supplychain/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "regula-facesdk-webclient",
+  "version": "8.1.542",
+  "summary": "Regula's FaceSDK web python client",
+  "author": "Regula Forensics, Inc.",
+  "license": null,
+  "home_page": "https://regulaforensics.com",
+  "download_filename": "regula_facesdk_webclient-8.1.542.tar.gz",
+  "download_time": "2026-03-19T02:47:37.191843",
+  "package_url": "https://pypi.org/project/regula-facesdk-webclient/"
+}

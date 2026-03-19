@@ -1,0 +1,11 @@
+{
+  "name": "getagentid",
+  "version": "0.1.0",
+  "summary": "AgentID SDK — Identity & verification for AI agents",
+  "author": "AgentID",
+  "license": null,
+  "home_page": "https://getagentid.dev",
+  "download_filename": "getagentid-0.1.0.tar.gz",
+  "download_time": "2026-03-19T02:47:28.618142",
+  "package_url": "https://pypi.org/project/getagentid/"
+}

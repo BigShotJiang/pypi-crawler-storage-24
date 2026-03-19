@@ -1,0 +1,11 @@
+{
+  "name": "glmocr",
+  "version": "0.1.4",
+  "summary": "GLM OCR - Optical Character Recognition powered by GLM",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "glmocr-0.1.4.tar.gz",
+  "download_time": "2026-03-19T02:47:45.830966",
+  "package_url": "https://pypi.org/project/glmocr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-socialmessaging",
+  "version": "3.3.0",
+  "summary": "Type annotations for aiobotocore EndUserMessagingSocial 3.3.0 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_aiobotocore_socialmessaging-3.3.0.tar.gz",
+  "download_time": "2026-03-19T02:48:18.852380",
+  "package_url": "https://pypi.org/project/types-aiobotocore-socialmessaging/"
+}

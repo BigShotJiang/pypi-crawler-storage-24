@@ -1,11 +1,11 @@
 {
   "name": "groundmark",
-  "version": "0.2.0",
-  "summary": "PDF to grounded Markdown with bounding box annotations",
+  "version": "0.3.2",
+  "summary": "PDF to Markdown conversion and quote-to-bbox resolution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "groundmark-0.2.0.tar.gz",
-  "download_time": "2026-03-16T06:13:20.663609",
+  "download_filename": "groundmark-0.3.2.tar.gz",
+  "download_time": "2026-03-19T02:48:17.761674",
   "package_url": "https://pypi.org/project/groundmark/"
 }

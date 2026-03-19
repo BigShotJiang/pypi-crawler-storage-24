@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-wafv2",
+  "version": "3.3.0",
+  "summary": "Type annotations for aiobotocore WAFV2 3.3.0 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_aiobotocore_wafv2-3.3.0.tar.gz",
+  "download_time": "2026-03-19T02:47:57.834749",
+  "package_url": "https://pypi.org/project/types-aiobotocore-wafv2/"
+}

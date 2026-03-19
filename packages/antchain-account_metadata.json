@@ -1,0 +1,11 @@
+{
+  "name": "antchain-account",
+  "version": "1.1.2",
+  "summary": "Ant Chain ACCOUNT SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_account-1.1.2.tar.gz",
+  "download_time": "2026-03-19T02:47:27.456435",
+  "package_url": "https://pypi.org/project/antchain-account/"
+}

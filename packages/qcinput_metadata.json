@@ -1,0 +1,11 @@
+{
+  "name": "qcinput",
+  "version": "0.7.0",
+  "summary": "Generate quantum chemistry input files from molecular structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qcinput-0.7.0.tar.gz",
+  "download_time": "2026-03-19T02:47:46.448784",
+  "package_url": "https://pypi.org/project/qcinput/"
+}
