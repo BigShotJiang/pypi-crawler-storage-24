@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-kubernetesconfiguration-privatelinkscopes",
+  "version": "1.0.0b2",
+  "summary": "Microsoft Azure Privatelinkscopes Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_kubernetesconfiguration_privatelinkscopes-1.0.0b2.tar.gz",
+  "download_time": "2026-03-19T04:40:59.186956",
+  "package_url": "https://pypi.org/project/azure-mgmt-kubernetesconfiguration-privatelinkscopes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyvndb",
+  "version": "1.0.116",
+  "summary": "Vehicle description file handling for Python",
+  "author": "Christoph Schueler",
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "pyvndb-1.0.116.tar.gz",
+  "download_time": "2026-03-19T04:40:12.936236",
+  "package_url": "https://pypi.org/project/pyvndb/"
+}

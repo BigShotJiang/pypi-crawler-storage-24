@@ -1,0 +1,11 @@
+{
+  "name": "receptus",
+  "version": "0.1.5",
+  "summary": "A flexible, interactive command-line prompt toolkit for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "receptus-0.1.5.tar.gz",
+  "download_time": "2026-03-19T04:40:56.499262",
+  "package_url": "https://pypi.org/project/receptus/"
+}

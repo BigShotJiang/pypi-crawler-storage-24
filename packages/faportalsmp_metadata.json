@@ -1,0 +1,11 @@
+{
+  "name": "faportalsmp",
+  "version": "1.0.0",
+  "summary": "An Asynchronous Python Library for interacting with Portals Marketplace API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faportalsmp-1.0.0.tar.gz",
+  "download_time": "2026-03-19T04:40:11.341606",
+  "package_url": "https://pypi.org/project/faportalsmp/"
+}

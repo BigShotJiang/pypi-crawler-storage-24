@@ -1,0 +1,11 @@
+{
+  "name": "clickhouse-dataops-mcp",
+  "version": "0.1.1",
+  "summary": "A DataOps-focused MCP server for ClickHouse with query optimization, pipeline latency analysis, and data quality monitoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clickhouse_dataops_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-19T04:40:30.937956",
+  "package_url": "https://pypi.org/project/clickhouse-dataops-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sapientml",
+  "version": "0.4.16",
+  "summary": "Generative AutoML for Tabular Data",
+  "author": "The SapientML Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://sapientml.io/",
+  "download_filename": "sapientml-0.4.16.tar.gz",
+  "download_time": "2026-03-19T04:40:49.422078",
+  "package_url": "https://pypi.org/project/sapientml/"
+}

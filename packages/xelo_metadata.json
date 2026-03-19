@@ -1,11 +1,11 @@
 {
   "name": "xelo",
-  "version": "0.6.1",
+  "version": "0.7.2",
   "summary": "AI SBOM generator with portable schema",
   "author": "NuGuardAI",
   "license": null,
   "home_page": null,
-  "download_filename": "xelo-0.6.1.tar.gz",
-  "download_time": "2026-03-11T01:26:05.276992",
+  "download_filename": "xelo-0.7.2.tar.gz",
+  "download_time": "2026-03-19T04:40:45.666011",
   "package_url": "https://pypi.org/project/xelo/"
 }

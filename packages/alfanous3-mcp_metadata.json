@@ -1,11 +1,11 @@
 {
   "name": "alfanous3-mcp",
-  "version": "1.7.12",
+  "version": "1.8.0",
   "summary": "An MCP (Model Context Protocol) server that exposes the Alfanous Quranic search engine as tools and resources for AI assistants.",
   "author": "Assem Chelli",
   "license": null,
   "home_page": "https://github.com/Alfanous-team/alfanous",
-  "download_filename": "alfanous3_mcp-1.7.12.tar.gz",
-  "download_time": "2026-03-19T00:09:04.731478",
+  "download_filename": "alfanous3_mcp-1.8.0.tar.gz",
+  "download_time": "2026-03-19T04:40:52.057127",
   "package_url": "https://pypi.org/project/alfanous3-mcp/"
 }

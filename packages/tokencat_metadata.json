@@ -1,0 +1,11 @@
+{
+  "name": "tokencat",
+  "version": "0.4.0",
+  "summary": "Local-first, read-only AI coding agent token and usage inspector.",
+  "author": "xiaoran",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "tokencat-0.4.0.tar.gz",
+  "download_time": "2026-03-19T04:40:54.310883",
+  "package_url": "https://pypi.org/project/tokencat/"
+}
