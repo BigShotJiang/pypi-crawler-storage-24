@@ -1,0 +1,11 @@
+{
+  "name": "modellock",
+  "version": "0.2.2",
+  "summary": "AI 模型加密保护与授权系统",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modellock-0.2.2-cp310-cp310-macosx_11_0_universal2.whl",
+  "download_time": "2026-03-19T07:47:38.134182",
+  "package_url": "https://pypi.org/project/modellock/"
+}

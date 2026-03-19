@@ -1,0 +1,11 @@
+{
+  "name": "flashq",
+  "version": "0.2.2",
+  "summary": "The task queue that works out of the box — no Redis, no RabbitMQ, just pip install and go.",
+  "author": "Ozden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flashq-0.2.2.tar.gz",
+  "download_time": "2026-03-19T07:48:17.797032",
+  "package_url": "https://pypi.org/project/flashq/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mlx-forge",
-  "version": "0.5.0",
+  "version": "0.6.1",
   "summary": "Fine-tune, experiment with, and run LLMs locally on your Mac",
   "author": "Jiekai Wang",
   "license": null,
   "home_page": null,
-  "download_filename": "mlx_forge-0.5.0.tar.gz",
-  "download_time": "2026-03-18T04:25:05.778634",
+  "download_filename": "mlx_forge-0.6.1.tar.gz",
+  "download_time": "2026-03-19T07:47:45.920394",
   "package_url": "https://pypi.org/project/mlx-forge/"
 }

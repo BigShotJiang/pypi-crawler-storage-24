@@ -1,0 +1,11 @@
+{
+  "name": "sqlflag",
+  "version": "0.3.0",
+  "summary": "Auto-generate CLIs from SQLite databases. Tables become subcommands, columns become filter flags.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlflag-0.3.0.tar.gz",
+  "download_time": "2026-03-19T07:48:22.502877",
+  "package_url": "https://pypi.org/project/sqlflag/"
+}

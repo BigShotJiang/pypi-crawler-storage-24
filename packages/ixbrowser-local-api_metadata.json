@@ -1,0 +1,11 @@
+{
+  "name": "ixbrowser-local-api",
+  "version": "1.2.3",
+  "summary": "A client of ixBrowser local api",
+  "author": "ixBrowser Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ixspyinc/ixbrowser-local-api-python",
+  "download_filename": "ixbrowser_local_api-1.2.3.tar.gz",
+  "download_time": "2026-03-19T07:47:44.896473",
+  "package_url": "https://pypi.org/project/ixbrowser-local-api/"
+}

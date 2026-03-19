@@ -1,0 +1,11 @@
+{
+  "name": "flowproxy",
+  "version": "0.2.0",
+  "summary": "FlowProxy: Config-driven proxy and orchestrator starter package",
+  "author": "Daksh Tiwari",
+  "license": null,
+  "home_page": "https://github.com/daksh2916/flowproxy",
+  "download_filename": "flowproxy-0.2.0.tar.gz",
+  "download_time": "2026-03-19T07:47:42.848779",
+  "package_url": "https://pypi.org/project/flowproxy/"
+}
