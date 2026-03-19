@@ -1,11 +1,11 @@
 {
   "name": "pachca-sdk",
-  "version": "1.0.1.post1",
+  "version": "1.0.2",
   "summary": "A client library for accessing Pachca API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pachca_sdk-1.0.1.post1.tar.gz",
-  "download_time": "2026-03-18T20:43:51.305515",
+  "download_filename": "pachca_sdk-1.0.2.tar.gz",
+  "download_time": "2026-03-19T21:23:01.046124",
   "package_url": "https://pypi.org/project/pachca-sdk/"
 }

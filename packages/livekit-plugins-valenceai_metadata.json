@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-valenceai",
+  "version": "0.2.1",
+  "summary": "LiveKit Agents plugin for real-time emotion detection using ValenceAI's streaming API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_valenceai-0.2.1.tar.gz",
+  "download_time": "2026-03-19T21:23:31.246465",
+  "package_url": "https://pypi.org/project/livekit-plugins-valenceai/"
+}

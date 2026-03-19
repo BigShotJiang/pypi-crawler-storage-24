@@ -1,11 +1,11 @@
 {
   "name": "meshpop",
-  "version": "4.12.4",
-  "summary": "MeshPOP Network Operations CLI with MCP server for AI integration",
+  "version": "4.13.8",
+  "summary": "MeshPOP Fleet Orchestration — manage mesh VPN servers at scale",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "meshpop-4.12.4.tar.gz",
-  "download_time": "2026-03-19T11:05:26.163920",
+  "download_filename": "meshpop-4.13.8-py3-none-any.whl",
+  "download_time": "2026-03-19T21:23:25.355312",
   "package_url": "https://pypi.org/project/meshpop/"
 }

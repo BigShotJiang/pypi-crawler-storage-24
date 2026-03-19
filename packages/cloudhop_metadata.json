@@ -1,0 +1,11 @@
+{
+  "name": "cloudhop",
+  "version": "0.6.3",
+  "summary": "The easiest way to copy files between cloud storage services",
+  "author": "Husam Soboh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloudhop-0.6.3.tar.gz",
+  "download_time": "2026-03-19T21:23:43.636869",
+  "package_url": "https://pypi.org/project/cloudhop/"
+}

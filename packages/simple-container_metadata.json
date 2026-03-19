@@ -1,0 +1,11 @@
+{
+  "name": "simple-container",
+  "version": "1.0.2",
+  "summary": "A simple dependency injection container",
+  "author": "Imran",
+  "license": null,
+  "home_page": "https://github.com/icanbwell/simple-container",
+  "download_filename": "simple_container-1.0.2.tar.gz",
+  "download_time": "2026-03-19T21:23:12.353954",
+  "package_url": "https://pypi.org/project/simple-container/"
+}

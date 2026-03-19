@@ -1,0 +1,11 @@
+{
+  "name": "arcp-py",
+  "version": "2.1.2",
+  "summary": "ARCP (Agent Registry & Control Protocol) is a sophisticated agent orchestration protocol that provides centralized service discovery, registration, communication, and control for distributed agent systems.",
+  "author": "Muhannad",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/0x00K1/ARCP",
+  "download_filename": "arcp_py-2.1.2.tar.gz",
+  "download_time": "2026-03-19T21:23:13.972237",
+  "package_url": "https://pypi.org/project/arcp-py/"
+}

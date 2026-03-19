@@ -1,11 +1,11 @@
 {
   "name": "insurance-fairness",
-  "version": "0.3.4",
+  "version": "0.3.7",
   "summary": "Proxy discrimination auditing, discrimination-free pricing, and diagnostics for UK insurance pricing models. Implements FCA Consumer Duty and Equality Act 2010 compliance checks.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insurance_fairness-0.3.4.tar.gz",
-  "download_time": "2026-03-15T04:31:51.086146",
+  "download_filename": "insurance_fairness-0.3.7.tar.gz",
+  "download_time": "2026-03-19T21:23:01.600394",
   "package_url": "https://pypi.org/project/insurance-fairness/"
 }

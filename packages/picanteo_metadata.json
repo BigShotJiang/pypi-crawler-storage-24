@@ -1,0 +1,11 @@
+{
+  "name": "picanteo",
+  "version": "0.1.1",
+  "summary": "Picanteo: CNES change detection framework for natural disaster response",
+  "author": "CNES",
+  "license": "Apache V2.0",
+  "home_page": "https://github.com/CNES/picanteo",
+  "download_filename": "picanteo-0.1.1.tar.gz",
+  "download_time": "2026-03-19T21:23:42.565197",
+  "package_url": "https://pypi.org/project/picanteo/"
+}

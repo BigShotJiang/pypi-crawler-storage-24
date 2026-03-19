@@ -1,0 +1,11 @@
+{
+  "name": "datacite",
+  "version": "1.4.0",
+  "summary": "\"A Python client for DataCite MDS and REST APIs.\"",
+  "author": "Invenio Collaboration",
+  "license": "BSD",
+  "home_page": "https://github.com/inveniosoftware/datacite",
+  "download_filename": "datacite-1.4.0.tar.gz",
+  "download_time": "2026-03-19T21:22:57.167352",
+  "package_url": "https://pypi.org/project/datacite/"
+}
