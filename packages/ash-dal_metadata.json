@@ -1,0 +1,11 @@
+{
+  "name": "ash-dal",
+  "version": "0.5.1",
+  "summary": "The library provides a standardized way to connect to DB, and Base DAO class implementation",
+  "author": "Dmitry Marchuk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ash_dal-0.5.1.tar.gz",
+  "download_time": "2026-03-19T19:58:11.404823",
+  "package_url": "https://pypi.org/project/ash-dal/"
+}

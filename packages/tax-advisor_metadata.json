@@ -1,0 +1,11 @@
+{
+  "name": "tax-advisor",
+  "version": "0.1.6",
+  "summary": "An agentic AI tax advisor CLI chat app",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tax_advisor-0.1.6.tar.gz",
+  "download_time": "2026-03-19T19:58:10.763788",
+  "package_url": "https://pypi.org/project/tax-advisor/"
+}

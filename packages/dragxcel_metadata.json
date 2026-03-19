@@ -1,0 +1,11 @@
+{
+  "name": "dragxcel",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the DragXcel API Platform",
+  "author": "DragXcel Team",
+  "license": null,
+  "home_page": "https://github.com/dragxcel/dragxcel-python-sdk",
+  "download_filename": "dragxcel-1.0.0.tar.gz",
+  "download_time": "2026-03-19T19:58:03.586879",
+  "package_url": "https://pypi.org/project/dragxcel/"
+}

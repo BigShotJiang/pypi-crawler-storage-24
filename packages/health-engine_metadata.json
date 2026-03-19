@@ -1,0 +1,11 @@
+{
+  "name": "health-engine",
+  "version": "0.6.0",
+  "summary": "Open-source health scoring engine — 20 clinically validated metrics, NHANES percentiles, wearable integration. Runs locally with Claude via MCP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "health_engine-0.6.0.tar.gz",
+  "download_time": "2026-03-19T19:58:43.959054",
+  "package_url": "https://pypi.org/project/health-engine/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rusticai-nats",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "NATS messaging backend for Rustic AI",
   "author": "Dragonscale Industries Inc.",
   "license": null,
   "home_page": "https://www.rustic.ai/",
-  "download_filename": "rusticai_nats-1.2.0.tar.gz",
-  "download_time": "2026-03-15T10:01:09.540252",
+  "download_filename": "rusticai_nats-1.2.2.tar.gz",
+  "download_time": "2026-03-19T19:58:04.227973",
   "package_url": "https://pypi.org/project/rusticai-nats/"
 }

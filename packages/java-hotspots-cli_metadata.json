@@ -1,0 +1,11 @@
+{
+  "name": "java-hotspots-cli",
+  "version": "0.1.0",
+  "summary": "Internationalized CLI tool for Java hotspot and risk analysis",
+  "author": "OpenAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "java_hotspots_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-19T19:58:08.763600",
+  "package_url": "https://pypi.org/project/java-hotspots-cli/"
+}

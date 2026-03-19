@@ -1,0 +1,11 @@
+{
+  "name": "hardrag-core",
+  "version": "0.1.0",
+  "summary": "Evaluation-First Control Layer for Enterprise RAG Systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hardrag_core-0.1.0.tar.gz",
+  "download_time": "2026-03-19T19:58:08.114299",
+  "package_url": "https://pypi.org/project/hardrag-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sidedoc",
+  "version": "0.2.0",
+  "summary": "AI-native document format that separates content from formatting",
+  "author": "Sidedoc Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sidedoc-0.2.0.tar.gz",
+  "download_time": "2026-03-19T19:57:55.654364",
+  "package_url": "https://pypi.org/project/sidedoc/"
+}

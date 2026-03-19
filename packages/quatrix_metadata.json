@@ -1,0 +1,11 @@
+{
+  "name": "quatrix",
+  "version": "0.1.2",
+  "summary": "Q-Compass architecture — RL-grounded sequence mixing for text, vision, audio, and world modeling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quatrix-0.1.2.tar.gz",
+  "download_time": "2026-03-19T19:58:31.062585",
+  "package_url": "https://pypi.org/project/quatrix/"
+}

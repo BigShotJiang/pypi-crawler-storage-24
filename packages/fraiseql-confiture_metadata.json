@@ -1,11 +1,11 @@
 {
   "name": "fraiseql-confiture",
-  "version": "0.8.4",
+  "version": "0.8.8",
   "summary": "PostgreSQL schema evolution with built-in multi-agent coordination 🍓",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/fraiseql/confiture",
-  "download_filename": "fraiseql_confiture-0.8.4.tar.gz",
-  "download_time": "2026-03-19T11:05:37.039651",
+  "download_filename": "fraiseql_confiture-0.8.8.tar.gz",
+  "download_time": "2026-03-19T19:58:35.039885",
   "package_url": "https://pypi.org/project/fraiseql-confiture/"
 }

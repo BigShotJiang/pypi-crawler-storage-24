@@ -1,0 +1,11 @@
+{
+  "name": "als-computing-colors",
+  "version": "1.0.2",
+  "summary": "ALS system design color palette for Python projects",
+  "author": "Hung Le",
+  "license": null,
+  "home_page": null,
+  "download_filename": "als_computing_colors-1.0.2.tar.gz",
+  "download_time": "2026-03-19T19:58:01.120205",
+  "package_url": "https://pypi.org/project/als-computing-colors/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neuropt",
+  "version": "0.5.1",
+  "summary": "LLM-guided ML optimization — point it at a training script, it reads the curves and designs better models",
+  "author": "Dennis Loevlie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neuropt-0.5.1.tar.gz",
+  "download_time": "2026-03-19T19:58:32.347893",
+  "package_url": "https://pypi.org/project/neuropt/"
+}

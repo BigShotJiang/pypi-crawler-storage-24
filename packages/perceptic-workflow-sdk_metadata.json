@@ -1,0 +1,11 @@
+{
+  "name": "perceptic-workflow-sdk",
+  "version": "0.53.1",
+  "summary": "Python SDK for Perceptic Workflow definitions - cross-language Temporal workflow types",
+  "author": "Perceptic Technologies Ltd.",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "perceptic_workflow_sdk-0.53.1.tar.gz",
+  "download_time": "2026-03-19T19:58:39.498996",
+  "package_url": "https://pypi.org/project/perceptic-workflow-sdk/"
+}

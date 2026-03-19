@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-argparse-cli",
+  "version": "1.21.3",
+  "summary": "render CLI arguments (sub-commands friendly) defined by argparse module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_argparse_cli-1.21.3.tar.gz",
+  "download_time": "2026-03-19T19:58:00.470737",
+  "package_url": "https://pypi.org/project/sphinx-argparse-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bpappbuilder",
+  "version": "0.3.1",
+  "summary": "Оболочка над PyQt для создания приложений, как в 1С:Предприятии, но на Python",
+  "author": "AlexK-1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bpappbuilder-0.3.1.tar.gz",
+  "download_time": "2026-03-19T19:58:20.930763",
+  "package_url": "https://pypi.org/project/bpappbuilder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "perceptic-core-client",
+  "version": "0.53.1",
+  "summary": "A client library for accessing perceptic-core-server API",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "perceptic_core_client-0.53.1.tar.gz",
+  "download_time": "2026-03-19T19:58:40.779165",
+  "package_url": "https://pypi.org/project/perceptic-core-client/"
+}
