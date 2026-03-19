@@ -1,11 +1,11 @@
 {
   "name": "athena-eda",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Automated EDA, ML readiness scoring, and data quality checks — locally in your browser.",
   "author": "Athena",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "athena_eda-0.1.0.tar.gz",
-  "download_time": "2026-03-17T20:06:59.474694",
+  "download_filename": "athena_eda-0.2.1.tar.gz",
+  "download_time": "2026-03-19T06:56:31.529298",
   "package_url": "https://pypi.org/project/athena-eda/"
 }

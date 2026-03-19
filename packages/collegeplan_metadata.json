@@ -1,0 +1,11 @@
+{
+  "name": "collegeplan",
+  "version": "0.3.0",
+  "summary": "A deterministic college cost projection and savings planning engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "collegeplan-0.3.0.tar.gz",
+  "download_time": "2026-03-19T06:56:20.278345",
+  "package_url": "https://pypi.org/project/collegeplan/"
+}

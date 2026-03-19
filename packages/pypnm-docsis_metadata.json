@@ -1,11 +1,11 @@
 {
   "name": "pypnm-docsis",
-  "version": "1.5.3.0",
+  "version": "1.5.4.0",
   "summary": "DOCSIS 3.x/4.0 Proactive Network Maintenance Toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypnm_docsis-1.5.3.0.tar.gz",
-  "download_time": "2026-03-19T05:50:43.390570",
+  "download_filename": "pypnm_docsis-1.5.4.0.tar.gz",
+  "download_time": "2026-03-19T06:56:38.947594",
   "package_url": "https://pypi.org/project/pypnm-docsis/"
 }

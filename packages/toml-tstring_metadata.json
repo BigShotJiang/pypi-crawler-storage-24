@@ -1,0 +1,11 @@
+{
+  "name": "toml-tstring",
+  "version": "0.2.1",
+  "summary": "TOML renderer for t-string structured data templates",
+  "author": "Koudai Aono",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "toml_tstring-0.2.1.tar.gz",
+  "download_time": "2026-03-19T06:56:18.151629",
+  "package_url": "https://pypi.org/project/toml-tstring/"
+}

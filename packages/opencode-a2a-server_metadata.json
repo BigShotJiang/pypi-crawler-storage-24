@@ -1,11 +1,11 @@
 {
   "name": "opencode-a2a-server",
-  "version": "0.1.0",
+  "version": "0.2.3",
   "summary": "A2A wrapper service for opencode",
   "author": "liujuanjuan1984@Intelligent-Internet",
   "license": null,
   "home_page": null,
-  "download_filename": "opencode_a2a_server-0.1.0.tar.gz",
-  "download_time": "2026-03-17T11:33:13.022406",
+  "download_filename": "opencode_a2a_server-0.2.3.tar.gz",
+  "download_time": "2026-03-19T06:56:32.062145",
   "package_url": "https://pypi.org/project/opencode-a2a-server/"
 }

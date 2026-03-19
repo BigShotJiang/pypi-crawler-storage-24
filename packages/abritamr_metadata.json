@@ -1,0 +1,11 @@
+{
+  "name": "abritamr",
+  "version": "1.1.0",
+  "summary": "Running AMRFinderPlus for MDU",
+  "author": "Kristy Horan",
+  "license": null,
+  "home_page": "https://github.com/MDU-PHL/abritamr",
+  "download_filename": "abritamr-1.1.0.tar.gz",
+  "download_time": "2026-03-19T06:56:43.241581",
+  "package_url": "https://pypi.org/project/abritamr/"
+}

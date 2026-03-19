@@ -1,11 +1,11 @@
 {
   "name": "crawler-user-agents",
-  "version": "1.36.0",
+  "version": "1.39.0",
   "summary": "Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crawler_user_agents-1.36.0-py3-none-any.whl",
-  "download_time": "2026-03-09T09:03:09.989389",
+  "download_filename": "crawler_user_agents-1.39.0-py3-none-any.whl",
+  "download_time": "2026-03-19T06:56:29.911979",
   "package_url": "https://pypi.org/project/crawler-user-agents/"
 }

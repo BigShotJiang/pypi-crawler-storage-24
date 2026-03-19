@@ -1,11 +1,11 @@
 {
   "name": "fwauto",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "FWAuto - AI-powered firmware automation tool. Your firmware copilot.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fwauto-1.0.1.tar.gz",
-  "download_time": "2026-03-13T10:58:46.871848",
+  "download_filename": "fwauto-1.0.2.tar.gz",
+  "download_time": "2026-03-19T06:56:32.594335",
   "package_url": "https://pypi.org/project/fwauto/"
 }

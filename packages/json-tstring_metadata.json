@@ -1,0 +1,11 @@
+{
+  "name": "json-tstring",
+  "version": "0.2.1",
+  "summary": "JSON renderer for t-string structured data templates",
+  "author": "Koudai Aono",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_tstring-0.2.1.tar.gz",
+  "download_time": "2026-03-19T06:56:19.215772",
+  "package_url": "https://pypi.org/project/json-tstring/"
+}

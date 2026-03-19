@@ -1,0 +1,11 @@
+{
+  "name": "httplite",
+  "version": "1.0.0",
+  "summary": "Lightweight async HTTP client with automatic retry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "httplite-1.0.0.tar.gz",
+  "download_time": "2026-03-19T06:56:25.105975",
+  "package_url": "https://pypi.org/project/httplite/"
+}

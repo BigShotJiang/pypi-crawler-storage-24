@@ -1,0 +1,11 @@
+{
+  "name": "tstring-core",
+  "version": "0.2.1",
+  "summary": "Shared runtime primitives for PEP 750 structural template renderers",
+  "author": "Koudai Aono",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tstring_core-0.2.1.tar.gz",
+  "download_time": "2026-03-19T06:56:18.682562",
+  "package_url": "https://pypi.org/project/tstring-core/"
+}

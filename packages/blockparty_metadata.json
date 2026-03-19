@@ -1,0 +1,11 @@
+{
+  "name": "blockparty",
+  "version": "0.1.0",
+  "summary": "Unified Python client for Etherscan, Routescan and Blockscout EVM block explorer APIs",
+  "author": "DefiDebauchery",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blockparty-0.1.0.tar.gz",
+  "download_time": "2026-03-19T06:56:26.715212",
+  "package_url": "https://pypi.org/project/blockparty/"
+}

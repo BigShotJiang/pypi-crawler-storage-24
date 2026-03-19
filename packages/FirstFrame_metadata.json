@@ -1,0 +1,11 @@
+{
+  "name": "FirstFrame",
+  "version": "1.0.5",
+  "summary": "FirstFrame is a simple command-line tool for extracting the first frame from MP4 video files using OpenCV (cv2)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "firstframe-1.0.5.tar.gz",
+  "download_time": "2026-03-19T06:56:13.312905",
+  "package_url": "https://pypi.org/project/FirstFrame/"
+}

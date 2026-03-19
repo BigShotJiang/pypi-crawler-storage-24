@@ -1,0 +1,11 @@
+{
+  "name": "tstring-bindings",
+  "version": "0.2.1",
+  "summary": "Native Python bindings for t-string structured data backends",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/koxudaxi/tstring-structured-data",
+  "download_filename": "tstring_bindings-0.2.1.tar.gz",
+  "download_time": "2026-03-19T06:56:14.385271",
+  "package_url": "https://pypi.org/project/tstring-bindings/"
+}

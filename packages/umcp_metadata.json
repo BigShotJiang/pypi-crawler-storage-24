@@ -1,0 +1,11 @@
+{
+  "name": "umcp",
+  "version": "2.2.3",
+  "summary": "Contract-first validation framework for reproducible computational workflows. Six kernel invariants, 20 scientific domains, three-valued verdicts.",
+  "author": "Clement Paulus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "umcp-2.2.3.tar.gz",
+  "download_time": "2026-03-19T06:56:26.182317",
+  "package_url": "https://pypi.org/project/umcp/"
+}

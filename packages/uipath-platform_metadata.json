@@ -1,11 +1,11 @@
 {
   "name": "uipath-platform",
-  "version": "0.0.27",
+  "version": "0.0.29",
   "summary": "HTTP client library for programmatic access to UiPath Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath_platform-0.0.27.tar.gz",
-  "download_time": "2026-03-18T10:34:01.925068",
+  "download_filename": "uipath_platform-0.0.29.tar.gz",
+  "download_time": "2026-03-19T06:56:09.963506",
   "package_url": "https://pypi.org/project/uipath-platform/"
 }

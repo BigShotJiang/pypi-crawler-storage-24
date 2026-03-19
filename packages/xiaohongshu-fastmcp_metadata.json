@@ -1,0 +1,11 @@
+{
+  "name": "xiaohongshu-fastmcp",
+  "version": "0.1.1",
+  "summary": "FastMCP Python implementation for xiaohongshu-mcp",
+  "author": "xiaohongshu-fastmcp maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xiaohongshu_fastmcp-0.1.1.tar.gz",
+  "download_time": "2026-03-19T06:56:03.028404",
+  "package_url": "https://pypi.org/project/xiaohongshu-fastmcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gen-vm-image",
+  "version": "0.0.8",
+  "summary": "This tool can be used for generating virtual machine images.",
+  "author": "Rasmus Munk",
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": "https://github.com/ucphhpc/gen-vm-image",
+  "download_filename": "gen_vm_image-0.0.8.tar.gz",
+  "download_time": "2026-03-19T06:56:24.042454",
+  "package_url": "https://pypi.org/project/gen-vm-image/"
+}
