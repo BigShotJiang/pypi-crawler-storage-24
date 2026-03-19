@@ -1,0 +1,11 @@
+{
+  "name": "pyreflect-nr",
+  "version": "1.4.6",
+  "summary": "The package tool for neutron reflectivity analysis",
+  "author": "Yuqing Qiao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyreflect_nr-1.4.6.tar.gz",
+  "download_time": "2026-03-19T23:30:25.590315",
+  "package_url": "https://pypi.org/project/pyreflect-nr/"
+}

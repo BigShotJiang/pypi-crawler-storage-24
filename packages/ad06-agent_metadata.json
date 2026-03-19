@@ -1,0 +1,11 @@
+{
+  "name": "ad06-agent",
+  "version": "1.0.1",
+  "summary": "Ad06 — Agente de automacao desktop com IA (UI Automation + Grok xAI)",
+  "author": "Adielson Sousa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ad06_agent-1.0.1.tar.gz",
+  "download_time": "2026-03-19T23:30:22.449873",
+  "package_url": "https://pypi.org/project/ad06-agent/"
+}

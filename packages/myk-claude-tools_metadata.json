@@ -1,11 +1,11 @@
 {
   "name": "myk-claude-tools",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "CLI utilities for Claude Code plugins",
   "author": "myk-org",
   "license": null,
   "home_page": null,
-  "download_filename": "myk_claude_tools-1.4.3.tar.gz",
-  "download_time": "2026-03-19T11:54:33.889007",
+  "download_filename": "myk_claude_tools-1.4.4.tar.gz",
+  "download_time": "2026-03-19T23:30:28.234790",
   "package_url": "https://pypi.org/project/myk-claude-tools/"
 }

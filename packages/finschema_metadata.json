@@ -1,0 +1,11 @@
+{
+  "name": "finschema",
+  "version": "0.6.0",
+  "summary": "Pydantic-compatible financial data types and validators",
+  "author": "finschema maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finschema-0.6.0.tar.gz",
+  "download_time": "2026-03-19T23:29:52.586913",
+  "package_url": "https://pypi.org/project/finschema/"
+}

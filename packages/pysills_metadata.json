@@ -1,11 +1,11 @@
 {
   "name": "pysills",
-  "version": "1.0.101",
+  "version": "1.0.102",
   "summary": "PySILLS is a Python-based, open source data reduction tool for the major, minor and trace element analysis of minerals as well as of fluid and melt inclusions.",
   "author": "Maximilian Alexander Beeskow",
   "license": "LGPL-3.0",
   "home_page": "https://github.com/MABeeskow/PySILLS",
-  "download_filename": "pysills-1.0.101.tar.gz",
-  "download_time": "2026-03-19T19:58:45.458735",
+  "download_filename": "pysills-1.0.102.tar.gz",
+  "download_time": "2026-03-19T23:30:18.779178",
   "package_url": "https://pypi.org/project/pysills/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "iree-tools-tflite",
+  "version": "20260316.1567",
+  "summary": "IREE TFLite Compiler Tools",
+  "author": "The IREE Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/iree-org/iree",
+  "download_filename": "iree_tools_tflite-20260316.1567-py3-none-any.whl",
+  "download_time": "2026-03-19T23:30:05.315714",
+  "package_url": "https://pypi.org/project/iree-tools-tflite/"
+}

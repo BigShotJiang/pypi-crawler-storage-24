@@ -1,0 +1,11 @@
+{
+  "name": "agent-payment-sdk",
+  "version": "0.4.2",
+  "summary": "Python SDK for AI Agent Payment Network - Hybrid crypto + fiat payments",
+  "author": "AgentPayment.Network",
+  "license": null,
+  "home_page": "https://agentpayment.network",
+  "download_filename": "agent_payment_sdk-0.4.2-py3-none-any.whl",
+  "download_time": "2026-03-19T23:30:27.711606",
+  "package_url": "https://pypi.org/project/agent-payment-sdk/"
+}
