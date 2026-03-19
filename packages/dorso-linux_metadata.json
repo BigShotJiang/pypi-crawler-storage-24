@@ -1,0 +1,11 @@
+{
+  "name": "dorso-linux",
+  "version": "0.1.2",
+  "summary": "Posture monitoring tool for Linux — webcam slouch detection with screen overlay",
+  "author": "Gheop",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dorso_linux-0.1.2.tar.gz",
+  "download_time": "2026-03-19T15:10:36.973561",
+  "package_url": "https://pypi.org/project/dorso-linux/"
+}

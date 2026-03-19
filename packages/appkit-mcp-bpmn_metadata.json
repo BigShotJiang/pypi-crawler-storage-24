@@ -1,11 +1,11 @@
 {
   "name": "appkit-mcp-bpmn",
-  "version": "1.8.6",
+  "version": "1.9.0",
   "summary": "MCP BPMN 2.0 Diagram Server",
   "author": "Jens Rehpöhler",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "appkit_mcp_bpmn-1.8.6.tar.gz",
-  "download_time": "2026-03-14T21:24:35.755476",
+  "download_filename": "appkit_mcp_bpmn-1.9.0.tar.gz",
+  "download_time": "2026-03-19T15:10:34.273000",
   "package_url": "https://pypi.org/project/appkit-mcp-bpmn/"
 }

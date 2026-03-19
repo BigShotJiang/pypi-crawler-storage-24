@@ -1,0 +1,11 @@
+{
+  "name": "tokendito",
+  "version": "2.5.0",
+  "summary": "Get AWS STS tokens from Okta SSO",
+  "author": "tokendito",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dowjones/tokendito",
+  "download_filename": "tokendito-2.5.0.tar.gz",
+  "download_time": "2026-03-19T15:10:16.648371",
+  "package_url": "https://pypi.org/project/tokendito/"
+}

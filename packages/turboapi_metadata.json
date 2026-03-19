@@ -1,11 +1,11 @@
 {
   "name": "turboapi",
-  "version": "1.0.0",
-  "summary": "FastAPI-compatible web framework with Zig HTTP core — 7x faster with Python 3.14 free-threading",
+  "version": "1.0.13",
+  "summary": "FastAPI-compatible web framework with Zig HTTP core — 20x faster with Python 3.14 free-threading",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turboapi-1.0.0.tar.gz",
-  "download_time": "2026-03-19T05:51:20.080607",
+  "download_filename": "turboapi-1.0.13.tar.gz",
+  "download_time": "2026-03-19T15:10:08.932726",
   "package_url": "https://pypi.org/project/turboapi/"
 }

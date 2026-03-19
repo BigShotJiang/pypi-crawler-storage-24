@@ -1,11 +1,11 @@
 {
   "name": "cc-statistics",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Claude Code 会话统计工具 — 分析 AI Coding 工程指标",
   "author": "androidZzT",
   "license": null,
   "home_page": null,
-  "download_filename": "cc_statistics-0.8.0.tar.gz",
-  "download_time": "2026-03-19T12:57:16.276855",
+  "download_filename": "cc_statistics-0.8.1.tar.gz",
+  "download_time": "2026-03-19T15:10:11.700661",
   "package_url": "https://pypi.org/project/cc-statistics/"
 }

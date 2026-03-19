@@ -1,0 +1,11 @@
+{
+  "name": "semantic-scholar-fastmcp",
+  "version": "0.1.1",
+  "summary": "A FastMCP server for the Semantic Scholar API — paper search, author info, citations, and recommendations.",
+  "author": "Zongmin Yu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "semantic_scholar_fastmcp-0.1.1.tar.gz",
+  "download_time": "2026-03-19T15:10:19.394616",
+  "package_url": "https://pypi.org/project/semantic-scholar-fastmcp/"
+}

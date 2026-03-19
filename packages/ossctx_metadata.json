@@ -1,11 +1,11 @@
 {
   "name": "ossctx",
-  "version": "0.1.0b7",
+  "version": "0.1.0b10",
   "summary": "Unified Python CLI for code, docs, and otel context tooling",
   "author": "RandomCodeSpace",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ossctx-0.1.0b7.tar.gz",
-  "download_time": "2026-03-19T09:13:28.822270",
+  "download_filename": "ossctx-0.1.0b10.tar.gz",
+  "download_time": "2026-03-19T15:10:17.222752",
   "package_url": "https://pypi.org/project/ossctx/"
 }

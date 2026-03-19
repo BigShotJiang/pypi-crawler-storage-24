@@ -1,0 +1,11 @@
+{
+  "name": "actorskinaov",
+  "version": "1.0.0",
+  "summary": "Binary patcher for HeroSkin.bytes and HeroSkinShop.bytes (GST & DMOD Skin Patcher)",
+  "author": "Worawit_DMODOF",
+  "license": null,
+  "home_page": null,
+  "download_filename": "actorskinaov-1.0.0.tar.gz",
+  "download_time": "2026-03-19T15:10:19.944685",
+  "package_url": "https://pypi.org/project/actorskinaov/"
+}

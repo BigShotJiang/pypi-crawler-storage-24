@@ -1,11 +1,11 @@
 {
   "name": "clerk-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Library for interacting with Clerk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clerk_sdk-1.0.6.tar.gz",
-  "download_time": "2026-03-19T12:57:23.521050",
+  "download_filename": "clerk_sdk-1.0.7.tar.gz",
+  "download_time": "2026-03-19T15:09:53.972308",
   "package_url": "https://pypi.org/project/clerk-sdk/"
 }

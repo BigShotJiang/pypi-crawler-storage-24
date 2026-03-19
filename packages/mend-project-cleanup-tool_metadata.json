@@ -1,0 +1,11 @@
+{
+  "name": "mend-project-cleanup-tool",
+  "version": "26.3.1",
+  "summary": "Mend Cleanup Tool",
+  "author": "Mend Professional Services",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/mend-toolkit/mend-project-cleanup-tool",
+  "download_filename": "mend_project_cleanup_tool-26.3.1-py3-none-any.whl",
+  "download_time": "2026-03-19T15:10:05.081722",
+  "package_url": "https://pypi.org/project/mend-project-cleanup-tool/"
+}
