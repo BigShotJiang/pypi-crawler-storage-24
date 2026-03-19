@@ -1,0 +1,11 @@
+{
+  "name": "pdflinks",
+  "version": "0.1.1",
+  "summary": "Check stalled links inside PDFs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdflinks-0.1.1.tar.gz",
+  "download_time": "2026-03-19T16:32:05.719494",
+  "package_url": "https://pypi.org/project/pdflinks/"
+}

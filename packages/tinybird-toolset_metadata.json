@@ -1,0 +1,11 @@
+{
+  "name": "tinybird-toolset",
+  "version": "2.2.1",
+  "summary": null,
+  "author": "Tinybird.co",
+  "license": null,
+  "home_page": "https://gitlab.com/tinybird/clickhouse-toolset",
+  "download_filename": "tinybird_toolset-2.2.1.tar.gz",
+  "download_time": "2026-03-19T16:32:13.343783",
+  "package_url": "https://pypi.org/project/tinybird-toolset/"
+}

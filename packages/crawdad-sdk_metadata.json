@@ -1,0 +1,11 @@
+{
+  "name": "crawdad-sdk",
+  "version": "0.3.0",
+  "summary": "Python SDK for Crawdad — the universal security, privacy, and control API for autonomous AI agents.",
+  "author": "Crawdad Contributors",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "crawdad_sdk-0.3.0.tar.gz",
+  "download_time": "2026-03-19T16:32:05.175343",
+  "package_url": "https://pypi.org/project/crawdad-sdk/"
+}

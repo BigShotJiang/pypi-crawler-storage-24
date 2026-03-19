@@ -1,0 +1,11 @@
+{
+  "name": "nutils-units",
+  "version": "0.2",
+  "summary": "Nutils Units: object wrappers for dimensional computations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nutils_units-0.2.tar.gz",
+  "download_time": "2026-03-19T16:32:19.319348",
+  "package_url": "https://pypi.org/project/nutils-units/"
+}

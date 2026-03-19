@@ -1,0 +1,11 @@
+{
+  "name": "dagger-io",
+  "version": "0.20.2",
+  "summary": "A client package for running Dagger pipelines in Python.",
+  "author": "Dagger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagger_io-0.20.2.tar.gz",
+  "download_time": "2026-03-19T16:32:01.330696",
+  "package_url": "https://pypi.org/project/dagger-io/"
+}

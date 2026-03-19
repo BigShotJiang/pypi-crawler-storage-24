@@ -1,0 +1,11 @@
+{
+  "name": "deepgym",
+  "version": "0.1.0",
+  "summary": "RL training environments with verifiable rewards for coding agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepgym-0.1.0.tar.gz",
+  "download_time": "2026-03-19T16:32:14.973285",
+  "package_url": "https://pypi.org/project/deepgym/"
+}

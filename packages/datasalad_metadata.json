@@ -1,0 +1,11 @@
+{
+  "name": "datasalad",
+  "version": "0.7.0",
+  "summary": "utilities for working with data in the vicinity of Git and git-annex",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasalad-0.7.0.tar.gz",
+  "download_time": "2026-03-19T16:32:12.255571",
+  "package_url": "https://pypi.org/project/datasalad/"
+}

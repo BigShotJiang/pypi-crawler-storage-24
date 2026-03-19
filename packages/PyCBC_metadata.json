@@ -1,0 +1,11 @@
+{
+  "name": "PyCBC",
+  "version": "2.10.0",
+  "summary": "Core library to analyze gravitational-wave data, find signals, and study their parameters.",
+  "author": "The PyCBC team",
+  "license": null,
+  "home_page": "http://pycbc.org/",
+  "download_filename": "pycbc-2.10.0.tar.gz",
+  "download_time": "2026-03-19T16:32:21.005216",
+  "package_url": "https://pypi.org/project/PyCBC/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dissect.cim",
+  "version": "3.13",
+  "summary": "A Dissect module implementing a parser for the Windows Common Information Model (CIM) database, used in the Windows operating system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissect_cim-3.13.tar.gz",
+  "download_time": "2026-03-19T16:31:43.884140",
+  "package_url": "https://pypi.org/project/dissect.cim/"
+}

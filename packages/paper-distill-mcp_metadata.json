@@ -1,11 +1,11 @@
 {
   "name": "paper-distill-mcp",
-  "version": "0.2.0",
+  "version": "0.2.4",
   "summary": "MCP server for academic paper search, curation, and multi-platform push",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paper_distill_mcp-0.2.0.tar.gz",
-  "download_time": "2026-03-13T21:50:35.460905",
+  "download_filename": "paper_distill_mcp-0.2.4.tar.gz",
+  "download_time": "2026-03-19T16:31:42.414419",
   "package_url": "https://pypi.org/project/paper-distill-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "logicbank",
+  "version": "1.31.0",
+  "summary": "Declare multi-table rules for SQLAlchemy update logic -- 40X more concise, Python for extensibility.",
+  "author": "Val Huber",
+  "license": "BSD",
+  "home_page": "https://github.com/valhuber/logicbank",
+  "download_filename": "logicbank-1.31.0.tar.gz",
+  "download_time": "2026-03-19T16:31:52.018283",
+  "package_url": "https://pypi.org/project/logicbank/"
+}

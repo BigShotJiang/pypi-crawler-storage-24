@@ -1,11 +1,11 @@
 {
   "name": "rubberize",
-  "version": "0.4.2",
+  "version": "0.4.2.post1",
   "summary": "Turn Python calculations into well-formatted, math-rich documents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rubberize-0.4.2.tar.gz",
-  "download_time": "2026-03-19T09:13:31.596601",
+  "download_filename": "rubberize-0.4.2.post1.tar.gz",
+  "download_time": "2026-03-19T16:31:55.829384",
   "package_url": "https://pypi.org/project/rubberize/"
 }
