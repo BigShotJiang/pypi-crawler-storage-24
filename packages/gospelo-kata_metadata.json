@@ -1,0 +1,11 @@
+{
+  "name": "gospelo-kata",
+  "version": "0.2.2",
+  "summary": "KATA Markdown™ toolkit for human-AI collaboration: schema, validation, and template in a single file",
+  "author": "gospelo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gospelo_kata-0.2.2.tar.gz",
+  "download_time": "2026-03-19T05:51:18.470618",
+  "package_url": "https://pypi.org/project/gospelo-kata/"
+}

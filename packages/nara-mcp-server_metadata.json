@@ -1,11 +1,11 @@
 {
   "name": "nara-mcp-server",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "summary": "MCP server for searching Korean government procurement bids (나라장터 입찰공고)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nara_mcp_server-1.2.1.tar.gz",
-  "download_time": "2026-03-17T05:08:42.161499",
+  "download_filename": "nara_mcp_server-1.2.3.tar.gz",
+  "download_time": "2026-03-19T05:50:39.152825",
   "package_url": "https://pypi.org/project/nara-mcp-server/"
 }

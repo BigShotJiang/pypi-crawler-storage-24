@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-webflow",
+  "version": "0.10.1",
+  "summary": "Unofficial community-maintained Pulumi provider for managing Webflow sites, redirects, and robots.txt. Not affiliated with Pulumi Corporation or Webflow, Inc.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/JDetmar/pulumi-webflow",
+  "download_filename": "pulumi_webflow-0.10.1.tar.gz",
+  "download_time": "2026-03-19T05:51:12.015706",
+  "package_url": "https://pypi.org/project/pulumi-webflow/"
+}

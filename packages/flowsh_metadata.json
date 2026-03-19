@@ -1,0 +1,11 @@
+{
+  "name": "flowsh",
+  "version": "1.0.0",
+  "summary": "The fastest and simplest way to protect your Python app from traffic spikes",
+  "author": "FlowShield Contributors",
+  "license": null,
+  "home_page": "https://github.com/pravalika/flowshield",
+  "download_filename": "flowsh-1.0.0.tar.gz",
+  "download_time": "2026-03-19T05:51:06.773222",
+  "package_url": "https://pypi.org/project/flowsh/"
+}

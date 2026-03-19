@@ -1,0 +1,11 @@
+{
+  "name": "dataplot",
+  "version": "0.1.6",
+  "summary": "Provides plotting tools useful in datascience.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataplot-0.1.6.tar.gz",
+  "download_time": "2026-03-19T05:51:01.053587",
+  "package_url": "https://pypi.org/project/dataplot/"
+}

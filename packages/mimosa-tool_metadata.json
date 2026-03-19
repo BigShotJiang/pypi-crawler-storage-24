@@ -1,0 +1,11 @@
+{
+  "name": "mimosa-tool",
+  "version": "1.1.4",
+  "summary": "Model-Independent Motif Similarity Assessment tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mimosa_tool-1.1.4.tar.gz",
+  "download_time": "2026-03-19T05:50:42.339977",
+  "package_url": "https://pypi.org/project/mimosa-tool/"
+}

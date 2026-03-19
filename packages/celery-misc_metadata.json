@@ -1,11 +1,11 @@
 {
   "name": "celery-misc",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "Python async tools for Celery",
   "author": "Anton Gorinenko",
   "license": null,
   "home_page": null,
-  "download_filename": "celery_misc-1.0.2.tar.gz",
-  "download_time": "2026-03-18T12:08:44.359894",
+  "download_filename": "celery_misc-1.0.5.tar.gz",
+  "download_time": "2026-03-19T05:51:10.931470",
   "package_url": "https://pypi.org/project/celery-misc/"
 }

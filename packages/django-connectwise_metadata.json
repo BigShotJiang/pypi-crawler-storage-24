@@ -1,0 +1,11 @@
+{
+  "name": "django-connectwise",
+  "version": "1.14.1",
+  "summary": "Django app for working with ConnectWise. Defines models (tickets, members, companies, etc.) and callbacks.",
+  "author": "Kerkhoff Technologies Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/KerkhoffTechnologies/django-connectwise",
+  "download_filename": "django_connectwise-1.14.1-py3-none-any.whl",
+  "download_time": "2026-03-19T05:51:16.918429",
+  "package_url": "https://pypi.org/project/django-connectwise/"
+}

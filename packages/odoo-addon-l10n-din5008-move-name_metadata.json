@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-din5008-move-name",
+  "version": "19.0.1.0.0.2",
+  "summary": "Add Account move name on the name of the move",
+  "author": "Dixmit, MT Software, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-germany",
+  "download_filename": "odoo_addon_l10n_din5008_move_name-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-19T05:50:46.530320",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-din5008-move-name/"
+}

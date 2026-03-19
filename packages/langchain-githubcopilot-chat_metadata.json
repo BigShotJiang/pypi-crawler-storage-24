@@ -1,0 +1,11 @@
+{
+  "name": "langchain-githubcopilot-chat",
+  "version": "0.3.0",
+  "summary": "An integration package connecting GithubcopilotChat and LangChain",
+  "author": "YIhan Wu",
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain",
+  "download_filename": "langchain_githubcopilot_chat-0.3.0.tar.gz",
+  "download_time": "2026-03-19T05:50:33.960091",
+  "package_url": "https://pypi.org/project/langchain-githubcopilot-chat/"
+}

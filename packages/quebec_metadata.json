@@ -1,0 +1,11 @@
+{
+  "name": "quebec",
+  "version": "0.2.10",
+  "summary": "Quebec is a simple background task queue for processing asynchronous tasks.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/ratazzi/quebec",
+  "download_filename": "quebec-0.2.10.tar.gz",
+  "download_time": "2026-03-19T05:50:53.813364",
+  "package_url": "https://pypi.org/project/quebec/"
+}

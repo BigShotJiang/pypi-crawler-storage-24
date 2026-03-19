@@ -1,11 +1,11 @@
 {
   "name": "address-finder-data-p11",
-  "version": "1.0.0",
-  "summary": "address-finder data chunk p11 =?unknown-8bit?b?4oCU?= contains numex.dat part 1/1",
-  "author": null,
+  "version": "1.0.1",
+  "summary": "address-finder data chunk p11 - contains numex.dat part 1/1",
+  "author": "Karthikeyan Balasundaram",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "address_finder_data_p11-1.0.0-py3-none-any.whl",
-  "download_time": "2026-03-17T06:47:03.565451",
+  "download_filename": "address_finder_data_p11-1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-19T05:50:44.939792",
   "package_url": "https://pypi.org/project/address-finder-data-p11/"
 }
