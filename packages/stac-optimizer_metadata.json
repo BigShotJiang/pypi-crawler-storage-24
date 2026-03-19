@@ -1,11 +1,11 @@
 {
   "name": "stac-optimizer",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "STAC optimizer with sign-based early-layer updates and AdamW on the last N trainable layers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stac_optimizer-0.1.8.tar.gz",
-  "download_time": "2026-03-19T11:05:21.947290",
+  "download_filename": "stac_optimizer-0.1.9.tar.gz",
+  "download_time": "2026-03-19T11:54:58.134361",
   "package_url": "https://pypi.org/project/stac-optimizer/"
 }

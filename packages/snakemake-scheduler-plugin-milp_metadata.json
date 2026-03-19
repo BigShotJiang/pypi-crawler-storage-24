@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-scheduler-plugin-milp",
+  "version": "0.1.1",
+  "summary": "A Snakemake scheduler plugin using Mixed-Integer Linear Programming (MILP).",
+  "author": "Filipe G. Vieira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakemake_scheduler_plugin_milp-0.1.1.tar.gz",
+  "download_time": "2026-03-19T11:54:53.459156",
+  "package_url": "https://pypi.org/project/snakemake-scheduler-plugin-milp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "missensemble",
+  "version": "0.2.0",
+  "summary": "A package for missing data imputation",
+  "author": "Dimitris Katsimpokis",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "missensemble-0.2.0.tar.gz",
+  "download_time": "2026-03-19T11:54:21.595521",
+  "package_url": "https://pypi.org/project/missensemble/"
+}

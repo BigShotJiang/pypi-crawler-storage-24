@@ -1,11 +1,11 @@
 {
   "name": "cryptknox",
-  "version": "0.2.3",
+  "version": "0.2.10",
   "summary": "A light weight secure CLI tool for storing, retrieving, deleting, and generating encrypted passwords.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cryptknox-0.2.3.tar.gz",
-  "download_time": "2026-03-19T10:38:04.183280",
+  "download_filename": "cryptknox-0.2.10.tar.gz",
+  "download_time": "2026-03-19T11:54:24.294232",
   "package_url": "https://pypi.org/project/cryptknox/"
 }

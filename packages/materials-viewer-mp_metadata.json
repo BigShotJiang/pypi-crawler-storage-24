@@ -1,0 +1,11 @@
+{
+  "name": "materials-viewer-mp",
+  "version": "1.0.0",
+  "summary": "Materials Project 材料查询工具 - 支持化学式查询、带隙筛选、3D可视化",
+  "author": "haiw201",
+  "license": "MIT",
+  "home_page": "https://github.com/haiw201/materials-viewer",
+  "download_filename": "materials_viewer_mp-1.0.0.tar.gz",
+  "download_time": "2026-03-19T11:54:23.251634",
+  "package_url": "https://pypi.org/project/materials-viewer-mp/"
+}

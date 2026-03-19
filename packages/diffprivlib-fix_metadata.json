@@ -1,0 +1,11 @@
+{
+  "name": "diffprivlib-fix",
+  "version": "0.6.7",
+  "summary": "IBM Differential Privacy Library",
+  "author": "Naoise Holohan",
+  "license": "MIT",
+  "home_page": "https://github.com/IBM/differential-privacy-library",
+  "download_filename": "diffprivlib_fix-0.6.7.tar.gz",
+  "download_time": "2026-03-19T11:54:46.769750",
+  "package_url": "https://pypi.org/project/diffprivlib-fix/"
+}

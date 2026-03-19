@@ -1,0 +1,11 @@
+{
+  "name": "pg-migration",
+  "version": "1.5.1",
+  "summary": "postgres ci/cd automation",
+  "author": "Andrey Chernyakov",
+  "license": "BSD",
+  "home_page": "https://github.com/comagic/pg_migration",
+  "download_filename": "pg_migration-1.5.1.tar.gz",
+  "download_time": "2026-03-19T11:54:39.562732",
+  "package_url": "https://pypi.org/project/pg-migration/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "syndatalab",
+  "version": "0.1.0",
+  "summary": "Production-grade synthetic data generation using LLMs with structured outputs, caching, checkpointing, and monitoring.",
+  "author": "deepak yadav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "syndatalab-0.1.0.tar.gz",
+  "download_time": "2026-03-19T11:54:44.207724",
+  "package_url": "https://pypi.org/project/syndatalab/"
+}

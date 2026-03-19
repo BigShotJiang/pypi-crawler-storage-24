@@ -1,0 +1,11 @@
+{
+  "name": "splathash",
+  "version": "1.1.0",
+  "summary": "A Django USSD Framework.",
+  "author": "Nalo Solutions",
+  "license": "Proprietary",
+  "home_page": "https://www.nalosolutions.com/",
+  "download_filename": "splathash-1.1.0.tar.gz",
+  "download_time": "2026-03-19T11:54:45.747979",
+  "package_url": "https://pypi.org/project/splathash/"
+}

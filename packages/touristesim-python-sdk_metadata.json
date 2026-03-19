@@ -1,0 +1,11 @@
+{
+  "name": "touristesim-python-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Tourist eSIM Partner API",
+  "author": "Tourist eSIM",
+  "license": null,
+  "home_page": "https://github.com/touristesim/touristesim-python-sdk",
+  "download_filename": "touristesim_python_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-19T11:54:50.896349",
+  "package_url": "https://pypi.org/project/touristesim-python-sdk/"
+}

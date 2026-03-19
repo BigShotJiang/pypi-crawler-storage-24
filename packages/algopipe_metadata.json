@@ -1,0 +1,11 @@
+{
+  "name": "algopipe",
+  "version": "0.1.2",
+  "summary": "Interactive CLI to generate ML/DL pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "algopipe-0.1.2.tar.gz",
+  "download_time": "2026-03-19T11:54:51.921667",
+  "package_url": "https://pypi.org/project/algopipe/"
+}

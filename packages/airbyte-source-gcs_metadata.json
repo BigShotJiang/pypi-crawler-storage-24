@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-gcs",
+  "version": "0.10.8",
+  "summary": "Source implementation for Gcs.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_gcs-0.10.8.tar.gz",
+  "download_time": "2026-03-19T11:54:28.674399",
+  "package_url": "https://pypi.org/project/airbyte-source-gcs/"
+}

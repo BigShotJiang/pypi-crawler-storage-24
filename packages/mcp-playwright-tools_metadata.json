@@ -1,0 +1,11 @@
+{
+  "name": "mcp-playwright-tools",
+  "version": "1.0.0",
+  "summary": "Playwright browser automation tools for MCP — navigation, interaction, content extraction, and semantic locators",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_playwright_tools-1.0.0.tar.gz",
+  "download_time": "2026-03-19T11:54:55.522488",
+  "package_url": "https://pypi.org/project/mcp-playwright-tools/"
+}
