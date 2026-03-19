@@ -1,0 +1,11 @@
+{
+  "name": "nfinitmonkeys-cortex-sdk",
+  "version": "1.2.0",
+  "summary": "Official Python SDK for the Cortex LLM Gateway API by InfiniteMonkeys",
+  "author": "InfiniteMonkeys",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nfinitmonkeys_cortex_sdk-1.2.0.tar.gz",
+  "download_time": "2026-03-19T00:08:57.452749",
+  "package_url": "https://pypi.org/project/nfinitmonkeys-cortex-sdk/"
+}

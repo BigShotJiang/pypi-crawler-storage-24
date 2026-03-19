@@ -1,11 +1,11 @@
 {
   "name": "zipline-ai",
-  "version": "1.2.2",
+  "version": "1.3.1",
   "summary": "CLI tool for the Zipline AI platform",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "zipline_ai-1.2.2-py3-none-any.whl",
-  "download_time": "2026-03-14T19:43:11.586621",
+  "download_filename": "zipline_ai-1.3.1-py3-none-any.whl",
+  "download_time": "2026-03-19T00:08:33.566507",
   "package_url": "https://pypi.org/project/zipline-ai/"
 }

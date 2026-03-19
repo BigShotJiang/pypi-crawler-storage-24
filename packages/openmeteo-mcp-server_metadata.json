@@ -1,0 +1,11 @@
+{
+  "name": "openmeteo-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP Server for global weather, forecasts, air quality and climate data via Open-Meteo",
+  "author": "AiAgentKarl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openmeteo_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-19T00:08:33.054768",
+  "package_url": "https://pypi.org/project/openmeteo-mcp-server/"
+}

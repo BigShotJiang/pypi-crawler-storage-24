@@ -1,0 +1,11 @@
+{
+  "name": "fusiondata",
+  "version": "0.1.0",
+  "summary": "A unified Python API for fusion reactor data — astropy for fusion.",
+  "author": "fusiondata contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fusiondata-0.1.0.tar.gz",
+  "download_time": "2026-03-19T00:08:41.434818",
+  "package_url": "https://pypi.org/project/fusiondata/"
+}

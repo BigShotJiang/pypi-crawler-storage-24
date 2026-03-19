@@ -1,0 +1,11 @@
+{
+  "name": "courtlistener-api-client",
+  "version": "0.0.5",
+  "summary": "Official Python SDK for the CourtListener API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "courtlistener_api_client-0.0.5.tar.gz",
+  "download_time": "2026-03-19T00:08:45.035004",
+  "package_url": "https://pypi.org/project/courtlistener-api-client/"
+}

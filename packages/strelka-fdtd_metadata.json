@@ -1,0 +1,11 @@
+{
+  "name": "strelka-fdtd",
+  "version": "0.1.0",
+  "summary": "Fastest open-source differentiable photonic optimizer. JAX-accelerated 2D FDTD with free adjoint gradients.",
+  "author": "Pushinka",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strelka_fdtd-0.1.0.tar.gz",
+  "download_time": "2026-03-19T00:08:31.448815",
+  "package_url": "https://pypi.org/project/strelka-fdtd/"
+}

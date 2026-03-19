@@ -1,0 +1,11 @@
+{
+  "name": "numODEsolver",
+  "version": "2.0.1",
+  "summary": "Tool that solves ODE's numerically. Written in Python.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/lukasnf/Numerical-ODE-Solver",
+  "download_filename": "numodesolver-2.0.1.tar.gz",
+  "download_time": "2026-03-19T00:08:34.592512",
+  "package_url": "https://pypi.org/project/numODEsolver/"
+}

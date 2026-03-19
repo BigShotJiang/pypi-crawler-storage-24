@@ -1,11 +1,11 @@
 {
   "name": "litparser",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "Lightweight Document Parser - 순수 Python으로 PDF, DOCX, PPTX, HWPX 파싱",
   "author": "ironwung",
   "license": null,
   "home_page": "https://github.com/ironwung/litparser",
-  "download_filename": "litparser-1.4.3.tar.gz",
-  "download_time": "2026-03-18T23:46:54.547166",
+  "download_filename": "litparser-1.4.4.tar.gz",
+  "download_time": "2026-03-19T00:08:36.813824",
   "package_url": "https://pypi.org/project/litparser/"
 }

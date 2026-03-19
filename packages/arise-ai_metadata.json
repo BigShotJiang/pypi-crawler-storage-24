@@ -1,0 +1,11 @@
+{
+  "name": "arise-ai",
+  "version": "0.1.2",
+  "summary": "Self-evolving agent framework — agents that create their own tools",
+  "author": "Alibek Kaliyev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arise_ai-0.1.2.tar.gz",
+  "download_time": "2026-03-19T00:09:04.220333",
+  "package_url": "https://pypi.org/project/arise-ai/"
+}

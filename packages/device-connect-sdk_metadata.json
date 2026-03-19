@@ -1,0 +1,11 @@
+{
+  "name": "device-connect-sdk",
+  "version": "0.1.1",
+  "summary": "Device Connect SDK — lightweight edge device runtime with Zenoh/NATS messaging and D2D communication",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "device_connect_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-19T00:09:02.690371",
+  "package_url": "https://pypi.org/project/device-connect-sdk/"
+}

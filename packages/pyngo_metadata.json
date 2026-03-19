@@ -1,0 +1,11 @@
+{
+  "name": "pyngo",
+  "version": "2.5.0",
+  "summary": "Pydantic Package for Adding Models into a Django or Django Rest Framework Project ✨",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyngo-2.5.0.tar.gz",
+  "download_time": "2026-03-19T00:08:29.220247",
+  "package_url": "https://pypi.org/project/pyngo/"
+}
