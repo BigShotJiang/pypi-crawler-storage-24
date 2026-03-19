@@ -1,11 +1,11 @@
 {
   "name": "st-rsuite",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "RSuite date & time components for Streamlit, built with Components v2.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "st_rsuite-0.2.0.tar.gz",
-  "download_time": "2026-03-19T23:30:02.689628",
+  "download_filename": "st_rsuite-0.2.1.tar.gz",
+  "download_time": "2026-03-19T23:57:08.444223",
   "package_url": "https://pypi.org/project/st-rsuite/"
 }

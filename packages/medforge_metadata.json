@@ -1,0 +1,11 @@
+{
+  "name": "medforge",
+  "version": "0.1.0",
+  "summary": "High-performance HL7v2 message parser powered by Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "medforge-0.1.0.tar.gz",
+  "download_time": "2026-03-19T23:56:49.691117",
+  "package_url": "https://pypi.org/project/medforge/"
+}

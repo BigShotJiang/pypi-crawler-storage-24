@@ -1,0 +1,11 @@
+{
+  "name": "pyradiance",
+  "version": "1.2.1",
+  "summary": "Python inteface for Radiance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyradiance-1.2.1-cp310-cp310-macosx_10_14_x86_64.whl",
+  "download_time": "2026-03-19T23:57:12.164208",
+  "package_url": "https://pypi.org/project/pyradiance/"
+}

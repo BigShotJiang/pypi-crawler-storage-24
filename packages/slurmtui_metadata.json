@@ -1,0 +1,11 @@
+{
+  "name": "slurmtui",
+  "version": "0.4.3",
+  "summary": "A simple Terminal UI (TUI) for Slurm",
+  "author": "Wissam Antoun",
+  "license": null,
+  "home_page": "https://github.com/WissamAntoun/SlurmTUI",
+  "download_filename": "slurmtui-0.4.3.tar.gz",
+  "download_time": "2026-03-19T23:56:32.944103",
+  "package_url": "https://pypi.org/project/slurmtui/"
+}

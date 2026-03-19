@@ -1,11 +1,11 @@
 {
   "name": "beach-bem",
-  "version": "0.6.5",
+  "version": "0.7.0",
   "summary": "BEACH (BEM + Accumulated CHarge): BEM surface-charging + test-particle prototype (insulator mode) with hybrid E-field and Boris pusher.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beach_bem-0.6.5.tar.gz",
-  "download_time": "2026-03-14T12:01:31.314275",
+  "download_filename": "beach_bem-0.7.0.tar.gz",
+  "download_time": "2026-03-19T23:56:40.244318",
   "package_url": "https://pypi.org/project/beach-bem/"
 }

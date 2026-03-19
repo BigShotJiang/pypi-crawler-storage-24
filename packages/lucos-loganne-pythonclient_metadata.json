@@ -1,11 +1,11 @@
 {
   "name": "lucos-loganne-pythonclient",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "A python client for sending events to lucos_loganne",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lucos_loganne_pythonclient-1.0.8.tar.gz",
-  "download_time": "2026-03-19T15:10:22.226596",
+  "download_filename": "lucos_loganne_pythonclient-1.0.9.tar.gz",
+  "download_time": "2026-03-19T23:56:44.424794",
   "package_url": "https://pypi.org/project/lucos-loganne-pythonclient/"
 }

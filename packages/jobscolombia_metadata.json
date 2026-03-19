@@ -1,11 +1,11 @@
 {
   "name": "jobscolombia",
-  "version": "0.1.0",
-  "summary": "Professional web scraper for tech job listings in Colombia",
+  "version": "0.2.0",
+  "summary": "Tech job scoring and utilities for Colombia",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jobscolombia-0.1.0.tar.gz",
-  "download_time": "2026-03-19T21:58:51.604686",
+  "download_filename": "jobscolombia-0.2.0.tar.gz",
+  "download_time": "2026-03-19T23:56:58.127374",
   "package_url": "https://pypi.org/project/jobscolombia/"
 }

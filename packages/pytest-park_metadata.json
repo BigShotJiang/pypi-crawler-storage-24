@@ -1,11 +1,11 @@
 {
   "name": "pytest-park",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Organise and analyse your pytest benchmarks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_park-0.2.0.tar.gz",
-  "download_time": "2026-03-14T19:07:44.585427",
+  "download_filename": "pytest_park-0.3.1.tar.gz",
+  "download_time": "2026-03-19T23:56:35.529676",
   "package_url": "https://pypi.org/project/pytest-park/"
 }

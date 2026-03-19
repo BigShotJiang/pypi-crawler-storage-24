@@ -1,0 +1,11 @@
+{
+  "name": "sprout-social-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for managing Sprout Social via Claude",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sprout_social_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-19T23:56:38.123356",
+  "package_url": "https://pypi.org/project/sprout-social-mcp/"
+}

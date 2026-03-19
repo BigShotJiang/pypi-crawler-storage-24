@@ -1,0 +1,11 @@
+{
+  "name": "qbtrain",
+  "version": "0.1.3",
+  "summary": "Tools for training and serving models (replace with a short description)",
+  "author": "Pavan Reddy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qbtrain-0.1.3.tar.gz",
+  "download_time": "2026-03-19T23:56:43.895383",
+  "package_url": "https://pypi.org/project/qbtrain/"
+}

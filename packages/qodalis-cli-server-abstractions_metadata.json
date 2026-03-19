@@ -1,11 +1,11 @@
 {
   "name": "qodalis-cli-server-abstractions",
-  "version": "1.0.0b3",
+  "version": "1.0.0b4",
   "summary": "Shared interfaces and base classes for Qodalis CLI command processors — zero framework dependencies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qodalis_cli_server_abstractions-1.0.0b3.tar.gz",
-  "download_time": "2026-03-15T20:25:26.906761",
+  "download_filename": "qodalis_cli_server_abstractions-1.0.0b4.tar.gz",
+  "download_time": "2026-03-19T23:57:18.886881",
   "package_url": "https://pypi.org/project/qodalis-cli-server-abstractions/"
 }

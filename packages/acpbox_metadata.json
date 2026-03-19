@@ -1,0 +1,11 @@
+{
+  "name": "acpbox",
+  "version": "0.1.1",
+  "summary": "OpenAI-compatible HTTP API gateway for Agent Client Protocol (ACP) over stdio",
+  "author": "acpbox contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "acpbox-0.1.1.tar.gz",
+  "download_time": "2026-03-19T23:57:07.371496",
+  "package_url": "https://pypi.org/project/acpbox/"
+}

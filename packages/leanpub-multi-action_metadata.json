@@ -1,0 +1,11 @@
+{
+  "name": "leanpub-multi-action",
+  "version": "2.1.0",
+  "summary": "GitHub Actions for Leanpub.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "leanpub_multi_action-2.1.0.tar.gz",
+  "download_time": "2026-03-19T23:56:42.848870",
+  "package_url": "https://pypi.org/project/leanpub-multi-action/"
+}

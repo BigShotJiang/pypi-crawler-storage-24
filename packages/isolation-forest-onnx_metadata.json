@@ -1,0 +1,11 @@
+{
+  "name": "isolation-forest-onnx",
+  "version": "4.1.2",
+  "summary": "A converter for the LinkedIn Spark/Scala isolation forest model format to ONNX format.",
+  "author": "James Verbus",
+  "license": "BSD 2-Clause License",
+  "home_page": "https://github.com/linkedin/isolation-forest",
+  "download_filename": "isolation_forest_onnx-4.1.2.tar.gz",
+  "download_time": "2026-03-19T23:57:11.017235",
+  "package_url": "https://pypi.org/project/isolation-forest-onnx/"
+}

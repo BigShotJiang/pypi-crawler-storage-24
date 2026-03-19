@@ -1,11 +1,11 @@
 {
   "name": "swopy",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "A library for biredirectional conversion between numeral systems. Supports 46 different systems across all numeral systems available in Unicode. Families include Aramaic, Brahmi, Cuneiform, Egyptian, Ethiopic, Greek, Hebrew, Hindu-Arabic, Kaktovik, Kharosthi, Mayan, Medefaidrin, Nabataean, Pahlavi, Phoenician, Roman, Sino-Tibetan, Siyaq, Sogdian, and South Arabian.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "swopy-0.1.11.tar.gz",
-  "download_time": "2026-03-19T19:22:14.062613",
+  "download_filename": "swopy-0.1.12.tar.gz",
+  "download_time": "2026-03-19T23:57:09.987979",
   "package_url": "https://pypi.org/project/swopy/"
 }

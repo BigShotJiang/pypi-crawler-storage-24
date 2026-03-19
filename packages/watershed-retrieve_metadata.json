@@ -1,11 +1,11 @@
 {
   "name": "watershed-retrieve",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Pre-delineated MERIT-Hydro watershed boundaries for ~60,000 gauging stations across 16 countries",
   "author": "Nicolas Lazaro",
   "license": null,
   "home_page": null,
-  "download_filename": "watershed_retrieve-1.0.3.tar.gz",
-  "download_time": "2026-03-19T14:10:20.405509",
+  "download_filename": "watershed_retrieve-1.0.4.tar.gz",
+  "download_time": "2026-03-19T23:57:05.823971",
   "package_url": "https://pypi.org/project/watershed-retrieve/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-notes-rag",
+  "version": "1.1.2",
+  "summary": "MCP server for semantic search over Obsidian notes using local RAG",
+  "author": "Ernest Koe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "obsidian_notes_rag-1.1.2.tar.gz",
+  "download_time": "2026-03-19T23:56:53.374964",
+  "package_url": "https://pypi.org/project/obsidian-notes-rag/"
+}
