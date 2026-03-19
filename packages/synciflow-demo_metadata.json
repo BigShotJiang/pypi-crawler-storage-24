@@ -1,11 +1,11 @@
 {
   "name": "synciflow-demo",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "summary": "Python package for the synciflow project.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synciflow_demo-1.0.0.tar.gz",
-  "download_time": "2026-03-19T06:56:47.510254",
+  "download_filename": "synciflow_demo-3.0.0.tar.gz",
+  "download_time": "2026-03-19T17:18:31.241725",
   "package_url": "https://pypi.org/project/synciflow-demo/"
 }

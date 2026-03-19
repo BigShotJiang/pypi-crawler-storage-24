@@ -1,0 +1,11 @@
+{
+  "name": "playground-ls-cli",
+  "version": "2026.8.0",
+  "summary": "The LocalStack Command Line Interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "playground_ls_cli-2026.8.0.tar.gz",
+  "download_time": "2026-03-19T17:18:39.621870",
+  "package_url": "https://pypi.org/project/playground-ls-cli/"
+}

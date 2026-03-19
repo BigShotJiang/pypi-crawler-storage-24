@@ -1,0 +1,11 @@
+{
+  "name": "here-i-strand",
+  "version": "0.2.9",
+  "summary": "here-i-strand (HIS) agent module. Provides a custom Strands agent with DynamoDB status tracking, S3 session persistence and a concurrent tool executor with per-tool timeouts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "here_i_strand-0.2.9.tar.gz",
+  "download_time": "2026-03-19T17:18:52.295372",
+  "package_url": "https://pypi.org/project/here-i-strand/"
+}

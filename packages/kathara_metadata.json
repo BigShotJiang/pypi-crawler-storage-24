@@ -1,0 +1,11 @@
+{
+  "name": "kathara",
+  "version": "3.8.1",
+  "summary": "A lightweight container-based network emulation tool.",
+  "author": "Kathara Framework",
+  "license": null,
+  "home_page": "https://www.kathara.org",
+  "download_filename": "kathara-3.8.1.tar.gz",
+  "download_time": "2026-03-19T17:18:42.747266",
+  "package_url": "https://pypi.org/project/kathara/"
+}

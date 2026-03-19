@@ -1,0 +1,11 @@
+{
+  "name": "rdtools",
+  "version": "3.1.1",
+  "summary": "Functions for reproducible timeseries analysis of photovoltaic systems.",
+  "author": "Rdtools Python Developers",
+  "license": "MIT",
+  "home_page": "https://github.com/NREL/rdtools",
+  "download_filename": "rdtools-3.1.1.tar.gz",
+  "download_time": "2026-03-19T17:18:45.911592",
+  "package_url": "https://pypi.org/project/rdtools/"
+}

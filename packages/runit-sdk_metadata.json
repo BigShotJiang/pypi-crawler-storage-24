@@ -1,11 +1,11 @@
 {
   "name": "runit-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SDK for building apps on RunIt",
   "author": "RunIt",
   "license": "MIT",
   "home_page": "https://github.com/buildingopen/runit",
-  "download_filename": "runit_sdk-0.1.0.tar.gz",
-  "download_time": "2026-03-14T15:52:29.977190",
+  "download_filename": "runit_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-19T17:18:55.468452",
   "package_url": "https://pypi.org/project/runit-sdk/"
 }

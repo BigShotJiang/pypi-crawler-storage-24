@@ -1,0 +1,11 @@
+{
+  "name": "codemaster-cli",
+  "version": "2.2.0",
+  "summary": "CLI coding assistant with local LLM support via Ollama",
+  "author": "codeMaster Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codemaster_cli-2.2.0.tar.gz",
+  "download_time": "2026-03-19T17:18:48.573474",
+  "package_url": "https://pypi.org/project/codemaster-cli/"
+}

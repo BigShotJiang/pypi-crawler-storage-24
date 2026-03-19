@@ -1,11 +1,11 @@
 {
   "name": "taco-agent",
-  "version": "0.2.4",
+  "version": "0.3.1",
   "summary": "TACO — The A2A Construction Open-standard SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "taco_agent-0.2.4.tar.gz",
-  "download_time": "2026-03-15T20:55:35.259636",
+  "download_filename": "taco_agent-0.3.1.tar.gz",
+  "download_time": "2026-03-19T17:18:52.823453",
   "package_url": "https://pypi.org/project/taco-agent/"
 }

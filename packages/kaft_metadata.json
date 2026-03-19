@@ -1,0 +1,11 @@
+{
+  "name": "kaft",
+  "version": "0.1.0",
+  "summary": "Information geometry engine — Fisher-Rao manifolds, Jordan boundaries, K-density navigation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kaft-0.1.0.tar.gz",
+  "download_time": "2026-03-19T17:18:47.479011",
+  "package_url": "https://pypi.org/project/kaft/"
+}
