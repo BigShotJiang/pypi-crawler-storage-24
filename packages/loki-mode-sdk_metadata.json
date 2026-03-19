@@ -1,11 +1,11 @@
 {
   "name": "loki-mode-sdk",
-  "version": "6.37.2",
+  "version": "6.37.7",
   "summary": "Python SDK for Loki Mode - autonomous multi-agent development platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "loki_mode_sdk-6.37.2.tar.gz",
-  "download_time": "2026-03-19T18:07:33.770000",
+  "download_filename": "loki_mode_sdk-6.37.7.tar.gz",
+  "download_time": "2026-03-19T19:22:09.805746",
   "package_url": "https://pypi.org/project/loki-mode-sdk/"
 }

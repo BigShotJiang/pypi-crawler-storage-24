@@ -1,11 +1,11 @@
 {
   "name": "sbrscrape",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "Scrape odds data from sbrodds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sbrscrape-0.0.12.tar.gz",
-  "download_time": "2026-03-16T23:31:36.486244",
+  "download_filename": "sbrscrape-0.0.14.tar.gz",
+  "download_time": "2026-03-19T19:22:17.725293",
   "package_url": "https://pypi.org/project/sbrscrape/"
 }

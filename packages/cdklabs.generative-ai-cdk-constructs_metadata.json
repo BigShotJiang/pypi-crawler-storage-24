@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.generative-ai-cdk-constructs",
+  "version": "0.1.316",
+  "summary": "AWS Generative AI CDK Constructs is a library for well-architected generative AI patterns.",
+  "author": "Amazon Web Services - Prototyping and Cloud Engineering",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/awslabs/generative-ai-cdk-constructs",
+  "download_filename": "cdklabs_generative_ai_cdk_constructs-0.1.316.tar.gz",
+  "download_time": "2026-03-19T19:21:48.399664",
+  "package_url": "https://pypi.org/project/cdklabs.generative-ai-cdk-constructs/"
+}

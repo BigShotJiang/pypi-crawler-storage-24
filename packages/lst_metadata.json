@@ -1,0 +1,11 @@
+{
+  "name": "lst",
+  "version": "0.4.0",
+  "summary": "Declarative Scraping Tools",
+  "author": "Andriy Stremeluk",
+  "license": "MIT",
+  "home_page": "https://github.com/andriystr/LST",
+  "download_filename": "lst-0.4.0-py3-none-any.whl",
+  "download_time": "2026-03-19T19:22:07.747365",
+  "package_url": "https://pypi.org/project/lst/"
+}

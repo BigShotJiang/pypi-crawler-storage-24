@@ -1,0 +1,11 @@
+{
+  "name": "mwinpy",
+  "version": "0.1.1",
+  "summary": "Windows Process and UI automation library",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mwinpy-0.1.1.tar.gz",
+  "download_time": "2026-03-19T19:22:05.117177",
+  "package_url": "https://pypi.org/project/mwinpy/"
+}

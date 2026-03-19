@@ -1,0 +1,11 @@
+{
+  "name": "crds",
+  "version": "13.1.11",
+  "summary": "Calibration Reference Data System,  HST/JWST/Roman reference file management",
+  "author": "STScI CRDS s/w developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crds-13.1.11-py3-none-any.whl",
+  "download_time": "2026-03-19T19:22:08.266972",
+  "package_url": "https://pypi.org/project/crds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bijli",
+  "version": "0.1.0",
+  "summary": "Rust-powered Python profiler: in-process, no sudo, CPU + memory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bijli-0.1.0.tar.gz",
+  "download_time": "2026-03-19T19:21:42.470045",
+  "package_url": "https://pypi.org/project/bijli/"
+}

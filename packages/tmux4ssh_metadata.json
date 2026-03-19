@@ -1,0 +1,11 @@
+{
+  "name": "tmux4ssh",
+  "version": "0.1.2",
+  "summary": "Execute remote commands via SSH in tmux sessions with real-time output streaming",
+  "author": "Gaofeng Fan",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "tmux4ssh-0.1.2.tar.gz",
+  "download_time": "2026-03-19T19:22:02.397497",
+  "package_url": "https://pypi.org/project/tmux4ssh/"
+}

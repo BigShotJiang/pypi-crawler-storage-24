@@ -1,0 +1,11 @@
+{
+  "name": "nlp2sql",
+  "version": "0.2.0rc7",
+  "summary": "Enterprise-ready Natural Language to SQL converter with multi-provider support. Built for production scale (1000+ tables) with Clean Architecture.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlp2sql-0.2.0rc7.tar.gz",
+  "download_time": "2026-03-19T19:21:52.786347",
+  "package_url": "https://pypi.org/project/nlp2sql/"
+}

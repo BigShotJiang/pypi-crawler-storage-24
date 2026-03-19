@@ -1,11 +1,11 @@
 {
   "name": "attestant",
-  "version": "0.17.2",
+  "version": "0.20.1",
   "summary": "Upload model data to Attestant for compliance analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "attestant-0.17.2.tar.gz",
-  "download_time": "2026-03-19T02:47:47.019586",
+  "download_filename": "attestant-0.20.1.tar.gz",
+  "download_time": "2026-03-19T19:21:37.639118",
   "package_url": "https://pypi.org/project/attestant/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ludax-agents",
+  "version": "1.0.0",
+  "summary": "Pretrained AlphaZero agents for Ludax board games",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ludax_agents-1.0.0.tar.gz",
+  "download_time": "2026-03-19T19:22:12.011029",
+  "package_url": "https://pypi.org/project/ludax-agents/"
+}

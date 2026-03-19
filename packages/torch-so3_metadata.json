@@ -1,0 +1,11 @@
+{
+  "name": "torch-so3",
+  "version": "0.2.1",
+  "summary": "Generate uniform 3D euler angles (ZYZ)",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "torch_so3-0.2.1.tar.gz",
+  "download_time": "2026-03-19T19:21:55.773897",
+  "package_url": "https://pypi.org/project/torch-so3/"
+}
