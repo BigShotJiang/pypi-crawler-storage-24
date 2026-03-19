@@ -1,11 +1,11 @@
 {
   "name": "pjdev-decorators",
-  "version": "4.6.8",
+  "version": "4.7.0",
   "summary": "common decorators",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pjdev_decorators-4.6.8.tar.gz",
-  "download_time": "2026-03-18T13:57:16.719750",
+  "download_filename": "pjdev_decorators-4.7.0.tar.gz",
+  "download_time": "2026-03-19T09:13:09.734234",
   "package_url": "https://pypi.org/project/pjdev-decorators/"
 }

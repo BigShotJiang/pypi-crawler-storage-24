@@ -1,0 +1,11 @@
+{
+  "name": "kiwisiot",
+  "version": "1.0.5",
+  "summary": "KiwisIoT Python SDK for MQTT-based IoT communication",
+  "author": "Mugeshwaran R",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kiwisiot-1.0.5.tar.gz",
+  "download_time": "2026-03-19T09:13:19.063192",
+  "package_url": "https://pypi.org/project/kiwisiot/"
+}

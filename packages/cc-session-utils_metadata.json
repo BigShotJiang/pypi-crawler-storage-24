@@ -1,0 +1,11 @@
+{
+  "name": "cc-session-utils",
+  "version": "0.2.0",
+  "summary": "Terminal UI for managing Claude Code sessions, projects, and data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cc_session_utils-0.2.0.tar.gz",
+  "download_time": "2026-03-19T09:13:18.552634",
+  "package_url": "https://pypi.org/project/cc-session-utils/"
+}

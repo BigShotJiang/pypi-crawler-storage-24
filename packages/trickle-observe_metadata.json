@@ -1,11 +1,11 @@
 {
   "name": "trickle-observe",
-  "version": "0.2.48",
-  "summary": "Zero-code runtime observability for Python. Auto-instruments FastAPI, Flask, Django, OpenAI, Anthropic, Gemini, LangChain, CrewAI. Captures functions, variables, LLM calls, agent workflows, tensor shapes.",
+  "version": "0.2.62",
+  "summary": "Runtime type annotations for Python — see tensor shapes, variable types, and crash-time values as you code.",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "trickle_observe-0.2.48.tar.gz",
-  "download_time": "2026-03-16T23:55:33.121702",
+  "download_filename": "trickle_observe-0.2.62.tar.gz",
+  "download_time": "2026-03-19T09:13:35.281074",
   "package_url": "https://pypi.org/project/trickle-observe/"
 }

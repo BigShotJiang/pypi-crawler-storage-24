@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.31.0",
+  "version": "0.32.0",
   "summary": "v0.31.0: AdversarialChainDetector — $0 behavioral detection of confident-wrong FARL chains (AUROC 0.996, Precision@FPR10 0.955). v0.30.0: FederatedCalibrator (Laplace DP, federated merge ≤5pp MAE). v0.29.0: ConformalRiskBudget, QuestionComplexityScorer (AUROC 0.79), DebateVerifier (precision 85.4%).",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.31.0.tar.gz",
-  "download_time": "2026-03-19T08:30:35.292661",
+  "download_filename": "llm_guard_kit-0.32.0.tar.gz",
+  "download_time": "2026-03-19T09:13:33.744690",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

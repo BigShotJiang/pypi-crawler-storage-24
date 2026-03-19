@@ -1,11 +1,11 @@
 {
   "name": "pjdev-message-broker",
-  "version": "4.6.8",
+  "version": "4.7.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pjdev_message_broker-4.6.8.tar.gz",
-  "download_time": "2026-03-18T13:57:20.296016",
+  "download_filename": "pjdev_message_broker-4.7.0.tar.gz",
+  "download_time": "2026-03-19T09:13:11.855711",
   "package_url": "https://pypi.org/project/pjdev-message-broker/"
 }

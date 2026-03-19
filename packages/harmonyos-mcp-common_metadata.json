@@ -1,0 +1,11 @@
+{
+  "name": "harmonyos-mcp-common",
+  "version": "0.7.3",
+  "summary": "HarmonyOS MCP 通用组件库 - 提供 MCP 服务器基础架构、工具注册、容器管理和通用工具类",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "harmonyos_mcp_common-0.7.3.tar.gz",
+  "download_time": "2026-03-19T09:13:20.598806",
+  "package_url": "https://pypi.org/project/harmonyos-mcp-common/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pjdev-postgres",
-  "version": "4.6.8",
+  "version": "4.7.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pjdev_postgres-4.6.8.tar.gz",
-  "download_time": "2026-03-18T13:57:18.763522",
+  "download_filename": "pjdev_postgres-4.7.0.tar.gz",
+  "download_time": "2026-03-19T09:13:10.823204",
   "package_url": "https://pypi.org/project/pjdev-postgres/"
 }
