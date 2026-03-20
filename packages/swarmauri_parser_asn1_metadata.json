@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_parser_asn1",
+  "version": "0.1.1",
+  "summary": "Grammar-driven ASN.1 (X.680/X.690 DER subset) parser plugin for swarmauri-sdk using Lark Earley.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_parser_asn1-0.1.1.tar.gz",
+  "download_time": "2026-03-20T18:04:17.153305",
+  "package_url": "https://pypi.org/project/swarmauri_parser_asn1/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_certs_ocspverify",
+  "version": "0.9.2",
+  "summary": "OCSP certificate verification service for Swarmauri.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_certs_ocspverify-0.9.2.tar.gz",
+  "download_time": "2026-03-20T18:04:28.419915",
+  "package_url": "https://pypi.org/project/swarmauri_certs_ocspverify/"
+}

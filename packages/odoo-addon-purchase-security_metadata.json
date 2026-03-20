@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-security",
+  "version": "18.0.1.1.2",
+  "summary": "See only your purchase orders",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_security-18.0.1.1.2-py3-none-any.whl",
+  "download_time": "2026-03-20T18:04:01.560737",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-security/"
+}

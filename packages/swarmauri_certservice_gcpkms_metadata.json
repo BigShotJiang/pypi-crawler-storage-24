@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_certservice_gcpkms",
+  "version": "0.2.2",
+  "summary": "Google Cloud KMS Certificate Service for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_certservice_gcpkms-0.2.2.tar.gz",
+  "download_time": "2026-03-20T18:04:26.283688",
+  "package_url": "https://pypi.org/project/swarmauri_certservice_gcpkms/"
+}

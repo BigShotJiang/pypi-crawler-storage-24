@@ -1,0 +1,11 @@
+{
+  "name": "tb-hello-world",
+  "version": "0.1.1",
+  "summary": "A minimal hello world Python package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tb_hello_world-0.1.1.tar.gz",
+  "download_time": "2026-03-20T18:04:24.111054",
+  "package_url": "https://pypi.org/project/tb-hello-world/"
+}

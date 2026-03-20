@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_llm_deepinfra",
+  "version": "0.1.0.dev8",
+  "summary": "Swarmauri Deepinfra LLM adapters from swarmauri_standard.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_llm_deepinfra-0.1.0.dev8.tar.gz",
+  "download_time": "2026-03-20T18:04:05.903215",
+  "package_url": "https://pypi.org/project/swarmauri_llm_deepinfra/"
+}

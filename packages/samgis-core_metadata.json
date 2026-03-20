@@ -1,11 +1,11 @@
 {
   "name": "samgis-core",
-  "version": "4.1.6",
+  "version": "4.1.8",
   "summary": "SamGIS CORE",
   "author": "alessandro trinca tornidor",
   "license": null,
   "home_page": null,
-  "download_filename": "samgis_core-4.1.6.tar.gz",
-  "download_time": "2026-03-19T14:09:56.782872",
+  "download_filename": "samgis_core-4.1.8.tar.gz",
+  "download_time": "2026-03-20T18:04:34.263448",
   "package_url": "https://pypi.org/project/samgis-core/"
 }

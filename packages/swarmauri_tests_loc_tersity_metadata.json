@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tests_loc_tersity",
+  "version": "0.1.2",
+  "summary": "Pytest plugin enforcing line count limits",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_tests_loc_tersity-0.1.2.tar.gz",
+  "download_time": "2026-03-20T18:04:08.620032",
+  "package_url": "https://pypi.org/project/swarmauri_tests_loc_tersity/"
+}

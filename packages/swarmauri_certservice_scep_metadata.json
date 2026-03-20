@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_certservice_scep",
+  "version": "0.8.2",
+  "summary": "Swarmauri SCEP Certificate Service",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_certservice_scep-0.8.2.tar.gz",
+  "download_time": "2026-03-20T18:04:24.653221",
+  "package_url": "https://pypi.org/project/swarmauri_certservice_scep/"
+}
