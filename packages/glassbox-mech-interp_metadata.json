@@ -1,11 +1,11 @@
 {
   "name": "glassbox-mech-interp",
-  "version": "2.0.1",
-  "summary": "Open-source mechanistic interpretability for transformer models",
+  "version": "3.2.1",
+  "summary": "Mechanistic interpretability + EU AI Act compliance. Attribution patching, CircuitDiff, bias analysis, multi-audit dashboard, stability suite, tamper-evident audit log. Dual-licensed (MIT core + BSL 1.1 compliance engine).",
   "author": null,
-  "license": "MIT",
+  "license": "MIT AND LicenseRef-BUSL-1.1",
   "home_page": null,
-  "download_filename": "glassbox_mech_interp-2.0.1.tar.gz",
-  "download_time": "2026-03-15T22:57:03.713224",
+  "download_filename": "glassbox_mech_interp-3.2.1.tar.gz",
+  "download_time": "2026-03-20T20:55:26.507526",
   "package_url": "https://pypi.org/project/glassbox-mech-interp/"
 }

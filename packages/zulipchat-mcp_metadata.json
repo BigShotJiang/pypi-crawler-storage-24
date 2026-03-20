@@ -1,0 +1,11 @@
+{
+  "name": "zulipchat-mcp",
+  "version": "0.6.2",
+  "summary": "Model Context Protocol (MCP) server that connects AI assistants to Zulip Chat with a 19-tool core mode and 55-tool extended mode",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zulipchat_mcp-0.6.2.tar.gz",
+  "download_time": "2026-03-20T20:54:59.951882",
+  "package_url": "https://pypi.org/project/zulipchat-mcp/"
+}

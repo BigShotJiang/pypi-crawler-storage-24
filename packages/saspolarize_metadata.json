@@ -1,0 +1,11 @@
+{
+  "name": "saspolarize",
+  "version": "0.2.0",
+  "summary": "Run SAS code on polars DataFrames.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "saspolarize-0.2.0.tar.gz",
+  "download_time": "2026-03-20T20:54:44.425196",
+  "package_url": "https://pypi.org/project/saspolarize/"
+}

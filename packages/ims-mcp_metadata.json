@@ -1,11 +1,11 @@
 {
   "name": "ims-mcp",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Model Context Protocol server for Rosetta (Instruction Management System)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ims_mcp-2.0.5.tar.gz",
-  "download_time": "2026-03-20T17:35:05.603492",
+  "download_filename": "ims_mcp-2.0.6.tar.gz",
+  "download_time": "2026-03-20T20:55:09.334079",
   "package_url": "https://pypi.org/project/ims-mcp/"
 }

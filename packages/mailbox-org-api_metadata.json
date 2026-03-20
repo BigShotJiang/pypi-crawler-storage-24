@@ -1,0 +1,11 @@
+{
+  "name": "mailbox-org-api",
+  "version": "2.1",
+  "summary": "A library to access the mailbox.org Business API.",
+  "author": "Hendrik Schlange",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mailbox_org_api-2.1.tar.gz",
+  "download_time": "2026-03-20T20:55:14.540332",
+  "package_url": "https://pypi.org/project/mailbox-org-api/"
+}

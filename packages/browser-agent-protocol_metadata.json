@@ -1,0 +1,11 @@
+{
+  "name": "browser-agent-protocol",
+  "version": "0.7.0",
+  "summary": "Python SDK for the Browser Agent Protocol (BAP) - control browsers with AI agents",
+  "author": "BAP Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "browser_agent_protocol-0.7.0.tar.gz",
+  "download_time": "2026-03-20T20:54:49.996556",
+  "package_url": "https://pypi.org/project/browser-agent-protocol/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aenum",
+  "version": "3.1.17",
+  "summary": "Advanced Enumerations (compatible with Python's stdlib Enum), NamedTuples, and NamedConstants",
+  "author": "Ethan Furman",
+  "license": "BSD License",
+  "home_page": "https://github.com/ethanfurman/aenum",
+  "download_filename": "aenum-3.1.17.tar.gz",
+  "download_time": "2026-03-20T20:55:08.295608",
+  "package_url": "https://pypi.org/project/aenum/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "schema-miner",
+  "version": "3.0.0",
+  "summary": "A Human-in-the-Loop Workflow for Scientific Schema Mining with Large Language Models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schema_miner-3.0.0.tar.gz",
+  "download_time": "2026-03-20T20:55:04.672633",
+  "package_url": "https://pypi.org/project/schema-miner/"
+}

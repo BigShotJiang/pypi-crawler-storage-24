@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-executor-plugin-htcondor",
+  "version": "0.2.1",
+  "summary": "A Snakemake executor plugin for submitting jobs to an HTCondor cluster.",
+  "author": "Jannis Speer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakemake_executor_plugin_htcondor-0.2.1.tar.gz",
+  "download_time": "2026-03-20T20:55:03.636210",
+  "package_url": "https://pypi.org/project/snakemake-executor-plugin-htcondor/"
+}

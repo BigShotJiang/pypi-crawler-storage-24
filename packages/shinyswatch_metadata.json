@@ -1,0 +1,11 @@
+{
+  "name": "shinyswatch",
+  "version": "0.10.0",
+  "summary": "Bootswatch + Bootstrap 5 themes for Shiny.",
+  "author": "Barret Schloerke",
+  "license": null,
+  "home_page": "https://github.com/rstudio/py-shinyswatch",
+  "download_filename": "shinyswatch-0.10.0.tar.gz",
+  "download_time": "2026-03-20T20:54:51.032893",
+  "package_url": "https://pypi.org/project/shinyswatch/"
+}

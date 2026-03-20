@@ -1,0 +1,11 @@
+{
+  "name": "gconf",
+  "version": "0.9.4",
+  "summary": "Managing a config globally throughout a Python application",
+  "author": "Max von Tettenborn",
+  "license": "LICENSE",
+  "home_page": "https://gitlab.com/max-tet/gconf",
+  "download_filename": "gconf-0.9.4.tar.gz",
+  "download_time": "2026-03-20T20:55:14.027641",
+  "package_url": "https://pypi.org/project/gconf/"
+}
