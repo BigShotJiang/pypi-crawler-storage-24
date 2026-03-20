@@ -1,0 +1,11 @@
+{
+  "name": "gsuite-langchain-tools",
+  "version": "0.1.0",
+  "summary": "A LangChain toolkit for integrating Google Workspace (Gmail, Calendar, Tasks, Sheets, Drive)",
+  "author": "Kasa Harendra",
+  "license": "MIT",
+  "home_page": "https://github.com/Kasa-Harendra/langchain-gsuite",
+  "download_filename": "gsuite_langchain_tools-0.1.0.tar.gz",
+  "download_time": "2026-03-20T07:18:21.199477",
+  "package_url": "https://pypi.org/project/gsuite-langchain-tools/"
+}

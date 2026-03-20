@@ -1,11 +1,11 @@
 {
   "name": "streamlit-nightly",
-  "version": "1.55.1.dev20260314",
+  "version": "1.55.1.dev20260319",
   "summary": "A faster way to build and share data apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "streamlit_nightly-1.55.1.dev20260314.tar.gz",
-  "download_time": "2026-03-15T07:44:35.033308",
+  "download_filename": "streamlit_nightly-1.55.1.dev20260319.tar.gz",
+  "download_time": "2026-03-20T07:18:14.967776",
   "package_url": "https://pypi.org/project/streamlit-nightly/"
 }

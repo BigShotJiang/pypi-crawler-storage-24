@@ -1,11 +1,11 @@
 {
   "name": "insurance-optimise",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "summary": "Constrained portfolio rate optimisation for UK personal lines insurance, with FCA ENBP enforcement, demand-linked objectives, and efficient frontier generation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insurance_optimise-0.3.3.tar.gz",
-  "download_time": "2026-03-15T04:31:56.239695",
+  "download_filename": "insurance_optimise-0.4.0.tar.gz",
+  "download_time": "2026-03-20T07:18:25.870215",
   "package_url": "https://pypi.org/project/insurance-optimise/"
 }

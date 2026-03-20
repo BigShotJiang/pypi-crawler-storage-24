@@ -1,0 +1,11 @@
+{
+  "name": "minutemap",
+  "version": "0.2.1",
+  "summary": "Provides a data type for mapping a value to every minute of a year and then resolve a value given a date",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minutemap-0.2.1.tar.gz",
+  "download_time": "2026-03-20T07:18:10.723438",
+  "package_url": "https://pypi.org/project/minutemap/"
+}

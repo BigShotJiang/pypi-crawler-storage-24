@@ -1,0 +1,11 @@
+{
+  "name": "sunan-abi-dawud",
+  "version": "1.0.3",
+  "summary": "Complete Sunan Abi Dawud — 5,274 hadiths with full Arabic text and English translations. Offline-first, zero dependencies. CLI + Python library.",
+  "author": "muhammadsaadamin",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "sunan_abi_dawud-1.0.3.tar.gz",
+  "download_time": "2026-03-20T07:18:37.976975",
+  "package_url": "https://pypi.org/project/sunan-abi-dawud/"
+}

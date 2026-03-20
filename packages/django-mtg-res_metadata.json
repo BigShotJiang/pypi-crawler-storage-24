@@ -1,0 +1,11 @@
+{
+  "name": "django-mtg-res",
+  "version": "0.1.6",
+  "summary": "A Django app for logging HTTP requests and responses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_mtg_res-0.1.6.tar.gz",
+  "download_time": "2026-03-20T07:18:34.247928",
+  "package_url": "https://pypi.org/project/django-mtg-res/"
+}

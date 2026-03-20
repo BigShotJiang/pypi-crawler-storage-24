@@ -1,11 +1,11 @@
 {
   "name": "ore-cancer-generation-v00",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Loader package for the ore-cancer-generation-v00 asset.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ore_cancer_generation_v00-0.1.0-py3-none-any.whl",
-  "download_time": "2026-03-20T06:14:01.033557",
+  "download_filename": "ore_cancer_generation_v00-0.1.1-py3-none-any.whl",
+  "download_time": "2026-03-20T07:18:21.717220",
   "package_url": "https://pypi.org/project/ore-cancer-generation-v00/"
 }

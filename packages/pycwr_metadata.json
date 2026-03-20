@@ -1,0 +1,11 @@
+{
+  "name": "pycwr",
+  "version": "1.0.0",
+  "summary": "pycwr 1.0.0: high-compatibility Chinese weather radar IO, geometry, QC, plotting, and compositing",
+  "author": "pycwr developers",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "home_page": "https://github.com/YvZheng/pycwr",
+  "download_filename": "pycwr-1.0.0.tar.gz",
+  "download_time": "2026-03-20T07:18:47.873908",
+  "package_url": "https://pypi.org/project/pycwr/"
+}

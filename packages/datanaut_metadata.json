@@ -1,0 +1,11 @@
+{
+  "name": "datanaut",
+  "version": "0.1.2",
+  "summary": "A CLI SQL agent that converts natural language to optimized BigQuery SQL using GPT-4",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datanaut-0.1.2.tar.gz",
+  "download_time": "2026-03-20T07:18:07.460827",
+  "package_url": "https://pypi.org/project/datanaut/"
+}

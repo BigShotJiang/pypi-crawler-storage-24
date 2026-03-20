@@ -1,0 +1,11 @@
+{
+  "name": "zstack-mcp-server",
+  "version": "0.1.6",
+  "summary": "MCP Server for ZStack Cloud API - enables AI to dynamically query and execute 2000+ ZStack APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zstack_mcp_server-0.1.6.tar.gz",
+  "download_time": "2026-03-20T07:18:49.955069",
+  "package_url": "https://pypi.org/project/zstack-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dong-read",
+  "version": "0.6.0",
+  "summary": "读咚咚 (Read DongDong) - 个人知识数据层的命令行接口",
+  "author": "gudong",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dong_read-0.6.0.tar.gz",
+  "download_time": "2026-03-20T07:18:23.296626",
+  "package_url": "https://pypi.org/project/dong-read/"
+}
