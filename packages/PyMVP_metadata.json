@@ -1,11 +1,11 @@
 {
   "name": "PyMVP",
-  "version": "0.1.9",
+  "version": "0.2.3",
   "summary": "Python package for Moving Vessel Profiler correction and analysis",
   "author": "MaximilienWemaere",
   "license": null,
   "home_page": null,
-  "download_filename": "pymvp-0.1.9.tar.gz",
-  "download_time": "2026-03-17T10:36:53.374900",
+  "download_filename": "pymvp-0.2.3.tar.gz",
+  "download_time": "2026-03-20T14:11:46.598567",
   "package_url": "https://pypi.org/project/PyMVP/"
 }

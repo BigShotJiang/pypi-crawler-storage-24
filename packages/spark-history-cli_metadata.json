@@ -1,11 +1,11 @@
 {
   "name": "spark-history-cli",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "summary": "CLI for querying the Apache Spark History Server REST API",
   "author": "Apache Spark Contributors",
   "license": "Apache-2.0",
   "home_page": "https://github.com/yaooqinn/spark-history-cli",
-  "download_filename": "spark_history_cli-1.2.0.tar.gz",
-  "download_time": "2026-03-19T16:32:06.809904",
+  "download_filename": "spark_history_cli-1.4.0.tar.gz",
+  "download_time": "2026-03-20T14:12:16.975345",
   "package_url": "https://pypi.org/project/spark-history-cli/"
 }

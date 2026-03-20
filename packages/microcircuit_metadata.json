@@ -1,11 +1,11 @@
 {
   "name": "microcircuit",
-  "version": "0.1rc2",
+  "version": "1.0",
   "summary": "PyNEST implementation of the cortical microcircuit model of Potjans & Diesmann (2014).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microcircuit-0.1rc2.tar.gz",
-  "download_time": "2026-03-13T13:49:25.757570",
+  "download_filename": "microcircuit-1.0.tar.gz",
+  "download_time": "2026-03-20T14:11:54.020004",
   "package_url": "https://pypi.org/project/microcircuit/"
 }

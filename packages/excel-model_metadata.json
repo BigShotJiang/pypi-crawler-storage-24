@@ -1,0 +1,11 @@
+{
+  "name": "excel-model",
+  "version": "0.1.2",
+  "summary": "YAML-driven Excel financial model generator",
+  "author": "Matthias Christenson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "excel_model-0.1.2.tar.gz",
+  "download_time": "2026-03-20T14:12:30.168299",
+  "package_url": "https://pypi.org/project/excel-model/"
+}

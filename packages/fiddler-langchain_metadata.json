@@ -1,0 +1,11 @@
+{
+  "name": "fiddler-langchain",
+  "version": "1.0.1",
+  "summary": "Fiddler SDK for instrumenting LangChain V1 agents with OpenTelemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fiddler_langchain-1.0.1.tar.gz",
+  "download_time": "2026-03-20T14:12:18.021331",
+  "package_url": "https://pypi.org/project/fiddler-langchain/"
+}

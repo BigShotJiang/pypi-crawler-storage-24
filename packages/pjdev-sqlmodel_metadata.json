@@ -1,11 +1,11 @@
 {
   "name": "pjdev-sqlmodel",
-  "version": "4.7.0",
+  "version": "4.8.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pjdev_sqlmodel-4.7.0.tar.gz",
-  "download_time": "2026-03-19T09:13:09.223998",
+  "download_filename": "pjdev_sqlmodel-4.8.1.tar.gz",
+  "download_time": "2026-03-20T14:12:35.376111",
   "package_url": "https://pypi.org/project/pjdev-sqlmodel/"
 }

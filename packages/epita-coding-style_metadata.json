@@ -1,0 +1,11 @@
+{
+  "name": "epita-coding-style",
+  "version": "3.3.1",
+  "summary": "EPITA C/C++ Coding Style Checker - validates C and C++ code against EPITA coding standards",
+  "author": "Hugo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "epita_coding_style-3.3.1.tar.gz",
+  "download_time": "2026-03-20T14:12:08.023979",
+  "package_url": "https://pypi.org/project/epita-coding-style/"
+}

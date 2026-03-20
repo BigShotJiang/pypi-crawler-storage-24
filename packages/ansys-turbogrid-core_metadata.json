@@ -1,0 +1,11 @@
+{
+  "name": "ansys-turbogrid-core",
+  "version": "0.5.5",
+  "summary": "A python wrapper for Ansys TurboGrid",
+  "author": "ANSYS, Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ansys_turbogrid_core-0.5.5.tar.gz",
+  "download_time": "2026-03-20T14:11:53.501354",
+  "package_url": "https://pypi.org/project/ansys-turbogrid-core/"
+}

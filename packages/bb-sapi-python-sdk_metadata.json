@@ -1,0 +1,11 @@
+{
+  "name": "bb-sapi-python-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for the Blue Billywig Streaming API (SAPI)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bb_sapi_python_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-20T14:12:03.276771",
+  "package_url": "https://pypi.org/project/bb-sapi-python-sdk/"
+}

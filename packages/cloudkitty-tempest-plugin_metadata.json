@@ -1,0 +1,11 @@
+{
+  "name": "cloudkitty-tempest-plugin",
+  "version": "3.4.0",
+  "summary": "Tempest plugin for CloudKitty",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://opendev.org/openstack/cloudkitty-tempest-plugin",
+  "download_filename": "cloudkitty_tempest_plugin-3.4.0.tar.gz",
+  "download_time": "2026-03-20T14:12:27.038480",
+  "package_url": "https://pypi.org/project/cloudkitty-tempest-plugin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "waxell-observe",
-  "version": "0.0.29a1",
+  "version": "0.0.30",
   "summary": "Lightweight observability & governance for any AI agent framework",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "waxell_observe-0.0.29a1-py3-none-any.whl",
-  "download_time": "2026-03-09T21:56:41.350841",
+  "download_filename": "waxell_observe-0.0.30-py3-none-any.whl",
+  "download_time": "2026-03-20T14:11:51.417666",
   "package_url": "https://pypi.org/project/waxell-observe/"
 }

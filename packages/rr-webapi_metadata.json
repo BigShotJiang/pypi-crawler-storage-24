@@ -1,0 +1,11 @@
+{
+  "name": "rr-webapi",
+  "version": "0.1.9",
+  "summary": "Python client library for RaceResult Web API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rr_webapi-0.1.9.tar.gz",
+  "download_time": "2026-03-20T14:12:09.618161",
+  "package_url": "https://pypi.org/project/rr-webapi/"
+}

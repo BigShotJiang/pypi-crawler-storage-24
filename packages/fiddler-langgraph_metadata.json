@@ -1,11 +1,11 @@
 {
   "name": "fiddler-langgraph",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "LangGraph and LangChain instrumentation for Fiddler GenAI observability",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fiddler_langgraph-1.4.1.tar.gz",
-  "download_time": "2026-03-20T11:01:58.991638",
+  "download_filename": "fiddler_langgraph-1.4.2.tar.gz",
+  "download_time": "2026-03-20T14:12:18.541015",
   "package_url": "https://pypi.org/project/fiddler-langgraph/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "luckyboot",
-  "version": "1.1.4",
-  "summary": "Android root, ADB and flash toolkit for Termux",
+  "version": "2.0.9",
+  "summary": "Android root, flash & debug toolkit for Termux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "luckyboot-1.1.4-py3-none-any.whl",
-  "download_time": "2026-03-12T20:39:17.014845",
+  "download_filename": "luckyboot-2.0.9-py3-none-any.whl",
+  "download_time": "2026-03-20T14:12:16.455278",
   "package_url": "https://pypi.org/project/luckyboot/"
 }

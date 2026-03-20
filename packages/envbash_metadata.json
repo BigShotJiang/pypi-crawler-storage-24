@@ -1,0 +1,11 @@
+{
+  "name": "envbash",
+  "version": "2.0.0",
+  "summary": "Source env.bash script to update environment",
+  "author": "Aron Griffis",
+  "license": "MIT",
+  "home_page": "https://github.com/scampersand/envbash-python",
+  "download_filename": "envbash-2.0.0.tar.gz",
+  "download_time": "2026-03-20T14:11:52.983756",
+  "package_url": "https://pypi.org/project/envbash/"
+}

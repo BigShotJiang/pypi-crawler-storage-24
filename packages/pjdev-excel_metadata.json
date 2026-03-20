@@ -1,11 +1,11 @@
 {
   "name": "pjdev-excel",
-  "version": "4.7.0",
+  "version": "4.8.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pjdev_excel-4.7.0.tar.gz",
-  "download_time": "2026-03-19T09:13:08.617889",
+  "download_filename": "pjdev_excel-4.8.1.tar.gz",
+  "download_time": "2026-03-20T14:12:34.856176",
   "package_url": "https://pypi.org/project/pjdev-excel/"
 }

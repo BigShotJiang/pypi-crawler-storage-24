@@ -1,0 +1,11 @@
+{
+  "name": "oct-to-tiff",
+  "version": "0.6.3",
+  "summary": "A command line tool for converting optical coherence tomography angiography (OCTA) data.",
+  "author": "Cameron Lloyd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oct_to_tiff-0.6.3.tar.gz",
+  "download_time": "2026-03-20T14:11:50.880112",
+  "package_url": "https://pypi.org/project/oct-to-tiff/"
+}

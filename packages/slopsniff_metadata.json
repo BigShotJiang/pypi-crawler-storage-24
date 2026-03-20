@@ -1,0 +1,11 @@
+{
+  "name": "slopsniff",
+  "version": "0.1.9",
+  "summary": "A lightweight CLI for catching slop in modern codebases before it hardens into tech debt.",
+  "author": "joshuagilley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slopsniff-0.1.9.tar.gz",
+  "download_time": "2026-03-20T14:12:04.306176",
+  "package_url": "https://pypi.org/project/slopsniff/"
+}
