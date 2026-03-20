@@ -1,0 +1,11 @@
+{
+  "name": "agentapproved",
+  "version": "0.1.0",
+  "summary": "EU AI Act compliance evidence for AI agents — one-line SDK, tamper-proof audit trail, regulation-mapped reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentapproved-0.1.0.tar.gz",
+  "download_time": "2026-03-20T13:16:32.605616",
+  "package_url": "https://pypi.org/project/agentapproved/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "islandsbanki-cli",
+  "version": "0.4.8",
+  "summary": "CLI interface for Íslandsbanki Open Banking — designed for AI agents and personal assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "islandsbanki_cli-0.4.8.tar.gz",
+  "download_time": "2026-03-20T13:17:04.952518",
+  "package_url": "https://pypi.org/project/islandsbanki-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inventree-ss-batch-number-generator",
+  "version": "0.2.20",
+  "summary": "Plugin to generate unique batch numbers",
+  "author": "Rob Kettridge",
+  "license": "MIT",
+  "home_page": "https://www.smartsentry.co.uk",
+  "download_filename": "inventree_ss_batch_number_generator-0.2.20.tar.gz",
+  "download_time": "2026-03-20T13:16:35.521466",
+  "package_url": "https://pypi.org/project/inventree-ss-batch-number-generator/"
+}

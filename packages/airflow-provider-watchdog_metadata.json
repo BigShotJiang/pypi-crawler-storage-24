@@ -1,0 +1,11 @@
+{
+  "name": "airflow-provider-watchdog",
+  "version": "0.1.0",
+  "summary": "A lightweight, zero-dependency Airflow provider that monitors DAG/task health by querying the metadata DB — runtime anomalies, failure spikes, missed deadlines, and stuck tasks.",
+  "author": "Qing Wan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "airflow_provider_watchdog-0.1.0.tar.gz",
+  "download_time": "2026-03-20T13:16:29.572244",
+  "package_url": "https://pypi.org/project/airflow-provider-watchdog/"
+}

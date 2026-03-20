@@ -1,0 +1,11 @@
+{
+  "name": "claude-101",
+  "version": "0.2.1",
+  "summary": "27 practical AI tools (MCP server + CLI) — structured frameworks, data processing, and real computation for writing, analysis, coding, and business tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_101-0.2.1.tar.gz",
+  "download_time": "2026-03-20T13:17:21.350607",
+  "package_url": "https://pypi.org/project/claude-101/"
+}

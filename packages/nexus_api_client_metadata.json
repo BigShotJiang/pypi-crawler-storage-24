@@ -1,0 +1,11 @@
+{
+  "name": "nexus_api_client",
+  "version": "3.90.2",
+  "summary": "Sonatype Nexus Repository Manager",
+  "author": "Sonatype Community Maintainers",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sonatype-nexus-community/nexus-repo-api-client",
+  "download_filename": "nexus_api_client-3.90.2.tar.gz",
+  "download_time": "2026-03-20T13:16:44.237290",
+  "package_url": "https://pypi.org/project/nexus_api_client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cognite-data-quality",
-  "version": "0.1.6",
+  "version": "0.1.13",
   "summary": "Data quality validation runner for SHACL rules in Cognite Data Fusion.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cognite_data_quality-0.1.6.tar.gz",
-  "download_time": "2026-03-16T08:53:40.295979",
+  "download_filename": "cognite_data_quality-0.1.13.tar.gz",
+  "download_time": "2026-03-20T13:16:36.824060",
   "package_url": "https://pypi.org/project/cognite-data-quality/"
 }

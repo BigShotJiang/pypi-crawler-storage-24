@@ -1,0 +1,11 @@
+{
+  "name": "graphlagoon",
+  "version": "0.10.3",
+  "summary": "Graph visualization and exploration tool with FastAPI backend",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "graphlagoon-0.10.3.tar.gz",
+  "download_time": "2026-03-20T13:16:59.605414",
+  "package_url": "https://pypi.org/project/graphlagoon/"
+}

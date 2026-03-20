@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-pseudonimizer",
-  "version": "0.6.9",
+  "version": "0.6.11",
   "summary": "Processor based on Presidio anonymizer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyprocessors_pseudonimizer-0.6.9.tar.gz",
-  "download_time": "2026-03-10T17:31:39.552360",
+  "download_filename": "pyprocessors_pseudonimizer-0.6.11.tar.gz",
+  "download_time": "2026-03-20T13:17:13.347454",
   "package_url": "https://pypi.org/project/pyprocessors-pseudonimizer/"
 }

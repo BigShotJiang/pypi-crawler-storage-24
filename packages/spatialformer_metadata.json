@@ -1,0 +1,11 @@
+{
+  "name": "spatialformer",
+  "version": "0.1.5",
+  "summary": "A single-cell foundation model focus on the spatial cell-cell colocalization and subcellular mulecular co-occurrence",
+  "author": "TerminatorJ",
+  "license": null,
+  "home_page": "https://github.com/TerminatorJ/Spatialformer/",
+  "download_filename": "spatialformer-0.1.5.tar.gz",
+  "download_time": "2026-03-20T13:16:47.531572",
+  "package_url": "https://pypi.org/project/spatialformer/"
+}

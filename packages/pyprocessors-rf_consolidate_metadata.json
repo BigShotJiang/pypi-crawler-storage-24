@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-rf_consolidate",
-  "version": "0.6.5",
+  "version": "0.6.7",
   "summary": "RFConsolidate annotations coming from different annotators",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyprocessors_rf_consolidate-0.6.5.tar.gz",
-  "download_time": "2026-03-13T14:41:51.653281",
+  "download_filename": "pyprocessors_rf_consolidate-0.6.7.tar.gz",
+  "download_time": "2026-03-20T13:17:09.091744",
   "package_url": "https://pypi.org/project/pyprocessors-rf_consolidate/"
 }

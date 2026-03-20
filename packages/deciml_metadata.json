@@ -1,11 +1,11 @@
 {
   "name": "deciml",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Extension of decimal library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deciml-0.2.5.tar.gz",
-  "download_time": "2026-03-20T12:04:41.832715",
+  "download_filename": "deciml-0.2.6.tar.gz",
+  "download_time": "2026-03-20T13:17:05.530452",
   "package_url": "https://pypi.org/project/deciml/"
 }
