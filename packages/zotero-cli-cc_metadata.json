@@ -1,0 +1,11 @@
+{
+  "name": "zotero-cli-cc",
+  "version": "0.1.0",
+  "summary": "Zotero CLI for Claude Code — SQLite reads + Web API writes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zotero_cli_cc-0.1.0.tar.gz",
+  "download_time": "2026-03-20T06:13:54.505787",
+  "package_url": "https://pypi.org/project/zotero-cli-cc/"
+}

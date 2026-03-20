@@ -1,0 +1,11 @@
+{
+  "name": "langchain-renoun",
+  "version": "0.1.0",
+  "summary": "LangChain tools for ReNoUn structural market regime classification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_renoun-0.1.0.tar.gz",
+  "download_time": "2026-03-20T06:13:51.305678",
+  "package_url": "https://pypi.org/project/langchain-renoun/"
+}

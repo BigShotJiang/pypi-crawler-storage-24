@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tool_githubloader",
+  "version": "0.9.0.dev48",
+  "summary": "Load YAML-defined components directly from GitHub repositories.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_tool_githubloader-0.9.0.dev48.tar.gz",
+  "download_time": "2026-03-20T06:13:33.157585",
+  "package_url": "https://pypi.org/project/swarmauri_tool_githubloader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "estimated-taxes",
+  "version": "2026.0",
+  "summary": "Estimated taxes calculator",
+  "author": "Nikita Kouevda",
+  "license": "MIT",
+  "home_page": "https://github.com/nkouevda/estimated-taxes",
+  "download_filename": "estimated_taxes-2026.0.tar.gz",
+  "download_time": "2026-03-20T06:14:11.688863",
+  "package_url": "https://pypi.org/project/estimated-taxes/"
+}

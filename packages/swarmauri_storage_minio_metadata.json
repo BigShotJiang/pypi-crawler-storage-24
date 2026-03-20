@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_storage_minio",
+  "version": "0.2.0",
+  "summary": "MinIO storage adapter for SwarmauriSDK",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_storage_minio-0.2.0.tar.gz",
+  "download_time": "2026-03-20T06:13:43.019135",
+  "package_url": "https://pypi.org/project/swarmauri_storage_minio/"
+}

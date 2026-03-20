@@ -1,0 +1,11 @@
+{
+  "name": "sahih-muslim",
+  "version": "1.1.2",
+  "summary": "Complete Sahih Muslim — 7,563 hadiths with full Arabic text and English translations. Offline-first, zero dependencies. CLI + Python library.",
+  "author": "muhammadsaadamin",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "sahih_muslim-1.1.2.tar.gz",
+  "download_time": "2026-03-20T06:14:13.624086",
+  "package_url": "https://pypi.org/project/sahih-muslim/"
+}

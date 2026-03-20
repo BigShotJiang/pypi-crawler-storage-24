@@ -1,11 +1,11 @@
 {
   "name": "agnoclaw",
-  "version": "0.4.1",
+  "version": "0.7.0",
   "summary": "A hackable, model-agnostic agent harness built on Agno — with Claude Code's prompt wisdom, OpenClaw's UX patterns, and full Python extensibility",
   "author": "agnoclaw contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agnoclaw-0.4.1.tar.gz",
-  "download_time": "2026-03-15T15:28:18.862348",
+  "download_filename": "agnoclaw-0.7.0.tar.gz",
+  "download_time": "2026-03-20T06:13:59.179962",
   "package_url": "https://pypi.org/project/agnoclaw/"
 }

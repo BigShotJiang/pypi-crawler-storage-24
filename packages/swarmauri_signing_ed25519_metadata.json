@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_signing_ed25519",
+  "version": "0.2.0.dev45",
+  "summary": "Ed25519-based signer for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_signing_ed25519-0.2.0.dev45.tar.gz",
+  "download_time": "2026-03-20T06:13:50.722717",
+  "package_url": "https://pypi.org/project/swarmauri_signing_ed25519/"
+}

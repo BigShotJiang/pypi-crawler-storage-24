@@ -1,0 +1,11 @@
+{
+  "name": "vouchervision-go-client",
+  "version": "0.1.48",
+  "summary": "Client for VoucherVisionGO API",
+  "author": "Will",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/Gene-Weaver/VoucherVisionGO-client",
+  "download_filename": "vouchervision_go_client-0.1.48.tar.gz",
+  "download_time": "2026-03-20T06:13:22.650065",
+  "package_url": "https://pypi.org/project/vouchervision-go-client/"
+}

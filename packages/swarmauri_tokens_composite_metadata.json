@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tokens_composite",
+  "version": "0.3.0.dev46",
+  "summary": "Algorithm-routing token service for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_tokens_composite-0.3.0.dev46.tar.gz",
+  "download_time": "2026-03-20T06:13:42.382399",
+  "package_url": "https://pypi.org/project/swarmauri_tokens_composite/"
+}

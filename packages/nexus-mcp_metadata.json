@@ -1,11 +1,11 @@
 {
   "name": "nexus-mcp",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Model Context Protocol server for AI CLI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexus_mcp-0.8.0.tar.gz",
-  "download_time": "2026-03-19T05:51:15.133605",
+  "download_filename": "nexus_mcp-0.8.1.tar.gz",
+  "download_time": "2026-03-20T06:13:55.794300",
   "package_url": "https://pypi.org/project/nexus-mcp/"
 }

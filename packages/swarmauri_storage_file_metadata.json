@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_storage_file",
+  "version": "0.3.0.dev46",
+  "summary": "Filesystem storage adapter for Peagen",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_storage_file-0.3.0.dev46.tar.gz",
+  "download_time": "2026-03-20T06:13:44.309117",
+  "package_url": "https://pypi.org/project/swarmauri_storage_file/"
+}

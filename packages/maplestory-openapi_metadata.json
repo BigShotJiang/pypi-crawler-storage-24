@@ -1,0 +1,11 @@
+{
+  "name": "maplestory-openapi",
+  "version": "3.9.0",
+  "summary": "This Python library enables the use of the MapleStory OpenAPI of Nexon.",
+  "author": "so99ynoodles",
+  "license": "MIT",
+  "home_page": "https://github.com/SpiralMoon/maplestory.openapi",
+  "download_filename": "maplestory_openapi-3.9.0.tar.gz",
+  "download_time": "2026-03-20T06:13:20.011859",
+  "package_url": "https://pypi.org/project/maplestory-openapi/"
+}
