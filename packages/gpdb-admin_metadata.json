@@ -1,11 +1,11 @@
 {
   "name": "gpdb-admin",
-  "version": "0.3.1",
+  "version": "0.5.0",
   "summary": "GPDB admin CLI, REST API, and MCP server (optional add-on to gpdb)",
   "author": "whogben",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gpdb_admin-0.3.1.tar.gz",
-  "download_time": "2026-03-16T23:31:58.296656",
+  "download_filename": "gpdb_admin-0.5.0.tar.gz",
+  "download_time": "2026-03-20T23:56:18.744068",
   "package_url": "https://pypi.org/project/gpdb-admin/"
 }

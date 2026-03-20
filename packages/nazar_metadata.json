@@ -1,11 +1,11 @@
 {
   "name": "nazar",
-  "version": "6.2.0",
+  "version": "7.1.0",
   "summary": "Autonomous testing tool - scans your project, understands architecture, plans and runs tests",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nazar-6.2.0.tar.gz",
-  "download_time": "2026-03-20T22:28:18.447752",
+  "download_filename": "nazar-7.1.0.tar.gz",
+  "download_time": "2026-03-20T23:56:13.395442",
   "package_url": "https://pypi.org/project/nazar/"
 }

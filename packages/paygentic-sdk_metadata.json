@@ -1,11 +1,11 @@
 {
   "name": "paygentic-sdk",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Official Python SDK for the Paygentic API. Build billing, subscriptions, and usage-based monetization into your product.",
   "author": "Speakeasy",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "paygentic_sdk-0.1.13.tar.gz",
-  "download_time": "2026-03-20T23:00:18.245901",
+  "download_filename": "paygentic_sdk-0.1.14.tar.gz",
+  "download_time": "2026-03-20T23:56:05.990233",
   "package_url": "https://pypi.org/project/paygentic-sdk/"
 }

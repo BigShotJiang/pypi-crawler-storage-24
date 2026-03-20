@@ -1,0 +1,11 @@
+{
+  "name": "backtest-audit",
+  "version": "1.0.0",
+  "summary": "Static analysis tool for detecting look-ahead bias, data leakage, and statistical errors in Python backtesting code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "backtest_audit-1.0.0.tar.gz",
+  "download_time": "2026-03-20T23:56:00.285610",
+  "package_url": "https://pypi.org/project/backtest-audit/"
+}

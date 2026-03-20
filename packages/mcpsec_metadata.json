@@ -1,0 +1,11 @@
+{
+  "name": "mcpsec",
+  "version": "2.6.1",
+  "summary": "Security scanner for MCP (Model Context Protocol) servers - pentest your AI agent's tool connections",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpsec-2.6.1.tar.gz",
+  "download_time": "2026-03-20T23:55:53.661180",
+  "package_url": "https://pypi.org/project/mcpsec/"
+}

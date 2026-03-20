@@ -1,11 +1,11 @@
 {
   "name": "supercharge-ai",
-  "version": "0.3.2",
+  "version": "0.4.2",
   "summary": "Multi-agent framework for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "supercharge_ai-0.3.2.tar.gz",
-  "download_time": "2026-03-15T23:55:16.683709",
+  "download_filename": "supercharge_ai-0.4.2.tar.gz",
+  "download_time": "2026-03-20T23:56:00.950940",
   "package_url": "https://pypi.org/project/supercharge-ai/"
 }

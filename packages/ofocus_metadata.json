@@ -1,11 +1,11 @@
 {
   "name": "ofocus",
-  "version": "0.1.3",
+  "version": "0.3.0",
   "summary": "CLI for OmniFocus via OmniAutomation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ofocus-0.1.3.tar.gz",
-  "download_time": "2026-03-10T12:02:31.925328",
+  "download_filename": "ofocus-0.3.0.tar.gz",
+  "download_time": "2026-03-20T23:55:35.400434",
   "package_url": "https://pypi.org/project/ofocus/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastship",
+  "version": "0.0.9",
+  "summary": "Local-first release CLI tools: ship_bump, ship_pypi, ship_release_gh",
+  "author": "Jeremy Howard",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastship-0.0.9.tar.gz",
+  "download_time": "2026-03-20T23:55:44.325809",
+  "package_url": "https://pypi.org/project/fastship/"
+}

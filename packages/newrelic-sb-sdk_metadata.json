@@ -1,0 +1,11 @@
+{
+  "name": "newrelic-sb-sdk",
+  "version": "0.46.0",
+  "summary": "New Relic SDK to interact with Nerdgraph API.",
+  "author": "Dynova Development Team, zodiacfireworks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "newrelic_sb_sdk-0.46.0.tar.gz",
+  "download_time": "2026-03-20T23:55:38.734622",
+  "package_url": "https://pypi.org/project/newrelic-sb-sdk/"
+}
