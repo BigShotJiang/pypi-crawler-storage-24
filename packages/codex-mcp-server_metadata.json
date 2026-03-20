@@ -1,0 +1,11 @@
+{
+  "name": "codex-mcp-server",
+  "version": "1.0.2",
+  "summary": "MCP server for Codex CLI with tmux persistence, git worktree isolation, and async dispatch.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codex_mcp_server-1.0.2.tar.gz",
+  "download_time": "2026-03-20T09:29:36.868092",
+  "package_url": "https://pypi.org/project/codex-mcp-server/"
+}

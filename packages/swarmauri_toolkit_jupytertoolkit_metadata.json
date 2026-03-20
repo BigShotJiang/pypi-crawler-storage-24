@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_toolkit_jupytertoolkit",
+  "version": "0.3.2",
+  "summary": "A unified toolkit for aggregating standalone jupyter notebook tools.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_toolkit_jupytertoolkit-0.3.2.tar.gz",
+  "download_time": "2026-03-20T09:29:25.993650",
+  "package_url": "https://pypi.org/project/swarmauri_toolkit_jupytertoolkit/"
+}

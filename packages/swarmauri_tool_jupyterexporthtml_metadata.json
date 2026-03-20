@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tool_jupyterexporthtml",
+  "version": "0.8.2",
+  "summary": "A tool that exports a Jupyter Notebook to HTML format using nbconvert’s HTMLExporter, enabling web-based presentation of notebooks.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_tool_jupyterexporthtml-0.8.2.tar.gz",
+  "download_time": "2026-03-20T09:29:47.777201",
+  "package_url": "https://pypi.org/project/swarmauri_tool_jupyterexporthtml/"
+}

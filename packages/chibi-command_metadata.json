@@ -1,0 +1,11 @@
+{
+  "name": "chibi-command",
+  "version": "2.2.0",
+  "summary": "run terminal commands",
+  "author": "Dem4ply",
+  "license": "WTFPL",
+  "home_page": "https://github.com/dem4ply/chibi_command",
+  "download_filename": "chibi_command-2.2.0.tar.gz",
+  "download_time": "2026-03-20T09:29:23.907918",
+  "package_url": "https://pypi.org/project/chibi-command/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spa-ds",
+  "version": "1.0.0",
+  "summary": "Data science toolkit (TK) for spectroscopic profiling data analysis. This version is a meta-package for the old qsi-tk package.",
+  "author": "Yinsheng Zhang (Ph.D.)",
+  "license": "LICENSE.txt",
+  "home_page": "http://pypi.python.org/pypi/spa_tk/",
+  "download_filename": "spa_ds-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-20T09:29:22.209373",
+  "package_url": "https://pypi.org/project/spa-ds/"
+}

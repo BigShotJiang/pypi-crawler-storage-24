@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tool_jupyterexecutenotebookwithparameters",
+  "version": "1.3.2",
+  "summary": "A tool designed to execute parameterized notebooks using papermill, allowing dynamic input and output capture for automated workflows.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_tool_jupyterexecutenotebookwithparameters-1.3.2.tar.gz",
+  "download_time": "2026-03-20T09:29:48.798364",
+  "package_url": "https://pypi.org/project/swarmauri_tool_jupyterexecutenotebookwithparameters/"
+}

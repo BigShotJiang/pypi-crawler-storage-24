@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tool_jupyterdisplay",
+  "version": "0.8.2",
+  "summary": "A tool designed to display rich media and object representations in a Jupyter Notebook using IPython's display functionality.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_tool_jupyterdisplay-0.8.2.tar.gz",
+  "download_time": "2026-03-20T09:29:54.553655",
+  "package_url": "https://pypi.org/project/swarmauri_tool_jupyterdisplay/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "png-offline-optimizer",
+  "version": "3.20",
+  "summary": "Intelligent offline PNG compression tool with OpenCV-based feature analysis",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/png-offline-optimizer",
+  "download_filename": "png_offline_optimizer-3.20.tar.gz",
+  "download_time": "2026-03-20T09:29:15.916925",
+  "package_url": "https://pypi.org/project/png-offline-optimizer/"
+}
