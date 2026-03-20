@@ -1,0 +1,11 @@
+{
+  "name": "openplot",
+  "version": "1.0.0",
+  "summary": "Makes plotting and fine-tuning plots easy and interactive.",
+  "author": "Philo Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openplot-1.0.0.tar.gz",
+  "download_time": "2026-03-20T11:35:45.926849",
+  "package_url": "https://pypi.org/project/openplot/"
+}

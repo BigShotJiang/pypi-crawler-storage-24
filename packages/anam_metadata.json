@@ -1,0 +1,11 @@
+{
+  "name": "anam",
+  "version": "0.3.0",
+  "summary": "Official Python SDK for Anam AI - Real-time AI avatar streaming",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anam-0.3.0.tar.gz",
+  "download_time": "2026-03-20T11:35:11.873041",
+  "package_url": "https://pypi.org/project/anam/"
+}

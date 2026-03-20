@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-ai-extension",
+  "version": "1.0.0",
+  "summary": "Multi-LLM support for Jupyter Notebook (OpenAI, Claude, Gemini)",
+  "author": "Nova Technolab",
+  "license": null,
+  "home_page": "https://github.com/novatechnolab/jupyter-ai-extension",
+  "download_filename": "jupyter_ai_extension-1.0.0.tar.gz",
+  "download_time": "2026-03-20T11:35:26.508181",
+  "package_url": "https://pypi.org/project/jupyter-ai-extension/"
+}

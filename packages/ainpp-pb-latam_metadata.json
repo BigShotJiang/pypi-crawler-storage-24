@@ -1,11 +1,11 @@
 {
   "name": "ainpp-pb-latam",
-  "version": "1.0.0b3",
+  "version": "1.0.0b4",
   "summary": "The Artificial Intelligence for Nowcasting Pilot Project - Precipitation Benchmark for Latin America (AINPP-PB-LATAM).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ainpp_pb_latam-1.0.0b3.tar.gz",
-  "download_time": "2026-03-19T21:58:45.820861",
+  "download_filename": "ainpp_pb_latam-1.0.0b4.tar.gz",
+  "download_time": "2026-03-20T11:35:38.379341",
   "package_url": "https://pypi.org/project/ainpp-pb-latam/"
 }

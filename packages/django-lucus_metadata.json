@@ -1,0 +1,11 @@
+{
+  "name": "django-lucus",
+  "version": "0.1.0",
+  "summary": "Lucus enhances Django Admin with custom templates, static theming, and a multi-column dashboard.",
+  "author": "Rockdukan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_lucus-0.1.0.tar.gz",
+  "download_time": "2026-03-20T11:35:42.118299",
+  "package_url": "https://pypi.org/project/django-lucus/"
+}

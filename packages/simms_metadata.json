@@ -1,0 +1,11 @@
+{
+  "name": "simms",
+  "version": "2.1.0",
+  "summary": "Empty MS creation tool",
+  "author": null,
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "simms-2.1.0.tar.gz",
+  "download_time": "2026-03-20T11:35:47.193859",
+  "package_url": "https://pypi.org/project/simms/"
+}

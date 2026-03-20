@@ -1,11 +1,11 @@
 {
   "name": "pyrig",
-  "version": "10.2.7",
+  "version": "10.2.8",
   "summary": "pyrig is a python toolkit that rigs up your project by standardizing and automating project setup, configuration and maintenance",
   "author": "Winipedia",
   "license": null,
   "home_page": null,
-  "download_filename": "pyrig-10.2.7.tar.gz",
-  "download_time": "2026-03-20T11:02:21.146356",
+  "download_filename": "pyrig-10.2.8.tar.gz",
+  "download_time": "2026-03-20T11:35:31.234002",
   "package_url": "https://pypi.org/project/pyrig/"
 }

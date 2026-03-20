@@ -1,11 +1,11 @@
 {
   "name": "abx-dl",
-  "version": "1.9.6",
+  "version": "1.10.6",
   "summary": "All-in-one CLI tool to download and extract content from URLs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abx_dl-1.9.6.tar.gz",
-  "download_time": "2026-03-15T10:34:53.872796",
+  "download_filename": "abx_dl-1.10.6.tar.gz",
+  "download_time": "2026-03-20T11:35:11.230253",
   "package_url": "https://pypi.org/project/abx-dl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hydra-genetics",
+  "version": "4.0.0",
+  "summary": "Helper tools for use with hydra-genetics pipelines.",
+  "author": null,
+  "license": "GPL-3",
+  "home_page": null,
+  "download_filename": "hydra_genetics-4.0.0.tar.gz",
+  "download_time": "2026-03-20T11:35:32.709751",
+  "package_url": "https://pypi.org/project/hydra-genetics/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "a9t-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for the A9T (Agent To Agent) multi-agent communication platform",
+  "author": "A9T",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a9t_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-20T11:35:42.759856",
+  "package_url": "https://pypi.org/project/a9t-sdk/"
+}
