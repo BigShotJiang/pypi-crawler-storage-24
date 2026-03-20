@@ -1,11 +1,11 @@
 {
   "name": "rusticai-testing",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "Test Utilities for Rustic AI Framework",
   "author": "Dragonscale Industries Inc.",
   "license": null,
   "home_page": "https://www.rustic.ai/",
-  "download_filename": "rusticai_testing-1.2.0.tar.gz",
-  "download_time": "2026-03-15T10:01:21.467752",
+  "download_filename": "rusticai_testing-1.2.2.tar.gz",
+  "download_time": "2026-03-20T17:34:56.311187",
   "package_url": "https://pypi.org/project/rusticai-testing/"
 }

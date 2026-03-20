@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_evaluator_constanttime",
+  "version": "0.3.0.dev47",
+  "summary": "Evaluator that detects timing side channels using fixed-vs-random test",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_evaluator_constanttime-0.3.0.dev47.tar.gz",
+  "download_time": "2026-03-20T17:34:30.107111",
+  "package_url": "https://pypi.org/project/swarmauri_evaluator_constanttime/"
+}

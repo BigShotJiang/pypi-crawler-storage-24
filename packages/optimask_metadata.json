@@ -1,0 +1,11 @@
+{
+  "name": "optimask",
+  "version": "1.3.12",
+  "summary": "OptiMask: extracting the largest (non-contiguous) submatrix without NaN",
+  "author": "Cyril Joly",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optimask-1.3.12.tar.gz",
+  "download_time": "2026-03-20T17:34:56.822797",
+  "package_url": "https://pypi.org/project/optimask/"
+}

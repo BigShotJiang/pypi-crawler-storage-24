@@ -1,0 +1,11 @@
+{
+  "name": "EmbeddedSigner",
+  "version": "0.1.3",
+  "summary": "Embed XMP metadata and sign media assets using Swarmauri plugins.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "embeddedsigner-0.1.3.tar.gz",
+  "download_time": "2026-03-20T17:34:19.021521",
+  "package_url": "https://pypi.org/project/EmbeddedSigner/"
+}

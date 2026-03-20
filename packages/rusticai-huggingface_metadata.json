@@ -1,11 +1,11 @@
 {
   "name": "rusticai-huggingface",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "Rustic AI module with huggingface integrations",
   "author": "Dragonscale Industries Inc.",
   "license": null,
   "home_page": "https://www.rustic.ai/",
-  "download_filename": "rusticai_huggingface-1.2.0.tar.gz",
-  "download_time": "2026-03-15T10:01:15.765002",
+  "download_filename": "rusticai_huggingface-1.2.2.tar.gz",
+  "download_time": "2026-03-20T17:34:51.184376",
   "package_url": "https://pypi.org/project/rusticai-huggingface/"
 }

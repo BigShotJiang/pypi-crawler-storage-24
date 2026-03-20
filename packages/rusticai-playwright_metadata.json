@@ -1,11 +1,11 @@
 {
   "name": "rusticai-playwright",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "Rustic AI module for scraping using playwright",
   "author": "Dragonscale Industries Inc.",
   "license": null,
   "home_page": "https://www.rustic.ai/",
-  "download_filename": "rusticai_playwright-1.2.0.tar.gz",
-  "download_time": "2026-03-15T10:01:16.283728",
+  "download_filename": "rusticai_playwright-1.2.2.tar.gz",
+  "download_time": "2026-03-20T17:34:51.699533",
   "package_url": "https://pypi.org/project/rusticai-playwright/"
 }

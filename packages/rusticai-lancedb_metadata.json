@@ -1,11 +1,11 @@
 {
   "name": "rusticai-lancedb",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Support for LanceDB backend KnowledgeBase",
   "author": "Dragonscale Industries Inc.",
   "license": null,
   "home_page": "https://www.rustic.ai/",
-  "download_filename": "rusticai_lancedb-1.2.2.tar.gz",
-  "download_time": "2026-03-19T19:58:06.834584",
+  "download_filename": "rusticai_lancedb-1.2.3.tar.gz",
+  "download_time": "2026-03-20T17:34:48.622431",
   "package_url": "https://pypi.org/project/rusticai-lancedb/"
 }

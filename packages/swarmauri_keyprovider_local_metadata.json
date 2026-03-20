@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_keyprovider_local",
+  "version": "0.2.0",
+  "summary": "In-memory key provider for development and testing",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_keyprovider_local-0.2.0.tar.gz",
+  "download_time": "2026-03-20T17:34:26.855465",
+  "package_url": "https://pypi.org/project/swarmauri_keyprovider_local/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kweaver-sdk",
-  "version": "0.4.0",
-  "summary": "KWeaver Python SDK — CLI and client library for knowledge network construction and querying",
+  "version": "0.4.2",
+  "summary": "KWeaver Python SDK — client library and optional CLI for knowledge network construction and querying",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kweaver_sdk-0.4.0.tar.gz",
-  "download_time": "2026-03-17T09:44:51.358019",
+  "download_filename": "kweaver_sdk-0.4.2.tar.gz",
+  "download_time": "2026-03-20T17:34:36.326917",
   "package_url": "https://pypi.org/project/kweaver-sdk/"
 }

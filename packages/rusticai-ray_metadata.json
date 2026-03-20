@@ -1,11 +1,11 @@
 {
   "name": "rusticai-ray",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "Rustic AI execution engine running on Ray Cluster",
   "author": "Dragonscale Industries Inc.",
   "license": null,
   "home_page": "https://www.rustic.ai/",
-  "download_filename": "rusticai_ray-1.2.0.tar.gz",
-  "download_time": "2026-03-15T10:01:20.430734",
+  "download_filename": "rusticai_ray-1.2.2.tar.gz",
+  "download_time": "2026-03-20T17:34:54.775613",
   "package_url": "https://pypi.org/project/rusticai-ray/"
 }

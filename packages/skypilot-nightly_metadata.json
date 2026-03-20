@@ -1,11 +1,11 @@
 {
   "name": "skypilot-nightly",
-  "version": "1.0.0.dev20260314",
+  "version": "1.0.0.dev20260320",
   "summary": "SkyPilot: Run AI on Any Infra — Unified, Faster, Cheaper.",
   "author": "SkyPilot Team",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "skypilot_nightly-1.0.0.dev20260314.tar.gz",
-  "download_time": "2026-03-14T13:02:51.228551",
+  "download_filename": "skypilot_nightly-1.0.0.dev20260320.tar.gz",
+  "download_time": "2026-03-20T17:34:37.487691",
   "package_url": "https://pypi.org/project/skypilot-nightly/"
 }

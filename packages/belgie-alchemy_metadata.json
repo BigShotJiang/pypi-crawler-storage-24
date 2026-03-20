@@ -1,11 +1,11 @@
 {
   "name": "belgie-alchemy",
-  "version": "0.10.4",
+  "version": "0.12.0",
   "summary": "SQLAlchemy building blocks for Belgie",
   "author": "Matt LeMay",
   "license": null,
   "home_page": null,
-  "download_filename": "belgie_alchemy-0.10.4.tar.gz",
-  "download_time": "2026-03-10T14:31:17.787378",
+  "download_filename": "belgie_alchemy-0.12.0.tar.gz",
+  "download_time": "2026-03-20T17:34:29.020428",
   "package_url": "https://pypi.org/project/belgie-alchemy/"
 }
