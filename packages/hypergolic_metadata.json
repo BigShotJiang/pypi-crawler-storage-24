@@ -1,11 +1,11 @@
 {
   "name": "hypergolic",
-  "version": "0.8.8",
+  "version": "0.9.1",
   "summary": "An AI-powered coding assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hypergolic-0.8.8.tar.gz",
-  "download_time": "2026-03-20T05:19:59.958561",
+  "download_filename": "hypergolic-0.9.1.tar.gz",
+  "download_time": "2026-03-20T21:58:16.735410",
   "package_url": "https://pypi.org/project/hypergolic/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "meshplex",
-  "version": "0.21.12",
+  "version": "0.21.13",
   "summary": "Fast tools for simplex meshes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshplex-0.21.12-cp310-none-any.whl",
-  "download_time": "2026-03-20T21:32:22.189604",
+  "download_filename": "meshplex-0.21.13-cp310-none-any.whl",
+  "download_time": "2026-03-20T21:58:35.853552",
   "package_url": "https://pypi.org/project/meshplex/"
 }

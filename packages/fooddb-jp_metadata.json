@@ -1,0 +1,11 @@
+{
+  "name": "fooddb-jp",
+  "version": "0.2.0",
+  "summary": "日本食品標準成分表（八訂増補2023）MCP Server & REST API — 2,541食品 × 353成分",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fooddb_jp-0.2.0.tar.gz",
+  "download_time": "2026-03-20T21:58:37.384552",
+  "package_url": "https://pypi.org/project/fooddb-jp/"
+}

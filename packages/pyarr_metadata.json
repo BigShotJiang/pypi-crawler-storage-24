@@ -1,0 +1,11 @@
+{
+  "name": "pyarr",
+  "version": "6.0.0",
+  "summary": "Synchronous Sonarr, Radarr, Lidarr, Prowlarr, Bazarr, Dispatcharr and Readarr API's for Python",
+  "author": "Steven Marks",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyarr-6.0.0.tar.gz",
+  "download_time": "2026-03-20T21:58:25.593623",
+  "package_url": "https://pypi.org/project/pyarr/"
+}

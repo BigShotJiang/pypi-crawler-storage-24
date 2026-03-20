@@ -1,0 +1,11 @@
+{
+  "name": "senf",
+  "version": "1.5.1",
+  "summary": "Consistent filename handling for all Python versions and platforms",
+  "author": "Christoph Reiter",
+  "license": null,
+  "home_page": "https://github.com/quodlibet/senf",
+  "download_filename": "senf-1.5.1.tar.gz",
+  "download_time": "2026-03-20T21:58:22.513079",
+  "package_url": "https://pypi.org/project/senf/"
+}

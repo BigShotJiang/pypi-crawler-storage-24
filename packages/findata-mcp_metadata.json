@@ -1,0 +1,11 @@
+{
+  "name": "findata-mcp",
+  "version": "0.3.0",
+  "summary": "Financial data MCP server — stocks, fundamentals, FRED economics, SEC filings, crypto via x402 micropayments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "findata_mcp-0.3.0-py3-none-any.whl",
+  "download_time": "2026-03-20T21:57:59.355832",
+  "package_url": "https://pypi.org/project/findata-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "philiprehberger-color-convert",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "summary": "Convert between color formats: hex, RGB, HSL, HSV, CMYK, and named CSS colors",
   "author": "Philip Rehberger",
   "license": null,
   "home_page": null,
-  "download_filename": "philiprehberger_color_convert-0.1.1.tar.gz",
-  "download_time": "2026-03-15T20:56:20.033679",
+  "download_filename": "philiprehberger_color_convert-0.1.7.tar.gz",
+  "download_time": "2026-03-20T21:58:11.507304",
   "package_url": "https://pypi.org/project/philiprehberger-color-convert/"
 }

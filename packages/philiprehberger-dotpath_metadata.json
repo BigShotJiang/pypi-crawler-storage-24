@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-dotpath",
+  "version": "0.2.2",
+  "summary": "Access and mutate deeply nested dicts using dot-notation paths",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_dotpath-0.2.2.tar.gz",
+  "download_time": "2026-03-20T21:58:10.996614",
+  "package_url": "https://pypi.org/project/philiprehberger-dotpath/"
+}

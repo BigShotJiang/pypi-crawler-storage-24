@@ -1,11 +1,11 @@
 {
   "name": "import-cmip6-data-utils",
-  "version": "2.0b3",
+  "version": "2.0b4",
   "summary": "Utilitary package for building notebooks that import CMIP6 data thanks to csv files, based on intake-esgf.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "import_cmip6_data_utils-2.0b3.tar.gz",
-  "download_time": "2026-03-10T17:02:44.434159",
+  "download_filename": "import_cmip6_data_utils-2.0b4.tar.gz",
+  "download_time": "2026-03-20T21:58:09.449275",
   "package_url": "https://pypi.org/project/import-cmip6-data-utils/"
 }
