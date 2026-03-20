@@ -1,0 +1,11 @@
+{
+  "name": "cbor-ld-ex",
+  "version": "0.2.0",
+  "summary": "Compact Binary Linked Data with Semantic Reasoning for Constrained IoT Networks",
+  "author": "Muntaser Syed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cbor_ld_ex-0.2.0.tar.gz",
+  "download_time": "2026-03-20T19:02:34.375651",
+  "package_url": "https://pypi.org/project/cbor-ld-ex/"
+}

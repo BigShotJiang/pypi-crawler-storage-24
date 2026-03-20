@@ -1,0 +1,11 @@
+{
+  "name": "surmado",
+  "version": "0.3.0",
+  "summary": "Official Python client for Surmado's AI visibility testing and SEO reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "surmado-0.3.0.tar.gz",
+  "download_time": "2026-03-20T19:02:24.142772",
+  "package_url": "https://pypi.org/project/surmado/"
+}

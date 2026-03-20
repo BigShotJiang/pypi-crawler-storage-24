@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-ext-ai",
+  "version": "0.1.0",
+  "summary": "Jupyter/IPython magic commands for chatting with LLMs — OpenAI, Gemini, and Claude.",
+  "author": "Raj K",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jupyter_ext_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-20T19:02:22.453234",
+  "package_url": "https://pypi.org/project/jupyter-ext-ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ziptax-sdk",
-  "version": "0.2.4b0",
+  "version": "0.2.6b0",
   "summary": "Official Python SDK for the Ziptax API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ziptax_sdk-0.2.4b0.tar.gz",
-  "download_time": "2026-03-13T18:08:52.834690",
+  "download_filename": "ziptax_sdk-0.2.6b0.tar.gz",
+  "download_time": "2026-03-20T19:02:39.310392",
   "package_url": "https://pypi.org/project/ziptax-sdk/"
 }

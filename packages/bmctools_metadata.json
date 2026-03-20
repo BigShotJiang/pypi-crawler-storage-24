@@ -1,0 +1,11 @@
+{
+  "name": "bmctools",
+  "version": "0.1.5",
+  "summary": "A collection of tools for interacting with Baseboard Management Controllers (BMCs)",
+  "author": "Jesse Butryn",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/jessebutryn/bmctools",
+  "download_filename": "bmctools-0.1.5.tar.gz",
+  "download_time": "2026-03-20T19:02:33.799298",
+  "package_url": "https://pypi.org/project/bmctools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyfragment",
-  "version": "2026.0.1",
+  "version": "2026.0.2",
   "summary": "Python library for the Fragment.com API — purchase Telegram Stars, Premium, and top up TON Ads balance.",
   "author": "bohd4nx",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyfragment-2026.0.1.tar.gz",
-  "download_time": "2026-03-19T23:30:14.578890",
+  "download_filename": "pyfragment-2026.0.2.tar.gz",
+  "download_time": "2026-03-20T19:02:27.869718",
   "package_url": "https://pypi.org/project/pyfragment/"
 }

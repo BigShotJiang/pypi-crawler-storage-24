@@ -1,0 +1,11 @@
+{
+  "name": "alabuga-fastapi-generator",
+  "version": "1.1.0",
+  "summary": "CLI tool for generating FastAPI project components using Jinja2 templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alabuga_fastapi_generator-1.1.0-py3-none-any.whl",
+  "download_time": "2026-03-20T19:02:58.183110",
+  "package_url": "https://pypi.org/project/alabuga-fastapi-generator/"
+}

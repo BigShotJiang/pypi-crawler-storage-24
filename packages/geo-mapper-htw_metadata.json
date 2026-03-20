@@ -1,0 +1,11 @@
+{
+  "name": "geo-mapper-htw",
+  "version": "0.1.0b9",
+  "summary": "CLI to map CSV/Excel rows onto German NUTS/LAU geodata with interactive helpers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geo_mapper_htw-0.1.0b9-py3-none-any.whl",
+  "download_time": "2026-03-20T19:02:51.764396",
+  "package_url": "https://pypi.org/project/geo-mapper-htw/"
+}

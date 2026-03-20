@@ -1,0 +1,11 @@
+{
+  "name": "cridecoder",
+  "version": "0.1.1",
+  "summary": "CRI codec library for ACB/AWB, HCA audio, and USM video extraction",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/Team-Haruki/cridecoder",
+  "download_filename": "cridecoder-0.1.1.tar.gz",
+  "download_time": "2026-03-20T19:02:46.778004",
+  "package_url": "https://pypi.org/project/cridecoder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-smus-cicd-cli",
+  "version": "1.0.0",
+  "summary": "A CLI tool for managing CI/CD pipelines in SageMaker Unified Studio (SMUS)",
+  "author": "AWS SageMaker Unified Studio Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/CICD-for-SageMakerUnifiedStudio",
+  "download_filename": "aws_smus_cicd_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-20T19:02:29.567271",
+  "package_url": "https://pypi.org/project/aws-smus-cicd-cli/"
+}

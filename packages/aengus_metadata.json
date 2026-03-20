@@ -1,11 +1,11 @@
 {
   "name": "aengus",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A tui writing app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aengus-0.2.2.tar.gz",
-  "download_time": "2026-03-19T08:30:28.439571",
+  "download_filename": "aengus-0.2.3.tar.gz",
+  "download_time": "2026-03-20T19:03:00.288238",
   "package_url": "https://pypi.org/project/aengus/"
 }

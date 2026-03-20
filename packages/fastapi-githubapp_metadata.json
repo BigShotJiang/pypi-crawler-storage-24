@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-githubapp",
+  "version": "0.2.7",
+  "summary": "FastAPI extension for rapid GitHub App development",
+  "author": "primetheus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_githubapp-0.2.7-py3-none-any.whl",
+  "download_time": "2026-03-20T19:02:53.767315",
+  "package_url": "https://pypi.org/project/fastapi-githubapp/"
+}

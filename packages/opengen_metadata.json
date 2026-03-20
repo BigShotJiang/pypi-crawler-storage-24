@@ -1,11 +1,11 @@
 {
   "name": "opengen",
-  "version": "0.9.6",
+  "version": "0.10.0",
   "summary": "Optimization Engine Code Generator",
   "author": "['Pantelis Sopasakis', 'Emil Fresk']",
   "license": "MIT License",
   "home_page": "https://github.com/alphaville/optimization-engine",
-  "download_filename": "opengen-0.9.6.tar.gz",
-  "download_time": "2026-03-14T16:58:50.972051",
+  "download_filename": "opengen-0.10.0.tar.gz",
+  "download_time": "2026-03-20T19:02:44.456491",
   "package_url": "https://pypi.org/project/opengen/"
 }

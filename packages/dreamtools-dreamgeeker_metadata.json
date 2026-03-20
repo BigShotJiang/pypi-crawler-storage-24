@@ -1,11 +1,11 @@
 {
   "name": "dreamtools-dreamgeeker",
-  "version": "2025.2.7.3",
+  "version": "2025.2.7.4",
   "summary": "Outils Python pour projets robustes : validation, journalisation, mailing, image, etc.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dreamtools_dreamgeeker-2025.2.7.3.tar.gz",
-  "download_time": "2026-03-19T19:21:41.450835",
+  "download_filename": "dreamtools_dreamgeeker-2025.2.7.4.tar.gz",
+  "download_time": "2026-03-20T19:02:37.221025",
   "package_url": "https://pypi.org/project/dreamtools-dreamgeeker/"
 }

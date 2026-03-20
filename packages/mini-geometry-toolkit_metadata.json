@@ -1,0 +1,11 @@
+{
+  "name": "mini-geometry-toolkit",
+  "version": "0.0.2",
+  "summary": "A Python toolkit to calculate and visualize geometric shapes",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mini_geometry_toolkit-0.0.2.tar.gz",
+  "download_time": "2026-03-20T19:02:42.140410",
+  "package_url": "https://pypi.org/project/mini-geometry-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "open-sysml",
+  "version": "0.0.1",
+  "summary": "Placeholder release for an upcoming OpenMBEE Open SysML package; not intended for general use yet.",
+  "author": "OpenMBEE maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "open_sysml-0.0.1.tar.gz",
+  "download_time": "2026-03-20T19:02:54.346773",
+  "package_url": "https://pypi.org/project/open-sysml/"
+}

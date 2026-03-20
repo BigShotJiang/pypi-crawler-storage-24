@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.39.0",
+  "version": "0.43.0",
   "summary": "v0.39.0: AdversarialDetector natural-chain caveat (AUROC 0.3974 negatively correlated); FailureTaxonomist LLM agreement study (RETRIEVAL_FAILURE F1=0.701 only); P(True) cross-model AUROC 0.648 (below gate); MultiTurnGuard few-shot FAIL (zero-shot preferred); HumanEval scope-limited (execution-based verification needed); A2A routing requires judge signal; causal drift requires strong base signal.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.39.0.tar.gz",
-  "download_time": "2026-03-20T17:35:01.992810",
+  "download_filename": "llm_guard_kit-0.43.0.tar.gz",
+  "download_time": "2026-03-20T19:02:24.733224",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

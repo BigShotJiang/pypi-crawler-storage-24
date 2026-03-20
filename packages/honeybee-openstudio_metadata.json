@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-openstudio",
+  "version": "0.4.12",
+  "summary": "Honeybee extension for translating HBJSON models to OpenStudio (for OSM, IDF and gbXML).",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/honeybee-openstudio",
+  "download_filename": "honeybee_openstudio-0.4.12.tar.gz",
+  "download_time": "2026-03-20T19:02:34.953300",
+  "package_url": "https://pypi.org/project/honeybee-openstudio/"
+}
