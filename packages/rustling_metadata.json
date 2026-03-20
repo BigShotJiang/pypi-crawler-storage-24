@@ -1,0 +1,11 @@
+{
+  "name": "rustling",
+  "version": "0.8.0",
+  "summary": "A blazingly fast library for computational linguistics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustling-0.8.0.tar.gz",
+  "download_time": "2026-03-20T23:29:12.154051",
+  "package_url": "https://pypi.org/project/rustling/"
+}

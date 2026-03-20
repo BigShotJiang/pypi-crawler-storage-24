@@ -1,11 +1,11 @@
 {
   "name": "arcis",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "One-line security for Python web applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arcis-1.1.0.tar.gz",
-  "download_time": "2026-03-17T07:45:54.810200",
+  "download_filename": "arcis-1.2.0.tar.gz",
+  "download_time": "2026-03-20T23:29:02.873706",
   "package_url": "https://pypi.org/project/arcis/"
 }

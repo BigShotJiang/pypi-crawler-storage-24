@@ -1,11 +1,11 @@
 {
   "name": "sandlock",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Lightweight process sandbox using Landlock, seccomp, and seccomp user notification",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sandlock-0.1.0.tar.gz",
-  "download_time": "2026-03-15T05:54:38.901934",
+  "download_filename": "sandlock-0.2.0.tar.gz",
+  "download_time": "2026-03-20T23:29:22.624853",
   "package_url": "https://pypi.org/project/sandlock/"
 }

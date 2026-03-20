@@ -1,0 +1,11 @@
+{
+  "name": "confection",
+  "version": "1.2.0",
+  "summary": "The sweetest config system for Python",
+  "author": "Explosion",
+  "license": "MIT",
+  "home_page": "https://github.com/explosion/confection",
+  "download_filename": "confection-1.2.0.tar.gz",
+  "download_time": "2026-03-20T23:29:04.417697",
+  "package_url": "https://pypi.org/project/confection/"
+}

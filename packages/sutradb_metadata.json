@@ -1,11 +1,11 @@
 {
   "name": "sutradb",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Python client for SutraDB — RDF-star triplestore with native vector indexing",
   "author": "EmmaLeonhart",
   "license": null,
   "home_page": null,
-  "download_filename": "sutradb-0.3.3.tar.gz",
-  "download_time": "2026-03-20T23:00:27.079842",
+  "download_filename": "sutradb-0.3.4.tar.gz",
+  "download_time": "2026-03-20T23:29:36.674816",
   "package_url": "https://pypi.org/project/sutradb/"
 }

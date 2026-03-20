@@ -1,0 +1,11 @@
+{
+  "name": "navbuddy",
+  "version": "0.1.0",
+  "summary": "Aviation METAR and airport information tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "navbuddy-0.1.0.tar.gz",
+  "download_time": "2026-03-20T23:28:56.103546",
+  "package_url": "https://pypi.org/project/navbuddy/"
+}

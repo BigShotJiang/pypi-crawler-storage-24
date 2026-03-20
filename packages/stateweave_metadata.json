@@ -1,11 +1,11 @@
 {
   "name": "stateweave",
-  "version": "0.3.7",
-  "summary": "Sentry for agent brains — debug, time-travel, and migrate AI agent state across 10 frameworks",
+  "version": "0.3.8",
+  "summary": "git for agent brains — debug, time-travel, and migrate AI agent state across 10 frameworks",
   "author": "Michael Goodwin",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "stateweave-0.3.7.tar.gz",
-  "download_time": "2026-03-20T23:00:23.931170",
+  "download_filename": "stateweave-0.3.8.tar.gz",
+  "download_time": "2026-03-20T23:29:22.111301",
   "package_url": "https://pypi.org/project/stateweave/"
 }

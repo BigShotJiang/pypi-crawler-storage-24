@@ -1,11 +1,11 @@
 {
   "name": "vssh",
-  "version": "3.3.3",
+  "version": "3.3.5",
   "summary": "Secure SSH/SCP tool with Tailscale failover, P2P transport, and MCP server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vssh-3.3.3-py3-none-any.whl",
-  "download_time": "2026-03-19T10:37:52.261414",
+  "download_filename": "vssh-3.3.5-py3-none-any.whl",
+  "download_time": "2026-03-20T23:28:59.270152",
   "package_url": "https://pypi.org/project/vssh/"
 }

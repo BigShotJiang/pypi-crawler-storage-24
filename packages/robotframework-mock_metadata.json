@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-mock",
+  "version": "0.3.0",
+  "summary": "A Robot Framework library for mocking keywords in unit tests",
+  "author": "Lajos Olah",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/olesz/robotframework-mock",
+  "download_filename": "robotframework_mock-0.3.0.tar.gz",
+  "download_time": "2026-03-20T23:29:24.674122",
+  "package_url": "https://pypi.org/project/robotframework-mock/"
+}

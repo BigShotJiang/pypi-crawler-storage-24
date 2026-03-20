@@ -1,0 +1,11 @@
+{
+  "name": "turnstyle",
+  "version": "0.2.0",
+  "summary": "⊢ Symbolic coprocessors for LLM generation — ground model outputs in exact computation",
+  "author": "Justin Donaldson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "turnstyle-0.2.0.tar.gz",
+  "download_time": "2026-03-20T23:29:31.410570",
+  "package_url": "https://pypi.org/project/turnstyle/"
+}

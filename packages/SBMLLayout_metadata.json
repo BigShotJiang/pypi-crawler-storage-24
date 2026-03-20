@@ -1,0 +1,11 @@
+{
+  "name": "SBMLLayout",
+  "version": "0.4.0",
+  "summary": "Clean API for reading and writing the SBML Layout extension",
+  "author": "Herbert Sauro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sbmllayout-0.4.0.tar.gz",
+  "download_time": "2026-03-20T23:29:19.475955",
+  "package_url": "https://pypi.org/project/SBMLLayout/"
+}

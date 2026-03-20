@@ -1,11 +1,11 @@
 {
   "name": "echartsy",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "A matplotlib-style fluent builder API for Apache ECharts in Python, Jupyter Notebooks, and Streamlit.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "echartsy-0.6.3.tar.gz",
-  "download_time": "2026-03-19T23:56:55.946555",
+  "download_filename": "echartsy-0.6.4.tar.gz",
+  "download_time": "2026-03-20T23:29:14.302797",
   "package_url": "https://pypi.org/project/echartsy/"
 }

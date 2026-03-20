@@ -1,0 +1,11 @@
+{
+  "name": "safepaste",
+  "version": "0.3.0",
+  "summary": "AI security engine — detects prompt injection across 13 attack categories. 61 patterns, zero dependencies.",
+  "author": "SafePaste Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "safepaste-0.3.0.tar.gz",
+  "download_time": "2026-03-20T23:28:58.221691",
+  "package_url": "https://pypi.org/project/safepaste/"
+}

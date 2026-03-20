@@ -1,0 +1,11 @@
+{
+  "name": "backfire-kernel",
+  "version": "0.1.0",
+  "summary": "Director-Class AI — Rust Backfire Kernel (50ms safety gate)",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "backfire_kernel-0.1.0.tar.gz",
+  "download_time": "2026-03-20T23:29:17.926515",
+  "package_url": "https://pypi.org/project/backfire-kernel/"
+}

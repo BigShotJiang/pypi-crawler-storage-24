@@ -1,0 +1,11 @@
+{
+  "name": "logikal-utils",
+  "version": "1.7.0",
+  "summary": "Common Python utilities used at Logikal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logikal_utils-1.7.0.tar.gz",
+  "download_time": "2026-03-20T23:29:39.794275",
+  "package_url": "https://pypi.org/project/logikal-utils/"
+}
