@@ -1,11 +1,11 @@
 {
   "name": "kortix-justavps",
-  "version": "2026.3.3",
+  "version": "2026.3.5",
   "summary": "Official Python SDK for the JustAVPS API — machines, filesystem, process execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kortix_justavps-2026.3.3.tar.gz",
-  "download_time": "2026-03-19T06:56:11.599918",
+  "download_filename": "kortix_justavps-2026.3.5.tar.gz",
+  "download_time": "2026-03-20T21:31:51.323601",
   "package_url": "https://pypi.org/project/kortix-justavps/"
 }

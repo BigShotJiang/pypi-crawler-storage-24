@@ -1,11 +1,11 @@
 {
   "name": "strider-framework",
-  "version": "0.18.47",
+  "version": "0.18.50",
   "summary": "Strider - Django-inspired, FastAPI-powered. Alta performance, baixo acoplamento, produtividade extrema.",
   "author": "Stride Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "strider_framework-0.18.47.tar.gz",
-  "download_time": "2026-03-19T22:59:23.213952",
+  "download_filename": "strider_framework-0.18.50.tar.gz",
+  "download_time": "2026-03-20T21:32:35.369263",
   "package_url": "https://pypi.org/project/strider-framework/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fatiguelab",
+  "version": "0.1.1",
+  "summary": "MSD risk assessment tools based on fatigue failure theory (LiFFT, DUET, Shoulder Tool)",
+  "author": "Danny J. O'Leary",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fatiguelab-0.1.1.tar.gz",
+  "download_time": "2026-03-20T21:31:56.551110",
+  "package_url": "https://pypi.org/project/fatiguelab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docsmith",
+  "version": "1.1.1",
+  "summary": "YAML-to-Word document generator for automated pipelines and LLM-driven content creation",
+  "author": "Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docsmith-1.1.1.tar.gz",
+  "download_time": "2026-03-20T21:32:23.724336",
+  "package_url": "https://pypi.org/project/docsmith/"
+}

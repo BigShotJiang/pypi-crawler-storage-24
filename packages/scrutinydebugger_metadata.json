@@ -1,0 +1,11 @@
+{
+  "name": "scrutinydebugger",
+  "version": "0.12.0",
+  "summary": "Scrutiny Debugger Python framework",
+  "author": "Scrutiny Debugger",
+  "license": "MIT",
+  "home_page": "https://github.com/scrutinydebugger/scrutiny-main",
+  "download_filename": "scrutinydebugger-0.12.0.tar.gz",
+  "download_time": "2026-03-20T21:32:17.429994",
+  "package_url": "https://pypi.org/project/scrutinydebugger/"
+}

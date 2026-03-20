@@ -1,0 +1,11 @@
+{
+  "name": "mcp-tautulli",
+  "version": "1.0.0",
+  "summary": "MCP server for Tautulli — Plex monitoring via Claude Code",
+  "author": "lodordev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_tautulli-1.0.0.tar.gz",
+  "download_time": "2026-03-20T21:32:05.338029",
+  "package_url": "https://pypi.org/project/mcp-tautulli/"
+}

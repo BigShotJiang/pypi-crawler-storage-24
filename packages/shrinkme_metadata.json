@@ -1,0 +1,11 @@
+{
+  "name": "shrinkme",
+  "version": "0.1.0",
+  "summary": "Compress images using Singular Value Decomposition (SVD)",
+  "author": "Akshay Ubale",
+  "license": "MIT",
+  "home_page": "https://github.com/akshayubale/shrinkme",
+  "download_filename": "shrinkme-0.1.0.tar.gz",
+  "download_time": "2026-03-20T21:31:52.425368",
+  "package_url": "https://pypi.org/project/shrinkme/"
+}

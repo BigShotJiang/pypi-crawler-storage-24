@@ -1,0 +1,11 @@
+{
+  "name": "windows-tools-signtool",
+  "version": "0.6.3",
+  "summary": "Windows authenticode signature tool",
+  "author": "NetInvent - Orsiris de Jong",
+  "license": null,
+  "home_page": "https://github.com/netinvent/windows_tools",
+  "download_filename": "windows_tools_signtool-0.6.3-py3-none-any.whl",
+  "download_time": "2026-03-20T21:31:55.330620",
+  "package_url": "https://pypi.org/project/windows-tools-signtool/"
+}

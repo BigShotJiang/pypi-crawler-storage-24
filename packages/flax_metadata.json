@@ -1,0 +1,11 @@
+{
+  "name": "flax",
+  "version": "0.12.6",
+  "summary": "Flax: A neural network library for JAX designed for flexibility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flax-0.12.6.tar.gz",
+  "download_time": "2026-03-20T21:32:34.342146",
+  "package_url": "https://pypi.org/project/flax/"
+}

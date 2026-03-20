@@ -1,11 +1,11 @@
 {
   "name": "mads-analise-oficinas",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Modulo para analise de dados de oficinas automoveis",
   "author": "Bernardo Pereira, Diogo Silva, Gabriely Bresler",
   "license": "MIT",
   "home_page": "https://github.com/dsilva2004/mads-analise-oficinas",
-  "download_filename": "mads_analise_oficinas-0.1.2.tar.gz",
-  "download_time": "2026-03-20T20:06:37.981251",
+  "download_filename": "mads_analise_oficinas-0.1.4.tar.gz",
+  "download_time": "2026-03-20T21:31:47.069589",
   "package_url": "https://pypi.org/project/mads-analise-oficinas/"
 }

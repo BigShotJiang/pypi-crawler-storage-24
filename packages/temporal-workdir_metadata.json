@@ -1,0 +1,11 @@
+{
+  "name": "temporal-workdir",
+  "version": "0.2.0",
+  "summary": "Remote-backed workspace sync for Temporal activities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "temporal_workdir-0.2.0.tar.gz",
+  "download_time": "2026-03-20T21:31:53.579497",
+  "package_url": "https://pypi.org/project/temporal-workdir/"
+}

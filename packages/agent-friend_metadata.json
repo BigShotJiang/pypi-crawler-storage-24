@@ -1,11 +1,11 @@
 {
   "name": "agent-friend",
-  "version": "0.208.0",
+  "version": "0.209.0",
   "summary": "MCP schema linter & quality grader — validate, audit, optimize, grade (A+ to F). Also: @tool exports to OpenAI, Claude, Gemini, MCP.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_friend-0.208.0.tar.gz",
-  "download_time": "2026-03-20T20:06:30.726403",
+  "download_filename": "agent_friend-0.209.0.tar.gz",
+  "download_time": "2026-03-20T21:31:46.559968",
   "package_url": "https://pypi.org/project/agent-friend/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sentinel-auth-sdk",
-  "version": "0.9.7",
+  "version": "0.10.2",
   "summary": "Sentinel Auth SDK — JWT middleware, FastAPI dependencies, permission client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sentinel_auth_sdk-0.9.7.tar.gz",
-  "download_time": "2026-03-17T22:27:00.059933",
+  "download_filename": "sentinel_auth_sdk-0.10.2.tar.gz",
+  "download_time": "2026-03-20T21:32:13.357583",
   "package_url": "https://pypi.org/project/sentinel-auth-sdk/"
 }

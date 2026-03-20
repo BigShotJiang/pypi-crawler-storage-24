@@ -1,0 +1,11 @@
+{
+  "name": "micropidash",
+  "version": "2.0.0",
+  "summary": "A lightweight web dashboard for MicroPython (ESP32, Pico W) with real-time graphs",
+  "author": "Kritish Mohapatra",
+  "license": "MIT",
+  "home_page": "https://github.com/kritishmohapatra/micropidash",
+  "download_filename": "micropidash-2.0.0.tar.gz",
+  "download_time": "2026-03-20T21:31:54.155704",
+  "package_url": "https://pypi.org/project/micropidash/"
+}
