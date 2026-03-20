@@ -1,11 +1,11 @@
 {
   "name": "notte-core",
-  "version": "1.8.8",
+  "version": "1.8.10",
   "summary": "The web browser for LLMs agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "notte_core-1.8.8.tar.gz",
-  "download_time": "2026-03-16T16:48:07.598706",
+  "download_filename": "notte_core-1.8.10-py3-none-any.whl",
+  "download_time": "2026-03-20T22:28:44.939631",
   "package_url": "https://pypi.org/project/notte-core/"
 }

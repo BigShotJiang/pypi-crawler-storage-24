@@ -1,11 +1,11 @@
 {
   "name": "avcloud",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "repository to host external facing avcloud sdk",
   "author": "Uber AV Cloud Platform",
   "license": null,
   "home_page": null,
-  "download_filename": "avcloud-0.1.5.tar.gz",
-  "download_time": "2026-03-18T23:07:31.893947",
+  "download_filename": "avcloud-0.1.6.tar.gz",
+  "download_time": "2026-03-20T22:28:48.096708",
   "package_url": "https://pypi.org/project/avcloud/"
 }

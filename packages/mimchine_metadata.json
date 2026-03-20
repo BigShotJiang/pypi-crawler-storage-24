@@ -1,0 +1,11 @@
+{
+  "name": "mimchine",
+  "version": "0.29.0",
+  "summary": "well integrated mini machines with rootless podman",
+  "author": "redthing1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mimchine-0.29.0.tar.gz",
+  "download_time": "2026-03-20T22:28:21.867938",
+  "package_url": "https://pypi.org/project/mimchine/"
+}

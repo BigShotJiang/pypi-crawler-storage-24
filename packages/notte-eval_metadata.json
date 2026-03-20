@@ -1,11 +1,11 @@
 {
   "name": "notte-eval",
-  "version": "1.8.8",
+  "version": "1.8.9",
   "summary": "The evaluation for Notte",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "notte_eval-1.8.8.tar.gz",
-  "download_time": "2026-03-16T16:48:07.078053",
+  "download_filename": "notte_eval-1.8.9.tar.gz",
+  "download_time": "2026-03-20T22:28:50.710179",
   "package_url": "https://pypi.org/project/notte-eval/"
 }

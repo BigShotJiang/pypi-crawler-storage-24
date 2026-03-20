@@ -1,0 +1,11 @@
+{
+  "name": "quantum-collider-sandbox",
+  "version": "1.1.0",
+  "summary": "Real-Time GPU Particle Physics Simulation with PDG-accurate particle catalog",
+  "author": "Quantum Collider Sandbox",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantum_collider_sandbox-1.1.0.tar.gz",
+  "download_time": "2026-03-20T22:28:53.358430",
+  "package_url": "https://pypi.org/project/quantum-collider-sandbox/"
+}

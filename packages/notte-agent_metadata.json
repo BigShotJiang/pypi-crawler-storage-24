@@ -1,11 +1,11 @@
 {
   "name": "notte-agent",
-  "version": "1.8.8",
+  "version": "1.8.10",
   "summary": "Notte Web AI Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "notte_agent-1.8.8.tar.gz",
-  "download_time": "2026-03-16T16:48:08.630323",
+  "download_filename": "notte_agent-1.8.10-py3-none-any.whl",
+  "download_time": "2026-03-20T22:28:45.990074",
   "package_url": "https://pypi.org/project/notte-agent/"
 }

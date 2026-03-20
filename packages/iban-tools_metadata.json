@@ -1,0 +1,11 @@
+{
+  "name": "iban-tools",
+  "version": "0.1.1",
+  "summary": "A comprehensive Python toolkit for IBAN validation, extraction, generation, formatting, parsing, and BIC lookup.",
+  "author": "Adem",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iban_tools-0.1.1.tar.gz",
+  "download_time": "2026-03-20T22:28:43.319211",
+  "package_url": "https://pypi.org/project/iban-tools/"
+}

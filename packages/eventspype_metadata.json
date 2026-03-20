@@ -1,0 +1,11 @@
+{
+  "name": "eventspype",
+  "version": "1.1.1",
+  "summary": "A Python framework for building event-driven applications with a clean publisher-subscriber pattern implementation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eventspype-1.1.1.tar.gz",
+  "download_time": "2026-03-20T22:29:00.729080",
+  "package_url": "https://pypi.org/project/eventspype/"
+}
