@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl-canon",
+  "version": "0.1.0.dev6",
+  "summary": "Canonical mapping and routing resolution utilities for Tigrbl.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl_canon-0.1.0.dev6.tar.gz",
+  "download_time": "2026-03-20T08:00:37.511484",
+  "package_url": "https://pypi.org/project/tigrbl-canon/"
+}

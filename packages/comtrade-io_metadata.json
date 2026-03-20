@@ -1,0 +1,11 @@
+{
+  "name": "comtrade-io",
+  "version": "0.1.2",
+  "summary": "COMTRADE文件读取工具,并提供便捷的 Pandas DataFrame 接口",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "comtrade_io-0.1.2.tar.gz",
+  "download_time": "2026-03-20T08:00:45.679730",
+  "package_url": "https://pypi.org/project/comtrade-io/"
+}

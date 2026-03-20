@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl-orm",
+  "version": "0.1.0.dev6",
+  "summary": "ORM tables and mixins for the Tigrbl framework.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl_orm-0.1.0.dev6.tar.gz",
+  "download_time": "2026-03-20T08:00:39.089585",
+  "package_url": "https://pypi.org/project/tigrbl-orm/"
+}

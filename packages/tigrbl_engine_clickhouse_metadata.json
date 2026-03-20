@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl_engine_clickhouse",
+  "version": "0.1.1.dev14",
+  "summary": "Tigrbl engine plugin providing ClickHouse database support.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tigrbl_engine_clickhouse-0.1.1.dev14.tar.gz",
+  "download_time": "2026-03-20T08:00:47.814875",
+  "package_url": "https://pypi.org/project/tigrbl_engine_clickhouse/"
+}

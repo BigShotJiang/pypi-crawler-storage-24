@@ -1,0 +1,11 @@
+{
+  "name": "tropass-sdk",
+  "version": "0.2.1",
+  "summary": "Tropass SDK helps you develop and manage your models for Tropass platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tropass_sdk-0.2.1.tar.gz",
+  "download_time": "2026-03-20T08:00:20.648226",
+  "package_url": "https://pypi.org/project/tropass-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-fuseki",
+  "version": "1.1.0",
+  "summary": "CKAN extension that pushes RDF resources to Apache Jena Fuseki, with CKAN-authenticated SPARQL proxy and embedded YASGUI query interface",
+  "author": null,
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "ckanext_fuseki-1.1.0.tar.gz",
+  "download_time": "2026-03-20T08:00:25.531707",
+  "package_url": "https://pypi.org/project/ckanext-fuseki/"
+}

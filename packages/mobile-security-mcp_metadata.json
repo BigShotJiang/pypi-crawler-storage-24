@@ -1,0 +1,11 @@
+{
+  "name": "mobile-security-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server exposing Android security research tools for authorised penetration testing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mobile_security_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-20T08:00:22.288891",
+  "package_url": "https://pypi.org/project/mobile-security-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mirts-bench",
+  "version": "0.4.1",
+  "summary": "MiniRTS LLM Benchmark",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mirts_bench-0.4.1.tar.gz",
+  "download_time": "2026-03-20T08:00:36.426717",
+  "package_url": "https://pypi.org/project/mirts-bench/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl-ops-olap",
+  "version": "0.1.0.dev7",
+  "summary": "OLAP operation package boundary for analytical Tigrbl workloads.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl_ops_olap-0.1.0.dev7.tar.gz",
+  "download_time": "2026-03-20T08:00:30.861848",
+  "package_url": "https://pypi.org/project/tigrbl-ops-olap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl_spec",
+  "version": "0.1.0.dev6",
+  "summary": "Planning-stage Tigrbl specification package for shared interfaces, protocol definitions, and compatibility targets.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl_spec-0.1.0.dev6.tar.gz",
+  "download_time": "2026-03-20T08:00:27.667179",
+  "package_url": "https://pypi.org/project/tigrbl_spec/"
+}

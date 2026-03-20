@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl_api_cron",
+  "version": "0.1.1",
+  "summary": "Cron job storage, execution, and result tracking built on the Tigrbl engine.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl_api_cron-0.1.1.tar.gz",
+  "download_time": "2026-03-20T08:00:48.356510",
+  "package_url": "https://pypi.org/project/tigrbl_api_cron/"
+}

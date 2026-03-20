@@ -1,0 +1,11 @@
+{
+  "name": "orca-lab",
+  "version": "26.3.2",
+  "summary": "OrcaLab - Cloud-native robotics simulation platform with advanced UI and asset management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orca_lab-26.3.2-py3-none-any.whl",
+  "download_time": "2026-03-20T08:00:48.905385",
+  "package_url": "https://pypi.org/project/orca-lab/"
+}

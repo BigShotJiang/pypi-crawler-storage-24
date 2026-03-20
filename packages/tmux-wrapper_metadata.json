@@ -1,0 +1,11 @@
+{
+  "name": "tmux-wrapper",
+  "version": "0.1.0",
+  "summary": "Lightweight tmux automation wrapper and renderer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmux_wrapper-0.1.0.tar.gz",
+  "download_time": "2026-03-20T08:00:07.417492",
+  "package_url": "https://pypi.org/project/tmux-wrapper/"
+}
