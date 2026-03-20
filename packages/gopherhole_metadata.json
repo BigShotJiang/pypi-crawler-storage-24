@@ -1,11 +1,11 @@
 {
   "name": "gopherhole",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "GopherHole SDK - Connect AI agents via the A2A protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gopherhole-0.2.0.tar.gz",
-  "download_time": "2026-03-19T02:47:47.541841",
+  "download_filename": "gopherhole-0.2.1.tar.gz",
+  "download_time": "2026-03-20T12:04:43.391735",
   "package_url": "https://pypi.org/project/gopherhole/"
 }

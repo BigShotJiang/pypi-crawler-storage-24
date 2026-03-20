@@ -1,0 +1,11 @@
+{
+  "name": "gempy-viewer",
+  "version": "2025.1.6",
+  "summary": "Viewer for the geological modeling package GemPy",
+  "author": "Miguel de la Varga",
+  "license": "EUPL",
+  "home_page": null,
+  "download_filename": "gempy_viewer-2025.1.6.tar.gz",
+  "download_time": "2026-03-20T12:04:58.741037",
+  "package_url": "https://pypi.org/project/gempy-viewer/"
+}

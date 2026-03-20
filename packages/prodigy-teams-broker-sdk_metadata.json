@@ -1,11 +1,11 @@
 {
   "name": "prodigy-teams-broker-sdk",
-  "version": "5.0.3",
+  "version": "5.0.9",
   "summary": "Ellf Broker SDK",
   "author": "ExplosionAI GmbH",
   "license": "All rights reserved",
   "home_page": "https://github.com/explosion/prodigy-teams",
-  "download_filename": "prodigy_teams_broker_sdk-5.0.3.tar.gz",
-  "download_time": "2026-03-16T21:26:17.049824",
+  "download_filename": "prodigy_teams_broker_sdk-5.0.9.tar.gz",
+  "download_time": "2026-03-20T12:05:00.329001",
   "package_url": "https://pypi.org/project/prodigy-teams-broker-sdk/"
 }

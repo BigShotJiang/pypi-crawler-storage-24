@@ -1,0 +1,11 @@
+{
+  "name": "debsbom",
+  "version": "0.7.1",
+  "summary": "Generate SBOMs for Debian-based distributions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "debsbom-0.7.1.tar.gz",
+  "download_time": "2026-03-20T12:05:00.847265",
+  "package_url": "https://pypi.org/project/debsbom/"
+}

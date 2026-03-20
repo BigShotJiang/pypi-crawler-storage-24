@@ -1,0 +1,11 @@
+{
+  "name": "adamixture",
+  "version": "1.5.0",
+  "summary": "ADAMIXTURE: Adaptive First-Order Optimization for Biobank-Scale Ancestry Inference",
+  "author": "Joan Saurina Ricós",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/AI-sandbox/adamixture",
+  "download_filename": "adamixture-1.5.0.tar.gz",
+  "download_time": "2026-03-20T12:04:52.400036",
+  "package_url": "https://pypi.org/project/adamixture/"
+}

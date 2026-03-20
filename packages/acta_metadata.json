@@ -1,0 +1,11 @@
+{
+  "name": "acta",
+  "version": "0.1.0",
+  "summary": "File-based async message passing for AI agents. Maildir for LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acta-0.1.0.tar.gz",
+  "download_time": "2026-03-20T12:05:07.217005",
+  "package_url": "https://pypi.org/project/acta/"
+}

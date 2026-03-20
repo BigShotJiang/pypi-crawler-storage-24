@@ -1,0 +1,11 @@
+{
+  "name": "CalibDBReader",
+  "version": "0.7.0",
+  "summary": "Reader for the calibration database",
+  "author": null,
+  "license": "GNU GPL ver3",
+  "home_page": null,
+  "download_filename": "calibdbreader-0.7.0.tar.gz",
+  "download_time": "2026-03-20T12:04:35.595573",
+  "package_url": "https://pypi.org/project/CalibDBReader/"
+}

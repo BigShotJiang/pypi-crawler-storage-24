@@ -1,0 +1,11 @@
+{
+  "name": "autonity-cli",
+  "version": "2.0.3",
+  "summary": "Command line interface to interact with Autonity",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autonity_cli-2.0.3.tar.gz",
+  "download_time": "2026-03-20T12:05:06.698119",
+  "package_url": "https://pypi.org/project/autonity-cli/"
+}

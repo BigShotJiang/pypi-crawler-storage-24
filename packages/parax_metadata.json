@@ -1,11 +1,11 @@
 {
   "name": "parax",
-  "version": "0.1.0",
-  "summary": "Parax: Declarative, Parametric Modelling in JAX",
+  "version": "0.2.1",
+  "summary": "Declarative, parametric modelling in JAX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parax-0.1.0.tar.gz",
-  "download_time": "2026-03-18T17:21:59.969450",
+  "download_filename": "parax-0.2.1.tar.gz",
+  "download_time": "2026-03-20T12:05:08.784458",
   "package_url": "https://pypi.org/project/parax/"
 }

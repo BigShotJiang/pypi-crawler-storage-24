@@ -1,0 +1,11 @@
+{
+  "name": "gotranslate",
+  "version": "1.0.0",
+  "summary": "GoogleTranslator-based Python library for translation, language detection, flags, and language metadata.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gotranslate-1.0.0.tar.gz",
+  "download_time": "2026-03-20T12:04:50.274421",
+  "package_url": "https://pypi.org/project/gotranslate/"
+}

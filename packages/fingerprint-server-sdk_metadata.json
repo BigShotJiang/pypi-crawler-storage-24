@@ -1,11 +1,11 @@
 {
   "name": "fingerprint-server-sdk",
-  "version": "9.0.0rc1",
+  "version": "9.0.1",
   "summary": "Fingerprint Server API allows you to get, search, and update Events in a server environment. It can be used for data exports, decision-making, and data analysis scenarios. Server API is intended for server-side usage, it's not intended to be used from the client side, whether it's a browser or a mobile device. ",
   "author": "Fingerprint Support",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fingerprint_server_sdk-9.0.0rc1.tar.gz",
-  "download_time": "2026-03-11T20:01:24.602354",
+  "download_filename": "fingerprint_server_sdk-9.0.1.tar.gz",
+  "download_time": "2026-03-20T12:04:51.316721",
   "package_url": "https://pypi.org/project/fingerprint-server-sdk/"
 }

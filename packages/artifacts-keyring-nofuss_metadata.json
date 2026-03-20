@@ -1,0 +1,11 @@
+{
+  "name": "artifacts-keyring-nofuss",
+  "version": "0.4.0",
+  "summary": "No-fuss, pure-Python keyring backend for Azure DevOps Artifacts feeds",
+  "author": "msr-central",
+  "license": null,
+  "home_page": null,
+  "download_filename": "artifacts_keyring_nofuss-0.4.0.tar.gz",
+  "download_time": "2026-03-20T12:04:46.051202",
+  "package_url": "https://pypi.org/project/artifacts-keyring-nofuss/"
+}

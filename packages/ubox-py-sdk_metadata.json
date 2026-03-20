@@ -1,11 +1,11 @@
 {
   "name": "ubox-py-sdk",
-  "version": "0.2.19",
+  "version": "0.2.21",
   "summary": "用于操作优测设备的python-sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ubox_py_sdk-0.2.19.tar.gz",
-  "download_time": "2026-03-18T12:09:09.967755",
+  "download_filename": "ubox_py_sdk-0.2.21.tar.gz",
+  "download_time": "2026-03-20T12:05:06.176842",
   "package_url": "https://pypi.org/project/ubox-py-sdk/"
 }

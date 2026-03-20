@@ -1,11 +1,11 @@
 {
   "name": "lucos-schedule-tracker-pythonclient",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "Python library for sending updates to lucos_schedule_tracker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lucos_schedule_tracker_pythonclient-1.0.6.tar.gz",
-  "download_time": "2026-03-19T23:56:41.278389",
+  "download_filename": "lucos_schedule_tracker_pythonclient-1.0.8.tar.gz",
+  "download_time": "2026-03-20T12:05:21.339946",
   "package_url": "https://pypi.org/project/lucos-schedule-tracker-pythonclient/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyannotators-spacymatcher",
-  "version": "0.6.3",
+  "version": "0.6.9",
   "summary": "SpacyMatcher annotator using the spacy rule-matching engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyannotators_spacymatcher-0.6.3.tar.gz",
-  "download_time": "2026-03-10T11:01:29.920117",
+  "download_filename": "pyannotators_spacymatcher-0.6.9.tar.gz",
+  "download_time": "2026-03-20T12:04:52.919973",
   "package_url": "https://pypi.org/project/pyannotators-spacymatcher/"
 }

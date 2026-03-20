@@ -1,11 +1,11 @@
 {
   "name": "nexios",
-  "version": "3.9.1",
+  "version": "3.10.0",
   "summary": "A modern ASGI web framework for Python focused on simplicity, clean architecture, and a great developer experience.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexios-3.9.1.tar.gz",
-  "download_time": "2026-03-19T09:13:16.003343",
+  "download_filename": "nexios-3.10.0.tar.gz",
+  "download_time": "2026-03-20T12:05:17.159023",
   "package_url": "https://pypi.org/project/nexios/"
 }

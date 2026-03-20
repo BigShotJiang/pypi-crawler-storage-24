@@ -1,11 +1,11 @@
 {
   "name": "hpctainers",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "HPC Container Build System for Apptainer with OpenFOAM, MPI, and scientific computing focus",
   "author": "Mohammed Elwardi Fadeli",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hpctainers-2.2.0.tar.gz",
-  "download_time": "2026-03-09T11:49:59.110828",
+  "download_filename": "hpctainers-2.2.1.tar.gz",
+  "download_time": "2026-03-20T12:04:59.809823",
   "package_url": "https://pypi.org/project/hpctainers/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fasteval-langgraph",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "LangGraph testing plugin for fasteval -- wrap any compiled StateGraph with a minimal harness for chat, session, mocking, and node-level testing",
   "author": "Intuit",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fasteval_langgraph-2.2.2.tar.gz",
-  "download_time": "2026-03-09T11:50:04.664681",
+  "download_filename": "fasteval_langgraph-2.2.3.tar.gz",
+  "download_time": "2026-03-20T12:04:37.153953",
   "package_url": "https://pypi.org/project/fasteval-langgraph/"
 }

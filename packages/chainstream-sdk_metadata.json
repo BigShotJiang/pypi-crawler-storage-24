@@ -1,11 +1,11 @@
 {
   "name": "chainstream-sdk",
-  "version": "2.0.3",
+  "version": "2.0.9",
   "summary": "ChainStream SDK - API client for ChainStream",
   "author": "ChainStream",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chainstream_sdk-2.0.3.tar.gz",
-  "download_time": "2026-03-08T13:28:48.037450",
+  "download_filename": "chainstream_sdk-2.0.9.tar.gz",
+  "download_time": "2026-03-20T12:05:11.916901",
   "package_url": "https://pypi.org/project/chainstream-sdk/"
 }
