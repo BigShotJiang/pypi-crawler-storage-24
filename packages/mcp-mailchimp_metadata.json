@@ -1,0 +1,11 @@
+{
+  "name": "mcp-mailchimp",
+  "version": "0.2.0",
+  "summary": "Production-grade MCP server for the Mailchimp Marketing API — 33 tools for campaigns, audiences, members, tags, segments, templates, reports, and automations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_mailchimp-0.2.0.tar.gz",
+  "download_time": "2026-03-20T22:59:51.066713",
+  "package_url": "https://pypi.org/project/mcp-mailchimp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pepc-global-intensity",
+  "version": "0.1.2",
+  "summary": "Predict tropical cyclone intensity using pre-trained Input-Output Hidden Markov Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pepc_global_intensity-0.1.2.tar.gz",
+  "download_time": "2026-03-20T22:59:51.602241",
+  "package_url": "https://pypi.org/project/pepc-global-intensity/"
+}

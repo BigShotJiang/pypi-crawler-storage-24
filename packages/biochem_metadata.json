@@ -1,0 +1,11 @@
+{
+  "name": "biochem",
+  "version": "0.1.1",
+  "summary": "Biochem Database for evaluation of retrosynthesis and chemical reaction modeling pipeline.",
+  "author": "corethink",
+  "license": null,
+  "home_page": null,
+  "download_filename": "biochem-0.1.1.tar.gz",
+  "download_time": "2026-03-20T23:00:34.519236",
+  "package_url": "https://pypi.org/project/biochem/"
+}

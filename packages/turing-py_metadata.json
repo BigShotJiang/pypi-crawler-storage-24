@@ -1,11 +1,11 @@
 {
   "name": "turing-py",
-  "version": "2.2.2",
+  "version": "2.3.0",
   "summary": "Education Turing Machine simulator in Python",
   "author": "Eric Santos",
   "license": null,
   "home_page": null,
-  "download_filename": "turing_py-2.2.2.tar.gz",
-  "download_time": "2026-03-14T01:28:53.229918",
+  "download_filename": "turing_py-2.3.0.tar.gz",
+  "download_time": "2026-03-20T23:00:12.998892",
   "package_url": "https://pypi.org/project/turing-py/"
 }

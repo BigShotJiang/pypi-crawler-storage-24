@@ -1,0 +1,11 @@
+{
+  "name": "mcp-woocommerce",
+  "version": "0.1.0",
+  "summary": "Production-grade MCP server for the WooCommerce REST API — 34 tools for products, orders, customers, coupons, reports, shipping, webhooks, and system management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_woocommerce-0.1.0.tar.gz",
+  "download_time": "2026-03-20T23:00:18.758106",
+  "package_url": "https://pypi.org/project/mcp-woocommerce/"
+}

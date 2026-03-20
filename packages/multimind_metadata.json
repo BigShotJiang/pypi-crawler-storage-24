@@ -1,11 +1,11 @@
 {
   "name": "multimind",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "Local-first reasoning pipeline wrapper for Ollama and LM Studio",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multimind-0.1.9.tar.gz",
-  "download_time": "2026-03-19T22:28:17.488520",
+  "download_filename": "multimind-0.2.0.tar.gz",
+  "download_time": "2026-03-20T23:00:03.625996",
   "package_url": "https://pypi.org/project/multimind/"
 }

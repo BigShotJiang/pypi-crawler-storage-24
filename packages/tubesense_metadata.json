@@ -1,0 +1,11 @@
+{
+  "name": "tubesense",
+  "version": "0.3.0",
+  "summary": "Multi-dimensional sentiment analysis engine for YouTube video transcripts",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tubesense-0.3.0.tar.gz",
+  "download_time": "2026-03-20T23:00:17.731828",
+  "package_url": "https://pypi.org/project/tubesense/"
+}

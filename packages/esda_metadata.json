@@ -1,0 +1,11 @@
+{
+  "name": "esda",
+  "version": "2.9.0",
+  "summary": "Exploratory Spatial Data Analysis in PySAL",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "esda-2.9.0-py3-none-any.whl",
+  "download_time": "2026-03-20T23:00:00.439449",
+  "package_url": "https://pypi.org/project/esda/"
+}
