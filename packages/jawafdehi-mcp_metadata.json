@@ -1,0 +1,11 @@
+{
+  "name": "jawafdehi-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Jawafdehi corruption cases, NES entities and NGM judicial data",
+  "author": "Jawafdehi Inquiry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jawafdehi_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-20T08:39:26.520656",
+  "package_url": "https://pypi.org/project/jawafdehi-mcp/"
+}

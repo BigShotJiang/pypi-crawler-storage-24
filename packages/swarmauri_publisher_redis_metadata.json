@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_publisher_redis",
+  "version": "0.3.0.dev43",
+  "summary": "A Redis publisher implementation for Swarmauri.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_publisher_redis-0.3.0.dev43.tar.gz",
+  "download_time": "2026-03-20T08:39:48.063568",
+  "package_url": "https://pypi.org/project/swarmauri_publisher_redis/"
+}

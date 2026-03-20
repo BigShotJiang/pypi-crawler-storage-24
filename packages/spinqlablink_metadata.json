@@ -1,0 +1,11 @@
+{
+  "name": "spinqlablink",
+  "version": "1.0.1",
+  "summary": "SpinQLabLink - SpinQ Lab Remote Experiment Python Interface",
+  "author": "SpinQ",
+  "license": null,
+  "home_page": "https://github.com/spinqtech/spinqlablink",
+  "download_filename": "spinqlablink-1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-20T08:39:27.031128",
+  "package_url": "https://pypi.org/project/spinqlablink/"
+}

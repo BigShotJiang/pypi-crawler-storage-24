@@ -1,0 +1,11 @@
+{
+  "name": "python-qube-heatpump",
+  "version": "1.7.0",
+  "summary": "Async Modbus client for Qube Heat Pumps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_qube_heatpump-1.7.0.tar.gz",
+  "download_time": "2026-03-20T08:39:36.774765",
+  "package_url": "https://pypi.org/project/python-qube-heatpump/"
+}

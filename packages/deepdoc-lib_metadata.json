@@ -1,0 +1,11 @@
+{
+  "name": "deepdoc-lib",
+  "version": "0.2.0",
+  "summary": "[RAGFlow](https://ragflow.io/) is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepdoc_lib-0.2.0.tar.gz",
+  "download_time": "2026-03-20T08:39:13.703692",
+  "package_url": "https://pypi.org/project/deepdoc-lib/"
+}

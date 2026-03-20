@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_signing_cms",
+  "version": "0.1.0.dev34",
+  "summary": "CMS signer stub registered on the Swarmauri SigningBase registry",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_signing_cms-0.1.0.dev34.tar.gz",
+  "download_time": "2026-03-20T08:39:45.506775",
+  "package_url": "https://pypi.org/project/swarmauri_signing_cms/"
+}

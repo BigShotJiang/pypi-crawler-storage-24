@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_mre_crypto_pgp",
+  "version": "0.3.0.dev43",
+  "summary": "OpenPGP sealed-per-recipient MRE provider for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_mre_crypto_pgp-0.3.0.dev43.tar.gz",
+  "download_time": "2026-03-20T08:39:49.100679",
+  "package_url": "https://pypi.org/project/swarmauri_mre_crypto_pgp/"
+}

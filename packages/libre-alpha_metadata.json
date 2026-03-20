@@ -1,0 +1,11 @@
+{
+  "name": "libre-alpha",
+  "version": "0.1.0",
+  "summary": "Liberal Alpha Python SDK for interacting with gRPC-based backend",
+  "author": "capybaralabs",
+  "license": null,
+  "home_page": "https://github.com/capybaralabs-xyz/Liberal_Alpha",
+  "download_filename": "libre_alpha-0.1.0.tar.gz",
+  "download_time": "2026-03-20T08:39:06.966708",
+  "package_url": "https://pypi.org/project/libre-alpha/"
+}

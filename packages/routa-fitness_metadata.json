@@ -1,0 +1,11 @@
+{
+  "name": "routa-fitness",
+  "version": "0.1.1",
+  "summary": "Routa guardrails for architecture fitness, change-aware checks, and human review triggers",
+  "author": "Phodal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "routa_fitness-0.1.1.tar.gz",
+  "download_time": "2026-03-20T08:39:30.612553",
+  "package_url": "https://pypi.org/project/routa-fitness/"
+}

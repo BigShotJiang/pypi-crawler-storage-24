@@ -1,0 +1,11 @@
+{
+  "name": "simulation-alg",
+  "version": "0.1.10",
+  "summary": "A Python package for simulation algorithms",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/RaVincentHuang/simulation",
+  "download_filename": "simulation_alg-0.1.10.tar.gz",
+  "download_time": "2026-03-20T08:39:43.452734",
+  "package_url": "https://pypi.org/project/simulation-alg/"
+}
