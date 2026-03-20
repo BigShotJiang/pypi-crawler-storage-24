@@ -1,0 +1,11 @@
+{
+  "name": "skene",
+  "version": "0.3.0",
+  "summary": "PLG analysis toolkit for codebases - analyze code, detect growth opportunities, generate documentation",
+  "author": "Skene Technologies",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skene-0.3.0.tar.gz",
+  "download_time": "2026-03-20T10:08:07.147795",
+  "package_url": "https://pypi.org/project/skene/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "miles-challenge",
-  "version": "2026.3.20.924",
+  "version": "2026.3.20.1005",
   "summary": "Miles DevOps Case Study web app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "miles_challenge-2026.3.20.924.tar.gz",
-  "download_time": "2026-03-20T09:29:36.356931",
+  "download_filename": "miles_challenge-2026.3.20.1005.tar.gz",
+  "download_time": "2026-03-20T10:08:36.737675",
   "package_url": "https://pypi.org/project/miles-challenge/"
 }
