@@ -1,0 +1,11 @@
+{
+  "name": "splank",
+  "version": "0.2.0",
+  "summary": "CLI tool for querying Splunk logs. Search indexes, discover fields, and manage search jobs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splank-0.2.0.tar.gz",
+  "download_time": "2026-03-20T15:06:26.869643",
+  "package_url": "https://pypi.org/project/splank/"
+}

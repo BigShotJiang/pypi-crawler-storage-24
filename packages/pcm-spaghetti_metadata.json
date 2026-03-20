@@ -1,0 +1,11 @@
+{
+  "name": "pcm-spaghetti",
+  "version": "1.2.2",
+  "summary": "A PyTorch implementation of the SPAGHETTI model for phase-contrast microscopy image transformation",
+  "author": "Richard (Zhi Fei) Dong, Chris McIntosh, Gregory W. Schwartz",
+  "license": null,
+  "home_page": "https://github.com/schwartzlab-methods/spaghetti",
+  "download_filename": "pcm_spaghetti-1.2.2.tar.gz",
+  "download_time": "2026-03-20T15:06:32.744724",
+  "package_url": "https://pypi.org/project/pcm-spaghetti/"
+}

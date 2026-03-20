@@ -1,0 +1,11 @@
+{
+  "name": "hls4ml",
+  "version": "1.3.0",
+  "summary": "Machine learning in FPGAs using HLS",
+  "author": "hls4ml Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hls4ml-1.3.0.tar.gz",
+  "download_time": "2026-03-20T15:06:44.312767",
+  "package_url": "https://pypi.org/project/hls4ml/"
+}

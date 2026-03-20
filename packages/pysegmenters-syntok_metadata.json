@@ -1,11 +1,11 @@
 {
   "name": "pysegmenters-syntok",
-  "version": "0.6.15",
+  "version": "0.6.19",
   "summary": "syntok segmenter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pysegmenters_syntok-0.6.15.tar.gz",
-  "download_time": "2026-03-20T13:16:56.619705",
+  "download_filename": "pysegmenters_syntok-0.6.19.tar.gz",
+  "download_time": "2026-03-20T15:06:34.825269",
   "package_url": "https://pypi.org/project/pysegmenters-syntok/"
 }

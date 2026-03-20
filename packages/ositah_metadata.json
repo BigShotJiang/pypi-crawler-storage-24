@@ -1,0 +1,11 @@
+{
+  "name": "ositah",
+  "version": "26.1",
+  "summary": "Outils de Suivi d'Activités basé sur Hito",
+  "author": "Michel Jouvin",
+  "license": null,
+  "home_page": "https://gitlab.in2p3.fr/hito/ositah",
+  "download_filename": "ositah-26.1.tar.gz",
+  "download_time": "2026-03-20T15:06:37.998730",
+  "package_url": "https://pypi.org/project/ositah/"
+}

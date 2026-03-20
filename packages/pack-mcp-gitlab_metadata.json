@@ -1,11 +1,11 @@
 {
   "name": "pack-mcp-gitlab",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "MCP server for GitLab API integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pack_mcp_gitlab-0.1.0.tar.gz",
-  "download_time": "2026-03-19T21:58:10.897638",
+  "download_filename": "pack_mcp_gitlab-0.3.0.tar.gz",
+  "download_time": "2026-03-20T15:06:18.794841",
   "package_url": "https://pypi.org/project/pack-mcp-gitlab/"
 }

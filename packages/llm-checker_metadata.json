@@ -1,0 +1,11 @@
+{
+  "name": "llm-checker",
+  "version": "0.1.0",
+  "summary": "CLI tool to check hardware for local LLMs",
+  "author": "Shawn Mutogo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_checker-0.1.0.tar.gz",
+  "download_time": "2026-03-20T15:07:00.069219",
+  "package_url": "https://pypi.org/project/llm-checker/"
+}

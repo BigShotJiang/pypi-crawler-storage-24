@@ -1,0 +1,11 @@
+{
+  "name": "pycoreconf",
+  "version": "0.1.1",
+  "summary": "open-source implementation of CORECONF (CoAP Management Interface)",
+  "author": "Javier A. Fernandez",
+  "license": null,
+  "home_page": "https://github.com/alex-fddz/pycoreconf",
+  "download_filename": "pycoreconf-0.1.1.tar.gz",
+  "download_time": "2026-03-20T15:06:42.178024",
+  "package_url": "https://pypi.org/project/pycoreconf/"
+}

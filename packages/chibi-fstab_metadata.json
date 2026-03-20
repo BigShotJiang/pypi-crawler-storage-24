@@ -1,0 +1,11 @@
+{
+  "name": "chibi-fstab",
+  "version": "1.0.0",
+  "summary": "small lib for read and write fstab files",
+  "author": "dem4ply",
+  "license": "WTFPL",
+  "home_page": "https://github.com/dem4ply/chibi_fstab",
+  "download_filename": "chibi_fstab-1.0.0.tar.gz",
+  "download_time": "2026-03-20T15:06:27.389313",
+  "package_url": "https://pypi.org/project/chibi-fstab/"
+}

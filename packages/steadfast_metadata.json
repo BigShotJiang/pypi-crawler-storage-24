@@ -1,0 +1,11 @@
+{
+  "name": "steadfast",
+  "version": "1.0.2",
+  "summary": "Utilities for object serialization.",
+  "author": "High Dimensional Neurology Group, UCL",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/high-dimensional/steadfast",
+  "download_filename": "steadfast-1.0.2.tar.gz",
+  "download_time": "2026-03-20T15:06:31.699175",
+  "package_url": "https://pypi.org/project/steadfast/"
+}

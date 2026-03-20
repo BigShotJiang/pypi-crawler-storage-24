@@ -1,11 +1,11 @@
 {
   "name": "howler-sentinel-plugin",
-  "version": "0.2.0.208",
+  "version": "0.2.0.255",
   "summary": "A howler plugin for integration with Microsoft's Sentinel API",
   "author": "CCCS",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "howler_sentinel_plugin-0.2.0.208.tar.gz",
-  "download_time": "2026-03-17T12:07:38.373917",
+  "download_filename": "howler_sentinel_plugin-0.2.0.255.tar.gz",
+  "download_time": "2026-03-20T15:06:53.748539",
   "package_url": "https://pypi.org/project/howler-sentinel-plugin/"
 }

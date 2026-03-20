@@ -1,11 +1,11 @@
 {
   "name": "django-calibration-lib",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Minimal calibration library for Django projects.",
   "author": "Starling",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_calibration_lib-0.1.2.tar.gz",
-  "download_time": "2026-03-20T12:05:09.833308",
+  "download_filename": "django_calibration_lib-0.1.3.tar.gz",
+  "download_time": "2026-03-20T15:06:52.703977",
   "package_url": "https://pypi.org/project/django-calibration-lib/"
 }

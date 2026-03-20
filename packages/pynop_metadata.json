@@ -1,0 +1,11 @@
+{
+  "name": "pynop",
+  "version": "0.1.0",
+  "summary": "Shared DB/core + NopCommerce tooling for ABC StoreDataSync",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pynop-0.1.0.tar.gz",
+  "download_time": "2026-03-20T15:06:46.394930",
+  "package_url": "https://pypi.org/project/pynop/"
+}

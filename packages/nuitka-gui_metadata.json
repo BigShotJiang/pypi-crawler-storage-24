@@ -1,0 +1,11 @@
+{
+  "name": "nuitka-gui",
+  "version": "2.5.1",
+  "summary": "A friendly GUI frontend for the Nuitka Python compiler",
+  "author": "Hector Bertorello",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nuitka_gui-2.5.1.tar.gz",
+  "download_time": "2026-03-20T15:06:51.659513",
+  "package_url": "https://pypi.org/project/nuitka-gui/"
+}
