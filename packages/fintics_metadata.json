@@ -1,0 +1,11 @@
+{
+  "name": "fintics",
+  "version": "1.0.2",
+  "summary": "A comprehensive framework for financial data analysis and backtesting trading strategies",
+  "author": "ryokobachan",
+  "license": "MIT",
+  "home_page": "https://github.com/ryokobachan/fintics",
+  "download_filename": "fintics-1.0.2.tar.gz",
+  "download_time": "2026-03-20T04:01:56.905722",
+  "package_url": "https://pypi.org/project/fintics/"
+}

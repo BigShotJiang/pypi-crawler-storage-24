@@ -1,0 +1,11 @@
+{
+  "name": "backend.ai-accelerator-mock",
+  "version": "26.3.0",
+  "summary": "Backend.AI Mockup Accelerator Plugin",
+  "author": "Lablup Inc. and contributors",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/lablup/backend.ai",
+  "download_filename": "backend_ai_accelerator_mock-26.3.0.tar.gz",
+  "download_time": "2026-03-20T04:02:10.873914",
+  "package_url": "https://pypi.org/project/backend.ai-accelerator-mock/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spider-console-sdk",
+  "version": "0.1.0",
+  "summary": "Spider SDK：统一把爬虫运行状态/指标/错误上报到监控平台",
+  "author": "Spider SDK Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spider_console_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-20T04:01:47.662710",
+  "package_url": "https://pypi.org/project/spider-console-sdk/"
+}

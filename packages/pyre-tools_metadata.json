@@ -1,0 +1,11 @@
+{
+  "name": "pyre-tools",
+  "version": "1.6.0",
+  "summary": "CLI and importable library for Python dependency analysis and bootstrap.",
+  "author": "HuaiYu-Yang",
+  "license": "MIT",
+  "home_page": "https://github.com/huaiyu-yang/pypre_tools",
+  "download_filename": "pyre_tools-1.6.0.tar.gz",
+  "download_time": "2026-03-20T04:01:39.968980",
+  "package_url": "https://pypi.org/project/pyre-tools/"
+}

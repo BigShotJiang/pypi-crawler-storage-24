@@ -1,0 +1,11 @@
+{
+  "name": "cacli",
+  "version": "0.1.2",
+  "summary": "Provider-agnostic CLI for running coding agents",
+  "author": "Benjamin Anderson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cacli-0.1.2.tar.gz",
+  "download_time": "2026-03-20T04:02:21.742772",
+  "package_url": "https://pypi.org/project/cacli/"
+}

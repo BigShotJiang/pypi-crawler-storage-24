@@ -1,0 +1,11 @@
+{
+  "name": "MaxPhisher",
+  "version": "1.2.4",
+  "summary": "A python phishing script for login phishing, image phishing, video phishing and many more",
+  "author": "KasRoudra",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/KasRoudra/MaxPhisher/",
+  "download_filename": "maxphisher-1.2.4-py3-none-any.whl",
+  "download_time": "2026-03-20T04:01:38.811155",
+  "package_url": "https://pypi.org/project/MaxPhisher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysimpml",
+  "version": "0.0.4",
+  "summary": "Educational Machine Learning library focusing on understanding models step-by-step",
+  "author": "Nguyễn Chín Thanh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysimpml-0.0.4.tar.gz",
+  "download_time": "2026-03-20T04:02:16.312360",
+  "package_url": "https://pypi.org/project/pysimpml/"
+}

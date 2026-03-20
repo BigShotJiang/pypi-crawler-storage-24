@@ -1,0 +1,11 @@
+{
+  "name": "converra",
+  "version": "0.1.0",
+  "summary": "Converra SDK — transparent LLM client wrapping for conversation capture and A/B testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "converra-0.1.0.tar.gz",
+  "download_time": "2026-03-20T04:01:53.518280",
+  "package_url": "https://pypi.org/project/converra/"
+}

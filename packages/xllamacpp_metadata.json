@@ -1,0 +1,11 @@
+{
+  "name": "xllamacpp",
+  "version": "0.2.14",
+  "summary": "A Python wrapper of llama.cpp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xllamacpp-0.2.14-cp310-abi3-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-20T04:01:56.358825",
+  "package_url": "https://pypi.org/project/xllamacpp/"
+}

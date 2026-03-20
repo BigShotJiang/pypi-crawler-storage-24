@@ -1,0 +1,11 @@
+{
+  "name": "optimum-cli-pro",
+  "version": "1.0.1",
+  "summary": "Production-grade CLI tool for optimizing HuggingFace models with multiple backends",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "optimum_cli_pro-1.0.1.tar.gz",
+  "download_time": "2026-03-20T04:01:39.392340",
+  "package_url": "https://pypi.org/project/optimum-cli-pro/"
+}

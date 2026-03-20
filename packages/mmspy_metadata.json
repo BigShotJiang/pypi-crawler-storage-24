@@ -1,0 +1,11 @@
+{
+  "name": "mmspy",
+  "version": "0.3.0",
+  "summary": "A Python package for querying and analysing data from the NASA Magnetospheric Multiscale (MMS) mission.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "mmspy-0.3.0.tar.gz",
+  "download_time": "2026-03-20T04:01:41.707715",
+  "package_url": "https://pypi.org/project/mmspy/"
+}
