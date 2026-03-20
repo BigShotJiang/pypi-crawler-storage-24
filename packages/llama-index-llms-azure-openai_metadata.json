@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-llms-azure-openai",
+  "version": "0.5.3",
+  "summary": "llama-index llms azure openai integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_llms_azure_openai-0.5.3.tar.gz",
+  "download_time": "2026-03-20T19:40:11.953589",
+  "package_url": "https://pypi.org/project/llama-index-llms-azure-openai/"
+}

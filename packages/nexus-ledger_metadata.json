@@ -1,0 +1,11 @@
+{
+  "name": "nexus-ledger",
+  "version": "2.0.1",
+  "summary": "Pure sign + log + anchor library for agent proof",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexus_ledger-2.0.1.tar.gz",
+  "download_time": "2026-03-20T19:40:24.492619",
+  "package_url": "https://pypi.org/project/nexus-ledger/"
+}

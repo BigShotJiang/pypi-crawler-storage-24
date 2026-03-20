@@ -1,0 +1,11 @@
+{
+  "name": "kdrive-cli",
+  "version": "0.1.0",
+  "summary": "Unofficial CLI for Infomaniak kDrive",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdrive_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-20T19:40:21.979300",
+  "package_url": "https://pypi.org/project/kdrive-cli/"
+}

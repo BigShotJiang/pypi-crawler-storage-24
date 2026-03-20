@@ -1,11 +1,11 @@
 {
   "name": "spotforecast2",
-  "version": "0.11.1",
+  "version": "0.11.3",
   "summary": "Forecasting with spot",
   "author": "bartzbeielstein",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "spotforecast2-0.11.1.tar.gz",
-  "download_time": "2026-03-20T11:35:56.583045",
+  "download_filename": "spotforecast2-0.11.3.tar.gz",
+  "download_time": "2026-03-20T19:40:27.688172",
   "package_url": "https://pypi.org/project/spotforecast2/"
 }

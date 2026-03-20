@@ -1,11 +1,11 @@
 {
   "name": "strawberry-orm",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "Unified, backend-agnostic ORM abstraction for Strawberry GraphQL",
   "author": "James Davidson, Patrick Arminio",
   "license": null,
   "home_page": null,
-  "download_filename": "strawberry_orm-0.2.0.tar.gz",
-  "download_time": "2026-03-15T17:56:59.796184",
+  "download_filename": "strawberry_orm-0.5.0.tar.gz",
+  "download_time": "2026-03-20T19:40:28.916685",
   "package_url": "https://pypi.org/project/strawberry-orm/"
 }

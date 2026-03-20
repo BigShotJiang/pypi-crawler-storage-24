@@ -1,11 +1,11 @@
 {
   "name": "ezplog",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Modern Python logging framework with Rich console output and loguru file logging, featuring advanced display capabilities, configuration management, and a simple typed API.",
   "author": "Neuraaak",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ezplog-2.0.0.tar.gz",
-  "download_time": "2026-03-18T23:46:58.235155",
+  "download_filename": "ezplog-2.0.1.tar.gz",
+  "download_time": "2026-03-20T19:40:23.207728",
   "package_url": "https://pypi.org/project/ezplog/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ose-plugin-bcio",
+  "version": "1.4.1",
+  "summary": "Plugin for BCIO services and workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ose_plugin_bcio-1.4.1.tar.gz",
+  "download_time": "2026-03-20T19:40:55.732261",
+  "package_url": "https://pypi.org/project/ose-plugin-bcio/"
+}

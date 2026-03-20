@@ -1,0 +1,11 @@
+{
+  "name": "openmedaxis",
+  "version": "0.0.3",
+  "summary": "Open framework for generative medical imaging research",
+  "author": "AllAxisAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openmedaxis-0.0.3.tar.gz",
+  "download_time": "2026-03-20T19:40:18.285558",
+  "package_url": "https://pypi.org/project/openmedaxis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vdropbox",
+  "version": "1.1.0",
+  "summary": "Utilities to read/write python objects to/from dropbox",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vdropbox-1.1.0.tar.gz",
+  "download_time": "2026-03-20T19:40:52.102257",
+  "package_url": "https://pypi.org/project/vdropbox/"
+}

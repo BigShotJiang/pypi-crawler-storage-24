@@ -1,0 +1,11 @@
+{
+  "name": "ciberchurros-agent",
+  "version": "0.1.0",
+  "summary": "Agente local para escaneos de red de CiberChurros SaaS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ciberchurros_agent-0.1.0.tar.gz",
+  "download_time": "2026-03-20T19:40:04.672243",
+  "package_url": "https://pypi.org/project/ciberchurros-agent/"
+}

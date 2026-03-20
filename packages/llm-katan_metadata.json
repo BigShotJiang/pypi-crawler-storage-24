@@ -1,11 +1,11 @@
 {
   "name": "llm-katan",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "One tiny model, every LLM API. Drop-in test server for OpenAI, Anthropic, Bedrock, and Vertex.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "llm_katan-0.7.2.tar.gz",
-  "download_time": "2026-03-20T16:05:10.327731",
+  "download_filename": "llm_katan-0.7.3.tar.gz",
+  "download_time": "2026-03-20T19:40:44.114782",
   "package_url": "https://pypi.org/project/llm-katan/"
 }

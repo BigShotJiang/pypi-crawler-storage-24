@@ -1,0 +1,11 @@
+{
+  "name": "pyalula",
+  "version": "0.1.0",
+  "summary": "Python client library for the Alula alarm panel API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyalula-0.1.0.tar.gz",
+  "download_time": "2026-03-20T19:40:20.751026",
+  "package_url": "https://pypi.org/project/pyalula/"
+}

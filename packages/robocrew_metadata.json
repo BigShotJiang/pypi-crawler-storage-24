@@ -1,0 +1,11 @@
+{
+  "name": "robocrew",
+  "version": "0.2.0",
+  "summary": "Set up your embodied LLM agent same easiness as you set up normal agents in CrewAI or Autogen",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robocrew-0.2.0.tar.gz",
+  "download_time": "2026-03-20T19:40:11.310417",
+  "package_url": "https://pypi.org/project/robocrew/"
+}
