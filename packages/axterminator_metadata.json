@@ -1,0 +1,11 @@
+{
+  "name": "axterminator",
+  "version": "0.6.1",
+  "summary": "macOS GUI testing framework with background testing, sub-millisecond element access, and self-healing locators",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://mikkoparkkola.github.io/axterminator/",
+  "download_filename": "axterminator-0.6.1-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-20T16:04:48.648210",
+  "package_url": "https://pypi.org/project/axterminator/"
+}

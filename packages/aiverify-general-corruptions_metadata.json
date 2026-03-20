@@ -1,0 +1,11 @@
+{
+  "name": "aiverify-general-corruptions",
+  "version": "2.2.1",
+  "summary": "Part of AI Verify image corruption toolbox. This package includes algorithms that add general corruptions (gaussian, poisson and salt and pepper noise) to images at different severity levels, to test the robustness of machine learning models.",
+  "author": "AI Verify",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiverify_general_corruptions-2.2.1.tar.gz",
+  "download_time": "2026-03-20T16:05:13.930321",
+  "package_url": "https://pypi.org/project/aiverify-general-corruptions/"
+}

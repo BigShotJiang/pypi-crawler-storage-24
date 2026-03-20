@@ -1,11 +1,11 @@
 {
   "name": "cedric-ai",
-  "version": "6.0.0",
-  "summary": "Client Python pour Cédric — IA conversationnelle avec 500 requêtes/jour gratuites par IP et file d'attente automatique",
+  "version": "7.0.0",
+  "summary": "Client Python pour Cédric — IA conversationnelle et génération d'images avec 500 requêtes/jour gratuites par IP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cedric_ai-6.0.0.tar.gz",
-  "download_time": "2026-03-20T07:18:52.555442",
+  "download_filename": "cedric_ai-7.0.0.tar.gz",
+  "download_time": "2026-03-20T16:05:07.124376",
   "package_url": "https://pypi.org/project/cedric-ai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aiverify-veritastool",
+  "version": "2.2.1",
+  "summary": "Veritas Diagnosis tool for fairness & transparency assessment.",
+  "author": "MAS Veritas, AI Verify, Resaro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiverify_veritastool-2.2.1.tar.gz",
+  "download_time": "2026-03-20T16:05:11.376968",
+  "package_url": "https://pypi.org/project/aiverify-veritastool/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "peeka",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A Python dynamic debugger inspired by Arthas, using Python 3.14's safe external debugger interface",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "peeka-0.1.5.tar.gz",
-  "download_time": "2026-03-20T01:34:01.122644",
+  "download_filename": "peeka-0.1.6.tar.gz",
+  "download_time": "2026-03-20T16:04:54.074146",
   "package_url": "https://pypi.org/project/peeka/"
 }

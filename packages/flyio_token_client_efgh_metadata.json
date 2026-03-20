@@ -1,0 +1,11 @@
+{
+  "name": "flyio_token_client_efgh",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Honeybee task API",
+  "author": "Honeybee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flyio_token_client_efgh-0.1.0.tar.gz",
+  "download_time": "2026-03-20T16:04:51.335306",
+  "package_url": "https://pypi.org/project/flyio_token_client_efgh/"
+}

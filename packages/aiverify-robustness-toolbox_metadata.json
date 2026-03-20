@@ -1,0 +1,11 @@
+{
+  "name": "aiverify-robustness-toolbox",
+  "version": "2.2.1",
+  "summary": "AI Verify Robustness Toolbox generates a perturbed dataset using boundary attack algorithm on the test dataset.",
+  "author": "AI Verify",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiverify_robustness_toolbox-2.2.1.tar.gz",
+  "download_time": "2026-03-20T16:05:12.398152",
+  "package_url": "https://pypi.org/project/aiverify-robustness-toolbox/"
+}

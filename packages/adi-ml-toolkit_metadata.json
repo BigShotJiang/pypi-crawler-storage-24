@@ -1,0 +1,11 @@
+{
+  "name": "adi-ml-toolkit",
+  "version": "0.2.2",
+  "summary": "A handy metapackage installing common ML/AI libraries and tools I use for hackathons.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adi_ml_toolkit-0.2.2.tar.gz",
+  "download_time": "2026-03-20T16:04:32.655592",
+  "package_url": "https://pypi.org/project/adi-ml-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "infovist-python-sdk",
+  "version": "1.0.7",
+  "summary": "Client de comunicaçao c/ API da InfoVist",
+  "author": null,
+  "license": "MIT License\n        \n        Copyright (c) 2025 Seu Nome\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy...\n        ",
+  "home_page": null,
+  "download_filename": "infovist_python_sdk-1.0.7.tar.gz",
+  "download_time": "2026-03-20T16:04:45.568639",
+  "package_url": "https://pypi.org/project/infovist-python-sdk/"
+}

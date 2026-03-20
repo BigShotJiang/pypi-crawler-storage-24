@@ -1,11 +1,11 @@
 {
   "name": "jps-observability-utils",
-  "version": "0.2.0",
+  "version": "0.7.0",
   "summary": "Utilities for auditing Python and Node.js repositories for observability-related instrumentation and integrations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jps_observability_utils-0.2.0.tar.gz",
-  "download_time": "2026-03-20T15:06:35.345469",
+  "download_filename": "jps_observability_utils-0.7.0.tar.gz",
+  "download_time": "2026-03-20T16:04:40.166104",
   "package_url": "https://pypi.org/project/jps-observability-utils/"
 }

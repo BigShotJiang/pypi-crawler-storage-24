@@ -1,0 +1,11 @@
+{
+  "name": "bifidoannotator",
+  "version": "2.0.0",
+  "summary": "Fine-grained annotation of bifidobacterial enzymes for human milk glycan utilization",
+  "author": "Nicholas Pucci & Daniel R. Mende",
+  "license": null,
+  "home_page": "https://github.com/nicholaspucci/bifidoAnnotator",
+  "download_filename": "bifidoannotator-2.0.0.tar.gz",
+  "download_time": "2026-03-20T16:04:46.081268",
+  "package_url": "https://pypi.org/project/bifidoannotator/"
+}
