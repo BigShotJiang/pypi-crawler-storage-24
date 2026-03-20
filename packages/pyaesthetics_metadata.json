@@ -1,0 +1,11 @@
+{
+  "name": "pyaesthetics",
+  "version": "0.0.8.11",
+  "summary": "A python package to estimate visual features about the aesthetic appearance of still images.",
+  "author": "Giulio Gabrieli",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "pyaesthetics-0.0.8.11-py3-none-any.whl",
+  "download_time": "2026-03-20T16:49:44.207353",
+  "package_url": "https://pypi.org/project/pyaesthetics/"
+}

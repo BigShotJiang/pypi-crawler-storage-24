@@ -1,11 +1,11 @@
 {
   "name": "wordbird",
-  "version": "0.7.0",
+  "version": "0.9.0",
   "summary": "Voice dictation daemon using NVIDIA Parakeet on Apple Silicon",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wordbird-0.7.0.tar.gz",
-  "download_time": "2026-03-16T04:40:05.857886",
+  "download_filename": "wordbird-0.9.0.tar.gz",
+  "download_time": "2026-03-20T16:50:03.402013",
   "package_url": "https://pypi.org/project/wordbird/"
 }

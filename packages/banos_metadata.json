@@ -1,11 +1,11 @@
 {
   "name": "banos",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Behavior ANnOtation Score: ethological metrics for evaluating behavior annotation quality",
-  "author": "Giuseppe Chindemi",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "banos-0.2.0.tar.gz",
-  "download_time": "2026-03-20T16:05:10.845148",
+  "download_filename": "banos-0.2.3.tar.gz",
+  "download_time": "2026-03-20T16:50:17.611621",
   "package_url": "https://pypi.org/project/banos/"
 }

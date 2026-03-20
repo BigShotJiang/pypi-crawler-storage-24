@@ -1,11 +1,11 @@
 {
   "name": "spec-kit-colearn",
-  "version": "1.0.10",
+  "version": "1.0.13",
   "summary": "Spec-Kit-CoLearn - AI Co-Learning Spec Framework. Build with AI as your senior architect co-partner. Learn while you build.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spec_kit_colearn-1.0.10-py3-none-any.whl",
-  "download_time": "2026-03-20T16:04:28.748567",
+  "download_filename": "spec_kit_colearn-1.0.13.tar.gz",
+  "download_time": "2026-03-20T16:50:09.788989",
   "package_url": "https://pypi.org/project/spec-kit-colearn/"
 }

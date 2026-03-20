@@ -1,0 +1,11 @@
+{
+  "name": "djangoldp-edc",
+  "version": "1.0.4",
+  "summary": "DjangoLDP package for Eclipse Dataspace Connector (EDC) integration and permissions",
+  "author": "Startin'blox",
+  "license": "MIT",
+  "home_page": "https://git.startinblox.com/djangoldp-packages/djangoldp-edc",
+  "download_filename": "djangoldp_edc-1.0.4.tar.gz",
+  "download_time": "2026-03-20T16:50:13.971543",
+  "package_url": "https://pypi.org/project/djangoldp-edc/"
+}

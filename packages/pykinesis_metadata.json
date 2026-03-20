@@ -1,11 +1,11 @@
 {
   "name": "pykinesis",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python binding for the Thorlabs Kinesis software",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pykinesis-0.1.1.tar.gz",
-  "download_time": "2026-03-20T15:06:25.257107",
+  "download_filename": "pykinesis-0.1.2.tar.gz",
+  "download_time": "2026-03-20T16:50:02.362680",
   "package_url": "https://pypi.org/project/pykinesis/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agentic-mcp",
-  "version": "1.0.2",
+  "version": "2.0.2",
   "summary": null,
   "author": "jalal",
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_mcp-1.0.2.tar.gz",
-  "download_time": "2026-03-17T16:04:08.047987",
+  "download_filename": "agentic_mcp-2.0.2.tar.gz",
+  "download_time": "2026-03-20T16:50:09.251840",
   "package_url": "https://pypi.org/project/agentic-mcp/"
 }

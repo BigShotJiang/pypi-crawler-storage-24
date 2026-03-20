@@ -1,11 +1,11 @@
 {
   "name": "seekr-hatchery",
-  "version": "0.25.0",
+  "version": "0.26.0",
   "summary": "Task orchestration CLI for AI coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "seekr_hatchery-0.25.0.tar.gz",
-  "download_time": "2026-03-12T23:24:02.653320",
+  "download_filename": "seekr_hatchery-0.26.0.tar.gz",
+  "download_time": "2026-03-20T16:49:40.005626",
   "package_url": "https://pypi.org/project/seekr-hatchery/"
 }

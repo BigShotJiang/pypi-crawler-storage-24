@@ -1,11 +1,11 @@
 {
   "name": "asknews",
-  "version": "0.13.29",
+  "version": "0.13.31",
   "summary": "Python SDK for AskNews",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "asknews-0.13.29-py3-none-any.whl",
-  "download_time": "2026-03-15T11:05:28.394662",
+  "download_filename": "asknews-0.13.31-py3-none-any.whl",
+  "download_time": "2026-03-20T16:49:51.835599",
   "package_url": "https://pypi.org/project/asknews/"
 }

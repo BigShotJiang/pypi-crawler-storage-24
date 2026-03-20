@@ -1,11 +1,11 @@
 {
   "name": "llm-connector",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "summary": "A unified Python connector for multiple LLM providers with YAML-driven configuration.",
   "author": "Igor Bogdanov",
   "license": null,
   "home_page": null,
-  "download_filename": "llm_connector-1.1.2.tar.gz",
-  "download_time": "2026-03-18T23:46:48.211782",
+  "download_filename": "llm_connector-1.1.4.tar.gz",
+  "download_time": "2026-03-20T16:49:48.067886",
   "package_url": "https://pypi.org/project/llm-connector/"
 }

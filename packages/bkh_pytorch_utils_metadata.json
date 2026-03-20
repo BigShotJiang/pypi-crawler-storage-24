@@ -1,0 +1,11 @@
+{
+  "name": "bkh_pytorch_utils",
+  "version": "0.10.2",
+  "summary": "A rapid prototyping tool for MONAI & PyTorch Lightning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bkh_pytorch_utils-0.10.2.tar.gz",
+  "download_time": "2026-03-20T16:49:42.638596",
+  "package_url": "https://pypi.org/project/bkh_pytorch_utils/"
+}

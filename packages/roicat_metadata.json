@@ -1,11 +1,11 @@
 {
   "name": "roicat",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "summary": "A library for classifying and tracking ROIs.",
   "author": "Richard Hakim",
   "license": null,
   "home_page": null,
-  "download_filename": "roicat-1.7.0.tar.gz",
-  "download_time": "2026-03-15T04:32:32.926966",
+  "download_filename": "roicat-1.7.1.tar.gz",
+  "download_time": "2026-03-20T16:50:04.971688",
   "package_url": "https://pypi.org/project/roicat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "theprotocol-sdk",
+  "version": "0.2.0",
+  "summary": "TheProtocol SDK — Build and call A2A agents. Protocol bridges for ACP, ADK, and more.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "theprotocol_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-20T16:49:46.465999",
+  "package_url": "https://pypi.org/project/theprotocol-sdk/"
+}

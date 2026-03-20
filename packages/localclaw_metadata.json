@@ -1,11 +1,11 @@
 {
   "name": "localclaw",
-  "version": "0.3.1.1",
+  "version": "0.4.0.0",
   "summary": "A minimal, hackable agentic framework for Ollama and BitNet - local-first AI agent toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "localclaw-0.3.1.1.tar.gz",
-  "download_time": "2026-03-20T15:06:25.777521",
+  "download_filename": "localclaw-0.4.0.0.tar.gz",
+  "download_time": "2026-03-20T16:50:10.821854",
   "package_url": "https://pypi.org/project/localclaw/"
 }
