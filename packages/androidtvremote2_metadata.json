@@ -1,0 +1,11 @@
+{
+  "name": "androidtvremote2",
+  "version": "0.3.1",
+  "summary": "A Python library for interacting with Android TV using the Android TV Remote protocol v2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "androidtvremote2-0.3.1.tar.gz",
+  "download_time": "2026-03-20T05:20:25.526272",
+  "package_url": "https://pypi.org/project/androidtvremote2/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nerdcore",
-  "version": "0.6.23",
+  "version": "0.7.0",
   "summary": null,
   "author": "David Wallace Cooley Jr",
   "license": null,
   "home_page": "https://bitbucket.org/fivable/nerd-cli.git",
-  "download_filename": "nerdcore-0.6.23.tar.gz",
-  "download_time": "2026-03-11T19:31:18.474285",
+  "download_filename": "nerdcore-0.7.0.tar.gz",
+  "download_time": "2026-03-20T05:20:08.793911",
   "package_url": "https://pypi.org/project/nerdcore/"
 }

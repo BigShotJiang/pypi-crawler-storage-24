@@ -1,11 +1,11 @@
 {
   "name": "ztlctl",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "summary": "ZettelControl — CLI utility for managing a Zettelkasten note-taking system",
   "author": "ThatDev Studio",
   "license": null,
   "home_page": null,
-  "download_filename": "ztlctl-1.13.0.tar.gz",
-  "download_time": "2026-03-20T04:02:18.480719",
+  "download_filename": "ztlctl-1.14.0.tar.gz",
+  "download_time": "2026-03-20T05:20:20.828483",
   "package_url": "https://pypi.org/project/ztlctl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "seerflow",
+  "version": "0.1.0",
+  "summary": "A streaming, entity-centric log intelligence agent that foresees operational failures and sees security threats hiding across your log sources",
+  "author": "Fernando Flores",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seerflow-0.1.0.tar.gz",
+  "download_time": "2026-03-20T05:20:00.479461",
+  "package_url": "https://pypi.org/project/seerflow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nexus-memory",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "A neuro-inspired memory architecture for AI agents — combines a Semantic Palace graph, capacity-bounded Working Memory, and asynchronous consolidation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexus_memory-0.1.9.tar.gz",
-  "download_time": "2026-03-20T04:02:16.855808",
+  "download_filename": "nexus_memory-0.1.12.tar.gz",
+  "download_time": "2026-03-20T05:20:16.101137",
   "package_url": "https://pypi.org/project/nexus-memory/"
 }

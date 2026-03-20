@@ -1,0 +1,11 @@
+{
+  "name": "binary-equalab",
+  "version": "3.1.0",
+  "summary": "Binary Equalab is a symbolic mathematics toolkit focused on clarity, performance and educational value. Designed for students, engineers and curious minds who want math to feel alive.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binary_equalab-3.1.0.tar.gz",
+  "download_time": "2026-03-20T05:20:43.220622",
+  "package_url": "https://pypi.org/project/binary-equalab/"
+}

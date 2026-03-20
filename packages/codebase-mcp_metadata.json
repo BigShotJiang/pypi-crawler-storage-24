@@ -1,0 +1,11 @@
+{
+  "name": "codebase-mcp",
+  "version": "0.1.1",
+  "summary": "Persistent, portable codebase intelligence MCP server with incremental indexing and decision memory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codebase_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-20T05:20:31.294326",
+  "package_url": "https://pypi.org/project/codebase-mcp/"
+}

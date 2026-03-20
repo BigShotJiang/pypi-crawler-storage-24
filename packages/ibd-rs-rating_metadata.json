@@ -1,0 +1,11 @@
+{
+  "name": "ibd-rs-rating",
+  "version": "0.2.0",
+  "summary": "Unofficial IBD-style Relative Strength Rating for 4,600+ US stocks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ibd_rs_rating-0.2.0.tar.gz",
+  "download_time": "2026-03-20T05:20:18.738369",
+  "package_url": "https://pypi.org/project/ibd-rs-rating/"
+}

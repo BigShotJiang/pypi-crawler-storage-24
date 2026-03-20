@@ -1,0 +1,11 @@
+{
+  "name": "skillsctl",
+  "version": "0.2.0",
+  "summary": "CLI tool for installing skills, agents, workflows, and rules from an Enterprise Skills Catalog",
+  "author": "Yash Shingvi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skillsctl-0.2.0.tar.gz",
+  "download_time": "2026-03-20T05:19:59.432269",
+  "package_url": "https://pypi.org/project/skillsctl/"
+}

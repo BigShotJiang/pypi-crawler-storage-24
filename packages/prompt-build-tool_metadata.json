@@ -1,11 +1,11 @@
 {
   "name": "prompt-build-tool",
-  "version": "0.1.14",
+  "version": "0.1.18",
   "summary": "A dbt-inspired prompt orchestration tool for LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prompt_build_tool-0.1.14.tar.gz",
-  "download_time": "2026-03-13T10:06:36.358544",
+  "download_filename": "prompt_build_tool-0.1.18.tar.gz",
+  "download_time": "2026-03-20T05:20:06.704589",
   "package_url": "https://pypi.org/project/prompt-build-tool/"
 }
