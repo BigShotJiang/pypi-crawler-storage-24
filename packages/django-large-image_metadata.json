@@ -1,0 +1,11 @@
+{
+  "name": "django-large-image",
+  "version": "0.10.3",
+  "summary": "Dynamic tile server in Django built on top of large-image (and GDAL)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_large_image-0.10.3.tar.gz",
+  "download_time": "2026-03-20T20:06:21.203596",
+  "package_url": "https://pypi.org/project/django-large-image/"
+}

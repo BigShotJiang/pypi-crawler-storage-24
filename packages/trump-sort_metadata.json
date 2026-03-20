@@ -1,11 +1,11 @@
 {
   "name": "trump-sort",
-  "version": "45.47.0",
+  "version": "45.47.0.post1",
   "summary": "The most tremendous, beautifully sorted algorithm ever created. Huge win!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trump_sort-45.47.0.tar.gz",
-  "download_time": "2026-03-20T19:40:36.972085",
+  "download_filename": "trump_sort-45.47.0.post1.tar.gz",
+  "download_time": "2026-03-20T20:07:06.708687",
   "package_url": "https://pypi.org/project/trump-sort/"
 }

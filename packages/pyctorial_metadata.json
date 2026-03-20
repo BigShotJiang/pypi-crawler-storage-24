@@ -1,11 +1,11 @@
 {
   "name": "pyctorial",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python tools for generating patterns and manipulating images",
   "author": "Matthew Lundeen",
   "license": null,
   "home_page": "https://github.com/decentishdev/pyctorial",
-  "download_filename": "pyctorial-0.1.2.tar.gz",
-  "download_time": "2026-03-13T18:09:26.503392",
+  "download_filename": "pyctorial-0.1.3.tar.gz",
+  "download_time": "2026-03-20T20:06:41.425170",
   "package_url": "https://pypi.org/project/pyctorial/"
 }

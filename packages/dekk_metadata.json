@@ -1,0 +1,11 @@
+{
+  "name": "dekk",
+  "version": "1.1.0",
+  "summary": "Reusable environment detection, activation, and wrapper tooling for developer CLIs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dekk-1.1.0.tar.gz",
+  "download_time": "2026-03-20T20:07:00.093094",
+  "package_url": "https://pypi.org/project/dekk/"
+}

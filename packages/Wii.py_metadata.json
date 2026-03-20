@@ -1,0 +1,11 @@
+{
+  "name": "Wii.py",
+  "version": "0.3",
+  "summary": "Wii library written in and for Python",
+  "author": "Xuzz, SquidMan, megazig, Matt_P, Omega, The Lemon Man, marcan, Daeken",
+  "license": "GNU GPL v3",
+  "home_page": "https://github.com/DorkmasterFlek/Wii.py",
+  "download_filename": "wii_py-0.3.tar.gz",
+  "download_time": "2026-03-20T20:06:59.549925",
+  "package_url": "https://pypi.org/project/Wii.py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "factumstack-mcp",
+  "version": "0.1.2",
+  "summary": "MCP Bridge for FactumStack Scientific Auditing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "factumstack_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-20T20:06:57.258750",
+  "package_url": "https://pypi.org/project/factumstack-mcp/"
+}

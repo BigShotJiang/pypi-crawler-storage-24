@@ -1,11 +1,11 @@
 {
   "name": "embodik",
-  "version": "0.15.2",
+  "version": "0.15.4",
   "summary": "High-performance inverse kinematics solver optimized for cross-embodiment VLA/AI applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "embodik-0.15.2.tar.gz",
-  "download_time": "2026-03-20T19:02:31.682893",
+  "download_filename": "embodik-0.15.4.tar.gz",
+  "download_time": "2026-03-20T20:06:50.264831",
   "package_url": "https://pypi.org/project/embodik/"
 }

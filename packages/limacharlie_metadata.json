@@ -1,0 +1,11 @@
+{
+  "name": "limacharlie",
+  "version": "5.2.0",
+  "summary": "Python SDK and CLI for the LimaCharlie endpoint detection and response platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "limacharlie-5.2.0.tar.gz",
+  "download_time": "2026-03-20T20:06:17.535009",
+  "package_url": "https://pypi.org/project/limacharlie/"
+}
