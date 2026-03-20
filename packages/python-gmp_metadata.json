@@ -1,0 +1,11 @@
+{
+  "name": "python-gmp",
+  "version": "0.5.1",
+  "summary": "Safe bindings to the GNU GMP library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_gmp-0.5.1.tar.gz",
+  "download_time": "2026-03-20T01:34:12.303902",
+  "package_url": "https://pypi.org/project/python-gmp/"
+}

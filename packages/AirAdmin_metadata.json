@@ -1,0 +1,11 @@
+{
+  "name": "AirAdmin",
+  "version": "0.1.0",
+  "summary": "Admin UI for Air web framework, inspired by the Django admin and its replacements",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airadmin-0.1.0.tar.gz",
+  "download_time": "2026-03-20T01:34:34.005689",
+  "package_url": "https://pypi.org/project/AirAdmin/"
+}

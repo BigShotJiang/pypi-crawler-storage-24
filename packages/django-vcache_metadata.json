@@ -1,11 +1,11 @@
 {
   "name": "django-vcache",
-  "version": "2.0.10",
+  "version": "2.1.0",
   "summary": "A specialized, lightweight Django cache backend for Valkey.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_vcache-2.0.10.tar.gz",
-  "download_time": "2026-03-15T15:28:17.841087",
+  "download_filename": "django_vcache-2.1.0.tar.gz",
+  "download_time": "2026-03-20T01:34:37.828859",
   "package_url": "https://pypi.org/project/django-vcache/"
 }

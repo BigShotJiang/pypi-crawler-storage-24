@@ -1,0 +1,11 @@
+{
+  "name": "codeir-tools",
+  "version": "0.2.0",
+  "summary": "Deterministic code compression and indexing for Python repositories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codeir_tools-0.2.0.tar.gz",
+  "download_time": "2026-03-20T01:34:15.162148",
+  "package_url": "https://pypi.org/project/codeir-tools/"
+}

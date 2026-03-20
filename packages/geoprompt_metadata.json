@@ -1,0 +1,11 @@
+{
+  "name": "geoprompt",
+  "version": "0.1.3",
+  "summary": "Custom spatial analysis package with GeoPandas-style frame workflows and GeoPrompt equations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geoprompt-0.1.3.tar.gz",
+  "download_time": "2026-03-20T01:34:34.549586",
+  "package_url": "https://pypi.org/project/geoprompt/"
+}

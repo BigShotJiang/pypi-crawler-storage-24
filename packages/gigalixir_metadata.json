@@ -1,0 +1,11 @@
+{
+  "name": "gigalixir",
+  "version": "1.16.0",
+  "summary": null,
+  "author": "Tim Knight",
+  "license": null,
+  "home_page": "https://github.com/gigalixir/gigalixir-cli",
+  "download_filename": "gigalixir-1.16.0.tar.gz",
+  "download_time": "2026-03-20T01:34:24.651386",
+  "package_url": "https://pypi.org/project/gigalixir/"
+}

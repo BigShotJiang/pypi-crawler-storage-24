@@ -1,11 +1,11 @@
 {
   "name": "cqpes",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "A GPU-Aided Software Package for Developing Full-Dimensional Accurate Potential Energy Surfaces",
   "author": null,
   "license": "BSD 2-Clause Simplified License",
   "home_page": null,
-  "download_filename": "cqpes-2.0.0.tar.gz",
-  "download_time": "2026-03-19T23:57:14.234899",
+  "download_filename": "cqpes-2.0.1.tar.gz",
+  "download_time": "2026-03-20T01:34:40.573325",
   "package_url": "https://pypi.org/project/cqpes/"
 }

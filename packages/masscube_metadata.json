@@ -1,11 +1,11 @@
 {
   "name": "masscube",
-  "version": "1.2.19",
+  "version": "1.2.20",
   "summary": "Accurate and fast data processing for metabolomics",
   "author": null,
   "license": "CC BY-NC 4.0",
   "home_page": null,
-  "download_filename": "masscube-1.2.19.tar.gz",
-  "download_time": "2026-03-19T23:57:13.723537",
+  "download_filename": "masscube-1.2.20.tar.gz",
+  "download_time": "2026-03-20T01:34:32.370245",
   "package_url": "https://pypi.org/project/masscube/"
 }

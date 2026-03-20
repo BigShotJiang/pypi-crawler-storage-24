@@ -1,0 +1,11 @@
+{
+  "name": "py2ddoc",
+  "version": "0.1.0",
+  "summary": "Decode and verify French ANTS 2D-Doc barcodes (QR/DataMatrix)",
+  "author": "py2ddoc contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py2ddoc-0.1.0.tar.gz",
+  "download_time": "2026-03-20T01:34:16.265478",
+  "package_url": "https://pypi.org/project/py2ddoc/"
+}

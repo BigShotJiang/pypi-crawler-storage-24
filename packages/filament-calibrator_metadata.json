@@ -1,11 +1,11 @@
 {
   "name": "filament-calibrator",
-  "version": "0.3.10",
+  "version": "0.3.17",
   "summary": "CLI tool suite for 3D printer filament calibration — temperature tower, extrusion multiplier, volumetric flow, pressure advance, retraction (distance + speed), shrinkage, bridging, overhang, tolerance, and cooling tests",
   "author": "Hyiger",
   "license": null,
   "home_page": null,
-  "download_filename": "filament_calibrator-0.3.10.tar.gz",
-  "download_time": "2026-03-18T23:46:23.320232",
+  "download_filename": "filament_calibrator-0.3.17.tar.gz",
+  "download_time": "2026-03-20T01:34:08.967167",
   "package_url": "https://pypi.org/project/filament-calibrator/"
 }

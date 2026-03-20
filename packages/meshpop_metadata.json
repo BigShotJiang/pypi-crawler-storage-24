@@ -1,11 +1,11 @@
 {
   "name": "meshpop",
-  "version": "4.13.8",
+  "version": "4.13.11",
   "summary": "MeshPOP Fleet Orchestration — manage mesh VPN servers at scale",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "meshpop-4.13.8-py3-none-any.whl",
-  "download_time": "2026-03-19T21:23:25.355312",
+  "download_filename": "meshpop-4.13.11.tar.gz",
+  "download_time": "2026-03-20T01:34:10.512978",
   "package_url": "https://pypi.org/project/meshpop/"
 }
