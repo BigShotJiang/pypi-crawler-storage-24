@@ -1,0 +1,11 @@
+{
+  "name": "agentic-product-protocol-mcp",
+  "version": "0.1.0",
+  "summary": "Klarna-style product discovery for AI agents — structured product data, comparison, feed conversion",
+  "author": "AiAgentKarl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentic_product_protocol_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-20T11:02:23.248145",
+  "package_url": "https://pypi.org/project/agentic-product-protocol-mcp/"
+}

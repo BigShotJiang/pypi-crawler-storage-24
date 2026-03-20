@@ -1,0 +1,11 @@
+{
+  "name": "sal-xarray",
+  "version": "0.2.2",
+  "summary": "SAL backend for xarray",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sal_xarray-0.2.2.tar.gz",
+  "download_time": "2026-03-20T11:02:39.177815",
+  "package_url": "https://pypi.org/project/sal-xarray/"
+}

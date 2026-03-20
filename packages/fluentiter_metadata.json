@@ -1,0 +1,11 @@
+{
+  "name": "fluentiter",
+  "version": "1.3.0",
+  "summary": "Nice and clean iterator patterns for python",
+  "author": "Damion Werner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluentiter-1.3.0.tar.gz",
+  "download_time": "2026-03-20T11:02:00.063363",
+  "package_url": "https://pypi.org/project/fluentiter/"
+}

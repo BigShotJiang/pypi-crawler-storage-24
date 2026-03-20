@@ -1,0 +1,11 @@
+{
+  "name": "mekong-tunnel",
+  "version": "2.0.1",
+  "summary": "Framework-specific tunnel commands — uvicorn-mekong, flask-mekong, django-mekong and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mekong_tunnel-2.0.1.tar.gz",
+  "download_time": "2026-03-20T11:02:20.622817",
+  "package_url": "https://pypi.org/project/mekong-tunnel/"
+}

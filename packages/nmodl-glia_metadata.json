@@ -1,0 +1,11 @@
+{
+  "name": "nmodl-glia",
+  "version": "7.3.0",
+  "summary": "NMODL Asset Manager for Arbor and NEURON.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nmodl_glia-7.3.0.tar.gz",
+  "download_time": "2026-03-20T11:02:14.983802",
+  "package_url": "https://pypi.org/project/nmodl-glia/"
+}

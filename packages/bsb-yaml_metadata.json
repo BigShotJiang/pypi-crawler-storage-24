@@ -1,0 +1,11 @@
+{
+  "name": "bsb-yaml",
+  "version": "7.3.0",
+  "summary": "YAML parser for the BSB framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsb_yaml-7.3.0.tar.gz",
+  "download_time": "2026-03-20T11:02:09.858791",
+  "package_url": "https://pypi.org/project/bsb-yaml/"
+}

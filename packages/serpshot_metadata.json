@@ -1,0 +1,11 @@
+{
+  "name": "serpshot",
+  "version": "0.2.1",
+  "summary": "Official Python SDK for SerpShot API - Google Search Results",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "serpshot-0.2.1.tar.gz",
+  "download_time": "2026-03-20T11:01:57.931849",
+  "package_url": "https://pypi.org/project/serpshot/"
+}

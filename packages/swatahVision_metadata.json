@@ -1,11 +1,11 @@
 {
   "name": "swatahVision",
-  "version": "0.1.2",
-  "summary": "swatah vision Python package",
+  "version": "26.3.1",
+  "summary": "An open-source Vision AI stack for real-world applications",
   "author": null,
-  "license": "MIT",
+  "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "swatahvision-0.1.2.tar.gz",
-  "download_time": "2026-03-11T11:01:49.299524",
+  "download_filename": "swatahvision-26.3.1.tar.gz",
+  "download_time": "2026-03-20T11:02:31.443990",
   "package_url": "https://pypi.org/project/swatahVision/"
 }

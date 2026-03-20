@@ -1,0 +1,11 @@
+{
+  "name": "gw-integrator",
+  "version": "0.1.0",
+  "summary": "Gravitaional wave driven orbital evolution integrator based on tranformed",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gw_integrator-0.1.0.tar.gz",
+  "download_time": "2026-03-20T11:02:35.061621",
+  "package_url": "https://pypi.org/project/gw-integrator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scipion-em",
+  "version": "3.11.0",
+  "summary": "Plugin extends Scipion framework towards cryo EM image processing",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "scipion_em-3.11.0.tar.gz",
+  "download_time": "2026-03-20T11:02:33.525231",
+  "package_url": "https://pypi.org/project/scipion-em/"
+}

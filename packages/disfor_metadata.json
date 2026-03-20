@@ -1,0 +1,11 @@
+{
+  "name": "disfor",
+  "version": "0.2.2",
+  "summary": "Utilities to load and filter DISFOR dataset. The dataset provides forest disturbance agent labels for use with Sentinel-2.",
+  "author": "Jonas Viehweger",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "disfor-0.2.2.tar.gz",
+  "download_time": "2026-03-20T11:02:37.125619",
+  "package_url": "https://pypi.org/project/disfor/"
+}

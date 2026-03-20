@@ -1,0 +1,11 @@
+{
+  "name": "lamarr-energy-tracker",
+  "version": "0.1.2",
+  "summary": "A CodeCarbon wrapper for tracking and reporting energy consumption of ML experiments",
+  "author": "Resource-aware ML Research Team @ Lamarr Institute",
+  "license": null,
+  "home_page": "https://github.com/lamarr-institute/lamarr-energy-tracker",
+  "download_filename": "lamarr_energy_tracker-0.1.2.tar.gz",
+  "download_time": "2026-03-20T11:02:28.373352",
+  "package_url": "https://pypi.org/project/lamarr-energy-tracker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dissmodel",
+  "version": "0.3.0",
+  "summary": "Discrete Spatial Modeling framework for raster and vector simulations",
+  "author": "Sérgio Costa, Nerval Santos Junior",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dissmodel-0.3.0.tar.gz",
+  "download_time": "2026-03-20T11:02:24.278577",
+  "package_url": "https://pypi.org/project/dissmodel/"
+}

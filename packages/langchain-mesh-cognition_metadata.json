@@ -1,0 +1,11 @@
+{
+  "name": "langchain-mesh-cognition",
+  "version": "0.1.0",
+  "summary": "LangChain integration for Mesh Cognition — give any agent distributed memory across devices",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_mesh_cognition-0.1.0.tar.gz",
+  "download_time": "2026-03-20T11:01:58.460378",
+  "package_url": "https://pypi.org/project/langchain-mesh-cognition/"
+}
