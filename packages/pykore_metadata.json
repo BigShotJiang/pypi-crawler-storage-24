@@ -1,0 +1,11 @@
+{
+  "name": "pykore",
+  "version": "0.2.1",
+  "summary": "Portable FFT-based Schrodinger-Poisson pseudospectral kernel",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "pykore-0.2.1.tar.gz",
+  "download_time": "2026-03-21T20:54:39.263732",
+  "package_url": "https://pypi.org/project/pykore/"
+}

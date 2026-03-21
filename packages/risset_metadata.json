@@ -1,0 +1,11 @@
+{
+  "name": "risset",
+  "version": "3.2.4",
+  "summary": "Package manager for csound",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "risset-3.2.4.tar.gz",
+  "download_time": "2026-03-21T20:55:02.556502",
+  "package_url": "https://pypi.org/project/risset/"
+}

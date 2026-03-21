@@ -1,11 +1,11 @@
 {
   "name": "django-live-translations",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "In-browser translation editing for Django superusers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_live_translations-0.4.0.tar.gz",
-  "download_time": "2026-03-21T19:41:34.160193",
+  "download_filename": "django_live_translations-0.4.2.tar.gz",
+  "download_time": "2026-03-21T20:55:01.316987",
   "package_url": "https://pypi.org/project/django-live-translations/"
 }

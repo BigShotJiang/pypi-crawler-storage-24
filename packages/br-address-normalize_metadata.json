@@ -1,0 +1,11 @@
+{
+  "name": "br-address-normalize",
+  "version": "0.2.0",
+  "summary": "Biblioteca de normalização de endereços brasileiros",
+  "author": "Inspire / F1 Qualidade",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "br_address_normalize-0.2.0.tar.gz",
+  "download_time": "2026-03-21T20:54:50.293974",
+  "package_url": "https://pypi.org/project/br-address-normalize/"
+}

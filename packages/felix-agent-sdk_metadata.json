@@ -1,11 +1,11 @@
 {
   "name": "felix-agent-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Helical multi-agent orchestration framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "felix_agent_sdk-0.2.0.tar.gz",
-  "download_time": "2026-03-21T16:30:47.004875",
+  "download_filename": "felix_agent_sdk-0.2.1.tar.gz",
+  "download_time": "2026-03-21T20:54:30.147453",
   "package_url": "https://pypi.org/project/felix-agent-sdk/"
 }

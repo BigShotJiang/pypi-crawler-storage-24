@@ -1,0 +1,11 @@
+{
+  "name": "sumt",
+  "version": "4.1.0",
+  "summary": "Computes consensus trees and other phylogenetic tree summaries",
+  "author": "Anders Gorm Pedersen",
+  "license": null,
+  "home_page": "https://github.com/agormp/sumt",
+  "download_filename": "sumt-4.1.0.tar.gz",
+  "download_time": "2026-03-21T20:54:36.373021",
+  "package_url": "https://pypi.org/project/sumt/"
+}

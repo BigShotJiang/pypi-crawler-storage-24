@@ -1,0 +1,11 @@
+{
+  "name": "socialapi",
+  "version": "0.1.2",
+  "summary": "Official Python SDK for SocialAPI -- unified social media inbox API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "socialapi-0.1.2.tar.gz",
+  "download_time": "2026-03-21T20:54:57.607583",
+  "package_url": "https://pypi.org/project/socialapi/"
+}

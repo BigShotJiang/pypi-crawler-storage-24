@@ -1,11 +1,11 @@
 {
   "name": "rio-agent",
-  "version": "0.9.15",
+  "version": "0.9.16",
   "summary": "Rio Agent: voice-first autonomous assistant with local and cloud runtimes",
   "author": "Gowshik S",
   "license": null,
   "home_page": null,
-  "download_filename": "rio_agent-0.9.15.tar.gz",
-  "download_time": "2026-03-21T20:25:43.257139",
+  "download_filename": "rio_agent-0.9.16.tar.gz",
+  "download_time": "2026-03-21T20:55:07.047120",
   "package_url": "https://pypi.org/project/rio-agent/"
 }

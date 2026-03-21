@@ -1,0 +1,11 @@
+{
+  "name": "voyageintel",
+  "version": "1.0.0",
+  "summary": "Self-hosted MCP server and tactical web app for real-time air, sea, and space tracking with AI-powered queries and an immersive 3D globe.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voyageintel-1.0.0.tar.gz",
+  "download_time": "2026-03-21T20:54:51.985913",
+  "package_url": "https://pypi.org/project/voyageintel/"
+}

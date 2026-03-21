@@ -1,0 +1,11 @@
+{
+  "name": "zdxtools",
+  "version": "0.0.34",
+  "summary": "包含图形处理，OS处理，爬虫处理，加密的日常封装",
+  "author": "zhou",
+  "license": null,
+  "home_page": "https://github.com/pypa/sampleproject",
+  "download_filename": "zdxtools-0.0.34.tar.gz",
+  "download_time": "2026-03-21T20:54:50.857703",
+  "package_url": "https://pypi.org/project/zdxtools/"
+}

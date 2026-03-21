@@ -1,11 +1,11 @@
 {
   "name": "qriton-hlm",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Energy Language — program neural networks by shaping energy landscapes",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qriton_hlm-0.7.1.tar.gz",
-  "download_time": "2026-03-21T20:25:29.630621",
+  "download_filename": "qriton_hlm-0.7.2.tar.gz",
+  "download_time": "2026-03-21T20:54:33.540794",
   "package_url": "https://pypi.org/project/qriton-hlm/"
 }
