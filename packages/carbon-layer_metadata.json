@@ -1,11 +1,11 @@
 {
   "name": "carbon-layer",
-  "version": "0.1.3",
+  "version": "0.3.0",
   "summary": "Chaos engineering for payment flows",
   "author": "Pritom Mazumdar",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "carbon_layer-0.1.3.tar.gz",
-  "download_time": "2026-03-17T15:07:28.126774",
+  "download_filename": "carbon_layer-0.3.0.tar.gz",
+  "download_time": "2026-03-21T07:51:52.335509",
   "package_url": "https://pypi.org/project/carbon-layer/"
 }

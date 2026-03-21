@@ -1,11 +1,11 @@
 {
   "name": "chub",
-  "version": "0.1.6",
-  "summary": "Chub: high-performance curated docs for AI coding agents",
+  "version": "0.1.10",
+  "summary": "Chub: high-performance curated docs for AI coding agents with team sharing",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/nrl-ai/chub",
-  "download_filename": "chub-0.1.6-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-21T07:13:23.872749",
+  "download_filename": "chub-0.1.10-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-21T07:51:29.695153",
   "package_url": "https://pypi.org/project/chub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "your-docs-server",
+  "version": "1.0.0",
+  "summary": "Full-featured documentation server with MCP, web UI, and REST API — convenience install for your-docs-mcp",
+  "author": "MCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "your_docs_server-1.0.0.tar.gz",
+  "download_time": "2026-03-21T07:51:16.872743",
+  "package_url": "https://pypi.org/project/your-docs-server/"
+}

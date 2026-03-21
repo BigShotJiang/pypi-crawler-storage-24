@@ -1,11 +1,11 @@
 {
   "name": "glassbox-mech-interp",
-  "version": "3.2.1",
+  "version": "3.4.0",
   "summary": "Mechanistic interpretability + EU AI Act compliance. Attribution patching, CircuitDiff, bias analysis, multi-audit dashboard, stability suite, tamper-evident audit log. Dual-licensed (MIT core + BSL 1.1 compliance engine).",
   "author": null,
   "license": "MIT AND LicenseRef-BUSL-1.1",
   "home_page": null,
-  "download_filename": "glassbox_mech_interp-3.2.1.tar.gz",
-  "download_time": "2026-03-20T20:55:26.507526",
+  "download_filename": "glassbox_mech_interp-3.4.0.tar.gz",
+  "download_time": "2026-03-21T07:51:50.291598",
   "package_url": "https://pypi.org/project/glassbox-mech-interp/"
 }

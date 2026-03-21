@@ -1,0 +1,11 @@
+{
+  "name": "anemone-daisy-maker",
+  "version": "1.992",
+  "summary": "Create DAISY digital talking books from HTML text, MP3 audio and JSON time index data",
+  "author": "Silas S. Brown",
+  "license": "Apache 2",
+  "home_page": "https://ssb22.user.srcf.net/indexer/anemone.html",
+  "download_filename": "anemone_daisy_maker-1.992.tar.gz",
+  "download_time": "2026-03-21T07:51:37.440774",
+  "package_url": "https://pypi.org/project/anemone-daisy-maker/"
+}

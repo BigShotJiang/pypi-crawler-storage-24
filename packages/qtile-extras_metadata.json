@@ -1,0 +1,11 @@
+{
+  "name": "qtile-extras",
+  "version": "0.35.0",
+  "summary": "Extra items for qtile that are unlikely to be maintained in the main repo.",
+  "author": "elParaguayo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qtile_extras-0.35.0.tar.gz",
+  "download_time": "2026-03-21T07:51:51.315401",
+  "package_url": "https://pypi.org/project/qtile-extras/"
+}

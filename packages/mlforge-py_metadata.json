@@ -1,0 +1,11 @@
+{
+  "name": "mlforge-py",
+  "version": "1.0.0",
+  "summary": "End-to-end ML pipeline library — data ingestion to deployment",
+  "author": "srinagadurga3455",
+  "license": null,
+  "home_page": "https://github.com/srinagadurga3455/mlforge",
+  "download_filename": "mlforge_py-1.0.0.tar.gz",
+  "download_time": "2026-03-21T07:51:31.756338",
+  "package_url": "https://pypi.org/project/mlforge-py/"
+}

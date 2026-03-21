@@ -1,0 +1,11 @@
+{
+  "name": "haloblocks",
+  "version": "0.1.1",
+  "summary": "A modular neural network component library",
+  "author": "naveen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "haloblocks-0.1.1.tar.gz",
+  "download_time": "2026-03-21T07:51:54.889780",
+  "package_url": "https://pypi.org/project/haloblocks/"
+}
