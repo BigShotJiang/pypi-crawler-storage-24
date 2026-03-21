@@ -1,11 +1,11 @@
 {
   "name": "boltz_compute",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "The official Python library for the boltz-compute API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "boltz_compute-0.12.0.tar.gz",
-  "download_time": "2026-03-21T20:54:52.559270",
+  "download_filename": "boltz_compute-0.13.0.tar.gz",
+  "download_time": "2026-03-21T22:25:24.336584",
   "package_url": "https://pypi.org/project/boltz_compute/"
 }

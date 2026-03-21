@@ -1,0 +1,11 @@
+{
+  "name": "protfunc",
+  "version": "0.1.0",
+  "summary": "Python SDK for the POOL / GRASP-Func protein functional site prediction server",
+  "author": "Avaneeth Anil",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "protfunc-0.1.0.tar.gz",
+  "download_time": "2026-03-21T22:25:25.363008",
+  "package_url": "https://pypi.org/project/protfunc/"
+}

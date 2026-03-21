@@ -1,0 +1,11 @@
+{
+  "name": "neuralib-parser",
+  "version": "0.7.1",
+  "summary": "Parsers for output from open-source packages or specific devices",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "neuralib_parser-0.7.1.tar.gz",
+  "download_time": "2026-03-21T22:25:21.783655",
+  "package_url": "https://pypi.org/project/neuralib-parser/"
+}

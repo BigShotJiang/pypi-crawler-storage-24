@@ -1,0 +1,11 @@
+{
+  "name": "loggery",
+  "version": "0.7.3",
+  "summary": "Configure logging with reduced noise from spammy modules with easy argparse support",
+  "author": "Erskin Cherry",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://gitlab.com/frobnic8/loggery",
+  "download_filename": "loggery-0.7.3.tar.gz",
+  "download_time": "2026-03-21T22:25:34.119940",
+  "package_url": "https://pypi.org/project/loggery/"
+}

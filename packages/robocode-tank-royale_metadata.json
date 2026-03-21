@@ -1,0 +1,11 @@
+{
+  "name": "robocode-tank-royale",
+  "version": "0.38.0",
+  "summary": "Python Bot API for Robocode Tank Royale",
+  "author": null,
+  "license": null,
+  "home_page": "https://robocode-dev.github.io/tank-royale",
+  "download_filename": "robocode_tank_royale-0.38.0-py3-none-any.whl",
+  "download_time": "2026-03-21T22:24:50.451855",
+  "package_url": "https://pypi.org/project/robocode-tank-royale/"
+}

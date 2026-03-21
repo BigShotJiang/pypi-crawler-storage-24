@@ -1,11 +1,11 @@
 {
   "name": "janet-mcp",
-  "version": "0.2.4",
+  "version": "0.3.2",
   "summary": "MCP server for Janet AI project management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "janet_mcp-0.2.4.tar.gz",
-  "download_time": "2026-03-20T17:35:04.569050",
+  "download_filename": "janet_mcp-0.3.2.tar.gz",
+  "download_time": "2026-03-21T22:25:12.507709",
   "package_url": "https://pypi.org/project/janet-mcp/"
 }

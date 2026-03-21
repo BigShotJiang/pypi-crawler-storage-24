@@ -1,0 +1,11 @@
+{
+  "name": "amocrm-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for AmoCRM — gives Claude Desktop direct access to your CRM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amocrm_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-21T22:25:19.229901",
+  "package_url": "https://pypi.org/project/amocrm-mcp/"
+}

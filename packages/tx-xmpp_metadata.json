@@ -1,0 +1,11 @@
+{
+  "name": "tx-xmpp",
+  "version": "0.9.0",
+  "summary": "Twisted Jabber support library",
+  "author": "Ralph Meijer, Jérôme Poisson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tx_xmpp-0.9.0.tar.gz",
+  "download_time": "2026-03-21T22:25:15.633547",
+  "package_url": "https://pypi.org/project/tx-xmpp/"
+}

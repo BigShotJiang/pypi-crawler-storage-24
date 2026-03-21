@@ -1,0 +1,11 @@
+{
+  "name": "reinfolib-client",
+  "version": "0.1.0",
+  "summary": "不動産情報ライブラリ API クライアント",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reinfolib_client-0.1.0.tar.gz",
+  "download_time": "2026-03-21T22:25:14.037516",
+  "package_url": "https://pypi.org/project/reinfolib-client/"
+}

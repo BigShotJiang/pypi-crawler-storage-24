@@ -1,0 +1,11 @@
+{
+  "name": "ptufile",
+  "version": "2026.3.21",
+  "summary": "Read and write PicoQuant PTU and related files",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "ptufile-2026.3.21.tar.gz",
+  "download_time": "2026-03-21T22:25:15.123745",
+  "package_url": "https://pypi.org/project/ptufile/"
+}

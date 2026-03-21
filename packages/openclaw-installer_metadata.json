@@ -1,11 +1,11 @@
 {
   "name": "openclaw-installer",
-  "version": "1.0.8",
+  "version": "1.0.11",
   "summary": "Zero-config installer for OpenClaw AI assistant - works with Kimi, Claude, GPT, and local models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openclaw_installer-1.0.8-py3-none-any.whl",
-  "download_time": "2026-03-21T21:51:35.681389",
+  "download_filename": "openclaw_installer-1.0.11-py3-none-any.whl",
+  "download_time": "2026-03-21T22:24:52.158165",
   "package_url": "https://pypi.org/project/openclaw-installer/"
 }
