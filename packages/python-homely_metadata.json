@@ -1,0 +1,11 @@
+{
+  "name": "python-homely",
+  "version": "0.1.2",
+  "summary": "Async Python client for the Homely cloud API, built for Home Assistant but usable anywhere.",
+  "author": "Ludvik Blichfeldt Rød",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_homely-0.1.2.tar.gz",
+  "download_time": "2026-03-21T16:58:48.677936",
+  "package_url": "https://pypi.org/project/python-homely/"
+}

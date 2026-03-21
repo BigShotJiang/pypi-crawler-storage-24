@@ -1,0 +1,11 @@
+{
+  "name": "skillmind",
+  "version": "0.1.0",
+  "summary": "Active Skill Listener & Trainer — structured memory layer for AI coding assistants",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skillmind-0.1.0.tar.gz",
+  "download_time": "2026-03-21T16:58:57.355358",
+  "package_url": "https://pypi.org/project/skillmind/"
+}

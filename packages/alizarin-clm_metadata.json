@@ -1,11 +1,11 @@
 {
   "name": "alizarin-clm",
-  "version": "0.2.1a46",
+  "version": "0.2.1a48",
   "summary": "CLM (Controlled List Manager) extension for Alizarin",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alizarin_clm-0.2.1a46-cp39-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-18T23:46:55.592208",
+  "download_filename": "alizarin_clm-0.2.1a48-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-21T16:58:50.990685",
   "package_url": "https://pypi.org/project/alizarin-clm/"
 }

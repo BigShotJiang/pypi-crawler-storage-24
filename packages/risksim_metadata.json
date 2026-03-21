@@ -1,0 +1,11 @@
+{
+  "name": "risksim",
+  "version": "0.1.0",
+  "summary": "Portfolio-level loss simulation and aggregate treaty modeling in Python",
+  "author": "Michael Bryant",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "risksim-0.1.0.tar.gz",
+  "download_time": "2026-03-21T16:59:03.069138",
+  "package_url": "https://pypi.org/project/risksim/"
+}

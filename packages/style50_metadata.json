@@ -1,0 +1,11 @@
+{
+  "name": "style50",
+  "version": "3.0.0",
+  "summary": "This is style50, with which code can be checked against the CS50 style guide",
+  "author": "CS50",
+  "license": "GPLv3",
+  "home_page": "https://github.com/cs50/style50",
+  "download_filename": "style50-3.0.0.tar.gz",
+  "download_time": "2026-03-21T16:58:45.746756",
+  "package_url": "https://pypi.org/project/style50/"
+}

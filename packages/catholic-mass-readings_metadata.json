@@ -1,0 +1,11 @@
+{
+  "name": "catholic-mass-readings",
+  "version": "0.7.2",
+  "summary": "Provides an API for scraping the web page from https://bible.usccb.org/bible/readings/ to get the readings",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "catholic_mass_readings-0.7.2.tar.gz",
+  "download_time": "2026-03-21T16:58:41.687938",
+  "package_url": "https://pypi.org/project/catholic-mass-readings/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MRArbDcf",
+  "version": "2.0.0",
+  "summary": "Density Compensation Function Design Tool for Arbirary k-Space Trajectoryies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mrarbdcf-2.0.0.tar.gz",
+  "download_time": "2026-03-21T16:58:28.227238",
+  "package_url": "https://pypi.org/project/MRArbDcf/"
+}

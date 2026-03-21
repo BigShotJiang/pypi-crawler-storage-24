@@ -1,11 +1,11 @@
 {
   "name": "openobserve-community-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "OpenObserve community stdio MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openobserve_community_mcp-0.1.0.tar.gz",
-  "download_time": "2026-03-21T16:30:36.206319",
+  "download_filename": "openobserve_community_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-21T16:58:25.343643",
   "package_url": "https://pypi.org/project/openobserve-community-mcp/"
 }

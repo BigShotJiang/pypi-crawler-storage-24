@@ -1,0 +1,11 @@
+{
+  "name": "loreguard-cli",
+  "version": "0.16.0",
+  "summary": "Local inference client for Loreguard NPCs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loreguard_cli-0.16.0.tar.gz",
+  "download_time": "2026-03-21T16:58:34.202656",
+  "package_url": "https://pypi.org/project/loreguard-cli/"
+}

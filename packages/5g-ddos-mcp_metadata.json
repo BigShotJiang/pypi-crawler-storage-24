@@ -1,0 +1,11 @@
+{
+  "name": "5g-ddos-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for 5G DDoS detection using the NCSRD-DS-5GDDoS dataset",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "5g_ddos_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-21T16:58:37.083775",
+  "package_url": "https://pypi.org/project/5g-ddos-mcp/"
+}

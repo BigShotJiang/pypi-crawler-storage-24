@@ -1,0 +1,11 @@
+{
+  "name": "osintxpress",
+  "version": "0.1.0",
+  "summary": "High-throughput OSINT ingestion engine for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osintxpress-0.1.0.tar.gz",
+  "download_time": "2026-03-21T16:58:48.104311",
+  "package_url": "https://pypi.org/project/osintxpress/"
+}
