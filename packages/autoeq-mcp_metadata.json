@@ -1,0 +1,11 @@
+{
+  "name": "autoeq-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for AutoEQ headphone equalization database — search, compare, and get EQ settings for 8800+ headphones",
+  "author": "verIdyia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autoeq_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-21T14:07:47.810295",
+  "package_url": "https://pypi.org/project/autoeq-mcp/"
+}

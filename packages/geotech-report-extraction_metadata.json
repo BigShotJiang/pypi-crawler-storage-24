@@ -1,11 +1,11 @@
 {
   "name": "geotech-report-extraction",
-  "version": "0.5.3",
+  "version": "0.5.5",
   "summary": "Extract geotechnical data from PDF reports and output DIGGS XML",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geotech_report_extraction-0.5.3.tar.gz",
-  "download_time": "2026-03-20T19:40:25.787008",
+  "download_filename": "geotech_report_extraction-0.5.5.tar.gz",
+  "download_time": "2026-03-21T14:08:20.993055",
   "package_url": "https://pypi.org/project/geotech-report-extraction/"
 }

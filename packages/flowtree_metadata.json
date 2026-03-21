@@ -1,0 +1,11 @@
+{
+  "name": "flowtree",
+  "version": "0.1.0",
+  "summary": "Developing an intermediate layer library for Gstreamer",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "flowtree-0.1.0.tar.gz",
+  "download_time": "2026-03-21T14:08:26.733918",
+  "package_url": "https://pypi.org/project/flowtree/"
+}

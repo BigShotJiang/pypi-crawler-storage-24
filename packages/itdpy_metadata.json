@@ -1,11 +1,11 @@
 {
   "name": "itdpy",
-  "version": "0.3.9",
-  "summary": "Python SDK for ИТД.com API",
+  "version": "1.0.1",
+  "summary": "Production-ready Python SDK for ITD API",
   "author": "Gam5510",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "itdpy-0.3.9.tar.gz",
-  "download_time": "2026-03-07T13:26:35.809483",
+  "download_filename": "itdpy-1.0.1.tar.gz",
+  "download_time": "2026-03-21T14:08:26.199895",
   "package_url": "https://pypi.org/project/itdpy/"
 }

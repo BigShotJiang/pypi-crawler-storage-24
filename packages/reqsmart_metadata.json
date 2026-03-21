@@ -1,0 +1,11 @@
+{
+  "name": "reqsmart",
+  "version": "0.1.0",
+  "summary": "Requirement qualification tool: extract, score, review, export",
+  "author": "Yanbing Li",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "reqsmart-0.1.0.tar.gz",
+  "download_time": "2026-03-21T14:08:17.830060",
+  "package_url": "https://pypi.org/project/reqsmart/"
+}

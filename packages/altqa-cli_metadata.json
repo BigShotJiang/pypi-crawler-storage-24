@@ -1,11 +1,11 @@
 {
   "name": "altqa-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI-powered QA automation CLI — tests your app from Jira tickets, reports bugs back automatically",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "altqa_cli-0.1.0.tar.gz",
-  "download_time": "2026-03-21T13:43:43.632142",
+  "download_filename": "altqa_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-21T14:08:21.512225",
   "package_url": "https://pypi.org/project/altqa-cli/"
 }

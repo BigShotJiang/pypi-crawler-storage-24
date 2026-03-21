@@ -1,0 +1,11 @@
+{
+  "name": "lazyblorg",
+  "version": "2026.3.21.2",
+  "summary": "Blogging with Emacs Org-mode for very lazy people",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lazyblorg-2026.3.21.2.tar.gz",
+  "download_time": "2026-03-21T14:07:58.832880",
+  "package_url": "https://pypi.org/project/lazyblorg/"
+}

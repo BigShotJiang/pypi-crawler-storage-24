@@ -1,11 +1,11 @@
 {
   "name": "fastgram-cli",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "CLI tool for FastAPI - generate SSL certificates and more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastgram_cli-0.1.6.tar.gz",
-  "download_time": "2026-03-21T11:24:31.854148",
+  "download_filename": "fastgram_cli-0.1.8.tar.gz",
+  "download_time": "2026-03-21T14:08:27.773249",
   "package_url": "https://pypi.org/project/fastgram-cli/"
 }

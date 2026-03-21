@@ -1,11 +1,11 @@
 {
   "name": "llm-secure-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Unified Command-Line Interface for Multiple LLMs",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "llm_secure_cli-1.0.3.tar.gz",
-  "download_time": "2026-03-21T06:29:55.922909",
+  "download_filename": "llm_secure_cli-1.0.4.tar.gz",
+  "download_time": "2026-03-21T14:07:54.100674",
   "package_url": "https://pypi.org/project/llm-secure-cli/"
 }

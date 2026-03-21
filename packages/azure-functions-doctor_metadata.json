@@ -1,11 +1,11 @@
 {
   "name": "azure-functions-doctor",
-  "version": "0.15.1",
+  "version": "0.16.1",
   "summary": "Diagnostic tool for Azure Functions Python v2 programming model",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "azure_functions_doctor-0.15.1.tar.gz",
-  "download_time": "2026-03-14T13:53:51.209075",
+  "download_filename": "azure_functions_doctor-0.16.1.tar.gz",
+  "download_time": "2026-03-21T14:07:56.741915",
   "package_url": "https://pypi.org/project/azure-functions-doctor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "shieldmyrepo",
+  "version": "0.1.0",
+  "summary": "Scan any repo for security nightmares in 30 seconds",
+  "author": "Dhanush Nehru",
+  "license": null,
+  "home_page": "https://github.com/DhanushNehru/ShieldMyRepo",
+  "download_filename": "shieldmyrepo-0.1.0.tar.gz",
+  "download_time": "2026-03-21T14:07:53.581050",
+  "package_url": "https://pypi.org/project/shieldmyrepo/"
+}

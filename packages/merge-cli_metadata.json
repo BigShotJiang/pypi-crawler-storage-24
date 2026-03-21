@@ -1,0 +1,11 @@
+{
+  "name": "merge-cli",
+  "version": "1.0.0",
+  "summary": "CLI for MERGE variant pathogenicity prediction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "merge_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-21T14:08:19.951911",
+  "package_url": "https://pypi.org/project/merge-cli/"
+}

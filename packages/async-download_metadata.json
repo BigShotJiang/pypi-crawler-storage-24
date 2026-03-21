@@ -1,0 +1,11 @@
+{
+  "name": "async-download",
+  "version": "1.5.0",
+  "summary": "Uses coroutines to download files",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "async_download-1.5.0.tar.gz",
+  "download_time": "2026-03-21T14:08:01.965268",
+  "package_url": "https://pypi.org/project/async-download/"
+}
