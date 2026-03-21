@@ -1,0 +1,11 @@
+{
+  "name": "monocle-apptrace",
+  "version": "0.7.7",
+  "summary": "package with monocle genAI tracing",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "monocle_apptrace-0.7.7.tar.gz",
+  "download_time": "2026-03-21T03:41:10.947369",
+  "package_url": "https://pypi.org/project/monocle-apptrace/"
+}

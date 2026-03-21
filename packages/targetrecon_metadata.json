@@ -1,0 +1,11 @@
+{
+  "name": "targetrecon",
+  "version": "0.1.2",
+  "summary": "Drug target intelligence aggregator — fetch, collate, and visualize public data for any protein target in one command.",
+  "author": "Hemant Nagar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "targetrecon-0.1.2.tar.gz",
+  "download_time": "2026-03-21T03:40:33.113411",
+  "package_url": "https://pypi.org/project/targetrecon/"
+}

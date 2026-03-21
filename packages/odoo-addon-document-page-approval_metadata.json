@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-document-page-approval",
+  "version": "18.0.1.1.1",
+  "summary": "Document Page Approval",
+  "author": "Savoir-faire Linux, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/knowledge",
+  "download_filename": "odoo_addon_document_page_approval-18.0.1.1.1-py3-none-any.whl",
+  "download_time": "2026-03-21T03:41:03.781085",
+  "package_url": "https://pypi.org/project/odoo-addon-document-page-approval/"
+}

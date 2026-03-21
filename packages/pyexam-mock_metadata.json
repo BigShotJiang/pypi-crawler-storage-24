@@ -1,0 +1,11 @@
+{
+  "name": "pyexam-mock",
+  "version": "0.1.1",
+  "summary": "Timed Python mock tests with line-by-line AI feedback",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyexam_mock-0.1.1.tar.gz",
+  "download_time": "2026-03-21T03:41:05.895362",
+  "package_url": "https://pypi.org/project/pyexam-mock/"
+}

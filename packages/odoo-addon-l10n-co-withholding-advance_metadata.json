@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-co-withholding-advance",
+  "version": "19.0.1.0.0.2",
+  "summary": "Soporte para retenciones anticipadas en la contabilidad colombiana.",
+  "author": "Yan Chirino, IKU Solutions SAS, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-colombia",
+  "download_filename": "odoo_addon_l10n_co_withholding_advance-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-21T03:40:50.012462",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-co-withholding-advance/"
+}

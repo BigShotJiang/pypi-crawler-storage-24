@@ -1,0 +1,11 @@
+{
+  "name": "mfcli",
+  "version": "0.2.17",
+  "summary": "AI-powered CLI for analyzing hardware engineering documents",
+  "author": "Multifactor AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mfcli-0.2.17.tar.gz",
+  "download_time": "2026-03-21T03:40:31.363979",
+  "package_url": "https://pypi.org/project/mfcli/"
+}

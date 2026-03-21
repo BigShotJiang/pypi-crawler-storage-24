@@ -1,0 +1,11 @@
+{
+  "name": "ship-langchain",
+  "version": "1.0.0",
+  "summary": "LangChain integration for SHIP Protocol - AI coding reliability metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ship_langchain-1.0.0.tar.gz",
+  "download_time": "2026-03-21T03:41:13.544953",
+  "package_url": "https://pypi.org/project/ship-langchain/"
+}

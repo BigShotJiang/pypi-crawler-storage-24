@@ -1,11 +1,11 @@
 {
   "name": "beeq",
-  "version": "1.2.3",
+  "version": "1.2.9",
   "summary": "The first AI hive. One curl. One queen. An army that works.",
   "author": null,
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "beeq-1.2.3.tar.gz",
-  "download_time": "2026-03-21T01:30:11.287191",
+  "download_filename": "beeq-1.2.9.tar.gz",
+  "download_time": "2026-03-21T03:40:29.383279",
   "package_url": "https://pypi.org/project/beeq/"
 }

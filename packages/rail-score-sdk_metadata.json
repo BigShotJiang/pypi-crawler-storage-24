@@ -1,0 +1,11 @@
+{
+  "name": "rail-score-sdk",
+  "version": "2.3.0",
+  "summary": "Evaluate AI-generated content across 8 Responsible AI dimensions — fairness, safety, reliability, transparency, privacy, accountability, inclusivity, user impact",
+  "author": "Sumit Verma, Responsible AI Labs",
+  "license": null,
+  "home_page": "https://github.com/Responsible-AI-Labs/rail-score-sdk",
+  "download_filename": "rail_score_sdk-2.3.0.tar.gz",
+  "download_time": "2026-03-21T03:40:47.445309",
+  "package_url": "https://pypi.org/project/rail-score-sdk/"
+}

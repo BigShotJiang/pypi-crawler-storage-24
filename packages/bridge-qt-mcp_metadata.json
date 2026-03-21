@@ -1,0 +1,11 @@
+{
+  "name": "bridge-qt-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for QtBridge (桥通) — bridge finite element analysis software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bridge_qt_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-21T03:40:34.287762",
+  "package_url": "https://pypi.org/project/bridge-qt-mcp/"
+}

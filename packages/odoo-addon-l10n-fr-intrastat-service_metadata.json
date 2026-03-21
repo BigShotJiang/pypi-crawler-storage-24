@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-fr-intrastat-service",
+  "version": "19.0.1.0.0.3",
+  "summary": "Module for Intrastat service reporting (DES) for France",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-france",
+  "download_filename": "odoo_addon_l10n_fr_intrastat_service-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-03-21T03:40:46.150245",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-fr-intrastat-service/"
+}

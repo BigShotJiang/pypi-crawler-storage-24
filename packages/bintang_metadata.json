@@ -1,11 +1,11 @@
 {
   "name": "bintang",
-  "version": "0.2.17",
+  "version": "0.2.25",
   "summary": "A tiny and temporary db for quick data cleansing and transformation. It is a high-level Python coding and would help any Pythonistas up to speed with ETL work.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bintang-0.2.17.tar.gz",
-  "download_time": "2026-03-14T07:02:39.008375",
+  "download_filename": "bintang-0.2.25.tar.gz",
+  "download_time": "2026-03-21T03:41:22.809679",
   "package_url": "https://pypi.org/project/bintang/"
 }

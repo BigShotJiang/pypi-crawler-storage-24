@@ -1,0 +1,11 @@
+{
+  "name": "bio-analyze-core",
+  "version": "0.1.0a4",
+  "summary": "Shared core utilities for the bio-analyze toolbox.",
+  "author": "qww",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "bio_analyze_core-0.1.0a4.tar.gz",
+  "download_time": "2026-03-21T03:40:48.692556",
+  "package_url": "https://pypi.org/project/bio-analyze-core/"
+}

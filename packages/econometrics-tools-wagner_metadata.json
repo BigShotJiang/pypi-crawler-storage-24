@@ -1,11 +1,11 @@
 {
   "name": "econometrics-tools-wagner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Personal econometrics and ML utilities by Wagner",
   "author": "Wagner Moreno",
   "license": null,
   "home_page": null,
-  "download_filename": "econometrics_tools_wagner-0.1.0.tar.gz",
-  "download_time": "2026-03-20T01:34:22.485718",
+  "download_filename": "econometrics_tools_wagner-0.1.1.tar.gz",
+  "download_time": "2026-03-21T03:40:32.007218",
   "package_url": "https://pypi.org/project/econometrics-tools-wagner/"
 }

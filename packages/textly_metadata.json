@@ -1,0 +1,11 @@
+{
+  "name": "textly",
+  "version": "1.1.0",
+  "summary": "Text Analytics - Calculate statistical features from text",
+  "author": "Raja CSP Raman",
+  "license": "MIT",
+  "home_page": "https://github.com/rajacsp/textly",
+  "download_filename": "textly-1.1.0.tar.gz",
+  "download_time": "2026-03-21T03:40:48.109162",
+  "package_url": "https://pypi.org/project/textly/"
+}

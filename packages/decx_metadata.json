@@ -1,0 +1,11 @@
+{
+  "name": "decx",
+  "version": "0.1.1",
+  "summary": "Automated PowerPoint report generation from Excel data via COM",
+  "author": "Albert Li",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "decx-0.1.1.tar.gz",
+  "download_time": "2026-03-21T03:41:07.843208",
+  "package_url": "https://pypi.org/project/decx/"
+}

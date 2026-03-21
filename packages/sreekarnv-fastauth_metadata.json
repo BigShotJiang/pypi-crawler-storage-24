@@ -1,0 +1,11 @@
+{
+  "name": "sreekarnv-fastauth",
+  "version": "0.5.2",
+  "summary": "NextAuth-inspired pluggable authentication for FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sreekarnv_fastauth-0.5.2.tar.gz",
+  "download_time": "2026-03-21T03:40:39.565547",
+  "package_url": "https://pypi.org/project/sreekarnv-fastauth/"
+}

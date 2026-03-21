@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-multilang",
+  "version": "18.0.3.0.4.6",
+  "summary": "Automatic multilingual partner names with intelligent transliteration and language detection.",
+  "author": "Rosen Vladimirov, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/l10n-bulgaria",
+  "download_filename": "odoo_addon_partner_multilang-18.0.3.0.4.6-py3-none-any.whl",
+  "download_time": "2026-03-21T03:40:52.483182",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-multilang/"
+}
