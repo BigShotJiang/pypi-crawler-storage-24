@@ -1,0 +1,11 @@
+{
+  "name": "pauc",
+  "version": "0.2.2",
+  "summary": "A Python library for ROC curve analysis, comparison, and visualization.",
+  "author": "Manas Mahale, Srijit Seal",
+  "license": "MIT",
+  "home_page": "https://github.com/srijitseal/pauc",
+  "download_filename": "pauc-0.2.2.tar.gz",
+  "download_time": "2026-03-21T18:35:17.104568",
+  "package_url": "https://pypi.org/project/pauc/"
+}

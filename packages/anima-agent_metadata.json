@@ -1,0 +1,11 @@
+{
+  "name": "anima-agent",
+  "version": "0.0.1",
+  "summary": "The identity layer for AI agents — export, persist, and migrate agent personas across any LLM provider.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "anima_agent-0.0.1.tar.gz",
+  "download_time": "2026-03-21T18:34:52.805339",
+  "package_url": "https://pypi.org/project/anima-agent/"
+}

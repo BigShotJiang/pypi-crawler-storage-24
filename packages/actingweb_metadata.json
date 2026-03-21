@@ -1,0 +1,11 @@
+{
+  "name": "actingweb",
+  "version": "3.10.0",
+  "summary": "The official ActingWeb library",
+  "author": "Greger Wedel",
+  "license": "BSD",
+  "home_page": "http://actingweb.org",
+  "download_filename": "actingweb-3.10.0.tar.gz",
+  "download_time": "2026-03-21T18:35:16.086301",
+  "package_url": "https://pypi.org/project/actingweb/"
+}

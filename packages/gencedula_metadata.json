@@ -1,0 +1,11 @@
+{
+  "name": "gencedula",
+  "version": "0.8",
+  "summary": "Python module to generate random and verify uruguay identification document.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gencedula-0.8.tar.gz",
+  "download_time": "2026-03-21T18:35:08.749292",
+  "package_url": "https://pypi.org/project/gencedula/"
+}

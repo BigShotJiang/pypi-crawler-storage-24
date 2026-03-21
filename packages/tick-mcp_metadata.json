@@ -1,11 +1,11 @@
 {
   "name": "tick-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "MCP server for TickTick — task and notes access via Model Context Protocol.",
   "author": "Ivann KAMDEM",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tick_mcp-0.1.0.tar.gz",
-  "download_time": "2026-03-20T16:05:09.306738",
+  "download_filename": "tick_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-21T18:35:18.639888",
   "package_url": "https://pypi.org/project/tick-mcp/"
 }

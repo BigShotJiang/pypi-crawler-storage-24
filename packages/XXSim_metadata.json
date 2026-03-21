@@ -1,11 +1,11 @@
 {
   "name": "XXSim",
-  "version": "0.15.0",
+  "version": "0.17.2",
   "summary": "Exchange Execution Simulator - stock exchange single bar execution simulator",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xxsim-0.15.0.tar.gz",
-  "download_time": "2026-03-14T15:52:11.034806",
+  "download_filename": "xxsim-0.17.2.tar.gz",
+  "download_time": "2026-03-21T18:35:09.865520",
   "package_url": "https://pypi.org/project/XXSim/"
 }

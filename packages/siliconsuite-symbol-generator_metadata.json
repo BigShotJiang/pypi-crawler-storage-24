@@ -1,0 +1,11 @@
+{
+  "name": "siliconsuite-symbol-generator",
+  "version": "1.5.1",
+  "summary": "Generate symbol schematics for hardware IP cores.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "siliconsuite_symbol_generator-1.5.1.tar.gz",
+  "download_time": "2026-03-21T18:34:49.169527",
+  "package_url": "https://pypi.org/project/siliconsuite-symbol-generator/"
+}

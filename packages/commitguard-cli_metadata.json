@@ -1,0 +1,11 @@
+{
+  "name": "commitguard-cli",
+  "version": "0.1.1",
+  "summary": "AI-powered tool to analyze Git commits for bugs and issues",
+  "author": "CommitGuard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "commitguard_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-21T18:34:48.658309",
+  "package_url": "https://pypi.org/project/commitguard-cli/"
+}
