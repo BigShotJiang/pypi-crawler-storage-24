@@ -1,11 +1,11 @@
 {
   "name": "background-music",
-  "version": "0.1.0",
+  "version": "2.2.2",
   "summary": "Schedule music to play in the background",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "background_music-0.1.0.tar.gz",
-  "download_time": "2026-03-17T21:40:05.338027",
+  "download_filename": "background_music-2.2.2.tar.gz",
+  "download_time": "2026-03-21T16:01:35.499125",
   "package_url": "https://pypi.org/project/background-music/"
 }

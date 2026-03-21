@@ -1,0 +1,11 @@
+{
+  "name": "comfydbg",
+  "version": "0.1.0a1",
+  "summary": "ComfyUI startup manager, version detective, and troubleshooting toolkit.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "comfydbg-0.1.0a1.tar.gz",
+  "download_time": "2026-03-21T16:02:13.777414",
+  "package_url": "https://pypi.org/project/comfydbg/"
+}

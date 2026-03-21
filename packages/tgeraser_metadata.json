@@ -1,0 +1,11 @@
+{
+  "name": "tgeraser",
+  "version": "1.5.3",
+  "summary": "Tool deletes all your messages from chat/channel/conversation on Telegram.",
+  "author": "Vladimir Loskutov",
+  "license": "MIT License",
+  "home_page": "https://github.com/en9inerd/tgeraser",
+  "download_filename": "tgeraser-1.5.3.tar.gz",
+  "download_time": "2026-03-21T16:01:59.851960",
+  "package_url": "https://pypi.org/project/tgeraser/"
+}

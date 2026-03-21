@@ -1,11 +1,11 @@
 {
   "name": "homie-ai",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Fully local, privacy-first personal AI assistant with background intelligence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "homie_ai-0.3.0-py3-none-any.whl",
-  "download_time": "2026-03-16T08:53:31.827628",
+  "download_filename": "homie_ai-0.4.0-py3-none-any.whl",
+  "download_time": "2026-03-21T16:01:53.080542",
   "package_url": "https://pypi.org/project/homie-ai/"
 }

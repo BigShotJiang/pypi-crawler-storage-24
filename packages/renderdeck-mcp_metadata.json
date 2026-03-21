@@ -1,11 +1,11 @@
 {
   "name": "renderdeck-mcp",
-  "version": "0.5.2",
+  "version": "0.7.0",
   "summary": "MCP server for generating PowerPoint presentations via Gemini",
   "author": "Francis Rosario",
   "license": null,
   "home_page": null,
-  "download_filename": "renderdeck_mcp-0.5.2.tar.gz",
-  "download_time": "2026-03-21T14:49:24.746603",
+  "download_filename": "renderdeck_mcp-0.7.0.tar.gz",
+  "download_time": "2026-03-21T16:01:46.833202",
   "package_url": "https://pypi.org/project/renderdeck-mcp/"
 }

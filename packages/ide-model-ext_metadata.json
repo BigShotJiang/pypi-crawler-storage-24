@@ -1,0 +1,11 @@
+{
+  "name": "ide-model-ext",
+  "version": "0.1.0",
+  "summary": "A universal multi-model AI extension — interact with OpenAI, Gemini, and Claude through a single interface.",
+  "author": "Novatechnolab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ide_model_ext-0.1.0.tar.gz",
+  "download_time": "2026-03-21T16:02:05.046744",
+  "package_url": "https://pypi.org/project/ide-model-ext/"
+}

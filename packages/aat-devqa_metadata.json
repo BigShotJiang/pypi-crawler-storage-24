@@ -1,11 +1,11 @@
 {
   "name": "aat-devqa",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "AWT (AI Watch Tester) — AI-powered E2E testing with self-healing DevQA loop",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aat_devqa-1.3.1.tar.gz",
-  "download_time": "2026-03-21T15:39:44.326910",
+  "download_filename": "aat_devqa-1.3.2.tar.gz",
+  "download_time": "2026-03-21T16:01:54.675869",
   "package_url": "https://pypi.org/project/aat-devqa/"
 }

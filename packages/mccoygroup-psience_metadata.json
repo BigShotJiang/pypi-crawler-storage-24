@@ -1,11 +1,11 @@
 {
   "name": "mccoygroup-psience",
-  "version": "1.4.7",
+  "version": "1.4.7.1",
   "summary": null,
   "author": "Mark Boyer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mccoygroup_psience-1.4.7.tar.gz",
-  "download_time": "2026-03-21T15:06:11.658325",
+  "download_filename": "mccoygroup_psience-1.4.7.1.tar.gz",
+  "download_time": "2026-03-21T16:02:14.826720",
   "package_url": "https://pypi.org/project/mccoygroup-psience/"
 }

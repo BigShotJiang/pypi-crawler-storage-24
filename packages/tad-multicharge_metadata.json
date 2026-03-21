@@ -1,11 +1,11 @@
 {
   "name": "tad-multicharge",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Torch Autodiff implementation of charge models",
   "author": "\"Marvin Friede\"",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tad_multicharge-0.4.0.tar.gz",
-  "download_time": "2026-03-21T11:49:44.030970",
+  "download_filename": "tad_multicharge-0.4.1.tar.gz",
+  "download_time": "2026-03-21T16:02:15.927150",
   "package_url": "https://pypi.org/project/tad-multicharge/"
 }

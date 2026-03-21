@@ -1,0 +1,11 @@
+{
+  "name": "bili_stalker_mcp",
+  "version": "3.0.0",
+  "summary": "Bilibili MCP server for analyzing specific Bilibili users, with profile, video, dynamic, article, subtitle, and following tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bili_stalker_mcp-3.0.0.tar.gz",
+  "download_time": "2026-03-21T16:01:44.271221",
+  "package_url": "https://pypi.org/project/bili_stalker_mcp/"
+}

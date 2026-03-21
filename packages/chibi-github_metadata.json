@@ -1,0 +1,11 @@
+{
+  "name": "chibi-github",
+  "version": "0.3.0",
+  "summary": "libreria para usar github",
+  "author": "dem4ply",
+  "license": "WTFPL",
+  "home_page": "https://github.com/dem4ply/chibi_github",
+  "download_filename": "chibi_github-0.3.0.tar.gz",
+  "download_time": "2026-03-21T16:02:04.021855",
+  "package_url": "https://pypi.org/project/chibi-github/"
+}

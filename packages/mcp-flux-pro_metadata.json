@@ -1,11 +1,11 @@
 {
   "name": "mcp-flux-pro",
-  "version": "2026.3.21.3",
+  "version": "2026.3.21.4",
   "summary": "MCP Server for Flux AI Image Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_flux_pro-2026.3.21.3.tar.gz",
-  "download_time": "2026-03-21T13:43:58.189882",
+  "download_filename": "mcp_flux_pro-2026.3.21.4.tar.gz",
+  "download_time": "2026-03-21T16:02:06.069912",
   "package_url": "https://pypi.org/project/mcp-flux-pro/"
 }

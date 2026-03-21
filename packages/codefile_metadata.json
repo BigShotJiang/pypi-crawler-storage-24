@@ -1,0 +1,11 @@
+{
+  "name": "codefile",
+  "version": "26.0.2",
+  "summary": "A CLI tool to bundle entire projects into a single AI-friendly context file.",
+  "author": "Nolan Stark",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codefile-26.0.2.tar.gz",
+  "download_time": "2026-03-21T16:01:34.986174",
+  "package_url": "https://pypi.org/project/codefile/"
+}
