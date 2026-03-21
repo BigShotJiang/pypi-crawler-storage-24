@@ -1,0 +1,11 @@
+{
+  "name": "rocco",
+  "version": "1.10",
+  "summary": "Multisample Consensus Peak Calling via Convex Optimization",
+  "author": "Nolan Holt Hamilton",
+  "license": "MIT",
+  "home_page": "https://github.com/nolan-h-hamilton/rocco",
+  "download_filename": "rocco-1.10.tar.gz",
+  "download_time": "2026-03-21T22:54:57.901092",
+  "package_url": "https://pypi.org/project/rocco/"
+}

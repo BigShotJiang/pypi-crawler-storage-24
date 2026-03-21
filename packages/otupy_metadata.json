@@ -1,11 +1,11 @@
 {
   "name": "otupy",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "summary": "OpenC2 Utilities for Python - Library and applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "otupy-1.1.13.tar.gz",
-  "download_time": "2026-03-14T23:51:37.129475",
+  "download_filename": "otupy-1.1.14-py3-none-any.whl",
+  "download_time": "2026-03-21T22:54:29.945910",
   "package_url": "https://pypi.org/project/otupy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "txpyfind",
-  "version": "1.4.0",
-  "summary": "enables Pythonic access to data exports from TYPO3-find",
+  "version": "1.5.0",
+  "summary": "Python client for querying TYPO3-find (Solr-based search) instances",
   "author": "Donatus Herre",
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "txpyfind-1.4.0.tar.gz",
-  "download_time": "2026-03-21T19:59:41.292555",
+  "download_filename": "txpyfind-1.5.0.tar.gz",
+  "download_time": "2026-03-21T22:54:41.004251",
   "package_url": "https://pypi.org/project/txpyfind/"
 }

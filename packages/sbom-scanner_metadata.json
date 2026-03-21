@@ -1,11 +1,11 @@
 {
   "name": "sbom-scanner",
-  "version": "0.0.1",
+  "version": "1.0.3",
   "summary": "Multi-ecosystem CycloneDX 1.6 SBOM scanner with HTML report and CVE scanning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sbom_scanner-0.0.1.tar.gz",
-  "download_time": "2026-03-21T20:54:25.108741",
+  "download_filename": "sbom_scanner-1.0.3.tar.gz",
+  "download_time": "2026-03-21T22:55:00.339729",
   "package_url": "https://pypi.org/project/sbom-scanner/"
 }
