@@ -1,11 +1,11 @@
 {
   "name": "policies2",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Execute stored policies and flows over REST using API keys",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policies2-0.1.5.tar.gz",
-  "download_time": "2026-03-21T22:54:51.384978",
+  "download_filename": "policies2-0.2.0.tar.gz",
+  "download_time": "2026-03-21T23:26:16.338905",
   "package_url": "https://pypi.org/project/policies2/"
 }

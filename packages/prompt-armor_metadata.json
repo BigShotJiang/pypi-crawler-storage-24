@@ -1,0 +1,11 @@
+{
+  "name": "prompt-armor",
+  "version": "0.3.0",
+  "summary": "Open-core LLM prompt security analysis — detect prompt injections, jailbreaks, and other attacks",
+  "author": "prompt-armor contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_armor-0.3.0.tar.gz",
+  "download_time": "2026-03-21T23:25:54.910059",
+  "package_url": "https://pypi.org/project/prompt-armor/"
+}

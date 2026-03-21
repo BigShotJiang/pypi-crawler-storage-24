@@ -1,0 +1,11 @@
+{
+  "name": "sversion",
+  "version": "2.3.0",
+  "summary": "Simple version management in Python",
+  "author": "Kostiantyn Chomakov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sversion-2.3.0.tar.gz",
+  "download_time": "2026-03-21T23:26:17.875306",
+  "package_url": "https://pypi.org/project/sversion/"
+}

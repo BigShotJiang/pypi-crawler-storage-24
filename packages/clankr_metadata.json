@@ -1,11 +1,11 @@
 {
   "name": "clankr",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Run coding agents in isolated Docker containers",
   "author": "Maximilian Wolf",
   "license": null,
   "home_page": null,
-  "download_filename": "clankr-1.0.1.tar.gz",
-  "download_time": "2026-03-21T22:54:30.582420",
+  "download_filename": "clankr-1.0.3.tar.gz",
+  "download_time": "2026-03-21T23:26:19.980603",
   "package_url": "https://pypi.org/project/clankr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cfgcoverage",
+  "version": "0.1.1",
+  "summary": "Structural coverage for Python",
+  "author": "Delamaro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfgcoverage-0.1.1.tar.gz",
+  "download_time": "2026-03-21T23:26:15.318182",
+  "package_url": "https://pypi.org/project/cfgcoverage/"
+}

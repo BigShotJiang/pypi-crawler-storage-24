@@ -1,11 +1,11 @@
 {
   "name": "cartons",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "summary": "Simple OSRM routing and Folium map drawing toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cartons-1.1.6.tar.gz",
-  "download_time": "2026-03-21T22:54:56.143228",
+  "download_filename": "cartons-1.1.8.tar.gz",
+  "download_time": "2026-03-21T23:26:15.829082",
   "package_url": "https://pypi.org/project/cartons/"
 }

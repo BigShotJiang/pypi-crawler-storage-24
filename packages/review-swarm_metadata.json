@@ -1,11 +1,11 @@
 {
   "name": "review-swarm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Collaborative AI code review MCP server -- shared whiteboard for multi-agent code review via MCP",
   "author": "fozzfut",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "review_swarm-0.2.0.tar.gz",
-  "download_time": "2026-03-21T22:25:01.766646",
+  "download_filename": "review_swarm-0.2.1.tar.gz",
+  "download_time": "2026-03-21T23:26:01.231697",
   "package_url": "https://pypi.org/project/review-swarm/"
 }

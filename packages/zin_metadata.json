@@ -1,11 +1,11 @@
 {
   "name": "zin",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "Ancient ground for modern agents. Minimal setup for long-term memory, auto feedback loop, agents CI/CD, auto tracing, and API serving.",
-  "author": null,
+  "author": "Gal Salomon",
   "license": null,
   "home_page": null,
-  "download_filename": "zin-0.0.2.tar.gz",
-  "download_time": "2026-03-21T13:43:45.297901",
+  "download_filename": "zin-0.0.5.tar.gz",
+  "download_time": "2026-03-21T23:25:46.015694",
   "package_url": "https://pypi.org/project/zin/"
 }

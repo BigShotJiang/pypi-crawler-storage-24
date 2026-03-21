@@ -1,0 +1,11 @@
+{
+  "name": "streamerate",
+  "version": "1.2.6",
+  "summary": "streamerate: a fluent and expressive Python library for chainable iterable processing, inspired by Java 8 streams.",
+  "author": "Andrei Suiu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streamerate-1.2.6.tar.gz",
+  "download_time": "2026-03-21T23:25:51.269604",
+  "package_url": "https://pypi.org/project/streamerate/"
+}

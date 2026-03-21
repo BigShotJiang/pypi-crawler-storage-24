@@ -1,0 +1,11 @@
+{
+  "name": "chebfun",
+  "version": "0.7.1",
+  "summary": "A Python implementation of Chebfun",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chebfun-0.7.1.tar.gz",
+  "download_time": "2026-03-21T23:25:52.802797",
+  "package_url": "https://pypi.org/project/chebfun/"
+}

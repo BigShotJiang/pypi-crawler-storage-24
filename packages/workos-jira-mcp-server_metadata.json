@@ -1,0 +1,11 @@
+{
+  "name": "workos-jira-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP server for Jira project management — create issues, search with JQL, manage workflows, and track sprints.",
+  "author": "WorkOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "workos_jira_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-03-21T23:25:59.677360",
+  "package_url": "https://pypi.org/project/workos-jira-mcp-server/"
+}

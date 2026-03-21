@@ -1,0 +1,11 @@
+{
+  "name": "nano-wait-vision",
+  "version": "0.4.1",
+  "summary": "Vision extension for nano-wait automation",
+  "author": "Luiz Seabra De Marco",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nano_wait_vision-0.4.1.tar.gz",
+  "download_time": "2026-03-21T23:25:47.606398",
+  "package_url": "https://pypi.org/project/nano-wait-vision/"
+}

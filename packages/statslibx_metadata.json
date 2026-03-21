@@ -1,11 +1,11 @@
 {
   "name": "statslibx",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "StatsLibx - Librería de estadística descriptiva, inferencial y computacional",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "statslibx-0.2.3.tar.gz",
-  "download_time": "2026-03-12T04:12:52.168224",
+  "download_filename": "statslibx-0.2.4.tar.gz",
+  "download_time": "2026-03-21T23:25:38.717128",
   "package_url": "https://pypi.org/project/statslibx/"
 }

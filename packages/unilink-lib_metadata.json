@@ -1,11 +1,11 @@
 {
   "name": "unilink-lib",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "summary": "A small enterprise chatbot library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unilink_lib-1.1.1.tar.gz",
-  "download_time": "2026-03-21T21:24:50.603183",
+  "download_filename": "unilink_lib-1.2.1.tar.gz",
+  "download_time": "2026-03-21T23:25:47.032802",
   "package_url": "https://pypi.org/project/unilink-lib/"
 }

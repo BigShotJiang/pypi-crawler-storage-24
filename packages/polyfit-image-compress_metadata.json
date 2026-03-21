@@ -1,0 +1,11 @@
+{
+  "name": "polyfit-image-compress",
+  "version": "0.1.0",
+  "summary": "Image compression using least squares polynomial surface fitting with optional quantum computing module",
+  "author": "Jelsin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polyfit_image_compress-0.1.0.tar.gz",
+  "download_time": "2026-03-21T23:26:03.829927",
+  "package_url": "https://pypi.org/project/polyfit-image-compress/"
+}

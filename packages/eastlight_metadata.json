@@ -1,0 +1,11 @@
+{
+  "name": "eastlight",
+  "version": "0.1.0",
+  "summary": "Open-source editor/librarian for the Roland RC-505 MK2 loop station",
+  "author": "EastLight contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eastlight-0.1.0.tar.gz",
+  "download_time": "2026-03-21T23:25:42.345217",
+  "package_url": "https://pypi.org/project/eastlight/"
+}

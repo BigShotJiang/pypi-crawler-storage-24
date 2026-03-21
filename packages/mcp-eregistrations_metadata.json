@@ -1,11 +1,11 @@
 {
   "name": "mcp-eregistrations",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "MCP servers for eRegistrations platform (BPA + GDB)",
   "author": null,
   "license": "Proprietary - UNCTAD/DIAE/Business Facilitation Section",
   "home_page": null,
-  "download_filename": "mcp_eregistrations-1.0.2.tar.gz",
-  "download_time": "2026-03-21T22:54:31.222981",
+  "download_filename": "mcp_eregistrations-1.0.4.tar.gz",
+  "download_time": "2026-03-21T23:26:09.636207",
   "package_url": "https://pypi.org/project/mcp-eregistrations/"
 }
