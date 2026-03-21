@@ -1,11 +1,11 @@
 {
   "name": "runcost",
-  "version": "0.2.3",
+  "version": "0.4",
   "summary": "Drop-in cost intelligence for Python AI agent frameworks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "runcost-0.2.3.tar.gz",
-  "download_time": "2026-03-21T10:56:43.143816",
+  "download_filename": "runcost-0.4.tar.gz",
+  "download_time": "2026-03-21T12:51:19.721133",
   "package_url": "https://pypi.org/project/runcost/"
 }

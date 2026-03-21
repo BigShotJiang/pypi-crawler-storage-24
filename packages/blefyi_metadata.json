@@ -1,0 +1,11 @@
+{
+  "name": "blefyi",
+  "version": "0.1.1",
+  "summary": "Bluetooth Low Energy encyclopedia API client — look up BLE chips, GATT profiles, Bluetooth versions, beacon protocols, and IoT specifications from BLEFYI.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blefyi-0.1.1.tar.gz",
+  "download_time": "2026-03-21T12:51:37.874205",
+  "package_url": "https://pypi.org/project/blefyi/"
+}

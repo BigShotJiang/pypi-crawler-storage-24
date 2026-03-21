@@ -1,11 +1,11 @@
 {
   "name": "bdv",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Blind Data Vault — privilege-separated secret vault for AI agents",
   "author": "Calvin Sienatra",
   "license": null,
   "home_page": null,
-  "download_filename": "bdv-0.1.0.tar.gz",
-  "download_time": "2026-03-21T11:49:10.005231",
+  "download_filename": "bdv-0.2.0.tar.gz",
+  "download_time": "2026-03-21T12:51:33.745522",
   "package_url": "https://pypi.org/project/bdv/"
 }

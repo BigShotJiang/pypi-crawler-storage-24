@@ -1,0 +1,11 @@
+{
+  "name": "starfyi",
+  "version": "0.1.1",
+  "summary": "Stars, constellations and astronomy API client — starfyi.com",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "starfyi-0.1.1.tar.gz",
+  "download_time": "2026-03-21T12:51:24.425430",
+  "package_url": "https://pypi.org/project/starfyi/"
+}

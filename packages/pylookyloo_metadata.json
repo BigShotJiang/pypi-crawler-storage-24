@@ -1,0 +1,11 @@
+{
+  "name": "pylookyloo",
+  "version": "1.37.2",
+  "summary": "Python CLI and module for Lookyloo",
+  "author": "Raphaël Vinot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylookyloo-1.37.2.tar.gz",
+  "download_time": "2026-03-21T12:51:10.221681",
+  "package_url": "https://pypi.org/project/pylookyloo/"
+}

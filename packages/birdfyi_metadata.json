@@ -1,0 +1,11 @@
+{
+  "name": "birdfyi",
+  "version": "0.1.1",
+  "summary": "Bird species encyclopedia API client — birdfyi.com",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "birdfyi-0.1.1.tar.gz",
+  "download_time": "2026-03-21T12:51:32.697923",
+  "package_url": "https://pypi.org/project/birdfyi/"
+}

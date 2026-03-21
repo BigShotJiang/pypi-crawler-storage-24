@@ -1,0 +1,11 @@
+{
+  "name": "mineralfyi",
+  "version": "0.1.1",
+  "summary": "Mineral encyclopedia and crystal systems API client — mineralfyi.com",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mineralfyi-0.1.1.tar.gz",
+  "download_time": "2026-03-21T12:51:23.400263",
+  "package_url": "https://pypi.org/project/mineralfyi/"
+}

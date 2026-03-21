@@ -1,11 +1,11 @@
 {
   "name": "cachemind",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Semantic caching framework for LLMs",
   "author": "Ayush De",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cachemind-0.1.2.tar.gz",
-  "download_time": "2026-03-21T12:03:30.408353",
+  "download_filename": "cachemind-0.1.4.tar.gz",
+  "download_time": "2026-03-21T12:51:34.770993",
   "package_url": "https://pypi.org/project/cachemind/"
 }

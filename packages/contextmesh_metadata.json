@@ -1,0 +1,11 @@
+{
+  "name": "contextmesh",
+  "version": "1.0.0",
+  "summary": "Persistent semantic memory layer for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contextmesh-1.0.0.tar.gz",
+  "download_time": "2026-03-21T12:51:44.614657",
+  "package_url": "https://pypi.org/project/contextmesh/"
+}

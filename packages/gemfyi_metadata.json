@@ -1,0 +1,11 @@
+{
+  "name": "gemfyi",
+  "version": "0.1.1",
+  "summary": "Gemstone and mineralogy reference API client — gemfyi.com",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemfyi-0.1.1.tar.gz",
+  "download_time": "2026-03-21T12:51:25.455570",
+  "package_url": "https://pypi.org/project/gemfyi/"
+}

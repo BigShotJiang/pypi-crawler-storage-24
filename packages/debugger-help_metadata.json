@@ -1,11 +1,11 @@
 {
   "name": "debugger-help",
-  "version": "3.0.2",
+  "version": "4.0.0",
   "summary": "debugger.help VPS Agent — Deep system monitoring for logs, GPU, PM2, Docker, and more",
   "author": "debugger.help",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "debugger_help-3.0.2.tar.gz",
-  "download_time": "2026-03-20T20:07:03.446597",
+  "download_filename": "debugger_help-4.0.0.tar.gz",
+  "download_time": "2026-03-21T12:51:35.283294",
   "package_url": "https://pypi.org/project/debugger-help/"
 }

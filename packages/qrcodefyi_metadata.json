@@ -1,0 +1,11 @@
+{
+  "name": "qrcodefyi",
+  "version": "0.1.1",
+  "summary": "QR code encyclopedia API client — look up QR types, versions 1-40, encoding modes, error correction levels, standards, and specifications from QRCodeFYI.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qrcodefyi-0.1.1.tar.gz",
+  "download_time": "2026-03-21T12:51:38.903089",
+  "package_url": "https://pypi.org/project/qrcodefyi/"
+}

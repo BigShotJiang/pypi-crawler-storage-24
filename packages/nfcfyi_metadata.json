@@ -1,0 +1,11 @@
+{
+  "name": "nfcfyi",
+  "version": "0.1.1",
+  "summary": "NFC chip encyclopedia API client — look up NFC Forum types, NDEF records, operating modes, ISO 14443, and FeliCa specifications from NFCFYI.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nfcfyi-0.1.1.tar.gz",
+  "download_time": "2026-03-21T12:51:38.388653",
+  "package_url": "https://pypi.org/project/nfcfyi/"
+}
