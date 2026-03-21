@@ -1,11 +1,11 @@
 {
   "name": "mccoygroup-mcutils",
-  "version": "1.6.5",
+  "version": "1.6.8",
   "summary": null,
   "author": "Mark Boyer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mccoygroup_mcutils-1.6.5.tar.gz",
-  "download_time": "2026-03-15T08:57:56.996634",
+  "download_filename": "mccoygroup_mcutils-1.6.8.tar.gz",
+  "download_time": "2026-03-21T15:06:12.732492",
   "package_url": "https://pypi.org/project/mccoygroup-mcutils/"
 }

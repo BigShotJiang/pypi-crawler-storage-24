@@ -1,11 +1,11 @@
 {
   "name": "tb-router-embed",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "HTTP proxy router for vLLM embedding API with round-robin and failover",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tb_router_embed-1.0.3.tar.gz",
-  "download_time": "2026-03-21T14:49:22.680895",
+  "download_filename": "tb_router_embed-1.0.5.tar.gz",
+  "download_time": "2026-03-21T15:05:58.160451",
   "package_url": "https://pypi.org/project/tb-router-embed/"
 }

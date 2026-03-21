@@ -1,0 +1,11 @@
+{
+  "name": "flin-linkedin-ads-mcp",
+  "version": "0.1.0",
+  "summary": "Strict read-only MCP server for LinkedIn Ads",
+  "author": "flin.agency",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flin_linkedin_ads_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-21T15:06:03.852453",
+  "package_url": "https://pypi.org/project/flin-linkedin-ads-mcp/"
+}

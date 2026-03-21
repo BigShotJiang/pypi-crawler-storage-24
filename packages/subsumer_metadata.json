@@ -1,11 +1,11 @@
 {
   "name": "subsumer",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Geometric region embeddings for knowledge graph subsumption (Python bindings for the subsume Rust crate)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "subsumer-0.7.0.tar.gz",
-  "download_time": "2026-03-21T14:07:54.629443",
+  "download_filename": "subsumer-0.7.1.tar.gz",
+  "download_time": "2026-03-21T15:06:17.973644",
   "package_url": "https://pypi.org/project/subsumer/"
 }

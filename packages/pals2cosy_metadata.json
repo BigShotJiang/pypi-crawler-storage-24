@@ -1,11 +1,11 @@
 {
   "name": "pals2cosy",
-  "version": "0.4.0",
-  "summary": "Convert PALS lattice files to COSY INFINITY FOX code",
+  "version": "0.4.2",
+  "summary": "Convert PALS lattice files to COSY INFINITY input code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pals2cosy-0.4.0.tar.gz",
-  "download_time": "2026-03-21T14:49:15.928437",
+  "download_filename": "pals2cosy-0.4.2.tar.gz",
+  "download_time": "2026-03-21T15:05:59.715692",
   "package_url": "https://pypi.org/project/pals2cosy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mt940",
+  "version": "0.8.0",
+  "summary": "A module to parse MT940 files",
+  "author": "B2CK SRL",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mt940-0.8.0.tar.gz",
+  "download_time": "2026-03-21T15:06:13.257207",
+  "package_url": "https://pypi.org/project/mt940/"
+}

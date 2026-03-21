@@ -1,0 +1,11 @@
+{
+  "name": "opensemantic.core",
+  "version": "0.55.0.post1000002001000",
+  "summary": "Library with Python models derived from the page package world.opensemantic.core",
+  "author": "OpenSemanticWorld",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/OpenSemanticWorld-Packages/opensemantic.core-python",
+  "download_filename": "opensemantic_core-0.55.0.post1000002001000.tar.gz",
+  "download_time": "2026-03-21T15:05:54.503181",
+  "package_url": "https://pypi.org/project/opensemantic.core/"
+}

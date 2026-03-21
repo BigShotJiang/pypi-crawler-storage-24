@@ -1,11 +1,11 @@
 {
   "name": "saara-ai",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "summary": "🧠 SAARA - Autonomous Document-to-LLM Data Engine with Pre-training, Cloud Runtime & AI Tokenizer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "saara_ai-1.6.6.tar.gz",
-  "download_time": "2026-03-21T14:49:16.957940",
+  "download_filename": "saara_ai-1.6.7.tar.gz",
+  "download_time": "2026-03-21T15:06:00.235851",
   "package_url": "https://pypi.org/project/saara-ai/"
 }

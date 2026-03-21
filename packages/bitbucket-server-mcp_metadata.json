@@ -1,11 +1,11 @@
 {
   "name": "bitbucket-server-mcp",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "MCP server for Atlassian Bitbucket Server (Enterprise) REST API",
   "author": "Manpreet Shuann",
   "license": null,
   "home_page": null,
-  "download_filename": "bitbucket_server_mcp-1.4.2.tar.gz",
-  "download_time": "2026-03-21T14:08:05.768614",
+  "download_filename": "bitbucket_server_mcp-1.4.3.tar.gz",
+  "download_time": "2026-03-21T15:06:06.985173",
   "package_url": "https://pypi.org/project/bitbucket-server-mcp/"
 }

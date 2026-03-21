@@ -1,11 +1,11 @@
 {
   "name": "podangelex-JustAnotherCoderTheThird",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Automatically remove profanity and toxic content from audio files using Whisper and Detoxify",
   "author": null,
   "license": "CC0",
   "home_page": null,
-  "download_filename": "podangelex_justanothercoderthethird-1.0.5.tar.gz",
-  "download_time": "2026-03-07T19:54:20.677444",
+  "download_filename": "podangelex_justanothercoderthethird-1.0.6.tar.gz",
+  "download_time": "2026-03-21T15:06:14.834790",
   "package_url": "https://pypi.org/project/podangelex-JustAnotherCoderTheThird/"
 }
