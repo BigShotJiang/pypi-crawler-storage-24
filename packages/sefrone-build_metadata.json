@@ -1,0 +1,11 @@
+{
+  "name": "sefrone-build",
+  "version": "1.1.4",
+  "summary": "A Python package to provide build helpers for sefrone projects",
+  "author": "Sefrone",
+  "license": null,
+  "home_page": "https://bitbucket.org/sefrone/sefrone_pypi",
+  "download_filename": "sefrone_build-1.1.4.tar.gz",
+  "download_time": "2026-03-21T19:41:30.504317",
+  "package_url": "https://pypi.org/project/sefrone-build/"
+}

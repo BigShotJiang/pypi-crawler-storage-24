@@ -1,0 +1,11 @@
+{
+  "name": "graphsignal",
+  "version": "0.19.3",
+  "summary": "Graphsignal SDK for Python",
+  "author": "Graphsignal, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "graphsignal-0.19.3.tar.gz",
+  "download_time": "2026-03-21T19:41:50.910575",
+  "package_url": "https://pypi.org/project/graphsignal/"
+}

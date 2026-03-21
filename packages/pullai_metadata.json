@@ -1,11 +1,11 @@
 {
   "name": "pullai",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "summary": "Python SDK for PullAI — run AI models locally (LLM, Image, Audio, Video, 3D)",
   "author": "Metiu",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pullai-6.0.0.tar.gz",
-  "download_time": "2026-03-21T19:06:34.178997",
+  "download_filename": "pullai-6.0.1.tar.gz",
+  "download_time": "2026-03-21T19:41:50.390670",
   "package_url": "https://pypi.org/project/pullai/"
 }

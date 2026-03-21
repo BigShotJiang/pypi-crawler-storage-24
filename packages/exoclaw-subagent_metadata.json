@@ -1,11 +1,11 @@
 {
   "name": "exoclaw-subagent",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Subagent manager for exoclaw — nested agent execution via AgentLoop",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exoclaw_subagent-0.1.0.tar.gz",
-  "download_time": "2026-03-09T11:50:32.960018",
+  "download_filename": "exoclaw_subagent-0.3.0.tar.gz",
+  "download_time": "2026-03-21T19:41:49.352967",
   "package_url": "https://pypi.org/project/exoclaw-subagent/"
 }

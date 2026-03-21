@@ -1,0 +1,11 @@
+{
+  "name": "HydDown",
+  "version": "0.40.0",
+  "summary": "Hydrogen (or other pure gas phase species) pressure vessel filling and discharge calculations",
+  "author": "Anders Andreasen",
+  "license": null,
+  "home_page": "https://github.com/andr1976/HydDown/",
+  "download_filename": "hyddown-0.40.0-py3-none-any.whl",
+  "download_time": "2026-03-21T19:41:16.905018",
+  "package_url": "https://pypi.org/project/HydDown/"
+}

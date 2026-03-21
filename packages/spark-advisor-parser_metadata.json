@@ -1,0 +1,11 @@
+{
+  "name": "spark-advisor-parser",
+  "version": "0.1.16",
+  "summary": "Spark event log parser with compression support (.gz, .lz4, .snappy, .zstd)",
+  "author": "Pawel Stysz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_advisor_parser-0.1.16.tar.gz",
+  "download_time": "2026-03-21T19:41:20.046369",
+  "package_url": "https://pypi.org/project/spark-advisor-parser/"
+}

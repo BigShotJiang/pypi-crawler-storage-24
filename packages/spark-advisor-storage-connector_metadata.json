@@ -1,0 +1,11 @@
+{
+  "name": "spark-advisor-storage-connector",
+  "version": "0.1.16",
+  "summary": "Storage connector for reading Spark event logs from HDFS, S3, and GCS",
+  "author": "Pawel Stysz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_advisor_storage_connector-0.1.16.tar.gz",
+  "download_time": "2026-03-21T19:41:21.617841",
+  "package_url": "https://pypi.org/project/spark-advisor-storage-connector/"
+}

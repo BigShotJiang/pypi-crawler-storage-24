@@ -1,0 +1,11 @@
+{
+  "name": "aceteam-aep",
+  "version": "0.4.0",
+  "summary": "AEP-native execution layer for AI agents - spans, costs, budget enforcement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aceteam_aep-0.4.0.tar.gz",
+  "download_time": "2026-03-21T19:41:54.023607",
+  "package_url": "https://pypi.org/project/aceteam-aep/"
+}
