@@ -1,11 +1,11 @@
 {
   "name": "tallyfy",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A comprehensive Python SDK for interacting with the Tallyfy API",
   "author": "Tallyfy",
   "license": "MIT",
   "home_page": "https://github.com/tallyfy/sdk",
-  "download_filename": "tallyfy-1.2.1.tar.gz",
-  "download_time": "2026-03-19T15:10:15.026464",
+  "download_filename": "tallyfy-1.2.2.tar.gz",
+  "download_time": "2026-03-21T01:30:06.048507",
   "package_url": "https://pypi.org/project/tallyfy/"
 }

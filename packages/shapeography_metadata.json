@@ -1,0 +1,11 @@
+{
+  "name": "shapeography",
+  "version": "1.2",
+  "summary": "A Python library that both a client that downloads various shapefiles and GEOJSON files from the web and processes these geometry files. Users can also process locally hosted shapefiles and GEOJSON files. Also works for those on VPN/PROXY connections.",
+  "author": "Eric J. Drewitz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shapeography-1.2.tar.gz",
+  "download_time": "2026-03-21T01:30:20.906110",
+  "package_url": "https://pypi.org/project/shapeography/"
+}

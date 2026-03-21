@@ -1,0 +1,11 @@
+{
+  "name": "lore-book",
+  "version": "1.1.9",
+  "summary": "The spellbook for your codebase — chronicle decisions, lore, and context your AI companions can actually read.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lore_book-1.1.9.tar.gz",
+  "download_time": "2026-03-21T01:30:30.909232",
+  "package_url": "https://pypi.org/project/lore-book/"
+}

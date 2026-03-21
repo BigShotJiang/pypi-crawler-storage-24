@@ -1,11 +1,11 @@
 {
   "name": "hybro-hub",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python SDK for the Hybro Gateway API — discover and communicate with cloud A2A agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hybro_hub-0.1.6.tar.gz",
-  "download_time": "2026-03-20T21:32:16.328296",
+  "download_filename": "hybro_hub-0.1.7.tar.gz",
+  "download_time": "2026-03-21T01:30:16.159067",
   "package_url": "https://pypi.org/project/hybro-hub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hetman-pipeline",
+  "version": "2.3.0",
+  "summary": "Hetman Pipeline is a flexible, developer-centric validation engine. It is built for those who prioritize deep customization and want to manage validation, matching, and transformation logic in one centralized location.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hetman_pipeline-2.3.0.tar.gz",
+  "download_time": "2026-03-21T01:29:53.394944",
+  "package_url": "https://pypi.org/project/hetman-pipeline/"
+}

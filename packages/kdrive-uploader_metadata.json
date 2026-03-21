@@ -1,0 +1,11 @@
+{
+  "name": "kdrive-uploader",
+  "version": "0.0.1",
+  "summary": "Programmatically upload files to kDrive drop boxes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdrive_uploader-0.0.1.tar.gz",
+  "download_time": "2026-03-21T01:30:10.769054",
+  "package_url": "https://pypi.org/project/kdrive-uploader/"
+}

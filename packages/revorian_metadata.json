@@ -1,0 +1,11 @@
+{
+  "name": "revorian",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for the Revorian insider trading API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "revorian-0.1.1.tar.gz",
+  "download_time": "2026-03-21T01:29:58.734411",
+  "package_url": "https://pypi.org/project/revorian/"
+}

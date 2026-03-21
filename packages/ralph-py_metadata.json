@@ -1,11 +1,11 @@
 {
   "name": "ralph-py",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Minimal CLI for orchestrating Ralph loops across coding agents",
-  "author": null,
+  "author": "SiluPanda",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ralph_py-0.2.0.tar.gz",
-  "download_time": "2026-03-19T11:05:15.622940",
+  "download_filename": "ralph_py-0.4.0.tar.gz",
+  "download_time": "2026-03-21T01:29:51.285594",
   "package_url": "https://pypi.org/project/ralph-py/"
 }

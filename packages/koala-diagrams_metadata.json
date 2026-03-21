@@ -1,11 +1,11 @@
 {
   "name": "koala-diagrams",
-  "version": "1.0.0",
+  "version": "1.2.5",
   "summary": "Koala is a DSL and SVG compiler for structured concept diagrams.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "koala_diagrams-1.0.0.tar.gz",
-  "download_time": "2026-03-17T01:45:56.259446",
+  "download_filename": "koala_diagrams-1.2.5.tar.gz",
+  "download_time": "2026-03-21T01:29:53.916195",
   "package_url": "https://pypi.org/project/koala-diagrams/"
 }

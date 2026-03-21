@@ -1,11 +1,11 @@
 {
   "name": "siren-debug",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "summary": "Minimalist debug tool for Python with automatic cleaner",
   "author": "Alexandra Bona Abreu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "siren_debug-0.1.2.tar.gz",
-  "download_time": "2026-03-16T04:40:00.598981",
+  "download_filename": "siren_debug-0.2.1.tar.gz",
+  "download_time": "2026-03-21T01:30:34.073205",
   "package_url": "https://pypi.org/project/siren-debug/"
 }

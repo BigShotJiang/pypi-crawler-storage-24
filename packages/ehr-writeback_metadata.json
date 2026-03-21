@@ -1,0 +1,11 @@
+{
+  "name": "ehr-writeback",
+  "version": "0.1.0a1",
+  "summary": "Open-source EHR write-back integration framework — closes the loop from analytics to clinical workflow via FHIR",
+  "author": "SiC Projects",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ehr_writeback-0.1.0a1.tar.gz",
+  "download_time": "2026-03-21T01:30:24.077555",
+  "package_url": "https://pypi.org/project/ehr-writeback/"
+}

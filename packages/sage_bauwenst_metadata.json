@@ -1,0 +1,11 @@
+{
+  "name": "sage_bauwenst",
+  "version": "2.0.0",
+  "summary": "SaGe subword tokenizer - version 2.0",
+  "author": "Shaked Yehezkel, Kensho Technologies, Bar Gazit, Yuval Pinter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sage_bauwenst-2.0.0.tar.gz",
+  "download_time": "2026-03-21T01:29:52.875185",
+  "package_url": "https://pypi.org/project/sage_bauwenst/"
+}
