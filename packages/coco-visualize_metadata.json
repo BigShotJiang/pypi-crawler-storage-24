@@ -1,0 +1,11 @@
+{
+  "name": "coco-visualize",
+  "version": "0.3.0",
+  "summary": "Standalone COCO visualization toolbox",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "coco_visualize-0.3.0.tar.gz",
+  "download_time": "2026-03-21T20:25:41.672513",
+  "package_url": "https://pypi.org/project/coco-visualize/"
+}

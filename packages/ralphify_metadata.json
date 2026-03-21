@@ -1,11 +1,11 @@
 {
   "name": "ralphify",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Stop stressing over not having an agent running. Ralph is always running",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ralphify-0.2.0.tar.gz",
-  "download_time": "2026-03-21T10:57:07.682747",
+  "download_filename": "ralphify-0.2.1.tar.gz",
+  "download_time": "2026-03-21T20:25:50.725336",
   "package_url": "https://pypi.org/project/ralphify/"
 }

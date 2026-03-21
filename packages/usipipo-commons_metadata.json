@@ -1,11 +1,11 @@
 {
   "name": "usipipo-commons",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Shared library for uSipipo ecosystem",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "usipipo_commons-0.8.0.tar.gz",
-  "download_time": "2026-03-21T18:34:59.279249",
+  "download_filename": "usipipo_commons-0.9.0.tar.gz",
+  "download_time": "2026-03-21T20:25:25.213708",
   "package_url": "https://pypi.org/project/usipipo-commons/"
 }

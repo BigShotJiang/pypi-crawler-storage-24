@@ -1,0 +1,11 @@
+{
+  "name": "pyqrack-cuda",
+  "version": "1.87.3",
+  "summary": "pyqrack - Pure Python vm6502q/qrack Wrapper",
+  "author": "Daniel Strano",
+  "license": "MIT",
+  "home_page": "https://github.com/vm6502q/pyqrack",
+  "download_filename": "pyqrack_cuda-1.87.3.tar.gz",
+  "download_time": "2026-03-21T20:25:14.718762",
+  "package_url": "https://pypi.org/project/pyqrack-cuda/"
+}

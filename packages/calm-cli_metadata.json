@@ -1,0 +1,11 @@
+{
+  "name": "calm-cli",
+  "version": "0.4.0",
+  "summary": "[C]alm [A]nswers via (local) [L]anguage [M]odels",
+  "author": "Abhishek Bhattacharya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "calm_cli-0.4.0.tar.gz",
+  "download_time": "2026-03-21T20:25:59.807617",
+  "package_url": "https://pypi.org/project/calm-cli/"
+}

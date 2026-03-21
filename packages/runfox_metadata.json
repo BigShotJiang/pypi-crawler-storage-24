@@ -1,11 +1,11 @@
 {
   "name": "runfox",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Orchestration and execution engine",
   "author": "Ed Grundy",
   "license": null,
   "home_page": "https://github.com/bayinfosys/runfox",
-  "download_filename": "runfox-0.0.2-py3-none-any.whl",
-  "download_time": "2026-03-10T22:00:09.219322",
+  "download_filename": "runfox-0.0.4-py3-none-any.whl",
+  "download_time": "2026-03-21T20:25:40.605758",
   "package_url": "https://pypi.org/project/runfox/"
 }

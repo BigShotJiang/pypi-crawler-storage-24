@@ -1,0 +1,11 @@
+{
+  "name": "cinetpay-python",
+  "version": "0.1.0",
+  "summary": "SDK Python pour l'API CinetPay v1 — paiements et transferts mobile money en Afrique. Compatible Django, FastAPI, Flask et tout projet Python.",
+  "author": "CinetPay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cinetpay_python-0.1.0.tar.gz",
+  "download_time": "2026-03-21T20:25:24.679139",
+  "package_url": "https://pypi.org/project/cinetpay-python/"
+}

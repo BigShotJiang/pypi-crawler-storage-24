@@ -1,0 +1,11 @@
+{
+  "name": "agentix-cli",
+  "version": "0.1.1",
+  "summary": "A CLI tool for [description TBD]",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentix_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-21T20:26:03.957734",
+  "package_url": "https://pypi.org/project/agentix-cli/"
+}
