@@ -1,11 +1,11 @@
 {
   "name": "matchescu-matching",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "summary": "Common types and algorithms used for matching two information",
   "author": "Andrei Olar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "matchescu_matching-0.16.0.tar.gz",
-  "download_time": "2026-03-18T12:09:30.358503",
+  "download_filename": "matchescu_matching-0.16.1.tar.gz",
+  "download_time": "2026-03-21T09:59:36.788596",
   "package_url": "https://pypi.org/project/matchescu-matching/"
 }

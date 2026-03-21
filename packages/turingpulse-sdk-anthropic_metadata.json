@@ -1,11 +1,11 @@
 {
   "name": "turingpulse-sdk-anthropic",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "TuringPulse SDK integration for Anthropic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turingpulse_sdk_anthropic-1.5.0.tar.gz",
-  "download_time": "2026-03-21T08:32:37.137917",
+  "download_filename": "turingpulse_sdk_anthropic-1.5.1.tar.gz",
+  "download_time": "2026-03-21T09:59:43.446976",
   "package_url": "https://pypi.org/project/turingpulse-sdk-anthropic/"
 }

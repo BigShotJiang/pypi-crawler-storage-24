@@ -1,0 +1,11 @@
+{
+  "name": "compresr",
+  "version": "2.1.0",
+  "summary": "Python SDK for Compresr - Intelligent prompt compression service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "compresr-2.1.0.tar.gz",
+  "download_time": "2026-03-21T09:59:23.924222",
+  "package_url": "https://pypi.org/project/compresr/"
+}

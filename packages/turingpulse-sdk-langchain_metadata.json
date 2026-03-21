@@ -1,11 +1,11 @@
 {
   "name": "turingpulse-sdk-langchain",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "TuringPulse SDK integration for LangChain",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turingpulse_sdk_langchain-1.5.0.tar.gz",
-  "download_time": "2026-03-21T08:32:35.341234",
+  "download_filename": "turingpulse_sdk_langchain-1.5.1.tar.gz",
+  "download_time": "2026-03-21T09:59:41.914727",
   "package_url": "https://pypi.org/project/turingpulse-sdk-langchain/"
 }

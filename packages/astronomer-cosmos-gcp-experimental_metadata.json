@@ -1,11 +1,11 @@
 {
   "name": "astronomer-cosmos-gcp-experimental",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": "Orchestrate your dbt projects in Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astronomer_cosmos_gcp_experimental-0.0.1.tar.gz",
-  "download_time": "2026-03-19T16:31:50.360238",
+  "download_filename": "astronomer_cosmos_gcp_experimental-0.0.5.tar.gz",
+  "download_time": "2026-03-21T09:59:08.946445",
   "package_url": "https://pypi.org/project/astronomer-cosmos-gcp-experimental/"
 }

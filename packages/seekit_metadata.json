@@ -1,0 +1,11 @@
+{
+  "name": "seekit",
+  "version": "0.1.1",
+  "summary": "Python API for various search engines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seekit-0.1.1.tar.gz",
+  "download_time": "2026-03-21T09:59:38.848346",
+  "package_url": "https://pypi.org/project/seekit/"
+}
