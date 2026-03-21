@@ -1,11 +1,11 @@
 {
   "name": "uicx-ultimate-tool",
-  "version": "14.4.2",
-  "summary": "Ultimate Image Converter & Firmware Analyzer (ISO, Android Boot, BIOS, Sparse)",
+  "version": "14.5.2",
+  "summary": "UIC-X Ultimate Image Converter - Advanced Firmware Engineering Framework",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "uicx_ultimate_tool-14.4.2.tar.gz",
-  "download_time": "2026-03-19T06:56:33.127293",
+  "download_filename": "uicx_ultimate_tool-14.5.2.tar.gz",
+  "download_time": "2026-03-21T06:29:22.605438",
   "package_url": "https://pypi.org/project/uicx-ultimate-tool/"
 }

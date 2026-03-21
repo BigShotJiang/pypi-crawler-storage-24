@@ -1,11 +1,11 @@
 {
   "name": "crewai",
-  "version": "1.10.1",
+  "version": "1.11.0",
   "summary": "Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crewai-1.10.1.tar.gz",
-  "download_time": "2026-03-07T06:33:06.399004",
+  "download_filename": "crewai-1.11.0.tar.gz",
+  "download_time": "2026-03-21T06:29:38.655553",
   "package_url": "https://pypi.org/project/crewai/"
 }

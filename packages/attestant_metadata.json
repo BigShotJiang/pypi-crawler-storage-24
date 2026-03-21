@@ -1,11 +1,11 @@
 {
   "name": "attestant",
-  "version": "0.23.0",
+  "version": "0.23.1",
   "summary": "Upload model data to Attestant for compliance analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "attestant-0.23.0-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2026-03-21T05:45:26.910887",
+  "download_filename": "attestant-0.23.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-21T06:29:19.464257",
   "package_url": "https://pypi.org/project/attestant/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "geotwinnet",
+  "version": "1.0.0",
+  "summary": "A graph-based framework for geotechnical site representation and digital twin modeling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geotwinnet-1.0.0.tar.gz",
+  "download_time": "2026-03-21T06:29:42.287113",
+  "package_url": "https://pypi.org/project/geotwinnet/"
+}

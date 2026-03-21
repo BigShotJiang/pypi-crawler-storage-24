@@ -1,0 +1,11 @@
+{
+  "name": "tax-invoice",
+  "version": "1.0.12",
+  "summary": "发票SDK Python 电子发票/数电发票/全电发票/数电票/开票",
+  "author": "yuejianghe",
+  "license": null,
+  "home_page": "https://github.com/fapiaoapi/invoice-python-sdk",
+  "download_filename": "tax_invoice-1.0.12.tar.gz",
+  "download_time": "2026-03-21T06:29:25.677191",
+  "package_url": "https://pypi.org/project/tax-invoice/"
+}

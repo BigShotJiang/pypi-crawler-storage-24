@@ -1,11 +1,11 @@
 {
   "name": "q2mm",
-  "version": "5.0.0a1",
+  "version": "5.0.0a2",
   "summary": "Quantum-guided molecular mechanics force field optimization",
   "author": "Eric Hansen",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "q2mm-5.0.0a1.tar.gz",
-  "download_time": "2026-03-19T20:35:44.831546",
+  "download_filename": "q2mm-5.0.0a2.tar.gz",
+  "download_time": "2026-03-21T06:29:15.769299",
   "package_url": "https://pypi.org/project/q2mm/"
 }
