@@ -1,11 +1,11 @@
 {
   "name": "bollhav",
-  "version": "2.0.39",
+  "version": "2.0.41",
   "summary": "Standardizing models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bollhav-2.0.39.tar.gz",
-  "download_time": "2026-03-21T09:01:37.006960",
+  "download_filename": "bollhav-2.0.41.tar.gz",
+  "download_time": "2026-03-21T10:56:56.242795",
   "package_url": "https://pypi.org/project/bollhav/"
 }

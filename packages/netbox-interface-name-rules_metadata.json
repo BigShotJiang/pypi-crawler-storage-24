@@ -1,11 +1,11 @@
 {
   "name": "netbox-interface-name-rules",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "NetBox plugin for automatic interface renaming when modules are installed",
   "author": "Marcin Zieba",
   "license": null,
   "home_page": null,
-  "download_filename": "netbox_interface_name_rules-1.2.2.tar.gz",
-  "download_time": "2026-03-12T16:21:02.381495",
+  "download_filename": "netbox_interface_name_rules-1.2.3.tar.gz",
+  "download_time": "2026-03-21T10:57:09.240793",
   "package_url": "https://pypi.org/project/netbox-interface-name-rules/"
 }

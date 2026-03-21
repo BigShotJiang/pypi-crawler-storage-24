@@ -1,0 +1,11 @@
+{
+  "name": "ArchLens",
+  "version": "0.4.1",
+  "summary": "Designed for visualizing package dependencies and highlighting differences between branches in GitHub pull requests. It offers customization options to tailor package views.",
+  "author": "The ArchLens Team",
+  "license": null,
+  "home_page": "https://github.com/archlens/ArchLens",
+  "download_filename": "archlens-0.4.1.tar.gz",
+  "download_time": "2026-03-21T10:56:32.079003",
+  "package_url": "https://pypi.org/project/ArchLens/"
+}

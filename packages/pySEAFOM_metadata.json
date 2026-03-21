@@ -1,0 +1,11 @@
+{
+  "name": "pySEAFOM",
+  "version": "0.1.10",
+  "summary": "DAS Performance Analysis Tools",
+  "author": "SEAFOM Fiber Optic Monitoring Group",
+  "license": null,
+  "home_page": "https://github.com/SEAFOM-Fiber-Optic-Monitoring-Group/pySEAFOM",
+  "download_filename": "pyseafom-0.1.10.tar.gz",
+  "download_time": "2026-03-21T10:56:43.687160",
+  "package_url": "https://pypi.org/project/pySEAFOM/"
+}

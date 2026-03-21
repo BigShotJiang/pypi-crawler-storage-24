@@ -1,11 +1,11 @@
 {
   "name": "divineapi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Official Python SDK for the Divine API - Astrology, Numerology, Tarot & more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "divineapi-1.0.0.tar.gz",
-  "download_time": "2026-03-21T10:26:17.082055",
+  "download_filename": "divineapi-1.0.2.tar.gz",
+  "download_time": "2026-03-21T10:56:40.546142",
   "package_url": "https://pypi.org/project/divineapi/"
 }

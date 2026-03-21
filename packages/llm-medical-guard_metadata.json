@@ -1,11 +1,11 @@
 {
   "name": "llm-medical-guard",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Guardrails for LLM-generated medical and health content",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_medical_guard-0.2.0.tar.gz",
-  "download_time": "2026-03-21T09:59:19.764528",
+  "download_filename": "llm_medical_guard-0.3.0.tar.gz",
+  "download_time": "2026-03-21T10:56:37.947544",
   "package_url": "https://pypi.org/project/llm-medical-guard/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "is-legacy-terminal",
+  "version": "1.0.1",
+  "summary": "Detect whether the terminal is legacy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "is_legacy_terminal-1.0.1.tar.gz",
+  "download_time": "2026-03-21T10:57:07.164073",
+  "package_url": "https://pypi.org/project/is-legacy-terminal/"
+}

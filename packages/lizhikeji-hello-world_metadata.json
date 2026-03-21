@@ -1,11 +1,11 @@
 {
   "name": "lizhikeji-hello-world",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A simple hello world package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lizhikeji_hello_world-0.1.4.tar.gz",
-  "download_time": "2026-03-21T10:26:28.714738",
+  "download_filename": "lizhikeji_hello_world-0.1.5.tar.gz",
+  "download_time": "2026-03-21T10:56:58.827690",
   "package_url": "https://pypi.org/project/lizhikeji-hello-world/"
 }

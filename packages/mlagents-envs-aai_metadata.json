@@ -1,0 +1,11 @@
+{
+  "name": "mlagents-envs-aai",
+  "version": "1.0.0",
+  "summary": "Unity Machine Learning Agents Interface",
+  "author": "Unity Technologies",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Unity-Technologies/ml-agents",
+  "download_filename": "mlagents_envs_aai-1.0.0.tar.gz",
+  "download_time": "2026-03-21T10:56:34.784222",
+  "package_url": "https://pypi.org/project/mlagents-envs-aai/"
+}

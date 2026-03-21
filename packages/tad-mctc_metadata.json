@@ -1,11 +1,11 @@
 {
   "name": "tad-mctc",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Torch Autodiff Utility",
   "author": "\"Marvin Friede\"",
   "license": "Apache-2.0",
   "home_page": "https://github.com/tad-mctc/tad-mctc",
-  "download_filename": "tad_mctc-0.6.0.tar.gz",
-  "download_time": "2026-03-13T12:45:18.237245",
+  "download_filename": "tad_mctc-0.6.1.tar.gz",
+  "download_time": "2026-03-21T10:56:41.066978",
   "package_url": "https://pypi.org/project/tad-mctc/"
 }
