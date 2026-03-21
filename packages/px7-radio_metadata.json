@@ -1,11 +1,11 @@
 {
   "name": "px7-radio",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Terminal-based internet radio player",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "px7_radio-0.1.3.tar.gz",
-  "download_time": "2026-03-17T17:14:52.355112",
+  "download_filename": "px7_radio-0.1.4.tar.gz",
+  "download_time": "2026-03-21T17:26:20.794328",
   "package_url": "https://pypi.org/project/px7-radio/"
 }

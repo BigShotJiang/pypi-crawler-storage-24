@@ -1,11 +1,11 @@
 {
   "name": "faran-visualizer",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Interactive visualization tool for faran trajectory planning simulations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "faran_visualizer-0.3.0.tar.gz",
-  "download_time": "2026-03-15T21:27:22.828940",
+  "download_filename": "faran_visualizer-0.3.1.tar.gz",
+  "download_time": "2026-03-21T17:27:08.476888",
   "package_url": "https://pypi.org/project/faran-visualizer/"
 }

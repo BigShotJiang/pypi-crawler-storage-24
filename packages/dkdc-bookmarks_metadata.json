@@ -1,11 +1,11 @@
 {
   "name": "dkdc-bookmarks",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Bookmarks in your filesystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dkdc_bookmarks-0.1.4.tar.gz",
-  "download_time": "2026-03-21T16:58:47.528083",
+  "download_filename": "dkdc_bookmarks-0.2.0.tar.gz",
+  "download_time": "2026-03-21T17:26:22.823116",
   "package_url": "https://pypi.org/project/dkdc-bookmarks/"
 }

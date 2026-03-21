@@ -1,0 +1,11 @@
+{
+  "name": "simhacli",
+  "version": "1.4.2",
+  "summary": "SimhaCLI 🦁 — AI Coding Agent that runs inside your terminal",
+  "author": "Narasimha Naidu Korrapati",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simhacli-1.4.2.tar.gz",
+  "download_time": "2026-03-21T17:26:17.294730",
+  "package_url": "https://pypi.org/project/simhacli/"
+}

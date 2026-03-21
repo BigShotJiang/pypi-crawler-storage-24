@@ -1,0 +1,11 @@
+{
+  "name": "gdpr-officer",
+  "version": "0.1.0",
+  "summary": "PII encryption and GDPR-compliant data erasure for data platforms. Delete a key, forget a customer.",
+  "author": "XiaoHan Li",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gdpr_officer-0.1.0.tar.gz",
+  "download_time": "2026-03-21T17:27:06.434260",
+  "package_url": "https://pypi.org/project/gdpr-officer/"
+}

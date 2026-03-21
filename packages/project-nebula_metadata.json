@@ -1,11 +1,11 @@
 {
   "name": "project-nebula",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Simple ASGI micro framework for Python",
   "author": "amogus-gggy, vxiddev",
   "license": null,
   "home_page": "https://github.com/amogus-gggy/Project-Nebula",
-  "download_filename": "project_nebula-0.1.4.tar.gz",
-  "download_time": "2026-03-21T14:07:58.313841",
+  "download_filename": "project_nebula-0.1.5.tar.gz",
+  "download_time": "2026-03-21T17:26:43.551100",
   "package_url": "https://pypi.org/project/project-nebula/"
 }

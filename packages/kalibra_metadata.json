@@ -1,11 +1,11 @@
 {
   "name": "kalibra",
-  "version": "0.0.1",
-  "summary": "Agent evaluation and regression detection",
-  "author": null,
+  "version": "0.2.1",
+  "summary": "Regression detection and CI quality gates for AI agents.",
+  "author": "Vladimir Orekhov",
   "license": null,
   "home_page": null,
-  "download_filename": "kalibra-0.0.1.tar.gz",
-  "download_time": "2026-03-13T13:49:29.866306",
+  "download_filename": "kalibra-0.2.1.tar.gz",
+  "download_time": "2026-03-21T17:26:34.837362",
   "package_url": "https://pypi.org/project/kalibra/"
 }

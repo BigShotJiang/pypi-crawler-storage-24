@@ -1,0 +1,11 @@
+{
+  "name": "skaters",
+  "version": "0.1.0",
+  "summary": "Fast univariate time series models that run in Pyodide",
+  "author": "Peter Cotton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skaters-0.1.0.tar.gz",
+  "download_time": "2026-03-21T17:27:09.704787",
+  "package_url": "https://pypi.org/project/skaters/"
+}

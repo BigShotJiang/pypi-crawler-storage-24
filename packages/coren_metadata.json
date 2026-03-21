@@ -1,0 +1,11 @@
+{
+  "name": "coren",
+  "version": "0.1.5",
+  "summary": "Machine capability detection and compute normalization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coren-0.1.5.tar.gz",
+  "download_time": "2026-03-21T17:26:37.864424",
+  "package_url": "https://pypi.org/project/coren/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ghgrab",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "summary": "Download specific files and folders from GitHub repositories without cloning",
   "author": "abhixdd",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ghgrab-1.0.7.tar.gz",
-  "download_time": "2026-03-21T10:56:53.110061",
+  "download_filename": "ghgrab-1.1.0.tar.gz",
+  "download_time": "2026-03-21T17:26:47.260772",
   "package_url": "https://pypi.org/project/ghgrab/"
 }

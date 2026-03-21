@@ -1,0 +1,11 @@
+{
+  "name": "desc-opt",
+  "version": "0.17.1",
+  "summary": "Computes, analyzes and optimizes 3D MHD equilibria for stellarators and tokamaks",
+  "author": "Daniel Dudt, Rory Conlin, Dario Panici, Kaya Unalmis, Yigit Gunsur Elmacioglu, Rahul Gaur, Patrick Kim, Egemen Kolemen",
+  "license": "MIT",
+  "home_page": "https://github.com/PlasmaControl/DESC/",
+  "download_filename": "desc_opt-0.17.1.tar.gz",
+  "download_time": "2026-03-21T17:26:42.910124",
+  "package_url": "https://pypi.org/project/desc-opt/"
+}
