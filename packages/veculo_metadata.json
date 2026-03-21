@@ -1,0 +1,11 @@
+{
+  "name": "veculo",
+  "version": "0.1.0",
+  "summary": "Python SDK for Veculo — managed graph+vector database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "veculo-0.1.0.tar.gz",
+  "download_time": "2026-03-21T10:26:55.019331",
+  "package_url": "https://pypi.org/project/veculo/"
+}

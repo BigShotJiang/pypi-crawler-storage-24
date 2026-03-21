@@ -1,0 +1,11 @@
+{
+  "name": "open-vulnera",
+  "version": "0.0.7",
+  "summary": "A cybersecurity-focused AI execution engine for vulnerability research and offensive tooling",
+  "author": "Anos Wille",
+  "license": "Custom - Open Vulnera License v1.0",
+  "home_page": null,
+  "download_filename": "open_vulnera-0.0.7.tar.gz",
+  "download_time": "2026-03-21T10:26:39.087756",
+  "package_url": "https://pypi.org/project/open-vulnera/"
+}

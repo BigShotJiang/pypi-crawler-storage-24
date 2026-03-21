@@ -1,11 +1,11 @@
 {
   "name": "graperoot",
-  "version": "3.8.90",
+  "version": "3.8.91",
   "summary": "GrapeRoot — graph-based context engine for AI coding agents",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "graperoot-3.8.90.tar.gz",
-  "download_time": "2026-03-21T07:51:48.242621",
+  "download_filename": "graperoot-3.8.91.tar.gz",
+  "download_time": "2026-03-21T10:27:07.574891",
   "package_url": "https://pypi.org/project/graperoot/"
 }

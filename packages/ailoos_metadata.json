@@ -1,11 +1,11 @@
 {
   "name": "ailoos",
-  "version": "2.6.2",
+  "version": "2.6.4",
   "summary": "Unified SDK experience for AILOOS federated AI nodes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ailoos-2.6.2.tar.gz",
-  "download_time": "2026-03-20T17:34:34.196762",
+  "download_filename": "ailoos-2.6.4.tar.gz",
+  "download_time": "2026-03-21T10:26:22.737335",
   "package_url": "https://pypi.org/project/ailoos/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-shreck",
+  "version": "0.1.5",
+  "summary": "A rich TUI replacement for Django's shell_plus — browse models, querysets, and management commands from your terminal.",
+  "author": "belda",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_shreck-0.1.5.tar.gz",
+  "download_time": "2026-03-21T10:26:34.730275",
+  "package_url": "https://pypi.org/project/django-shreck/"
+}

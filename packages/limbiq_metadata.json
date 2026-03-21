@@ -1,11 +1,11 @@
 {
   "name": "limbiq",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Neurotransmitter-inspired adaptive learning layer for LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "limbiq-0.4.0.tar.gz",
-  "download_time": "2026-03-21T09:59:24.945475",
+  "download_filename": "limbiq-0.4.1.tar.gz",
+  "download_time": "2026-03-21T10:26:25.994081",
   "package_url": "https://pypi.org/project/limbiq/"
 }

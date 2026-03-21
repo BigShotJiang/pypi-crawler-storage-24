@@ -1,0 +1,11 @@
+{
+  "name": "is-unicode-supported",
+  "version": "1.1.1",
+  "summary": "Detect whether the terminal supports advanced Unicode.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "is_unicode_supported-1.1.1.tar.gz",
+  "download_time": "2026-03-21T10:26:33.644517",
+  "package_url": "https://pypi.org/project/is-unicode-supported/"
+}

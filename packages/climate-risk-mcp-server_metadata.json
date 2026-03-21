@@ -1,0 +1,11 @@
+{
+  "name": "climate-risk-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for climate risk assessment — CO2 emissions, climate projections, and ESG data via Climate TRACE, NOAA, and Open-Meteo",
+  "author": "AiAgentKarl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "climate_risk_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-21T10:26:19.978378",
+  "package_url": "https://pypi.org/project/climate-risk-mcp-server/"
+}

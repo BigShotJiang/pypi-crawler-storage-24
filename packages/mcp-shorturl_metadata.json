@@ -1,11 +1,11 @@
 {
   "name": "mcp-shorturl",
-  "version": "2026.3.21.0",
+  "version": "2026.3.21.1",
   "summary": "MCP Server for URL Shortening via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_shorturl-2026.3.21.0.tar.gz",
-  "download_time": "2026-03-21T07:51:17.382873",
+  "download_filename": "mcp_shorturl-2026.3.21.1.tar.gz",
+  "download_time": "2026-03-21T10:27:02.133238",
   "package_url": "https://pypi.org/project/mcp-shorturl/"
 }

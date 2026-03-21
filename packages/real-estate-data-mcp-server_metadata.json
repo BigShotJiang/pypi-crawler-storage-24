@@ -1,0 +1,11 @@
+{
+  "name": "real-estate-data-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server providing US real estate data — housing stats, demographics, amenities, and area comparisons via Census ACS and OpenStreetMap",
+  "author": "AiAgentKarl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "real_estate_data_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-21T10:26:18.260529",
+  "package_url": "https://pypi.org/project/real-estate-data-mcp-server/"
+}

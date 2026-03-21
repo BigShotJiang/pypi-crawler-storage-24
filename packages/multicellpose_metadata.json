@@ -1,0 +1,11 @@
+{
+  "name": "multicellpose",
+  "version": "0.9.9.18",
+  "summary": "MultiCellPose: segmentation and analysis toolkit for multimodal microscopy",
+  "author": "Marcus Fletcher",
+  "license": null,
+  "home_page": "https://github.com/mrcsfltchr/MultiCellPose",
+  "download_filename": "multicellpose-0.9.9.18-py3-none-any.whl",
+  "download_time": "2026-03-21T10:26:56.108140",
+  "package_url": "https://pypi.org/project/multicellpose/"
+}

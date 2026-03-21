@@ -1,11 +1,11 @@
 {
   "name": "google-ai-scraper",
-  "version": "0.2.4",
+  "version": "0.2.9",
   "summary": "MCP server for scraping Google AI Overviews via a Chrome extension relay",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "google_ai_scraper-0.2.4.tar.gz",
-  "download_time": "2026-03-19T12:57:08.977451",
+  "download_filename": "google_ai_scraper-0.2.9.tar.gz",
+  "download_time": "2026-03-21T10:26:44.714698",
   "package_url": "https://pypi.org/project/google-ai-scraper/"
 }

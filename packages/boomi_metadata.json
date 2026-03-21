@@ -1,0 +1,11 @@
+{
+  "name": "boomi",
+  "version": "2.1.0",
+  "summary": "Python SDK for Boomi Platform API - provides programmatic access to Boomi Enterprise Platform functionality.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boomi-2.1.0.tar.gz",
+  "download_time": "2026-03-21T10:26:55.561918",
+  "package_url": "https://pypi.org/project/boomi/"
+}

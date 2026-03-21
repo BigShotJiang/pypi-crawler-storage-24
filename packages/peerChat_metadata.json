@@ -1,0 +1,11 @@
+{
+  "name": "peerChat",
+  "version": "0.8.0",
+  "summary": "A basic self-hosted peer-to-peer chat application.",
+  "author": "Steffen Richters-Finger",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/peerChat/",
+  "download_filename": "peerchat-0.8.0.tar.gz",
+  "download_time": "2026-03-21T10:26:30.886825",
+  "package_url": "https://pypi.org/project/peerChat/"
+}

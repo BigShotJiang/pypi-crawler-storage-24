@@ -1,0 +1,11 @@
+{
+  "name": "pki-tools",
+  "version": "2.0.1",
+  "summary": "PKI tools for e.g. checking certificate CRL/OCSP revocation",
+  "author": "Michal Sadowski",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pki_tools-2.0.1.tar.gz",
+  "download_time": "2026-03-21T10:26:45.800613",
+  "package_url": "https://pypi.org/project/pki-tools/"
+}
