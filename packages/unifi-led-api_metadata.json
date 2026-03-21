@@ -1,11 +1,11 @@
 {
   "name": "unifi-led-api",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Control UniFi Access Point LEDs via the internal REST API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unifi_led_api-0.2.2.tar.gz",
-  "download_time": "2026-03-21T16:01:33.942723",
+  "download_filename": "unifi_led_api-0.2.3.tar.gz",
+  "download_time": "2026-03-21T17:55:20.102399",
   "package_url": "https://pypi.org/project/unifi-led-api/"
 }

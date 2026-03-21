@@ -1,0 +1,11 @@
+{
+  "name": "qgendapy",
+  "version": "0.1.0",
+  "summary": "Modern Python client for the QGenda REST API",
+  "author": "Lance Reinsmith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qgendapy-0.1.0.tar.gz",
+  "download_time": "2026-03-21T17:54:45.535218",
+  "package_url": "https://pypi.org/project/qgendapy/"
+}

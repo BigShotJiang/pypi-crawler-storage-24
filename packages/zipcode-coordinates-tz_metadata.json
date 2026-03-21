@@ -1,0 +1,11 @@
+{
+  "name": "zipcode-coordinates-tz",
+  "version": "0.5.0",
+  "summary": "A Python package for querying US Zipcodes, and converting to coordinates and timezones",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "zipcode_coordinates_tz-0.5.0.tar.gz",
+  "download_time": "2026-03-21T17:54:47.072191",
+  "package_url": "https://pypi.org/project/zipcode-coordinates-tz/"
+}

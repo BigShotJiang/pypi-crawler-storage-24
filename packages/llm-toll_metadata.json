@@ -1,11 +1,11 @@
 {
   "name": "llm-toll",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Lightweight drop-in Python decorator to track costs, monitor token usage, and enforce budget/rate limits for LLM API calls",
   "author": "Felipe Morandini",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_toll-0.1.0.tar.gz",
-  "download_time": "2026-03-21T15:05:52.840533",
+  "download_filename": "llm_toll-0.2.0.tar.gz",
+  "download_time": "2026-03-21T17:54:46.046439",
   "package_url": "https://pypi.org/project/llm-toll/"
 }

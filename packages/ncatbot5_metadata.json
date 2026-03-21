@@ -1,11 +1,11 @@
 {
   "name": "ncatbot5",
-  "version": "5.2.9.post1",
+  "version": "5.2.11",
   "summary": "NcatBot, NapCat Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ncatbot5-5.2.9.post1.tar.gz",
-  "download_time": "2026-03-21T07:12:47.679165",
+  "download_filename": "ncatbot5-5.2.11.tar.gz",
+  "download_time": "2026-03-21T17:54:49.641453",
   "package_url": "https://pypi.org/project/ncatbot5/"
 }

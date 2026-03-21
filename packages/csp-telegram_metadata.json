@@ -1,0 +1,11 @@
+{
+  "name": "csp-telegram",
+  "version": "0.1.0",
+  "summary": "Alias for csp-adapter-telegram",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "csp_telegram-0.1.0.tar.gz",
+  "download_time": "2026-03-21T17:54:50.153201",
+  "package_url": "https://pypi.org/project/csp-telegram/"
+}

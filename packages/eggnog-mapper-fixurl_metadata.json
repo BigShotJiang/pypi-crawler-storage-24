@@ -1,11 +1,11 @@
 {
   "name": "eggnog-mapper-fixurl",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Fix outdated URLs in eggnog-mapper's download_eggnog_data.py",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eggnog_mapper_fixurl-0.0.4.tar.gz",
-  "download_time": "2026-03-07T14:47:51.527268",
+  "download_filename": "eggnog_mapper_fixurl-0.0.5.tar.gz",
+  "download_time": "2026-03-21T17:54:48.096937",
   "package_url": "https://pypi.org/project/eggnog-mapper-fixurl/"
 }

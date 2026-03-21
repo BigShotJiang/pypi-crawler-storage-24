@@ -1,11 +1,11 @@
 {
   "name": "hledger-textual",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A full-featured terminal user interface for hledger plain-text accounting",
   "author": "Michele Broggi",
   "license": null,
   "home_page": null,
-  "download_filename": "hledger_textual-0.1.17.tar.gz",
-  "download_time": "2026-03-17T18:12:35.412495",
+  "download_filename": "hledger_textual-0.1.18.tar.gz",
+  "download_time": "2026-03-21T17:54:46.559572",
   "package_url": "https://pypi.org/project/hledger-textual/"
 }

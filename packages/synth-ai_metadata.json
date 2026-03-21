@@ -1,11 +1,11 @@
 {
   "name": "synth-ai",
-  "version": "0.9.6",
+  "version": "0.9.8",
   "summary": "Serverless Posttraining for Agents - Core AI functionality and tracing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synth_ai-0.9.6.tar.gz",
-  "download_time": "2026-03-16T23:31:39.546959",
+  "download_filename": "synth_ai-0.9.8.tar.gz",
+  "download_time": "2026-03-21T17:55:02.544586",
   "package_url": "https://pypi.org/project/synth-ai/"
 }

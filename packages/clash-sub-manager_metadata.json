@@ -1,0 +1,11 @@
+{
+  "name": "clash-sub-manager",
+  "version": "0.2.1",
+  "summary": "Clash subscription management web service",
+  "author": "shoucandanghehe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clash_sub_manager-0.2.1.tar.gz",
+  "download_time": "2026-03-21T17:54:53.292352",
+  "package_url": "https://pypi.org/project/clash-sub-manager/"
+}
