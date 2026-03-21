@@ -1,11 +1,11 @@
 {
   "name": "arty-mc",
-  "version": "0.1.8",
+  "version": "0.2.3",
   "summary": "Dual-pane terminal file manager for Artifactory",
   "author": "Tino Waldner",
   "license": "MIT",
   "home_page": "https://github.com/tino-waldner/arty-mc",
-  "download_filename": "arty_mc-0.1.8.tar.gz",
-  "download_time": "2026-03-19T23:30:13.003004",
+  "download_filename": "arty_mc-0.2.3.tar.gz",
+  "download_time": "2026-03-21T21:51:22.252832",
   "package_url": "https://pypi.org/project/arty-mc/"
 }

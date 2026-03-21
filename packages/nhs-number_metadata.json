@@ -1,0 +1,11 @@
+{
+  "name": "nhs-number",
+  "version": "1.3.10",
+  "summary": "Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.",
+  "author": "Andy Law",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nhs_number-1.3.10.tar.gz",
+  "download_time": "2026-03-21T21:51:16.055788",
+  "package_url": "https://pypi.org/project/nhs-number/"
+}

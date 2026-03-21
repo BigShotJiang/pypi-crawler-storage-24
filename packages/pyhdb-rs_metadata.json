@@ -1,0 +1,11 @@
+{
+  "name": "pyhdb-rs",
+  "version": "0.3.9",
+  "summary": "High-performance Python driver for SAP HANA with native Arrow support",
+  "author": null,
+  "license": "Apache-2.0 OR MIT",
+  "home_page": null,
+  "download_filename": "pyhdb_rs-0.3.9.tar.gz",
+  "download_time": "2026-03-21T21:51:41.344233",
+  "package_url": "https://pypi.org/project/pyhdb-rs/"
+}

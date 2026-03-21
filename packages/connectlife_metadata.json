@@ -1,0 +1,11 @@
+{
+  "name": "connectlife",
+  "version": "0.6.0",
+  "summary": "A Python library for communicating with the ConnectLife API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "connectlife-0.6.0.tar.gz",
+  "download_time": "2026-03-21T21:51:45.449390",
+  "package_url": "https://pypi.org/project/connectlife/"
+}

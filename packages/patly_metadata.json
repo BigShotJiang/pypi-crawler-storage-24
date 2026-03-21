@@ -1,11 +1,11 @@
 {
   "name": "patly",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Gasless Polymarket position redemption — Redeem as a Service",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "patly-0.1.8.tar.gz",
-  "download_time": "2026-03-21T21:25:12.214786",
+  "download_filename": "patly-0.1.9.tar.gz",
+  "download_time": "2026-03-21T21:51:44.936353",
   "package_url": "https://pypi.org/project/patly/"
 }

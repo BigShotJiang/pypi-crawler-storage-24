@@ -1,0 +1,11 @@
+{
+  "name": "carconnectivity-plugin-restapi",
+  "version": "0.1a2",
+  "summary": "CarConnectivity plugin providing a REST API",
+  "author": "Till Steinbach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "carconnectivity_plugin_restapi-0.1a2.tar.gz",
+  "download_time": "2026-03-21T21:51:39.807430",
+  "package_url": "https://pypi.org/project/carconnectivity-plugin-restapi/"
+}

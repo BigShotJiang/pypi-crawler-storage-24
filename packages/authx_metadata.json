@@ -1,0 +1,11 @@
+{
+  "name": "authx",
+  "version": "1.5.2",
+  "summary": "Ready to use and customizable Authentications and Oauth2 management for FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "authx-1.5.2.tar.gz",
+  "download_time": "2026-03-21T21:51:11.881522",
+  "package_url": "https://pypi.org/project/authx/"
+}

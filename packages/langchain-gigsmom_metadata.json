@@ -1,11 +1,11 @@
 {
   "name": "langchain-gigsmom",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "LangChain toolkit for GIGS.MOM — let AI agents post tasks for humans in the physical world",
   "author": "GIGS.MOM",
   "license": null,
   "home_page": "https://github.com/jiftuq/dropzone",
-  "download_filename": "langchain_gigsmom-0.1.0.tar.gz",
-  "download_time": "2026-03-21T20:26:04.468981",
+  "download_filename": "langchain_gigsmom-0.2.0.tar.gz",
+  "download_time": "2026-03-21T21:51:47.510609",
   "package_url": "https://pypi.org/project/langchain-gigsmom/"
 }

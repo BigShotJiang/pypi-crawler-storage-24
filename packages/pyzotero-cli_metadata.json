@@ -1,0 +1,11 @@
+{
+  "name": "pyzotero-cli",
+  "version": "0.1.7",
+  "summary": "Use Zotero from the command line, e.g., for AI-assisted reference / citation management in academic writing — CLI wrapper for pyzotero",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyzotero_cli-0.1.7.tar.gz",
+  "download_time": "2026-03-21T21:51:44.424962",
+  "package_url": "https://pypi.org/project/pyzotero-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-clihub",
+  "version": "0.2.1",
+  "summary": "An AI-first registry for local command-line tools and reusable CLI scenarios.",
+  "author": "duo121",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_clihub-0.2.1.tar.gz",
+  "download_time": "2026-03-21T21:51:38.757502",
+  "package_url": "https://pypi.org/project/ai-clihub/"
+}
