@@ -1,11 +1,11 @@
 {
   "name": "measflow",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Python reader/writer for the MeasFlow (.meas) binary measurement format",
   "author": "vreitenbach",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "measflow-0.4.0.tar.gz",
-  "download_time": "2026-03-21T07:51:33.297901",
+  "download_filename": "measflow-0.4.1.tar.gz",
+  "download_time": "2026-03-21T09:01:38.032570",
   "package_url": "https://pypi.org/project/measflow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "VibraVid",
+  "version": "1.1.2",
+  "summary": "Download content from streaming platforms",
+  "author": "Arrowar",
+  "license": null,
+  "home_page": "https://github.com/AstraeLabs/VibraVid",
+  "download_filename": "vibravid-1.1.2.tar.gz",
+  "download_time": "2026-03-21T09:01:32.855970",
+  "package_url": "https://pypi.org/project/VibraVid/"
+}

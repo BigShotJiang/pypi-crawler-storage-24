@@ -1,11 +1,11 @@
 {
   "name": "playwright-ez",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "summary": "A simplified Playwright wrapper with multi-tab support, element highlighting, and smart waiting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "playwright_ez-2.4.0.tar.gz",
-  "download_time": "2026-03-21T07:51:12.209427",
+  "download_filename": "playwright_ez-2.5.0.tar.gz",
+  "download_time": "2026-03-21T09:01:13.085323",
   "package_url": "https://pypi.org/project/playwright-ez/"
 }

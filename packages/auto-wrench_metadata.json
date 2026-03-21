@@ -1,0 +1,11 @@
+{
+  "name": "auto-wrench",
+  "version": "0.4.0",
+  "summary": "Automated registration package for urban sensor endpoints into metadata catalogs",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "auto_wrench-0.4.0.tar.gz",
+  "download_time": "2026-03-21T09:01:18.221583",
+  "package_url": "https://pypi.org/project/auto-wrench/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tweetxvault",
+  "version": "0.2.1",
+  "summary": "Archive X bookmarks, likes, authored tweets, and official X exports locally.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tweetxvault-0.2.1.tar.gz",
+  "download_time": "2026-03-21T09:01:22.887873",
+  "package_url": "https://pypi.org/project/tweetxvault/"
+}

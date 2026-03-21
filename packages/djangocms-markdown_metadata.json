@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-markdown",
+  "version": "1.0.0",
+  "summary": "Markdown content plugin and field for django CMS",
+  "author": "Fabian Braun",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "djangocms_markdown-1.0.0.tar.gz",
+  "download_time": "2026-03-21T09:01:10.003815",
+  "package_url": "https://pypi.org/project/djangocms-markdown/"
+}

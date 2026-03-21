@@ -1,0 +1,11 @@
+{
+  "name": "helper-md-doc",
+  "version": "0.5.8",
+  "summary": "Markdown/HTML을 DOCX로 변환하는 문서 변환 라이브러리 (Mermaid/LaTeX 지원)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "helper_md_doc-0.5.8.tar.gz",
+  "download_time": "2026-03-21T09:01:09.492068",
+  "package_url": "https://pypi.org/project/helper-md-doc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datalineage-thedebuggers",
+  "version": "1.0.2",
+  "summary": "Git-like versioning system for ML datasets — immutable, reproducible, auditable.",
+  "author": "The Debuggers",
+  "license": null,
+  "home_page": "https://github.com/Rakshita2305/DataLineage",
+  "download_filename": "datalineage_thedebuggers-1.0.2.tar.gz",
+  "download_time": "2026-03-21T09:01:08.430674",
+  "package_url": "https://pypi.org/project/datalineage-thedebuggers/"
+}
