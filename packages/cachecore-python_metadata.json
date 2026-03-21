@@ -1,0 +1,11 @@
+{
+  "name": "cachecore-python",
+  "version": "0.1.0",
+  "summary": "Python client for CacheCore — semantic cache gateway for LLM agent workloads",
+  "author": "Fabrizio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cachecore_python-0.1.0.tar.gz",
+  "download_time": "2026-03-21T21:25:17.082690",
+  "package_url": "https://pypi.org/project/cachecore-python/"
+}

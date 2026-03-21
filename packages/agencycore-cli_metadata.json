@@ -1,11 +1,11 @@
 {
   "name": "agencycore-cli",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "AgencyCore CLI — manage your CRM, outreach, and more from the terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agencycore_cli-0.5.1.tar.gz",
-  "download_time": "2026-03-21T20:54:32.976845",
+  "download_filename": "agencycore_cli-0.5.2.tar.gz",
+  "download_time": "2026-03-21T21:25:16.542761",
   "package_url": "https://pypi.org/project/agencycore-cli/"
 }

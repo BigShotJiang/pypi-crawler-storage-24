@@ -1,0 +1,11 @@
+{
+  "name": "gitbar",
+  "version": "0.1.0",
+  "summary": "Multi-repo Git dashboard in your macOS menubar — PRs, issues, CI status, and local repo health at a glance.",
+  "author": "Vamsi Krishna Kollipara",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitbar-0.1.0.tar.gz",
+  "download_time": "2026-03-21T21:24:58.528339",
+  "package_url": "https://pypi.org/project/gitbar/"
+}

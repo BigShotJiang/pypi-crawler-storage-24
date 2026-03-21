@@ -1,11 +1,11 @@
 {
   "name": "neuroshard-ai",
-  "version": "0.2.87",
+  "version": "0.2.99",
   "summary": "Decentralized AI Network",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neuroshard_ai-0.2.87.tar.gz",
-  "download_time": "2026-03-12T22:22:47.364675",
+  "download_filename": "neuroshard_ai-0.2.99.tar.gz",
+  "download_time": "2026-03-21T21:24:34.005296",
   "package_url": "https://pypi.org/project/neuroshard-ai/"
 }

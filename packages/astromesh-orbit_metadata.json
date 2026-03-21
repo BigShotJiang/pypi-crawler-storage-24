@@ -1,0 +1,11 @@
+{
+  "name": "astromesh-orbit",
+  "version": "0.1.1",
+  "summary": "Cloud-native deployment for Astromesh — provision infrastructure on any cloud",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "astromesh_orbit-0.1.1.tar.gz",
+  "download_time": "2026-03-21T21:25:19.293679",
+  "package_url": "https://pypi.org/project/astromesh-orbit/"
+}

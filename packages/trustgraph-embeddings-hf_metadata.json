@@ -1,11 +1,11 @@
 {
   "name": "trustgraph-embeddings-hf",
-  "version": "2.1.21",
+  "version": "2.1.24",
   "summary": "HuggingFace embeddings support for TrustGraph.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustgraph_embeddings_hf-2.1.21.tar.gz",
-  "download_time": "2026-03-13T14:41:35.313922",
+  "download_filename": "trustgraph_embeddings_hf-2.1.24.tar.gz",
+  "download_time": "2026-03-21T21:24:47.728004",
   "package_url": "https://pypi.org/project/trustgraph-embeddings-hf/"
 }

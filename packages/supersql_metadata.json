@@ -1,11 +1,11 @@
 {
   "name": "supersql",
-  "version": "2026.3.14",
+  "version": "2026.3.21",
   "summary": "Thin wrapper on top of SQL that enables you write SQL code in python easily",
   "author": "Raymond Ortserga",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "supersql-2026.3.14.tar.gz",
-  "download_time": "2026-03-14T05:06:30.277095",
+  "download_filename": "supersql-2026.3.21.tar.gz",
+  "download_time": "2026-03-21T21:24:35.153076",
   "package_url": "https://pypi.org/project/supersql/"
 }

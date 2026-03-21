@@ -1,0 +1,11 @@
+{
+  "name": "tinyhgvs",
+  "version": "0.1.0",
+  "summary": "Hybrid Rust/Python library for parsing HGVS variants.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/svm-zhang/tinyhgvs",
+  "download_filename": "tinyhgvs-0.1.0.tar.gz",
+  "download_time": "2026-03-21T21:25:23.149748",
+  "package_url": "https://pypi.org/project/tinyhgvs/"
+}

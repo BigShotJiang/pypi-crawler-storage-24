@@ -1,0 +1,11 @@
+{
+  "name": "socratic-security",
+  "version": "0.2.0",
+  "summary": "Comprehensive security utilities for the Socrates ecosystem",
+  "author": "Nireus AI",
+  "license": "MIT",
+  "home_page": "https://github.com/Nireus79/Socratic-security",
+  "download_filename": "socratic_security-0.2.0.tar.gz",
+  "download_time": "2026-03-21T21:24:57.992292",
+  "package_url": "https://pypi.org/project/socratic-security/"
+}

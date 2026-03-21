@@ -1,0 +1,11 @@
+{
+  "name": "wzrd-client",
+  "version": "0.3.0",
+  "summary": "Signal feed client for model selection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wzrd_client-0.3.0.tar.gz",
+  "download_time": "2026-03-21T21:25:22.609526",
+  "package_url": "https://pypi.org/project/wzrd-client/"
+}
