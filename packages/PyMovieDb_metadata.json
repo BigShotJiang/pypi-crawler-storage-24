@@ -1,0 +1,11 @@
+{
+  "name": "PyMovieDb",
+  "version": "0.1.2",
+  "summary": "A Python Module that represents IMDB API",
+  "author": "Hemant Malik",
+  "license": null,
+  "home_page": "https://github.com/itsmehemant7/PyMovieDb",
+  "download_filename": "pymoviedb-0.1.2.tar.gz",
+  "download_time": "2026-03-21T13:44:06.397829",
+  "package_url": "https://pypi.org/project/PyMovieDb/"
+}

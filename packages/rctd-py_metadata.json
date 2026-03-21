@@ -1,11 +1,11 @@
 {
   "name": "rctd-py",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "GPU-accelerated Robust Cell Type Decomposition (RCTD) for spatial transcriptomics using PyTorch",
   "author": "Paul Gueguen",
   "license": null,
   "home_page": null,
-  "download_filename": "rctd_py-0.2.1.tar.gz",
-  "download_time": "2026-03-21T10:26:39.630971",
+  "download_filename": "rctd_py-0.2.2.tar.gz",
+  "download_time": "2026-03-21T13:44:19.767177",
   "package_url": "https://pypi.org/project/rctd-py/"
 }

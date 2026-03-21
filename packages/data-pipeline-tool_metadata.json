@@ -1,0 +1,11 @@
+{
+  "name": "data-pipeline-tool",
+  "version": "0.1.3",
+  "summary": "A simple data pipeline package",
+  "author": "Vinith k",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "data_pipeline_tool-0.1.3.tar.gz",
+  "download_time": "2026-03-21T13:44:13.578148",
+  "package_url": "https://pypi.org/project/data-pipeline-tool/"
+}

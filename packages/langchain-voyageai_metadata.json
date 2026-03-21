@@ -1,0 +1,11 @@
+{
+  "name": "langchain-voyageai",
+  "version": "0.3.3",
+  "summary": "An integration package connecting VoyageAI and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_voyageai-0.3.3.tar.gz",
+  "download_time": "2026-03-21T13:43:54.612442",
+  "package_url": "https://pypi.org/project/langchain-voyageai/"
+}

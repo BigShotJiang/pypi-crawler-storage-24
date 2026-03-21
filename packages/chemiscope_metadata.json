@@ -1,0 +1,11 @@
+{
+  "name": "chemiscope",
+  "version": "1.0.2",
+  "summary": "Helpers to work with the chemiscope interactive structure/property explorer for materials and molecules",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "chemiscope-1.0.2.tar.gz",
+  "download_time": "2026-03-21T13:44:21.321395",
+  "package_url": "https://pypi.org/project/chemiscope/"
+}

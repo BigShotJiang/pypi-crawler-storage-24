@@ -1,11 +1,11 @@
 {
   "name": "acgs",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Constitutional AI governance for any agent. Wrap any LLM agent in enforceable rules, audit trails, and separation of powers — in 5 lines of code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "acgs-1.0.0.tar.gz",
-  "download_time": "2026-03-21T12:03:25.549679",
+  "download_filename": "acgs-1.2.0.tar.gz",
+  "download_time": "2026-03-21T13:43:49.459684",
   "package_url": "https://pypi.org/project/acgs/"
 }

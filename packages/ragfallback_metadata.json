@@ -1,0 +1,11 @@
+{
+  "name": "ragfallback",
+  "version": "2.0.0",
+  "summary": "RAG Fallback Strategies - Intelligent fallback mechanisms for RAG systems",
+  "author": "Irfan Ali",
+  "license": null,
+  "home_page": "https://github.com/irfanalidv/ragfallback",
+  "download_filename": "ragfallback-2.0.0.tar.gz",
+  "download_time": "2026-03-21T13:44:09.470115",
+  "package_url": "https://pypi.org/project/ragfallback/"
+}

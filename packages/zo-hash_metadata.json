@@ -1,0 +1,11 @@
+{
+  "name": "zo-hash",
+  "version": "1.0.0",
+  "summary": "A custom sponge-based 256-bit hash with ZO encoding",
+  "author": "sqxy090123",
+  "license": null,
+  "home_page": "https://github.com/sqxy090123/zo-hash",
+  "download_filename": "zo_hash-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-21T13:43:44.144752",
+  "package_url": "https://pypi.org/project/zo-hash/"
+}
