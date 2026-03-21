@@ -1,0 +1,11 @@
+{
+  "name": "animalai",
+  "version": "6.0.0",
+  "summary": "Animal-AI Python API",
+  "author": "Matt Crosby, Ibrahim Alhas, Konstantinos Voudouris, Wout Schellaert, Joel Holmes, Ben Beyret, Ben Slater",
+  "license": null,
+  "home_page": null,
+  "download_filename": "animalai-6.0.0.tar.gz",
+  "download_time": "2026-03-21T11:49:25.382996",
+  "package_url": "https://pypi.org/project/animalai/"
+}

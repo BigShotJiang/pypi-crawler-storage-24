@@ -1,0 +1,11 @@
+{
+  "name": "cockpit-aap-sdk",
+  "version": "0.4.0",
+  "summary": "Python SDK for AAP (Avanade Agentic Platform) — async client with dynamic namespace access and Manifest bootstrap with rules engine and lifecycle tracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cockpit_aap_sdk-0.4.0.tar.gz",
+  "download_time": "2026-03-21T11:49:23.332294",
+  "package_url": "https://pypi.org/project/cockpit-aap-sdk/"
+}

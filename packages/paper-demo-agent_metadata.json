@@ -1,11 +1,11 @@
 {
   "name": "paper-demo-agent",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "summary": "AI agent that reads any scientific paper and builds a live demo",
   "author": "Paper Demo Agent Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "paper_demo_agent-0.3.3.tar.gz",
-  "download_time": "2026-03-21T06:29:54.360944",
+  "download_filename": "paper_demo_agent-0.4.0.tar.gz",
+  "download_time": "2026-03-21T11:49:31.606204",
   "package_url": "https://pypi.org/project/paper-demo-agent/"
 }

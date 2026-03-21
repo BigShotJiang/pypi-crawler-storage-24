@@ -1,11 +1,11 @@
 {
   "name": "bedrock-converse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python SDK for AWS Bedrock Converse API with tool calling, embeddings, and vector search",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bedrock_converse-0.1.1.tar.gz",
-  "download_time": "2026-03-21T11:24:14.819098",
+  "download_filename": "bedrock_converse-0.1.2.tar.gz",
+  "download_time": "2026-03-21T11:49:16.666796",
   "package_url": "https://pypi.org/project/bedrock-converse/"
 }

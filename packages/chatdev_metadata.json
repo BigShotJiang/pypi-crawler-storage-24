@@ -1,0 +1,11 @@
+{
+  "name": "chatdev",
+  "version": "0.1.0",
+  "summary": "Workflow orchestration runtime for ChatDev",
+  "author": "ChatDev Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "chatdev-0.1.0.tar.gz",
+  "download_time": "2026-03-21T11:49:48.728766",
+  "package_url": "https://pypi.org/project/chatdev/"
+}

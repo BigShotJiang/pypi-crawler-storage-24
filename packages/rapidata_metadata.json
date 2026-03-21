@@ -1,11 +1,11 @@
 {
   "name": "rapidata",
-  "version": "3.5.2",
+  "version": "3.5.4",
   "summary": "Rapidata package containing the Rapidata Python Client to interact with the Rapidata Web API in an easy way.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rapidata-3.5.2.tar.gz",
-  "download_time": "2026-03-18T17:21:28.481066",
+  "download_filename": "rapidata-3.5.4.tar.gz",
+  "download_time": "2026-03-21T11:49:31.073806",
   "package_url": "https://pypi.org/project/rapidata/"
 }

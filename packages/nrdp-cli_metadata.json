@@ -1,11 +1,11 @@
 {
   "name": "nrdp-cli",
-  "version": "0.1.1",
+  "version": "0.1.1.post2",
   "summary": "NRDP CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nrdp_cli-0.1.1.tar.gz",
-  "download_time": "2026-03-21T09:01:17.196799",
+  "download_filename": "nrdp_cli-0.1.1.post2.tar.gz",
+  "download_time": "2026-03-21T11:49:36.296582",
   "package_url": "https://pypi.org/project/nrdp-cli/"
 }

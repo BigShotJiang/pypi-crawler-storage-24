@@ -1,0 +1,11 @@
+{
+  "name": "sborniktestov-embed",
+  "version": "1.0.0",
+  "summary": "Embed interactive quizzes from sborniktestov.ru into any website. Generates embed HTML with 20+ customizable parameters.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sborniktestov_embed-1.0.0.tar.gz",
+  "download_time": "2026-03-21T11:49:32.627572",
+  "package_url": "https://pypi.org/project/sborniktestov-embed/"
+}

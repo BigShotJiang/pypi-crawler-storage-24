@@ -1,11 +1,11 @@
 {
   "name": "make-cv",
-  "version": "0.9.1",
+  "version": "0.9.5",
   "summary": "A package to make a faculty c.v. using python and LaTeX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "make_cv-0.9.1.tar.gz",
-  "download_time": "2026-03-09T22:23:51.674173",
+  "download_filename": "make_cv-0.9.5.tar.gz",
+  "download_time": "2026-03-21T11:49:19.743741",
   "package_url": "https://pypi.org/project/make-cv/"
 }

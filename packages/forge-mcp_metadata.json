@@ -1,0 +1,11 @@
+{
+  "name": "forge-mcp",
+  "version": "0.1.0",
+  "summary": "pytest for MCP servers — test any server, no LLM required",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "forge_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-21T11:49:12.563029",
+  "package_url": "https://pypi.org/project/forge-mcp/"
+}
