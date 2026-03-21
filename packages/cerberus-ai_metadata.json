@@ -1,0 +1,11 @@
+{
+  "name": "cerberus-ai",
+  "version": "1.1.0",
+  "summary": "Runtime security platform for agentic AI systems. Detects the Lethal Trifecta: simultaneous privileged data access, untrusted content injection, and outbound exfiltration paths.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cerberus_ai-1.1.0.tar.gz",
+  "download_time": "2026-03-21T07:13:00.400834",
+  "package_url": "https://pypi.org/project/cerberus-ai/"
+}

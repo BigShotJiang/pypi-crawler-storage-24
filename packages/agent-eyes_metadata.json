@@ -1,11 +1,11 @@
 {
   "name": "agent-eyes",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Accessibility-tree vision for AI agents — see and interact with ANY application without screenshots",
   "author": "Jelly Thomas",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_eyes-0.3.1.tar.gz",
-  "download_time": "2026-03-21T06:29:31.377340",
+  "download_filename": "agent_eyes-0.3.3.tar.gz",
+  "download_time": "2026-03-21T07:12:56.568639",
   "package_url": "https://pypi.org/project/agent-eyes/"
 }

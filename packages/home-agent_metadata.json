@@ -1,0 +1,11 @@
+{
+  "name": "home-agent",
+  "version": "0.1.1",
+  "summary": "Windows personal ops agent with pluggable providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "home_agent-0.1.1.tar.gz",
+  "download_time": "2026-03-21T07:13:31.723582",
+  "package_url": "https://pypi.org/project/home-agent/"
+}

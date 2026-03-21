@@ -1,0 +1,11 @@
+{
+  "name": "django-tls-certificate-auth",
+  "version": "1.0.0",
+  "summary": "Django authentication middleware using TLS client certificates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_tls_certificate_auth-1.0.0.tar.gz",
+  "download_time": "2026-03-21T07:13:13.960995",
+  "package_url": "https://pypi.org/project/django-tls-certificate-auth/"
+}

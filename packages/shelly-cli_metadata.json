@@ -1,11 +1,11 @@
 {
   "name": "shelly-cli",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "CLI for managing and controlling Shelly devices",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/rvben/shelly-cli",
-  "download_filename": "shelly_cli-0.1.3.tar.gz",
-  "download_time": "2026-03-20T21:58:32.265676",
+  "download_filename": "shelly_cli-0.1.5.tar.gz",
+  "download_time": "2026-03-21T07:12:34.263173",
   "package_url": "https://pypi.org/project/shelly-cli/"
 }

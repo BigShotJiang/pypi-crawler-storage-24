@@ -1,0 +1,11 @@
+{
+  "name": "siham-advanced",
+  "version": "3.0.0",
+  "summary": "SiHam-Advanced: Advanced AI model with .siham format",
+  "author": "SiHam",
+  "license": "MIT",
+  "home_page": "https://github.com/siham/siham-advanced",
+  "download_filename": "siham_advanced-3.0.0-py3-none-any.whl",
+  "download_time": "2026-03-21T07:12:58.480587",
+  "package_url": "https://pypi.org/project/siham-advanced/"
+}

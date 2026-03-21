@@ -1,11 +1,11 @@
 {
   "name": "pasted",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Pointless Atom STructure with Entropy Diagnostics — structure fuzzer for QC/ML-potential codes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pasted-0.3.1.tar.gz",
-  "download_time": "2026-03-21T06:29:48.541612",
+  "download_filename": "pasted-0.3.2.tar.gz",
+  "download_time": "2026-03-21T07:13:02.307593",
   "package_url": "https://pypi.org/project/pasted/"
 }

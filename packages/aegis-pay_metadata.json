@@ -1,0 +1,11 @@
+{
+  "name": "aegis-pay",
+  "version": "0.2.0",
+  "summary": "Semantic Payment Guardrail for AI Agents",
+  "author": "Aegis Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aegis_pay-0.2.0.tar.gz",
+  "download_time": "2026-03-21T07:13:15.233149",
+  "package_url": "https://pypi.org/project/aegis-pay/"
+}

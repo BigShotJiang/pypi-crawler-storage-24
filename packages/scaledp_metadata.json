@@ -1,0 +1,11 @@
+{
+  "name": "scaledp",
+  "version": "0.3.0",
+  "summary": "ScaleDP is a library for processing documents and images using Apache Spark and LLMs",
+  "author": "Mykola Melnyk",
+  "license": "AGPL-3.0",
+  "home_page": "https://stabrise.com/scaledp/",
+  "download_filename": "scaledp-0.3.0.tar.gz",
+  "download_time": "2026-03-21T07:13:03.594786",
+  "package_url": "https://pypi.org/project/scaledp/"
+}

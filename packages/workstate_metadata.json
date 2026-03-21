@@ -1,0 +1,11 @@
+{
+  "name": "workstate",
+  "version": "2.0.0",
+  "summary": "Portable Development Environment Management Tool",
+  "author": "mtpontes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "workstate-2.0.0.tar.gz",
+  "download_time": "2026-03-21T07:13:22.114576",
+  "package_url": "https://pypi.org/project/workstate/"
+}

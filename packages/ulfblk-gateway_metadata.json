@@ -1,0 +1,11 @@
+{
+  "name": "ulfblk-gateway",
+  "version": "0.1.0",
+  "summary": "API Gateway: rate limiting (Redis/in-memory), reverse proxy, and circuit breaker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ulfblk_gateway-0.1.0.tar.gz",
+  "download_time": "2026-03-21T07:12:49.599539",
+  "package_url": "https://pypi.org/project/ulfblk-gateway/"
+}
