@@ -1,0 +1,11 @@
+{
+  "name": "shallow-backup",
+  "version": "6.5",
+  "summary": "Easily create lightweight backups of installed packages, dotfiles, and more.",
+  "author": "alichtman",
+  "license": null,
+  "home_page": "https://github.com/alichtman/shallow-backup",
+  "download_filename": "shallow_backup-6.5.tar.gz",
+  "download_time": "2026-03-21T11:24:20.566621",
+  "package_url": "https://pypi.org/project/shallow-backup/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "myffe",
-  "version": "1.0.4",
-  "summary": "Feature Engineering Framework - A comprehensive tool for data preprocessing and feature engineering",
+  "version": "1.1.2",
+  "summary": "myffe - A powerful feature engineering framework for data preprocessing and machine learning",
   "author": "wbk",
   "license": null,
   "home_page": "https://github.com/nan-luoyan-nan/myffe",
-  "download_filename": "myffe-1.0.4.tar.gz",
-  "download_time": "2026-03-18T17:21:27.960544",
+  "download_filename": "myffe-1.1.2.tar.gz",
+  "download_time": "2026-03-21T11:24:06.396989",
   "package_url": "https://pypi.org/project/myffe/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fourier-image-similarity",
+  "version": "0.1.0",
+  "summary": "A small, reusable toolkit for Fourier-domain image similarity and reference selection.",
+  "author": "Joseph Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fourier_image_similarity-0.1.0.tar.gz",
+  "download_time": "2026-03-21T11:24:13.792188",
+  "package_url": "https://pypi.org/project/fourier-image-similarity/"
+}

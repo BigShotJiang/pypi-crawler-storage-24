@@ -1,0 +1,11 @@
+{
+  "name": "mimiqcircuits",
+  "version": "0.21.4",
+  "summary": "User API for MIMIQ by QPerfect. Build quantum circuits, schedule remote simulations, and explore simulation results.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mimiqcircuits-0.21.4.tar.gz",
+  "download_time": "2026-03-21T11:24:28.785362",
+  "package_url": "https://pypi.org/project/mimiqcircuits/"
+}

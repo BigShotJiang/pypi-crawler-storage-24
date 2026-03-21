@@ -1,0 +1,11 @@
+{
+  "name": "aiotieba",
+  "version": "4.6.3",
+  "summary": "Asynchronous I/O Client for Baidu Tieba",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiotieba-4.6.3.tar.gz",
+  "download_time": "2026-03-21T11:24:12.264962",
+  "package_url": "https://pypi.org/project/aiotieba/"
+}

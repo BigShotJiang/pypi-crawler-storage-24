@@ -1,0 +1,11 @@
+{
+  "name": "hf-mem",
+  "version": "0.5.1",
+  "summary": "A CLI to estimate inference memory requirements for Hugging Face models, written in Python.",
+  "author": "Alvaro Bartolome",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hf_mem-0.5.1.tar.gz",
+  "download_time": "2026-03-21T11:23:59.052738",
+  "package_url": "https://pypi.org/project/hf-mem/"
+}

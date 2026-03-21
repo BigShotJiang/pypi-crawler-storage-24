@@ -1,11 +1,11 @@
 {
   "name": "mcp-serp",
-  "version": "2026.3.21.1",
+  "version": "2026.3.21.2",
   "summary": "MCP Server for Google SERP Search via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_serp-2026.3.21.1.tar.gz",
-  "download_time": "2026-03-21T10:27:05.943695",
+  "download_filename": "mcp_serp-2026.3.21.2.tar.gz",
+  "download_time": "2026-03-21T11:24:18.473693",
   "package_url": "https://pypi.org/project/mcp-serp/"
 }

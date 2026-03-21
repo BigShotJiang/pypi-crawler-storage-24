@@ -1,0 +1,11 @@
+{
+  "name": "smolagents-lats",
+  "version": "0.1.0",
+  "summary": "LATS (Language Agent Tree Search) agent for smolagents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smolagents_lats-0.1.0.tar.gz",
+  "download_time": "2026-03-21T11:23:58.543039",
+  "package_url": "https://pypi.org/project/smolagents-lats/"
+}
