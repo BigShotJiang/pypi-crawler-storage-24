@@ -1,11 +1,11 @@
 {
   "name": "pytest-remaster",
-  "version": "0.0.0a1",
+  "version": "0.0.0b2",
   "summary": "Golden master testing for pytest with automatic regeneration.",
   "author": "Pierre Sassoulas",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_remaster-0.0.0a1-py3-none-any.whl",
-  "download_time": "2026-03-21T08:32:53.761821",
+  "download_filename": "pytest_remaster-0.0.0b2.tar.gz",
+  "download_time": "2026-03-21T09:33:03.715768",
   "package_url": "https://pypi.org/project/pytest-remaster/"
 }

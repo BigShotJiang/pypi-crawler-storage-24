@@ -1,0 +1,11 @@
+{
+  "name": "chibi",
+  "version": "0.18.0",
+  "summary": "python snippets and other useful things",
+  "author": "dem4ply",
+  "license": "WTFPL",
+  "home_page": "https://github.com/dem4ply/chibi",
+  "download_filename": "chibi-0.18.0.tar.gz",
+  "download_time": "2026-03-21T09:33:07.491575",
+  "package_url": "https://pypi.org/project/chibi/"
+}

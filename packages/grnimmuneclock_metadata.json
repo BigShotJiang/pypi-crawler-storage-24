@@ -1,0 +1,11 @@
+{
+  "name": "grnimmuneclock",
+  "version": "1.1.0",
+  "summary": "Cell-type specific aging clocks for immune cells based on gene regulatory networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grnimmuneclock-1.1.0-py3-none-any.whl",
+  "download_time": "2026-03-21T09:32:52.834176",
+  "package_url": "https://pypi.org/project/grnimmuneclock/"
+}

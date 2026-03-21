@@ -1,0 +1,11 @@
+{
+  "name": "eu-compliance-certificate-generator",
+  "version": "0.1.0",
+  "summary": "Generate cryptographically-verifiable EU AI Act compliance certificates with blockchain anchoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eu_compliance_certificate_generator-0.1.0.tar.gz",
+  "download_time": "2026-03-21T09:33:26.887167",
+  "package_url": "https://pypi.org/project/eu-compliance-certificate-generator/"
+}

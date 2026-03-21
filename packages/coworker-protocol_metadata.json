@@ -1,0 +1,11 @@
+{
+  "name": "coworker-protocol",
+  "version": "0.1.1",
+  "summary": "Wallet-to-wallet AI agent collaboration over XMTP — discover, call, and collaborate across the open internet.",
+  "author": "Ziway Zhao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coworker_protocol-0.1.1.tar.gz",
+  "download_time": "2026-03-21T09:32:43.464849",
+  "package_url": "https://pypi.org/project/coworker-protocol/"
+}

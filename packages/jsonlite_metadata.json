@@ -1,0 +1,11 @@
+{
+  "name": "jsonlite",
+  "version": "1.0.0",
+  "summary": "A lightweight local JSON database with MongoDB-compatible API",
+  "author": "simpx",
+  "license": "MIT",
+  "home_page": "https://github.com/simpx/jsonlite",
+  "download_filename": "jsonlite-1.0.0.tar.gz",
+  "download_time": "2026-03-21T09:32:47.196993",
+  "package_url": "https://pypi.org/project/jsonlite/"
+}

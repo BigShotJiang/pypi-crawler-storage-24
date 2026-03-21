@@ -1,11 +1,11 @@
 {
   "name": "colonyos",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "Autonomous agent loop that turns prompts into shipped PRs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "colonyos-0.2.7.tar.gz",
-  "download_time": "2026-03-21T08:32:32.867633",
+  "download_filename": "colonyos-0.2.8.tar.gz",
+  "download_time": "2026-03-21T09:33:22.009291",
   "package_url": "https://pypi.org/project/colonyos/"
 }

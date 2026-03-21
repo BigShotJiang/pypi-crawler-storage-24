@@ -1,0 +1,11 @@
+{
+  "name": "ayeaye",
+  "version": "0.1.7",
+  "summary": "An ETL (Extract, Transform, Load) framework",
+  "author": "Si Parker",
+  "license": null,
+  "home_page": "https://github.com/Aye-Aye-Dev/AyeAye",
+  "download_filename": "ayeaye-0.1.7.tar.gz",
+  "download_time": "2026-03-21T09:33:27.431210",
+  "package_url": "https://pypi.org/project/ayeaye/"
+}
