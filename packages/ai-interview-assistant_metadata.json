@@ -1,11 +1,11 @@
 {
   "name": "ai-interview-assistant",
-  "version": "1.1.10",
+  "version": "1.2.4",
   "summary": "Ghost background AI assistant for live code challenges",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_interview_assistant-1.1.10.tar.gz",
-  "download_time": "2026-03-20T23:00:19.271392",
+  "download_filename": "ai_interview_assistant-1.2.4.tar.gz",
+  "download_time": "2026-03-21T05:02:24.531996",
   "package_url": "https://pypi.org/project/ai-interview-assistant/"
 }

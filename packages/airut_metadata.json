@@ -1,11 +1,11 @@
 {
   "name": "airut",
-  "version": "0.16.0",
+  "version": "0.18.0",
   "summary": "Sandboxed Claude Code over email and Slack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airut-0.16.0.tar.gz",
-  "download_time": "2026-03-16T04:39:55.924698",
+  "download_filename": "airut-0.18.0.tar.gz",
+  "download_time": "2026-03-21T05:02:30.197646",
   "package_url": "https://pypi.org/project/airut/"
 }

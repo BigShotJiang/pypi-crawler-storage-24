@@ -1,11 +1,11 @@
 {
   "name": "pycbsdk",
-  "version": "9.0.0",
+  "version": "9.1.0",
   "summary": "Python bindings for CereLink SDK (Blackrock Neurotech Cerebus devices)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycbsdk-9.0.0.tar.gz",
-  "download_time": "2026-03-16T11:05:17.665370",
+  "download_filename": "pycbsdk-9.1.0.tar.gz",
+  "download_time": "2026-03-21T05:02:24.020241",
   "package_url": "https://pypi.org/project/pycbsdk/"
 }

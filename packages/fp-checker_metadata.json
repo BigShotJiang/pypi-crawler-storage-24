@@ -1,0 +1,11 @@
+{
+  "name": "fp-checker",
+  "version": "0.1.1",
+  "summary": "A Rust-powered checker for Python functions that violate functional-programming-oriented rules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fp_checker-0.1.1.tar.gz",
+  "download_time": "2026-03-21T05:02:22.492070",
+  "package_url": "https://pypi.org/project/fp-checker/"
+}

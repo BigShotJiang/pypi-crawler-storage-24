@@ -1,0 +1,11 @@
+{
+  "name": "aa-customizer",
+  "version": "1.0.13",
+  "summary": "Branding & customization plugin for Alliance Auth — custom logos, login backgrounds, favicons, and more.",
+  "author": "Thrainkrilleve",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aa_customizer-1.0.13.tar.gz",
+  "download_time": "2026-03-21T05:02:38.427098",
+  "package_url": "https://pypi.org/project/aa-customizer/"
+}

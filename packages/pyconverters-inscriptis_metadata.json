@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-inscriptis",
-  "version": "0.6.11",
+  "version": "0.6.17",
   "summary": "Convert HTML to text using inscriptis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyconverters_inscriptis-0.6.11.tar.gz",
-  "download_time": "2026-03-20T12:04:49.756493",
+  "download_filename": "pyconverters_inscriptis-0.6.17.tar.gz",
+  "download_time": "2026-03-21T05:02:17.884041",
   "package_url": "https://pypi.org/project/pyconverters-inscriptis/"
 }

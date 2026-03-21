@@ -1,11 +1,11 @@
 {
   "name": "sage-memory",
-  "version": "0.5.1",
-  "summary": "A local memory system for AI agents. Project-aware, zero-config, sub-3ms search, graph-traversable.",
+  "version": "0.5.3",
+  "summary": "Ultrafast local MCP memory for LLMs — project-aware, zero-config",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sage_memory-0.5.1.tar.gz",
-  "download_time": "2026-03-20T09:29:31.208029",
+  "download_filename": "sage_memory-0.5.3.tar.gz",
+  "download_time": "2026-03-21T05:02:25.044464",
   "package_url": "https://pypi.org/project/sage-memory/"
 }
