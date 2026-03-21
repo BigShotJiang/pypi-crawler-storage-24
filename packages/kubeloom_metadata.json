@@ -1,0 +1,11 @@
+{
+  "name": "kubeloom",
+  "version": "0.0.2",
+  "summary": "Service mesh policy discovery and management for Kubernetes",
+  "author": "kubeloom contributors",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "kubeloom-0.0.2.tar.gz",
+  "download_time": "2026-03-21T05:45:24.834786",
+  "package_url": "https://pypi.org/project/kubeloom/"
+}

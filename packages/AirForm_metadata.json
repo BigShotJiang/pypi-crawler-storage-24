@@ -1,0 +1,11 @@
+{
+  "name": "AirForm",
+  "version": "0.4.1",
+  "summary": "Pydantic-native form validation and rendering. Define a model, get a validated, rendered HTML form. Works with or without Air web framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airform-0.4.1.tar.gz",
+  "download_time": "2026-03-21T05:45:25.347814",
+  "package_url": "https://pypi.org/project/AirForm/"
+}

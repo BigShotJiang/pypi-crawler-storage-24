@@ -1,0 +1,11 @@
+{
+  "name": "vbagent",
+  "version": "0.3.0",
+  "summary": "Physics question processing library and CLI - classification, LaTeX extraction, variant generation",
+  "author": "vaibhavblayer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vbagent-0.3.0.tar.gz",
+  "download_time": "2026-03-21T05:45:28.448149",
+  "package_url": "https://pypi.org/project/vbagent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cobol-safe-translator",
+  "version": "1.1.2",
+  "summary": "Translate COBOL to Python. Zero dependencies, 100% valid output on 5,288 files. MCP server for AI coding assistants.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cobol_safe_translator-1.1.2.tar.gz",
+  "download_time": "2026-03-21T05:45:35.682574",
+  "package_url": "https://pypi.org/project/cobol-safe-translator/"
+}

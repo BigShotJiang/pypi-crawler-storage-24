@@ -1,11 +1,11 @@
 {
   "name": "fx-alfred",
-  "version": "0.12.0",
-  "summary": "CLI for the Alfred document management system",
+  "version": "1.0.3",
+  "summary": "Alfred — Agent Runbook: workflow routing, SOP checklists, and document management for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fx_alfred-0.12.0.tar.gz",
-  "download_time": "2026-03-20T23:29:36.157034",
+  "download_filename": "fx_alfred-1.0.3.tar.gz",
+  "download_time": "2026-03-21T05:45:54.778412",
   "package_url": "https://pypi.org/project/fx-alfred/"
 }

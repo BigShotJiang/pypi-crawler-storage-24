@@ -1,0 +1,11 @@
+{
+  "name": "JAX-PCMCI",
+  "version": "1.4.0",
+  "summary": "High-performance causal discovery using PCMCI algorithms with JAX acceleration",
+  "author": "JAX-PCMCI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jax_pcmci-1.4.0.tar.gz",
+  "download_time": "2026-03-21T05:45:52.185904",
+  "package_url": "https://pypi.org/project/JAX-PCMCI/"
+}

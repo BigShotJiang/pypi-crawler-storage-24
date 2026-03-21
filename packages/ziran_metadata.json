@@ -1,11 +1,11 @@
 {
   "name": "ziran",
-  "version": "0.14.0",
+  "version": "0.17.0",
   "summary": "AI Agent Security Testing — discovers dangerous tool chain compositions via knowledge graph analysis",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ziran-0.14.0.tar.gz",
-  "download_time": "2026-03-20T19:40:07.492484",
+  "download_filename": "ziran-0.17.0.tar.gz",
+  "download_time": "2026-03-21T05:46:00.954670",
   "package_url": "https://pypi.org/project/ziran/"
 }

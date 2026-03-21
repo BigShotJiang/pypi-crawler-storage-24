@@ -1,0 +1,11 @@
+{
+  "name": "UzbekTagger",
+  "version": "1.1.1",
+  "summary": "Part of Speech Tagger for Uzbek Language.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uzbektagger-1.1.1.tar.gz",
+  "download_time": "2026-03-21T05:45:29.499529",
+  "package_url": "https://pypi.org/project/UzbekTagger/"
+}

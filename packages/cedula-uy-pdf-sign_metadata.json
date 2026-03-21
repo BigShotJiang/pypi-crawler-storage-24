@@ -1,11 +1,11 @@
 {
   "name": "cedula-uy-pdf-sign",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Sign PDFs with Uruguayan national ID (cédula) via PKCS#11, generating cryptographic PDF signatures visually compatible with signatures produced by the official Uruguayan cédula software. Not affiliated with AGESIC.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cedula_uy_pdf_sign-0.1.0.tar.gz",
-  "download_time": "2026-03-21T05:02:50.763646",
+  "download_filename": "cedula_uy_pdf_sign-0.1.2.tar.gz",
+  "download_time": "2026-03-21T05:46:02.487811",
   "package_url": "https://pypi.org/project/cedula-uy-pdf-sign/"
 }

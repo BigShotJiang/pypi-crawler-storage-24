@@ -1,11 +1,11 @@
 {
   "name": "ezop",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "Ezop SDK - The story of every AI agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ezop-0.0.5.tar.gz",
-  "download_time": "2026-03-18T06:48:23.638464",
+  "download_filename": "ezop-0.0.7.tar.gz",
+  "download_time": "2026-03-21T05:45:56.833756",
   "package_url": "https://pypi.org/project/ezop/"
 }

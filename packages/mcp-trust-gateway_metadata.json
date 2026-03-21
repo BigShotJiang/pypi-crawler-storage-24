@@ -1,0 +1,11 @@
+{
+  "name": "mcp-trust-gateway",
+  "version": "0.0.1",
+  "summary": "Trust verification gateway for MCP — policy enforcement, approval workflows, and audit logging for agent-tool connections",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_trust_gateway-0.0.1.tar.gz",
+  "download_time": "2026-03-21T05:45:48.026540",
+  "package_url": "https://pypi.org/project/mcp-trust-gateway/"
+}
