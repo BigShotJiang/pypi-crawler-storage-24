@@ -1,0 +1,11 @@
+{
+  "name": "ldapx",
+  "version": "0.1.1",
+  "summary": "LDAP query obfuscation library - Python port of github.com/Macmod/ldapx",
+  "author": "João Paulo Assis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ldapx-0.1.1.tar.gz",
+  "download_time": "2026-03-21T19:06:35.240838",
+  "package_url": "https://pypi.org/project/ldapx/"
+}

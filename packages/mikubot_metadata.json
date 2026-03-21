@@ -1,0 +1,11 @@
+{
+  "name": "mikubot",
+  "version": "0.1.0",
+  "summary": "Discord bot used for the Eden-Project Discord server.",
+  "author": "Jay184",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mikubot-0.1.0.tar.gz",
+  "download_time": "2026-03-21T19:06:21.361612",
+  "package_url": "https://pypi.org/project/mikubot/"
+}

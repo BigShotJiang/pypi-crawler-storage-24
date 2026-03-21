@@ -1,0 +1,11 @@
+{
+  "name": "pubgate",
+  "version": "0.1.0",
+  "summary": "Sync an internal repo with a public repo through reviewed PRs",
+  "author": "Ardi Loot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pubgate-0.1.0.tar.gz",
+  "download_time": "2026-03-21T19:06:32.569674",
+  "package_url": "https://pypi.org/project/pubgate/"
+}

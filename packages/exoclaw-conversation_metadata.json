@@ -1,11 +1,11 @@
 {
   "name": "exoclaw-conversation",
-  "version": "0.2.1",
+  "version": "0.7.0",
   "summary": "File-backed conversation implementation for exoclaw",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exoclaw_conversation-0.2.1.tar.gz",
-  "download_time": "2026-03-16T01:57:11.830481",
+  "download_filename": "exoclaw_conversation-0.7.0.tar.gz",
+  "download_time": "2026-03-21T19:06:06.313646",
   "package_url": "https://pypi.org/project/exoclaw-conversation/"
 }

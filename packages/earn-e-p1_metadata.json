@@ -1,0 +1,11 @@
+{
+  "name": "earn-e-p1",
+  "version": "0.1.0",
+  "summary": "Async Python library for communicating with EARN-E P1 energy meters via UDP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "earn_e_p1-0.1.0.tar.gz",
+  "download_time": "2026-03-21T19:06:23.514117",
+  "package_url": "https://pypi.org/project/earn-e-p1/"
+}

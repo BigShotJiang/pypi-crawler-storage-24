@@ -1,11 +1,11 @@
 {
   "name": "pytorch-bsf",
-  "version": "0.13.4",
+  "version": "0.14.2",
   "summary": "PyTorch implementation of Bezier simplex fitting",
-  "author": "FUJITSU LIMITED and Naoki Hamada",
+  "author": "OptHub Inc. and FUJITSU LIMITED",
   "license": "MIT",
-  "home_page": "https://github.com/NaokiHamada/pytorch-bsf",
-  "download_filename": "pytorch_bsf-0.13.4.tar.gz",
-  "download_time": "2026-03-15T20:25:37.901492",
+  "home_page": "https://github.com/opthub-org/pytorch-bsf",
+  "download_filename": "pytorch_bsf-0.14.2.tar.gz",
+  "download_time": "2026-03-21T19:06:26.694177",
   "package_url": "https://pypi.org/project/pytorch-bsf/"
 }

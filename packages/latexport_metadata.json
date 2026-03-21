@@ -1,11 +1,11 @@
 {
   "name": "latexport",
-  "version": "2026.3.0",
+  "version": "2026.3.2",
   "summary": "Convert LaTeX documents to accessible HTML with PDF output",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "latexport-2026.3.0.tar.gz",
-  "download_time": "2026-03-21T18:34:52.296487",
+  "download_filename": "latexport-2026.3.2.tar.gz",
+  "download_time": "2026-03-21T19:06:13.870000",
   "package_url": "https://pypi.org/project/latexport/"
 }

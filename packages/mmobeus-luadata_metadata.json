@@ -1,11 +1,11 @@
 {
   "name": "mmobeus-luadata",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Convert Lua data files (e.g. WoW SavedVariables) to JSON/Python objects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mmobeus_luadata-0.1.9.tar.gz",
-  "download_time": "2026-03-20T06:13:51.947087",
+  "download_filename": "mmobeus_luadata-0.1.11.tar.gz",
+  "download_time": "2026-03-21T19:06:16.574520",
   "package_url": "https://pypi.org/project/mmobeus-luadata/"
 }

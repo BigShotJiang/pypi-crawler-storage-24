@@ -1,11 +1,11 @@
 {
   "name": "polyguard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A module that provides a set of swearwords to listen to when filtering while allowing to toggle on and off different languages.",
-  "author": "Henry Letellier",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/Hanra-s-work/polyguard",
-  "download_filename": "polyguard-1.0.0.tar.gz",
-  "download_time": "2026-03-13T22:25:09.498516",
+  "home_page": null,
+  "download_filename": "polyguard-1.0.1.tar.gz",
+  "download_time": "2026-03-21T19:06:01.421438",
   "package_url": "https://pypi.org/project/polyguard/"
 }

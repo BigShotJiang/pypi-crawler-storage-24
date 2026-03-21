@@ -1,11 +1,11 @@
 {
   "name": "pytest-imply",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Pytest plugin for test implication — skip tests implied by stronger ones",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_imply-0.1.6.tar.gz",
-  "download_time": "2026-03-21T12:03:33.718198",
+  "download_filename": "pytest_imply-0.1.7.tar.gz",
+  "download_time": "2026-03-21T19:06:37.369869",
   "package_url": "https://pypi.org/project/pytest-imply/"
 }

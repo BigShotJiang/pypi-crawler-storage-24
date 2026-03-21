@@ -1,0 +1,11 @@
+{
+  "name": "vaultmem",
+  "version": "0.1.2",
+  "summary": "Zero-knowledge encrypted memory library for personal AI agents",
+  "author": "Avinash Gosavi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vaultmem-0.1.2.tar.gz",
+  "download_time": "2026-03-21T19:06:26.164703",
+  "package_url": "https://pypi.org/project/vaultmem/"
+}

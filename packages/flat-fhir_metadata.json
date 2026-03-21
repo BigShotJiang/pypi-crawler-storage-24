@@ -1,11 +1,11 @@
 {
   "name": "flat-fhir",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Convert FHIR JSON bundles into flat, LLM-friendly XLSX spreadsheets.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flat_fhir-0.1.2.tar.gz",
-  "download_time": "2026-03-21T09:01:11.548836",
+  "download_filename": "flat_fhir-0.1.4.tar.gz",
+  "download_time": "2026-03-21T19:06:37.899281",
   "package_url": "https://pypi.org/project/flat-fhir/"
 }

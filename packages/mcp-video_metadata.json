@@ -1,11 +1,11 @@
 {
   "name": "mcp-video",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Video editing MCP server for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_video-0.2.0.tar.gz",
-  "download_time": "2026-03-21T16:01:59.339545",
+  "download_filename": "mcp_video-0.3.0.tar.gz",
+  "download_time": "2026-03-21T19:06:36.838464",
   "package_url": "https://pypi.org/project/mcp-video/"
 }

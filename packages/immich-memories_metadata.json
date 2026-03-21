@@ -1,11 +1,11 @@
 {
   "name": "immich-memories",
-  "version": "0.21.3",
+  "version": "0.21.5",
   "summary": "Turn your Immich photo library into video memory compilations with music and smart cuts",
   "author": "Immich Memories Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "immich_memories-0.21.3.tar.gz",
-  "download_time": "2026-03-21T16:58:23.601725",
+  "download_filename": "immich_memories-0.21.5.tar.gz",
+  "download_time": "2026-03-21T19:06:07.935921",
   "package_url": "https://pypi.org/project/immich-memories/"
 }

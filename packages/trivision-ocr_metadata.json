@@ -1,0 +1,11 @@
+{
+  "name": "trivision-ocr",
+  "version": "1.0.0",
+  "summary": "Multi-engine OCR pipeline — beats Google Vision API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trivision_ocr-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-21T19:06:00.863991",
+  "package_url": "https://pypi.org/project/trivision-ocr/"
+}

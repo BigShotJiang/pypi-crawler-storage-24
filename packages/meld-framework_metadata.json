@@ -1,0 +1,11 @@
+{
+  "name": "meld-framework",
+  "version": "0.1.0",
+  "summary": "Replay-free continual-learning framework for safe incremental model updates in vision and NLP.",
+  "author": "anikeaty08",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meld_framework-0.1.0.tar.gz",
+  "download_time": "2026-03-21T19:06:25.105576",
+  "package_url": "https://pypi.org/project/meld-framework/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "proxym",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "Intelligent AI proxy with multi-provider routing, semantic caching, and delta context buffers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proxym-0.1.6.tar.gz",
-  "download_time": "2026-03-21T17:55:07.154946",
+  "download_filename": "proxym-0.1.9.tar.gz",
+  "download_time": "2026-03-21T19:05:51.376044",
   "package_url": "https://pypi.org/project/proxym/"
 }

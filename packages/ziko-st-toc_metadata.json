@@ -1,11 +1,11 @@
 {
   "name": "ziko-st-toc",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "A Streamlit component that generates an interactive Table of Contents (TOC) with smooth scrolling and navigation.",
   "author": "zakaria.elalaloui",
   "license": null,
-  "home_page": "https://ziko-st-toc.streamlit.app/",
-  "download_filename": "ziko_st_toc-1.0.3.tar.gz",
-  "download_time": "2026-03-14T13:54:07.770368",
+  "home_page": "https://ziko-st-toc.netlify.app/",
+  "download_filename": "ziko_st_toc-1.0.5.tar.gz",
+  "download_time": "2026-03-21T19:06:03.062588",
   "package_url": "https://pypi.org/project/ziko-st-toc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "clara-opt",
+  "version": "0.1.0",
+  "summary": "A white-box optimization solver that explains why solutions are optimal, when reoptimization is needed, and what changed.",
+  "author": "Yoonsik Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clara_opt-0.1.0.tar.gz",
+  "download_time": "2026-03-21T19:06:04.663385",
+  "package_url": "https://pypi.org/project/clara-opt/"
+}
