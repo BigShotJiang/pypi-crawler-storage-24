@@ -1,0 +1,11 @@
+{
+  "name": "pyvider",
+  "version": "0.3.21",
+  "summary": "Python Terraform Provider Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvider-0.3.21.tar.gz",
+  "download_time": "2026-03-21T23:50:45.200151",
+  "package_url": "https://pypi.org/project/pyvider/"
+}

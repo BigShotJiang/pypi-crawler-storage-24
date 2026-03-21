@@ -1,0 +1,11 @@
+{
+  "name": "generac-pwrview",
+  "version": "0.1.0",
+  "summary": "Async Python client for Generac PWRview / Neurio energy monitors",
+  "author": "Kevin Mills",
+  "license": null,
+  "home_page": null,
+  "download_filename": "generac_pwrview-0.1.0.tar.gz",
+  "download_time": "2026-03-21T23:50:44.127345",
+  "package_url": "https://pypi.org/project/generac-pwrview/"
+}

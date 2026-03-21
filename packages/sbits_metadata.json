@@ -1,0 +1,11 @@
+{
+  "name": "sbits",
+  "version": "0.1.0",
+  "summary": "Succinct data structures: BitVector with O(1) rank/select, Elias-Fano, WaveletTree.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "sbits-0.1.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-03-21T23:51:16.726661",
+  "package_url": "https://pypi.org/project/sbits/"
+}

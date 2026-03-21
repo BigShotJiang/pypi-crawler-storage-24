@@ -1,11 +1,11 @@
 {
   "name": "rocketride",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "RocketRide Pipeline Python Client SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rocketride-1.0.3.tar.gz",
-  "download_time": "2026-03-21T21:25:07.869120",
+  "download_filename": "rocketride-1.0.4.tar.gz",
+  "download_time": "2026-03-21T23:51:06.791482",
   "package_url": "https://pypi.org/project/rocketride/"
 }

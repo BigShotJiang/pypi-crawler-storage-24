@@ -1,11 +1,11 @@
 {
   "name": "vigil-agent",
-  "version": "0.5.0",
+  "version": "1.0.1",
   "summary": "Cognitive infrastructure for AI agents — awareness daemon, frame-based tool filtering, signal protocol, session handoff, and MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vigil_agent-0.5.0.tar.gz",
-  "download_time": "2026-03-21T22:54:55.037082",
+  "download_filename": "vigil_agent-1.0.1.tar.gz",
+  "download_time": "2026-03-21T23:51:24.969458",
   "package_url": "https://pypi.org/project/vigil-agent/"
 }

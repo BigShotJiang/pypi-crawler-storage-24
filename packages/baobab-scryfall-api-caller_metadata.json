@@ -1,0 +1,11 @@
+{
+  "name": "baobab-scryfall-api-caller",
+  "version": "1.0.0",
+  "summary": "Client Python pour l'API Scryfall base sur baobab-web-api-caller.",
+  "author": "Baobab Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "baobab_scryfall_api_caller-1.0.0.tar.gz",
+  "download_time": "2026-03-21T23:51:08.410222",
+  "package_url": "https://pypi.org/project/baobab-scryfall-api-caller/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jamma",
-  "version": "4.3.1",
+  "version": "4.4.0",
   "summary": "High-performance Multi-method Mixed-Model Association for large-scale GWAS",
   "author": "JAMMA Contributors",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "jamma-4.3.1-cp311-cp311-macosx_14_0_arm64.whl",
-  "download_time": "2026-03-21T20:54:56.005441",
+  "download_filename": "jamma-4.4.0-cp311-cp311-macosx_14_0_arm64.whl",
+  "download_time": "2026-03-21T23:50:50.045712",
   "package_url": "https://pypi.org/project/jamma/"
 }

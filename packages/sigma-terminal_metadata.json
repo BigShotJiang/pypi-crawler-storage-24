@@ -1,0 +1,11 @@
+{
+  "name": "sigma-terminal",
+  "version": "3.7.1",
+  "summary": "Sigma - Finance Research Agent",
+  "author": "Desenyon",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "sigma_terminal-3.7.1.tar.gz",
+  "download_time": "2026-03-21T23:50:45.735193",
+  "package_url": "https://pypi.org/project/sigma-terminal/"
+}

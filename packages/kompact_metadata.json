@@ -1,11 +1,11 @@
 {
   "name": "kompact",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Multi-layer context optimization proxy for LLM agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kompact-0.2.0.tar.gz",
-  "download_time": "2026-03-21T23:26:00.721706",
+  "download_filename": "kompact-0.3.0.tar.gz",
+  "download_time": "2026-03-21T23:50:51.116562",
   "package_url": "https://pypi.org/project/kompact/"
 }

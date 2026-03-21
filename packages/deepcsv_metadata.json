@@ -1,0 +1,11 @@
+{
+  "name": "deepcsv",
+  "version": "0.1.0",
+  "summary": "Automatically walks folders and converts list strings to lists in CSV/XLSX files",
+  "author": "Abdullah Bakr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepcsv-0.1.0.tar.gz",
+  "download_time": "2026-03-21T23:51:15.072052",
+  "package_url": "https://pypi.org/project/deepcsv/"
+}

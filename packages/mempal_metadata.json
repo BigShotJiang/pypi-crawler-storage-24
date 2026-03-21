@@ -1,0 +1,11 @@
+{
+  "name": "mempal",
+  "version": "1.0.1",
+  "summary": "Give your AI a memory — mine projects and conversations into a searchable palace. No API key required.",
+  "author": "aya-thekeeper",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mempal-1.0.1.tar.gz",
+  "download_time": "2026-03-21T23:51:05.715951",
+  "package_url": "https://pypi.org/project/mempal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyvider-cty",
+  "version": "0.3.21",
+  "summary": "Pure-Python implementation of the go-cty type system with strong validation, serialization, and Terraform interoperability",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvider_cty-0.3.21.tar.gz",
+  "download_time": "2026-03-21T23:50:49.500181",
+  "package_url": "https://pypi.org/project/pyvider-cty/"
+}

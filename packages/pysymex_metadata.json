@@ -1,0 +1,11 @@
+{
+  "name": "pysymex",
+  "version": "0.1.0a1",
+  "summary": "EDUCATIONAL PURPOSES ONLY: A symbolic execution engine for studying formal verification concepts. Not for production use.",
+  "author": "PySyMex Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysymex-0.1.0a1.tar.gz",
+  "download_time": "2026-03-21T23:51:23.864618",
+  "package_url": "https://pypi.org/project/pysymex/"
+}
