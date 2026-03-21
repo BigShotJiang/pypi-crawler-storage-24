@@ -1,0 +1,11 @@
+{
+  "name": "tatort-sorter",
+  "version": "2026.3.21.1",
+  "summary": "Moves and renames Tatort episodes into sub-folders according to the Ermittler based on the Wikipedia episode list",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tatort_sorter-2026.3.21.1.tar.gz",
+  "download_time": "2026-03-21T14:49:26.796717",
+  "package_url": "https://pypi.org/project/tatort-sorter/"
+}

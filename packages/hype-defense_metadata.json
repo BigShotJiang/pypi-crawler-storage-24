@@ -1,11 +1,11 @@
 {
   "name": "hype-defense",
-  "version": "0.1.0",
-  "summary": "HyPE: Hyperbolic Prompt Detection and Sanitization (ICLR 2026)",
-  "author": "HyPE-VLM",
+  "version": "0.1.1",
+  "summary": "HyPE: Hyperbolic Prompt Espial (ICLR 2026)",
+  "author": null,
   "license": "LICENSE\n        \n        Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International\n        (CC BY-NC-ND 4.0)\n        \n        This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.\n        \n        You are free to:\n        \n        Share — copy and redistribute the material in any medium or format\n        Under the following terms:\n        \n        Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\n        \n        NonCommercial — You may not use the material for commercial purposes.\n        \n        NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.\n        \n        No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n        \n        Full License Text:\n        To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/\n        \n        © [Authors] [2026]",
   "home_page": null,
-  "download_filename": "hype_defense-0.1.0.tar.gz",
-  "download_time": "2026-03-17T12:08:23.430847",
+  "download_filename": "hype_defense-0.1.1.tar.gz",
+  "download_time": "2026-03-21T14:49:17.536458",
   "package_url": "https://pypi.org/project/hype-defense/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cisco-aidefense-sdk",
+  "version": "2.1.0",
+  "summary": "Cisco AI Defense Python SDK",
+  "author": "Shiva Guntoju",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cisco_aidefense_sdk-2.1.0.tar.gz",
+  "download_time": "2026-03-21T14:49:37.673615",
+  "package_url": "https://pypi.org/project/cisco-aidefense-sdk/"
+}

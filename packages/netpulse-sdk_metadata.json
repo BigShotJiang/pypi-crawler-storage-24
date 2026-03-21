@@ -1,0 +1,11 @@
+{
+  "name": "netpulse-sdk",
+  "version": "0.3.4",
+  "summary": "Python SDK for NetPulse API 0.4.0+ Network Automation Platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netpulse_sdk-0.3.4.tar.gz",
+  "download_time": "2026-03-21T14:49:36.131268",
+  "package_url": "https://pypi.org/project/netpulse-sdk/"
+}

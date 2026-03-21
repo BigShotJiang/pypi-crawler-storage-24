@@ -1,11 +1,11 @@
 {
   "name": "VertexEngine",
-  "version": "1.7.1",
+  "version": "1.7.3",
   "summary": "A high-performance SDK for Python Development.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vertexengine-1.7.1.tar.gz",
-  "download_time": "2026-03-17T13:55:01.450663",
+  "download_filename": "vertexengine-1.7.3.tar.gz",
+  "download_time": "2026-03-21T14:49:41.790528",
   "package_url": "https://pypi.org/project/VertexEngine/"
 }

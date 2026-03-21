@@ -1,0 +1,11 @@
+{
+  "name": "elastalert2",
+  "version": "2.29.0",
+  "summary": "Automated rule-based alerting for Elasticsearch",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/jertel/elastalert2",
+  "download_filename": "elastalert2-2.29.0.tar.gz",
+  "download_time": "2026-03-21T14:49:27.825011",
+  "package_url": "https://pypi.org/project/elastalert2/"
+}

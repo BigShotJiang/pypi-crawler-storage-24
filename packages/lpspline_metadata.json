@@ -1,11 +1,11 @@
 {
   "name": "lpspline",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "lpspline",
   "author": "clarkmaio",
   "license": null,
   "home_page": "https://lpspline.readthedocs.io/en/latest/",
-  "download_filename": "lpspline-0.1.8.tar.gz",
-  "download_time": "2026-03-08T17:27:51.057654",
+  "download_filename": "lpspline-0.1.11.tar.gz",
+  "download_time": "2026-03-21T14:49:36.642617",
   "package_url": "https://pypi.org/project/lpspline/"
 }

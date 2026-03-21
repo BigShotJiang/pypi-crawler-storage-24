@@ -1,0 +1,11 @@
+{
+  "name": "finhjb",
+  "version": "0.1.5",
+  "summary": "This is a Python library for solving Hamilton-Jacobi-Bellman (HJB) equations using JAX. It provides a framework for numerical solutions to dynamic optimization problems in finance and economics.",
+  "author": "Haotian Deng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finhjb-0.1.5.tar.gz",
+  "download_time": "2026-03-21T14:49:43.848420",
+  "package_url": "https://pypi.org/project/finhjb/"
+}

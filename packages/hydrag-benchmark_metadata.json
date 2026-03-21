@@ -1,11 +1,11 @@
 {
   "name": "hydrag-benchmark",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Local-only RAG benchmarking CLI — measures recall, MRR, chunk overlap, latency, and BEIR IR metrics",
   "author": "Studio Playbook Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "hydrag_benchmark-0.5.4.tar.gz",
-  "download_time": "2026-03-19T00:08:51.197583",
+  "download_filename": "hydrag_benchmark-0.5.5.tar.gz",
+  "download_time": "2026-03-21T14:49:57.638386",
   "package_url": "https://pypi.org/project/hydrag-benchmark/"
 }
