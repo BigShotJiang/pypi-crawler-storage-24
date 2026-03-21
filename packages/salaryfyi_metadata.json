@@ -1,0 +1,11 @@
+{
+  "name": "salaryfyi",
+  "version": "0.1.1",
+  "summary": "Salary comparison and tax calculator API client — salaryfyi.com",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "salaryfyi-0.1.1.tar.gz",
+  "download_time": "2026-03-21T15:39:30.219867",
+  "package_url": "https://pypi.org/project/salaryfyi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "loci-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the Loci API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loci_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-21T15:39:20.347171",
+  "package_url": "https://pypi.org/project/loci-sdk/"
+}

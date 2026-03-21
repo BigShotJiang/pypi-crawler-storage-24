@@ -1,11 +1,11 @@
 {
   "name": "docxnote",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Lightweight DOCX comment engine based on text view API",
   "author": "touken",
   "license": null,
   "home_page": null,
-  "download_filename": "docxnote-0.1.0.tar.gz",
-  "download_time": "2026-03-21T12:51:16.594669",
+  "download_filename": "docxnote-0.1.1.tar.gz",
+  "download_time": "2026-03-21T15:39:42.243225",
   "package_url": "https://pypi.org/project/docxnote/"
 }

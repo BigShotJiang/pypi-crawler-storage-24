@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-node-parser-kreuzberg",
+  "version": "0.1.0",
+  "summary": "Element-aware LlamaIndex node parser for kreuzberg-extracted documents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_node_parser_kreuzberg-0.1.0.tar.gz",
+  "download_time": "2026-03-21T15:39:37.584679",
+  "package_url": "https://pypi.org/project/llama-index-node-parser-kreuzberg/"
+}

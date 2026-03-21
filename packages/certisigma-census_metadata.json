@@ -1,11 +1,11 @@
 {
   "name": "certisigma-census",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "summary": "Cryptographic file inventory and exfiltration detection — powered by CertiSigma",
   "author": "Ten Sigma Sagl",
   "license": null,
   "home_page": null,
-  "download_filename": "certisigma_census-1.12.0.tar.gz",
-  "download_time": "2026-03-21T14:08:09.978932",
+  "download_filename": "certisigma_census-1.12.1.tar.gz",
+  "download_time": "2026-03-21T15:39:19.723381",
   "package_url": "https://pypi.org/project/certisigma-census/"
 }
