@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-21T11:49:56.393361
-- **Total Packages**: 91
-- **Total Size**: 58.81 MB
+- **Download Time**: 2026-03-21T12:04:08.842758
+- **Total Packages**: 89
+- **Total Size**: 19.71 MB
 
 ## Packages List
+- ailoos
+- soplex-ai
+- lightclaw
+- picoparser
+- late-sdk
+- agent-forge-installer
+- zernio-sdk
+- acgs
+- cogmem-agent
+- claude-max-proxy-py
+- tcode
+- boxer-sdk
+- capit
+- unihan-db
+- terradoc
+- cachemind
+- pymetallum
+- provero
+- usipipo-commons
+- airbyte-source-shopify
+- teenyagent
+- pytest-imply
+- nibble-cli
+- celerity-sdk
+- dcp-provider
+- manifoldbt
+- mini-game-tools
+- ghostty-rice
+- gfn
+- dc1-provider
+- IVAN-GEY-5558
+- json-to-schema
+- codexsync
+- modernplot
 - marimo-learn
 - vidcontext-mcp
 - bdv
@@ -25,17 +59,14 @@
 - clawmonitor
 - phantom-agent
 - gede
-- capit
 - make-cv
 - r-bridge
 - py-asyncutils
 - shallow-backup
 - fastvpn-schemas
-- cachemind
 - asn1Play
 - cockpit-aap-sdk
 - server-simulator
-- codexsync
 - akshare
 - animalai
 - django-rls-tenants
@@ -55,7 +86,6 @@
 - Toma-lox
 - context-use
 - csfpy
-- ailoos
 - loony-cli
 - bazinga-indeed
 - nrdp-cli
@@ -65,35 +95,3 @@
 - smartmemory-core
 - retinalysis-enface
 - pixlstash
-- basic-svg-chart
-- torchx-nightly
-- gjhjkm
-- patly
-- odoo-addon-pms
-- zayt
-- spotforecast2
-- graqle
-- tad-multicharge
-- iron-monk
-- torchft-nightly
-- Photini
-- cendry
-- ormah
-- skskills
-- mi-fitness
-- openviking
-- chatdev
-- alpha-avatar-plugins-rag
-- alpha-avatar-plugins-persona
-- alpha-avatar-plugins-memory
-- alpha-avatar-plugins-mcp
-- pharma-ai-agent
-- alpha-avatar-plugins-deepresearch
-- alpha-avatar-plugins-character
-- ha-mcp-dev
-- alpha-avatar-channels-whatsapp
-- murmel
-- fastapi-health-template
-- alpha-avatar-agents
-- korean-pharma-data
-- confection

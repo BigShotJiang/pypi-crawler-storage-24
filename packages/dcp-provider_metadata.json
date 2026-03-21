@@ -1,0 +1,11 @@
+{
+  "name": "dcp-provider",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for the DC1 GPU compute marketplace",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dcp_provider-0.1.0.tar.gz",
+  "download_time": "2026-03-21T12:03:35.430647",
+  "package_url": "https://pypi.org/project/dcp-provider/"
+}

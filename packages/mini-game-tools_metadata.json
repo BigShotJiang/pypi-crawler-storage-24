@@ -1,11 +1,11 @@
 {
   "name": "mini-game-tools",
-  "version": "1.22.0",
+  "version": "1.23.0",
   "summary": "一个做着玩的游戏工具库",
   "author": "Li Mo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mini_game_tools-1.22.0.tar.gz",
-  "download_time": "2026-03-21T05:02:49.741562",
+  "download_filename": "mini_game_tools-1.23.0.tar.gz",
+  "download_time": "2026-03-21T12:03:36.461081",
   "package_url": "https://pypi.org/project/mini-game-tools/"
 }

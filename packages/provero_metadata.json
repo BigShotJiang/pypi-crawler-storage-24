@@ -1,11 +1,11 @@
 {
   "name": "provero",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A vendor-neutral, declarative data quality engine",
   "author": "Provero Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "provero-0.1.1.tar.gz",
-  "download_time": "2026-03-16T20:36:57.261254",
+  "download_filename": "provero-0.2.0.tar.gz",
+  "download_time": "2026-03-21T12:03:31.558532",
   "package_url": "https://pypi.org/project/provero/"
 }
