@@ -1,11 +1,11 @@
 {
   "name": "python-roborock",
-  "version": "4.26.1",
+  "version": "4.26.2",
   "summary": "A package to control Roborock vacuums.",
   "author": "Lash-L, allenporter",
   "license": null,
   "home_page": null,
-  "download_filename": "python_roborock-4.26.1.tar.gz",
-  "download_time": "2026-03-21T19:06:33.650142",
+  "download_filename": "python_roborock-4.26.2.tar.gz",
+  "download_time": "2026-03-21T20:00:15.351765",
   "package_url": "https://pypi.org/project/python-roborock/"
 }

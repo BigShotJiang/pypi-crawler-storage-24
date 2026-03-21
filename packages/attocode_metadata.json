@@ -1,11 +1,11 @@
 {
   "name": "attocode",
-  "version": "0.1.18",
+  "version": "0.2.4",
   "summary": "Production AI coding agent",
   "author": "eren23",
   "license": null,
   "home_page": null,
-  "download_filename": "attocode-0.1.18.tar.gz",
-  "download_time": "2026-03-08T19:56:59.719234",
+  "download_filename": "attocode-0.2.4.tar.gz",
+  "download_time": "2026-03-21T19:59:45.503262",
   "package_url": "https://pypi.org/project/attocode/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "runar",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Runar - TypeScript-to-Bitcoin Script Compiler (Python runtime)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "runar-0.3.1.tar.gz",
-  "download_time": "2026-03-17T08:34:42.253362",
+  "download_filename": "runar-0.3.3.tar.gz",
+  "download_time": "2026-03-21T19:59:41.816151",
   "package_url": "https://pypi.org/project/runar/"
 }

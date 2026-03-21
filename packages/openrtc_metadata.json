@@ -1,11 +1,11 @@
 {
   "name": "openrtc",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "Run multiple LiveKit voice agents in a single shared worker process.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openrtc-0.0.8.tar.gz",
-  "download_time": "2026-03-21T14:49:34.598225",
+  "download_filename": "openrtc-0.0.10.tar.gz",
+  "download_time": "2026-03-21T19:59:52.860225",
   "package_url": "https://pypi.org/project/openrtc/"
 }

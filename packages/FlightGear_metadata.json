@@ -1,0 +1,11 @@
+{
+  "name": "FlightGear",
+  "version": "1.2.0",
+  "summary": "Tooling for the FlightGear flight simulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flightgear-1.2.0.tar.gz",
+  "download_time": "2026-03-21T20:00:04.362473",
+  "package_url": "https://pypi.org/project/FlightGear/"
+}

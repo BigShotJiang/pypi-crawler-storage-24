@@ -1,11 +1,11 @@
 {
   "name": "crabbymetrics",
-  "version": "0.3.0",
-  "summary": null,
+  "version": "0.3.1",
+  "summary": "Rust-backed econometrics models with a scikit-adjacent Python API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crabbymetrics-0.3.0.tar.gz",
-  "download_time": "2026-03-21T19:41:46.235247",
+  "download_filename": "crabbymetrics-0.3.1.tar.gz",
+  "download_time": "2026-03-21T19:59:39.696372",
   "package_url": "https://pypi.org/project/crabbymetrics/"
 }

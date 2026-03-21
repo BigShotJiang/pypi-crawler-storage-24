@@ -1,11 +1,11 @@
 {
   "name": "binflow",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "Persistent WebSocket engine for Binance market data (Spot, USD-M, COIN-M)",
   "author": "nand0san",
   "license": null,
   "home_page": null,
-  "download_filename": "binflow-0.5.1.tar.gz",
-  "download_time": "2026-03-21T19:06:24.043352",
+  "download_filename": "binflow-0.6.0.tar.gz",
+  "download_time": "2026-03-21T19:59:57.064828",
   "package_url": "https://pypi.org/project/binflow/"
 }

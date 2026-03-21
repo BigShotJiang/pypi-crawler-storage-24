@@ -1,11 +1,11 @@
 {
   "name": "rsloop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "An event loop for asyncio written in Rust",
   "author": "RustedBytes",
   "license": null,
   "home_page": "https://github.com/RustedBytes/rsloop",
-  "download_filename": "rsloop-0.1.0.tar.gz",
-  "download_time": "2026-03-21T19:05:56.359032",
+  "download_filename": "rsloop-0.1.1.tar.gz",
+  "download_time": "2026-03-21T19:59:55.463067",
   "package_url": "https://pypi.org/project/rsloop/"
 }

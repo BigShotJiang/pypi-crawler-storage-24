@@ -1,0 +1,11 @@
+{
+  "name": "mongo-datatables",
+  "version": "2.0.0",
+  "summary": "Server-side processing for DataTables and Editor with MongoDB",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mongo_datatables-2.0.0.tar.gz",
+  "download_time": "2026-03-21T19:59:48.636202",
+  "package_url": "https://pypi.org/project/mongo-datatables/"
+}

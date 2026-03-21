@@ -1,0 +1,11 @@
+{
+  "name": "django-basemodels-avtsdadasdsadsa",
+  "version": "1.0.0",
+  "summary": "Base models for Django with created_at, updated_at, and slug fields",
+  "author": "Abdulvohid",
+  "license": "MIT",
+  "home_page": "https://github.com/abdulvohid/django-base-models",
+  "download_filename": "django_basemodels_avtsdadasdsadsa-1.0.0.tar.gz",
+  "download_time": "2026-03-21T20:00:01.240350",
+  "package_url": "https://pypi.org/project/django-basemodels-avtsdadasdsadsa/"
+}
