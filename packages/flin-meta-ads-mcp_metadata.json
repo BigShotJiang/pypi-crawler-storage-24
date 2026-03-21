@@ -1,0 +1,11 @@
+{
+  "name": "flin-meta-ads-mcp",
+  "version": "0.1.4",
+  "summary": "Strict read-only MCP server for Meta Ads",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flin_meta_ads_mcp-0.1.4.tar.gz",
+  "download_time": "2026-03-21T08:32:53.252495",
+  "package_url": "https://pypi.org/project/flin-meta-ads-mcp/"
+}

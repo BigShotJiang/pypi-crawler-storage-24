@@ -1,0 +1,11 @@
+{
+  "name": "bio-analyze-plot",
+  "version": "0.1.0a0",
+  "summary": "Publication-ready plotting module for bio-analyze.",
+  "author": "qww",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "bio_analyze_plot-0.1.0a0.tar.gz",
+  "download_time": "2026-03-21T08:32:42.658215",
+  "package_url": "https://pypi.org/project/bio-analyze-plot/"
+}

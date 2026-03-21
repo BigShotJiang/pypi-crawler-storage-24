@@ -1,0 +1,11 @@
+{
+  "name": "dssim",
+  "version": "1.1.0",
+  "summary": "Discrete-event simulation framework",
+  "author": "majvan",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/majvan/dssim",
+  "download_filename": "dssim-1.1.0.tar.gz",
+  "download_time": "2026-03-21T08:32:50.189352",
+  "package_url": "https://pypi.org/project/dssim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openwebui-mcp-server",
+  "version": "0.2.0",
+  "summary": "MCP server for managing Open WebUI - users, groups, models, knowledge bases, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openwebui_mcp_server-0.2.0.tar.gz",
+  "download_time": "2026-03-21T08:32:41.564273",
+  "package_url": "https://pypi.org/project/openwebui-mcp-server/"
+}

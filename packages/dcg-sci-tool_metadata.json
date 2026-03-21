@@ -1,11 +1,11 @@
 {
   "name": "dcg-sci-tool",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Scientific computing tools for data analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dcg_sci_tool-0.1.21.tar.gz",
-  "download_time": "2026-03-20T07:18:32.691307",
+  "download_filename": "dcg_sci_tool-0.1.22.tar.gz",
+  "download_time": "2026-03-21T08:32:28.307282",
   "package_url": "https://pypi.org/project/dcg-sci-tool/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sandflare",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Sandflare Python SDK for sandboxes and managed Postgres",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sandflare-0.1.1.tar.gz",
-  "download_time": "2026-03-21T07:51:26.067264",
+  "download_filename": "sandflare-0.1.2.tar.gz",
+  "download_time": "2026-03-21T08:32:52.740139",
   "package_url": "https://pypi.org/project/sandflare/"
 }

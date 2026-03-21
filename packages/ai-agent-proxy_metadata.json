@@ -1,11 +1,11 @@
 {
   "name": "ai-agent-proxy",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "Mailbox-backed AI agent proxy server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_agent_proxy-2.1.0.tar.gz",
-  "download_time": "2026-03-21T07:51:37.951524",
+  "download_filename": "ai_agent_proxy-2.2.0.tar.gz",
+  "download_time": "2026-03-21T08:33:04.041726",
   "package_url": "https://pypi.org/project/ai-agent-proxy/"
 }

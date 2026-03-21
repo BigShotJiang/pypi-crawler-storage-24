@@ -1,0 +1,11 @@
+{
+  "name": "dbgpt",
+  "version": "0.7.5",
+  "summary": "DB-GPT is an experimental open-source project that uses localized GPT large models to interact with your data and environment. With this solution, you can beassured that there is no risk of data leakage, and your data is 100% private and secure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbgpt-0.7.5.tar.gz",
+  "download_time": "2026-03-21T08:33:07.731736",
+  "package_url": "https://pypi.org/project/dbgpt/"
+}

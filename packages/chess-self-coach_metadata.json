@@ -1,11 +1,11 @@
 {
   "name": "chess-self-coach",
-  "version": "0.2.0",
+  "version": "0.3.11",
   "summary": "Learn from your own chess mistakes: Stockfish analysis + spaced repetition training",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chess_self_coach-0.2.0.tar.gz",
-  "download_time": "2026-03-18T12:09:37.943166",
+  "download_filename": "chess_self_coach-0.3.11.tar.gz",
+  "download_time": "2026-03-21T08:33:05.597151",
   "package_url": "https://pypi.org/project/chess-self-coach/"
 }
