@@ -1,0 +1,11 @@
+{
+  "name": "ardupilot-methodic-configurator",
+  "version": "2.10.2",
+  "summary": "A clear configuration sequence for ArduPilot vehicles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ardupilot_methodic_configurator-2.10.2.tar.gz",
+  "download_time": "2026-03-21T16:30:45.257501",
+  "package_url": "https://pypi.org/project/ardupilot-methodic-configurator/"
+}

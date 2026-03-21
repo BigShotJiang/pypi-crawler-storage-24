@@ -1,11 +1,11 @@
 {
   "name": "ffmt",
-  "version": "0.1.0",
-  "summary": "An opinionated Fortran formatter with Fypp and OpenACC support",
+  "version": "0.2.2",
+  "summary": "A fast, configurable Fortran formatter with Fypp, Doxygen, and OpenACC/OpenMP support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ffmt-0.1.0.tar.gz",
-  "download_time": "2026-03-20T06:13:57.300392",
+  "download_filename": "ffmt-0.2.2.tar.gz",
+  "download_time": "2026-03-21T16:30:52.340893",
   "package_url": "https://pypi.org/project/ffmt/"
 }

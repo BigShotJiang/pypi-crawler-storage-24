@@ -1,11 +1,11 @@
 {
   "name": "iron-monk",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "A minimalist, strict validation library for Python dataclasses.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iron_monk-0.6.1.tar.gz",
-  "download_time": "2026-03-21T11:49:44.542255",
+  "download_filename": "iron_monk-0.7.0.tar.gz",
+  "download_time": "2026-03-21T16:30:33.761481",
   "package_url": "https://pypi.org/project/iron-monk/"
 }

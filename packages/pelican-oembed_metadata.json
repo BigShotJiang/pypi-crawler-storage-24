@@ -1,0 +1,11 @@
+{
+  "name": "pelican-oembed",
+  "version": "0.1.0",
+  "summary": "Pelican plugin: embed oEmbed URLs (YouTube, Vimeo, Twitter, etc.) in Markdown content",
+  "author": "Tom Clancy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pelican_oembed-0.1.0.tar.gz",
+  "download_time": "2026-03-21T16:31:03.461718",
+  "package_url": "https://pypi.org/project/pelican-oembed/"
+}

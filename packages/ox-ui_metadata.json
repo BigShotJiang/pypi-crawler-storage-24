@@ -1,0 +1,11 @@
+{
+  "name": "ox-ui",
+  "version": "0.4.1",
+  "summary": "Simple user interface tools for python",
+  "author": "Emin Martinian",
+  "license": "custom",
+  "home_page": "http://github.com/emin63/ox_ui",
+  "download_filename": "ox_ui-0.4.1.tar.gz",
+  "download_time": "2026-03-21T16:30:58.763460",
+  "package_url": "https://pypi.org/project/ox-ui/"
+}

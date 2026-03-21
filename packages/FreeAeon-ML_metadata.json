@@ -1,11 +1,11 @@
 {
   "name": "FreeAeon-ML",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A comprehensive machine learning toolkit for data analysis, preprocessing, modeling, and evaluation.",
   "author": "Jim Xie",
   "license": "MIT",
   "home_page": "https://github.com/jim-xie-cn/FreeAeon-ML",
-  "download_filename": "freeaeon_ml-0.3.1.tar.gz",
-  "download_time": "2026-03-18T13:57:43.057984",
+  "download_filename": "freeaeon_ml-0.3.2.tar.gz",
+  "download_time": "2026-03-21T16:30:29.978690",
   "package_url": "https://pypi.org/project/FreeAeon-ML/"
 }

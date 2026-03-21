@@ -1,11 +1,11 @@
 {
   "name": "pact-agents",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "Contract-first multi-agent software engineering. Contracts before code. Tests as law. Agents that can't cheat.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pact_agents-0.7.5.tar.gz",
-  "download_time": "2026-03-21T05:45:49.579501",
+  "download_filename": "pact_agents-0.7.6.tar.gz",
+  "download_time": "2026-03-21T16:31:14.460835",
   "package_url": "https://pypi.org/project/pact-agents/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odapi.py",
+  "version": "1.0.0",
+  "summary": "A Python package for the osu!droid API (only v2.0 supported)",
+  "author": "75efb6",
+  "license": null,
+  "home_page": "https://github.com/75efb6/odpy-package",
+  "download_filename": "odapi_py-1.0.0.tar.gz",
+  "download_time": "2026-03-21T16:30:33.125646",
+  "package_url": "https://pypi.org/project/odapi.py/"
+}

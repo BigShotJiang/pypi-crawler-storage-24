@@ -1,11 +1,11 @@
 {
   "name": "hebbs",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Python SDK for HEBBS cognitive memory engine",
   "author": "HEBBS AI",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hebbs-0.3.0.tar.gz",
-  "download_time": "2026-03-15T19:52:08.026448",
+  "download_filename": "hebbs-0.3.1.tar.gz",
+  "download_time": "2026-03-21T16:31:02.300021",
   "package_url": "https://pypi.org/project/hebbs/"
 }
