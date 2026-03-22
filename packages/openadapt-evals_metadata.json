@@ -1,11 +1,11 @@
 {
   "name": "openadapt-evals",
-  "version": "0.60.0",
+  "version": "0.61.0",
   "summary": "Evaluation infrastructure for GUI agent benchmarks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openadapt_evals-0.60.0-py3-none-any.whl",
-  "download_time": "2026-03-22T16:59:39.892836",
+  "download_filename": "openadapt_evals-0.61.0-py3-none-any.whl",
+  "download_time": "2026-03-22T17:26:53.959498",
   "package_url": "https://pypi.org/project/openadapt-evals/"
 }

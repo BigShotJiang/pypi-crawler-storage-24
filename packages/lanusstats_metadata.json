@@ -1,11 +1,11 @@
 {
   "name": "lanusstats",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Python library for scraping football data and visualize it / Libreria de Python para scrapear data de fútbol y visualizarla",
   "author": "Federico Rábanos",
   "license": "MIT",
   "home_page": "https://github.com/federicorabanos",
-  "download_filename": "lanusstats-2.1.0.tar.gz",
-  "download_time": "2026-03-19T23:29:53.115734",
+  "download_filename": "lanusstats-2.1.1.tar.gz",
+  "download_time": "2026-03-22T17:27:10.536645",
   "package_url": "https://pypi.org/project/lanusstats/"
 }

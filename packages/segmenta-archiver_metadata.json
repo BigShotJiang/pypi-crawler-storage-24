@@ -1,0 +1,11 @@
+{
+  "name": "segmenta-archiver",
+  "version": "0.1.2",
+  "summary": "Batch merge and transcode timestamped .ts recordings into organized H.265 archives",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "segmenta_archiver-0.1.2.tar.gz",
+  "download_time": "2026-03-22T17:27:07.902954",
+  "package_url": "https://pypi.org/project/segmenta-archiver/"
+}

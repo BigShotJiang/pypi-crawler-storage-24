@@ -1,11 +1,11 @@
 {
   "name": "ngksdevfabeco",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "NGKsDevFabEco local meta-package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ngksdevfabeco-1.3.2-py3-none-any.whl",
-  "download_time": "2026-03-22T16:59:54.802136",
+  "download_filename": "ngksdevfabeco-1.3.3-py3-none-any.whl",
+  "download_time": "2026-03-22T17:26:56.523791",
   "package_url": "https://pypi.org/project/ngksdevfabeco/"
 }

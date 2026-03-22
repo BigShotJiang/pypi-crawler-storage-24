@@ -1,11 +1,11 @@
 {
   "name": "quodeq",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Source code quality evaluation platform powered by AI",
   "author": "Victor Purcallas Marchesi",
   "license": null,
   "home_page": null,
-  "download_filename": "quodeq-0.6.1.tar.gz",
-  "download_time": "2026-03-18T12:09:15.360445",
+  "download_filename": "quodeq-0.6.2.tar.gz",
+  "download_time": "2026-03-22T17:27:17.217604",
   "package_url": "https://pypi.org/project/quodeq/"
 }

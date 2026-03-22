@@ -1,11 +1,11 @@
 {
   "name": "jquantstats",
-  "version": "0.0.34",
+  "version": "0.0.36",
   "summary": "Analytics for quants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jquantstats-0.0.34.tar.gz",
-  "download_time": "2026-03-17T06:47:40.543987",
+  "download_filename": "jquantstats-0.0.36.tar.gz",
+  "download_time": "2026-03-22T17:27:04.305412",
   "package_url": "https://pypi.org/project/jquantstats/"
 }

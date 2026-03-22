@@ -1,0 +1,11 @@
+{
+  "name": "e3po-editor",
+  "version": "0.3.0",
+  "summary": "e3po: E3 Python Option - A terminal text editor based on E3/E",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "e3po_editor-0.3.0.tar.gz",
+  "download_time": "2026-03-22T17:27:29.139824",
+  "package_url": "https://pypi.org/project/e3po-editor/"
+}

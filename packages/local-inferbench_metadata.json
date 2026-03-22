@@ -1,11 +1,11 @@
 {
   "name": "local-inferbench",
-  "version": "0.2.0",
-  "summary": "A unified benchmarking framework for local LLM inference backends",
-  "author": "local-inferbench contributors",
+  "version": "0.2.1",
+  "summary": "A benchmarking framework for Ollama models",
+  "author": "Devin Hill",
   "license": null,
   "home_page": null,
-  "download_filename": "local_inferbench-0.2.0-py3-none-any.whl",
-  "download_time": "2026-03-21T20:00:02.276153",
+  "download_filename": "local_inferbench-0.2.1-py3-none-any.whl",
+  "download_time": "2026-03-22T17:27:22.455368",
   "package_url": "https://pypi.org/project/local-inferbench/"
 }

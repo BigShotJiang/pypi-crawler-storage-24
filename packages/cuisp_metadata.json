@@ -1,0 +1,11 @@
+{
+  "name": "cuisp",
+  "version": "0.1.0",
+  "summary": "Voice-to-text daemon for Linux with AI enhancement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cuisp-0.1.0.tar.gz",
+  "download_time": "2026-03-22T17:27:27.581459",
+  "package_url": "https://pypi.org/project/cuisp/"
+}

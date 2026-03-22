@@ -1,11 +1,11 @@
 {
   "name": "git-pnp",
-  "version": "2.5.1",
+  "version": "3.0.0",
   "summary": "A robust Python CLI tool to manage Git workflows with intelligent commit, push, tagging, changelog generation, GitHub releases, hook execution, and error handling.",
   "author": "Caleb M. Sibanda",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "git_pnp-2.5.1.tar.gz",
-  "download_time": "2026-03-20T19:02:57.673055",
+  "download_filename": "git_pnp-3.0.0.tar.gz",
+  "download_time": "2026-03-22T17:27:04.820714",
   "package_url": "https://pypi.org/project/git-pnp/"
 }

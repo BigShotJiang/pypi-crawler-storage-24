@@ -1,0 +1,11 @@
+{
+  "name": "social-trends-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP-Server der AI-Agents Zugriff auf Social-Media-Trends gibt (Reddit, HackerNews)",
+  "author": "AiAgentKarl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "social_trends_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-22T17:27:03.794030",
+  "package_url": "https://pypi.org/project/social-trends-mcp-server/"
+}

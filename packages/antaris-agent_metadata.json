@@ -1,0 +1,11 @@
+{
+  "name": "antaris-agent",
+  "version": "1.9.11",
+  "summary": "Antaris — Personal AI assistant. One install. Everything included.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "antaris_agent-1.9.11-py3-none-any.whl",
+  "download_time": "2026-03-22T17:26:43.455448",
+  "package_url": "https://pypi.org/project/antaris-agent/"
+}

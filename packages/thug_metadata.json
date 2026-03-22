@@ -1,0 +1,11 @@
+{
+  "name": "thug",
+  "version": "6.20",
+  "summary": "Low-interaction honeyclient Thug",
+  "author": null,
+  "license": "GPLv2",
+  "home_page": null,
+  "download_filename": "thug-6.20.tar.gz",
+  "download_time": "2026-03-22T17:26:52.414280",
+  "package_url": "https://pypi.org/project/thug/"
+}

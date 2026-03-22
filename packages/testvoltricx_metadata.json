@@ -1,11 +1,11 @@
 {
   "name": "testvoltricx",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "A modern, simple, and powerful Lavalink wrapper for discord.py.",
   "author": "@JustNixx, @Dipendra-creator",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "testvoltricx-2.0.0.tar.gz",
-  "download_time": "2026-03-22T16:59:46.059149",
+  "download_filename": "testvoltricx-2.0.2.tar.gz",
+  "download_time": "2026-03-22T17:27:10.018861",
   "package_url": "https://pypi.org/project/testvoltricx/"
 }

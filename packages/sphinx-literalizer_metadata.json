@@ -1,11 +1,11 @@
 {
   "name": "sphinx-literalizer",
-  "version": "2026.3.22",
+  "version": "2026.3.22.1",
   "summary": "Sphinx extension for literalizer — convert JSON to native language literals",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_literalizer-2026.3.22.tar.gz",
-  "download_time": "2026-03-22T11:25:09.961837",
+  "download_filename": "sphinx_literalizer-2026.3.22.1.tar.gz",
+  "download_time": "2026-03-22T17:27:13.623422",
   "package_url": "https://pypi.org/project/sphinx-literalizer/"
 }

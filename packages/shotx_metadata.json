@@ -1,11 +1,11 @@
 {
   "name": "shotx",
-  "version": "0.9.5b0",
+  "version": "0.9.5b2",
   "summary": "A free, open-source screenshot and screen capture tool for Linux — inspired by ShareX.",
   "author": "Vedesh Padal",
   "license": null,
   "home_page": null,
-  "download_filename": "shotx-0.9.5b0.tar.gz",
-  "download_time": "2026-03-22T17:00:04.100222",
+  "download_filename": "shotx-0.9.5b2.tar.gz",
+  "download_time": "2026-03-22T17:26:50.269734",
   "package_url": "https://pypi.org/project/shotx/"
 }

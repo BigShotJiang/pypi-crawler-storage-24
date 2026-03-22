@@ -1,11 +1,11 @@
 {
   "name": "goldfish-ml",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "summary": "MCP server for ML experimentation - solves the goldfish memory problem for AI agents",
   "author": "Luka Crnkovic-Friis",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "goldfish_ml-0.3.9.tar.gz",
-  "download_time": "2026-03-22T07:32:56.343492",
+  "download_filename": "goldfish_ml-0.3.10.tar.gz",
+  "download_time": "2026-03-22T17:27:20.914740",
   "package_url": "https://pypi.org/project/goldfish-ml/"
 }

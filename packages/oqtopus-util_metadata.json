@@ -1,0 +1,11 @@
+{
+  "name": "oqtopus-util",
+  "version": "1.0.0",
+  "summary": "Collection of common utilities and shared functionalities for various applications within the OQTOPUS ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oqtopus_util-1.0.0.tar.gz",
+  "download_time": "2026-03-22T17:27:29.653007",
+  "package_url": "https://pypi.org/project/oqtopus-util/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xap-sdk",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "XAP Protocol SDK — Settlement objects for autonomous agent commerce",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xap_sdk-0.4.4.tar.gz",
-  "download_time": "2026-03-22T17:00:09.230995",
+  "download_filename": "xap_sdk-0.4.5.tar.gz",
+  "download_time": "2026-03-22T17:27:07.388152",
   "package_url": "https://pypi.org/project/xap-sdk/"
 }

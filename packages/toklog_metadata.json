@@ -1,11 +1,11 @@
 {
   "name": "toklog",
-  "version": "0.0.1",
-  "summary": "htop for your LLM spend — local-first proxy for cost visibility.",
-  "author": "Eren Gölge",
-  "license": "MIT",
+  "version": "0.2.0",
+  "summary": "Local-first proxy for LLM spend visibility and control.",
+  "author": null,
+  "license": "TBFUL-1.0",
   "home_page": null,
-  "download_filename": "toklog-0.0.1.tar.gz",
-  "download_time": "2026-03-20T19:02:49.093563",
+  "download_filename": "toklog-0.2.0.tar.gz",
+  "download_time": "2026-03-22T17:27:18.777418",
   "package_url": "https://pypi.org/project/toklog/"
 }
