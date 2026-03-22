@@ -1,0 +1,11 @@
+{
+  "name": "agentclis",
+  "version": "0.1.0",
+  "summary": "Official Python package for Agentclis.",
+  "author": "Agentable",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "agentclis-0.1.0.tar.gz",
+  "download_time": "2026-03-22T17:55:33.701764",
+  "package_url": "https://pypi.org/project/agentclis/"
+}

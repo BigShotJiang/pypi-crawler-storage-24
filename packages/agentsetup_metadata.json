@@ -1,0 +1,11 @@
+{
+  "name": "agentsetup",
+  "version": "0.1.0",
+  "summary": "Official Python package for Agentsetup.",
+  "author": "Agentable",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "agentsetup-0.1.0.tar.gz",
+  "download_time": "2026-03-22T17:55:33.170326",
+  "package_url": "https://pypi.org/project/agentsetup/"
+}

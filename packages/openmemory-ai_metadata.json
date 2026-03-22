@@ -1,0 +1,11 @@
+{
+  "name": "openmemory-ai",
+  "version": "0.2.1",
+  "summary": "A persistent, semantic memory system for AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openmemory_ai-0.2.1.tar.gz",
+  "download_time": "2026-03-22T17:56:06.517749",
+  "package_url": "https://pypi.org/project/openmemory-ai/"
+}

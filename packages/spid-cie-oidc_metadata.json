@@ -1,0 +1,11 @@
+{
+  "name": "spid-cie-oidc",
+  "version": "1.6.0",
+  "summary": "SPID/CIE OIDC Federation Entity",
+  "author": "Giuseppe De Marco",
+  "license": "License :: OSI Approved :: Apache Software License",
+  "home_page": "https://github.com/peppelinux/spid-cie-oidc",
+  "download_filename": "spid_cie_oidc-1.6.0.tar.gz",
+  "download_time": "2026-03-22T17:55:28.881427",
+  "package_url": "https://pypi.org/project/spid-cie-oidc/"
+}

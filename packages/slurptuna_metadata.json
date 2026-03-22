@@ -1,11 +1,11 @@
 {
   "name": "slurptuna",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Simple objective optimization orchestration for Slurm clusters",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slurptuna-0.0.3.tar.gz",
-  "download_time": "2026-03-22T17:27:23.995728",
+  "download_filename": "slurptuna-0.0.4.tar.gz",
+  "download_time": "2026-03-22T17:55:46.829977",
   "package_url": "https://pypi.org/project/slurptuna/"
 }

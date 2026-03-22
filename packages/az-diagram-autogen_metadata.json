@@ -1,11 +1,11 @@
 {
   "name": "az-diagram-autogen",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Interactive Azure architecture diagram generator with 605 official Azure icons",
   "author": "Jeonghoon Lee",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "az_diagram_autogen-0.1.1.tar.gz",
-  "download_time": "2026-03-22T17:26:54.987225",
+  "download_filename": "az_diagram_autogen-0.1.2.tar.gz",
+  "download_time": "2026-03-22T17:56:09.948231",
   "package_url": "https://pypi.org/project/az-diagram-autogen/"
 }

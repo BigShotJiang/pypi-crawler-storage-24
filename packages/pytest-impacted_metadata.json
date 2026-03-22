@@ -1,0 +1,11 @@
+{
+  "name": "pytest-impacted",
+  "version": "0.17.0",
+  "summary": "A pytest plugin that selectively runs tests impacted by code changes via git introspection, AST parsing, and dependency graph analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_impacted-0.17.0.tar.gz",
+  "download_time": "2026-03-22T17:55:36.067100",
+  "package_url": "https://pypi.org/project/pytest-impacted/"
+}

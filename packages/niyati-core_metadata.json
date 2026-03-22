@@ -1,11 +1,11 @@
 {
   "name": "niyati-core",
-  "version": "0.3.2",
-  "summary": "Python SDK for Niyati: The Strategic Intelligence Infrastructure",
+  "version": "0.3.3",
+  "summary": "Python SDK for Niyati, the hosted engine for reachability, fragility, and collapse-aware decision intelligence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "niyati_core-0.3.2.tar.gz",
-  "download_time": "2026-03-22T16:59:58.411653",
+  "download_filename": "niyati_core-0.3.3.tar.gz",
+  "download_time": "2026-03-22T17:56:07.029463",
   "package_url": "https://pypi.org/project/niyati-core/"
 }

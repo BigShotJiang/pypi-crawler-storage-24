@@ -1,11 +1,11 @@
 {
   "name": "gcp-pipeline-ref-segment-transform",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "GCP Pipeline Reference: Mainframe Segment Transform — CDP → fixed-width GCS segment files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gcp_pipeline_ref_segment_transform-1.0.13.tar.gz",
-  "download_time": "2026-03-17T19:24:05.753081",
+  "download_filename": "gcp_pipeline_ref_segment_transform-1.0.14.tar.gz",
+  "download_time": "2026-03-22T17:55:38.209355",
   "package_url": "https://pypi.org/project/gcp-pipeline-ref-segment-transform/"
 }

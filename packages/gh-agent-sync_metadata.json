@@ -1,11 +1,11 @@
 {
   "name": "gh-agent-sync",
-  "version": "0.1.0",
-  "summary": "Link agents and skills from awesome-copilot to your local repository. Supports MCP-based git operations.",
+  "version": "1.2.1",
+  "summary": "Link agents and skills from awesome-copilot  or any common repos with agents/skills to your local repository.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gh_agent_sync-0.1.0.tar.gz",
-  "download_time": "2026-03-22T16:59:54.290285",
+  "download_filename": "gh_agent_sync-1.2.1.tar.gz",
+  "download_time": "2026-03-22T17:55:48.471915",
   "package_url": "https://pypi.org/project/gh-agent-sync/"
 }

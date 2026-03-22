@@ -1,11 +1,11 @@
 {
   "name": "untis",
-  "version": "0.0.2",
+  "version": "0.1.0rc2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "untis-0.0.2.tar.gz",
-  "download_time": "2026-03-22T09:54:05.430622",
+  "download_filename": "untis-0.1.0rc2.tar.gz",
+  "download_time": "2026-03-22T17:55:25.694364",
   "package_url": "https://pypi.org/project/untis/"
 }

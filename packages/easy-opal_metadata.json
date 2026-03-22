@@ -1,0 +1,11 @@
+{
+  "name": "easy-opal",
+  "version": "2.0.0",
+  "summary": "Deploy and manage OBiBa Opal and Armadillo DataSHIELD environments with Docker.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easy_opal-2.0.0.tar.gz",
+  "download_time": "2026-03-22T17:55:50.084425",
+  "package_url": "https://pypi.org/project/easy-opal/"
+}

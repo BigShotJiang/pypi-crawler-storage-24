@@ -1,11 +1,11 @@
 {
   "name": "ai-research-agent",
-  "version": "1.0.4",
-  "summary": null,
-  "author": "Mahdi Haqiqat",
-  "license": null,
+  "version": "1.1.0",
+  "summary": "Automate & accelerate AI research with Python! Focus on experiments, not setup, with smart topic planning, multi-source retrieval, and automated report generation.",
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_research_agent-1.0.4.tar.gz",
-  "download_time": "2026-03-11T13:39:54.397629",
+  "download_filename": "ai_research_agent-1.1.0.tar.gz",
+  "download_time": "2026-03-22T17:55:29.952840",
   "package_url": "https://pypi.org/project/ai-research-agent/"
 }

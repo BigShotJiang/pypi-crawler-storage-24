@@ -1,11 +1,11 @@
 {
   "name": "agent-skill-compiler",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "summary": "Python SDK for sending agent traces to a remote Agent Skill Compiler backend.",
-  "author": "Open Source Contributors",
+  "author": "Daniel Lamchahhem Amaro",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_skill_compiler-0.4.3.tar.gz",
-  "download_time": "2026-03-21T09:59:14.623329",
+  "download_filename": "agent_skill_compiler-0.5.0.tar.gz",
+  "download_time": "2026-03-22T17:55:31.562221",
   "package_url": "https://pypi.org/project/agent-skill-compiler/"
 }

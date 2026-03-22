@@ -1,11 +1,11 @@
 {
   "name": "gcp-pipeline-ref-cdp",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "GCP Pipeline Reference: Generic CDP Transformation — dbt models for FDP to CDP (JOIN pattern across all 3 FDP tables)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gcp_pipeline_ref_cdp-1.0.13.tar.gz",
-  "download_time": "2026-03-17T19:24:05.106793",
+  "download_filename": "gcp_pipeline_ref_cdp-1.0.14.tar.gz",
+  "download_time": "2026-03-22T17:55:39.811857",
   "package_url": "https://pypi.org/project/gcp-pipeline-ref-cdp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lasso-sandbox",
+  "version": "0.4.1",
+  "summary": "LASSO — Layered Agent Sandbox Security Orchestrator",
+  "author": "LASSO Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lasso_sandbox-0.4.1.tar.gz",
+  "download_time": "2026-03-22T17:56:04.412503",
+  "package_url": "https://pypi.org/project/lasso-sandbox/"
+}

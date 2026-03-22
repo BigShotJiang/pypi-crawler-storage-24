@@ -1,11 +1,11 @@
 {
   "name": "vibelens",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Agent Trajectory visualization and analysis platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibelens-0.8.0.tar.gz",
-  "download_time": "2026-03-22T15:54:06.166573",
+  "download_filename": "vibelens-0.8.1.tar.gz",
+  "download_time": "2026-03-22T17:55:54.419959",
   "package_url": "https://pypi.org/project/vibelens/"
 }

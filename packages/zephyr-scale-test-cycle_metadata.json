@@ -1,0 +1,11 @@
+{
+  "name": "zephyr-scale-test-cycle",
+  "version": "0.1.2",
+  "summary": "Update Zephyr Scale Cloud test cycle executions from CI, workflows, or BDD.",
+  "author": "Pandiyaraj Karuppasamy",
+  "license": "Copyright (c) 2025 Pandiyaraj Karuppasamy. All rights reserved.\n        \n        This software is proprietary and confidential. Unauthorized copying,\n        distribution, modification, or use of this software, via any medium, is\n        strictly prohibited without prior written permission from the copyright holder.",
+  "home_page": null,
+  "download_filename": "zephyr_scale_test_cycle-0.1.2.tar.gz",
+  "download_time": "2026-03-22T17:55:26.227719",
+  "package_url": "https://pypi.org/project/zephyr-scale-test-cycle/"
+}

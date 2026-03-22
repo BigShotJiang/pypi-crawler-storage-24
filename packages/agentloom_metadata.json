@@ -1,0 +1,11 @@
+{
+  "name": "agentloom",
+  "version": "0.1.1",
+  "summary": "Production-ready agentic workflow orchestrator with native observability, resilience, and cost control.",
+  "author": "AgentLoom Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentloom-0.1.1-py3-none-any.whl",
+  "download_time": "2026-03-22T17:55:28.345134",
+  "package_url": "https://pypi.org/project/agentloom/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pybcsv",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "High-performance Python bindings for the BCSV (Binary CSV) library with pandas integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybcsv-1.5.0.tar.gz",
-  "download_time": "2026-03-21T22:55:09.630264",
+  "download_filename": "pybcsv-1.5.1.tar.gz",
+  "download_time": "2026-03-22T17:55:45.223791",
   "package_url": "https://pypi.org/project/pybcsv/"
 }

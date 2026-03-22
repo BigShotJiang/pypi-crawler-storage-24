@@ -1,11 +1,11 @@
 {
   "name": "varicon-observability",
-  "version": "1.2.18",
+  "version": "1.2.19",
   "summary": "Unified observability package for Varicon services - logs, traces, and metrics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "varicon_observability-1.2.18.tar.gz",
-  "download_time": "2026-03-22T17:26:48.213745",
+  "download_filename": "varicon_observability-1.2.19.tar.gz",
+  "download_time": "2026-03-22T17:56:08.903263",
   "package_url": "https://pypi.org/project/varicon-observability/"
 }

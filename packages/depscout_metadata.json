@@ -1,0 +1,11 @@
+{
+  "name": "depscout",
+  "version": "0.1.1",
+  "summary": "Upgrade intelligence for your Python dependencies",
+  "author": "Miguel Soares",
+  "license": null,
+  "home_page": null,
+  "download_filename": "depscout-0.1.1.tar.gz",
+  "download_time": "2026-03-22T17:55:24.081056",
+  "package_url": "https://pypi.org/project/depscout/"
+}
