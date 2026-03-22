@@ -1,11 +1,11 @@
 {
   "name": "clang-tool-chain",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "summary": "Clang Tool Chain - C/C++ compilation toolchain utilities",
   "author": "Zachary Vorhies",
   "license": null,
   "home_page": null,
-  "download_filename": "clang_tool_chain-1.2.7-py3-none-any.whl",
-  "download_time": "2026-03-21T23:25:58.662562",
+  "download_filename": "clang_tool_chain-1.2.8-py3-none-any.whl",
+  "download_time": "2026-03-22T01:52:13.697767",
   "package_url": "https://pypi.org/project/clang-tool-chain/"
 }

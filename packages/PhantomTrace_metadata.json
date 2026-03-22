@@ -1,11 +1,11 @@
 {
   "name": "PhantomTrace",
-  "version": "0.9.1",
+  "version": "0.9.6",
   "summary": "PhantomTrace — a mathematical framework where numbers exist in present or absent states with custom operations to include addition, subtraction, multiplication, division, and erasure.",
   "author": "PhantomTrace Project",
   "license": "MIT",
   "home_page": "https://github.com/jordanbeitchman-spec/PhantomTrace",
-  "download_filename": "phantomtrace-0.9.1.tar.gz",
-  "download_time": "2026-03-13T15:29:53.186164",
+  "download_filename": "phantomtrace-0.9.6.tar.gz",
+  "download_time": "2026-03-22T01:51:48.786816",
   "package_url": "https://pypi.org/project/PhantomTrace/"
 }

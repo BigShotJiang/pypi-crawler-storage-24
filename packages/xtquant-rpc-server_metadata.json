@@ -1,11 +1,11 @@
 {
   "name": "xtquant-rpc-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Windows gRPC host for xtquant domains.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xtquant_rpc_server-0.1.1.tar.gz",
-  "download_time": "2026-03-21T08:32:46.023069",
+  "download_filename": "xtquant_rpc_server-0.1.2.tar.gz",
+  "download_time": "2026-03-22T01:52:06.811994",
   "package_url": "https://pypi.org/project/xtquant-rpc-server/"
 }

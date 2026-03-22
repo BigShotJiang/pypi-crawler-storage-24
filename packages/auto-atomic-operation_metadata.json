@@ -1,0 +1,11 @@
+{
+  "name": "auto-atomic-operation",
+  "version": "0.1.0",
+  "summary": "A YAML-driven atomic operation framework for robotic manipulation.",
+  "author": "OpenGHz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_atomic_operation-0.1.0.tar.gz",
+  "download_time": "2026-03-22T01:52:10.534929",
+  "package_url": "https://pypi.org/project/auto-atomic-operation/"
+}

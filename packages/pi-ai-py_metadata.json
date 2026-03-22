@@ -1,11 +1,11 @@
 {
   "name": "pi-ai-py",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Python port of @mariozechner/pi-ai — unified LLM streaming API with OAuth authentication",
   "author": "Xplo8E",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pi_ai_py-0.2.3.tar.gz",
-  "download_time": "2026-03-20T04:01:37.651695",
+  "download_filename": "pi_ai_py-0.2.5.tar.gz",
+  "download_time": "2026-03-22T01:51:46.625090",
   "package_url": "https://pypi.org/project/pi-ai-py/"
 }

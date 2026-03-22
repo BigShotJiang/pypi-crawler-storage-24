@@ -1,0 +1,11 @@
+{
+  "name": "rdapify-py",
+  "version": "0.2.0",
+  "summary": "Unified RDAP client for Python, powered by Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rdapify_py-0.2.0.tar.gz",
+  "download_time": "2026-03-22T01:52:20.532028",
+  "package_url": "https://pypi.org/project/rdapify-py/"
+}

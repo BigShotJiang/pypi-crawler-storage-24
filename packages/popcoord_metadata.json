@@ -1,0 +1,11 @@
+{
+  "name": "popcoord",
+  "version": "0.1.2",
+  "summary": "Query population & demographics for any point + radius on Earth using WorldPop data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "popcoord-0.1.2.tar.gz",
+  "download_time": "2026-03-22T01:52:11.056671",
+  "package_url": "https://pypi.org/project/popcoord/"
+}

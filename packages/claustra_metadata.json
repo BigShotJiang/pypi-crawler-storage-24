@@ -1,0 +1,11 @@
+{
+  "name": "claustra",
+  "version": "0.1.0",
+  "summary": "Python SDK for Claustra password manager — local-first, zero-knowledge, AES-256-GCM encrypted vault",
+  "author": "Lin Han",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claustra-0.1.0.tar.gz",
+  "download_time": "2026-03-22T01:52:24.709740",
+  "package_url": "https://pypi.org/project/claustra/"
+}

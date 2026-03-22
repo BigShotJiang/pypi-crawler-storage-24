@@ -1,11 +1,11 @@
 {
   "name": "project-memory",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Project Memory: repo-scoped memory engine for AI agents",
   "author": "jflamb",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "project_memory-0.2.0.tar.gz",
-  "download_time": "2026-03-21T23:51:20.571478",
+  "download_filename": "project_memory-0.2.2.tar.gz",
+  "download_time": "2026-03-22T01:52:08.396543",
   "package_url": "https://pypi.org/project/project-memory/"
 }

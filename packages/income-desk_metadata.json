@@ -1,0 +1,11 @@
+{
+  "name": "income-desk",
+  "version": "0.3.0",
+  "summary": "Systematic options trading intelligence for small accounts. Regime detection, profitability gates, Kelly sizing, crash sentinel, decision audit. Your personal trading desk brain.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "income_desk-0.3.0.tar.gz",
+  "download_time": "2026-03-22T01:52:17.409388",
+  "package_url": "https://pypi.org/project/income-desk/"
+}

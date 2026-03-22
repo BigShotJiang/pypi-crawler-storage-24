@@ -1,0 +1,11 @@
+{
+  "name": "dsmp-api-wrapper",
+  "version": "1.0.4",
+  "summary": "DonutSMP Public API wrapper (C++ backend)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsmp_api_wrapper-1.0.4.tar.gz",
+  "download_time": "2026-03-22T01:52:17.931324",
+  "package_url": "https://pypi.org/project/dsmp-api-wrapper/"
+}

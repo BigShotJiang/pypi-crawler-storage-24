@@ -1,11 +1,11 @@
 {
   "name": "arcwright-ai",
-  "version": "0.2.36",
+  "version": "0.2.41",
   "summary": "Deterministic orchestration shell for autonomous AI agent execution",
   "author": "Ed Hertzog",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arcwright_ai-0.2.36.tar.gz",
-  "download_time": "2026-03-20T19:03:00.801588",
+  "download_filename": "arcwright_ai-0.2.41.tar.gz",
+  "download_time": "2026-03-22T01:52:15.255260",
   "package_url": "https://pypi.org/project/arcwright-ai/"
 }

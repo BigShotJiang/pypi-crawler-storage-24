@@ -1,0 +1,11 @@
+{
+  "name": "langchain-zerodb",
+  "version": "0.1.0",
+  "summary": "ZeroDB vector store for LangChain - AI-native vector database with free embeddings, semantic search, and RAG support. Pinecone alternative.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_zerodb-0.1.0.tar.gz",
+  "download_time": "2026-03-22T01:51:55.767051",
+  "package_url": "https://pypi.org/project/langchain-zerodb/"
+}

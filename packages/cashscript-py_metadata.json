@@ -1,0 +1,11 @@
+{
+  "name": "cashscript-py",
+  "version": "1.0.1",
+  "summary": "Python SDK for Bitcoin Cash (BCH) CashScript smart contracts.",
+  "author": "CashScript-Py contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cashscript_py-1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-22T01:51:59.974204",
+  "package_url": "https://pypi.org/project/cashscript-py/"
+}

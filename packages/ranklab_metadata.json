@@ -1,11 +1,11 @@
 {
   "name": "ranklab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Learning to Rank: differentiable ranking, LTR losses (RankNet, LambdaRank, ApproxNDCG, ListNet, ListMLE), and IR evaluation metrics.",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "ranklab-0.1.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2026-03-21T20:26:02.915641",
+  "download_filename": "ranklab-0.1.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-03-22T01:52:04.726657",
   "package_url": "https://pypi.org/project/ranklab/"
 }
