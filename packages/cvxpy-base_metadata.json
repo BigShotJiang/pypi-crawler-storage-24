@@ -1,0 +1,11 @@
+{
+  "name": "cvxpy-base",
+  "version": "1.8.2",
+  "summary": "A domain-specific language for modeling convex optimization problems in Python.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "cvxpy_base-1.8.2.tar.gz",
+  "download_time": "2026-03-22T21:54:08.613335",
+  "package_url": "https://pypi.org/project/cvxpy-base/"
+}

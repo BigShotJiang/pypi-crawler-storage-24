@@ -1,0 +1,11 @@
+{
+  "name": "libaarhusxyz",
+  "version": "0.0.39",
+  "summary": "Parser for the Aarhus Workbench XYZ format for geophysical data",
+  "author": "Egil Moeller, Craig William Christensen and others",
+  "license": null,
+  "home_page": "https://github.com/emerald-geomodelling/libaarhusxyz",
+  "download_filename": "libaarhusxyz-0.0.39.tar.gz",
+  "download_time": "2026-03-22T21:54:23.243849",
+  "package_url": "https://pypi.org/project/libaarhusxyz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "validates",
+  "version": "1.0.2",
+  "summary": "API key validator",
+  "author": "uliusio",
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "validates-1.0.2.tar.gz",
+  "download_time": "2026-03-22T21:54:10.165198",
+  "package_url": "https://pypi.org/project/validates/"
+}

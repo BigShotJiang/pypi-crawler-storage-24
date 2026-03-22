@@ -1,0 +1,11 @@
+{
+  "name": "peakweather",
+  "version": "0.2.2",
+  "summary": "PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "peakweather-0.2.2.tar.gz",
+  "download_time": "2026-03-22T21:54:03.860212",
+  "package_url": "https://pypi.org/project/peakweather/"
+}

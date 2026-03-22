@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-framework",
+  "version": "1.5.2",
+  "summary": "MCP Server Toolkit — Framework, Factory and Proxy for building MCP servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_framework-1.5.2.tar.gz",
+  "download_time": "2026-03-22T21:54:31.177462",
+  "package_url": "https://pypi.org/project/mcp-server-framework/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agpack",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Fetch and deploy AI agent resources from git repos to local tool directories",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agpack-0.1.1.tar.gz",
-  "download_time": "2026-03-22T21:27:28.792035",
+  "download_filename": "agpack-0.1.2.tar.gz",
+  "download_time": "2026-03-22T21:54:22.190236",
   "package_url": "https://pypi.org/project/agpack/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "clipspyx",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "CLIPS Python bindings via CFFI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clipspyx-0.5.0.tar.gz",
-  "download_time": "2026-03-22T15:26:38.236832",
+  "download_filename": "clipspyx-0.6.0.tar.gz",
+  "download_time": "2026-03-22T21:54:03.341623",
   "package_url": "https://pypi.org/project/clipspyx/"
 }

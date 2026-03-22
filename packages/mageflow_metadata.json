@@ -1,11 +1,11 @@
 {
   "name": "mageflow",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "Manage Graph Execution Flow - A unified interface for task orchestration across different task managers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mageflow-0.3.2.tar.gz",
-  "download_time": "2026-03-08T15:46:05.014364",
+  "download_filename": "mageflow-0.3.4.tar.gz",
+  "download_time": "2026-03-22T21:54:12.273173",
   "package_url": "https://pypi.org/project/mageflow/"
 }

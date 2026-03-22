@@ -1,0 +1,11 @@
+{
+  "name": "loadpilot",
+  "version": "0.1.4",
+  "summary": "Write load tests in Python. Run them at Rust speed.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loadpilot-0.1.4.tar.gz",
+  "download_time": "2026-03-22T21:53:54.670260",
+  "package_url": "https://pypi.org/project/loadpilot/"
+}

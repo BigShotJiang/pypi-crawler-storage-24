@@ -1,0 +1,11 @@
+{
+  "name": "aniworld",
+  "version": "4.2.1",
+  "summary": "AniWorld-Downloader is a command-line tool for downloading and streaming movies and series.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aniworld-4.2.1.tar.gz",
+  "download_time": "2026-03-22T21:54:08.025726",
+  "package_url": "https://pypi.org/project/aniworld/"
+}

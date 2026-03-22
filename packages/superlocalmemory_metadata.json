@@ -1,11 +1,11 @@
 {
   "name": "superlocalmemory",
-  "version": "3.0.34",
+  "version": "3.0.36",
   "summary": "Information-geometric agent memory with mathematical guarantees",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "superlocalmemory-3.0.34.tar.gz",
-  "download_time": "2026-03-22T20:26:26.798947",
+  "download_filename": "superlocalmemory-3.0.36.tar.gz",
+  "download_time": "2026-03-22T21:54:29.561185",
   "package_url": "https://pypi.org/project/superlocalmemory/"
 }

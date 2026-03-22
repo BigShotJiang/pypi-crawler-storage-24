@@ -1,11 +1,11 @@
 {
   "name": "qoco",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "QOCO: Quadratic Objective Conic Optimizer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qoco-0.2.4.tar.gz",
-  "download_time": "2026-03-11T23:22:07.040704",
+  "download_filename": "qoco-0.2.6.tar.gz",
+  "download_time": "2026-03-22T21:54:37.043791",
   "package_url": "https://pypi.org/project/qoco/"
 }

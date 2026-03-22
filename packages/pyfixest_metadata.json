@@ -1,0 +1,11 @@
+{
+  "name": "pyfixest",
+  "version": "0.40.1",
+  "summary": "Fast high dimensional fixed effect estimation following syntax of the fixest R package.",
+  "author": "Styfen Schär",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyfixest-0.40.1.tar.gz",
+  "download_time": "2026-03-22T21:54:00.137179",
+  "package_url": "https://pypi.org/project/pyfixest/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pleasant-loggers",
-  "version": "1.5.0",
+  "version": "1.5.2",
   "summary": "robust and generic logging system for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pleasant_loggers-1.5.0.tar.gz",
-  "download_time": "2026-03-22T21:27:27.708002",
+  "download_filename": "pleasant_loggers-1.5.2.tar.gz",
+  "download_time": "2026-03-22T21:54:18.045600",
   "package_url": "https://pypi.org/project/pleasant-loggers/"
 }
