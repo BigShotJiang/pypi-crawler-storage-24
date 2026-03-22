@@ -1,0 +1,11 @@
+{
+  "name": "vmol",
+  "version": "3.0rc7",
+  "summary": "v -- A simple X11 molecular viewer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmol-3.0rc7.tar.gz",
+  "download_time": "2026-03-22T23:28:11.658045",
+  "package_url": "https://pypi.org/project/vmol/"
+}

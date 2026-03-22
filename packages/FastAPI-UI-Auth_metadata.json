@@ -1,0 +1,11 @@
+{
+  "name": "FastAPI-UI-Auth",
+  "version": "0.3.2",
+  "summary": "Python module to add username and password authentication to specific FastAPI routes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_ui_auth-0.3.2-py3-none-any.whl",
+  "download_time": "2026-03-22T23:28:25.115246",
+  "package_url": "https://pypi.org/project/FastAPI-UI-Auth/"
+}

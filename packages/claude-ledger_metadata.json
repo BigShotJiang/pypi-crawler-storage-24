@@ -1,0 +1,11 @@
+{
+  "name": "claude-ledger",
+  "version": "0.1.0",
+  "summary": "Portfolio-level project tracking for Claude Code",
+  "author": "Rob Leach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_ledger-0.1.0.tar.gz",
+  "download_time": "2026-03-22T23:27:42.712974",
+  "package_url": "https://pypi.org/project/claude-ledger/"
+}

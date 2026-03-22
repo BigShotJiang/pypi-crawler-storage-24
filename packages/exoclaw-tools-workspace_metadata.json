@@ -1,11 +1,11 @@
 {
   "name": "exoclaw-tools-workspace",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "File, shell, and web tools for exoclaw",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exoclaw_tools_workspace-0.1.0.tar.gz",
-  "download_time": "2026-03-09T11:50:26.663907",
+  "download_filename": "exoclaw_tools_workspace-0.4.0.tar.gz",
+  "download_time": "2026-03-22T23:27:56.625965",
   "package_url": "https://pypi.org/project/exoclaw-tools-workspace/"
 }

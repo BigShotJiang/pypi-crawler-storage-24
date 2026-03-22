@@ -1,11 +1,11 @@
 {
   "name": "unuforge",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Shared preset-backed automation core for the unu product family",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unuforge-0.2.0.tar.gz",
-  "download_time": "2026-03-20T23:29:21.058587",
+  "download_filename": "unuforge-0.3.0.tar.gz",
+  "download_time": "2026-03-22T23:28:07.845550",
   "package_url": "https://pypi.org/project/unuforge/"
 }

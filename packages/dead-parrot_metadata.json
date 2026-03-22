@@ -1,11 +1,11 @@
 {
   "name": "dead-parrot",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Framework for Scalable AI Assistants",
   "author": "Lucas Konstantin Bärenfänger",
   "license": null,
   "home_page": null,
-  "download_filename": "dead_parrot-0.1.2.tar.gz",
-  "download_time": "2026-03-13T23:53:08.094977",
+  "download_filename": "dead_parrot-0.1.3.tar.gz",
+  "download_time": "2026-03-22T23:28:06.182604",
   "package_url": "https://pypi.org/project/dead-parrot/"
 }

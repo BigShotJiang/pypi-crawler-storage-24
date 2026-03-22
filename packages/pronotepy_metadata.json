@@ -1,0 +1,11 @@
+{
+  "name": "pronotepy",
+  "version": "2.14.6",
+  "summary": "A wrapper for the pronote \"API\"",
+  "author": "bain",
+  "license": "MIT",
+  "home_page": "https://www.github.com/bain3/pronotepy",
+  "download_filename": "pronotepy-2.14.6.tar.gz",
+  "download_time": "2026-03-22T23:28:25.652221",
+  "package_url": "https://pypi.org/project/pronotepy/"
+}

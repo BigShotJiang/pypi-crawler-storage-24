@@ -1,11 +1,11 @@
 {
   "name": "omninode-intelligence",
-  "version": "0.16.0",
+  "version": "0.16.2",
   "summary": "Intelligence, indexing, and pattern services as first-class Omninode nodes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omninode_intelligence-0.16.0.tar.gz",
-  "download_time": "2026-03-20T14:11:58.409158",
+  "download_filename": "omninode_intelligence-0.16.2.tar.gz",
+  "download_time": "2026-03-22T23:27:49.227958",
   "package_url": "https://pypi.org/project/omninode-intelligence/"
 }

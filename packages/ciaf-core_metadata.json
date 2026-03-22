@@ -1,11 +1,11 @@
 {
   "name": "ciaf-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Canonical schemas, validation, and cryptographic preparation utilities for CIAF processes.",
   "author": null,
   "license": "Business Source License 1.1",
   "home_page": null,
-  "download_filename": "ciaf_core-0.1.1.tar.gz",
-  "download_time": "2026-03-22T22:56:38.787943",
+  "download_filename": "ciaf_core-0.1.2.tar.gz",
+  "download_time": "2026-03-22T23:27:47.367016",
   "package_url": "https://pypi.org/project/ciaf-core/"
 }

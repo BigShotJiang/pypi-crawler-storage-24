@@ -1,0 +1,11 @@
+{
+  "name": "hcb",
+  "version": "1.0.0",
+  "summary": "Python wrapper for the HCB v3 API",
+  "author": "trag1c",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hcb-1.0.0.tar.gz",
+  "download_time": "2026-03-22T23:28:27.886230",
+  "package_url": "https://pypi.org/project/hcb/"
+}

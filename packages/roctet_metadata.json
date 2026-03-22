@@ -1,0 +1,11 @@
+{
+  "name": "roctet",
+  "version": "0.1.0",
+  "summary": "Generate diverse score-target datasets with the same AUROC value, ala Anscombe's Quartet",
+  "author": "Emily Riederer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "roctet-0.1.0.tar.gz",
+  "download_time": "2026-03-22T23:28:00.518176",
+  "package_url": "https://pypi.org/project/roctet/"
+}

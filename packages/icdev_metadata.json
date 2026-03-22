@@ -1,11 +1,11 @@
 {
   "name": "icdev",
-  "version": "1.1.0",
-  "summary": "Intelligent Certified Development Environment — AI-powered SDLC platform with NIST 800-53 RMF compliance, multi-agent orchestration, and the GOTCHA framework.",
+  "version": "1.1.1",
+  "summary": "ICDEV™ — Intelligent Certified Development Environment. AI-powered SDLC platform with NIST 800-53 RMF compliance, multi-agent orchestration, and the GOTCHA framework.",
   "author": "Sovanna Chuon",
   "license": null,
   "home_page": null,
-  "download_filename": "icdev-1.1.0.tar.gz",
-  "download_time": "2026-03-21T20:54:59.611654",
+  "download_filename": "icdev-1.1.1.tar.gz",
+  "download_time": "2026-03-22T23:28:20.705631",
   "package_url": "https://pypi.org/project/icdev/"
 }

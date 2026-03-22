@@ -1,0 +1,11 @@
+{
+  "name": "aws-fleet-scout",
+  "version": "1.0.2",
+  "summary": "Scout optimal AWS compute for cluster workloads. Compare spot, capacity blocks, and on-demand pricing across regions and instance types. Auto-discover instances for CPU and GPU deployments with HPC schedulers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aws_fleet_scout-1.0.2.tar.gz",
+  "download_time": "2026-03-22T23:28:15.405767",
+  "package_url": "https://pypi.org/project/aws-fleet-scout/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inventree-ssonamesync",
+  "version": "0.1.0",
+  "summary": "Syncs first/last name from SSO provider on every InvenTree login",
+  "author": "hillsandales",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inventree_ssonamesync-0.1.0.tar.gz",
+  "download_time": "2026-03-22T23:27:58.264293",
+  "package_url": "https://pypi.org/project/inventree-ssonamesync/"
+}

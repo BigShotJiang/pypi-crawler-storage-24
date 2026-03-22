@@ -1,0 +1,11 @@
+{
+  "name": "vcti-path",
+  "version": "1.0.3",
+  "summary": "Safe path handling for VCollab applications",
+  "author": "Visual Collaboration Technologies Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vcti_path-1.0.3.tar.gz",
+  "download_time": "2026-03-22T23:28:02.311543",
+  "package_url": "https://pypi.org/project/vcti-path/"
+}
