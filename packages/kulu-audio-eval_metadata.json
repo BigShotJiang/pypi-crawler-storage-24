@@ -1,11 +1,11 @@
 {
   "name": "kulu-audio-eval",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "Voice agent audio evaluation: cutout detection, latency metrics, and failure inference",
   "author": "Kulu",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "kulu_audio_eval-0.0.4.tar.gz",
-  "download_time": "2026-03-22T06:36:43.171583",
+  "download_filename": "kulu_audio_eval-0.0.6.tar.gz",
+  "download_time": "2026-03-22T07:32:58.907361",
   "package_url": "https://pypi.org/project/kulu-audio-eval/"
 }

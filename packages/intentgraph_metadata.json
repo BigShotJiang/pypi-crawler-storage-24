@@ -1,0 +1,11 @@
+{
+  "name": "intentgraph",
+  "version": "0.5.4",
+  "summary": "Static code analysis CLI tool optimized for AI agent context windows - Python, JavaScript, TypeScript, and Go analysis with intelligent clustering and AI-friendly output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "intentgraph-0.5.4.tar.gz",
+  "download_time": "2026-03-22T07:33:31.361846",
+  "package_url": "https://pypi.org/project/intentgraph/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mrp-sdk",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Python SDK for the MRP (Machine Relay Protocol) relay service",
   "author": "MRP Hub",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mrp_sdk-0.2.6.tar.gz",
-  "download_time": "2026-03-21T11:49:15.644100",
+  "download_filename": "mrp_sdk-0.2.7.tar.gz",
+  "download_time": "2026-03-22T07:33:10.755094",
   "package_url": "https://pypi.org/project/mrp-sdk/"
 }

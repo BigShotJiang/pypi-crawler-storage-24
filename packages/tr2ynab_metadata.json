@@ -1,0 +1,11 @@
+{
+  "name": "tr2ynab",
+  "version": "1.1.1",
+  "summary": "A tool to sync Trade Republic transactions with YNAB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tr2ynab-1.1.1.tar.gz",
+  "download_time": "2026-03-22T07:33:18.488458",
+  "package_url": "https://pypi.org/project/tr2ynab/"
+}

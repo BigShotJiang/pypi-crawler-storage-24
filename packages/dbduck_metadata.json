@@ -1,0 +1,11 @@
+{
+  "name": "dbduck",
+  "version": "0.2.0",
+  "summary": "Universal Data Object Model - one API for every database",
+  "author": "Veeresh Hanni",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbduck-0.2.0.tar.gz",
+  "download_time": "2026-03-22T07:33:01.476766",
+  "package_url": "https://pypi.org/project/dbduck/"
+}

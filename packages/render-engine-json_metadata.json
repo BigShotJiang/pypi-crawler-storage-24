@@ -1,0 +1,11 @@
+{
+  "name": "render-engine-json",
+  "version": "2025.3.1",
+  "summary": "JSON Parser and Collection for Render Engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "render_engine_json-2025.3.1.tar.gz",
+  "download_time": "2026-03-22T07:32:54.289208",
+  "package_url": "https://pypi.org/project/render-engine-json/"
+}

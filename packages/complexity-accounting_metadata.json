@@ -1,0 +1,11 @@
+{
+  "name": "complexity-accounting",
+  "version": "1.6.0",
+  "summary": "Measure Net Complexity Score for codebases — cognitive complexity, trend tracking, CI integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "complexity_accounting-1.6.0.tar.gz",
+  "download_time": "2026-03-22T07:33:32.385100",
+  "package_url": "https://pypi.org/project/complexity-accounting/"
+}

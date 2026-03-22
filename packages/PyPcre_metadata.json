@@ -1,11 +1,11 @@
 {
   "name": "PyPcre",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "summary": "Modern, GIL-friendly, Fast Python bindings for PCRE2 with auto caching and JIT of compiled patterns.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypcre-0.2.14.tar.gz",
-  "download_time": "2026-03-21T12:51:49.773833",
+  "download_filename": "pypcre-0.2.15.tar.gz",
+  "download_time": "2026-03-22T07:33:35.455993",
   "package_url": "https://pypi.org/project/PyPcre/"
 }

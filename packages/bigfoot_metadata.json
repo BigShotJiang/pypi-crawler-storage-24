@@ -1,11 +1,11 @@
 {
   "name": "bigfoot",
-  "version": "0.13.2",
+  "version": "0.15.0",
   "summary": "Full-certainty test mocking: every call recorded and verified",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bigfoot-0.13.2.tar.gz",
-  "download_time": "2026-03-20T06:13:27.207619",
+  "download_filename": "bigfoot-0.15.0.tar.gz",
+  "download_time": "2026-03-22T07:33:05.059250",
   "package_url": "https://pypi.org/project/bigfoot/"
 }

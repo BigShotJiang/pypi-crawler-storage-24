@@ -1,0 +1,11 @@
+{
+  "name": "trustformers",
+  "version": "0.1.0",
+  "summary": "Python bindings for TrustformeRS - High-performance Rust Transformers library",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cool-japan/trustformers",
+  "download_filename": "trustformers-0.1.0-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-22T07:33:23.111170",
+  "package_url": "https://pypi.org/project/trustformers/"
+}

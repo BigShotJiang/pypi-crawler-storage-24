@@ -1,0 +1,11 @@
+{
+  "name": "vgsot-sim",
+  "version": "0.1.0",
+  "summary": "VGSOT/SOT MTJ switching simulation (electronic + anisotropy + LLG step solver)",
+  "author": "Jincheng Zhang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vgsot_sim-0.1.0.tar.gz",
+  "download_time": "2026-03-22T07:33:27.239497",
+  "package_url": "https://pypi.org/project/vgsot-sim/"
+}
