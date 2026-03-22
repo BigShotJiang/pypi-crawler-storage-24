@@ -1,0 +1,11 @@
+{
+  "name": "pycodegate",
+  "version": "0.2.0",
+  "summary": "Trust, but verify. The quality gate for AI-generated Python code.",
+  "author": "Mohit Khare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycodegate-0.2.0.tar.gz",
+  "download_time": "2026-03-22T14:51:23.154231",
+  "package_url": "https://pypi.org/project/pycodegate/"
+}

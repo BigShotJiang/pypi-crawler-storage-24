@@ -1,11 +1,11 @@
 {
   "name": "steamedbun",
-  "version": "2.4.3",
+  "version": "2.4.5",
   "summary": "馒头的第三方库",
   "author": "馒头",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/neihanshenshou/SteamedBun",
-  "download_filename": "steamedbun-2.4.3.tar.gz",
-  "download_time": "2026-03-19T16:31:43.059193",
+  "download_filename": "steamedbun-2.4.5-py3-none-any.whl",
+  "download_time": "2026-03-22T14:51:27.832130",
   "package_url": "https://pypi.org/project/steamedbun/"
 }

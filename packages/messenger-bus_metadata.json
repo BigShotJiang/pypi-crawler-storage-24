@@ -1,0 +1,11 @@
+{
+  "name": "messenger-bus",
+  "version": "1.2.5",
+  "summary": "Bus messaging system",
+  "author": "Zacharie Assagou",
+  "license": "BSD 2-clause",
+  "home_page": "https://github.com/CoteOuestAudiovisuel/messenger_bus",
+  "download_filename": "messenger_bus-1.2.5.tar.gz",
+  "download_time": "2026-03-22T14:51:12.808884",
+  "package_url": "https://pypi.org/project/messenger-bus/"
+}

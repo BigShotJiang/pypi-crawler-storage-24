@@ -1,11 +1,11 @@
 {
   "name": "clauto-opt",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Claude Automatic Optimizer — wraps PyTorch optimizers and consults Claude to tune hyperparameters",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clauto_opt-0.1.0.tar.gz",
-  "download_time": "2026-03-15T20:56:21.670105",
+  "download_filename": "clauto_opt-0.1.3.tar.gz",
+  "download_time": "2026-03-22T14:51:57.924766",
   "package_url": "https://pypi.org/project/clauto-opt/"
 }

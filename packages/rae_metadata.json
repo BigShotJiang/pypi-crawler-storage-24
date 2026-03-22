@@ -1,0 +1,11 @@
+{
+  "name": "rae",
+  "version": "0.9.0",
+  "summary": "Consulta el diccionario de la RAE",
+  "author": "Ángel Carmona Galán",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rae-0.9.0.tar.gz",
+  "download_time": "2026-03-22T14:51:15.413451",
+  "package_url": "https://pypi.org/project/rae/"
+}

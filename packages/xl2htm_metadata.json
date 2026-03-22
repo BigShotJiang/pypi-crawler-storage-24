@@ -1,0 +1,11 @@
+{
+  "name": "xl2htm",
+  "version": "0.1.0",
+  "summary": "Convert Excel file to HTML (Support merged cells and hidden rows/columns)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xl2htm-0.1.0.tar.gz",
+  "download_time": "2026-03-22T14:51:40.296008",
+  "package_url": "https://pypi.org/project/xl2htm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gitgalaxy",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "summary": "Visualizes codebase complexity as explorable 3D galaxies.",
-  "author": "Joseph Michael Esquibel",
+  "author": "Joe Esquibel",
   "license": "PolyForm Noncommercial License 1.0.0",
   "home_page": null,
-  "download_filename": "gitgalaxy-0.1.0.tar.gz",
-  "download_time": "2026-03-22T14:11:24.300798",
+  "download_filename": "gitgalaxy-1.0.2.tar.gz",
+  "download_time": "2026-03-22T14:51:49.078052",
   "package_url": "https://pypi.org/project/gitgalaxy/"
 }

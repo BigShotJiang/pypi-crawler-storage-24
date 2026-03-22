@@ -1,0 +1,11 @@
+{
+  "name": "yfinance-cache",
+  "version": "0.8.0",
+  "summary": "Smart caching wrapper for 'yfinance' module",
+  "author": "ValueRaider",
+  "license": null,
+  "home_page": "https://github.com/ValueRaider/yfinance-cache",
+  "download_filename": "yfinance_cache-0.8.0.tar.gz",
+  "download_time": "2026-03-22T14:51:56.880985",
+  "package_url": "https://pypi.org/project/yfinance-cache/"
+}

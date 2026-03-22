@@ -1,11 +1,11 @@
 {
   "name": "telegram-dl",
-  "version": "1.0.3",
-  "summary": "Download videos from Telegram channels",
+  "version": "2.0.1",
+  "summary": "A production-ready Python CLI tool to download videos from Telegram channels",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "telegram_dl-1.0.3.tar.gz",
-  "download_time": "2026-03-22T14:11:28.408227",
+  "download_filename": "telegram_dl-2.0.1.tar.gz",
+  "download_time": "2026-03-22T14:51:58.972425",
   "package_url": "https://pypi.org/project/telegram-dl/"
 }
