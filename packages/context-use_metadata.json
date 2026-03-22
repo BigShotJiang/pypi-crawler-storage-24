@@ -1,11 +1,11 @@
 {
   "name": "context-use",
-  "version": "0.11.1",
+  "version": "0.12.0",
   "summary": "Portable AI memory from your conversations and data exports.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "context_use-0.11.1.tar.gz",
-  "download_time": "2026-03-21T11:49:33.652960",
+  "download_filename": "context_use-0.12.0.tar.gz",
+  "download_time": "2026-03-22T08:36:16.144406",
   "package_url": "https://pypi.org/project/context-use/"
 }

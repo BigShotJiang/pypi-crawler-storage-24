@@ -1,11 +1,11 @@
 {
   "name": "attipy",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Attitude estimation using IMU measurements in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "attipy-0.0.13.tar.gz",
-  "download_time": "2026-03-22T08:02:33.741701",
+  "download_filename": "attipy-0.0.14.tar.gz",
+  "download_time": "2026-03-22T08:36:10.328258",
   "package_url": "https://pypi.org/project/attipy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "java-functional-lsp",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "Java LSP server enforcing functional programming best practices — null safety, immutability, no exceptions",
   "author": "Aviad S.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "java_functional_lsp-0.4.2.tar.gz",
-  "download_time": "2026-03-21T22:54:42.186521",
+  "download_filename": "java_functional_lsp-0.5.0.tar.gz",
+  "download_time": "2026-03-22T08:36:44.686991",
   "package_url": "https://pypi.org/project/java-functional-lsp/"
 }

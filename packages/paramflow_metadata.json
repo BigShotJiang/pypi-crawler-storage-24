@@ -1,11 +1,11 @@
 {
   "name": "paramflow",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "summary": "A lightweight library for hyperparameter and configuration management",
   "author": null,
   "license": null,
   "home_page": "https://github.com/mduszyk/paramflow",
-  "download_filename": "paramflow-0.5.8.tar.gz",
-  "download_time": "2026-03-21T15:06:02.824337",
+  "download_filename": "paramflow-0.5.9.tar.gz",
+  "download_time": "2026-03-22T08:36:06.000935",
   "package_url": "https://pypi.org/project/paramflow/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "memorycoreclaw",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "A human-like memory engine for AI applications with safety enhancements",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memorycoreclaw-2.1.0.tar.gz",
-  "download_time": "2026-03-22T08:02:17.852645",
+  "download_filename": "memorycoreclaw-2.1.1.tar.gz",
+  "download_time": "2026-03-22T08:36:49.334553",
   "package_url": "https://pypi.org/project/memorycoreclaw/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mimiqlink",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "Core client library for the QPerfect MIMIQ Cloud API",
   "author": "Guido Masella",
   "license": null,
   "home_page": null,
-  "download_filename": "mimiqlink-0.8.3.tar.gz",
-  "download_time": "2026-03-21T11:24:25.208705",
+  "download_filename": "mimiqlink-0.8.4.tar.gz",
+  "download_time": "2026-03-22T08:36:39.987883",
   "package_url": "https://pypi.org/project/mimiqlink/"
 }

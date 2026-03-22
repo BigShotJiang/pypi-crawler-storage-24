@@ -1,11 +1,11 @@
 {
   "name": "pyxclip",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Cross-platform clipboard access with zero external dependencies. No xclip or xsel needed on Linux.",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/abbazs/pyxclip",
-  "download_filename": "pyxclip-0.2.1.tar.gz",
-  "download_time": "2026-03-22T06:36:31.868860",
+  "download_filename": "pyxclip-0.2.2.tar.gz",
+  "download_time": "2026-03-22T08:36:41.045641",
   "package_url": "https://pypi.org/project/pyxclip/"
 }

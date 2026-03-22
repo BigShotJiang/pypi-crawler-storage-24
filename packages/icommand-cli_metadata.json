@@ -1,0 +1,11 @@
+{
+  "name": "icommand-cli",
+  "version": "0.1.0",
+  "summary": "AI-powered terminal command history search",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icommand_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-22T08:36:48.312445",
+  "package_url": "https://pypi.org/project/icommand-cli/"
+}

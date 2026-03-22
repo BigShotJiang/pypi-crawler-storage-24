@@ -1,11 +1,11 @@
 {
   "name": "uv-workspace-dynamic-versioning",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A dynamic version source plugin for uv workspaces.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "uv_workspace_dynamic_versioning-0.1.0.tar.gz",
-  "download_time": "2026-03-17T21:00:56.001681",
+  "download_filename": "uv_workspace_dynamic_versioning-0.1.1.tar.gz",
+  "download_time": "2026-03-22T08:36:14.066895",
   "package_url": "https://pypi.org/project/uv-workspace-dynamic-versioning/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "candy-ai",
-  "version": "11.0.0",
-  "summary": "Client Python pour Cedric7-Thinking — 50 personnalités, Helper, CLI, fichiers .cdy, profils, conversations, batch, streaming.",
+  "version": "13.0.0",
+  "summary": "Pont Python vers Cedric7-Thinking — 90 personnalités, 20 utilitaires, Helper, CLI, profils, conversations, batch, streaming.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "candy_ai-11.0.0.tar.gz",
-  "download_time": "2026-03-22T08:02:29.947499",
+  "download_filename": "candy_ai-13.0.0.tar.gz",
+  "download_time": "2026-03-22T08:36:16.656082",
   "package_url": "https://pypi.org/project/candy-ai/"
 }
