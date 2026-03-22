@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-pve-exporter",
+  "version": "3.8.2",
+  "summary": "Proxmox VE exporter for the Prometheus monitoring system.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "prometheus_pve_exporter-3.8.2.tar.gz",
+  "download_time": "2026-03-22T14:11:49.014595",
+  "package_url": "https://pypi.org/project/prometheus-pve-exporter/"
+}

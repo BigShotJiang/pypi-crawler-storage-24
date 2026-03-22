@@ -1,0 +1,11 @@
+{
+  "name": "rmt-denoise",
+  "version": "1.0.0",
+  "summary": "Image denoising via Random Matrix Theory: M-P Law and Generalized Covariance Matrix",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rmt_denoise-1.0.0.tar.gz",
+  "download_time": "2026-03-22T14:11:30.818384",
+  "package_url": "https://pypi.org/project/rmt-denoise/"
+}

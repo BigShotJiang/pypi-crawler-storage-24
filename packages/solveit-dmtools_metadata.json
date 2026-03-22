@@ -1,11 +1,11 @@
 {
   "name": "solveit-dmtools",
-  "version": "0.0.26",
+  "version": "0.0.28",
   "summary": "Personalized tools to add functionality to SolveIt",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "solveit_dmtools-0.0.26.tar.gz",
-  "download_time": "2026-03-07T14:19:20.597772",
+  "download_filename": "solveit_dmtools-0.0.28.tar.gz",
+  "download_time": "2026-03-22T14:11:43.862467",
   "package_url": "https://pypi.org/project/solveit-dmtools/"
 }

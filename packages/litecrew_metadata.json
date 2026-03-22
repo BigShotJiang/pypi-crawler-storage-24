@@ -1,0 +1,11 @@
+{
+  "name": "litecrew",
+  "version": "0.1.0",
+  "summary": "Multi-agent orchestration in ~100 lines. No magic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "litecrew-0.1.0.tar.gz",
+  "download_time": "2026-03-22T14:11:09.323769",
+  "package_url": "https://pypi.org/project/litecrew/"
+}

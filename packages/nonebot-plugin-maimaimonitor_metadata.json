@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-maimaimonitor",
-  "version": "26.1.11",
+  "version": "26.1.12",
   "summary": "A NoneBot2 plugin to report maimai server status.",
   "author": "Chongxi3555",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_maimaimonitor-26.1.11.tar.gz",
-  "download_time": "2026-03-22T13:02:44.797462",
+  "download_filename": "nonebot_plugin_maimaimonitor-26.1.12.tar.gz",
+  "download_time": "2026-03-22T14:11:27.824478",
   "package_url": "https://pypi.org/project/nonebot-plugin-maimaimonitor/"
 }

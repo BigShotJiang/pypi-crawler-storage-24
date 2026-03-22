@@ -1,11 +1,11 @@
 {
   "name": "brightohir",
-  "version": "2.0.1",
+  "version": "2.1.2",
   "summary": "BrighTO HL7 Interoperability Runtime — FHIR R5, R4↔R5, V2.x↔R5 Python SDK",
   "author": "BrighTO Technology / Hatto AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brightohir-2.0.1.tar.gz",
-  "download_time": "2026-03-22T12:03:50.517001",
+  "download_filename": "brightohir-2.1.2.tar.gz",
+  "download_time": "2026-03-22T14:11:22.170056",
   "package_url": "https://pypi.org/project/brightohir/"
 }

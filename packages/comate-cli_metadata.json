@@ -1,11 +1,11 @@
 {
   "name": "comate-cli",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Comate terminal CLI built on comate-agent-sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comate_cli-0.2.3.tar.gz",
-  "download_time": "2026-03-17T13:55:20.797742",
+  "download_filename": "comate_cli-0.2.5.tar.gz",
+  "download_time": "2026-03-22T14:11:24.873891",
   "package_url": "https://pypi.org/project/comate-cli/"
 }

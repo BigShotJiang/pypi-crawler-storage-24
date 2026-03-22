@@ -1,0 +1,11 @@
+{
+  "name": "telegram-dl",
+  "version": "1.0.3",
+  "summary": "Download videos from Telegram channels",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telegram_dl-1.0.3.tar.gz",
+  "download_time": "2026-03-22T14:11:28.408227",
+  "package_url": "https://pypi.org/project/telegram-dl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kopi-docka",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "summary": "Robust cold backups for Docker environments using Kopia",
   "author": "Markus F. (TZERO78)",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kopi_docka-6.2.2.tar.gz",
-  "download_time": "2026-03-22T11:24:56.934926",
+  "download_filename": "kopi_docka-6.2.3.tar.gz",
+  "download_time": "2026-03-22T14:11:46.971944",
   "package_url": "https://pypi.org/project/kopi-docka/"
 }

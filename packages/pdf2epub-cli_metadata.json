@@ -1,0 +1,11 @@
+{
+  "name": "pdf2epub-cli",
+  "version": "0.1.0",
+  "summary": "Python CLI for turning PDF books into clean, readable EPUB files",
+  "author": "破晓",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf2epub_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-22T14:11:44.371637",
+  "package_url": "https://pypi.org/project/pdf2epub-cli/"
+}

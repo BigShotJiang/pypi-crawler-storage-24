@@ -1,0 +1,11 @@
+{
+  "name": "orb-py",
+  "version": "2.0.0",
+  "summary": "Open Resource Broker (ORB) — dynamic cloud resource provisioning via CLI and REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orb_py-2.0.0.tar.gz",
+  "download_time": "2026-03-22T14:11:47.994199",
+  "package_url": "https://pypi.org/project/orb-py/"
+}
