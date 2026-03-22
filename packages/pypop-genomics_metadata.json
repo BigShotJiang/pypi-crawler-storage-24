@@ -1,0 +1,11 @@
+{
+  "name": "pypop-genomics",
+  "version": "1.4.1",
+  "summary": "PyPop: Python for Population Genomics",
+  "author": "Alex Lancaster",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "pypop_genomics-1.4.1.tar.gz",
+  "download_time": "2026-03-22T22:26:37.721894",
+  "package_url": "https://pypi.org/project/pypop-genomics/"
+}

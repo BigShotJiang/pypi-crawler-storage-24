@@ -1,0 +1,11 @@
+{
+  "name": "binance_syncer",
+  "version": "4.0.1",
+  "summary": "A high-performance synchronization tool for downloading and managing Binance historical data (klines, trades, etc.) asynchronously. It supports both local and S3 storage with intelligent data optimization (monthly vs daily preference).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "binance_syncer-4.0.1.tar.gz",
+  "download_time": "2026-03-22T22:26:21.914648",
+  "package_url": "https://pypi.org/project/binance_syncer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fuggers-py",
-  "version": "0.1.0b2",
-  "summary": "Fixed-income analytics, market-data traits, and research-oriented engine workflows.",
+  "version": "0.2.1",
+  "summary": "Fixed-income analytics, pricing helpers, and worked examples.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fuggers_py-0.1.0b2.tar.gz",
-  "download_time": "2026-03-18T20:43:56.482023",
+  "download_filename": "fuggers_py-0.2.1.tar.gz",
+  "download_time": "2026-03-22T22:26:17.230951",
   "package_url": "https://pypi.org/project/fuggers-py/"
 }

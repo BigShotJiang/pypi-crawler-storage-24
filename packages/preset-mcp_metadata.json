@@ -1,0 +1,11 @@
+{
+  "name": "preset-mcp",
+  "version": "0.7.2",
+  "summary": "MCP server for Preset (Superset) — manage dashboards, charts, and datasets from Claude Code and other LLM agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "preset_mcp-0.7.2.tar.gz",
+  "download_time": "2026-03-22T22:26:13.537247",
+  "package_url": "https://pypi.org/project/preset-mcp/"
+}

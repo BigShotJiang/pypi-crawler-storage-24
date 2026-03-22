@@ -1,0 +1,11 @@
+{
+  "name": "PlexAPI",
+  "version": "4.18.1",
+  "summary": "Python bindings for the Plex API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plexapi-4.18.1.tar.gz",
+  "download_time": "2026-03-22T22:26:01.163296",
+  "package_url": "https://pypi.org/project/PlexAPI/"
+}

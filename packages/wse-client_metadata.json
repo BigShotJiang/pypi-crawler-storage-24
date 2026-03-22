@@ -1,0 +1,11 @@
+{
+  "name": "wse-client",
+  "version": "2.3.2",
+  "summary": "Python client for WSE (WebSocket Engine) -- real-time event streaming",
+  "author": "silvermpx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wse_client-2.3.2.tar.gz",
+  "download_time": "2026-03-22T22:26:32.036561",
+  "package_url": "https://pypi.org/project/wse-client/"
+}

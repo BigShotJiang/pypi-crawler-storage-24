@@ -1,0 +1,11 @@
+{
+  "name": "polymarket-cli",
+  "version": "0.2.0",
+  "summary": "Production-oriented read-only CLI wrapper around Polymarket public Gamma + CLOB APIs",
+  "author": "ra1nty",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polymarket_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-22T22:26:02.968974",
+  "package_url": "https://pypi.org/project/polymarket-cli/"
+}

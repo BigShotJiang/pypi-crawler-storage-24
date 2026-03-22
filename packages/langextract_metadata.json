@@ -1,0 +1,11 @@
+{
+  "name": "langextract",
+  "version": "1.2.0",
+  "summary": "LangExtract: A library for extracting structured data from language models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langextract-1.2.0.tar.gz",
+  "download_time": "2026-03-22T22:26:05.475618",
+  "package_url": "https://pypi.org/project/langextract/"
+}

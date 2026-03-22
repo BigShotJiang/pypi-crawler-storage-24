@@ -1,11 +1,11 @@
 {
   "name": "pyckingsolver",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Shapely-based Python interface for PackingSolver — 2D irregular bin packing & nesting",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pyckingsolver-0.1.3-py3-none-manylinux_2_35_x86_64.whl",
-  "download_time": "2026-03-18T20:02:29.850470",
+  "download_filename": "pyckingsolver-0.1.5-py3-none-manylinux_2_35_x86_64.whl",
+  "download_time": "2026-03-22T22:25:56.788064",
   "package_url": "https://pypi.org/project/pyckingsolver/"
 }

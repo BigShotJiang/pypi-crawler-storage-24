@@ -1,11 +1,11 @@
 {
   "name": "roboflex.webcam-gst",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Roboflex module that streams webcams via GStreamer",
   "author": "Colin Prepscius",
   "license": "MIT",
   "home_page": "https://github.com/flexrobotics/roboflex_webcam_gst",
-  "download_filename": "roboflex_webcam_gst-0.1.2.tar.gz",
-  "download_time": "2026-03-10T13:40:02.406302",
+  "download_filename": "roboflex_webcam_gst-0.1.4.tar.gz",
+  "download_time": "2026-03-22T22:25:52.450297",
   "package_url": "https://pypi.org/project/roboflex.webcam-gst/"
 }

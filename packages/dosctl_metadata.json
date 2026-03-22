@@ -1,11 +1,11 @@
 {
   "name": "dosctl",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "summary": "A command-line tool to manage and play DOS games via DOSBox.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dosctl-1.9.1.tar.gz",
-  "download_time": "2026-03-22T21:54:30.644026",
+  "download_filename": "dosctl-1.9.2.tar.gz",
+  "download_time": "2026-03-22T22:26:10.357731",
   "package_url": "https://pypi.org/project/dosctl/"
 }

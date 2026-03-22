@@ -1,0 +1,11 @@
+{
+  "name": "castops",
+  "version": "0.2.1",
+  "summary": "CAST — DevSecOps governance toolkit for GitHub Actions and GitLab CI",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "castops-0.2.1.tar.gz",
+  "download_time": "2026-03-22T22:26:36.516819",
+  "package_url": "https://pypi.org/project/castops/"
+}

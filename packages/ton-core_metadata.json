@@ -1,11 +1,11 @@
 {
   "name": "ton-core",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python core for TON Blockchain — primitives, data types, and utilities.",
   "author": "nessshon",
   "license": null,
   "home_page": null,
-  "download_filename": "ton_core-0.2.0.tar.gz",
-  "download_time": "2026-03-22T21:26:54.672879",
+  "download_filename": "ton_core-0.3.0.tar.gz",
+  "download_time": "2026-03-22T22:25:59.880531",
   "package_url": "https://pypi.org/project/ton-core/"
 }

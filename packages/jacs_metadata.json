@@ -1,11 +1,11 @@
 {
   "name": "jacs",
-  "version": "0.9.5",
+  "version": "0.9.10",
   "summary": "JACS - JSON AI Communication Standard: Cryptographic signing and verification for AI agents.",
   "author": null,
   "license": "Apache-2.0 OR MIT",
   "home_page": null,
-  "download_filename": "jacs-0.9.5.tar.gz",
-  "download_time": "2026-03-17T05:41:08.339349",
+  "download_filename": "jacs-0.9.10.tar.gz",
+  "download_time": "2026-03-22T22:25:57.446046",
   "package_url": "https://pypi.org/project/jacs/"
 }
