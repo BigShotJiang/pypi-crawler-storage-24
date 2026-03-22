@@ -1,0 +1,11 @@
+{
+  "name": "smartdb",
+  "version": "0.9",
+  "summary": "smartchart db",
+  "author": "JohnYan",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.smartchart.cn/",
+  "download_filename": "smartdb-0.9-py3-none-any.whl",
+  "download_time": "2026-03-22T09:09:42.530209",
+  "package_url": "https://pypi.org/project/smartdb/"
+}

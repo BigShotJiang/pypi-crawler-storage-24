@@ -1,11 +1,11 @@
 {
   "name": "lisette",
-  "version": "0.0.49",
+  "version": "0.0.50",
   "summary": "litellm helper",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lisette-0.0.49.tar.gz",
-  "download_time": "2026-03-22T08:36:32.706157",
+  "download_filename": "lisette-0.0.50.tar.gz",
+  "download_time": "2026-03-22T09:09:22.737033",
   "package_url": "https://pypi.org/project/lisette/"
 }

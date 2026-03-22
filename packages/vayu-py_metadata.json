@@ -1,0 +1,11 @@
+{
+  "name": "vayu-py",
+  "version": "0.3.4",
+  "summary": "The Vayu API client library in Python",
+  "author": "Vayu Team",
+  "license": null,
+  "home_page": "https://github.com/vayucode/vayu-sdks",
+  "download_filename": "vayu_py-0.3.4.tar.gz",
+  "download_time": "2026-03-22T09:09:28.035631",
+  "package_url": "https://pypi.org/project/vayu-py/"
+}

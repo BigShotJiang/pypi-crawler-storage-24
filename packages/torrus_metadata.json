@@ -1,0 +1,11 @@
+{
+  "name": "torrus",
+  "version": "0.1.1",
+  "summary": "Web-based SSH terminal that works behind any reverse proxy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torrus-0.1.1.tar.gz",
+  "download_time": "2026-03-22T09:09:14.174980",
+  "package_url": "https://pypi.org/project/torrus/"
+}

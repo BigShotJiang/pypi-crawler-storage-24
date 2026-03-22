@@ -1,11 +1,11 @@
 {
   "name": "pyrsistencesniper",
-  "version": "1.0.0",
+  "version": "0.7.1",
   "summary": "Offline Windows Persistence Detection",
   "author": "Maurice Fielenbach",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyrsistencesniper-1.0.0.tar.gz",
-  "download_time": "2026-03-22T08:36:23.887116",
+  "download_filename": "pyrsistencesniper-0.7.1.tar.gz",
+  "download_time": "2026-03-22T09:09:26.972796",
   "package_url": "https://pypi.org/project/pyrsistencesniper/"
 }

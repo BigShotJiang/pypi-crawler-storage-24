@@ -1,11 +1,11 @@
 {
   "name": "aiowata",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Async Python SDK for the WATA payment system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiowata-0.1.0.tar.gz",
-  "download_time": "2026-03-22T07:32:54.800659",
+  "download_filename": "aiowata-0.1.1.tar.gz",
+  "download_time": "2026-03-22T09:09:32.294232",
   "package_url": "https://pypi.org/project/aiowata/"
 }

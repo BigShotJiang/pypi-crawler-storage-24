@@ -1,0 +1,11 @@
+{
+  "name": "dais-shell",
+  "version": "0.1.3",
+  "summary": "The shell tool for Dais.",
+  "author": "BHznJNs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dais_shell-0.1.3.tar.gz",
+  "download_time": "2026-03-22T09:09:13.624100",
+  "package_url": "https://pypi.org/project/dais-shell/"
+}

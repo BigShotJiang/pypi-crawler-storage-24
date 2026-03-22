@@ -1,11 +1,11 @@
 {
   "name": "codesecure-mcp",
-  "version": "1.0.14",
+  "version": "1.0.18",
   "summary": "CodeSecure MCP Server Hub",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codesecure_mcp-1.0.14-py3-none-any.whl",
-  "download_time": "2026-03-15T12:49:20.830134",
+  "download_filename": "codesecure_mcp-1.0.18-py3-none-any.whl",
+  "download_time": "2026-03-22T09:09:15.256111",
   "package_url": "https://pypi.org/project/codesecure-mcp/"
 }

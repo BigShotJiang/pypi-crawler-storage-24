@@ -1,0 +1,11 @@
+{
+  "name": "screenman",
+  "version": "0.1.3",
+  "summary": "A Python tool to manage and configure multi-monitor setups using EDID information, allowing users to apply predefined screen layouts with ease.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "screenman-0.1.3.tar.gz",
+  "download_time": "2026-03-22T09:09:38.731968",
+  "package_url": "https://pypi.org/project/screenman/"
+}

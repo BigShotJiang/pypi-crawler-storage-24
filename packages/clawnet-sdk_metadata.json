@@ -1,11 +1,11 @@
 {
   "name": "clawnet-sdk",
-  "version": "2026.2",
+  "version": "2026.2.2",
   "summary": "Python SDK for the ClawNet decentralized agent economy",
   "author": "ClawNet Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "clawnet_sdk-2026.2.tar.gz",
-  "download_time": "2026-03-22T06:36:28.792176",
+  "download_filename": "clawnet_sdk-2026.2.2.tar.gz",
+  "download_time": "2026-03-22T09:09:47.909995",
   "package_url": "https://pypi.org/project/clawnet-sdk/"
 }

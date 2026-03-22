@@ -1,11 +1,11 @@
 {
   "name": "eostrial",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "The official Python library for the EosTrial API",
   "author": "Eos Trial",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "eostrial-0.1.0.tar.gz",
-  "download_time": "2026-03-22T08:36:47.290736",
+  "download_filename": "eostrial-0.1.2.tar.gz",
+  "download_time": "2026-03-22T09:09:39.264066",
   "package_url": "https://pypi.org/project/eostrial/"
 }

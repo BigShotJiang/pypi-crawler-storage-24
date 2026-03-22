@@ -1,11 +1,11 @@
 {
   "name": "libsqlglot",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Python bindings for libsqlglot, a high-performance SQL parser, transpiler, and optimiser written in C++",
   "author": "libsqlglot contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "libsqlglot-0.2.9-cp312-cp312-manylinux_2_35_x86_64.whl",
-  "download_time": "2026-03-22T08:02:34.564222",
+  "download_filename": "libsqlglot-0.2.10-cp312-cp312-manylinux_2_35_x86_64.whl",
+  "download_time": "2026-03-22T09:09:49.591730",
   "package_url": "https://pypi.org/project/libsqlglot/"
 }

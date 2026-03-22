@@ -1,11 +1,11 @@
 {
   "name": "ugbio-filtering",
-  "version": "1.22.0",
+  "version": "1.22.1",
   "summary": "Ultima Genomics filtering scripts",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ugbio_filtering-1.22.0.tar.gz",
-  "download_time": "2026-03-19T10:38:08.496418",
+  "download_filename": "ugbio_filtering-1.22.1.tar.gz",
+  "download_time": "2026-03-22T09:09:54.393543",
   "package_url": "https://pypi.org/project/ugbio-filtering/"
 }
