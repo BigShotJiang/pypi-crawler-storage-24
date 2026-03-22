@@ -1,11 +1,11 @@
 {
   "name": "soldat-extmod-api",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "soldat_extmod_api-0.1.7-py3-none-any.whl",
-  "download_time": "2026-03-15T23:27:11.733742",
+  "download_filename": "soldat_extmod_api-0.1.9-py3-none-any.whl",
+  "download_time": "2026-03-22T13:02:20.658376",
   "package_url": "https://pypi.org/project/soldat-extmod-api/"
 }

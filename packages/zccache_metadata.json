@@ -1,11 +1,11 @@
 {
   "name": "zccache",
-  "version": "1.0.26",
+  "version": "1.1.0",
   "summary": "A high-performance local compiler cache daemon",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zccache-1.0.26-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-17T23:59:00.122816",
+  "download_filename": "zccache-1.1.0-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-22T13:02:47.459909",
   "package_url": "https://pypi.org/project/zccache/"
 }

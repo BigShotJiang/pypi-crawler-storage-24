@@ -1,0 +1,11 @@
+{
+  "name": "hyperview",
+  "version": "0.3.1",
+  "summary": "Open-source dataset curation with hyperbolic embeddings visualization",
+  "author": "hyper3labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperview-0.3.1.tar.gz",
+  "download_time": "2026-03-22T13:02:41.677973",
+  "package_url": "https://pypi.org/project/hyperview/"
+}

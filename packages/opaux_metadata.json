@@ -1,0 +1,11 @@
+{
+  "name": "opaux",
+  "version": "0.1.3",
+  "summary": "Automated job application pipeline powered by Claude AI",
+  "author": "Gordon Akaminko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opaux-0.1.3.tar.gz",
+  "download_time": "2026-03-22T13:02:17.510024",
+  "package_url": "https://pypi.org/project/opaux/"
+}

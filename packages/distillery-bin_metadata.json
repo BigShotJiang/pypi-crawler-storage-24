@@ -1,0 +1,11 @@
+{
+  "name": "distillery-bin",
+  "version": "1.8.11",
+  "summary": "Distillery CLI repackaged as Python wheels",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/ekristen/distillery",
+  "download_filename": "distillery_bin-1.8.11-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-22T13:02:29.074731",
+  "package_url": "https://pypi.org/project/distillery-bin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nepse-sdk",
+  "version": "0.1.0",
+  "summary": "Unofficial Python SDK and CLI for the Nepal Stock Exchange (NEPSE)",
+  "author": "Ankur Gajurel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nepse_sdk-0.1.0.tar.gz",
+  "download_time": "2026-03-22T13:02:35.301430",
+  "package_url": "https://pypi.org/project/nepse-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nagooglesearch-playwright",
-  "version": "1.0",
+  "version": "1.2",
   "summary": "Not another Google searching tool.",
   "author": "Ivan Sincek",
   "license": null,
   "home_page": null,
-  "download_filename": "nagooglesearch_playwright-1.0.tar.gz",
-  "download_time": "2026-03-19T23:57:13.209308",
+  "download_filename": "nagooglesearch_playwright-1.2.tar.gz",
+  "download_time": "2026-03-22T13:02:55.303338",
   "package_url": "https://pypi.org/project/nagooglesearch-playwright/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-npu",
+  "version": "3.0.0",
+  "summary": "翱翔门户成绩监控插件，能获取成绩、排名、绩点，当出现新成绩时推送给使用者",
+  "author": "qllokirin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_npu-3.0.0.tar.gz",
+  "download_time": "2026-03-22T13:02:52.137521",
+  "package_url": "https://pypi.org/project/nonebot-plugin-npu/"
+}

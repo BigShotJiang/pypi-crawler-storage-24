@@ -1,11 +1,11 @@
 {
   "name": "cutelogger",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A lightweight colored logging utility for Python",
   "author": "Trooff",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cutelogger-0.2.0.tar.gz",
-  "download_time": "2026-03-20T14:12:20.121017",
+  "download_filename": "cutelogger-0.2.1.tar.gz",
+  "download_time": "2026-03-22T13:02:32.714245",
   "package_url": "https://pypi.org/project/cutelogger/"
 }

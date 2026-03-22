@@ -1,0 +1,11 @@
+{
+  "name": "elastic-query-builder",
+  "version": "0.1.2",
+  "summary": "A lightweight, dependency-free Elasticsearch query builder for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elastic_query_builder-0.1.2.tar.gz",
+  "download_time": "2026-03-22T13:02:44.279552",
+  "package_url": "https://pypi.org/project/elastic-query-builder/"
+}

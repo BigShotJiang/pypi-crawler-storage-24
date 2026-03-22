@@ -1,0 +1,11 @@
+{
+  "name": "memory-molecule",
+  "version": "0.1.0",
+  "summary": "Persistent memory for agentic systems — a faithful transposition of human memory architecture.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memory_molecule-0.1.0.tar.gz",
+  "download_time": "2026-03-22T13:02:51.092891",
+  "package_url": "https://pypi.org/project/memory-molecule/"
+}

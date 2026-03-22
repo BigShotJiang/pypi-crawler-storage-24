@@ -1,0 +1,11 @@
+{
+  "name": "replkit2",
+  "version": "0.13.1",
+  "summary": "A minimal Python framework for building stateful REPL applications with ASCII display",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "replkit2-0.13.1.tar.gz",
+  "download_time": "2026-03-22T13:02:26.454853",
+  "package_url": "https://pypi.org/project/replkit2/"
+}

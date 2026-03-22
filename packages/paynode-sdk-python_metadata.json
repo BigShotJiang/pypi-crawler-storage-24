@@ -1,11 +1,11 @@
 {
   "name": "paynode-sdk-python",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "PayNode Protocol Python SDK for AI Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "paynode_sdk_python-1.1.0.tar.gz",
-  "download_time": "2026-03-21T11:24:21.076030",
+  "download_filename": "paynode_sdk_python-1.1.2.tar.gz",
+  "download_time": "2026-03-22T13:02:13.718335",
   "package_url": "https://pypi.org/project/paynode-sdk-python/"
 }

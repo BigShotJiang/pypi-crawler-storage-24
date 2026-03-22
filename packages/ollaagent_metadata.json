@@ -1,11 +1,11 @@
 {
   "name": "ollaagent",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Local LLM agent powered by ollama — memory, plan mode, subagents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ollaagent-0.1.0.tar.gz",
-  "download_time": "2026-03-22T11:50:31.130757",
+  "download_filename": "ollaagent-0.1.4.tar.gz",
+  "download_time": "2026-03-22T13:02:16.992797",
   "package_url": "https://pypi.org/project/ollaagent/"
 }
