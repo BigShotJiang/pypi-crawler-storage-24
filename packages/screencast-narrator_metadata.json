@@ -1,11 +1,11 @@
 {
   "name": "screencast-narrator",
-  "version": "0.3.2",
+  "version": "0.5.7",
   "summary": "Turn raw screen recordings + narration text into polished narrated screencasts",
   "author": "Martin Marinschek",
   "license": null,
   "home_page": null,
-  "download_filename": "screencast_narrator-0.3.2.tar.gz",
-  "download_time": "2026-03-09T11:04:41.790635",
+  "download_filename": "screencast_narrator-0.5.7.tar.gz",
+  "download_time": "2026-03-22T15:26:28.927961",
   "package_url": "https://pypi.org/project/screencast-narrator/"
 }

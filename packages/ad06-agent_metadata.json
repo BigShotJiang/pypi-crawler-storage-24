@@ -1,11 +1,11 @@
 {
   "name": "ad06-agent",
-  "version": "1.0.5",
-  "summary": "Ad06 — Agente de automacao desktop com IA (UI Automation + Grok xAI)",
+  "version": "1.0.6",
+  "summary": "Agente desktop Windows (UI Automation) + relay WebSocket + bridge HTTP POST /command (Orb Logic, Playwright, visão).",
   "author": "Adielson Sousa",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "ad06_agent-1.0.5.tar.gz",
-  "download_time": "2026-03-19T23:56:36.043091",
+  "download_filename": "ad06_agent-1.0.6.tar.gz",
+  "download_time": "2026-03-22T15:26:52.150457",
   "package_url": "https://pypi.org/project/ad06-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "prompt-injection-detector",
+  "version": "0.1.0",
+  "summary": "Prompt injection detection for LLM-powered applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_injection_detector-0.1.0.tar.gz",
+  "download_time": "2026-03-22T15:26:24.815819",
+  "package_url": "https://pypi.org/project/prompt-injection-detector/"
+}

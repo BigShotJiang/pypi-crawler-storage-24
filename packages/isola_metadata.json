@@ -1,0 +1,11 @@
+{
+  "name": "isola",
+  "version": "0.2.1",
+  "summary": "Async Python bindings for the Isola runtime",
+  "author": null,
+  "license": null,
+  "home_page": "https://brian14708.github.io/isola/",
+  "download_filename": "isola-0.2.1-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-22T15:26:33.590045",
+  "package_url": "https://pypi.org/project/isola/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "acedatacloud",
-  "version": "2026.3.22.0",
+  "version": "2026.3.22.1",
   "summary": "Official Python SDK for AceDataCloud — AI-powered data services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "acedatacloud-2026.3.22.0.tar.gz",
-  "download_time": "2026-03-22T10:29:10.289032",
+  "download_filename": "acedatacloud-2026.3.22.1.tar.gz",
+  "download_time": "2026-03-22T15:26:55.813569",
   "package_url": "https://pypi.org/project/acedatacloud/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cae-cxx",
+  "version": "1.2.3",
+  "summary": "轻量化 CAE 命令行工具 — 一条命令跑仿真，一个链接看结果",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cae_cxx-1.2.3-py3-none-any.whl",
+  "download_time": "2026-03-22T15:26:30.469658",
+  "package_url": "https://pypi.org/project/cae-cxx/"
+}

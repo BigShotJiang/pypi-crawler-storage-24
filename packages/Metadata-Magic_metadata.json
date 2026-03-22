@@ -1,0 +1,11 @@
+{
+  "name": "Metadata-Magic",
+  "version": "0.15.1",
+  "summary": "Utility for managing metadata.",
+  "author": "Drakovek",
+  "license": null,
+  "home_page": "https://github.com/Drakovek/MetadataMagic",
+  "download_filename": "metadata_magic-0.15.1-py3-none-any.whl",
+  "download_time": "2026-03-22T15:26:29.442536",
+  "package_url": "https://pypi.org/project/Metadata-Magic/"
+}

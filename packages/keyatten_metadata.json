@@ -1,0 +1,11 @@
+{
+  "name": "keyatten",
+  "version": "0.1.0",
+  "summary": "Attention-based keyword extraction with ordered semantic word weights",
+  "author": "蒋林浩",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keyatten-0.1.0.tar.gz",
+  "download_time": "2026-03-22T15:27:06.094091",
+  "package_url": "https://pypi.org/project/keyatten/"
+}

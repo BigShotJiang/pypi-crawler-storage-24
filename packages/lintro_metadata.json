@@ -1,11 +1,11 @@
 {
   "name": "lintro",
-  "version": "0.53.0",
+  "version": "0.54.0",
   "summary": "A unified CLI tool for code formatting, linting, and quality assurance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lintro-0.53.0.tar.gz",
-  "download_time": "2026-03-22T14:11:56.665956",
+  "download_filename": "lintro-0.54.0.tar.gz",
+  "download_time": "2026-03-22T15:26:22.260101",
   "package_url": "https://pypi.org/project/lintro/"
 }

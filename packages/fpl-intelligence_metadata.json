@@ -1,11 +1,11 @@
 {
   "name": "fpl-intelligence",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "AI-powered Fantasy Premier League MCP server — captain picks, transfer suggestions, player comparison, chip strategy, and more",
   "author": "dohyung1",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fpl_intelligence-0.17.0.tar.gz",
-  "download_time": "2026-03-20T16:49:55.048302",
+  "download_filename": "fpl_intelligence-0.18.0.tar.gz",
+  "download_time": "2026-03-22T15:26:17.570359",
   "package_url": "https://pypi.org/project/fpl-intelligence/"
 }
