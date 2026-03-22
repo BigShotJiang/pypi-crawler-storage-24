@@ -1,0 +1,11 @@
+{
+  "name": "sinc-prompt",
+  "version": "1.0.0",
+  "summary": "Validator and converter for the sinc-prompt structured LLM prompt format",
+  "author": "Mario Alexandre",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sinc_prompt-1.0.0.tar.gz",
+  "download_time": "2026-03-22T23:57:21.637535",
+  "package_url": "https://pypi.org/project/sinc-prompt/"
+}

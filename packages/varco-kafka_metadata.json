@@ -1,0 +1,11 @@
+{
+  "name": "varco-kafka",
+  "version": "0.0.1",
+  "summary": "Apache Kafka event bus backend for varco — KafkaEventBus built on aiokafka",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "varco_kafka-0.0.1.tar.gz",
+  "download_time": "2026-03-22T23:56:44.267887",
+  "package_url": "https://pypi.org/project/varco-kafka/"
+}

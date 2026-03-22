@@ -1,0 +1,11 @@
+{
+  "name": "octodns",
+  "version": "1.16.0",
+  "summary": "OctoDNS: DNS as code - Tools for managing DNS across multiple providers",
+  "author": "Ross McFarland",
+  "license": "MIT",
+  "home_page": "https://github.com/octodns/octodns",
+  "download_filename": "octodns-1.16.0.tar.gz",
+  "download_time": "2026-03-22T23:57:08.643043",
+  "package_url": "https://pypi.org/project/octodns/"
+}

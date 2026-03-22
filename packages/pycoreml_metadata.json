@@ -1,0 +1,11 @@
+{
+  "name": "pycoreml",
+  "version": "0.1.0",
+  "summary": "CoreML inference from Python — powered by Swift & ApplePy",
+  "author": "Jagtesh Chadha",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pycoreml-0.1.0.tar.gz",
+  "download_time": "2026-03-22T23:57:13.856667",
+  "package_url": "https://pypi.org/project/pycoreml/"
+}

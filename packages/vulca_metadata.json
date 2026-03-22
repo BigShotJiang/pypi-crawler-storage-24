@@ -1,11 +1,11 @@
 {
   "name": "vulca",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "AI-native creation organism. Create, critique, and evolve cultural art.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vulca-0.3.0.tar.gz",
-  "download_time": "2026-03-22T22:56:56.216573",
+  "download_filename": "vulca-0.3.1.tar.gz",
+  "download_time": "2026-03-22T23:56:53.619906",
   "package_url": "https://pypi.org/project/vulca/"
 }

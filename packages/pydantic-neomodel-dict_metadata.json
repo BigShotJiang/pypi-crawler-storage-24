@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-neomodel-dict",
+  "version": "0.5.0",
+  "summary": "A bidirectional converter between Pydantic models, Python dictionaries and Neomodel (Neo4j) OGM models with async support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_neomodel_dict-0.5.0.tar.gz",
+  "download_time": "2026-03-22T23:57:24.219545",
+  "package_url": "https://pypi.org/project/pydantic-neomodel-dict/"
+}

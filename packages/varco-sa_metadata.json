@@ -1,11 +1,11 @@
 {
   "name": "varco-sa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "SQLAlchemy async backend for varco — runtime ORM generation, repository, schema guard, and Alembic helpers",
-  "author": "edoardo.scarpaci",
+  "author": null,
   "license": "Apache-2.0",
-  "home_page": "https://github.com/edoardoscarpaci/varco",
-  "download_filename": "varco_sa-0.0.1.tar.gz",
-  "download_time": "2026-03-22T14:11:18.558118",
+  "home_page": null,
+  "download_filename": "varco_sa-0.0.2.tar.gz",
+  "download_time": "2026-03-22T23:56:43.755294",
   "package_url": "https://pypi.org/project/varco-sa/"
 }

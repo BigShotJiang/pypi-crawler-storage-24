@@ -1,11 +1,11 @@
 {
   "name": "varco-core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Backend-agnostic domain model, service layer, authorization, query AST and DTOs for varco",
-  "author": "edoardo.scarpaci",
+  "author": null,
   "license": "Apache-2.0",
-  "home_page": "https://github.com/edoardoscarpaci/varco",
-  "download_filename": "varco_core-0.0.2.tar.gz",
-  "download_time": "2026-03-22T14:11:15.818486",
+  "home_page": null,
+  "download_filename": "varco_core-0.0.3.tar.gz",
+  "download_time": "2026-03-22T23:56:43.241351",
   "package_url": "https://pypi.org/project/varco-core/"
 }

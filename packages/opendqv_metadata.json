@@ -1,11 +1,11 @@
 {
   "name": "opendqv",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "Open Data Quality Validation — rule-based validation gateway for data pipelines and API boundaries",
   "author": "Sunny Sharma",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opendqv-1.3.1.tar.gz",
-  "download_time": "2026-03-22T17:27:12.085228",
+  "download_filename": "opendqv-1.3.2.tar.gz",
+  "download_time": "2026-03-22T23:57:09.672854",
   "package_url": "https://pypi.org/project/opendqv/"
 }

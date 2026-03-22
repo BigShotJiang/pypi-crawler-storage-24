@@ -1,0 +1,11 @@
+{
+  "name": "audio-pcm-resampler",
+  "version": "0.1.0",
+  "summary": "Audio resampler library for python. Can convert audio between different PCM audio formats.",
+  "author": "Radovan Zivkovic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "audio_pcm_resampler-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-22T23:57:21.118249",
+  "package_url": "https://pypi.org/project/audio-pcm-resampler/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "roboflex.imgui",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "Roboflex Visualization/GUI Library using IMGUI/IMPLOT",
   "author": "Colin Prepscius",
   "license": "MIT",
   "home_page": "https://github.com/flexrobotics/roboflex_imgui",
-  "download_filename": "roboflex_imgui-0.1.18.tar.gz",
-  "download_time": "2026-03-22T22:57:01.908023",
+  "download_filename": "roboflex_imgui-0.1.19.tar.gz",
+  "download_time": "2026-03-22T23:57:20.604688",
   "package_url": "https://pypi.org/project/roboflex.imgui/"
 }

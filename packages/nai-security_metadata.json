@@ -1,11 +1,11 @@
 {
   "name": "nai-security",
-  "version": "1.9.0",
+  "version": "1.9.2",
   "summary": "Django security app - IP/email/country blocking, rate limiting, login tracking, auto-blocking",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nai_security-1.9.0.tar.gz",
-  "download_time": "2026-03-22T23:28:24.593886",
+  "download_filename": "nai_security-1.9.2.tar.gz",
+  "download_time": "2026-03-22T23:57:13.345742",
   "package_url": "https://pypi.org/project/nai-security/"
 }

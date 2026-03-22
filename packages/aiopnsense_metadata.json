@@ -1,0 +1,11 @@
+{
+  "name": "aiopnsense",
+  "version": "1.0.0",
+  "summary": "Async Python client library for OPNsense",
+  "author": "Snuffy2",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiopnsense-1.0.0.tar.gz",
+  "download_time": "2026-03-22T23:57:02.422448",
+  "package_url": "https://pypi.org/project/aiopnsense/"
+}

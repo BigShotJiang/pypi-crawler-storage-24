@@ -1,0 +1,11 @@
+{
+  "name": "applepy-cli",
+  "version": "0.1.2",
+  "summary": "Build tool for ApplePy — scaffold, build, and publish Swift-powered Python packages",
+  "author": "Jagtesh Chadha",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "applepy_cli-0.1.2.tar.gz",
+  "download_time": "2026-03-22T23:57:04.487741",
+  "package_url": "https://pypi.org/project/applepy-cli/"
+}

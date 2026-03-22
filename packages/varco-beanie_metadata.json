@@ -1,11 +1,11 @@
 {
   "name": "varco-beanie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Beanie (Motor / MongoDB) async backend for varco — runtime ORM generation, repository, and UoW",
-  "author": "edoardo.scarpaci",
+  "author": null,
   "license": "Apache-2.0",
-  "home_page": "https://github.com/edoardoscarpaci/varco",
-  "download_filename": "varco_beanie-0.0.1.tar.gz",
-  "download_time": "2026-03-22T14:11:17.474334",
+  "home_page": null,
+  "download_filename": "varco_beanie-0.0.2.tar.gz",
+  "download_time": "2026-03-22T23:56:42.728389",
   "package_url": "https://pypi.org/project/varco-beanie/"
 }

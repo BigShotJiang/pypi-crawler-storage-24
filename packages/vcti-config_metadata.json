@@ -1,0 +1,11 @@
+{
+  "name": "vcti-config",
+  "version": "3.1.2",
+  "summary": "Type-safe environment variable decoding and configuration resolution for Python",
+  "author": "Visual Collaboration Technologies Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vcti_config-3.1.2.tar.gz",
+  "download_time": "2026-03-22T23:56:36.948132",
+  "package_url": "https://pypi.org/project/vcti-config/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netschoolpy",
+  "version": "3.4.0",
+  "summary": "Асинхронный клиент для «Сетевого города»",
+  "author": "Vladcom4iiik",
+  "license": null,
+  "home_page": "https://github.com/Vladcom4iiik/netschoolpy",
+  "download_filename": "netschoolpy-3.4.0.tar.gz",
+  "download_time": "2026-03-22T23:57:12.831723",
+  "package_url": "https://pypi.org/project/netschoolpy/"
+}
