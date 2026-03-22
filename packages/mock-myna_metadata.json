@@ -1,0 +1,11 @@
+{
+  "name": "mock-myna",
+  "version": "0.2.1",
+  "summary": "Local mock OpenAI-compatible server for development and tests.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mock_myna-0.2.1.tar.gz",
+  "download_time": "2026-03-22T09:54:21.250619",
+  "package_url": "https://pypi.org/project/mock-myna/"
+}

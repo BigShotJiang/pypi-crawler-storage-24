@@ -1,0 +1,11 @@
+{
+  "name": "alienrecon",
+  "version": "3.0.0",
+  "summary": "AI-powered CTF instructor. Guided walkthroughs for TryHackMe rooms.",
+  "author": "Russell J. Adams",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alienrecon-3.0.0.tar.gz",
+  "download_time": "2026-03-22T09:53:32.799803",
+  "package_url": "https://pypi.org/project/alienrecon/"
+}

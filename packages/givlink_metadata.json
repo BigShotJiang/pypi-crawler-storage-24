@@ -1,0 +1,11 @@
+{
+  "name": "givlink",
+  "version": "0.0.5",
+  "summary": "Convert Tidal URL to Spotify URL",
+  "author": "Chetan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "givlink-0.0.5.tar.gz",
+  "download_time": "2026-03-22T09:53:34.026223",
+  "package_url": "https://pypi.org/project/givlink/"
+}

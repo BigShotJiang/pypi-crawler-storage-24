@@ -1,0 +1,11 @@
+{
+  "name": "mcs-auth-auth0",
+  "version": "0.1.0",
+  "summary": "Auth0 Token Vault credential provider for the Model Context Standard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcs_auth_auth0-0.1.0.tar.gz",
+  "download_time": "2026-03-22T09:54:11.215536",
+  "package_url": "https://pypi.org/project/mcs-auth-auth0/"
+}

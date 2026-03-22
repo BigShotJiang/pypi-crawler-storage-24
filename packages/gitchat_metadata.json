@@ -1,0 +1,11 @@
+{
+  "name": "gitchat",
+  "version": "0.0.3",
+  "summary": "Proof-of-work realtime chat, using only `git` as a transport",
+  "author": "Shkvaldev",
+  "license": null,
+  "home_page": "https://github.com/Shkvaldev/gitchat",
+  "download_filename": "gitchat-0.0.3.tar.gz",
+  "download_time": "2026-03-22T09:53:41.414390",
+  "package_url": "https://pypi.org/project/gitchat/"
+}

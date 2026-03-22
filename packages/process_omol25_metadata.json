@@ -1,11 +1,11 @@
 {
   "name": "process_omol25",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "A Python package for processing omol-25 data using MPI.",
   "author": "Alin M Elena",
   "license": null,
   "home_page": null,
-  "download_filename": "process_omol25-0.1.11.tar.gz",
-  "download_time": "2026-03-22T08:36:09.267191",
+  "download_filename": "process_omol25-0.1.13.tar.gz",
+  "download_time": "2026-03-22T09:53:56.780771",
   "package_url": "https://pypi.org/project/process_omol25/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flash-kmeans-mlx",
+  "version": "0.1.1",
+  "summary": "IO-aware batched K-Means for Apple Silicon, ported from Flash-KMeans (Triton/CUDA) to pure MLX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flash_kmeans_mlx-0.1.1.tar.gz",
+  "download_time": "2026-03-22T09:53:40.249244",
+  "package_url": "https://pypi.org/project/flash-kmeans-mlx/"
+}

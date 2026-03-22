@@ -1,11 +1,11 @@
 {
   "name": "GitHubKit",
-  "version": "0.14.7",
+  "version": "0.15.1",
   "summary": "GitHub SDK for Python",
   "author": "yanyongyu",
   "license": null,
   "home_page": null,
-  "download_filename": "githubkit-0.14.7.tar.gz",
-  "download_time": "2026-03-07T09:50:33.894880",
+  "download_filename": "githubkit-0.15.1.tar.gz",
+  "download_time": "2026-03-22T09:53:48.435149",
   "package_url": "https://pypi.org/project/GitHubKit/"
 }

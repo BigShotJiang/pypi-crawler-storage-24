@@ -1,0 +1,11 @@
+{
+  "name": "mcs-auth",
+  "version": "0.1.0",
+  "summary": "Credential provider abstraction for the Model Context Standard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcs_auth-0.1.0.tar.gz",
+  "download_time": "2026-03-22T09:54:11.797706",
+  "package_url": "https://pypi.org/project/mcs-auth/"
+}

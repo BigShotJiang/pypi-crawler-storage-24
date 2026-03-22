@@ -1,11 +1,11 @@
 {
   "name": "unite",
-  "version": "1.4.1",
+  "version": "2.1.0",
   "summary": "Unified liNe Integration Turbo Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unite-1.4.1.tar.gz",
-  "download_time": "2026-03-09T00:00:03.023622",
+  "download_filename": "unite-2.1.0.tar.gz",
+  "download_time": "2026-03-22T09:54:04.154246",
   "package_url": "https://pypi.org/project/unite/"
 }

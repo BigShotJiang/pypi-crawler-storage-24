@@ -1,0 +1,11 @@
+{
+  "name": "wsistream",
+  "version": "0.1.1",
+  "summary": "Modular online patch streaming from whole-slide images for computational pathology",
+  "author": "Ramon Kaspar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wsistream-0.1.1.tar.gz",
+  "download_time": "2026-03-22T09:54:19.154228",
+  "package_url": "https://pypi.org/project/wsistream/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openclaw-p2p",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Agent-to-Agent P2P communication — encrypted, authenticated, relay-capable",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openclaw_p2p-0.2.0.tar.gz",
-  "download_time": "2026-03-20T23:29:15.350524",
+  "download_filename": "openclaw_p2p-0.2.2.tar.gz",
+  "download_time": "2026-03-22T09:53:58.056274",
   "package_url": "https://pypi.org/project/openclaw-p2p/"
 }
