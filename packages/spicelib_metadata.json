@@ -1,0 +1,11 @@
+{
+  "name": "spicelib",
+  "version": "1.5.1",
+  "summary": "A set of tools to Automate Spice simulations",
+  "author": "Nuno Brum",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "spicelib-1.5.1.tar.gz",
+  "download_time": "2026-03-22T13:47:34.823874",
+  "package_url": "https://pypi.org/project/spicelib/"
+}

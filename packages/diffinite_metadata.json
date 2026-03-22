@@ -1,11 +1,11 @@
 {
   "name": "diffinite",
-  "version": "0.9.6",
+  "version": "0.10.0",
   "summary": "Forensic source-code comparison tool — Winnowing fingerprints and professional PDF reports for IP litigation & code audit",
   "author": "nash-dir",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "diffinite-0.9.6.tar.gz",
-  "download_time": "2026-03-18T15:03:11.121695",
+  "download_filename": "diffinite-0.10.0.tar.gz",
+  "download_time": "2026-03-22T13:47:22.487806",
   "package_url": "https://pypi.org/project/diffinite/"
 }

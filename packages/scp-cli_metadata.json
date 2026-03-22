@@ -1,11 +1,11 @@
 {
   "name": "scp-cli",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "Security Compliance Platform CLI - Secure your code from the terminal.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scp_cli-0.1.12.tar.gz",
-  "download_time": "2026-03-21T13:43:58.700192",
+  "download_filename": "scp_cli-0.1.13.tar.gz",
+  "download_time": "2026-03-22T13:47:41.507395",
   "package_url": "https://pypi.org/project/scp-cli/"
 }

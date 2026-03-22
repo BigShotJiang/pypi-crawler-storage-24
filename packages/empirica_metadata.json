@@ -1,11 +1,11 @@
 {
   "name": "empirica",
-  "version": "1.6.5",
+  "version": "1.6.16",
   "summary": "Genuine AI epistemic self-assessment framework - Universal interface for single AI tracking",
   "author": "David S. L. Van Assche",
   "license": null,
   "home_page": null,
-  "download_filename": "empirica-1.6.5.tar.gz",
-  "download_time": "2026-03-16T13:14:16.864373",
+  "download_filename": "empirica-1.6.16.tar.gz",
+  "download_time": "2026-03-22T13:47:03.794234",
   "package_url": "https://pypi.org/project/empirica/"
 }

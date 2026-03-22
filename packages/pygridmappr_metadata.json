@@ -1,0 +1,11 @@
+{
+  "name": "pygridmappr",
+  "version": "0.1.2",
+  "summary": "Python implementation of the R gridmappr package for grid map allocation",
+  "author": "TMFNK",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "pygridmappr-0.1.2.tar.gz",
+  "download_time": "2026-03-22T13:47:35.845836",
+  "package_url": "https://pypi.org/project/pygridmappr/"
+}

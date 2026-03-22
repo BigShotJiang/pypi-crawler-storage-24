@@ -1,0 +1,11 @@
+{
+  "name": "disiple",
+  "version": "0.8.0",
+  "summary": "A lightweight package aimed at teaching DSP with Jupyter Notebooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "disiple-0.8.0.tar.gz",
+  "download_time": "2026-03-22T13:47:24.084720",
+  "package_url": "https://pypi.org/project/disiple/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qtmvvm",
+  "version": "1.0.1",
+  "summary": "MVVM library for Qt with observable properties and data bindings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qtmvvm-1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-22T13:47:47.128754",
+  "package_url": "https://pypi.org/project/qtmvvm/"
+}

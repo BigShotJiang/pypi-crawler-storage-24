@@ -1,0 +1,11 @@
+{
+  "name": "deezergw",
+  "version": "0.1.0",
+  "summary": "A wrapper for the private Deezer APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deezergw-0.1.0.tar.gz",
+  "download_time": "2026-03-22T13:47:26.120804",
+  "package_url": "https://pypi.org/project/deezergw/"
+}

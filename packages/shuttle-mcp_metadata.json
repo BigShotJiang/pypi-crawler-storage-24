@@ -1,0 +1,11 @@
+{
+  "name": "shuttle-mcp",
+  "version": "0.2.1",
+  "summary": "Secure SSH gateway for AI assistants — MCP server with connection pooling, session isolation, and command safety",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "shuttle_mcp-0.2.1.tar.gz",
+  "download_time": "2026-03-22T13:47:04.433149",
+  "package_url": "https://pypi.org/project/shuttle-mcp/"
+}

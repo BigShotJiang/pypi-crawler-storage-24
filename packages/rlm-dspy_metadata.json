@@ -1,0 +1,11 @@
+{
+  "name": "rlm-dspy",
+  "version": "0.1.0",
+  "summary": "Recursive Language Models with DSPy - combining RLM's recursive decomposition with DSPy's optimized prompts",
+  "author": "picassio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rlm_dspy-0.1.0.tar.gz",
+  "download_time": "2026-03-22T13:47:10.589573",
+  "package_url": "https://pypi.org/project/rlm-dspy/"
+}

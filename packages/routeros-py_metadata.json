@@ -1,0 +1,11 @@
+{
+  "name": "routeros-py",
+  "version": "1.1.0",
+  "summary": "Pure-Python client library for Mikrotik RouterOS API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "routeros_py-1.1.0.tar.gz",
+  "download_time": "2026-03-22T13:47:23.064995",
+  "package_url": "https://pypi.org/project/routeros-py/"
+}

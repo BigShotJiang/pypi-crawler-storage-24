@@ -1,11 +1,11 @@
 {
   "name": "daqp",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "DAQP: A dual active-set QP solver",
   "author": "Daniel Arnström",
   "license": "MIT",
   "home_page": "http://github.com/darnstrom/daqp",
-  "download_filename": "daqp-0.8.2.tar.gz",
-  "download_time": "2026-03-21T22:25:09.443849",
+  "download_filename": "daqp-0.8.3.tar.gz",
+  "download_time": "2026-03-22T13:47:20.870632",
   "package_url": "https://pypi.org/project/daqp/"
 }
