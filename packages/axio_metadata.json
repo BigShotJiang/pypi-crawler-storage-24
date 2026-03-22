@@ -1,11 +1,11 @@
 {
   "name": "axio",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Minimal, streaming-first, protocol-driven foundation for LLM-powered agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axio-0.2.1.tar.gz",
-  "download_time": "2026-03-22T20:00:00.545505",
+  "download_filename": "axio-0.2.3.tar.gz",
+  "download_time": "2026-03-22T20:26:13.659685",
   "package_url": "https://pypi.org/project/axio/"
 }

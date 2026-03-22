@@ -1,0 +1,11 @@
+{
+  "name": "heatmap-sketch",
+  "version": "1.0.0",
+  "summary": "A probabilistic data structure for time-decayed popularity tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "heatmap_sketch-1.0.0.tar.gz",
+  "download_time": "2026-03-22T20:26:27.839140",
+  "package_url": "https://pypi.org/project/heatmap-sketch/"
+}

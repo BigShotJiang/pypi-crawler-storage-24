@@ -1,0 +1,11 @@
+{
+  "name": "yaclog",
+  "version": "1.7.0",
+  "summary": "Yet another changelog CLI tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yaclog-1.7.0.tar.gz",
+  "download_time": "2026-03-22T20:26:27.319002",
+  "package_url": "https://pypi.org/project/yaclog/"
+}

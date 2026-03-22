@@ -1,0 +1,11 @@
+{
+  "name": "xlr8",
+  "version": "0.1.9",
+  "summary": "High-performance database read acceleration layer for MongoDB. Auto-chunks and parallelizes queries across multiple-workers, streams results to parquet with intelligent caching and memory-bounded execution, option to stream data directly to any data lake. Same PyMongo API but dramatically faster results with RUST backend for CPU-heavy tasks.",
+  "author": "Kapil Parekh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlr8-0.1.9.tar.gz",
+  "download_time": "2026-03-22T20:26:41.085542",
+  "package_url": "https://pypi.org/project/xlr8/"
+}

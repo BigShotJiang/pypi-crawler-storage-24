@@ -1,11 +1,11 @@
 {
   "name": "axio-tui-rag",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "RAG plugin for Axio TUI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axio_tui_rag-0.2.1.tar.gz",
-  "download_time": "2026-03-22T20:00:04.109100",
+  "download_filename": "axio_tui_rag-0.2.3.tar.gz",
+  "download_time": "2026-03-22T20:26:14.179779",
   "package_url": "https://pypi.org/project/axio-tui-rag/"
 }

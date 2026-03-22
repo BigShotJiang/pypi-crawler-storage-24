@@ -1,11 +1,11 @@
 {
   "name": "kajotte-studio-tools",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Professional ANSI terminal styling and productivity tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kajotte_studio_tools-1.2.1.tar.gz",
-  "download_time": "2026-03-22T19:08:37.588708",
+  "download_filename": "kajotte_studio_tools-1.2.2.tar.gz",
+  "download_time": "2026-03-22T20:26:10.449075",
   "package_url": "https://pypi.org/project/kajotte-studio-tools/"
 }

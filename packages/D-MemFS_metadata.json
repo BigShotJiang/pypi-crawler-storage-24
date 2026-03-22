@@ -1,11 +1,11 @@
 {
   "name": "D-MemFS",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "In-process virtual filesystem with hard quota for Python",
   "author": "D",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "d_memfs-0.4.0.tar.gz",
-  "download_time": "2026-03-21T10:56:57.271419",
+  "download_filename": "d_memfs-0.4.1.tar.gz",
+  "download_time": "2026-03-22T20:26:34.141160",
   "package_url": "https://pypi.org/project/D-MemFS/"
 }

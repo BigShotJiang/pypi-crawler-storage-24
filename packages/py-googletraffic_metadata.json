@@ -1,0 +1,11 @@
+{
+  "name": "py-googletraffic",
+  "version": "0.1.1",
+  "summary": "Create georeferenced traffic rasters from Google Maps",
+  "author": "Denis Juma",
+  "license": "MIT",
+  "home_page": "https://github.com/kwahalf/py-googletraffic",
+  "download_filename": "py_googletraffic-0.1.1.tar.gz",
+  "download_time": "2026-03-22T20:26:19.431647",
+  "package_url": "https://pypi.org/project/py-googletraffic/"
+}

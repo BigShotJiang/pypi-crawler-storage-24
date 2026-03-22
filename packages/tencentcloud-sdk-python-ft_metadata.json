@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-ft",
+  "version": "3.1.61",
+  "summary": "Tencent Cloud Ft SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_ft-3.1.61.tar.gz",
+  "download_time": "2026-03-22T20:26:06.653218",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-ft/"
+}

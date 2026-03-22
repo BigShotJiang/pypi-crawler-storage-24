@@ -1,11 +1,11 @@
 {
   "name": "crowdmind",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Autonomous product research powered by AI agents",
   "author": "yasintoy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crowdmind-0.2.1.tar.gz",
-  "download_time": "2026-03-22T20:00:18.472662",
+  "download_filename": "crowdmind-0.2.2.tar.gz",
+  "download_time": "2026-03-22T20:26:40.031648",
   "package_url": "https://pypi.org/project/crowdmind/"
 }

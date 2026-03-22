@@ -1,11 +1,11 @@
 {
   "name": "axio-tui",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Textual TUI application for Axio",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axio_tui-0.2.1.tar.gz",
-  "download_time": "2026-03-22T19:59:57.078378",
+  "download_filename": "axio_tui-0.2.3.tar.gz",
+  "download_time": "2026-03-22T20:26:17.326016",
   "package_url": "https://pypi.org/project/axio-tui/"
 }

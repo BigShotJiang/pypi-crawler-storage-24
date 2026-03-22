@@ -1,0 +1,11 @@
+{
+  "name": "csv-stream-diff",
+  "version": "0.1.0",
+  "summary": "Stream and compare very large CSV files with multiprocessing.",
+  "author": "Jordi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csv_stream_diff-0.1.0.tar.gz",
+  "download_time": "2026-03-22T20:26:19.949686",
+  "package_url": "https://pypi.org/project/csv-stream-diff/"
+}
