@@ -1,11 +1,11 @@
 {
   "name": "openenv-halluguard",
-  "version": "1.0.0",
-  "summary": "Python SDK for HallucinationGuard-Env — evaluate and train LLMs to avoid hallucination using OpenEnv",
+  "version": "2.0.0",
+  "summary": "Python SDK for HallucinationGuard-Env — evaluate and train any LLM to avoid hallucinations using OpenEnv. Research-grade grader: ROUGE + BERTScore + AlignScore + NLI-DeBERTa-v3-large. 1M+ training examples across 38 datasets.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openenv_halluguard-1.0.0.tar.gz",
-  "download_time": "2026-03-21T06:29:23.115527",
+  "download_filename": "openenv_halluguard-2.0.0.tar.gz",
+  "download_time": "2026-03-22T11:50:08.985850",
   "package_url": "https://pypi.org/project/openenv-halluguard/"
 }

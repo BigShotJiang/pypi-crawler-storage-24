@@ -1,11 +1,11 @@
 {
   "name": "mp-search",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Terminal UI tool for searching materials from the Materials Project database",
   "author": "sylearn",
   "license": null,
   "home_page": null,
-  "download_filename": "mp_search-0.1.0.tar.gz",
-  "download_time": "2026-03-22T07:33:07.106957",
+  "download_filename": "mp_search-0.1.2.tar.gz",
+  "download_time": "2026-03-22T11:50:07.960285",
   "package_url": "https://pypi.org/project/mp-search/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-authly",
+  "version": "0.1.7",
+  "summary": "A modular authentication system for FastAPI with OAuth2, JWT, and password recovery",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_authly-0.1.7.tar.gz",
+  "download_time": "2026-03-22T11:50:46.740502",
+  "package_url": "https://pypi.org/project/fastapi-authly/"
+}

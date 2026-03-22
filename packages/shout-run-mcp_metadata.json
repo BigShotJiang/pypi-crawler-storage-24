@@ -1,11 +1,11 @@
 {
   "name": "shout-run-mcp",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "MCP server for shout.run - terminal broadcasting for AI agents",
   "author": "Pavan Madiraju",
   "license": null,
   "home_page": null,
-  "download_filename": "shout_run_mcp-0.1.4.tar.gz",
-  "download_time": "2026-03-20T23:00:20.296902",
+  "download_filename": "shout_run_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-22T11:50:44.142665",
   "package_url": "https://pypi.org/project/shout-run-mcp/"
 }

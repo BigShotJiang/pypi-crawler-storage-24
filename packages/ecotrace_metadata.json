@@ -1,11 +1,11 @@
 {
   "name": "ecotrace",
-  "version": "0.3.0",
-  "summary": "A lightweight Python library to measure the carbon footprint of your code",
+  "version": "0.3.5",
+  "summary": "EcoTrace: A powerful Python library to measure CPU/GPU energy consumption and estimate carbon emissions with detailed PDF reporting and continuous sampling.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ecotrace-0.3.0.tar.gz",
-  "download_time": "2026-03-18T11:32:04.409310",
+  "download_filename": "ecotrace-0.3.5.tar.gz",
+  "download_time": "2026-03-22T11:50:22.304893",
   "package_url": "https://pypi.org/project/ecotrace/"
 }

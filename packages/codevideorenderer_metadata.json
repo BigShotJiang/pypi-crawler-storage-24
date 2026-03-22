@@ -1,11 +1,11 @@
 {
   "name": "codevideorenderer",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A Python library for rendering code videos",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codevideorenderer-1.2.0-py3-none-any.whl",
-  "download_time": "2026-03-22T11:25:29.778569",
+  "download_filename": "codevideorenderer-1.2.1.tar.gz",
+  "download_time": "2026-03-22T11:50:30.619914",
   "package_url": "https://pypi.org/project/codevideorenderer/"
 }

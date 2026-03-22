@@ -1,11 +1,11 @@
 {
   "name": "trickle-observe",
-  "version": "0.2.62",
+  "version": "0.2.68",
   "summary": "Runtime type annotations for Python — see tensor shapes, variable types, and crash-time values as you code.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "trickle_observe-0.2.62.tar.gz",
-  "download_time": "2026-03-19T09:13:35.281074",
+  "download_filename": "trickle_observe-0.2.68.tar.gz",
+  "download_time": "2026-03-22T11:50:29.563395",
   "package_url": "https://pypi.org/project/trickle-observe/"
 }

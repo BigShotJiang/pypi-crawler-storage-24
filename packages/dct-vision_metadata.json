@@ -1,0 +1,11 @@
+{
+  "name": "dct-vision",
+  "version": "0.1.0",
+  "summary": "Frequency-domain native image processing -- skip the pixel decode.",
+  "author": "Athlitix",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dct_vision-0.1.0.tar.gz",
+  "download_time": "2026-03-22T11:50:22.820357",
+  "package_url": "https://pypi.org/project/dct-vision/"
+}

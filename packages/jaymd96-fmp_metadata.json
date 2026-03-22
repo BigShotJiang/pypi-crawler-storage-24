@@ -1,11 +1,11 @@
 {
   "name": "jaymd96-fmp",
-  "version": "0.6.0",
+  "version": "0.7.2",
   "summary": "Python client for the Financial Modeling Prep API with DuckDB caching",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jaymd96_fmp-0.6.0.tar.gz",
-  "download_time": "2026-03-22T10:58:09.407322",
+  "download_filename": "jaymd96_fmp-0.7.2.tar.gz",
+  "download_time": "2026-03-22T11:50:29.049052",
   "package_url": "https://pypi.org/project/jaymd96-fmp/"
 }

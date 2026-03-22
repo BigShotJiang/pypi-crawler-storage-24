@@ -1,11 +1,11 @@
 {
   "name": "xxydb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "轻量 A 股数据库封装，基于 Parquet (Hive 分区) + DuckDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xxydb-0.1.1.tar.gz",
-  "download_time": "2026-03-22T04:20:10.932445",
+  "download_filename": "xxydb-0.1.2.tar.gz",
+  "download_time": "2026-03-22T11:50:16.668915",
   "package_url": "https://pypi.org/project/xxydb/"
 }

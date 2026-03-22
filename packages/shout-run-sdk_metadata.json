@@ -1,11 +1,11 @@
 {
   "name": "shout-run-sdk",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Python SDK for shout.run - broadcast your terminal from code",
   "author": "Pavan Madiraju",
   "license": null,
   "home_page": null,
-  "download_filename": "shout_run_sdk-0.1.4.tar.gz",
-  "download_time": "2026-03-20T23:00:20.808050",
+  "download_filename": "shout_run_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-22T11:50:45.165395",
   "package_url": "https://pypi.org/project/shout-run-sdk/"
 }

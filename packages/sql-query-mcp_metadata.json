@@ -1,0 +1,11 @@
+{
+  "name": "sql-query-mcp",
+  "version": "0.1.4",
+  "summary": "Read-only SQL MCP server for PostgreSQL and MySQL.",
+  "author": "Andy Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sql_query_mcp-0.1.4.tar.gz",
+  "download_time": "2026-03-22T11:50:39.467452",
+  "package_url": "https://pypi.org/project/sql-query-mcp/"
+}

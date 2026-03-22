@@ -1,0 +1,11 @@
+{
+  "name": "flakeid",
+  "version": "0.1.0",
+  "summary": "Flexible 64-bit Snowflake-style unique ID generation for Python",
+  "author": "flakeid contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flakeid-0.1.0.tar.gz",
+  "download_time": "2026-03-22T11:50:35.304291",
+  "package_url": "https://pypi.org/project/flakeid/"
+}
