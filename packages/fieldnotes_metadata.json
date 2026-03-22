@@ -1,11 +1,11 @@
 {
   "name": "fieldnotes",
-  "version": "0.7.0",
+  "version": "0.11.0",
   "summary": "Personal knowledge graph — ingest, search, and serve your notes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fieldnotes-0.7.0.tar.gz",
-  "download_time": "2026-03-21T21:51:38.245424",
+  "download_filename": "fieldnotes-0.11.0.tar.gz",
+  "download_time": "2026-03-22T06:36:25.695747",
   "package_url": "https://pypi.org/project/fieldnotes/"
 }

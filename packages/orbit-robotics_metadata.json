@@ -1,0 +1,11 @@
+{
+  "name": "orbit-robotics",
+  "version": "0.2.1",
+  "summary": "Predict whether your robot learning data will actually train successfully",
+  "author": "Rahil Lasne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orbit_robotics-0.2.1.tar.gz",
+  "download_time": "2026-03-22T06:36:34.942822",
+  "package_url": "https://pypi.org/project/orbit-robotics/"
+}

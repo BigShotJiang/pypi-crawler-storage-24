@@ -1,0 +1,11 @@
+{
+  "name": "shahEDA",
+  "version": "0.1.1",
+  "summary": "Lightweight EDA tool for automated data analysis with insights and visualizations",
+  "author": "Syed Haseeb Shah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shaheda-0.1.1.tar.gz",
+  "download_time": "2026-03-22T06:36:10.723182",
+  "package_url": "https://pypi.org/project/shahEDA/"
+}

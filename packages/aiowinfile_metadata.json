@@ -1,11 +1,11 @@
 {
   "name": "aiowinfile",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Async Windows IOCP file API for Python",
-  "author": null,
+  "author": "Patchouli-CN",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiowinfile-0.1.0.tar.gz",
-  "download_time": "2026-03-21T05:45:30.010958",
+  "download_filename": "aiowinfile-0.1.1-cp314-cp314-win_amd64.whl",
+  "download_time": "2026-03-22T06:36:18.485540",
   "package_url": "https://pypi.org/project/aiowinfile/"
 }

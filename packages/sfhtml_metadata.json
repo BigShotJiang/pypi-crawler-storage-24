@@ -1,11 +1,11 @@
 {
   "name": "sfhtml",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Single-File HTML AI-Skill CLI — Python wrapper",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sfhtml-0.2.0.tar.gz",
-  "download_time": "2026-03-15T14:52:10.860819",
+  "download_filename": "sfhtml-0.4.0.tar.gz",
+  "download_time": "2026-03-22T06:36:44.194638",
   "package_url": "https://pypi.org/project/sfhtml/"
 }

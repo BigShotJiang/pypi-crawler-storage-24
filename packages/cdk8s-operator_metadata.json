@@ -1,0 +1,11 @@
+{
+  "name": "cdk8s-operator",
+  "version": "0.1.408",
+  "summary": "Create Kubernetes CRD Operators using CDK8s Constructs",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdk8s-team/cdk8s-operator.git",
+  "download_filename": "cdk8s_operator-0.1.408.tar.gz",
+  "download_time": "2026-03-22T06:36:20.028627",
+  "package_url": "https://pypi.org/project/cdk8s-operator/"
+}

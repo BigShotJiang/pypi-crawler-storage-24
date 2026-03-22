@@ -1,0 +1,11 @@
+{
+  "name": "qpro",
+  "version": "0.14.3",
+  "summary": "Small but powerful command line APP framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qpro-0.14.3.tar.gz",
+  "download_time": "2026-03-22T06:36:27.233458",
+  "package_url": "https://pypi.org/project/qpro/"
+}

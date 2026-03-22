@@ -1,0 +1,11 @@
+{
+  "name": "py-query-system-info",
+  "version": "1.0.0",
+  "summary": "A cross-platform library for querying system information including memory, CPU, processes, disk I/O, and socket connections",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_query_system_info-1.0.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-22T06:36:33.409023",
+  "package_url": "https://pypi.org/project/py-query-system-info/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "strands-cosmos",
+  "version": "0.1.2",
+  "summary": "NVIDIA Cosmos Reason VLM provider for Strands Agents - physical AI reasoning, video understanding, and embodied intelligence",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strands_cosmos-0.1.2.tar.gz",
+  "download_time": "2026-03-22T06:36:43.682698",
+  "package_url": "https://pypi.org/project/strands-cosmos/"
+}

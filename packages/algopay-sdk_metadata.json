@@ -1,0 +1,11 @@
+{
+  "name": "algopay-sdk",
+  "version": "0.1.0a1",
+  "summary": "AlgoPay SDK — payment infrastructure for AI agents on Algorand (x402, USDC/ASA, guards)",
+  "author": "AlgoPay contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "algopay_sdk-0.1.0a1.tar.gz",
+  "download_time": "2026-03-22T06:36:26.720853",
+  "package_url": "https://pypi.org/project/algopay-sdk/"
+}

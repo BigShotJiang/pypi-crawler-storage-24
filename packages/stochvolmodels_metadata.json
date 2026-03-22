@@ -1,0 +1,11 @@
+{
+  "name": "stochvolmodels",
+  "version": "1.1.8",
+  "summary": "Python implementation of pricing analytics and Monte Carlo simulations for stochastic volatility models including log-normal SV model, Heston",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stochvolmodels-1.1.8.tar.gz",
+  "download_time": "2026-03-22T06:36:32.896331",
+  "package_url": "https://pypi.org/project/stochvolmodels/"
+}

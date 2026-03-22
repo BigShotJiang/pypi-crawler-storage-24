@@ -1,11 +1,11 @@
 {
   "name": "hotboard",
-  "version": "0.0.1",
-  "summary": "多平台热榜数据获取 CLI 工具",
+  "version": "0.0.2",
+  "summary": "多平台热榜数据获取工具，聚合国内外主流资讯、社区、视频等平台热门内容",
   "author": "llnancy",
   "license": null,
   "home_page": null,
-  "download_filename": "hotboard-0.0.1.tar.gz",
-  "download_time": "2026-03-22T04:20:43.030317",
+  "download_filename": "hotboard-0.0.2.tar.gz",
+  "download_time": "2026-03-22T06:36:49.832289",
   "package_url": "https://pypi.org/project/hotboard/"
 }

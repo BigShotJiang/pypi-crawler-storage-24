@@ -1,0 +1,11 @@
+{
+  "name": "apple-a-day",
+  "version": "0.2.0",
+  "summary": "Agent-native Mac health toolkit — keeps the doctor away. Zero dependencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apple_a_day-0.2.0.tar.gz",
+  "download_time": "2026-03-22T06:36:22.590815",
+  "package_url": "https://pypi.org/project/apple-a-day/"
+}

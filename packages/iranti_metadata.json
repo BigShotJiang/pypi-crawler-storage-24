@@ -1,11 +1,11 @@
 {
   "name": "iranti",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "Python client for Iranti memory infrastructure",
   "author": "NF",
   "license": null,
   "home_page": null,
-  "download_filename": "iranti-0.2.16.tar.gz",
-  "download_time": "2026-03-21T19:41:56.630604",
+  "download_filename": "iranti-0.2.17.tar.gz",
+  "download_time": "2026-03-22T06:36:48.808352",
   "package_url": "https://pypi.org/project/iranti/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "git-copilot-commit",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Automatically generate and commit changes using GitHub Copilot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "git_copilot_commit-0.5.4.tar.gz",
-  "download_time": "2026-03-20T23:29:00.813582",
+  "download_filename": "git_copilot_commit-0.5.5.tar.gz",
+  "download_time": "2026-03-22T06:36:21.566435",
   "package_url": "https://pypi.org/project/git-copilot-commit/"
 }

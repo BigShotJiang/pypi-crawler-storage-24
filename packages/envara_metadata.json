@@ -1,11 +1,11 @@
 {
   "name": "envara",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Expand environment variables and program arguments in a string, parse general and OS-specific .env files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "envara-0.1.0.tar.gz",
-  "download_time": "2026-03-14T01:29:04.768168",
+  "download_filename": "envara-0.2.0.tar.gz",
+  "download_time": "2026-03-22T06:36:31.356527",
   "package_url": "https://pypi.org/project/envara/"
 }

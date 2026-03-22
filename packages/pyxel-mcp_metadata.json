@@ -1,11 +1,11 @@
 {
   "name": "pyxel-mcp",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "summary": "MCP server for Pyxel, a retro game engine for Python. Enables AI to autonomously run, verify, and iterate on retro game programs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyxel_mcp-0.7.2.tar.gz",
-  "download_time": "2026-03-08T23:46:21.708351",
+  "download_filename": "pyxel_mcp-0.8.0.tar.gz",
+  "download_time": "2026-03-22T06:36:27.745519",
   "package_url": "https://pypi.org/project/pyxel-mcp/"
 }
