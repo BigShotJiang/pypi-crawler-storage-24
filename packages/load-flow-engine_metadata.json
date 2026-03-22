@@ -1,0 +1,11 @@
+{
+  "name": "load-flow-engine",
+  "version": "0.1.0",
+  "summary": "Three-phase unbalanced load flow solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "load_flow_engine-0.1.0.tar.gz",
+  "download_time": "2026-03-22T21:26:59.420613",
+  "package_url": "https://pypi.org/project/load-flow-engine/"
+}

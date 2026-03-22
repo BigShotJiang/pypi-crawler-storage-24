@@ -1,11 +1,11 @@
 {
   "name": "importlens",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Trustworthy diagnostics for Python imports.",
   "author": "Harsh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "importlens-0.1.0.tar.gz",
-  "download_time": "2026-03-22T20:26:05.585081",
+  "download_filename": "importlens-0.1.1.tar.gz",
+  "download_time": "2026-03-22T21:27:09.322981",
   "package_url": "https://pypi.org/project/importlens/"
 }

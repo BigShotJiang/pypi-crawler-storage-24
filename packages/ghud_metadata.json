@@ -1,0 +1,11 @@
+{
+  "name": "ghud",
+  "version": "0.1.0",
+  "summary": "GitHub Heads-Up Display — terminal dashboard for your portfolio repos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghud-0.1.0.tar.gz",
+  "download_time": "2026-03-22T21:26:59.933610",
+  "package_url": "https://pypi.org/project/ghud/"
+}

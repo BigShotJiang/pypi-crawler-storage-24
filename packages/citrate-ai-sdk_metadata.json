@@ -1,0 +1,11 @@
+{
+  "name": "citrate-ai-sdk",
+  "version": "0.4.0",
+  "summary": "Python SDK for Citrate AI blockchain platform",
+  "author": "Citrate Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/SaulBuilds/citrate",
+  "download_filename": "citrate_ai_sdk-0.4.0.tar.gz",
+  "download_time": "2026-03-22T21:27:29.820306",
+  "package_url": "https://pypi.org/project/citrate-ai-sdk/"
+}

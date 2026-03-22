@@ -1,11 +1,11 @@
 {
   "name": "ton-core",
-  "version": "0.0.1",
-  "summary": "Alias package for pytoniq-core — TON Blockchain primitives",
-  "author": null,
+  "version": "0.2.0",
+  "summary": "Python core for TON Blockchain — primitives, data types, and utilities.",
+  "author": "nessshon",
   "license": null,
   "home_page": null,
-  "download_filename": "ton_core-0.0.1.tar.gz",
-  "download_time": "2026-03-13T16:05:02.896682",
+  "download_filename": "ton_core-0.2.0.tar.gz",
+  "download_time": "2026-03-22T21:26:54.672879",
   "package_url": "https://pypi.org/project/ton-core/"
 }

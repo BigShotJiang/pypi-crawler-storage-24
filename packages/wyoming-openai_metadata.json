@@ -1,0 +1,11 @@
+{
+  "name": "wyoming-openai",
+  "version": "0.4.2",
+  "summary": "OpenAI-Compatible Proxy Middleware for the Wyoming Protocol",
+  "author": "Rory Eckel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wyoming_openai-0.4.2.tar.gz",
+  "download_time": "2026-03-22T21:27:19.325078",
+  "package_url": "https://pypi.org/project/wyoming-openai/"
+}

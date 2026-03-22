@@ -1,0 +1,11 @@
+{
+  "name": "volterra-nematic",
+  "version": "0.1.0",
+  "summary": "Python bindings for the volterra active nematics simulation library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "volterra_nematic-0.1.0-cp310-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-03-22T21:26:47.860349",
+  "package_url": "https://pypi.org/project/volterra-nematic/"
+}

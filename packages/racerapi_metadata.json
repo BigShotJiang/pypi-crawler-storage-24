@@ -1,0 +1,11 @@
+{
+  "name": "racerapi",
+  "version": "0.0.5",
+  "summary": "Production-grade FastAPI modular monolith",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "racerapi-0.0.5.tar.gz",
+  "download_time": "2026-03-22T21:26:58.903837",
+  "package_url": "https://pypi.org/project/racerapi/"
+}

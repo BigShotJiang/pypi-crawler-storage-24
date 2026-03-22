@@ -1,11 +1,11 @@
 {
   "name": "ruff-sync",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Synchronize Ruff linter configuration across projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ruff_sync-0.1.0.tar.gz",
-  "download_time": "2026-03-15T17:57:20.567044",
+  "download_filename": "ruff_sync-0.1.2.tar.gz",
+  "download_time": "2026-03-22T21:27:02.573679",
   "package_url": "https://pypi.org/project/ruff-sync/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jetsam-mcp",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Git workflow accelerator for humans and agents",
   "author": "Teague Sterling",
   "license": null,
   "home_page": null,
-  "download_filename": "jetsam_mcp-0.2.1.tar.gz",
-  "download_time": "2026-03-22T20:56:48.702494",
+  "download_filename": "jetsam_mcp-0.3.0.tar.gz",
+  "download_time": "2026-03-22T21:27:24.038726",
   "package_url": "https://pypi.org/project/jetsam-mcp/"
 }

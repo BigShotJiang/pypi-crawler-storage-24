@@ -1,0 +1,11 @@
+{
+  "name": "spharagusnet",
+  "version": "0.2.2",
+  "summary": "Neural document OCR for Chilean territorial planning documents",
+  "author": "J. Sebastian Miño",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spharagusnet-0.2.2.tar.gz",
+  "download_time": "2026-03-22T21:27:25.619448",
+  "package_url": "https://pypi.org/project/spharagusnet/"
+}

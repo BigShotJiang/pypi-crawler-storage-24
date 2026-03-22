@@ -1,0 +1,11 @@
+{
+  "name": "synop",
+  "version": "0.1.0",
+  "summary": "AI-powered CLI tool to generate structured video descriptions from sampled frames and metadata.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synop-0.1.0.tar.gz",
+  "download_time": "2026-03-22T21:26:50.946360",
+  "package_url": "https://pypi.org/project/synop/"
+}

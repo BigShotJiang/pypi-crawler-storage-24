@@ -1,0 +1,11 @@
+{
+  "name": "tracecast",
+  "version": "0.1.0",
+  "summary": "LLM observability SDK — framework-agnostic tracing for AI applications",
+  "author": "Pedro Castanheira Costa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tracecast-0.1.0.tar.gz",
+  "download_time": "2026-03-22T21:26:55.706277",
+  "package_url": "https://pypi.org/project/tracecast/"
+}

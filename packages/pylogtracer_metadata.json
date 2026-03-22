@@ -1,11 +1,11 @@
 {
   "name": "pylogtracer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Provider-agnostic log analysis package with LLM support and LangGraph ReAct agent",
   "author": "Karthik.K",
   "license": null,
   "home_page": "https://github.com/Karthik.K/pylogtracer",
-  "download_filename": "pylogtracer-0.1.0.tar.gz",
-  "download_time": "2026-03-22T20:57:18.619317",
+  "download_filename": "pylogtracer-0.1.1.tar.gz",
+  "download_time": "2026-03-22T21:26:45.181156",
   "package_url": "https://pypi.org/project/pylogtracer/"
 }

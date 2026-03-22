@@ -1,0 +1,11 @@
+{
+  "name": "nodepad",
+  "version": "0.3.0",
+  "summary": "Generate node group documentation from Blender files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nodepad-0.3.0.tar.gz",
+  "download_time": "2026-03-22T21:27:11.937061",
+  "package_url": "https://pypi.org/project/nodepad/"
+}

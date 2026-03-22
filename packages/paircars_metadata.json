@@ -1,11 +1,11 @@
 {
   "name": "paircars",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "summary": "A package to calibrate and image MWA solar observation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paircars-3.0.3.tar.gz",
-  "download_time": "2026-03-22T20:26:29.419020",
+  "download_filename": "paircars-3.0.4.tar.gz",
+  "download_time": "2026-03-22T21:27:09.837883",
   "package_url": "https://pypi.org/project/paircars/"
 }
