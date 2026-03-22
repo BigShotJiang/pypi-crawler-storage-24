@@ -1,11 +1,11 @@
 {
   "name": "roboflex.util.jpeg",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Roboflex util jpeg Library",
   "author": "Colin Prepscius",
   "license": "MIT",
   "home_page": "https://github.com/flexrobotics/roboflex_util_jpeg",
-  "download_filename": "roboflex_util_jpeg-0.1.5.tar.gz",
-  "download_time": "2026-03-11T01:26:29.598134",
+  "download_filename": "roboflex_util_jpeg-0.1.6.tar.gz",
+  "download_time": "2026-03-22T22:56:43.242892",
   "package_url": "https://pypi.org/project/roboflex.util.jpeg/"
 }

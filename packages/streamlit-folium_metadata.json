@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-folium",
+  "version": "0.27.0",
+  "summary": "Render Folium objects in Streamlit",
+  "author": "Randy Zwitch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamlit_folium-0.27.0.tar.gz",
+  "download_time": "2026-03-22T22:56:59.301829",
+  "package_url": "https://pypi.org/project/streamlit-folium/"
+}

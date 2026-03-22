@@ -1,0 +1,11 @@
+{
+  "name": "rdetoolkit",
+  "version": "1.6.2",
+  "summary": "A module that supports the workflow of the RDE dataset construction program",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdetoolkit-1.6.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-03-22T22:57:25.506536",
+  "package_url": "https://pypi.org/project/rdetoolkit/"
+}

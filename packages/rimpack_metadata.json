@@ -1,11 +1,11 @@
 {
   "name": "rimpack",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rimpack-0.1.0.tar.gz",
-  "download_time": "2026-03-22T21:53:58.930758",
+  "download_filename": "rimpack-0.2.0.tar.gz",
+  "download_time": "2026-03-22T22:56:45.827823",
   "package_url": "https://pypi.org/project/rimpack/"
 }

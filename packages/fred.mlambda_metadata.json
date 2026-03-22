@@ -1,0 +1,11 @@
+{
+  "name": "fred.mlambda",
+  "version": "0.1.0",
+  "summary": "FRED-MLAMBDA",
+  "author": "Fahera Research, Education, and Development",
+  "license": null,
+  "home_page": "https://fred.fhr.tools",
+  "download_filename": "fred_mlambda-0.1.0.tar.gz",
+  "download_time": "2026-03-22T22:56:52.557712",
+  "package_url": "https://pypi.org/project/fred.mlambda/"
+}

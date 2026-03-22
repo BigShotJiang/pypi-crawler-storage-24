@@ -1,0 +1,11 @@
+{
+  "name": "docassemble-textstat",
+  "version": "0.7.3",
+  "summary": "Calculate statistical features from text",
+  "author": "Shivam Bansal, Chaitanya Aggarwal, Jonathan Pyle",
+  "license": "MIT",
+  "home_page": "https://github.com/jhpyle/textstat",
+  "download_filename": "docassemble_textstat-0.7.3.tar.gz",
+  "download_time": "2026-03-22T22:56:48.422883",
+  "package_url": "https://pypi.org/project/docassemble-textstat/"
+}

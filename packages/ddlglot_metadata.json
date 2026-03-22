@@ -1,11 +1,11 @@
 {
   "name": "ddlglot",
-  "version": "26.4.0",
+  "version": "0.2.0",
   "summary": "Fluent DDL builder using SQLGlot AST",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ddlglot-26.4.0.tar.gz",
-  "download_time": "2026-03-21T09:33:28.496551",
+  "download_filename": "ddlglot-0.2.0.tar.gz",
+  "download_time": "2026-03-22T22:56:37.176531",
   "package_url": "https://pypi.org/project/ddlglot/"
 }

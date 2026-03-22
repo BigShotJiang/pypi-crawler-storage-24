@@ -1,0 +1,11 @@
+{
+  "name": "msgspec-ext",
+  "version": "0.5.1",
+  "summary": "High-performance settings management and validation library extending msgspec",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msgspec_ext-0.5.1.tar.gz",
+  "download_time": "2026-03-22T22:57:01.392948",
+  "package_url": "https://pypi.org/project/msgspec-ext/"
+}

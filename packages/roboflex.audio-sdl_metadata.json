@@ -1,0 +1,11 @@
+{
+  "name": "roboflex.audio-sdl",
+  "version": "0.1.10",
+  "summary": "Roboflex Audio input library using Simple Directmedia Layer (SDL2)",
+  "author": "Colin Prepscius",
+  "license": "MIT",
+  "home_page": "https://github.com/flexrobotics/roboflex_audio_alsa",
+  "download_filename": "roboflex_audio_sdl-0.1.10.tar.gz",
+  "download_time": "2026-03-22T22:57:14.421057",
+  "package_url": "https://pypi.org/project/roboflex.audio-sdl/"
+}

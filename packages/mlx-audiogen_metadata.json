@@ -1,0 +1,11 @@
+{
+  "name": "mlx-audiogen",
+  "version": "0.2.0",
+  "summary": "Music and audio generation on Apple Silicon using MLX - MusicGen and Stable Audio Open",
+  "author": "Jason Vassallo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_audiogen-0.2.0.tar.gz",
+  "download_time": "2026-03-22T22:56:46.350004",
+  "package_url": "https://pypi.org/project/mlx-audiogen/"
+}

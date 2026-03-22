@@ -1,0 +1,11 @@
+{
+  "name": "roboflex.transport.mqtt",
+  "version": "0.1.9",
+  "summary": "Roboflex Transport mqtt Library",
+  "author": "Colin Prepscius",
+  "license": "MIT",
+  "home_page": "https://github.com/flexrobotics/roboflex_transport_mqtt",
+  "download_filename": "roboflex_transport_mqtt-0.1.9.tar.gz",
+  "download_time": "2026-03-22T22:56:58.787581",
+  "package_url": "https://pypi.org/project/roboflex.transport.mqtt/"
+}
