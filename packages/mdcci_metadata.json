@@ -1,11 +1,11 @@
 {
   "name": "mdcci",
-  "version": "1.4",
+  "version": "1.4.5",
   "summary": "Extended LPro - MProcs simplified - A Life program by tderk, originally LPro.py and Destiny [2024]",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mdcci-1.4.tar.gz",
-  "download_time": "2026-03-15T13:39:29.813454",
+  "download_filename": "mdcci-1.4.5.tar.gz",
+  "download_time": "2026-03-22T11:25:11.560360",
   "package_url": "https://pypi.org/project/mdcci/"
 }

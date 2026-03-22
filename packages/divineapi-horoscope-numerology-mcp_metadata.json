@@ -1,0 +1,11 @@
+{
+  "name": "divineapi-horoscope-numerology-mcp",
+  "version": "1.0.0",
+  "summary": "Official MCP server for Divine API's Horoscope, Tarot, Numerology & PDF Reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "divineapi_horoscope_numerology_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-22T11:24:52.720403",
+  "package_url": "https://pypi.org/project/divineapi-horoscope-numerology-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zerollm-kit",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Zero setup, zero config — the easiest Python API for local LLMs on any hardware",
   "author": "Nilesh Verma",
   "license": null,
   "home_page": null,
-  "download_filename": "zerollm_kit-0.1.2.tar.gz",
-  "download_time": "2026-03-22T09:54:06.781728",
+  "download_filename": "zerollm_kit-0.1.4.tar.gz",
+  "download_time": "2026-03-22T11:25:00.594273",
   "package_url": "https://pypi.org/project/zerollm-kit/"
 }

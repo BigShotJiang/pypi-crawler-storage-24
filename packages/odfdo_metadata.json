@@ -1,11 +1,11 @@
 {
   "name": "odfdo",
-  "version": "3.22.0",
+  "version": "3.22.1",
   "summary": "Python library for OpenDocument Format",
   "author": "Jérôme Dumonteil",
   "license": null,
   "home_page": null,
-  "download_filename": "odfdo-3.22.0.tar.gz",
-  "download_time": "2026-03-07T13:26:33.719767",
+  "download_filename": "odfdo-3.22.1.tar.gz",
+  "download_time": "2026-03-22T11:25:08.925425",
   "package_url": "https://pypi.org/project/odfdo/"
 }

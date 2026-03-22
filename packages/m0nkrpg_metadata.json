@@ -1,11 +1,11 @@
 {
   "name": "m0nkrpg",
-  "version": "1.4",
+  "version": "1.4.5",
   "summary": "Extended LPro - MProcs simplified - A Life program by tderk, originally LPro.py and Destiny [2024]",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "m0nkrpg-1.4.tar.gz",
-  "download_time": "2026-03-15T13:39:28.789433",
+  "download_filename": "m0nkrpg-1.4.5.tar.gz",
+  "download_time": "2026-03-22T11:25:10.484892",
   "package_url": "https://pypi.org/project/m0nkrpg/"
 }

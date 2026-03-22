@@ -1,0 +1,11 @@
+{
+  "name": "mysphinx-forge",
+  "version": "0.1.0",
+  "summary": "Data and model workflow toolkit for cleaning, clustering, generation, and evaluation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mysphinx_forge-0.1.0.tar.gz",
+  "download_time": "2026-03-22T11:25:04.751378",
+  "package_url": "https://pypi.org/project/mysphinx-forge/"
+}

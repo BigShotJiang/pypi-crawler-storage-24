@@ -1,11 +1,11 @@
 {
   "name": "navpipe",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Unofficial Python SDK for fetching mutual fund NAV history from mfapi.in (Rust backend)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "navpipe-0.2.0.tar.gz",
-  "download_time": "2026-03-08T14:23:01.906601",
+  "download_filename": "navpipe-0.3.0.tar.gz",
+  "download_time": "2026-03-22T11:24:54.278526",
   "package_url": "https://pypi.org/project/navpipe/"
 }

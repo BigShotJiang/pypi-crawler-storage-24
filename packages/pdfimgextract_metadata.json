@@ -1,11 +1,11 @@
 {
   "name": "pdfimgextract",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "Fast parallel PDF image extractor",
   "author": "Archmagoz",
   "license": null,
   "home_page": null,
-  "download_filename": "pdfimgextract-1.6.1.tar.gz",
-  "download_time": "2026-03-21T20:55:00.713669",
+  "download_filename": "pdfimgextract-1.6.2.tar.gz",
+  "download_time": "2026-03-22T11:25:15.713905",
   "package_url": "https://pypi.org/project/pdfimgextract/"
 }
