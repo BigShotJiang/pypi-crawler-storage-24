@@ -1,11 +1,11 @@
 {
   "name": "babelvox",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Real-time text-to-speech on Intel NPU/CPU via OpenVINO",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "babelvox-1.5.0.tar.gz",
-  "download_time": "2026-03-22T17:55:42.493687",
+  "download_filename": "babelvox-1.6.0.tar.gz",
+  "download_time": "2026-03-22T18:35:17.422856",
   "package_url": "https://pypi.org/project/babelvox/"
 }

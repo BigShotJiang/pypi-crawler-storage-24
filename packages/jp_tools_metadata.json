@@ -1,11 +1,11 @@
 {
   "name": "jp_tools",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "A simple download hellper to pull files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jp_tools-0.6.1.tar.gz",
-  "download_time": "2026-03-21T14:49:43.338066",
+  "download_filename": "jp_tools-0.6.2.tar.gz",
+  "download_time": "2026-03-22T18:35:41.607443",
   "package_url": "https://pypi.org/project/jp_tools/"
 }

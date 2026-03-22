@@ -1,0 +1,11 @@
+{
+  "name": "global-education-mcp",
+  "version": "0.2.0",
+  "summary": "MCP Server für internationale Bildungsdaten – UNESCO UIS (4000+ Indikatoren) und OECD Education at a Glance (SDMX API)",
+  "author": "Schulamt der Stadt Zürich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "global_education_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-22T18:35:47.323730",
+  "package_url": "https://pypi.org/project/global-education-mcp/"
+}

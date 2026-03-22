@@ -1,11 +1,11 @@
 {
   "name": "fancygit",
-  "version": "1.0.14",
+  "version": "1.0.17",
   "summary": "A smart CLI tool that provides intelligent recommendations and helps solve merge conflicts",
-  "author": "Youssif Ashmawy and Omar Ossama",
+  "author": "Youssif Ashmawy",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "fancygit-1.0.14.tar.gz",
-  "download_time": "2026-03-22T11:50:25.944504",
+  "download_filename": "fancygit-1.0.17.tar.gz",
+  "download_time": "2026-03-22T18:35:34.916193",
   "package_url": "https://pypi.org/project/fancygit/"
 }

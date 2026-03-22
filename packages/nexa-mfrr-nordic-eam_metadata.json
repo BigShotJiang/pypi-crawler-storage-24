@@ -1,11 +1,11 @@
 {
   "name": "nexa-mfrr-nordic-eam",
-  "version": "0.1.0b1",
+  "version": "0.2.0b1",
   "summary": "Python library for building, validating, and serializing mFRR energy activation market bids for the Nordic TSOs",
   "author": "Phase Nexa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexa_mfrr_nordic_eam-0.1.0b1.tar.gz",
-  "download_time": "2026-03-21T14:49:23.704501",
+  "download_filename": "nexa_mfrr_nordic_eam-0.2.0b1.tar.gz",
+  "download_time": "2026-03-22T18:35:40.063420",
   "package_url": "https://pypi.org/project/nexa-mfrr-nordic-eam/"
 }

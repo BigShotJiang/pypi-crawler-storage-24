@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-ddl-extractor",
+  "version": "0.1.0",
+  "summary": "Extract DDL scripts from a Snowflake database into a structured local directory.",
+  "author": "Saurav",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snowflake_ddl_extractor-0.1.0.tar.gz",
+  "download_time": "2026-03-22T18:35:14.325450",
+  "package_url": "https://pypi.org/project/snowflake-ddl-extractor/"
+}

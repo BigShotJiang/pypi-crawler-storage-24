@@ -1,11 +1,11 @@
 {
   "name": "ptyx-mcq",
-  "version": "31.0.1",
+  "version": "31.1.0",
   "summary": "pTyX-MCQ is a generator/scanner of MCQ, based on pTyX.",
   "author": "Nicolas Pourcelot",
   "license": null,
   "home_page": null,
-  "download_filename": "ptyx_mcq-31.0.1.tar.gz",
-  "download_time": "2026-03-22T17:27:24.509165",
+  "download_filename": "ptyx_mcq-31.1.0.tar.gz",
+  "download_time": "2026-03-22T18:35:45.760796",
   "package_url": "https://pypi.org/project/ptyx-mcq/"
 }

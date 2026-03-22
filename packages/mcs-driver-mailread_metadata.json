@@ -1,0 +1,11 @@
+{
+  "name": "mcs-driver-mailread",
+  "version": "0.1.1",
+  "summary": "Mail-reading driver for the Model Context Standard -- lets an LLM read and organise e-mail.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcs_driver_mailread-0.1.1.tar.gz",
+  "download_time": "2026-03-22T18:35:25.657809",
+  "package_url": "https://pypi.org/project/mcs-driver-mailread/"
+}

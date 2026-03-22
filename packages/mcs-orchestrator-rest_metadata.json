@@ -1,0 +1,11 @@
+{
+  "name": "mcs-orchestrator-rest",
+  "version": "0.2.1",
+  "summary": "Dynamic REST/OpenAPI orchestrator for the Model Context Standard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcs_orchestrator_rest-0.2.1.tar.gz",
+  "download_time": "2026-03-22T18:35:23.083228",
+  "package_url": "https://pypi.org/project/mcs-orchestrator-rest/"
+}

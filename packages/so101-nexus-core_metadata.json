@@ -1,0 +1,11 @@
+{
+  "name": "so101-nexus-core",
+  "version": "0.3.1",
+  "summary": "Shared assets and types for SO101-Nexus simulation environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "so101_nexus_core-0.3.1.tar.gz",
+  "download_time": "2026-03-22T18:35:04.872706",
+  "package_url": "https://pypi.org/project/so101-nexus-core/"
+}

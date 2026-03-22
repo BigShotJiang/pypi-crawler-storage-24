@@ -1,0 +1,11 @@
+{
+  "name": "mapflow-co-sdk",
+  "version": "2.0.0",
+  "summary": "Python SDK for MapFlow route optimization API - v2 with hierarchical product support",
+  "author": "MapFlow",
+  "license": "MIT",
+  "home_page": "https://github.com/mapflow-co/python-sdk",
+  "download_filename": "mapflow_co_sdk-2.0.0.tar.gz",
+  "download_time": "2026-03-22T18:35:35.434102",
+  "package_url": "https://pypi.org/project/mapflow-co-sdk/"
+}

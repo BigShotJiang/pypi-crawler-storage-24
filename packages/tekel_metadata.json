@@ -1,0 +1,11 @@
+{
+  "name": "tekel",
+  "version": "0.2.0",
+  "summary": "Schema validation and query engine for flat-file YAML data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tekel-0.2.0.tar.gz",
+  "download_time": "2026-03-22T18:35:08.607487",
+  "package_url": "https://pypi.org/project/tekel/"
+}

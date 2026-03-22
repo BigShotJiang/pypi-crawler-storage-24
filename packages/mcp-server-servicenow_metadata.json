@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-servicenow",
+  "version": "0.5.1",
+  "summary": "MCP server for ServiceNow - 19 tools + 5 resources for table, CMDB, system, and update set operations",
+  "author": "Josh Schuller",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_servicenow-0.5.1.tar.gz",
+  "download_time": "2026-03-22T18:35:20.006881",
+  "package_url": "https://pypi.org/project/mcp-server-servicenow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ptyx-mcq-editor",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": null,
   "author": "Nicolas Pourcelot",
   "license": null,
   "home_page": null,
-  "download_filename": "ptyx_mcq_editor-1.1.1.tar.gz",
-  "download_time": "2026-03-22T16:59:40.406373",
+  "download_filename": "ptyx_mcq_editor-1.2.0.tar.gz",
+  "download_time": "2026-03-22T18:35:38.517859",
   "package_url": "https://pypi.org/project/ptyx-mcq-editor/"
 }
