@@ -1,0 +1,11 @@
+{
+  "name": "asterix-agent",
+  "version": "0.2.1",
+  "summary": "Stateful AI agents with editable memory blocks and persistent storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asterix_agent-0.2.1.tar.gz",
+  "download_time": "2026-03-22T15:53:44.789817",
+  "package_url": "https://pypi.org/project/asterix-agent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tplink-omada-client",
+  "version": "1.5.6",
+  "summary": "Python wrapper for TP-Link Omada SDN Controller API (OC200/OC300/Software Controller)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tplink_omada_client-1.5.6.tar.gz",
+  "download_time": "2026-03-22T15:53:47.366597",
+  "package_url": "https://pypi.org/project/tplink-omada-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nexusos-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for NexusOS AI Agent Governance",
+  "author": "NexusOS",
+  "license": "MIT",
+  "home_page": "https://github.com/umair24171/nexusos-dashboard",
+  "download_filename": "nexusos_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-22T15:53:57.159460",
+  "package_url": "https://pypi.org/project/nexusos-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scaleapi",
+  "version": "2.18.3",
+  "summary": "The official Python client library for Scale AI, the Data Platform for AI",
+  "author": "Scale AI",
+  "license": null,
+  "home_page": "https://github.com/scaleapi/scaleapi-python-client",
+  "download_filename": "scaleapi-2.18.3.tar.gz",
+  "download_time": "2026-03-22T15:53:42.222305",
+  "package_url": "https://pypi.org/project/scaleapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tempemail-sdk",
+  "version": "1.1.4",
+  "summary": "临时邮箱 SDK，支持 11 个邮箱服务提供商，所有渠道返回统一标准化格式",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "tempemail_sdk-1.1.4.tar.gz",
+  "download_time": "2026-03-22T15:53:47.877401",
+  "package_url": "https://pypi.org/project/tempemail-sdk/"
+}

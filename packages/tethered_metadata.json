@@ -1,11 +1,11 @@
 {
   "name": "tethered",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Runtime network egress control for Python",
   "author": "Sergii Shcherbak",
   "license": null,
   "home_page": null,
-  "download_filename": "tethered-0.3.2.tar.gz",
-  "download_time": "2026-03-22T01:51:56.296314",
+  "download_filename": "tethered-0.3.3.tar.gz",
+  "download_time": "2026-03-22T15:54:08.789914",
   "package_url": "https://pypi.org/project/tethered/"
 }

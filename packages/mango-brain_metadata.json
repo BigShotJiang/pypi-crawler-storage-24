@@ -1,11 +1,11 @@
 {
   "name": "mango-brain",
-  "version": "3.2.4",
+  "version": "3.2.6",
   "summary": "The learning layer for Claude Code — persistent associative memory + development workflow. Claude Code gets smarter the longer you use it.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mango_brain-3.2.4.tar.gz",
-  "download_time": "2026-03-22T15:26:32.009388",
+  "download_filename": "mango_brain-3.2.6.tar.gz",
+  "download_time": "2026-03-22T15:53:48.916096",
   "package_url": "https://pypi.org/project/mango-brain/"
 }

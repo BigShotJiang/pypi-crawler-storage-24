@@ -1,0 +1,11 @@
+{
+  "name": "sql-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server that connects Claude to a Microsoft SQL Server database",
+  "author": "Snehangshu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sql_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-03-22T15:53:42.734791",
+  "package_url": "https://pypi.org/project/sql-mcp-server/"
+}

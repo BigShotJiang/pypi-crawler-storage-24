@@ -1,11 +1,11 @@
 {
   "name": "clean-ollama",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "A minimal, typed Python interface for Ollama that simplifies the existing ollama library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clean_ollama-1.0.0.tar.gz",
-  "download_time": "2026-03-22T01:52:25.750418",
+  "download_filename": "clean_ollama-1.2.0.tar.gz",
+  "download_time": "2026-03-22T15:53:22.979704",
   "package_url": "https://pypi.org/project/clean-ollama/"
 }

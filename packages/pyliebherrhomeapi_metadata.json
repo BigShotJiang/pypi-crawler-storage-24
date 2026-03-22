@@ -1,0 +1,11 @@
+{
+  "name": "pyliebherrhomeapi",
+  "version": "0.4.1",
+  "summary": "Python library for Liebherr Home API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyliebherrhomeapi-0.4.1.tar.gz",
+  "download_time": "2026-03-22T15:53:55.112377",
+  "package_url": "https://pypi.org/project/pyliebherrhomeapi/"
+}

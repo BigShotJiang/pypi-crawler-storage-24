@@ -1,0 +1,11 @@
+{
+  "name": "uaf-cli",
+  "version": "0.8.0",
+  "summary": "Universal Agent File (UAF) Compiler & Protocol",
+  "author": "Vaibhav Haswani",
+  "license": null,
+  "home_page": "https://github.com/vaibhavhaswani/UAF-Compiler",
+  "download_filename": "uaf_cli-0.8.0.tar.gz",
+  "download_time": "2026-03-22T15:53:57.670308",
+  "package_url": "https://pypi.org/project/uaf-cli/"
+}
