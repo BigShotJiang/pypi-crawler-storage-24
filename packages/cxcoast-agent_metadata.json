@@ -1,11 +1,11 @@
 {
   "name": "cxcoast-agent",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "CXCoast Knowledge Hub CLI: AI agent for organizational knowledge with planning, search, and sub-agent capabilities.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "cxcoast_agent-0.1.5.tar.gz",
-  "download_time": "2026-03-22T09:09:43.065381",
+  "download_filename": "cxcoast_agent-0.1.7.tar.gz",
+  "download_time": "2026-03-22T19:59:56.490069",
   "package_url": "https://pypi.org/project/cxcoast-agent/"
 }

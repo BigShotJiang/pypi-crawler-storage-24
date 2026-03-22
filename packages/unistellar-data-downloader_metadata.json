@@ -1,0 +1,11 @@
+{
+  "name": "unistellar-data-downloader",
+  "version": "1.0.0",
+  "summary": "Reliable data downloader for Unistellar telescopes (eVscope, eQuinox, Odyssey)",
+  "author": "Vamshi Kesireddy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unistellar_data_downloader-1.0.0.tar.gz",
+  "download_time": "2026-03-22T19:59:45.689360",
+  "package_url": "https://pypi.org/project/unistellar-data-downloader/"
+}

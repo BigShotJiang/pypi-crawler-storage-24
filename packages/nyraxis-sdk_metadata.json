@@ -1,0 +1,11 @@
+{
+  "name": "nyraxis-sdk",
+  "version": "0.5.0",
+  "summary": "Universal AI agent observability & governance — trace every LLM provider, framework, and vector DB with 17 built-in governance providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nyraxis_sdk-0.5.0.tar.gz",
+  "download_time": "2026-03-22T19:59:53.596355",
+  "package_url": "https://pypi.org/project/nyraxis-sdk/"
+}

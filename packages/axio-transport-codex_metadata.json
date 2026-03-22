@@ -1,11 +1,11 @@
 {
   "name": "axio-transport-codex",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "ChatGPT (Codex) OAuth transport for Axio using Responses API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axio_transport_codex-0.1.0.tar.gz",
-  "download_time": "2026-03-22T16:30:13.040272",
+  "download_filename": "axio_transport_codex-0.2.1.tar.gz",
+  "download_time": "2026-03-22T19:59:59.370817",
   "package_url": "https://pypi.org/project/axio-transport-codex/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tollbooth",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Proof-of-work bot challenge middleware for Python. Zero dependencies.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "tollbooth-0.1.7.tar.gz",
-  "download_time": "2026-03-22T13:02:18.028052",
+  "download_filename": "tollbooth-0.1.9.tar.gz",
+  "download_time": "2026-03-22T20:00:14.404102",
   "package_url": "https://pypi.org/project/tollbooth/"
 }

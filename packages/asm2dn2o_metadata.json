@@ -1,0 +1,11 @@
+{
+  "name": "asm2dn2o",
+  "version": "0.1.0",
+  "summary": "ASM2d_N2O compiled extension modules (Windows cp311 wheel)",
+  "author": "Dr Taher Abunama",
+  "license": "SEE LICENSE",
+  "home_page": null,
+  "download_filename": "asm2dn2o-0.1.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-03-22T19:59:43.983221",
+  "package_url": "https://pypi.org/project/asm2dn2o/"
+}

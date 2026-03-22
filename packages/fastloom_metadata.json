@@ -1,11 +1,11 @@
 {
   "name": "fastloom",
-  "version": "0.4.23",
+  "version": "0.4.24",
   "summary": "Core package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastloom-0.4.23.tar.gz",
-  "download_time": "2026-03-22T19:08:43.244922",
+  "download_filename": "fastloom-0.4.24.tar.gz",
+  "download_time": "2026-03-22T19:59:59.957230",
   "package_url": "https://pypi.org/project/fastloom/"
 }

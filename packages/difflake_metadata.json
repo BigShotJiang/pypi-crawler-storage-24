@@ -1,0 +1,11 @@
+{
+  "name": "difflake",
+  "version": "1.1.1",
+  "summary": "git diff, but for your data — powered by DuckDB. Any format, any scale, any cloud.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "difflake-1.1.1.tar.gz",
+  "download_time": "2026-03-22T19:59:51.838916",
+  "package_url": "https://pypi.org/project/difflake/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emmett-core",
+  "version": "1.4.0",
+  "summary": "Emmett framework core libraries",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/emmett-framework/core",
+  "download_filename": "emmett_core-1.4.0.tar.gz",
+  "download_time": "2026-03-22T20:00:04.710770",
+  "package_url": "https://pypi.org/project/emmett-core/"
+}

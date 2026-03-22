@@ -1,11 +1,11 @@
 {
   "name": "symdex",
-  "version": "0.1.11",
+  "version": "0.1.14",
   "summary": "Universal code-indexer MCP server for AI coding agents — semantic search, call graph, Mermaid diagrams",
   "author": "Muhammad Husnain",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "symdex-0.1.11.tar.gz",
-  "download_time": "2026-03-22T12:04:02.842791",
+  "download_filename": "symdex-0.1.14.tar.gz",
+  "download_time": "2026-03-22T20:00:11.526616",
   "package_url": "https://pypi.org/project/symdex/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "axio-transport-openai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "OpenAI-compatible transport for Axio",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axio_transport_openai-0.2.0.tar.gz",
-  "download_time": "2026-03-22T19:43:45.281773",
+  "download_filename": "axio_transport_openai-0.2.1.tar.gz",
+  "download_time": "2026-03-22T20:00:02.911764",
   "package_url": "https://pypi.org/project/axio-transport-openai/"
 }

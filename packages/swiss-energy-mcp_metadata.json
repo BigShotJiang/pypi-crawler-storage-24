@@ -1,0 +1,11 @@
+{
+  "name": "swiss-energy-mcp",
+  "version": "0.1.0",
+  "summary": "MCP Server für Schweizer Energiedaten – BFE Elektrizitätsproduktionsanlagen, Windkraft, Wasserkraft, Photovoltaik, Solareignung, Energiestädte via GeoAdmin REST API und opendata.swiss",
+  "author": "Schulamt Stadt Zürich",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swiss_energy_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-22T20:00:05.885896",
+  "package_url": "https://pypi.org/project/swiss-energy-mcp/"
+}
