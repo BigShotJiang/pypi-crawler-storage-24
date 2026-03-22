@@ -1,0 +1,11 @@
+{
+  "name": "swiss-culture-mcp",
+  "version": "1.0.0",
+  "summary": "MCP Server for Swiss Cultural Heritage Data (BAK) — ISOS, Cultural Prizes, Living Traditions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swiss_culture_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-22T17:00:07.179199",
+  "package_url": "https://pypi.org/project/swiss-culture-mcp/"
+}

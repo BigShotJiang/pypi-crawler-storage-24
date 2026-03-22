@@ -1,0 +1,11 @@
+{
+  "name": "ragnest",
+  "version": "0.1.0",
+  "summary": "Multi-knowledge-base RAG system with MCP integration",
+  "author": "november-pain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragnest-0.1.0.tar.gz",
+  "download_time": "2026-03-22T16:59:42.458870",
+  "package_url": "https://pypi.org/project/ragnest/"
+}

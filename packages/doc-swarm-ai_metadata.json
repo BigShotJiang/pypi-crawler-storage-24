@@ -1,11 +1,11 @@
 {
   "name": "doc-swarm-ai",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Multi-agent documentation generator via MCP -- generates, verifies, and maintains project documentation",
   "author": "fozzfut",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "doc_swarm_ai-0.1.3.tar.gz",
-  "download_time": "2026-03-22T16:30:18.943609",
+  "download_filename": "doc_swarm_ai-0.1.5.tar.gz",
+  "download_time": "2026-03-22T17:00:00.498708",
   "package_url": "https://pypi.org/project/doc-swarm-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fusion-ai-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "AI SDK which has capabilities to interact with Google Gemini / OpenAI / Ollama APIs for LLM calls",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fusion_ai_sdk-1.0.0.tar.gz",
-  "download_time": "2026-03-21T09:59:19.253080",
+  "download_filename": "fusion_ai_sdk-1.0.1.tar.gz",
+  "download_time": "2026-03-22T17:00:14.894599",
   "package_url": "https://pypi.org/project/fusion-ai-sdk/"
 }

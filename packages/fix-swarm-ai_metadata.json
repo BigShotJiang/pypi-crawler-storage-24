@@ -1,11 +1,11 @@
 {
   "name": "fix-swarm-ai",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Multi-agent code fixer -- reads ReviewSwarm reports and generates fixes",
   "author": "fozzfut",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fix_swarm_ai-0.1.4.tar.gz",
-  "download_time": "2026-03-22T16:30:20.029739",
+  "download_filename": "fix_swarm_ai-0.1.5.tar.gz",
+  "download_time": "2026-03-22T17:00:01.528888",
   "package_url": "https://pypi.org/project/fix-swarm-ai/"
 }

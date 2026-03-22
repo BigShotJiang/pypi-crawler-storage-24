@@ -1,0 +1,11 @@
+{
+  "name": "wireup",
+  "version": "2.9.0",
+  "summary": "Python Dependency Injection Library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wireup-2.9.0.tar.gz",
+  "download_time": "2026-03-22T16:59:41.434887",
+  "package_url": "https://pypi.org/project/wireup/"
+}

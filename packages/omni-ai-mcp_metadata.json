@@ -1,11 +1,11 @@
 {
   "name": "omni-ai-mcp",
-  "version": "4.0.9",
+  "version": "4.2.0",
   "summary": "Multi-AI MCP bridge: Gemini + OpenRouter (400+ models) — text, code, image, video, TTS, RAG, Deep Research",
   "author": "Marco Armellino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omni_ai_mcp-4.0.9.tar.gz",
-  "download_time": "2026-03-08T09:52:09.628072",
+  "download_filename": "omni_ai_mcp-4.2.0.tar.gz",
+  "download_time": "2026-03-22T16:59:33.663817",
   "package_url": "https://pypi.org/project/omni-ai-mcp/"
 }

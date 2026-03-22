@@ -1,11 +1,11 @@
 {
   "name": "chainaudit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Smart contract security scanner — Slither + ML exploitability prediction",
   "author": "Aditya Raina",
   "license": "MIT",
   "home_page": "https://github.com/aizen299/smart-contract-auditor",
-  "download_filename": "chainaudit-1.1.0.tar.gz",
-  "download_time": "2026-03-22T16:30:35.944594",
+  "download_filename": "chainaudit-1.1.1.tar.gz",
+  "download_time": "2026-03-22T17:00:02.553618",
   "package_url": "https://pypi.org/project/chainaudit/"
 }

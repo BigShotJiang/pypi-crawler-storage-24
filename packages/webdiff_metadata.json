@@ -1,0 +1,11 @@
+{
+  "name": "webdiff",
+  "version": "1.4.0",
+  "summary": "Two-column web-based git difftool",
+  "author": "Dan Vanderkam",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/danvk/webdiff/",
+  "download_filename": "webdiff-1.4.0.tar.gz",
+  "download_time": "2026-03-22T17:00:03.071123",
+  "package_url": "https://pypi.org/project/webdiff/"
+}

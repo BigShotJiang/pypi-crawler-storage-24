@@ -1,0 +1,11 @@
+{
+  "name": "iacguard",
+  "version": "0.1.0",
+  "summary": "Terraform pre-apply risk and blast radius analyzer",
+  "author": "IACGuard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iacguard-0.1.0.tar.gz",
+  "download_time": "2026-03-22T17:00:06.666975",
+  "package_url": "https://pypi.org/project/iacguard/"
+}

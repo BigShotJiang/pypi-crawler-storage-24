@@ -1,0 +1,11 @@
+{
+  "name": "garo-entity-pro",
+  "version": "0.3.0",
+  "summary": "Async client for the Garo Entity Pro charger local HTTPS API (/status/...).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "garo_entity_pro-0.3.0.tar.gz",
+  "download_time": "2026-03-22T16:59:36.806805",
+  "package_url": "https://pypi.org/project/garo-entity-pro/"
+}
