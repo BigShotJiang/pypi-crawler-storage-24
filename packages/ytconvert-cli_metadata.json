@@ -1,0 +1,11 @@
+{
+  "name": "ytconvert-cli",
+  "version": "1.1.1",
+  "summary": "A command-line tool to convert YouTube videos to MP3 or MP4 using yt-dlp",
+  "author": "ytconvert-cli contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ytconvert_cli-1.1.1.tar.gz",
+  "download_time": "2026-03-22T19:43:34.893597",
+  "package_url": "https://pypi.org/project/ytconvert-cli/"
+}

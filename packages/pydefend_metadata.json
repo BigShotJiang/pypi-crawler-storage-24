@@ -1,11 +1,11 @@
 {
   "name": "pydefend",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "AI security guardrails for LLM applications.",
   "author": "Defend maintainers",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pydefend-0.1.8.tar.gz",
-  "download_time": "2026-03-22T19:08:22.251993",
+  "download_filename": "pydefend-0.1.10.tar.gz",
+  "download_time": "2026-03-22T19:43:00.740469",
   "package_url": "https://pypi.org/project/pydefend/"
 }

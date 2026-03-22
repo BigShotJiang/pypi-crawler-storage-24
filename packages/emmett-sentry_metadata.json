@@ -1,0 +1,11 @@
+{
+  "name": "emmett-sentry",
+  "version": "0.9.0",
+  "summary": "Sentry extension for Emmett framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emmett_sentry-0.9.0.tar.gz",
+  "download_time": "2026-03-22T19:43:41.165551",
+  "package_url": "https://pypi.org/project/emmett-sentry/"
+}

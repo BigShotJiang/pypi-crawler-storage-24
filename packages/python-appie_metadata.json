@@ -1,11 +1,11 @@
 {
   "name": "python-appie",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Unofficial Python client for the Albert Heijn API.",
   "author": "Codex",
   "license": null,
   "home_page": null,
-  "download_filename": "python_appie-0.2.1.tar.gz",
-  "download_time": "2026-03-22T09:09:30.164725",
+  "download_filename": "python_appie-0.2.2.tar.gz",
+  "download_time": "2026-03-22T19:43:39.625358",
   "package_url": "https://pypi.org/project/python-appie/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "leap360",
+  "version": "1.0.0",
+  "summary": "Leap360 AI Governance SDK for Python",
+  "author": "Leap360",
+  "license": null,
+  "home_page": "https://github.com/LeapTheLimit/Leap360-AI",
+  "download_filename": "leap360-1.0.0.tar.gz",
+  "download_time": "2026-03-22T19:43:19.925505",
+  "package_url": "https://pypi.org/project/leap360/"
+}

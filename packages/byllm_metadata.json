@@ -1,11 +1,11 @@
 {
   "name": "byllm",
-  "version": "0.5.6",
+  "version": "0.5.8",
   "summary": "byLLM Provides Easy to use APIs for different LLM Providers to be used with Jaseci's Jaclang Programming Language.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "byllm-0.5.6.tar.gz",
-  "download_time": "2026-03-12T04:12:47.854465",
+  "download_filename": "byllm-0.5.8.tar.gz",
+  "download_time": "2026-03-22T19:43:36.445542",
   "package_url": "https://pypi.org/project/byllm/"
 }

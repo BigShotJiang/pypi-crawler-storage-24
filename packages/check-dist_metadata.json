@@ -1,0 +1,11 @@
+{
+  "name": "check-dist",
+  "version": "0.1.4",
+  "summary": "Check Python source and wheel distributions",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "check_dist-0.1.4.tar.gz",
+  "download_time": "2026-03-22T19:43:15.307430",
+  "package_url": "https://pypi.org/project/check-dist/"
+}

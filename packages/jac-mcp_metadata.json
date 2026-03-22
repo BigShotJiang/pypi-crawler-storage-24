@@ -1,11 +1,11 @@
 {
   "name": "jac-mcp",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "MCP server for AI-assisted Jac development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jac_mcp-0.1.4.tar.gz",
-  "download_time": "2026-03-12T04:12:47.333396",
+  "download_filename": "jac_mcp-0.1.6.tar.gz",
+  "download_time": "2026-03-22T19:43:36.960222",
   "package_url": "https://pypi.org/project/jac-mcp/"
 }

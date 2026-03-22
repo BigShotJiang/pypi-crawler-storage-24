@@ -1,0 +1,11 @@
+{
+  "name": "fast-platform",
+  "version": "0.12.2",
+  "summary": "Umbrella package: fast_platform.configuration, fast_admin, fast_notifications, fast_resilience, fast_versioning, fast_features, fast_channels, fast_db, observability, analytics, queues, … — merged fast_* modules under one install.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_platform-0.12.2.tar.gz",
+  "download_time": "2026-03-22T19:43:40.139563",
+  "package_url": "https://pypi.org/project/fast-platform/"
+}

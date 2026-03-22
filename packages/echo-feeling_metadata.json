@@ -1,0 +1,11 @@
+{
+  "name": "echo-feeling",
+  "version": "2.1.0",
+  "summary": "Multimodal sentiment analysis for e-commerce: text + emoji + sticker fusion with ML classifiers.",
+  "author": "Swathi Lekshmi SS, Romin Varghese, R Arun, Ivin Issac",
+  "license": null,
+  "home_page": "https://github.com/Becadyop/final",
+  "download_filename": "echo_feeling-2.1.0.tar.gz",
+  "download_time": "2026-03-22T19:43:13.730306",
+  "package_url": "https://pypi.org/project/echo-feeling/"
+}

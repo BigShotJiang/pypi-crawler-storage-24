@@ -1,11 +1,11 @@
 {
   "name": "smartbvb",
-  "version": "0.3.0",
+  "version": "0.7.0",
   "summary": "A fast terminal application for viewing KLE Tech attendance and results.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smartbvb-0.3.0.tar.gz",
-  "download_time": "2026-03-22T19:08:28.761881",
+  "download_filename": "smartbvb-0.7.0-py3-none-any.whl",
+  "download_time": "2026-03-22T19:43:46.308569",
   "package_url": "https://pypi.org/project/smartbvb/"
 }

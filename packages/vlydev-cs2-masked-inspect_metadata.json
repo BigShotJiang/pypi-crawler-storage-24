@@ -1,11 +1,11 @@
 {
   "name": "vlydev-cs2-masked-inspect",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Encode and decode CS2 masked inspect links",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vlydev_cs2_masked_inspect-1.0.0.tar.gz",
-  "download_time": "2026-03-16T07:51:21.076158",
+  "download_filename": "vlydev_cs2_masked_inspect-1.1.1.tar.gz",
+  "download_time": "2026-03-22T19:43:33.350273",
   "package_url": "https://pypi.org/project/vlydev-cs2-masked-inspect/"
 }
