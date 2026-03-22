@@ -1,11 +1,11 @@
 {
   "name": "sentex",
-  "version": "0.2.0",
+  "version": "0.2.4",
   "summary": "Sentence-graph context management for multi-agent AI pipelines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sentex-0.2.0.tar.gz",
-  "download_time": "2026-03-21T23:50:58.641407",
+  "download_filename": "sentex-0.2.4.tar.gz",
+  "download_time": "2026-03-22T12:03:51.029510",
   "package_url": "https://pypi.org/project/sentex/"
 }

@@ -1,20 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-22T11:50:55.887207
-- **Total Packages**: 90
-- **Total Size**: 51.63 MB
+- **Download Time**: 2026-03-22T12:04:24.651360
+- **Total Packages**: 87
+- **Total Size**: 13.85 MB
 
 ## Packages List
-- mp-search
-- jaymd-winnow
-- openenv-halluguard
+- pyflowforge
+- focus-cpt
+- aiohomematic-test-support
+- loony
+- http-response-codes
+- aiohomematic
+- meridian-vpn
+- pytest-remaster
+- quent
+- azure-mgmt-netapp
+- odyn
+- mathlib2
+- knowledge-rag
+- mylab
+- pywebsimple
+- cashier-server
+- flask-smorest
 - christoffersen-lib
+- responder
+- pyBROTlib
+- arandu
+- kyson-mcp-agent-tools
+- mp-search
+- brightohir
+- sentex
+- pytheory
+- transduck
+- amocrm-mcp
+- openakita
+- tyko
+- jaymd-winnow
+- sefrone-api-e2e
+- libsqlglot
+- k-mail-mcp
+- datannurpy
+- forestfire-ml
+- hgitaly
+- GoldenViz
+- verbatim-rag
+- tsip
+- verbatim-core
+- sunnah
+- single_cell_metabolomics
+- tg-gemini
+- jaymd96-fmp
+- symdex
+- mcpdocs-gen
+- c4-diagrams
+- exhash
+- openenv-halluguard
 - nonebot-plugin-apexrankwatch
 - agent-trust-mcp
 - proteorift
-- brightohir
-- pytheory
 - querylens
 - datadiagnose
 - pixlstash
@@ -46,53 +90,6 @@
 - kon-coding-agent
 - tagth
 - tensorbored-nightly
-- jaymd96-fmp
 - trickle-observe
 - pyeqsp
 - codevideorenderer
-- ollaagent
-- Utsuho
-- stigg-api-client-v2
-- stigg-api-client
-- agentweave-ai
-- py-yt-search
-- vvr-scraper
-- flakeid
-- openmax
-- openplot
-- solyanka
-- sccs
-- power-grid-model
-- aica-gamelib
-- safecmd
-- sql-query-mcp
-- ddi-fw
-- morin
-- torchx-nightly
-- csvsql
-- djangoplay-cli
-- ncatbot5
-- eflips-opt
-- torchft-nightly
-- shout-run-mcp
-- omnicache-ai
-- shout-run-sdk
-- kailash-kaizen
-- geoxerl
-- fastapi-authly
-- PhantomTrace
-- workspace-map
-- anteroom
-- sandbox0
-- mobiu-q
-- ai-sdk-stream-python
-- quink
-- mainsequence
-- mongo-queries-manager
-- scitex-ui
-- miles-challenge
-- confusius
-- comfyui-manager
-- pytest-rabbitmq
-- agentveil
-- divineapi-horoscope-numerology-mcp

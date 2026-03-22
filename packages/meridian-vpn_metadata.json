@@ -1,11 +1,11 @@
 {
   "name": "meridian-vpn",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "summary": "Censorship-resistant VLESS+Reality proxy server management",
   "author": "uburuntu",
   "license": null,
   "home_page": null,
-  "download_filename": "meridian_vpn-3.5.0.tar.gz",
-  "download_time": "2026-03-22T10:28:34.950552",
+  "download_filename": "meridian_vpn-3.6.0.tar.gz",
+  "download_time": "2026-03-22T12:03:41.727016",
   "package_url": "https://pypi.org/project/meridian-vpn/"
 }

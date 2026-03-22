@@ -1,0 +1,11 @@
+{
+  "name": "c4-diagrams",
+  "version": "0.4.0",
+  "summary": "A Python DSL for generating C4 diagrams",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "c4_diagrams-0.4.0.tar.gz",
+  "download_time": "2026-03-22T12:04:03.884740",
+  "package_url": "https://pypi.org/project/c4-diagrams/"
+}

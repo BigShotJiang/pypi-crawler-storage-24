@@ -1,0 +1,11 @@
+{
+  "name": "exhash",
+  "version": "0.2.4",
+  "summary": "Verified line-addressed file editor using lnhash addresses",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/AnswerDotAI/exhash",
+  "download_filename": "exhash-0.2.4.tar.gz",
+  "download_time": "2026-03-22T12:04:04.400115",
+  "package_url": "https://pypi.org/project/exhash/"
+}

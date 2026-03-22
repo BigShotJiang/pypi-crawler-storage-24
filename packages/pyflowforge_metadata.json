@@ -1,0 +1,11 @@
+{
+  "name": "pyflowforge",
+  "version": "0.1.1",
+  "summary": "Declarative YAML-first chatbot framework with pluggable intent detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyflowforge-0.1.1.tar.gz",
+  "download_time": "2026-03-22T12:03:38.544124",
+  "package_url": "https://pypi.org/project/pyflowforge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "http-response-codes",
+  "version": "0.6.0",
+  "summary": "A comprehensive Python library providing HTTP status code constants and exceptions",
+  "author": "Grant Ramsay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "http_response_codes-0.6.0.tar.gz",
+  "download_time": "2026-03-22T12:03:40.632669",
+  "package_url": "https://pypi.org/project/http-response-codes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flask-smorest",
+  "version": "0.47.0",
+  "summary": "Flask/Marshmallow-based REST API framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_smorest-0.47.0.tar.gz",
+  "download_time": "2026-03-22T12:03:46.936297",
+  "package_url": "https://pypi.org/project/flask-smorest/"
+}
