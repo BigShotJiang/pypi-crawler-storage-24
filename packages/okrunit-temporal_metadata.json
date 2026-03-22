@@ -1,0 +1,11 @@
+{
+  "name": "okrunit-temporal",
+  "version": "0.1.0",
+  "summary": "Temporal workflows for OKRunit human-in-the-loop approval gates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "okrunit_temporal-0.1.0.tar.gz",
+  "download_time": "2026-03-22T16:30:44.351061",
+  "package_url": "https://pypi.org/project/okrunit-temporal/"
+}

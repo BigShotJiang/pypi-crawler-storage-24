@@ -1,0 +1,11 @@
+{
+  "name": "killpy",
+  "version": "0.16.0",
+  "summary": "List all .venv directories and Conda environments 🐍 on your system and check how much space they are using. You can then choose which ones to delete in order to free up space 🧹.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "killpy-0.16.0.tar.gz",
+  "download_time": "2026-03-22T16:30:51.236649",
+  "package_url": "https://pypi.org/project/killpy/"
+}

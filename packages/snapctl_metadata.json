@@ -1,0 +1,11 @@
+{
+  "name": "snapctl",
+  "version": "1.7.0",
+  "summary": "Snapser CLI Tool",
+  "author": "Ajinkya Apte",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snapctl-1.7.0.tar.gz",
+  "download_time": "2026-03-22T16:30:25.597896",
+  "package_url": "https://pypi.org/project/snapctl/"
+}

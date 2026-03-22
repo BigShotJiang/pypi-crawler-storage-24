@@ -1,11 +1,11 @@
 {
   "name": "ghostty-rice",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Full visual profile manager for Ghostty terminal — beyond just colors.",
   "author": "jayleonc",
   "license": null,
   "home_page": null,
-  "download_filename": "ghostty_rice-0.2.2.tar.gz",
-  "download_time": "2026-03-22T15:54:07.190500",
+  "download_filename": "ghostty_rice-0.2.3.tar.gz",
+  "download_time": "2026-03-22T16:30:40.208019",
   "package_url": "https://pypi.org/project/ghostty-rice/"
 }

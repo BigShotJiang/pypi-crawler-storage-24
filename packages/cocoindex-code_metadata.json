@@ -1,11 +1,11 @@
 {
   "name": "cocoindex-code",
-  "version": "0.2.0",
+  "version": "0.2.8",
   "summary": "MCP server for indexing and querying codebases using CocoIndex",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cocoindex_code-0.2.0.tar.gz",
-  "download_time": "2026-03-16T23:55:18.544007",
+  "download_filename": "cocoindex_code-0.2.8.tar.gz",
+  "download_time": "2026-03-22T16:30:44.863827",
   "package_url": "https://pypi.org/project/cocoindex-code/"
 }

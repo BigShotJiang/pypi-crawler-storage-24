@@ -1,0 +1,11 @@
+{
+  "name": "chatixia",
+  "version": "0.4.0",
+  "summary": "Deploy and run AI agents on the Chatixia mesh network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatixia-0.4.0.tar.gz",
+  "download_time": "2026-03-22T16:30:21.174091",
+  "package_url": "https://pypi.org/project/chatixia/"
+}

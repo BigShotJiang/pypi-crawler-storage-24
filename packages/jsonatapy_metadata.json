@@ -1,0 +1,11 @@
+{
+  "name": "jsonatapy",
+  "version": "2.1.4",
+  "summary": "High-performance Python/Rust implementation of JSONata query and transformation language",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/txjmb/jsonata-core",
+  "download_filename": "jsonatapy-2.1.4.tar.gz",
+  "download_time": "2026-03-22T16:30:52.257188",
+  "package_url": "https://pypi.org/project/jsonatapy/"
+}

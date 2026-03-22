@@ -1,0 +1,11 @@
+{
+  "name": "trueframe",
+  "version": "0.1.0",
+  "summary": "A high-performance, latency-free RTSP stream reader for real-time AI inference.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trueframe-0.1.0.tar.gz",
+  "download_time": "2026-03-22T16:30:47.472413",
+  "package_url": "https://pypi.org/project/trueframe/"
+}

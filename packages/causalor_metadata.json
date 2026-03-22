@@ -1,0 +1,11 @@
+{
+  "name": "causalor",
+  "version": "0.3.2",
+  "summary": "Python SDK for Causalor: The Strategic Intelligence Infrastructure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causalor-0.3.2.tar.gz",
+  "download_time": "2026-03-22T16:30:55.835118",
+  "package_url": "https://pypi.org/project/causalor/"
+}

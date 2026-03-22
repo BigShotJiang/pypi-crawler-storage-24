@@ -1,0 +1,11 @@
+{
+  "name": "optimesh",
+  "version": "0.12.3",
+  "summary": "Mesh optimization/smoothing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "optimesh-0.12.3-cp310-none-any.whl",
+  "download_time": "2026-03-22T16:30:42.252943",
+  "package_url": "https://pypi.org/project/optimesh/"
+}

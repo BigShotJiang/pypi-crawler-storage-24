@@ -1,0 +1,11 @@
+{
+  "name": "prefect-okrunit",
+  "version": "0.1.0",
+  "summary": "Prefect tasks and flows for OKRunit human-in-the-loop approval gates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prefect_okrunit-0.1.0.tar.gz",
+  "download_time": "2026-03-22T16:30:43.780521",
+  "package_url": "https://pypi.org/project/prefect-okrunit/"
+}

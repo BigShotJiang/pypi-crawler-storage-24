@@ -1,11 +1,11 @@
 {
   "name": "cmo-dog",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "AI CMO Terminal — Backboard agents for traffic and users",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cmo_dog-2.0.0.tar.gz",
-  "download_time": "2026-03-22T04:20:48.734493",
+  "download_filename": "cmo_dog-2.1.0.tar.gz",
+  "download_time": "2026-03-22T16:30:23.350377",
   "package_url": "https://pypi.org/project/cmo-dog/"
 }

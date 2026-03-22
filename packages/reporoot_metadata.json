@@ -1,11 +1,11 @@
 {
   "name": "reporoot",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Reporoot workspace manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reporoot-0.3.1.tar.gz",
-  "download_time": "2026-03-13T03:57:12.439297",
+  "download_filename": "reporoot-0.4.0.tar.gz",
+  "download_time": "2026-03-22T16:30:53.279166",
   "package_url": "https://pypi.org/project/reporoot/"
 }
