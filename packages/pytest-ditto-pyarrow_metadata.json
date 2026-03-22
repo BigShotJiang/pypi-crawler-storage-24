@@ -1,0 +1,11 @@
+{
+  "name": "pytest-ditto-pyarrow",
+  "version": "0.1.0",
+  "summary": "pytest-ditto plugin for pyarrow table snapshots.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_ditto_pyarrow-0.1.0.tar.gz",
+  "download_time": "2026-03-22T04:20:19.719651",
+  "package_url": "https://pypi.org/project/pytest-ditto-pyarrow/"
+}

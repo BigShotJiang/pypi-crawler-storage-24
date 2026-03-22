@@ -1,0 +1,11 @@
+{
+  "name": "types-RPi.GPIO",
+  "version": "0.7.0.20260322",
+  "summary": "Typing stubs for RPi.GPIO",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_rpi_gpio-0.7.0.20260322.tar.gz",
+  "download_time": "2026-03-22T04:20:34.651356",
+  "package_url": "https://pypi.org/project/types-RPi.GPIO/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "verifiers",
+  "version": "0.1.11",
+  "summary": "Verifiers: Environments for LLM Reinforcement Learning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "verifiers-0.1.11.tar.gz",
+  "download_time": "2026-03-22T04:20:49.249356",
+  "package_url": "https://pypi.org/project/verifiers/"
+}

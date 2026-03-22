@@ -1,0 +1,11 @@
+{
+  "name": "mpesa-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for M-Pesa (Safaricom Daraja) and Africa's Talking APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mpesa_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-22T04:20:25.419006",
+  "package_url": "https://pypi.org/project/mpesa-mcp/"
+}

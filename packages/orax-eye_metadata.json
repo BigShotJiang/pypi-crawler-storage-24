@@ -1,0 +1,11 @@
+{
+  "name": "orax-eye",
+  "version": "0.1.1",
+  "summary": "See and control any macOS app through the Accessibility API. The screen reader for AI agents.",
+  "author": "ORAX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orax_eye-0.1.1.tar.gz",
+  "download_time": "2026-03-22T04:20:39.834194",
+  "package_url": "https://pypi.org/project/orax-eye/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "meshpop-wire",
-  "version": "1.1.2",
+  "version": "2.2.8",
   "summary": "Autonomous WireGuard mesh VPN with P2P, relay fallback, and MCP server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meshpop_wire-1.1.2.tar.gz",
-  "download_time": "2026-03-19T10:37:51.093060",
+  "download_filename": "meshpop_wire-2.2.8-py3-none-any.whl",
+  "download_time": "2026-03-22T04:20:37.234146",
   "package_url": "https://pypi.org/project/meshpop-wire/"
 }

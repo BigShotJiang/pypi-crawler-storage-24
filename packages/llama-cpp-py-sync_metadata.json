@@ -1,11 +1,11 @@
 {
   "name": "llama-cpp-py-sync",
-  "version": "0.8233",
+  "version": "0.8468",
   "summary": "Auto-synchronized Python bindings for llama.cpp using CFFI ABI mode",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llama_cpp_py_sync-0.8233-1cpu-py3-none-macosx_14_0_x86_64.whl",
-  "download_time": "2026-03-07T21:53:32.816107",
+  "download_filename": "llama_cpp_py_sync-0.8468-1cpu-py3-none-macosx_14_0_x86_64.whl",
+  "download_time": "2026-03-22T04:20:50.816431",
   "package_url": "https://pypi.org/project/llama-cpp-py-sync/"
 }

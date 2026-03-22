@@ -1,11 +1,11 @@
 {
   "name": "galdr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Music perception framework for AI listening experiences. Pattern lock, momentum, harmonic analysis, lyric integration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "galdr-0.1.0.tar.gz",
-  "download_time": "2026-03-22T01:51:57.864205",
+  "download_filename": "galdr-0.1.1.tar.gz",
+  "download_time": "2026-03-22T04:20:45.091644",
   "package_url": "https://pypi.org/project/galdr/"
 }

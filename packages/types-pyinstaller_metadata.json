@@ -1,0 +1,11 @@
+{
+  "name": "types-pyinstaller",
+  "version": "6.19.0.20260322",
+  "summary": "Typing stubs for pyinstaller",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_pyinstaller-6.19.0.20260322.tar.gz",
+  "download_time": "2026-03-22T04:20:33.628048",
+  "package_url": "https://pypi.org/project/types-pyinstaller/"
+}

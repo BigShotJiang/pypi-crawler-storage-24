@@ -1,0 +1,11 @@
+{
+  "name": "pushtotype",
+  "version": "0.1.0",
+  "summary": "Real-time speech-to-text for Linux. Hold a hotkey, speak, release — your words appear wherever your cursor is.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pushtotype-0.1.0.tar.gz",
+  "download_time": "2026-03-22T04:20:37.749508",
+  "package_url": "https://pypi.org/project/pushtotype/"
+}
