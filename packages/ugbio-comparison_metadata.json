@@ -1,11 +1,11 @@
 {
   "name": "ugbio-comparison",
-  "version": "1.22.1",
+  "version": "1.22.2",
   "summary": "Ultima Genomics comparison scripts",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ugbio_comparison-1.22.1.tar.gz",
-  "download_time": "2026-03-22T09:09:56.538276",
+  "download_filename": "ugbio_comparison-1.22.2.tar.gz",
+  "download_time": "2026-03-22T20:57:11.805878",
   "package_url": "https://pypi.org/project/ugbio-comparison/"
 }

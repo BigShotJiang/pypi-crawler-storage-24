@@ -1,0 +1,11 @@
+{
+  "name": "anikoto",
+  "version": "3.1.0",
+  "summary": "Download Anime from https://anikoto.tv/",
+  "author": "testingbetaversion",
+  "license": "MIT",
+  "home_page": "https://github.com/testingbetaversion/anikoto",
+  "download_filename": "anikoto-3.1.0.tar.gz",
+  "download_time": "2026-03-22T20:56:35.432052",
+  "package_url": "https://pypi.org/project/anikoto/"
+}

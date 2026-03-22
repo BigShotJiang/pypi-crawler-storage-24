@@ -1,0 +1,11 @@
+{
+  "name": "mcp-servicenex",
+  "version": "0.1.4",
+  "summary": "A Model Context Protocol (MCP) server for ServiceNex knowledge base articles and support tickets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_servicenex-0.1.4.tar.gz",
+  "download_time": "2026-03-22T20:56:52.873394",
+  "package_url": "https://pypi.org/project/mcp-servicenex/"
+}

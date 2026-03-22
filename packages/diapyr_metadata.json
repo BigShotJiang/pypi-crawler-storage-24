@@ -1,0 +1,11 @@
+{
+  "name": "diapyr",
+  "version": "41",
+  "summary": "Constructor injection for Python",
+  "author": "foyono",
+  "license": null,
+  "home_page": "https://pypi.org/project/diapyr/",
+  "download_filename": "diapyr-41.tar.gz",
+  "download_time": "2026-03-22T20:56:45.035348",
+  "package_url": "https://pypi.org/project/diapyr/"
+}

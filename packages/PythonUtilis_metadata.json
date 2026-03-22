@@ -1,11 +1,11 @@
 {
   "name": "PythonUtilis",
-  "version": "0.1.31",
+  "version": "0.1.35",
   "summary": "Some useful python functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythonutilis-0.1.31.tar.gz",
-  "download_time": "2026-03-22T20:25:59.655086",
+  "download_filename": "pythonutilis-0.1.35.tar.gz",
+  "download_time": "2026-03-22T20:57:15.985375",
   "package_url": "https://pypi.org/project/PythonUtilis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dtop",
+  "version": "2.2.1",
+  "summary": "A high-performance terminal UI for Docker container management",
+  "author": "StakeSquid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dtop-2.2.1.tar.gz",
+  "download_time": "2026-03-22T20:56:58.134125",
+  "package_url": "https://pypi.org/project/dtop/"
+}

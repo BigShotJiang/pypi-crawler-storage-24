@@ -1,11 +1,11 @@
 {
   "name": "lovensepy",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "summary": "Python Lovense API client",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lovensepy-1.0.4.tar.gz",
-  "download_time": "2026-03-18T21:24:07.491377",
+  "download_filename": "lovensepy-1.1.0.tar.gz",
+  "download_time": "2026-03-22T20:56:58.654411",
   "package_url": "https://pypi.org/project/lovensepy/"
 }
