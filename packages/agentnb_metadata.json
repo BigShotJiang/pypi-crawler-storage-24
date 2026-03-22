@@ -1,11 +1,11 @@
 {
   "name": "agentnb",
-  "version": "0.3.3",
+  "version": "0.3.5.1",
   "summary": "A persistent Python REPL for AI agents, driven from the CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentnb-0.3.3.tar.gz",
-  "download_time": "2026-03-18T22:01:26.705181",
+  "download_filename": "agentnb-0.3.5.1.tar.gz",
+  "download_time": "2026-03-22T10:28:48.719264",
   "package_url": "https://pypi.org/project/agentnb/"
 }

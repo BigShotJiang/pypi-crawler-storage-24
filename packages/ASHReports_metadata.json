@@ -1,11 +1,11 @@
 {
   "name": "ASHReports",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "summary": "Weekly Report for ASH, made by Tanmoy Sarkar",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ashreports-0.0.8-py3-none-any.whl",
-  "download_time": "2026-03-08T11:43:10.580148",
+  "download_filename": "ashreports-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-22T10:28:32.725156",
   "package_url": "https://pypi.org/project/ASHReports/"
 }

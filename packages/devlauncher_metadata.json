@@ -1,0 +1,11 @@
+{
+  "name": "devlauncher",
+  "version": "0.1.0",
+  "summary": "Start all your dev services with one command",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "devlauncher-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-22T10:28:59.319791",
+  "package_url": "https://pypi.org/project/devlauncher/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "autoresearchstudio",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "summary": "Generalized autonomous ML research framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autoresearchstudio-0.2.0.tar.gz",
-  "download_time": "2026-03-22T08:36:40.515677",
+  "download_filename": "autoresearchstudio-0.3.2.tar.gz",
+  "download_time": "2026-03-22T10:28:54.588215",
   "package_url": "https://pypi.org/project/autoresearchstudio/"
 }

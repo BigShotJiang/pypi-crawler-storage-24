@@ -1,0 +1,11 @@
+{
+  "name": "k-mail-mcp",
+  "version": "0.2.0",
+  "summary": "Generic IMAP+SMTP MCP server — intent-first email access for AI agents",
+  "author": "KpihX",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "k_mail_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-22T10:28:47.188153",
+  "package_url": "https://pypi.org/project/k-mail-mcp/"
+}

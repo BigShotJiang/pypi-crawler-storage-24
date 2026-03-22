@@ -1,11 +1,11 @@
 {
   "name": "istr-python",
-  "version": "1.1.27",
+  "version": "1.1.28",
   "summary": "istr - strings you can count on",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "istr_python-1.1.27.tar.gz",
-  "download_time": "2026-03-12T13:07:15.121038",
+  "download_filename": "istr_python-1.1.28.tar.gz",
+  "download_time": "2026-03-22T10:28:56.141208",
   "package_url": "https://pypi.org/project/istr-python/"
 }

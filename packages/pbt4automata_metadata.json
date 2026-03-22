@@ -1,0 +1,11 @@
+{
+  "name": "pbt4automata",
+  "version": "0.1.1",
+  "summary": "Property-based testing utilities for finite automata and context-free grammars.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbt4automata-0.1.1.tar.gz",
+  "download_time": "2026-03-22T10:28:49.736198",
+  "package_url": "https://pypi.org/project/pbt4automata/"
+}

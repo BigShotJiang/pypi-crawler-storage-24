@@ -1,11 +1,11 @@
 {
   "name": "stageflow-core",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A DAG-based pipeline orchestration framework for building observable, composable stage pipelines",
   "author": "Stageflow Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "stageflow_core-1.0.0.tar.gz",
-  "download_time": "2026-03-07T21:16:54.936072",
+  "download_filename": "stageflow_core-1.1.0.tar.gz",
+  "download_time": "2026-03-22T10:29:02.884580",
   "package_url": "https://pypi.org/project/stageflow-core/"
 }

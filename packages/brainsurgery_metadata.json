@@ -1,11 +1,11 @@
 {
   "name": "brainsurgery",
-  "version": "0.2.9",
+  "version": "0.2.11",
   "summary": "swiss army knife of scripts for performing brain surgery on artificial brains.",
   "author": "Peter Schneider-Kamp",
   "license": null,
   "home_page": null,
-  "download_filename": "brainsurgery-0.2.9.tar.gz",
-  "download_time": "2026-03-17T13:54:50.945834",
+  "download_filename": "brainsurgery-0.2.11.tar.gz",
+  "download_time": "2026-03-22T10:28:35.966048",
   "package_url": "https://pypi.org/project/brainsurgery/"
 }

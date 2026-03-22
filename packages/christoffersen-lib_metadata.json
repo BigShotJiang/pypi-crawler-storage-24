@@ -1,0 +1,11 @@
+{
+  "name": "christoffersen-lib",
+  "version": "0.1.0",
+  "summary": "Christoffersen Independence Test for VaR backtesting",
+  "author": "Ton Nom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "christoffersen_lib-0.1.0.tar.gz",
+  "download_time": "2026-03-22T10:28:25.820218",
+  "package_url": "https://pypi.org/project/christoffersen-lib/"
+}

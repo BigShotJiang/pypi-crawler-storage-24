@@ -1,11 +1,11 @@
 {
   "name": "web3-validate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "web3 wallet validator",
   "author": "uliusio",
   "license": "ISC",
   "home_page": null,
-  "download_filename": "web3_validate-1.0.1.tar.gz",
-  "download_time": "2026-03-22T09:54:02.874337",
+  "download_filename": "web3_validate-1.0.2.tar.gz",
+  "download_time": "2026-03-22T10:29:07.477545",
   "package_url": "https://pypi.org/project/web3-validate/"
 }

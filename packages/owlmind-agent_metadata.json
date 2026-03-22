@@ -1,0 +1,11 @@
+{
+  "name": "owlmind-agent",
+  "version": "4.0.0",
+  "summary": "OWLMIND — autonomous multi-agent code orchestrator with vision, browser, and code intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owlmind_agent-4.0.0.tar.gz",
+  "download_time": "2026-03-22T10:29:09.781252",
+  "package_url": "https://pypi.org/project/owlmind-agent/"
+}

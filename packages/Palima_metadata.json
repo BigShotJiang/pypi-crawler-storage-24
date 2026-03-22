@@ -1,0 +1,11 @@
+{
+  "name": "Palima",
+  "version": "1.8.1",
+  "summary": "A Python-based 3D game engine by FELLOS-STUDIOS",
+  "author": "FELLOS-STUDIOS",
+  "license": null,
+  "home_page": "https://github.com/EfayTheDeveloper/Palima-Engine",
+  "download_filename": "palima-1.8.1.tar.gz",
+  "download_time": "2026-03-22T10:29:12.867269",
+  "package_url": "https://pypi.org/project/Palima/"
+}

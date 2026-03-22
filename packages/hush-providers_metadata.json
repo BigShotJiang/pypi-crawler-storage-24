@@ -1,11 +1,11 @@
 {
   "name": "hush-providers",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "Hush workflow LLM, embedding, and reranking providers",
   "author": "Hush Team",
   "license": null,
   "home_page": null,
-  "download_filename": "hush_providers-0.1.8.tar.gz",
-  "download_time": "2026-03-18T16:14:18.357393",
+  "download_filename": "hush_providers-0.1.11.tar.gz",
+  "download_time": "2026-03-22T10:28:50.783497",
   "package_url": "https://pypi.org/project/hush-providers/"
 }

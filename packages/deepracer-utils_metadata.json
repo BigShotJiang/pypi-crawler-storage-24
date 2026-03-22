@@ -1,11 +1,11 @@
 {
   "name": "deepracer-utils",
-  "version": "1.5.3",
+  "version": "1.5.5",
   "summary": "A set of tools for working with DeepRacer training",
   "author": "AWS DeepRacer Community",
   "license": null,
   "home_page": null,
-  "download_filename": "deepracer_utils-1.5.3-py3-none-any.whl",
-  "download_time": "2026-03-11T18:34:59.587466",
+  "download_filename": "deepracer_utils-1.5.5-py3-none-any.whl",
+  "download_time": "2026-03-22T10:28:42.589933",
   "package_url": "https://pypi.org/project/deepracer-utils/"
 }

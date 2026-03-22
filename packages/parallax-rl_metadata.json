@@ -1,0 +1,11 @@
+{
+  "name": "parallax-rl",
+  "version": "0.1.0",
+  "summary": "A flexible JAX RL API.",
+  "author": "Alex Goddard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parallax_rl-0.1.0.tar.gz",
+  "download_time": "2026-03-22T10:28:49.227248",
+  "package_url": "https://pypi.org/project/parallax-rl/"
+}

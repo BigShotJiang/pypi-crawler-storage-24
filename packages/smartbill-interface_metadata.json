@@ -1,11 +1,11 @@
 {
   "name": "smartbill-interface",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "MCP server for interfacing with smartbill.ro for conducting financial operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smartbill_interface-0.1.1.tar.gz",
-  "download_time": "2026-03-17T22:55:55.525568",
+  "download_filename": "smartbill_interface-0.1.4.tar.gz",
+  "download_time": "2026-03-22T10:28:42.013663",
   "package_url": "https://pypi.org/project/smartbill-interface/"
 }

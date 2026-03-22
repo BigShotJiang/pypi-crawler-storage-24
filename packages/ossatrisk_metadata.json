@@ -1,0 +1,11 @@
+{
+  "name": "ossatrisk",
+  "version": "0.4.0",
+  "summary": "Tracking high-risk oss packages: abandoned, undermaintained, or CVE-exposed. ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ossatrisk-0.4.0.tar.gz",
+  "download_time": "2026-03-22T10:28:46.153628",
+  "package_url": "https://pypi.org/project/ossatrisk/"
+}
