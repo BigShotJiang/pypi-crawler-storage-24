@@ -1,0 +1,11 @@
+{
+  "name": "fait-prism-sdk",
+  "version": "1.0.0",
+  "summary": "PRISM identity, biometric processing, and network modules.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fait_prism_sdk-1.0.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-03-22T08:02:17.214583",
+  "package_url": "https://pypi.org/project/fait-prism-sdk/"
+}

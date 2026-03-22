@@ -1,11 +1,11 @@
 {
   "name": "amrita_core",
-  "version": "0.6.0",
-  "summary": "Agent core of Project Amrita",
+  "version": "0.6.3",
+  "summary": "High performance, lightweight agent framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amrita_core-0.6.0.tar.gz",
-  "download_time": "2026-03-14T14:24:58.359268",
+  "download_filename": "amrita_core-0.6.3.tar.gz",
+  "download_time": "2026-03-22T08:02:28.037697",
   "package_url": "https://pypi.org/project/amrita_core/"
 }

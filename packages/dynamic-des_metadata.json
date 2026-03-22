@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-des",
+  "version": "0.1.1",
+  "summary": "Real-time SimPy control plane to dynamically update parameters and stream outputs via external systems like Kafka, Redis, or Postgres. Built for event-driven digital twins.",
+  "author": "Jaehyeon Kim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynamic_des-0.1.1.tar.gz",
+  "download_time": "2026-03-22T08:02:45.013669",
+  "package_url": "https://pypi.org/project/dynamic-des/"
+}

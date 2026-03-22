@@ -1,0 +1,11 @@
+{
+  "name": "ofxstatement-rs-altabanka",
+  "version": "0.1.0",
+  "summary": "OFXStatement plugin for AltaBanka (Serbia)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ofxstatement_rs_altabanka-0.1.0.tar.gz",
+  "download_time": "2026-03-22T08:02:18.490936",
+  "package_url": "https://pypi.org/project/ofxstatement-rs-altabanka/"
+}

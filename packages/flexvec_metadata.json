@@ -1,0 +1,11 @@
+{
+  "name": "flexvec",
+  "version": "0.3.0",
+  "summary": "numpy-backed semantic search for any SQLite database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexvec-0.3.0.tar.gz",
+  "download_time": "2026-03-22T08:02:50.503136",
+  "package_url": "https://pypi.org/project/flexvec/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "oacp-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Open Agent Coordination Protocol CLI for file-based multi-agent workflows",
   "author": "Kiloloop",
   "license": null,
   "home_page": null,
-  "download_filename": "oacp_cli-0.2.0.tar.gz",
-  "download_time": "2026-03-20T16:50:22.319476",
+  "download_filename": "oacp_cli-0.2.1.tar.gz",
+  "download_time": "2026-03-22T08:02:48.699015",
   "package_url": "https://pypi.org/project/oacp-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "wrf_to_int",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Utility to convert wrf output to WPS intermediate files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wrf_to_int-0.1.3.tar.gz",
-  "download_time": "2026-03-22T06:36:49.319310",
+  "download_filename": "wrf_to_int-0.1.5.tar.gz",
+  "download_time": "2026-03-22T08:02:22.969844",
   "package_url": "https://pypi.org/project/wrf_to_int/"
 }

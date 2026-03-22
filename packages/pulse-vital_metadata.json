@@ -1,0 +1,11 @@
+{
+  "name": "pulse-vital",
+  "version": "0.1.0",
+  "summary": "Detect when processes are alive but not doing meaningful work",
+  "author": "suzukidai",
+  "license": null,
+  "home_page": "https://github.com/uzucky/Business/tree/master/business/products/pulse",
+  "download_filename": "pulse_vital-0.1.0.tar.gz",
+  "download_time": "2026-03-22T08:02:53.560755",
+  "package_url": "https://pypi.org/project/pulse-vital/"
+}
