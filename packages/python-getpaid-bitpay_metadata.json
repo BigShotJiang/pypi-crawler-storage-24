@@ -1,0 +1,11 @@
+{
+  "name": "python-getpaid-bitpay",
+  "version": "0.1.1",
+  "summary": "BitPay payment gateway integration for python-getpaid ecosystem.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_getpaid_bitpay-0.1.1.tar.gz",
+  "download_time": "2026-03-22T10:58:19.713253",
+  "package_url": "https://pypi.org/project/python-getpaid-bitpay/"
+}

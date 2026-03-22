@@ -1,11 +1,11 @@
 {
   "name": "insurance-severity",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Insurance severity modelling: composite (spliced) models and Distributional Refinement Networks",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "insurance_severity-0.2.0.tar.gz",
-  "download_time": "2026-03-20T19:02:25.758865",
+  "download_filename": "insurance_severity-0.2.2.tar.gz",
+  "download_time": "2026-03-22T10:58:18.691014",
   "package_url": "https://pypi.org/project/insurance-severity/"
 }

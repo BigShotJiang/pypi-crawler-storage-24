@@ -1,11 +1,11 @@
 {
   "name": "sprime",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A biomedical library for screening high-throughput screening data in preclinical drug studies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sprime-0.2.1.tar.gz",
-  "download_time": "2026-03-22T10:28:36.476162",
+  "download_filename": "sprime-0.2.2.tar.gz",
+  "download_time": "2026-03-22T10:58:32.011480",
   "package_url": "https://pypi.org/project/sprime/"
 }

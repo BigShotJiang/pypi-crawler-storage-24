@@ -1,0 +1,11 @@
+{
+  "name": "plumkdocs",
+  "version": "1.0.1",
+  "summary": "Hacky mkdocs documentation for plum-dispatch",
+  "author": null,
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "plumkdocs-1.0.1.tar.gz",
+  "download_time": "2026-03-22T10:58:24.831724",
+  "package_url": "https://pypi.org/project/plumkdocs/"
+}

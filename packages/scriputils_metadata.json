@@ -1,0 +1,11 @@
+{
+  "name": "scriputils",
+  "version": "0.3.0",
+  "summary": "An essential utility library for Python scripts, offering robust functions for reading YAML configurations, initializing loggers, and parsing command-line arguments.",
+  "author": "donaId",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scriputils-0.3.0-py3-none-any.whl",
+  "download_time": "2026-03-22T10:58:13.049219",
+  "package_url": "https://pypi.org/project/scriputils/"
+}

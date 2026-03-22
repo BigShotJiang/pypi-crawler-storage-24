@@ -1,11 +1,11 @@
 {
   "name": "forge3d",
-  "version": "1.15.0",
+  "version": "1.16.0",
   "summary": "forge3d: Rust/WebGPU core with PyO3 bindings",
   "author": "forge3d authors",
   "license": "Apache-2.0 OR MIT",
   "home_page": "https://forge3d.dev",
-  "download_filename": "forge3d-1.15.0.tar.gz",
-  "download_time": "2026-03-21T19:06:29.902694",
+  "download_filename": "forge3d-1.16.0.tar.gz",
+  "download_time": "2026-03-22T10:58:05.152165",
   "package_url": "https://pypi.org/project/forge3d/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "captain-claw",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "A powerful AI agentic system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "captain_claw-0.4.4.tar.gz",
-  "download_time": "2026-03-21T07:51:32.276185",
+  "download_filename": "captain_claw-0.4.5.tar.gz",
+  "download_time": "2026-03-22T10:58:35.610471",
   "package_url": "https://pypi.org/project/captain-claw/"
 }

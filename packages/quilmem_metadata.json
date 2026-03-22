@@ -1,0 +1,11 @@
+{
+  "name": "quilmem",
+  "version": "0.1.0",
+  "summary": "Production-ready agent memory. SQLite + FTS5. No infrastructure.",
+  "author": "Michael Onyek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quilmem-0.1.0.tar.gz",
+  "download_time": "2026-03-22T10:58:36.634810",
+  "package_url": "https://pypi.org/project/quilmem/"
+}

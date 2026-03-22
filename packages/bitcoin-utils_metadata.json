@@ -1,0 +1,11 @@
+{
+  "name": "bitcoin-utils",
+  "version": "0.8.1",
+  "summary": "Bitcoin utility functions",
+  "author": "Konstantinos Karasavvas",
+  "license": "MIT",
+  "home_page": "https://github.com/karask/python-bitcoin-utils",
+  "download_filename": "bitcoin_utils-0.8.1.tar.gz",
+  "download_time": "2026-03-22T10:58:31.494656",
+  "package_url": "https://pypi.org/project/bitcoin-utils/"
+}

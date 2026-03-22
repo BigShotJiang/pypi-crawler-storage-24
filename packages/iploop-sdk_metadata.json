@@ -1,11 +1,11 @@
 {
   "name": "iploop-sdk",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "summary": "Residential proxy SDK with full scraping capabilities — render JS, bypass protection, extract data",
   "author": "IPLoop",
   "license": "MIT",
   "home_page": "https://iploop.io",
-  "download_filename": "iploop_sdk-1.7.2.tar.gz",
-  "download_time": "2026-03-22T10:28:31.912344",
+  "download_filename": "iploop_sdk-1.7.3.tar.gz",
+  "download_time": "2026-03-22T10:58:33.033081",
   "package_url": "https://pypi.org/project/iploop-sdk/"
 }
