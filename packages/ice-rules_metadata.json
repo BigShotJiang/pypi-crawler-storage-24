@@ -1,11 +1,11 @@
 {
   "name": "ice-rules",
-  "version": "3.0.1",
+  "version": "4.0.1",
   "summary": "Ice Rule Engine Python SDK",
   "author": "waitmoon",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ice_rules-3.0.1.tar.gz",
-  "download_time": "2026-03-19T12:56:55.488918",
+  "download_filename": "ice_rules-4.0.1.tar.gz",
+  "download_time": "2026-03-22T05:39:45.785279",
   "package_url": "https://pypi.org/project/ice-rules/"
 }

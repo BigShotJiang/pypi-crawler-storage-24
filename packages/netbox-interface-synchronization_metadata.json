@@ -1,0 +1,11 @@
+{
+  "name": "netbox-interface-synchronization",
+  "version": "4.5.1",
+  "summary": "This plugin allows you to compare and synchronize component names and types between devices and device types in NetBox 4+",
+  "author": "Keith Knowles",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "netbox_interface_synchronization-4.5.1.tar.gz",
+  "download_time": "2026-03-22T05:40:14.038263",
+  "package_url": "https://pypi.org/project/netbox-interface-synchronization/"
+}

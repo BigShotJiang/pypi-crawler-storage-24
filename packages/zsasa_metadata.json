@@ -1,0 +1,11 @@
+{
+  "name": "zsasa",
+  "version": "0.2.6",
+  "summary": "Fast SASA calculation using Zig",
+  "author": "Tsubasa Nagae",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zsasa-0.2.6.tar.gz",
+  "download_time": "2026-03-22T05:40:13.524675",
+  "package_url": "https://pypi.org/project/zsasa/"
+}

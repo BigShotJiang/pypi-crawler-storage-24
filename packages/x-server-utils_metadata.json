@@ -1,11 +1,11 @@
 {
   "name": "x-server-utils",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "A collection of FastAPI Server Utilities and Stress Tester",
   "author": "Xuan",
   "license": null,
   "home_page": "https://github.com/nodame2233/x-server-utils",
-  "download_filename": "x_server_utils-0.3.2.tar.gz",
-  "download_time": "2026-03-22T04:20:27.472798",
+  "download_filename": "x_server_utils-0.3.4.tar.gz",
+  "download_time": "2026-03-22T05:40:21.773939",
   "package_url": "https://pypi.org/project/x-server-utils/"
 }

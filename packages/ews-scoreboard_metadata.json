@@ -1,11 +1,11 @@
 {
   "name": "ews-scoreboard",
-  "version": "0.15.9",
+  "version": "0.17.1",
   "summary": "Internal data pipeline tool.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ews_scoreboard-0.15.9.tar.gz",
-  "download_time": "2026-03-18T06:48:34.660425",
+  "download_filename": "ews_scoreboard-0.17.1.tar.gz",
+  "download_time": "2026-03-22T05:39:50.519903",
   "package_url": "https://pypi.org/project/ews-scoreboard/"
 }

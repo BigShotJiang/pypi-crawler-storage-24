@@ -1,0 +1,11 @@
+{
+  "name": "lastfm-mpris2-scrobbler",
+  "version": "1.0.7",
+  "summary": "Last.fm scrobbler via MPRIS2 in Linux",
+  "author": "Ladbaby",
+  "license": "MIT",
+  "home_page": "https://github.com/Ladbaby/lastfm-scrobbler",
+  "download_filename": "lastfm_mpris2_scrobbler-1.0.7.tar.gz",
+  "download_time": "2026-03-22T05:39:41.565925",
+  "package_url": "https://pypi.org/project/lastfm-mpris2-scrobbler/"
+}

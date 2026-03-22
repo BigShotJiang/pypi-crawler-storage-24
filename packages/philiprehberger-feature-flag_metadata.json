@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-feature-flag",
+  "version": "0.1.0",
+  "summary": "Simple feature flags with percentage rollout and user targeting.",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_feature_flag-0.1.0.tar.gz",
+  "download_time": "2026-03-22T05:40:06.777698",
+  "package_url": "https://pypi.org/project/philiprehberger-feature-flag/"
+}

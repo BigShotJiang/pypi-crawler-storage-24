@@ -1,11 +1,11 @@
 {
   "name": "rots",
-  "version": "0.5.1",
+  "version": "0.6.1",
   "summary": "Service orchestration for OneTimeSecret: Podman Quadlets and systemd service management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rots-0.5.1.tar.gz",
-  "download_time": "2026-03-11T22:24:28.717605",
+  "download_filename": "rots-0.6.1.tar.gz",
+  "download_time": "2026-03-22T05:39:49.971626",
   "package_url": "https://pypi.org/project/rots/"
 }

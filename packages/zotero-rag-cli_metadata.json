@@ -1,0 +1,11 @@
+{
+  "name": "zotero-rag-cli",
+  "version": "0.2.0",
+  "summary": "rak — Semantic search over your Zotero library",
+  "author": "Agents365-ai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zotero_rag_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-22T05:39:51.551008",
+  "package_url": "https://pypi.org/project/zotero-rag-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ap-ds",
+  "version": "2.4.2",
+  "summary": "Audio Player By DVS - Advanced audio processing and playback",
+  "author": "DVS",
+  "license": "License information can be found in the PyPi documentation or official website: dvsyun.top/ap_ds",
+  "home_page": "https://www.apds.top",
+  "download_filename": "ap_ds-2.4.2.tar.gz",
+  "download_time": "2026-03-22T05:39:42.077585",
+  "package_url": "https://pypi.org/project/ap-ds/"
+}
