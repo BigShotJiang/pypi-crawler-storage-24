@@ -1,0 +1,11 @@
+{
+  "name": "protocol-pack",
+  "version": "0.1.0",
+  "summary": "CLI to resolve, compose, and install agent protocol packs for Cursor and similar targets.",
+  "author": "Protocol Pack contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "protocol_pack-0.1.0.tar.gz",
+  "download_time": "2026-03-22T19:08:51.597975",
+  "package_url": "https://pypi.org/project/protocol-pack/"
+}

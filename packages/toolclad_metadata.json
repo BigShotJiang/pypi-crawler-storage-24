@@ -1,11 +1,11 @@
 {
   "name": "toolclad",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "summary": "Declarative tool interface contracts for agentic runtimes — typed parameters, command templates, evidence envelopes, session and browser modes",
   "author": "Jascha Wanger / ThirdKey AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "toolclad-0.4.3.tar.gz",
-  "download_time": "2026-03-21T22:24:49.879481",
+  "download_filename": "toolclad-0.5.0.tar.gz",
+  "download_time": "2026-03-22T19:08:31.837720",
   "package_url": "https://pypi.org/project/toolclad/"
 }

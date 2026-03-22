@@ -1,11 +1,11 @@
 {
   "name": "rvsim",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "High-performance RISC-V cycle-accurate system simulator",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/willmccallion/rvsim",
-  "download_filename": "rvsim-1.1.0.tar.gz",
-  "download_time": "2026-03-21T22:54:48.278166",
+  "download_filename": "rvsim-1.2.1.tar.gz",
+  "download_time": "2026-03-22T19:08:57.375143",
   "package_url": "https://pypi.org/project/rvsim/"
 }

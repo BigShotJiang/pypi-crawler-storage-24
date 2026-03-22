@@ -1,0 +1,11 @@
+{
+  "name": "placeholder-my-plugin",
+  "version": "0.3.4",
+  "summary": "TEMPLATE PLACEHOLDER - Do not install directly. This package reserves the name for mloda-plugin-template. See https://github.com/mloda-ai/mloda-plugin-template",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "placeholder_my_plugin-0.3.4.tar.gz",
+  "download_time": "2026-03-22T19:08:29.787760",
+  "package_url": "https://pypi.org/project/placeholder-my-plugin/"
+}

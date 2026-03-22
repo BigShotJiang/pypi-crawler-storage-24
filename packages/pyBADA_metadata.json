@@ -1,11 +1,11 @@
 {
   "name": "pyBADA",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Aircraft performance modelling, trajectory prediction and optimisation, and visualisation with EUROCONTROL's BADA.",
   "author": null,
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "pybada-0.1.10.tar.gz",
-  "download_time": "2026-03-11T20:42:10.121409",
+  "download_filename": "pybada-0.1.11.tar.gz",
+  "download_time": "2026-03-22T19:08:37.074168",
   "package_url": "https://pypi.org/project/pyBADA/"
 }

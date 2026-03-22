@@ -1,0 +1,11 @@
+{
+  "name": "space-rocks",
+  "version": "1.9.16",
+  "summary": "Python client for SsODNet data access.",
+  "author": "Max Mahlke",
+  "license": "MIT",
+  "home_page": "https://rocks.readthedocs.io/en/latest/",
+  "download_filename": "space_rocks-1.9.16.tar.gz",
+  "download_time": "2026-03-22T19:08:33.915562",
+  "package_url": "https://pypi.org/project/space-rocks/"
+}

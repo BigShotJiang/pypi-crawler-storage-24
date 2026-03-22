@@ -1,11 +1,11 @@
 {
   "name": "pyodide-mkdocs-theme",
-  "version": "5.4.11",
+  "version": "5.4.12",
   "summary": "Package embedding the necessary tools to host pyodide, ACE editors, jQuery terminals in mkdocs documentations",
   "author": "Frédéric Zinelli",
   "license": "GPL-3.0-or-later",
   "home_page": "http://frederic-zinelli.gitlab.io/pyodide-mkdocs-theme/",
-  "download_filename": "pyodide_mkdocs_theme-5.4.11.tar.gz",
-  "download_time": "2026-03-19T19:58:47.353759",
+  "download_filename": "pyodide_mkdocs_theme-5.4.12.tar.gz",
+  "download_time": "2026-03-22T19:08:36.003184",
   "package_url": "https://pypi.org/project/pyodide-mkdocs-theme/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cia-world-factbook",
+  "version": "0.1.0",
+  "summary": "Pythonic access to CIA World Factbook data",
+  "author": "Ryan Parks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cia_world_factbook-0.1.0.tar.gz",
+  "download_time": "2026-03-22T19:08:53.700848",
+  "package_url": "https://pypi.org/project/cia-world-factbook/"
+}

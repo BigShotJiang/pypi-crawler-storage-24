@@ -1,0 +1,11 @@
+{
+  "name": "nsp-sdk",
+  "version": "0.2.2",
+  "summary": "Official Python SDK for the NattSquare Protocol (NSP) - The universal push protocol for AI Agents.",
+  "author": "HyperNatt / DIALLOUBE-RESEARCH",
+  "license": null,
+  "home_page": "https://github.com/DIALLOUBE-RESEARCH/nsp-sdk",
+  "download_filename": "nsp_sdk-0.2.2-py3-none-any.whl",
+  "download_time": "2026-03-22T19:08:46.910668",
+  "package_url": "https://pypi.org/project/nsp-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "os3-security",
+  "version": "0.1.5",
+  "summary": "OS3 Open Source Supply Chain Security Scanner",
+  "author": "OS3 Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "os3_security-0.1.5.tar.gz",
+  "download_time": "2026-03-22T19:09:04.165063",
+  "package_url": "https://pypi.org/project/os3-security/"
+}

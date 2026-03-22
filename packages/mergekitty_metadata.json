@@ -1,0 +1,11 @@
+{
+  "name": "mergekitty",
+  "version": "0.2.1",
+  "summary": "Tools for merging pre-trained large language models",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mergekitty-0.2.1.tar.gz",
+  "download_time": "2026-03-22T19:08:20.663337",
+  "package_url": "https://pypi.org/project/mergekitty/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-seedream-pro",
-  "version": "2026.3.22.1",
+  "version": "2026.3.22.2",
   "summary": "MCP Server for ByteDance Seedream AI Image Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_seedream_pro-2026.3.22.1.tar.gz",
-  "download_time": "2026-03-22T11:25:23.513478",
+  "download_filename": "mcp_seedream_pro-2026.3.22.2.tar.gz",
+  "download_time": "2026-03-22T19:09:06.218300",
   "package_url": "https://pypi.org/project/mcp-seedream-pro/"
 }

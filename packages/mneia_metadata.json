@@ -1,11 +1,11 @@
 {
   "name": "mneia",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Autonomous multi-agent personal knowledge system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mneia-0.2.0.tar.gz",
-  "download_time": "2026-03-21T16:58:31.871333",
+  "download_filename": "mneia-0.2.2.tar.gz",
+  "download_time": "2026-03-22T19:09:01.546233",
   "package_url": "https://pypi.org/project/mneia/"
 }
