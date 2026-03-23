@@ -1,11 +1,11 @@
 {
   "name": "poormanray",
-  "version": "1.3.0",
+  "version": "1.5.0",
   "summary": "A minimal alternative to Ray for distributed data processing on EC2 and GCE instances",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "poormanray-1.3.0.tar.gz",
-  "download_time": "2026-03-10T23:23:31.310728",
+  "download_filename": "poormanray-1.5.0.tar.gz",
+  "download_time": "2026-03-23T04:30:26.886349",
   "package_url": "https://pypi.org/project/poormanray/"
 }

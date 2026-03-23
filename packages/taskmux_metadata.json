@@ -1,11 +1,11 @@
 {
   "name": "taskmux",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Modern tmux-based task manager for LLM development tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "taskmux-0.3.0.tar.gz",
-  "download_time": "2026-03-22T23:28:18.427739",
+  "download_filename": "taskmux-0.3.1.tar.gz",
+  "download_time": "2026-03-23T04:30:39.802175",
   "package_url": "https://pypi.org/project/taskmux/"
 }

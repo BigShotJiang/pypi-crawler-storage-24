@@ -1,0 +1,11 @@
+{
+  "name": "sqlactive",
+  "version": "0.4.0",
+  "summary": "SQLActive is a lightweight and asynchronous ActiveRecord-style wrapper for SQLAlchemy. Bring Django-like queries, automatic timestamps, nested eager loading, and serialization/deserialization for SQLAlchemy models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlactive-0.4.0.tar.gz",
+  "download_time": "2026-03-23T04:30:46.946116",
+  "package_url": "https://pypi.org/project/sqlactive/"
+}

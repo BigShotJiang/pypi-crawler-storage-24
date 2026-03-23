@@ -1,0 +1,11 @@
+{
+  "name": "db-migration-kit",
+  "version": "1.0.0",
+  "summary": "Reusable Postgres migration bootstrap and execution toolkit",
+  "author": "Andres Felipe Serrano Barrios",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "db_migration_kit-1.0.0.tar.gz",
+  "download_time": "2026-03-23T04:31:01.740811",
+  "package_url": "https://pypi.org/project/db-migration-kit/"
+}

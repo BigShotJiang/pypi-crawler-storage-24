@@ -1,0 +1,11 @@
+{
+  "name": "nb-lab-runtime",
+  "version": "0.1.0",
+  "summary": "AI-native notebooks from plain Python files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nb_lab_runtime-0.1.0.tar.gz",
+  "download_time": "2026-03-23T04:30:36.014620",
+  "package_url": "https://pypi.org/project/nb-lab-runtime/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentruntime-agentd",
-  "version": "0.6.15",
+  "version": "0.7.1",
   "summary": "Pre-built agentd binary for running coding agents behind one API",
   "author": "Daniel Iser",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentruntime_agentd-0.6.15-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2026-03-21T07:12:38.288673",
+  "download_filename": "agentruntime_agentd-0.7.1-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-23T04:31:04.036958",
   "package_url": "https://pypi.org/project/agentruntime-agentd/"
 }

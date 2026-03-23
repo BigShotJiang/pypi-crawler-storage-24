@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-autodoc-bmotif",
+  "version": "0.2.0",
+  "summary": "Generate documentation for BuildingMOTIF templates (Jupyter Book v2 / mystmd)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_autodoc_bmotif-0.2.0.tar.gz",
+  "download_time": "2026-03-23T04:31:06.821436",
+  "package_url": "https://pypi.org/project/sphinx-autodoc-bmotif/"
+}

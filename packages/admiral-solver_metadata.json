@@ -1,11 +1,11 @@
 {
   "name": "admiral-solver",
-  "version": "1.0.0",
+  "version": "1.1.3",
   "summary": "Python SDK for Admiral combinatorial optimization cloud",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "admiral_solver-1.0.0-py3-none-any.whl",
-  "download_time": "2026-03-22T19:43:43.224054",
+  "download_filename": "admiral_solver-1.1.3-py3-none-any.whl",
+  "download_time": "2026-03-23T04:30:54.595259",
   "package_url": "https://pypi.org/project/admiral-solver/"
 }
