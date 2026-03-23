@@ -1,11 +1,11 @@
 {
   "name": "vlmrun",
-  "version": "0.5.9",
+  "version": "0.5.10",
   "summary": "Official Python SDK for VLM Run",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vlmrun-0.5.9.tar.gz",
-  "download_time": "2026-03-19T23:57:02.230006",
+  "download_filename": "vlmrun-0.5.10.tar.gz",
+  "download_time": "2026-03-23T17:16:47.979342",
   "package_url": "https://pypi.org/project/vlmrun/"
 }

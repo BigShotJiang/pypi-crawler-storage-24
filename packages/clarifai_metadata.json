@@ -1,0 +1,11 @@
+{
+  "name": "clarifai",
+  "version": "12.3.3",
+  "summary": null,
+  "author": "Clarifai",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Clarifai/clarifai-python",
+  "download_filename": "clarifai-12.3.3.tar.gz",
+  "download_time": "2026-03-23T17:17:15.931489",
+  "package_url": "https://pypi.org/project/clarifai/"
+}

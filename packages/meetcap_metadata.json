@@ -1,11 +1,11 @@
 {
   "name": "meetcap",
-  "version": "2.0.5",
+  "version": "2.0.7",
   "summary": "Offline meeting recorder & summarizer for macOS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meetcap-2.0.5.tar.gz",
-  "download_time": "2026-03-23T15:22:18.018223",
+  "download_filename": "meetcap-2.0.7.tar.gz",
+  "download_time": "2026-03-23T17:16:31.049431",
   "package_url": "https://pypi.org/project/meetcap/"
 }

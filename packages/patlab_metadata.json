@@ -1,11 +1,11 @@
 {
   "name": "patlab",
-  "version": "0.1.26",
+  "version": "0.1.31",
   "summary": "Simple pattern generation library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "patlab-0.1.26.tar.gz",
-  "download_time": "2026-03-23T15:22:43.432998",
+  "download_filename": "patlab-0.1.31.tar.gz",
+  "download_time": "2026-03-23T17:16:30.009225",
   "package_url": "https://pypi.org/project/patlab/"
 }

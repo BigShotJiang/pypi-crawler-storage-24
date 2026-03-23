@@ -1,11 +1,11 @@
 {
   "name": "voicepipe",
-  "version": "0.1.1",
-  "summary": "One-command STT + TTS for any app",
+  "version": "0.5.0",
+  "summary": "One-command voice STT + TTS for any app",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "voicepipe-0.1.1.tar.gz",
-  "download_time": "2026-03-23T16:23:33.526815",
+  "download_filename": "voicepipe-0.5.0.tar.gz",
+  "download_time": "2026-03-23T17:16:52.655192",
   "package_url": "https://pypi.org/project/voicepipe/"
 }

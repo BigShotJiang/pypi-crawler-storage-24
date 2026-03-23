@@ -1,11 +1,11 @@
 {
   "name": "qgraph",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A lightweight visual pipeline editor for workflow orchestration",
   "author": "晓强",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qgraph-0.1.7-py3-none-any.whl",
-  "download_time": "2026-03-22T15:53:30.987361",
+  "download_filename": "qgraph-0.1.8-py3-none-any.whl",
+  "download_time": "2026-03-23T17:17:17.356623",
   "package_url": "https://pypi.org/project/qgraph/"
 }

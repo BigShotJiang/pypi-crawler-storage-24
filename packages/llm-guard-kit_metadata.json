@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.57.0",
+  "version": "0.58.0",
   "summary": "v0.57.0: Wave 2 gap remediation: VisualCaptionBridge.score_risk() (correct AUROC convention); MultilingualSCScorer far-shuffle validated (AR=0.864, ES=0.897, ZH=0.873); VCB AUROC 0.927 on natural images.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.57.0.tar.gz",
-  "download_time": "2026-03-23T16:23:34.041761",
+  "download_filename": "llm_guard_kit-0.58.0.tar.gz",
+  "download_time": "2026-03-23T17:17:00.869610",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

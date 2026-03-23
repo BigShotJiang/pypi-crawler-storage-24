@@ -1,11 +1,11 @@
 {
   "name": "stuntdouble",
-  "version": "2.0.1",
+  "version": "2.0.4",
   "summary": "Tool mocking framework for AI agent testing",
   "author": "Benjamin Benchaya",
   "license": null,
   "home_page": null,
-  "download_filename": "stuntdouble-2.0.1-py3-none-any.whl",
-  "download_time": "2026-03-23T13:02:04.326828",
+  "download_filename": "stuntdouble-2.0.4-py3-none-any.whl",
+  "download_time": "2026-03-23T17:17:04.517710",
   "package_url": "https://pypi.org/project/stuntdouble/"
 }

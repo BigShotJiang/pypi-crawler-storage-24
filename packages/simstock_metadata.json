@@ -1,0 +1,11 @@
+{
+  "name": "simstock",
+  "version": "0.2.6",
+  "summary": "A Python package for building stock simulations",
+  "author": "Ivan Korolija",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simstock-0.2.6.tar.gz",
+  "download_time": "2026-03-23T17:17:00.352216",
+  "package_url": "https://pypi.org/project/simstock/"
+}

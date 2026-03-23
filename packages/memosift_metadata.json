@@ -1,11 +1,11 @@
 {
   "name": "memosift",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "Context-aware compression engine for AI agents — adapts to model context window, zero LLM calls, 100% tool integrity, 5 framework adapters",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memosift-0.2.0.tar.gz",
-  "download_time": "2026-03-23T13:01:29.396265",
+  "download_filename": "memosift-0.5.0.tar.gz",
+  "download_time": "2026-03-23T17:17:11.823391",
   "package_url": "https://pypi.org/project/memosift/"
 }

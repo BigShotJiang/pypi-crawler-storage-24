@@ -1,0 +1,11 @@
+{
+  "name": "whisperspeech2",
+  "version": "1.0.0",
+  "summary": "An Open Source text-to-speech system built by inverting Whisper (fork of WhisperSpeech)",
+  "author": "Blair Chintella",
+  "license": "MIT License",
+  "home_page": "https://github.com/BBC-Esq/whisperspeech2",
+  "download_filename": "whisperspeech2-1.0.0.tar.gz",
+  "download_time": "2026-03-23T17:16:59.839156",
+  "package_url": "https://pypi.org/project/whisperspeech2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-webawesome-form",
+  "version": "0.2",
+  "summary": "Seamlessly render Django forms with Web Awesome",
+  "author": "Francesco Pongiluppi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_webawesome_form-0.2.tar.gz",
+  "download_time": "2026-03-23T17:17:09.667049",
+  "package_url": "https://pypi.org/project/django-webawesome-form/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "conexus",
-  "version": "2.1.1",
+  "version": "2.3.3",
   "summary": "Self-hosted semantic search and knowledge management for LLM-driven development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "conexus-2.1.1.tar.gz",
-  "download_time": "2026-03-15T19:52:30.868435",
+  "download_filename": "conexus-2.3.3.tar.gz",
+  "download_time": "2026-03-23T17:16:44.839345",
   "package_url": "https://pypi.org/project/conexus/"
 }

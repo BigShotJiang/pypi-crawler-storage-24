@@ -1,0 +1,11 @@
+{
+  "name": "google-news-trends-mcp",
+  "version": "0.2.7",
+  "summary": "An MCP server to access RSS feeds of Google News and Google Trends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_news_trends_mcp-0.2.7.tar.gz",
+  "download_time": "2026-03-23T17:16:58.302576",
+  "package_url": "https://pypi.org/project/google-news-trends-mcp/"
+}

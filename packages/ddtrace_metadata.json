@@ -1,11 +1,11 @@
 {
   "name": "ddtrace",
-  "version": "4.5.4",
+  "version": "4.6.1",
   "summary": "Datadog APM client library",
   "author": null,
   "license": "LICENSE.BSD3",
   "home_page": null,
-  "download_filename": "ddtrace-4.5.4.tar.gz",
-  "download_time": "2026-03-13T19:03:00.935483",
+  "download_filename": "ddtrace-4.6.1.tar.gz",
+  "download_time": "2026-03-23T17:17:16.808734",
   "package_url": "https://pypi.org/project/ddtrace/"
 }

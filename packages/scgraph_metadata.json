@@ -1,11 +1,11 @@
 {
   "name": "scgraph",
-  "version": "2.15.0",
-  "summary": "Determine an approximate route between two points on earth.",
+  "version": "3.1.0",
+  "summary": "Determine an approximate distance and route between two points on earth.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scgraph-2.15.0.tar.gz",
-  "download_time": "2026-03-20T14:12:33.294778",
+  "download_filename": "scgraph-3.1.0.tar.gz",
+  "download_time": "2026-03-23T17:17:14.387137",
   "package_url": "https://pypi.org/project/scgraph/"
 }

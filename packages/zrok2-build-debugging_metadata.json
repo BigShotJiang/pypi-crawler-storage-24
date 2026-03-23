@@ -1,0 +1,11 @@
+{
+  "name": "zrok2-build-debugging",
+  "version": "22.0.2000020",
+  "summary": "zrok2",
+  "author": "NetFoundry",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/openziti/zrok",
+  "download_filename": "zrok2_build_debugging-22.0.2000020.tar.gz",
+  "download_time": "2026-03-23T17:16:36.300742",
+  "package_url": "https://pypi.org/project/zrok2-build-debugging/"
+}
