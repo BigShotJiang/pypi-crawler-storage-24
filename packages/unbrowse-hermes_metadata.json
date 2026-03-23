@@ -1,11 +1,11 @@
 {
   "name": "unbrowse-hermes",
-  "version": "2.0.23",
+  "version": "2.1.0",
   "summary": "Hermes Agent plugin that makes Unbrowse the preferred tool for website tasks.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unbrowse_hermes-2.0.23.tar.gz",
-  "download_time": "2026-03-23T12:01:32.863931",
+  "download_filename": "unbrowse_hermes-2.1.0.tar.gz",
+  "download_time": "2026-03-23T20:42:40.255295",
   "package_url": "https://pypi.org/project/unbrowse-hermes/"
 }

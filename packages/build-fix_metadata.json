@@ -1,0 +1,11 @@
+{
+  "name": "build-fix",
+  "version": "0.1.1",
+  "summary": "Auto-repair TypeScript/JS build errors: duplicates, missing exports, spelling typos, unused imports.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "build_fix-0.1.1.tar.gz",
+  "download_time": "2026-03-23T20:42:46.126352",
+  "package_url": "https://pypi.org/project/build-fix/"
+}

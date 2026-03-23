@@ -1,0 +1,11 @@
+{
+  "name": "mnemo-memory",
+  "version": "0.1.1",
+  "summary": "Python SDK for Mnemo — AI memory that forgets intelligently",
+  "author": "Mnemo Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mnemo_memory-0.1.1.tar.gz",
+  "download_time": "2026-03-23T20:42:28.892895",
+  "package_url": "https://pypi.org/project/mnemo-memory/"
+}

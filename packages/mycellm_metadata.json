@@ -1,11 +1,11 @@
 {
   "name": "mycellm",
-  "version": "0.0.1",
-  "summary": "Distributed LLM inference protocol",
-  "author": "Michael Gifford-Santos",
-  "license": "Apache-2.0",
+  "version": "0.1.0",
+  "summary": "Distributed LLM inference across heterogeneous hardware",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "mycellm-0.0.1.tar.gz",
-  "download_time": "2026-03-19T07:48:20.381957",
+  "download_filename": "mycellm-0.1.0.tar.gz",
+  "download_time": "2026-03-23T20:42:51.001881",
   "package_url": "https://pypi.org/project/mycellm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ppnotify",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Tool to send notifications",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "ppnotify-0.2.0.tar.gz",
-  "download_time": "2026-03-21T09:32:44.006224",
+  "download_filename": "ppnotify-0.3.0.tar.gz",
+  "download_time": "2026-03-23T20:42:18.670512",
   "package_url": "https://pypi.org/project/ppnotify/"
 }

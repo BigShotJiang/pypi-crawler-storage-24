@@ -1,0 +1,11 @@
+{
+  "name": "stripe-inspector",
+  "version": "0.5.2",
+  "summary": "Security research tool to enumerate and inspect Stripe API keys",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stripe_inspector-0.5.2.tar.gz",
+  "download_time": "2026-03-23T20:42:38.649043",
+  "package_url": "https://pypi.org/project/stripe-inspector/"
+}

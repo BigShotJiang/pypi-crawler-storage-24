@@ -1,0 +1,11 @@
+{
+  "name": "jsonjsdb",
+  "version": "0.8.4",
+  "summary": "Python library for JSONJS database loading",
+  "author": "datannur",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jsonjsdb-0.8.4.tar.gz",
+  "download_time": "2026-03-23T20:42:13.069837",
+  "package_url": "https://pypi.org/project/jsonjsdb/"
+}

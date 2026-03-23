@@ -1,11 +1,11 @@
 {
   "name": "django-query-doctor",
-  "version": "1.0.1",
-  "summary": "Automated diagnosis and prescriptions for slow Django ORM queries",
+  "version": "2.0.0",
+  "summary": "Automated Django ORM query diagnosis and optimization. SQL compilation caching, prepared statements, N+1 detection, and DRF analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_query_doctor-1.0.1.tar.gz",
-  "download_time": "2026-03-15T19:19:26.803874",
+  "download_filename": "django_query_doctor-2.0.0.tar.gz",
+  "download_time": "2026-03-23T20:42:22.482921",
   "package_url": "https://pypi.org/project/django-query-doctor/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "genomix-cli",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "AI-powered CLI for DNA sequence and genome analysis",
   "author": "Genomix Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "genomix_cli-0.1.0.tar.gz",
-  "download_time": "2026-03-22T21:26:44.093226",
+  "download_filename": "genomix_cli-0.4.0.tar.gz",
+  "download_time": "2026-03-23T20:42:35.875621",
   "package_url": "https://pypi.org/project/genomix-cli/"
 }

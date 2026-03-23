@@ -1,0 +1,11 @@
+{
+  "name": "llm-behavior-diff",
+  "version": "1.0.0",
+  "summary": "Behavioral regression testing tool for LLM model upgrades. Compare model versions and detect behavioral changes.",
+  "author": "LLM Behavior Diff Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_behavior_diff-1.0.0.tar.gz",
+  "download_time": "2026-03-23T20:42:24.592067",
+  "package_url": "https://pypi.org/project/llm-behavior-diff/"
+}

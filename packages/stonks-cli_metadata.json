@@ -1,0 +1,11 @@
+{
+  "name": "stonks-cli",
+  "version": "0.3.1",
+  "summary": "CLI tool for tracking investment portfolio",
+  "author": "Igor Opaniuk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stonks_cli-0.3.1.tar.gz",
+  "download_time": "2026-03-23T20:42:20.851008",
+  "package_url": "https://pypi.org/project/stonks-cli/"
+}

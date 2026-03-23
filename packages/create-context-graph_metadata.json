@@ -1,11 +1,11 @@
 {
   "name": "create-context-graph",
-  "version": "0.2.0",
+  "version": "0.4.3",
   "summary": "Interactive CLI scaffolding tool for domain-specific context graph applications",
   "author": "William Lyon",
   "license": null,
   "home_page": null,
-  "download_filename": "create_context_graph-0.2.0.tar.gz",
-  "download_time": "2026-03-22T18:35:43.698542",
+  "download_filename": "create_context_graph-0.4.3.tar.gz",
+  "download_time": "2026-03-23T20:42:48.305646",
   "package_url": "https://pypi.org/project/create-context-graph/"
 }

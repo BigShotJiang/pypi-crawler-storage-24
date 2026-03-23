@@ -1,0 +1,11 @@
+{
+  "name": "medicalimageanalysis",
+  "version": "2.1.90",
+  "summary": "Reads in medical images and structures them into 3D arrays with associated ROI/POIs if they exist.",
+  "author": null,
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "medicalimageanalysis-2.1.90.tar.gz",
+  "download_time": "2026-03-23T20:42:29.962645",
+  "package_url": "https://pypi.org/project/medicalimageanalysis/"
+}
