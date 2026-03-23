@@ -1,11 +1,11 @@
 {
   "name": "nerdcore",
-  "version": "0.7.0",
-  "summary": null,
+  "version": "1.0.1",
+  "summary": "Nerd CLI is a Fivable-specific and highly configurable CLI tool for creating/running deployments, commands, and more.",
   "author": "David Wallace Cooley Jr",
   "license": null,
-  "home_page": "https://bitbucket.org/fivable/nerd-cli.git",
-  "download_filename": "nerdcore-0.7.0.tar.gz",
-  "download_time": "2026-03-20T05:20:08.793911",
+  "home_page": "https://bitbucket.org/fivable/nerdcore.git",
+  "download_filename": "nerdcore-1.0.1.tar.gz",
+  "download_time": "2026-03-23T18:10:20.946896",
   "package_url": "https://pypi.org/project/nerdcore/"
 }

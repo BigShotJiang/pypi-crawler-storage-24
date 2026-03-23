@@ -1,0 +1,11 @@
+{
+  "name": "transformer-engine-torch",
+  "version": "2.13.0",
+  "summary": "Transformer acceleration library - Torch Lib",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transformer_engine_torch-2.13.0.tar.gz",
+  "download_time": "2026-03-23T18:10:36.710771",
+  "package_url": "https://pypi.org/project/transformer-engine-torch/"
+}

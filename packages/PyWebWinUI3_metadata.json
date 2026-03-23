@@ -1,11 +1,11 @@
 {
   "name": "PyWebWinUI3",
-  "version": "1.0.0b43",
+  "version": "1.0.0b44",
   "summary": "Create modern WinUI3-style desktop UIs in Python effortlessly using PySide6 and QtWebEngine.",
   "author": "Haruna5718",
   "license": "Apache 2.0",
   "home_page": "https://github.com/Haruna5718/PyWebWinUI3",
-  "download_filename": "pywebwinui3-1.0.0b43.tar.gz",
-  "download_time": "2026-03-22T14:51:30.415190",
+  "download_filename": "pywebwinui3-1.0.0b44.tar.gz",
+  "download_time": "2026-03-23T18:10:17.533352",
   "package_url": "https://pypi.org/project/PyWebWinUI3/"
 }

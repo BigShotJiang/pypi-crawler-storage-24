@@ -1,0 +1,11 @@
+{
+  "name": "openstack-cyborg",
+  "version": "15.0.0",
+  "summary": "Distributed Acceleration Management as a Service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/cyborg/latest/",
+  "download_filename": "openstack_cyborg-15.0.0.tar.gz",
+  "download_time": "2026-03-23T18:10:39.085407",
+  "package_url": "https://pypi.org/project/openstack-cyborg/"
+}

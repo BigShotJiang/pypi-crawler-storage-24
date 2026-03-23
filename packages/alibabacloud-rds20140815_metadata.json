@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-rds20140815",
+  "version": "15.7.1",
+  "summary": "Alibaba Cloud rds (20140815) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_rds20140815-15.7.1.tar.gz",
+  "download_time": "2026-03-23T18:10:13.767678",
+  "package_url": "https://pypi.org/project/alibabacloud-rds20140815/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "susatest-agent",
+  "version": "0.2.1",
+  "summary": "Local agent for SUSATest — connects your Android device to the cloud testing platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "susatest_agent-0.2.1.tar.gz",
+  "download_time": "2026-03-23T18:09:56.938168",
+  "package_url": "https://pypi.org/project/susatest-agent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "better-bing-image-downloader",
+  "version": "3.0.0",
+  "summary": "Bulk image downloader from Bing (and Google via Selenium)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "better_bing_image_downloader-3.0.0.tar.gz",
+  "download_time": "2026-03-23T18:10:29.195160",
+  "package_url": "https://pypi.org/project/better-bing-image-downloader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "initial-mass-function",
+  "version": "2026.3.23",
+  "summary": "Tools for sampling from and working with functional forms of the initial mass function",
+  "author": "Adam Ginsburg",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/keflavich/imf",
+  "download_filename": "initial_mass_function-2026.3.23.tar.gz",
+  "download_time": "2026-03-23T18:10:01.090382",
+  "package_url": "https://pypi.org/project/initial-mass-function/"
+}

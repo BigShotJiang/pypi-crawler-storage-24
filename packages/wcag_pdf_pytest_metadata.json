@@ -1,0 +1,11 @@
+{
+  "name": "wcag_pdf_pytest",
+  "version": "0.2.1",
+  "summary": "Pytest plugin for WCAG 2.1 A/AA/AAA compliance checks on PDFs.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wcag_pdf_pytest-0.2.1.tar.gz",
+  "download_time": "2026-03-23T18:10:09.139858",
+  "package_url": "https://pypi.org/project/wcag_pdf_pytest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "raindrop-bedrock",
+  "version": "0.0.1",
+  "summary": "Raindrop integration for AWS Bedrock",
+  "author": "Raindrop AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raindrop_bedrock-0.0.1.tar.gz",
+  "download_time": "2026-03-23T18:09:57.577128",
+  "package_url": "https://pypi.org/project/raindrop-bedrock/"
+}
