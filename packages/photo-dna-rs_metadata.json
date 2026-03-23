@@ -1,0 +1,11 @@
+{
+  "name": "photo-dna-rs",
+  "version": "0.1.0",
+  "summary": "Python bindings to pure Rust implementation of PhotoDNA perceptual hashing for image similarity detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "photo_dna_rs-0.1.0.tar.gz",
+  "download_time": "2026-03-23T15:22:41.368550",
+  "package_url": "https://pypi.org/project/photo-dna-rs/"
+}

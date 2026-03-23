@@ -1,0 +1,11 @@
+{
+  "name": "xmvb-tools",
+  "version": "0.2.0",
+  "summary": "Tools for XMVB orbital and Molden file conversion.",
+  "author": "Usu171",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmvb_tools-0.2.0.tar.gz",
+  "download_time": "2026-03-23T15:22:47.078328",
+  "package_url": "https://pypi.org/project/xmvb-tools/"
+}

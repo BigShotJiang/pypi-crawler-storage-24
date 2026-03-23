@@ -1,0 +1,11 @@
+{
+  "name": "llm-markdown",
+  "version": "0.3.6",
+  "summary": "Turn Python functions into typed LLM calls using docstrings as prompts",
+  "author": "Johannes Hötter",
+  "license": null,
+  "home_page": "https://github.com/jhoetter/llm-markdown",
+  "download_filename": "llm_markdown-0.3.6.tar.gz",
+  "download_time": "2026-03-23T15:22:40.848427",
+  "package_url": "https://pypi.org/project/llm-markdown/"
+}

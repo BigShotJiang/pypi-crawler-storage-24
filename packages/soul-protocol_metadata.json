@@ -1,11 +1,11 @@
 {
   "name": "soul-protocol",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "The open standard for portable AI identity and memory",
   "author": "OCEAN Foundation",
   "license": null,
   "home_page": null,
-  "download_filename": "soul_protocol-0.2.3.tar.gz",
-  "download_time": "2026-03-13T14:42:18.297339",
+  "download_filename": "soul_protocol-0.2.5.tar.gz",
+  "download_time": "2026-03-23T15:22:26.847220",
   "package_url": "https://pypi.org/project/soul-protocol/"
 }

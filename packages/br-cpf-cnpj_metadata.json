@@ -1,0 +1,11 @@
+{
+  "name": "br-cpf-cnpj",
+  "version": "1.1.0",
+  "summary": "CPF and CNPJ validation and generation with support for alphanumeric CNPJ",
+  "author": "RenanCampista",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "br_cpf_cnpj-1.1.0.tar.gz",
+  "download_time": "2026-03-23T15:22:44.985094",
+  "package_url": "https://pypi.org/project/br-cpf-cnpj/"
+}

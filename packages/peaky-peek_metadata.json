@@ -1,11 +1,11 @@
 {
   "name": "peaky-peek",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Lightweight tracing SDK for AI agents. Capture decisions, tool calls, and LLM events with one context manager.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peaky_peek-0.1.0.tar.gz",
-  "download_time": "2026-03-23T14:19:26.315944",
+  "download_filename": "peaky_peek-0.1.3.tar.gz",
+  "download_time": "2026-03-23T15:22:39.302048",
   "package_url": "https://pypi.org/project/peaky-peek/"
 }

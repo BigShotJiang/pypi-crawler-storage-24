@@ -1,0 +1,11 @@
+{
+  "name": "wrapper-for-obsidian-cli",
+  "version": "0.1.0",
+  "summary": "An unofficial, easy-to-use python bridge/wrapper for the new Obsidian CLI.",
+  "author": "MadnessOverflow",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wrapper_for_obsidian_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-23T15:22:33.643068",
+  "package_url": "https://pypi.org/project/wrapper-for-obsidian-cli/"
+}

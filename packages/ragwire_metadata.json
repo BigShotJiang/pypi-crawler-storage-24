@@ -1,11 +1,11 @@
 {
   "name": "ragwire",
-  "version": "1.1.1",
+  "version": "1.1.5",
   "summary": "RAGWire — Production-grade RAG toolkit for document ingestion and retrieval with hybrid search support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ragwire-1.1.1.tar.gz",
-  "download_time": "2026-03-22T19:08:27.734273",
+  "download_filename": "ragwire-1.1.5.tar.gz",
+  "download_time": "2026-03-23T15:22:46.047454",
   "package_url": "https://pypi.org/project/ragwire/"
 }

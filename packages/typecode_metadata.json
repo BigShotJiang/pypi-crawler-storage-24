@@ -1,0 +1,11 @@
+{
+  "name": "typecode",
+  "version": "30.2.0",
+  "summary": "Comprehensive filetype and mimetype detection using libmagic and Pygments.",
+  "author": "nexB. Inc. and others",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aboutcode-org/typecode",
+  "download_filename": "typecode-30.2.0.tar.gz",
+  "download_time": "2026-03-23T15:22:43.956096",
+  "package_url": "https://pypi.org/project/typecode/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "querylens",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "SQL inspection CLI: static checks, lineage, PR review, cost diff",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "querylens-0.1.12-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-22T11:50:12.582219",
+  "download_filename": "querylens-0.1.13-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-23T15:22:28.432110",
   "package_url": "https://pypi.org/project/querylens/"
 }

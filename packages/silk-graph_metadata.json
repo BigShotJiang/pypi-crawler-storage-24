@@ -1,0 +1,11 @@
+{
+  "name": "silk-graph",
+  "version": "0.1.3",
+  "summary": "Merkle-CRDT graph engine for distributed, conflict-free knowledge graphs",
+  "author": null,
+  "license": null,
+  "home_page": "https://kieleth.com",
+  "download_filename": "silk_graph-0.1.3-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-23T15:22:17.499360",
+  "package_url": "https://pypi.org/project/silk-graph/"
+}

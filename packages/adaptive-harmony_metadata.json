@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-harmony",
+  "version": "1.0.0",
+  "summary": "Harmony training recipes and utilities for LLM fine-tuning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adaptive_harmony-1.0.0.tar.gz",
+  "download_time": "2026-03-23T15:22:16.462254",
+  "package_url": "https://pypi.org/project/adaptive-harmony/"
+}

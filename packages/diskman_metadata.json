@@ -1,0 +1,11 @@
+{
+  "name": "diskman",
+  "version": "0.2.5",
+  "summary": "CLI + TUI disk/partition manager with SMART, LUKS, mount controls, and partition operations",
+  "author": "Gaffer",
+  "license": null,
+  "home_page": "https://github.com/gaffer/disk-manager",
+  "download_filename": "diskman-0.2.5.tar.gz",
+  "download_time": "2026-03-23T15:22:11.802061",
+  "package_url": "https://pypi.org/project/diskman/"
+}

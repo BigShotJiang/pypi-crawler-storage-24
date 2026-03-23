@@ -1,11 +1,11 @@
 {
   "name": "ecs-task-doctor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Diagnose why your ECS tasks fail to start or keep crashing",
   "author": "ECS Task Doctor Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "ecs_task_doctor-0.1.0.tar.gz",
-  "download_time": "2026-03-21T10:56:42.624386",
+  "download_filename": "ecs_task_doctor-0.1.1.tar.gz",
+  "download_time": "2026-03-23T15:22:37.237831",
   "package_url": "https://pypi.org/project/ecs-task-doctor/"
 }
