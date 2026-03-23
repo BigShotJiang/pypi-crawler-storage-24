@@ -1,0 +1,11 @@
+{
+  "name": "koji",
+  "version": "1.36.0",
+  "summary": "Koji is a system for building and tracking RPMS. The base package contains shared libraries and the command-line interface.",
+  "author": "Koji developers",
+  "license": "LGPLv2 and GPLv2+",
+  "home_page": "http://pagure.io/koji/",
+  "download_filename": "koji-1.36.0.tar.gz",
+  "download_time": "2026-03-23T22:33:25.099357",
+  "package_url": "https://pypi.org/project/koji/"
+}

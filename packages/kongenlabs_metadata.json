@@ -1,0 +1,11 @@
+{
+  "name": "kongenlabs",
+  "version": "1.0.0",
+  "summary": "Kongen Labs SCI Pattern Intelligence SDK -- cross-domain pattern transfer and LLM reasoning regime detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kongenlabs-1.0.0.tar.gz",
+  "download_time": "2026-03-23T22:32:47.164563",
+  "package_url": "https://pypi.org/project/kongenlabs/"
+}

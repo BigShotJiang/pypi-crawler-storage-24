@@ -1,0 +1,11 @@
+{
+  "name": "enyal",
+  "version": "0.10.1",
+  "summary": "Persistent, queryable memory for AI coding agents",
+  "author": "Sean Corkum",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "enyal-0.10.1.tar.gz",
+  "download_time": "2026-03-23T22:33:15.117768",
+  "package_url": "https://pypi.org/project/enyal/"
+}

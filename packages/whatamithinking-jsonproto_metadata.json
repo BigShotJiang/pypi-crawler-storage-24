@@ -1,0 +1,11 @@
+{
+  "name": "whatamithinking-jsonproto",
+  "version": "1.2.4",
+  "summary": "declarative json modeler, validator, encoder, and decoder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whatamithinking_jsonproto-1.2.4.tar.gz",
+  "download_time": "2026-03-23T22:33:07.702714",
+  "package_url": "https://pypi.org/project/whatamithinking-jsonproto/"
+}

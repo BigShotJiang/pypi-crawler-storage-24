@@ -1,11 +1,11 @@
 {
   "name": "local-ai-agent-orchestrator",
-  "version": "2.1.0",
+  "version": "2.2.1",
   "summary": "Local AI Agent Orchestrator: planner, coder, and reviewer agents over LM Studio with SQLite state, optional per-plan Git commits, and memory-safe model swapping",
   "author": "Local AI Agent Orchestrator contributors",
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "local_ai_agent_orchestrator-2.1.0.tar.gz",
-  "download_time": "2026-03-23T20:06:52.039400",
+  "download_filename": "local_ai_agent_orchestrator-2.2.1.tar.gz",
+  "download_time": "2026-03-23T22:33:06.135109",
   "package_url": "https://pypi.org/project/local-ai-agent-orchestrator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "media-engine",
+  "version": "0.3.1",
+  "summary": "AI-powered video extraction API for metadata, transcripts, faces, scenes, objects, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "media_engine-0.3.1.tar.gz",
+  "download_time": "2026-03-23T22:33:10.882244",
+  "package_url": "https://pypi.org/project/media-engine/"
+}

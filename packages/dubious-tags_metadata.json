@@ -1,0 +1,11 @@
+{
+  "name": "dubious-tags",
+  "version": "0.0.2",
+  "summary": "Listing of dubious OSM tags",
+  "author": "Mateusz Konieczny",
+  "license": "CC0-1.0",
+  "home_page": "https://codeberg.org/matkoniecz/dubious_tags",
+  "download_filename": "dubious_tags-0.0.2.tar.gz",
+  "download_time": "2026-03-23T22:33:15.638524",
+  "package_url": "https://pypi.org/project/dubious-tags/"
+}

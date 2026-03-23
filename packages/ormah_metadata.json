@@ -1,11 +1,11 @@
 {
   "name": "ormah",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Local-first, portable, LLM-agnostic memory system for AI agents",
   "author": "Rishikesh Chirammel Ajit",
   "license": null,
   "home_page": null,
-  "download_filename": "ormah-0.5.0.tar.gz",
-  "download_time": "2026-03-23T22:01:35.606747",
+  "download_filename": "ormah-0.5.1.tar.gz",
+  "download_time": "2026-03-23T22:33:18.287088",
   "package_url": "https://pypi.org/project/ormah/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "medpipe",
+  "version": "0.1.2",
+  "summary": "A package for clinical AI pipeline development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "medpipe-0.1.2.tar.gz",
+  "download_time": "2026-03-23T22:32:48.208553",
+  "package_url": "https://pypi.org/project/medpipe/"
+}

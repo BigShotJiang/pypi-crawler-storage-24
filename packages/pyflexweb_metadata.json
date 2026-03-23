@@ -1,0 +1,11 @@
+{
+  "name": "pyflexweb",
+  "version": "0.4.0",
+  "summary": "Download IBKR Flex reports using the Interactive Brokers flex web service",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pyflexweb-0.4.0.tar.gz",
+  "download_time": "2026-03-23T22:33:13.518307",
+  "package_url": "https://pypi.org/project/pyflexweb/"
+}
