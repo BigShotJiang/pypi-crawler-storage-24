@@ -1,11 +1,11 @@
 {
   "name": "license-utils-kit",
-  "version": "0.1a0",
+  "version": "0.1b3",
   "summary": "Library that encapsulates free software licenses",
   "author": "Miro Hrončok",
   "license": "MIT",
   "home_page": "https://github.com/hroncok/licenseutils",
-  "download_filename": "license_utils_kit-0.1a0.tar.gz",
-  "download_time": "2026-03-17T05:40:44.755730",
+  "download_filename": "license_utils_kit-0.1b3.tar.gz",
+  "download_time": "2026-03-23T09:18:42.890702",
   "package_url": "https://pypi.org/project/license-utils-kit/"
 }

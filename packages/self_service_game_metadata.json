@@ -1,11 +1,11 @@
 {
   "name": "self_service_game",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": null,
   "author": "pali",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "self_service_game-0.1.1.tar.gz",
-  "download_time": "2026-03-23T08:15:11.569801",
+  "download_filename": "self_service_game-0.1.3.tar.gz",
+  "download_time": "2026-03-23T09:18:47.060857",
   "package_url": "https://pypi.org/project/self_service_game/"
 }

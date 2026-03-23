@@ -1,0 +1,11 @@
+{
+  "name": "libreflow.extensions.lpc.utilities",
+  "version": "1.1.0",
+  "summary": null,
+  "author": "LFS",
+  "license": "LGPLv3+",
+  "home_page": "https://gitlab.com/lfs.coop/libreflow/libreflow_launcher",
+  "download_filename": "libreflow_extensions_lpc_utilities-1.1.0.tar.gz",
+  "download_time": "2026-03-23T09:19:22.280284",
+  "package_url": "https://pypi.org/project/libreflow.extensions.lpc.utilities/"
+}

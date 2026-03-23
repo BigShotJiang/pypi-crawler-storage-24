@@ -1,0 +1,11 @@
+{
+  "name": "alvitr-sentinel",
+  "version": "1.0.0",
+  "summary": "科研文献自动监控 Pipeline — 每日 RSS 抓取、AI 摘要分类打分、HTML 报告生成",
+  "author": "AlvitrSentinel Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alvitr_sentinel-1.0.0.tar.gz",
+  "download_time": "2026-03-23T09:19:05.052973",
+  "package_url": "https://pypi.org/project/alvitr-sentinel/"
+}

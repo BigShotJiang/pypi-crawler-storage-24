@@ -1,11 +1,11 @@
 {
   "name": "fasthttp-client",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Fast and simple HTTP client library with async support and beautiful logging",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fasthttp_client-1.1.1.tar.gz",
-  "download_time": "2026-03-22T05:39:40.994873",
+  "download_filename": "fasthttp_client-1.1.2.tar.gz",
+  "download_time": "2026-03-23T09:19:24.941089",
   "package_url": "https://pypi.org/project/fasthttp-client/"
 }

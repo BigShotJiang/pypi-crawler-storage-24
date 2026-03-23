@@ -1,0 +1,11 @@
+{
+  "name": "whispersub",
+  "version": "1.1.0",
+  "summary": "Transcribe videos to ASS subtitle files using faster-whisper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whispersub-1.1.0.tar.gz",
+  "download_time": "2026-03-23T09:18:54.541254",
+  "package_url": "https://pypi.org/project/whispersub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seahorse-coral",
+  "version": "0.1.0",
+  "summary": "Python client library for SeahorseDB via Coral API server",
+  "author": "Seahorse Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seahorse_coral-0.1.0.tar.gz",
+  "download_time": "2026-03-23T09:18:46.542941",
+  "package_url": "https://pypi.org/project/seahorse-coral/"
+}

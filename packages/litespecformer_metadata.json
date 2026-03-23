@@ -1,0 +1,11 @@
+{
+  "name": "litespecformer",
+  "version": "0.0.1",
+  "summary": "A lightweight Transformer-based model for spectrum prediction and time series forecasting",
+  "author": null,
+  "license": "Apache License",
+  "home_page": null,
+  "download_filename": "litespecformer-0.0.1.tar.gz",
+  "download_time": "2026-03-23T09:18:42.362340",
+  "package_url": "https://pypi.org/project/litespecformer/"
+}

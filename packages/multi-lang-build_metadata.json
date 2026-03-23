@@ -1,0 +1,11 @@
+{
+  "name": "multi-lang-build",
+  "version": "0.4.2",
+  "summary": "Multi-language automated build tool with domestic mirror acceleration support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multi_lang_build-0.4.2.tar.gz",
+  "download_time": "2026-03-23T09:18:49.176106",
+  "package_url": "https://pypi.org/project/multi-lang-build/"
+}

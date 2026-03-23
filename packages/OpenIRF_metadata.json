@@ -1,11 +1,11 @@
 {
   "name": "OpenIRF",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "An Open-Source Package for Impulse Response Function Estimation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openirf-0.1.1.tar.gz",
-  "download_time": "2026-03-20T12:05:09.313742",
+  "download_filename": "openirf-0.1.2.tar.gz",
+  "download_time": "2026-03-23T09:19:04.534076",
   "package_url": "https://pypi.org/project/OpenIRF/"
 }

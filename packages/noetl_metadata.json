@@ -1,11 +1,11 @@
 {
   "name": "noetl",
-  "version": "2.10.22",
+  "version": "2.10.26",
   "summary": "A framework to build and run data pipelines and workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "noetl-2.10.22.tar.gz",
-  "download_time": "2026-03-23T07:09:02.276688",
+  "download_filename": "noetl-2.10.26.tar.gz",
+  "download_time": "2026-03-23T09:19:13.923735",
   "package_url": "https://pypi.org/project/noetl/"
 }
