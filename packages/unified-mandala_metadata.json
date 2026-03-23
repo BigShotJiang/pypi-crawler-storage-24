@@ -1,11 +1,11 @@
 {
   "name": "unified-mandala",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Holistic self-reflecting Mandala framework with CREP, Sigillin, and full GenesisAeon integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unified_mandala-0.1.0-py3-none-any.whl",
-  "download_time": "2026-03-22T21:54:27.511366",
+  "download_filename": "unified_mandala-0.2.0-py3-none-any.whl",
+  "download_time": "2026-03-23T13:01:49.722291",
   "package_url": "https://pypi.org/project/unified-mandala/"
 }

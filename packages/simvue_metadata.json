@@ -1,0 +1,11 @@
+{
+  "name": "simvue",
+  "version": "2.4.0",
+  "summary": "Simulation tracking and monitoring",
+  "author": "Simvue Development Team",
+  "license": "Apache v2",
+  "home_page": null,
+  "download_filename": "simvue-2.4.0.tar.gz",
+  "download_time": "2026-03-23T13:01:52.541532",
+  "package_url": "https://pypi.org/project/simvue/"
+}

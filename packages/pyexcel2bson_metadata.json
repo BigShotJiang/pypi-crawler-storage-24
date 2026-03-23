@@ -1,0 +1,11 @@
+{
+  "name": "pyexcel2bson",
+  "version": "0.1.1",
+  "summary": "Excel 파일을 시트별 BSON 파일로 변환하는 CLI 도구",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyexcel2bson-0.1.1.tar.gz",
+  "download_time": "2026-03-23T13:01:36.900895",
+  "package_url": "https://pypi.org/project/pyexcel2bson/"
+}

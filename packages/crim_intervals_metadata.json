@@ -1,0 +1,11 @@
+{
+  "name": "crim_intervals",
+  "version": "2.0.63",
+  "summary": "CRIM intervals package",
+  "author": "Richard Freedman",
+  "license": "creative commons",
+  "home_page": null,
+  "download_filename": "crim_intervals-2.0.63.tar.gz",
+  "download_time": "2026-03-23T13:01:41.433106",
+  "package_url": "https://pypi.org/project/crim_intervals/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "browser-hybrid",
+  "version": "0.2.3",
+  "summary": "Chrome DevTools with accessibility-tree semantics for browser automation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "browser_hybrid-0.2.3.tar.gz",
+  "download_time": "2026-03-23T13:01:36.264563",
+  "package_url": "https://pypi.org/project/browser-hybrid/"
+}

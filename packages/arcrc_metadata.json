@@ -1,0 +1,11 @@
+{
+  "name": "arcrc",
+  "version": "0.1.1",
+  "summary": "Autosar CRC-8, CRC-16-CCITT und CRC-32 (IEEE) – Runtime- and Tablevariants",
+  "author": "Christoph Schueler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcrc-0.1.1.tar.gz",
+  "download_time": "2026-03-23T13:01:53.692802",
+  "package_url": "https://pypi.org/project/arcrc/"
+}

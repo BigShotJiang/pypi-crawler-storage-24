@@ -1,11 +1,11 @@
 {
   "name": "superpitch",
-  "version": "0.1.5",
-  "summary": "The AI Agent inbox for investors. Screens and scores inbound pitches locally, learns from every decision you make.",
+  "version": "0.2.0",
+  "summary": "AI screening agent for investor inbound. Processes pitch emails locally, learns from every decision.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "superpitch-0.1.5.tar.gz",
-  "download_time": "2026-03-17T12:07:50.420153",
+  "download_filename": "superpitch-0.2.0.tar.gz",
+  "download_time": "2026-03-23T13:01:25.034609",
   "package_url": "https://pypi.org/project/superpitch/"
 }
