@@ -1,0 +1,11 @@
+{
+  "name": "nf-docs",
+  "version": "0.2.1",
+  "summary": "Generate API documentation for Nextflow pipelines by querying the Nextflow Language Server",
+  "author": "nf-docs contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nf_docs-0.2.1.tar.gz",
+  "download_time": "2026-03-23T19:19:36.203835",
+  "package_url": "https://pypi.org/project/nf-docs/"
+}

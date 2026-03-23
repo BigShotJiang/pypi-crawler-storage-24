@@ -1,0 +1,11 @@
+{
+  "name": "azerai-reminder",
+  "version": "1.0.4",
+  "summary": "AzerAI Reminder Plugin - Azərbaycan dilində hatırlatma sistemi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "azerai_reminder-1.0.4.tar.gz",
+  "download_time": "2026-03-23T19:19:58.115617",
+  "package_url": "https://pypi.org/project/azerai-reminder/"
+}

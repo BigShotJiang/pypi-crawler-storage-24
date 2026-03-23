@@ -1,11 +1,11 @@
 {
   "name": "openai-oxide",
-  "version": "0.9.4",
+  "version": "0.9.6",
   "summary": "Fastest OpenAI client — Rust core with Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openai_oxide-0.9.4.tar.gz",
-  "download_time": "2026-03-21T20:54:45.645416",
+  "download_filename": "openai_oxide-0.9.6.tar.gz",
+  "download_time": "2026-03-23T19:19:56.472684",
   "package_url": "https://pypi.org/project/openai-oxide/"
 }

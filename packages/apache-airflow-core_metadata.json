@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-core",
+  "version": "3.1.8",
+  "summary": "Core packages for Apache Airflow, schedule and API server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_core-3.1.8.tar.gz",
+  "download_time": "2026-03-23T19:19:48.346517",
+  "package_url": "https://pypi.org/project/apache-airflow-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azerai-display-control",
+  "version": "1.0.0",
+  "summary": "AzerAI Display Control Plugin - Ekran və audio kontrol plugini",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "azerai_display_control-1.0.0.tar.gz",
+  "download_time": "2026-03-23T19:20:03.719957",
+  "package_url": "https://pypi.org/project/azerai-display-control/"
+}

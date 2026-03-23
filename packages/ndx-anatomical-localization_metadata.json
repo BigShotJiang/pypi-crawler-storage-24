@@ -1,0 +1,11 @@
+{
+  "name": "ndx-anatomical-localization",
+  "version": "0.1.0",
+  "summary": "Provide localization of objects (e.g. electrodes) against a reference image (e.g. CCF)",
+  "author": "Heberto Mayorquin, Alessandra Trapani, Szonja Weigl, Stephanie Prince",
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "ndx_anatomical_localization-0.1.0.tar.gz",
+  "download_time": "2026-03-23T19:20:04.873849",
+  "package_url": "https://pypi.org/project/ndx-anatomical-localization/"
+}
