@@ -1,0 +1,11 @@
+{
+  "name": "tokie",
+  "version": "0.0.3",
+  "summary": "Blazingly fast tokenizer — 50x faster, 10x smaller, 100% accurate",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "tokie-0.0.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-23T07:09:36.301538",
+  "package_url": "https://pypi.org/project/tokie/"
+}

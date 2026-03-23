@@ -1,11 +1,11 @@
 {
   "name": "undocx",
-  "version": "0.4.0",
+  "version": "0.5.2",
   "summary": "DOCX to Markdown converter written in Rust",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/KimSeogyu/undocx",
-  "download_filename": "undocx-0.4.0.tar.gz",
-  "download_time": "2026-03-23T04:31:00.627151",
+  "download_filename": "undocx-0.5.2.tar.gz",
+  "download_time": "2026-03-23T07:09:06.941402",
   "package_url": "https://pypi.org/project/undocx/"
 }

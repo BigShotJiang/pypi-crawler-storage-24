@@ -1,11 +1,11 @@
 {
   "name": "agent-coworker",
-  "version": "0.2.2",
-  "summary": "Wallet-to-wallet AI agent collaboration over XMTP — discover, call, and collaborate across the open internet.",
-  "author": "Ziway Zhao",
+  "version": "0.3.2",
+  "summary": "Peer-to-peer AI agent collaboration over XMTP — discover, call, and collaborate across the open internet with E2E encryption.",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_coworker-0.2.2.tar.gz",
-  "download_time": "2026-03-22T10:28:30.830807",
+  "download_filename": "agent_coworker-0.3.2.tar.gz",
+  "download_time": "2026-03-23T07:09:32.147388",
   "package_url": "https://pypi.org/project/agent-coworker/"
 }

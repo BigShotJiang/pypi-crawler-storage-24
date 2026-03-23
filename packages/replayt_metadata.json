@@ -1,11 +1,11 @@
 {
   "name": "replayt",
-  "version": "0.4.22",
+  "version": "0.4.25",
   "summary": "Deterministic control flow for LLM workflows you can replay - explicit states, strict schemas, local logs.",
   "author": "replayt contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "replayt-0.4.22.tar.gz",
-  "download_time": "2026-03-23T04:31:05.655909",
+  "download_filename": "replayt-0.4.25.tar.gz",
+  "download_time": "2026-03-23T07:08:55.527091",
   "package_url": "https://pypi.org/project/replayt/"
 }

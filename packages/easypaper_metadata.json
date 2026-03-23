@@ -1,11 +1,11 @@
 {
   "name": "easypaper",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "AI-powered academic paper generation SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easypaper-0.1.5.tar.gz",
-  "download_time": "2026-03-22T16:30:49.606769",
+  "download_filename": "easypaper-0.1.7.tar.gz",
+  "download_time": "2026-03-23T07:08:54.989373",
   "package_url": "https://pypi.org/project/easypaper/"
 }

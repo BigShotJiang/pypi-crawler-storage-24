@@ -1,11 +1,11 @@
 {
   "name": "fake-bge-module",
-  "version": "20260321",
+  "version": "20260323",
   "summary": "Collection of the fake Blender Game Engine (BGE) Python API module for the code completion.",
   "author": "nutti",
   "license": null,
   "home_page": null,
-  "download_filename": "fake_bge_module-20260321.tar.gz",
-  "download_time": "2026-03-21T07:13:18.454182",
+  "download_filename": "fake_bge_module-20260323.tar.gz",
+  "download_time": "2026-03-23T07:09:03.311519",
   "package_url": "https://pypi.org/project/fake-bge-module/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "waggle-mail",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Multipart email for AI agents: plain text + HTML from Markdown, auto-quoted replies via IMAP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "waggle_mail-1.4.0-py3-none-any.whl",
-  "download_time": "2026-03-23T06:00:44.098068",
+  "download_filename": "waggle_mail-1.5.0-py3-none-any.whl",
+  "download_time": "2026-03-23T07:09:08.986796",
   "package_url": "https://pypi.org/project/waggle-mail/"
 }

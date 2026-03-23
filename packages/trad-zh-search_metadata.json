@@ -1,0 +1,11 @@
+{
+  "name": "trad-zh-search",
+  "version": "0.1.1",
+  "summary": "Traditional Chinese text preprocessing for search engines — CKIP segmentation + bigram indexing with pluggable domain dictionaries",
+  "author": "JacobMei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trad_zh_search-0.1.1.tar.gz",
+  "download_time": "2026-03-23T07:08:58.677633",
+  "package_url": "https://pypi.org/project/trad-zh-search/"
+}

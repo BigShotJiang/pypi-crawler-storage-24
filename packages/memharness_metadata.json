@@ -1,11 +1,11 @@
 {
   "name": "memharness",
-  "version": "0.5.4",
+  "version": "0.6.1",
   "summary": "Framework-agnostic memory infrastructure for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memharness-0.5.4.tar.gz",
-  "download_time": "2026-03-23T06:01:08.745045",
+  "download_filename": "memharness-0.6.1.tar.gz",
+  "download_time": "2026-03-23T07:08:56.055146",
   "package_url": "https://pypi.org/project/memharness/"
 }

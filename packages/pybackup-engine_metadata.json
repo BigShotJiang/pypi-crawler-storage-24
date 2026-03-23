@@ -1,0 +1,11 @@
+{
+  "name": "pybackup-engine",
+  "version": "2.1.0",
+  "summary": "Production-grade backup engine for files, PostgreSQL, MySQL, MongoDB and MSSQL — with a built-in web dashboard, login system and pluggable database backends.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybackup_engine-2.1.0.tar.gz",
+  "download_time": "2026-03-23T07:09:21.866480",
+  "package_url": "https://pypi.org/project/pybackup-engine/"
+}

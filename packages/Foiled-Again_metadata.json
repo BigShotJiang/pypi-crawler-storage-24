@@ -1,0 +1,11 @@
+{
+  "name": "Foiled-Again",
+  "version": "0.1.2",
+  "summary": "A simple cli tool to collect and track pricing of TCG cards",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "foiled_again-0.1.2.tar.gz",
+  "download_time": "2026-03-23T07:08:53.414948",
+  "package_url": "https://pypi.org/project/Foiled-Again/"
+}
