@@ -1,11 +1,11 @@
 {
   "name": "mycellm",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Distributed LLM inference across heterogeneous hardware",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mycellm-0.1.0.tar.gz",
-  "download_time": "2026-03-23T20:42:51.001881",
+  "download_filename": "mycellm-0.1.2.tar.gz",
+  "download_time": "2026-03-23T22:01:20.083488",
   "package_url": "https://pypi.org/project/mycellm/"
 }

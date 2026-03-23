@@ -1,0 +1,11 @@
+{
+  "name": "chibi-git",
+  "version": "0.10.0",
+  "summary": "wrapper to use git in python",
+  "author": "dem4ply",
+  "license": "WTFPL",
+  "home_page": "https://github.com/dem4ply/chibi_git",
+  "download_filename": "chibi_git-0.10.0.tar.gz",
+  "download_time": "2026-03-23T22:01:56.831818",
+  "package_url": "https://pypi.org/project/chibi-git/"
+}

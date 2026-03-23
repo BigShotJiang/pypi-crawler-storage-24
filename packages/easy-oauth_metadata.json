@@ -1,0 +1,11 @@
+{
+  "name": "easy-oauth",
+  "version": "0.0.5",
+  "summary": "Easy OAuth authentication for Starlette/FastAPI apps",
+  "author": "Olivier Breuleux",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easy_oauth-0.0.5.tar.gz",
+  "download_time": "2026-03-23T22:01:31.975799",
+  "package_url": "https://pypi.org/project/easy-oauth/"
+}

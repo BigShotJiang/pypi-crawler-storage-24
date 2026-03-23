@@ -1,0 +1,11 @@
+{
+  "name": "mng-claude",
+  "version": "0.1.0",
+  "summary": "Claude agent type plugin for mng",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mng_claude-0.1.0.tar.gz",
+  "download_time": "2026-03-23T22:02:05.657149",
+  "package_url": "https://pypi.org/project/mng-claude/"
+}

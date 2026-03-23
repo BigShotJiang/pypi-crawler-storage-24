@@ -1,0 +1,11 @@
+{
+  "name": "codemod-tox",
+  "version": "0.5.2",
+  "summary": "Utilities for editing tox.ini",
+  "author": "Tim Hatch",
+  "license": "MIT",
+  "home_page": "https://github.com/advice-animal/codemod-tox",
+  "download_filename": "codemod_tox-0.5.2.tar.gz",
+  "download_time": "2026-03-23T22:01:23.233084",
+  "package_url": "https://pypi.org/project/codemod-tox/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "deepbach-pytorch",
-  "version": "0.3.2",
+  "version": "0.3.6",
   "summary": "DeepBach implementation for harmonization",
   "author": "Gaetan Hadjeres, JinruGuan",
   "license": null,
   "home_page": "https://github.com/Ghadjeres/DeepBach",
-  "download_filename": "deepbach_pytorch-0.3.2.tar.gz",
-  "download_time": "2026-03-22T01:51:55.248198",
+  "download_filename": "deepbach_pytorch-0.3.6.tar.gz",
+  "download_time": "2026-03-23T22:01:57.887953",
   "package_url": "https://pypi.org/project/deepbach-pytorch/"
 }
