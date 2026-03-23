@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-agent-amplitude",
+  "version": "0.1.7",
+  "summary": "Airbyte Amplitude Connector for AI platforms",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "airbyte_agent_amplitude-0.1.7.tar.gz",
+  "download_time": "2026-03-23T20:06:28.321885",
+  "package_url": "https://pypi.org/project/airbyte-agent-amplitude/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-amazon-seller-partner",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Airbyte Amazon-Seller-Partner Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_amazon_seller_partner-0.1.4.tar.gz",
-  "download_time": "2026-03-12T23:03:13.156922",
+  "download_filename": "airbyte_agent_amazon_seller_partner-0.1.5.tar.gz",
+  "download_time": "2026-03-23T20:06:18.772229",
   "package_url": "https://pypi.org/project/airbyte-agent-amazon-seller-partner/"
 }

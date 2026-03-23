@@ -1,0 +1,11 @@
+{
+  "name": "tm1-bedrock-py",
+  "version": "1.2.11",
+  "summary": "A python module for TM1 Bedrock.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tm1_bedrock_py-1.2.11.tar.gz",
+  "download_time": "2026-03-23T20:06:56.516181",
+  "package_url": "https://pypi.org/project/tm1-bedrock-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "opencosmo",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "OpenCosmo Python Toolkit",
   "author": "Patrick Wells, Will Hicks, Patricia Larsen, Michael Buehlmann",
   "license": null,
   "home_page": null,
-  "download_filename": "opencosmo-1.2.1.tar.gz",
-  "download_time": "2026-03-23T17:17:01.940875",
+  "download_filename": "opencosmo-1.2.2.tar.gz",
+  "download_time": "2026-03-23T20:06:53.763880",
   "package_url": "https://pypi.org/project/opencosmo/"
 }

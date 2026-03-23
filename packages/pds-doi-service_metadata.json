@@ -1,0 +1,11 @@
+{
+  "name": "pds-doi-service",
+  "version": "3.0.5",
+  "summary": "Digital Object Identifier service for the Planetary Data System",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/pds-doi-service",
+  "download_filename": "pds_doi_service-3.0.5-py3-none-any.whl",
+  "download_time": "2026-03-23T20:07:02.594348",
+  "package_url": "https://pypi.org/project/pds-doi-service/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ods-models-py",
+  "version": "0.1.37",
+  "summary": "Pydantic data models for ODS (Optikka Design System) - Python implementation",
+  "author": null,
+  "license": "PROPRIETARY",
+  "home_page": null,
+  "download_filename": "ods_models_py-0.1.37.tar.gz",
+  "download_time": "2026-03-23T20:06:39.627495",
+  "package_url": "https://pypi.org/project/ods-models-py/"
+}
