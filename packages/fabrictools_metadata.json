@@ -1,11 +1,11 @@
 {
   "name": "fabrictools",
-  "version": "0.4.12",
+  "version": "0.5.0",
   "summary": "User-friendly PySpark helpers for Microsoft Fabric Lakehouses and Warehouses",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fabrictools-0.4.12.tar.gz",
-  "download_time": "2026-03-20T16:49:38.416791",
+  "download_filename": "fabrictools-0.5.0.tar.gz",
+  "download_time": "2026-03-23T10:21:22.587969",
   "package_url": "https://pypi.org/project/fabrictools/"
 }

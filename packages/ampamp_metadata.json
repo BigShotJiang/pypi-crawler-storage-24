@@ -1,0 +1,11 @@
+{
+  "name": "ampamp",
+  "version": "0.1.2",
+  "summary": "A unified framework for Quantum Amplitude Amplification, QSVT, and VTAA.",
+  "author": "Varun Daiya, Yusuf Tahir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ampamp-0.1.2.tar.gz",
+  "download_time": "2026-03-23T10:21:23.106463",
+  "package_url": "https://pypi.org/project/ampamp/"
+}

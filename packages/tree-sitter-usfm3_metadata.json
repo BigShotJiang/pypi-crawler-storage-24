@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-usfm3",
+  "version": "3.2.0",
+  "summary": "Usfm3 grammar for tree-sitter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_usfm3-3.2.0.tar.gz",
+  "download_time": "2026-03-23T10:21:33.537377",
+  "package_url": "https://pypi.org/project/tree-sitter-usfm3/"
+}

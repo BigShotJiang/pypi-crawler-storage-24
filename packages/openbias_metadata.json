@@ -1,0 +1,11 @@
+{
+  "name": "openbias",
+  "version": "0.3.0",
+  "summary": "Reliability layer for AI agents - monitors workflow adherence and intervenes when agents deviate",
+  "author": "Open Bias Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openbias-0.3.0.tar.gz",
+  "download_time": "2026-03-23T10:20:48.132223",
+  "package_url": "https://pypi.org/project/openbias/"
+}

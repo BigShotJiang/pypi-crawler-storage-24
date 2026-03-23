@@ -1,0 +1,11 @@
+{
+  "name": "usfm-grammar",
+  "version": "3.2.0",
+  "summary": "Python parser for USFM files, based on tree-sitter-usfm3",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "usfm_grammar-3.2.0.tar.gz",
+  "download_time": "2026-03-23T10:21:34.576859",
+  "package_url": "https://pypi.org/project/usfm-grammar/"
+}

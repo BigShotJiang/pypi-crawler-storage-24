@@ -1,0 +1,11 @@
+{
+  "name": "table2db",
+  "version": "0.1.1",
+  "summary": "Convert tabular files (Excel, CSV, TSV) into clean, queryable SQLite databases",
+  "author": "swenyang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "table2db-0.1.1.tar.gz",
+  "download_time": "2026-03-23T10:21:18.957656",
+  "package_url": "https://pypi.org/project/table2db/"
+}

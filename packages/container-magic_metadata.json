@@ -1,11 +1,11 @@
 {
   "name": "container-magic",
-  "version": "3.1.3",
+  "version": "3.2.0",
   "summary": "A tool for rapidly creating containerised development environments",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "container_magic-3.1.3.tar.gz",
-  "download_time": "2026-03-23T09:19:00.344112",
+  "download_filename": "container_magic-3.2.0.tar.gz",
+  "download_time": "2026-03-23T10:21:09.061000",
   "package_url": "https://pypi.org/project/container-magic/"
 }

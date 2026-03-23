@@ -1,11 +1,11 @@
 {
   "name": "rpi-ctt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Raspberry Pi Camera Tuning Tool",
   "author": "Raspberry Pi",
   "license": null,
   "home_page": null,
-  "download_filename": "rpi_ctt-1.0.0.tar.gz",
-  "download_time": "2026-03-11T09:28:42.040978",
+  "download_filename": "rpi_ctt-1.0.1.tar.gz",
+  "download_time": "2026-03-23T10:21:28.320979",
   "package_url": "https://pypi.org/project/rpi-ctt/"
 }

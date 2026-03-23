@@ -1,0 +1,11 @@
+{
+  "name": "ebump",
+  "version": "0.1.1",
+  "summary": "Easy version bumping",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ebump-0.1.1.tar.gz",
+  "download_time": "2026-03-23T10:20:45.970040",
+  "package_url": "https://pypi.org/project/ebump/"
+}

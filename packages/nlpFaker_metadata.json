@@ -1,0 +1,11 @@
+{
+  "name": "nlpFaker",
+  "version": "2.0.1",
+  "summary": "Comprehensive fake data generator for Taiwanese (zh_TW) data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nlpfaker-2.0.1.tar.gz",
+  "download_time": "2026-03-23T10:20:59.142452",
+  "package_url": "https://pypi.org/project/nlpFaker/"
+}

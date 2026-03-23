@@ -1,11 +1,11 @@
 {
   "name": "agentweave-ai",
-  "version": "0.6.1",
+  "version": "0.8.0",
   "summary": "Multi-agent AI collaboration framework (Claude, Kimi, Gemini, Codex, and more)",
   "author": "gutohuida",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentweave_ai-0.6.1.tar.gz",
-  "download_time": "2026-03-22T11:50:33.227449",
+  "download_filename": "agentweave_ai-0.8.0.tar.gz",
+  "download_time": "2026-03-23T10:21:13.223793",
   "package_url": "https://pypi.org/project/agentweave-ai/"
 }

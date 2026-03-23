@@ -1,11 +1,11 @@
 {
   "name": "amasto",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amasto-0.2.0.tar.gz",
-  "download_time": "2026-03-21T20:26:00.828846",
+  "download_filename": "amasto-0.2.1.tar.gz",
+  "download_time": "2026-03-23T10:21:02.290517",
   "package_url": "https://pypi.org/project/amasto/"
 }

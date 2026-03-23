@@ -1,0 +1,11 @@
+{
+  "name": "sb3-contrib",
+  "version": "2.7.1",
+  "summary": "Contrib package of Stable Baselines3, experimental code.",
+  "author": "Antonin Raffin",
+  "license": "MIT",
+  "home_page": "https://github.com/Stable-Baselines-Team/stable-baselines3-contrib",
+  "download_filename": "sb3_contrib-2.7.1.tar.gz",
+  "download_time": "2026-03-23T10:20:47.057018",
+  "package_url": "https://pypi.org/project/sb3-contrib/"
+}

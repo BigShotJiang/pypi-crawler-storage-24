@@ -1,0 +1,11 @@
+{
+  "name": "qgis_plugin_tools",
+  "version": "1.0.0",
+  "summary": "A collection of helpful tools and widgets to aid QGIS plugin tool development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qgis_plugin_tools-1.0.0.tar.gz",
+  "download_time": "2026-03-23T10:21:14.261434",
+  "package_url": "https://pypi.org/project/qgis_plugin_tools/"
+}

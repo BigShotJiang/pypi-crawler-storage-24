@@ -1,0 +1,11 @@
+{
+  "name": "nsram",
+  "version": "0.1.0",
+  "summary": "NS-RAM: Neuro-Synaptic RAM simulator — floating-body transistor neuron/synapse modeling with charge-trapping plasticity",
+  "author": "Enimble Solutions AB",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nsram-0.1.0.tar.gz",
+  "download_time": "2026-03-23T10:21:34.056481",
+  "package_url": "https://pypi.org/project/nsram/"
+}

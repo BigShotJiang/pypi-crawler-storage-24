@@ -1,0 +1,11 @@
+{
+  "name": "dotplotter",
+  "version": "1.0.2",
+  "summary": "A python for plotting dot plots from blast results.",
+  "author": "Thomas J. Booth",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/DrBoothTJ/dotplotter",
+  "download_filename": "dotplotter-1.0.2.tar.gz",
+  "download_time": "2026-03-23T10:21:13.742104",
+  "package_url": "https://pypi.org/project/dotplotter/"
+}
