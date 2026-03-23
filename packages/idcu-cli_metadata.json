@@ -1,0 +1,11 @@
+{
+  "name": "idcu-cli",
+  "version": "1.0.0",
+  "summary": "IDCU CLI - an integrated development workflow command line toolkit",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "idcu_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-23T23:44:17.239649",
+  "package_url": "https://pypi.org/project/idcu-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-freshdesk",
-  "version": "0.1.12",
+  "version": "0.1.16",
   "summary": "Airbyte Freshdesk Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_freshdesk-0.1.12.tar.gz",
-  "download_time": "2026-03-09T20:52:33.985958",
+  "download_filename": "airbyte_agent_freshdesk-0.1.16.tar.gz",
+  "download_time": "2026-03-23T23:44:39.492323",
   "package_url": "https://pypi.org/project/airbyte-agent-freshdesk/"
 }

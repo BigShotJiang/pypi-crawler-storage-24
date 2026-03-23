@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-agent-zendesk-chat",
+  "version": "0.1.69",
+  "summary": "Airbyte Zendesk-Chat Connector for AI platforms",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "airbyte_agent_zendesk_chat-0.1.69.tar.gz",
+  "download_time": "2026-03-23T23:44:31.658423",
+  "package_url": "https://pypi.org/project/airbyte-agent-zendesk-chat/"
+}

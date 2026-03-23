@@ -1,0 +1,11 @@
+{
+  "name": "karat",
+  "version": "0.2.2",
+  "summary": "Evals-first prompt optimization. Label examples, get better prompts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "karat-0.2.2.tar.gz",
+  "download_time": "2026-03-23T23:44:16.205400",
+  "package_url": "https://pypi.org/project/karat/"
+}

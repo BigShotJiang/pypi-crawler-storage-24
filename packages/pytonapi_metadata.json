@@ -1,0 +1,11 @@
+{
+  "name": "pytonapi",
+  "version": "2.0.1",
+  "summary": "Python SDK for TONAPI — REST API, streaming, and webhooks for TON blockchain.",
+  "author": "nessshon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytonapi-2.0.1.tar.gz",
+  "download_time": "2026-03-23T23:44:20.854639",
+  "package_url": "https://pypi.org/project/pytonapi/"
+}

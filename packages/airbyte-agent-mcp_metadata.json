@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-mcp",
-  "version": "0.1.164",
+  "version": "0.1.165",
   "summary": "MCP server for Airbyte connectors - connect AI assistants to 500+ data sources",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "airbyte_agent_mcp-0.1.164.tar.gz",
-  "download_time": "2026-03-23T20:06:22.816267",
+  "download_filename": "airbyte_agent_mcp-0.1.165.tar.gz",
+  "download_time": "2026-03-23T23:44:40.013540",
   "package_url": "https://pypi.org/project/airbyte-agent-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "clawsy",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "Distributed AI agent worker CLI for Clawsy AgentHub",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clawsy-0.3.0.tar.gz",
-  "download_time": "2026-03-16T21:26:00.409491",
+  "download_filename": "clawsy-0.4.1.tar.gz",
+  "download_time": "2026-03-23T23:44:56.674398",
   "package_url": "https://pypi.org/project/clawsy/"
 }

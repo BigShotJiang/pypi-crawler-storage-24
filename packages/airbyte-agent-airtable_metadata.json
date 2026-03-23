@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-airtable",
-  "version": "0.1.46",
+  "version": "0.1.48",
   "summary": "Airbyte Airtable Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_airtable-0.1.46.tar.gz",
-  "download_time": "2026-03-12T23:03:05.365560",
+  "download_filename": "airbyte_agent_airtable-0.1.48.tar.gz",
+  "download_time": "2026-03-23T23:44:27.540378",
   "package_url": "https://pypi.org/project/airbyte-agent-airtable/"
 }

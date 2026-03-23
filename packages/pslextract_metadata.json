@@ -1,0 +1,11 @@
+{
+  "name": "pslextract",
+  "version": "1.0.0",
+  "summary": "Name parser based on Public Suffix List",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pslextract-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-23T23:44:52.458212",
+  "package_url": "https://pypi.org/project/pslextract/"
+}

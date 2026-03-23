@@ -1,0 +1,11 @@
+{
+  "name": "orca-mlips",
+  "version": "1.2.1",
+  "summary": "MLIP plugins for ORCA ExtTool (UMA, ORB, MACE, AIMNet2)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orca_mlips-1.2.1.tar.gz",
+  "download_time": "2026-03-23T23:44:56.162822",
+  "package_url": "https://pypi.org/project/orca-mlips/"
+}
