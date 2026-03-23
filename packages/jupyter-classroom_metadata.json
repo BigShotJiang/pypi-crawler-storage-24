@@ -1,11 +1,11 @@
 {
   "name": "jupyter-classroom",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Classroom management dashboard for JupyterHub",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_classroom-1.1.0.tar.gz",
-  "download_time": "2026-03-22T11:50:17.179602",
+  "download_filename": "jupyter_classroom-1.2.0.tar.gz",
+  "download_time": "2026-03-23T12:01:07.094214",
   "package_url": "https://pypi.org/project/jupyter-classroom/"
 }

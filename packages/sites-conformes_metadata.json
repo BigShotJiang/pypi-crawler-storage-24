@@ -1,11 +1,11 @@
 {
   "name": "sites-conformes",
-  "version": "2.5.3rc3",
+  "version": "2.5.3rc4",
   "summary": "Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le Système de design de l'État, accessible et responsive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sites_conformes-2.5.3rc3.tar.gz",
-  "download_time": "2026-03-23T11:16:36.618207",
+  "download_filename": "sites_conformes-2.5.3rc4.tar.gz",
+  "download_time": "2026-03-23T12:01:24.837969",
   "package_url": "https://pypi.org/project/sites-conformes/"
 }

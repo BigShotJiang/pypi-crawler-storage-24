@@ -1,0 +1,11 @@
+{
+  "name": "keynode",
+  "version": "0.1.0",
+  "summary": "Official Python SDK and CLI for KeyNode — AI compute on distributed GPUs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keynode-0.1.0.tar.gz",
+  "download_time": "2026-03-23T12:01:03.852997",
+  "package_url": "https://pypi.org/project/keynode/"
+}

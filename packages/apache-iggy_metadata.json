@@ -1,0 +1,11 @@
+{
+  "name": "apache-iggy",
+  "version": "0.7.0",
+  "summary": "Apache Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_iggy-0.7.0.tar.gz",
+  "download_time": "2026-03-23T12:01:22.580797",
+  "package_url": "https://pypi.org/project/apache-iggy/"
+}

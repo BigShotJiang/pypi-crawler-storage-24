@@ -1,0 +1,11 @@
+{
+  "name": "mobius-error-lib",
+  "version": "1.0.0",
+  "summary": "Standard exception handling library for Mobius Python microservices",
+  "author": "Mobius Platform Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mobius_error_lib-1.0.0.tar.gz",
+  "download_time": "2026-03-23T12:01:30.319486",
+  "package_url": "https://pypi.org/project/mobius-error-lib/"
+}

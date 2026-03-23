@@ -1,0 +1,11 @@
+{
+  "name": "nanoworks",
+  "version": "26.3.1",
+  "summary": "Nanoworks is a unified, high-level Python interface for conducting DFT, MD and ML calculations",
+  "author": "Sefer Bora Lisesivdin, Beyza Sarikavak-Lisesivdin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nanoworks-26.3.1.tar.gz",
+  "download_time": "2026-03-23T12:00:56.247252",
+  "package_url": "https://pypi.org/project/nanoworks/"
+}

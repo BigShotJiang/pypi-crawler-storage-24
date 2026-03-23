@@ -1,0 +1,11 @@
+{
+  "name": "sudokuai",
+  "version": "1.0.0",
+  "summary": "SudokuAI - LLM-powered Sudoku game and evaluation platform",
+  "author": "SudokuAI Team",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "sudokuai-1.0.0.tar.gz",
+  "download_time": "2026-03-23T12:01:18.877405",
+  "package_url": "https://pypi.org/project/sudokuai/"
+}

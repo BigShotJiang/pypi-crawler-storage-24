@@ -1,0 +1,11 @@
+{
+  "name": "pyfloe",
+  "version": "0.1.3",
+  "summary": "Zero-dependency lazy dataframe. Lo-fi data processing for Python.",
+  "author": "Edward van Eechoud",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfloe-0.1.3.tar.gz",
+  "download_time": "2026-03-23T12:01:03.282098",
+  "package_url": "https://pypi.org/project/pyfloe/"
+}

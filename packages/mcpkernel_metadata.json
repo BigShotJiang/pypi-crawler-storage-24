@@ -1,0 +1,11 @@
+{
+  "name": "mcpkernel",
+  "version": "0.1.1",
+  "summary": "Open-source MCP/A2A security gateway — policy enforcement, taint tracking, sandboxed execution, deterministic envelopes, and Sigstore audit for every AI agent tool call. OWASP ASI 2026 compliant.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpkernel-0.1.1.tar.gz",
+  "download_time": "2026-03-23T12:01:10.557013",
+  "package_url": "https://pypi.org/project/mcpkernel/"
+}

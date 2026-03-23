@@ -1,0 +1,11 @@
+{
+  "name": "rastre-sdk",
+  "version": "0.4.1",
+  "summary": "Python client for the Rastre audit trail API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rastre_sdk-0.4.1.tar.gz",
+  "download_time": "2026-03-23T12:00:53.391154",
+  "package_url": "https://pypi.org/project/rastre-sdk/"
+}
