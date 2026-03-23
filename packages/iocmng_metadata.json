@@ -1,0 +1,11 @@
+{
+  "name": "iocmng",
+  "version": "2.0.0",
+  "summary": "A pluggable task/job framework for IOC Manager applications with REST API",
+  "author": "INFN Beamline Controls",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iocmng-2.0.0.tar.gz",
+  "download_time": "2026-03-23T21:26:09.765604",
+  "package_url": "https://pypi.org/project/iocmng/"
+}

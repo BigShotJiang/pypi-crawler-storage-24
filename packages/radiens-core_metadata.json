@@ -1,11 +1,11 @@
 {
   "name": "radiens-core",
-  "version": "0.0.0b7",
+  "version": "0.0.1",
   "summary": "Python client for Radiens neuroscience platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "radiens_core-0.0.0b7.tar.gz",
-  "download_time": "2026-03-19T06:56:02.497011",
+  "download_filename": "radiens_core-0.0.1.tar.gz",
+  "download_time": "2026-03-23T21:26:39.814250",
   "package_url": "https://pypi.org/project/radiens-core/"
 }

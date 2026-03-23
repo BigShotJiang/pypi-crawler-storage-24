@@ -1,0 +1,11 @@
+{
+  "name": "invenio-users-resources",
+  "version": "10.4.1",
+  "summary": "Invenio module providing management APIs for users and roles/groups.",
+  "author": "CERN/TU Wien/JRC",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-users-resources",
+  "download_filename": "invenio_users_resources-10.4.1.tar.gz",
+  "download_time": "2026-03-23T21:26:04.644440",
+  "package_url": "https://pypi.org/project/invenio-users-resources/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mutwo.music",
+  "version": "0.30.1",
+  "summary": "music extension for event based framework for generative art",
+  "author": "Levin Eric Zimmermann",
+  "license": "GPL",
+  "home_page": "https://github.com/mutwo-org/mutwo.music",
+  "download_filename": "mutwo_music-0.30.1.tar.gz",
+  "download_time": "2026-03-23T21:26:48.178028",
+  "package_url": "https://pypi.org/project/mutwo.music/"
+}

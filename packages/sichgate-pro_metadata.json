@@ -1,0 +1,11 @@
+{
+  "name": "sichgate-pro",
+  "version": "0.2.3",
+  "summary": "AI red teaming for SLMs and LLMs — independent adversarial validation",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "sichgate_pro-0.2.3.tar.gz",
+  "download_time": "2026-03-23T21:26:18.227653",
+  "package_url": "https://pypi.org/project/sichgate-pro/"
+}

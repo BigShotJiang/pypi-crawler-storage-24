@@ -1,0 +1,11 @@
+{
+  "name": "shinkansen-anime-pahe-downloader",
+  "version": "1.0.0",
+  "summary": "Fast, reliable anime downloader for AnimePahe - built with lessons from autopahe",
+  "author": "Pasindu Janith",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shinkansen_anime_pahe_downloader-1.0.0.tar.gz",
+  "download_time": "2026-03-23T21:26:27.797706",
+  "package_url": "https://pypi.org/project/shinkansen-anime-pahe-downloader/"
+}

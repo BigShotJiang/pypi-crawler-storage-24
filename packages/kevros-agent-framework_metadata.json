@@ -1,0 +1,11 @@
+{
+  "name": "kevros-agent-framework",
+  "version": "0.1.5",
+  "summary": "Kevros governance middleware for Microsoft AutoGen and Semantic Kernel agents. Cryptographic action verification, intent binding, and hash-chained provenance for multi-agent workflows. Fail-closed by default.",
+  "author": null,
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "kevros_agent_framework-0.1.5.tar.gz",
+  "download_time": "2026-03-23T21:26:07.436092",
+  "package_url": "https://pypi.org/project/kevros-agent-framework/"
+}

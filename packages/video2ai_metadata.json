@@ -1,0 +1,11 @@
+{
+  "name": "video2ai",
+  "version": "0.1.1",
+  "summary": "Convert video to AI-ingestable format (frames + transcript + LLM analysis)",
+  "author": "Sameep Rehlan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "video2ai-0.1.1.tar.gz",
+  "download_time": "2026-03-23T21:26:51.812899",
+  "package_url": "https://pypi.org/project/video2ai/"
+}

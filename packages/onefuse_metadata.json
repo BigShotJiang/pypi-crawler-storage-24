@@ -1,0 +1,11 @@
+{
+  "name": "onefuse",
+  "version": "2026.1.1",
+  "summary": "OneFuse upstream provider package for Python",
+  "author": null,
+  "license": "Mozilla Public License 2.0 (MPL 2.0)",
+  "home_page": null,
+  "download_filename": "onefuse-2026.1.1.tar.gz",
+  "download_time": "2026-03-23T21:26:32.276657",
+  "package_url": "https://pypi.org/project/onefuse/"
+}

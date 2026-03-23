@@ -1,11 +1,11 @@
 {
   "name": "release-clean",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "summary": "Interactive Git release cleanup and checkout utility.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "release_clean-0.0.4.tar.gz",
-  "download_time": "2026-03-23T20:42:52.069468",
+  "download_filename": "release_clean-1.0.0.tar.gz",
+  "download_time": "2026-03-23T21:26:42.210187",
   "package_url": "https://pypi.org/project/release-clean/"
 }
