@@ -1,11 +1,11 @@
 {
   "name": "t-linter",
-  "version": "0.4.0",
+  "version": "0.5.2",
   "summary": "Intelligent syntax highlighting and validation for Python template strings (PEP 750)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "t_linter-0.4.0.tar.gz",
-  "download_time": "2026-03-23T01:53:51.843589",
+  "download_filename": "t_linter-0.5.2.tar.gz",
+  "download_time": "2026-03-23T06:00:40.881782",
   "package_url": "https://pypi.org/project/t-linter/"
 }

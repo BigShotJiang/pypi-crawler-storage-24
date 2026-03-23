@@ -1,0 +1,11 @@
+{
+  "name": "aromatools",
+  "version": "0.2.1",
+  "summary": "Python tools for aromaticity analysis using geometric and magnetic criteria",
+  "author": "Fernando Martinez-Villarino",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aromatools-0.2.1.tar.gz",
+  "download_time": "2026-03-23T06:00:58.829395",
+  "package_url": "https://pypi.org/project/aromatools/"
+}

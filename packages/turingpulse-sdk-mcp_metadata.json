@@ -1,0 +1,11 @@
+{
+  "name": "turingpulse-sdk-mcp",
+  "version": "1.4.1",
+  "summary": "TuringPulse SDK integration for Model Context Protocol (MCP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "turingpulse_sdk_mcp-1.4.1.tar.gz",
+  "download_time": "2026-03-23T06:01:10.794117",
+  "package_url": "https://pypi.org/project/turingpulse-sdk-mcp/"
+}

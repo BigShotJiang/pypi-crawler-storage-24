@@ -1,11 +1,11 @@
 {
   "name": "nuoyi",
-  "version": "0.2.9",
+  "version": "0.4.3",
   "summary": "A simple tool to transform PDF and DOCX to Markdown using marker-pdf",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nuoyi-0.2.9.tar.gz",
-  "download_time": "2026-03-19T11:54:26.033938",
+  "download_filename": "nuoyi-0.4.3.tar.gz",
+  "download_time": "2026-03-23T06:01:18.095677",
   "package_url": "https://pypi.org/project/nuoyi/"
 }

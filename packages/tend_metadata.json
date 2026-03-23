@@ -1,0 +1,11 @@
+{
+  "name": "tend",
+  "version": "0.0.1",
+  "summary": "Claude-powered CI for GitHub repos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tend-0.0.1.tar.gz",
+  "download_time": "2026-03-23T06:00:47.813882",
+  "package_url": "https://pypi.org/project/tend/"
+}

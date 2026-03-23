@@ -1,11 +1,11 @@
 {
   "name": "philiprehberger-server-monitor",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "System metrics collector for CPU, memory, disk, and network",
   "author": "Philip Rehberger",
   "license": null,
   "home_page": null,
-  "download_filename": "philiprehberger_server_monitor-0.1.4.tar.gz",
-  "download_time": "2026-03-16T20:37:03.203102",
+  "download_filename": "philiprehberger_server_monitor-0.1.8.tar.gz",
+  "download_time": "2026-03-23T06:01:22.188843",
   "package_url": "https://pypi.org/project/philiprehberger-server-monitor/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "turingpulse-sdk-bedrock",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "TuringPulse SDK integration for AWS Bedrock",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turingpulse_sdk_bedrock-1.5.1.tar.gz",
-  "download_time": "2026-03-21T09:59:42.936774",
+  "download_filename": "turingpulse_sdk_bedrock-1.5.2.tar.gz",
+  "download_time": "2026-03-23T06:01:11.818300",
   "package_url": "https://pypi.org/project/turingpulse-sdk-bedrock/"
 }

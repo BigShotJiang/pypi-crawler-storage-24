@@ -1,0 +1,11 @@
+{
+  "name": "velixar-llamaindex",
+  "version": "0.1.1",
+  "summary": "Velixar AI memory retriever for LlamaIndex",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "velixar_llamaindex-0.1.1.tar.gz",
+  "download_time": "2026-03-23T06:00:49.982497",
+  "package_url": "https://pypi.org/project/velixar-llamaindex/"
+}

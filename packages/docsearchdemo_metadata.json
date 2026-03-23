@@ -1,0 +1,11 @@
+{
+  "name": "docsearchdemo",
+  "version": "0.1.0",
+  "summary": "Keyword search tool in .doc documents",
+  "author": "L J",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docsearchdemo-0.1.0.tar.gz",
+  "download_time": "2026-03-23T06:01:05.168644",
+  "package_url": "https://pypi.org/project/docsearchdemo/"
+}

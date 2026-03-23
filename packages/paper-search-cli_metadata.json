@@ -1,0 +1,11 @@
+{
+  "name": "paper-search-cli",
+  "version": "1.0.3",
+  "summary": "CLI tool for searching and downloading academic papers from 20+ sources.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paper_search_cli-1.0.3.tar.gz",
+  "download_time": "2026-03-23T06:01:07.722666",
+  "package_url": "https://pypi.org/project/paper-search-cli/"
+}

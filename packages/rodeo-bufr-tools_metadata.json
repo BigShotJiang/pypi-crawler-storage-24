@@ -1,0 +1,11 @@
+{
+  "name": "rodeo-bufr-tools",
+  "version": "0.4.7",
+  "summary": "Tools for working with JSON-BUFR conversion in the E-SOH proejct.",
+  "author": "Istvan Sebök",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rodeo_bufr_tools-0.4.7.tar.gz",
+  "download_time": "2026-03-23T06:00:46.730533",
+  "package_url": "https://pypi.org/project/rodeo-bufr-tools/"
+}

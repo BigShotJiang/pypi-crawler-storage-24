@@ -1,0 +1,11 @@
+{
+  "name": "hyrandom",
+  "version": "1.0.4",
+  "summary": "High-performance, cryptographically secure hybrid PRNG library.",
+  "author": "Rayen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyrandom-1.0.4.tar.gz",
+  "download_time": "2026-03-23T06:00:43.014026",
+  "package_url": "https://pypi.org/project/hyrandom/"
+}

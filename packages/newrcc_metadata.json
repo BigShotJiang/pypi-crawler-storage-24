@@ -1,0 +1,11 @@
+{
+  "name": "newrcc",
+  "version": "0.5.2",
+  "summary": "A tool that can make your console output beautiful.",
+  "author": "RestRegular",
+  "license": null,
+  "home_page": null,
+  "download_filename": "newrcc-0.5.2.tar.gz",
+  "download_time": "2026-03-23T06:01:00.873644",
+  "package_url": "https://pypi.org/project/newrcc/"
+}
