@@ -1,11 +1,11 @@
 {
   "name": "codexlens-search",
-  "version": "0.6.3",
+  "version": "0.6.5",
   "summary": "Lightweight semantic code search engine — hybrid vector + FTS + AST graph + regex fusion + MCP server",
   "author": "codexlens-search contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codexlens_search-0.6.3.tar.gz",
-  "download_time": "2026-03-21T14:49:24.232467",
+  "download_filename": "codexlens_search-0.6.5.tar.gz",
+  "download_time": "2026-03-23T01:53:48.851147",
   "package_url": "https://pypi.org/project/codexlens-search/"
 }

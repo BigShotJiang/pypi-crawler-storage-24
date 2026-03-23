@@ -1,0 +1,11 @@
+{
+  "name": "dhl-mm",
+  "version": "0.2.1",
+  "summary": "Up to 913x faster Lie algebra products for all five exceptional algebras with differentiable PyTorch equivariant layers",
+  "author": "Timothy McGirl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dhl_mm-0.2.1.tar.gz",
+  "download_time": "2026-03-23T01:53:56.719038",
+  "package_url": "https://pypi.org/project/dhl-mm/"
+}

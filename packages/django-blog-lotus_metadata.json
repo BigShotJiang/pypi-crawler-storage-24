@@ -1,0 +1,11 @@
+{
+  "name": "django-blog-lotus",
+  "version": "0.9.7",
+  "summary": "A weblog application with Django.",
+  "author": "Emencia",
+  "license": "MIT",
+  "home_page": "https://github.com/emencia/django-blog-lotus",
+  "download_filename": "django_blog_lotus-0.9.7.tar.gz",
+  "download_time": "2026-03-23T01:54:26.941038",
+  "package_url": "https://pypi.org/project/django-blog-lotus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yolink-api",
+  "version": "0.6.3",
+  "summary": "A library to authenticate with yolink device",
+  "author": "YoSmart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yolink_api-0.6.3.tar.gz",
+  "download_time": "2026-03-23T01:53:53.453304",
+  "package_url": "https://pypi.org/project/yolink-api/"
+}

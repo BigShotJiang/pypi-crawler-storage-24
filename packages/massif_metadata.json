@@ -1,11 +1,11 @@
 {
   "name": "massif",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Fast analysis of massive-scale data produced with MassiveFold",
   "author": "Nessim Raouraoua",
   "license": null,
   "home_page": null,
-  "download_filename": "massif-0.3.1.tar.gz",
-  "download_time": "2026-03-14T20:25:31.979241",
+  "download_filename": "massif-0.4.0.tar.gz",
+  "download_time": "2026-03-23T01:54:19.733171",
   "package_url": "https://pypi.org/project/massif/"
 }

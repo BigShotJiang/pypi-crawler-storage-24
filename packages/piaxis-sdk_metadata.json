@@ -1,0 +1,11 @@
+{
+  "name": "piaxis-sdk",
+  "version": "0.2.1",
+  "summary": "Official Python SDK for the Piaxis partner API",
+  "author": "Piaxis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "piaxis_sdk-0.2.1.tar.gz",
+  "download_time": "2026-03-23T01:53:58.863941",
+  "package_url": "https://pypi.org/project/piaxis-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mutation-motif",
+  "version": "2026.3.23",
+  "summary": "mutation_motif, software for analyses of point mutations, see https://www.ncbi.nlm.nih.gov/pubmed/27974498",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mutation_motif-2026.3.23.tar.gz",
+  "download_time": "2026-03-23T01:54:22.423219",
+  "package_url": "https://pypi.org/project/mutation-motif/"
+}

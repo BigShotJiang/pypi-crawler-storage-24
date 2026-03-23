@@ -1,11 +1,11 @@
 {
   "name": "responder",
-  "version": "3.2.0",
+  "version": "3.4.1",
   "summary": "A familiar HTTP Service Framework for Python.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "responder-3.2.0.tar.gz",
-  "download_time": "2026-03-22T16:59:52.756145",
+  "download_filename": "responder-3.4.1.tar.gz",
+  "download_time": "2026-03-23T01:53:58.328328",
   "package_url": "https://pypi.org/project/responder/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "byexample",
+  "version": "11.0.0",
+  "summary": "Write snippets of code in C++, Python, Ruby, and others as documentation and execute them as regression tests.",
+  "author": "Di Paola Martin",
+  "license": "GNU GPLv3",
+  "home_page": "https://byexamples.github.io",
+  "download_filename": "byexample-11.0.0.tar.gz",
+  "download_time": "2026-03-23T01:54:09.305413",
+  "package_url": "https://pypi.org/project/byexample/"
+}

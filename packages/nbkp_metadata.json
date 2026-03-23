@@ -1,11 +1,11 @@
 {
   "name": "nbkp",
-  "version": "0.2.1",
+  "version": "0.7.1",
   "summary": "Nomad Backup: An rsync-based backup tool for nomadic setups where sources and destinations aren't always available — laptops on the move, removable drives, home servers behind changing networks. Sentinel files ensure backups only run when volumes are genuinely present, with optional btrfs or hard-link snapshots for point-in-time recovery.",
   "author": "Sami Dalouche",
   "license": null,
   "home_page": null,
-  "download_filename": "nbkp-0.2.1.tar.gz",
-  "download_time": "2026-03-10T03:40:19.713481",
+  "download_filename": "nbkp-0.7.1.tar.gz",
+  "download_time": "2026-03-23T01:54:01.619628",
   "package_url": "https://pypi.org/project/nbkp/"
 }
