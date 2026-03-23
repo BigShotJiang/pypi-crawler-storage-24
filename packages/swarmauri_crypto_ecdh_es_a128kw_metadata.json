@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_crypto_ecdh_es_a128kw",
+  "version": "0.4.0.dev5",
+  "summary": "ECDH-ES+A128KW crypto provider for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_crypto_ecdh_es_a128kw-0.4.0.dev5.tar.gz",
+  "download_time": "2026-03-23T08:15:08.358770",
+  "package_url": "https://pypi.org/project/swarmauri_crypto_ecdh_es_a128kw/"
+}

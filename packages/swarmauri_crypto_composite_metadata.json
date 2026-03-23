@@ -1,11 +1,11 @@
 {
   "name": "swarmauri_crypto_composite",
-  "version": "0.2.0.dev13",
+  "version": "0.3.0.dev5",
   "summary": "Algorithm-routing crypto provider for Swarmauri",
   "author": "Jacob Stewart",
   "license": null,
   "home_page": null,
-  "download_filename": "swarmauri_crypto_composite-0.2.0.dev13.tar.gz",
-  "download_time": "2026-03-20T08:00:26.615484",
+  "download_filename": "swarmauri_crypto_composite-0.3.0.dev5.tar.gz",
+  "download_time": "2026-03-23T08:15:11.033047",
   "package_url": "https://pypi.org/project/swarmauri_crypto_composite/"
 }

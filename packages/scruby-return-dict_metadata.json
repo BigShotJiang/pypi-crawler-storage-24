@@ -1,0 +1,11 @@
+{
+  "name": "scruby-return-dict",
+  "version": "0.2.7",
+  "summary": "Plugin for Scruby - In search methods, returns results in the form of dictionaries.",
+  "author": "kebasyaty",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scruby_return_dict-0.2.7-py3-none-any.whl",
+  "download_time": "2026-03-23T08:15:01.542716",
+  "package_url": "https://pypi.org/project/scruby-return-dict/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_crypto_jwe",
+  "version": "0.3.0.dev5",
+  "summary": "RFC 7516/7518 compliant JWE crypto provider for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_crypto_jwe-0.3.0.dev5.tar.gz",
+  "download_time": "2026-03-23T08:15:08.893853",
+  "package_url": "https://pypi.org/project/swarmauri_crypto_jwe/"
+}

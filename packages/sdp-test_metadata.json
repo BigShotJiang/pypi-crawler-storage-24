@@ -1,0 +1,11 @@
+{
+  "name": "sdp-test",
+  "version": "0.2.0",
+  "summary": "Declarative unit testing for Spark Declarative Pipelines (SDP) and Lakeflow Declarative Pipelines (LDP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdp_test-0.2.0.tar.gz",
+  "download_time": "2026-03-23T08:14:55.554051",
+  "package_url": "https://pypi.org/project/sdp-test/"
+}

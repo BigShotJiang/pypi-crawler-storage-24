@@ -1,0 +1,11 @@
+{
+  "name": "islo",
+  "version": "0.1.0",
+  "summary": "Typed Python SDK for the Islo Web API",
+  "author": "Islo Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "islo-0.1.0.tar.gz",
+  "download_time": "2026-03-23T08:15:05.133080",
+  "package_url": "https://pypi.org/project/islo/"
+}

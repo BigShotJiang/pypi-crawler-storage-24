@@ -1,0 +1,11 @@
+{
+  "name": "azure-synapse-artifacts",
+  "version": "0.22.0",
+  "summary": "Microsoft Azure Synapse Artifacts Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_synapse_artifacts-0.22.0.tar.gz",
+  "download_time": "2026-03-23T08:14:46.782417",
+  "package_url": "https://pypi.org/project/azure-synapse-artifacts/"
+}

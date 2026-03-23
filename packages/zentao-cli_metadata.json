@@ -1,0 +1,11 @@
+{
+  "name": "zentao-cli",
+  "version": "1.2.0",
+  "summary": "禅道项目管理 CLI - 任务查询、创建、编辑、工时记录、6R报表，可集成 OpenClaw",
+  "author": "Bao Xie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zentao_cli-1.2.0.tar.gz",
+  "download_time": "2026-03-23T08:14:36.748477",
+  "package_url": "https://pypi.org/project/zentao-cli/"
+}

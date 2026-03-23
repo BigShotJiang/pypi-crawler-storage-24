@@ -1,11 +1,11 @@
 {
   "name": "swarmauri_signing_openpgp",
-  "version": "0.1.0.dev36",
+  "version": "0.1.0.dev41",
   "summary": "OpenPGP signer stub registered on the Swarmauri SigningBase registry",
   "author": "Jacob Stewart",
   "license": null,
   "home_page": null,
-  "download_filename": "swarmauri_signing_openpgp-0.1.0.dev36.tar.gz",
-  "download_time": "2026-03-20T06:13:49.444160",
+  "download_filename": "swarmauri_signing_openpgp-0.1.0.dev41.tar.gz",
+  "download_time": "2026-03-23T08:14:57.168172",
   "package_url": "https://pypi.org/project/swarmauri_signing_openpgp/"
 }

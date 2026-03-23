@@ -1,0 +1,11 @@
+{
+  "name": "harness-ai",
+  "version": "0.1.0",
+  "summary": "AI-native 通用自动化流水线框架，内置 Claude Code runner",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "harness_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-23T08:14:53.413870",
+  "package_url": "https://pypi.org/project/harness-ai/"
+}

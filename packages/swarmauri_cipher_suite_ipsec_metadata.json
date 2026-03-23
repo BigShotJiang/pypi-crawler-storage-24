@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_cipher_suite_ipsec",
+  "version": "0.2.0.dev5",
+  "summary": "IPsec / IKE cipher suite skeleton for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_cipher_suite_ipsec-0.2.0.dev5.tar.gz",
+  "download_time": "2026-03-23T08:15:20.113157",
+  "package_url": "https://pypi.org/project/swarmauri_cipher_suite_ipsec/"
+}

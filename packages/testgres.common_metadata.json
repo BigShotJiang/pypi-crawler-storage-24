@@ -1,0 +1,11 @@
+{
+  "name": "testgres.common",
+  "version": "1.0.3",
+  "summary": "Testgres common code",
+  "author": null,
+  "license": "PostgreSQL",
+  "home_page": null,
+  "download_filename": "testgres_common-1.0.3.tar.gz",
+  "download_time": "2026-03-23T08:14:46.241211",
+  "package_url": "https://pypi.org/project/testgres.common/"
+}
