@@ -1,0 +1,11 @@
+{
+  "name": "modelhealth",
+  "version": "0.3.0",
+  "summary": "Python SDK for biomechanical analysis from smartphone videos",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "modelhealth-0.3.0-cp311-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-03-23T14:19:38.230482",
+  "package_url": "https://pypi.org/project/modelhealth/"
+}

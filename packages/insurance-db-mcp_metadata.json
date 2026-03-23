@@ -1,11 +1,11 @@
 {
   "name": "insurance-db-mcp",
-  "version": "1.2.1",
+  "version": "1.5.1",
   "summary": "MCP Tool for Natural Language Database Operations on Insurance DB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "insurance_db_mcp-1.2.1.tar.gz",
-  "download_time": "2026-03-23T09:18:49.786743",
+  "download_filename": "insurance_db_mcp-1.5.1.tar.gz",
+  "download_time": "2026-03-23T14:19:28.944766",
   "package_url": "https://pypi.org/project/insurance-db-mcp/"
 }

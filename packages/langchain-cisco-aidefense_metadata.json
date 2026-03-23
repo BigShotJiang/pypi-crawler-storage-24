@@ -1,0 +1,11 @@
+{
+  "name": "langchain-cisco-aidefense",
+  "version": "1.0.0",
+  "summary": "Cisco AI Defense middleware for LangChain agents — runtime security inspection of LLM inputs/outputs and tool/MCP calls",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_cisco_aidefense-1.0.0.tar.gz",
+  "download_time": "2026-03-23T14:19:50.667490",
+  "package_url": "https://pypi.org/project/langchain-cisco-aidefense/"
+}

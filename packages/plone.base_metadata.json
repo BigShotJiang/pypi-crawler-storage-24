@@ -1,0 +1,11 @@
+{
+  "name": "plone.base",
+  "version": "3.1.2",
+  "summary": "Plone Interface contracts, plus basic features and utilities",
+  "author": "Jens W. Klein",
+  "license": "GPLv2",
+  "home_page": "https://github.com/plone/plone.base",
+  "download_filename": "plone_base-3.1.2.tar.gz",
+  "download_time": "2026-03-23T14:19:05.327819",
+  "package_url": "https://pypi.org/project/plone.base/"
+}

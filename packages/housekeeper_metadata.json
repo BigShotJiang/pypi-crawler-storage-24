@@ -1,0 +1,11 @@
+{
+  "name": "housekeeper",
+  "version": "4.13.16",
+  "summary": "File data orchestrator",
+  "author": "henrikstranneheim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "housekeeper-4.13.16.tar.gz",
+  "download_time": "2026-03-23T14:19:07.448321",
+  "package_url": "https://pypi.org/project/housekeeper/"
+}

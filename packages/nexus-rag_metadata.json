@@ -1,11 +1,11 @@
 {
   "name": "nexus-rag",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Motor Central Python do Nexus RAG",
   "author": "Guilherme Souza",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexus_rag-0.1.0.tar.gz",
-  "download_time": "2026-03-19T19:21:43.553440",
+  "download_filename": "nexus_rag-0.1.2.tar.gz",
+  "download_time": "2026-03-23T14:19:21.026402",
   "package_url": "https://pypi.org/project/nexus-rag/"
 }

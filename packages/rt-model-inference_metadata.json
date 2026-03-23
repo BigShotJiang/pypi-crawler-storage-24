@@ -1,0 +1,11 @@
+{
+  "name": "rt-model-inference",
+  "version": "1.0",
+  "summary": "A reference implementation of the real-time model inference algorithms implemented in LiME",
+  "author": "Björn Brandenburg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rt_model_inference-1.0.tar.gz",
+  "download_time": "2026-03-23T14:19:14.045386",
+  "package_url": "https://pypi.org/project/rt-model-inference/"
+}

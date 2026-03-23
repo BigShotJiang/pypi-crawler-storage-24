@@ -1,0 +1,11 @@
+{
+  "name": "peaky-peek-server",
+  "version": "0.1.0",
+  "summary": "Self-hosted server for Agent Debugger — FastAPI backend, SQLite/Postgres storage, SSE streaming, and React UI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "peaky_peek_server-0.1.0.tar.gz",
+  "download_time": "2026-03-23T14:19:25.803914",
+  "package_url": "https://pypi.org/project/peaky-peek-server/"
+}

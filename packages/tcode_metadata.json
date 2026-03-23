@@ -1,11 +1,11 @@
 {
   "name": "tcode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A terminal-native AI coding agent. Provider-agnostic.",
   "author": "Erickrus",
   "license": null,
   "home_page": null,
-  "download_filename": "tcode-0.0.1.tar.gz",
-  "download_time": "2026-03-21T12:03:27.399810",
+  "download_filename": "tcode-0.0.2.tar.gz",
+  "download_time": "2026-03-23T14:19:25.291199",
   "package_url": "https://pypi.org/project/tcode/"
 }

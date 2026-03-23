@@ -1,0 +1,11 @@
+{
+  "name": "totp-gui",
+  "version": "0.9.0",
+  "summary": "Create TOTP authentication code for 2FA and copy it to the clipboard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "totp_gui-0.9.0.tar.gz",
+  "download_time": "2026-03-23T14:19:45.453091",
+  "package_url": "https://pypi.org/project/totp-gui/"
+}

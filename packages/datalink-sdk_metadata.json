@@ -1,0 +1,11 @@
+{
+  "name": "datalink-sdk",
+  "version": "1.0.0",
+  "summary": "A lightweight, unified database connector SDK for Python.",
+  "author": "DataLink SDK Contributors",
+  "license": null,
+  "home_page": "https://github.com/rishabhsingh06029/datalink_sdk",
+  "download_filename": "datalink_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-23T14:19:41.835554",
+  "package_url": "https://pypi.org/project/datalink-sdk/"
+}

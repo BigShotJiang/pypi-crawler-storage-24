@@ -1,11 +1,11 @@
 {
   "name": "lfm-physics",
-  "version": "0.4.1",
+  "version": "1.2.0",
   "summary": "Lattice Field Medium physics simulation library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lfm_physics-0.4.1.tar.gz",
-  "download_time": "2026-03-21T03:40:44.218444",
+  "download_filename": "lfm_physics-1.2.0.tar.gz",
+  "download_time": "2026-03-23T14:19:11.961107",
   "package_url": "https://pypi.org/project/lfm-physics/"
 }

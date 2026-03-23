@@ -1,0 +1,11 @@
+{
+  "name": "synthyverse",
+  "version": "0.1.6",
+  "summary": "Synthetic data generation and evaluation library",
+  "author": "Jim Achterberg, Saif Ul Islam, Zia Ur Rehman",
+  "license": null,
+  "home_page": "https://github.com/synthyverse/synthyverse",
+  "download_filename": "synthyverse-0.1.6.tar.gz",
+  "download_time": "2026-03-23T14:19:04.288307",
+  "package_url": "https://pypi.org/project/synthyverse/"
+}
