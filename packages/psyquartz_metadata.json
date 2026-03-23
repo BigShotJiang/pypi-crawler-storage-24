@@ -1,0 +1,11 @@
+{
+  "name": "psyquartz",
+  "version": "0.2.3",
+  "summary": "A high-performance clock and sleep library for Python, written in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "psyquartz-0.2.3.tar.gz",
+  "download_time": "2026-03-23T11:17:01.655921",
+  "package_url": "https://pypi.org/project/psyquartz/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cadwyn",
-  "version": "6.1.0",
+  "version": "6.1.1",
   "summary": "Production-ready community-driven modern Stripe-like API versioning in FastAPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cadwyn-6.1.0.tar.gz",
-  "download_time": "2026-03-22T14:11:52.075801",
+  "download_filename": "cadwyn-6.1.1.tar.gz",
+  "download_time": "2026-03-23T11:17:06.855714",
   "package_url": "https://pypi.org/project/cadwyn/"
 }

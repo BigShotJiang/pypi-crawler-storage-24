@@ -1,11 +1,11 @@
 {
   "name": "uniovi-simur-wearablepermed-predictor",
-  "version": "1.2.0",
+  "version": "1.8.0",
   "summary": "Uniovi Simur WearablePerMed Predictor.",
   "author": "Miguel Salinas Gancedo",
   "license": "MIT",
   "home_page": "https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-predictor.git",
-  "download_filename": "uniovi_simur_wearablepermed_predictor-1.2.0.tar.gz",
-  "download_time": "2026-03-20T12:05:01.892015",
+  "download_filename": "uniovi_simur_wearablepermed_predictor-1.8.0.tar.gz",
+  "download_time": "2026-03-23T11:17:04.249869",
   "package_url": "https://pypi.org/project/uniovi-simur-wearablepermed-predictor/"
 }

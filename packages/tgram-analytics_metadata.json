@@ -1,0 +1,11 @@
+{
+  "name": "tgram-analytics",
+  "version": "0.1.0",
+  "summary": "Lightweight Python SDK for tgram-analytics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tgram_analytics-0.1.0.tar.gz",
+  "download_time": "2026-03-23T11:16:59.063698",
+  "package_url": "https://pypi.org/project/tgram-analytics/"
+}

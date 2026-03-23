@@ -1,11 +1,11 @@
 {
   "name": "kagent-openai",
-  "version": "0.7.23",
+  "version": "0.8.0",
   "summary": "OpenAI integration for KAgent with A2A server support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagent_openai-0.7.23.tar.gz",
-  "download_time": "2026-03-11T18:35:28.344131",
+  "download_filename": "kagent_openai-0.8.0.tar.gz",
+  "download_time": "2026-03-23T11:16:57.001545",
   "package_url": "https://pypi.org/project/kagent-openai/"
 }

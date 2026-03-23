@@ -1,0 +1,11 @@
+{
+  "name": "nodeforge",
+  "version": "0.5.1",
+  "summary": "Securely bootstrap Linux servers with auditable plans, generated ops docs, and encrypted local inventory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nodeforge-0.5.1.tar.gz",
+  "download_time": "2026-03-23T11:17:05.296381",
+  "package_url": "https://pypi.org/project/nodeforge/"
+}

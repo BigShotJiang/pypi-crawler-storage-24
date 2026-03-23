@@ -1,0 +1,11 @@
+{
+  "name": "platform-buildingblocks",
+  "version": "1.0.0",
+  "summary": "TimeChamp Platform Building Blocks for Python - Authentication, Multi-Tenancy, and Contracts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "platform_buildingblocks-1.0.0.tar.gz",
+  "download_time": "2026-03-23T11:17:10.490158",
+  "package_url": "https://pypi.org/project/platform-buildingblocks/"
+}

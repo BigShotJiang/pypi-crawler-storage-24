@@ -1,0 +1,11 @@
+{
+  "name": "mmcterm",
+  "version": "0.2.4",
+  "summary": "Serial over IPMB terminal for DESY MMCs",
+  "author": "Patrick Huesmann",
+  "license": "BSD",
+  "home_page": "https://techlab.desy.de",
+  "download_filename": "mmcterm-0.2.4.tar.gz",
+  "download_time": "2026-03-23T11:17:11.525308",
+  "package_url": "https://pypi.org/project/mmcterm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OpenClaw-env-manager",
+  "version": "1.1.1",
+  "summary": "OpenClaw-env-manager: declarative Dockerized environments for OpenClaw agents",
+  "author": "Codex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openclaw_env_manager-1.1.1.tar.gz",
+  "download_time": "2026-03-23T11:16:47.636346",
+  "package_url": "https://pypi.org/project/OpenClaw-env-manager/"
+}

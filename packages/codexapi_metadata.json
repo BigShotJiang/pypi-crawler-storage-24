@@ -1,11 +1,11 @@
 {
   "name": "codexapi",
-  "version": "0.12.2",
+  "version": "0.12.4",
   "summary": "Minimal Python API for running the Codex CLI.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codexapi-0.12.2.tar.gz",
-  "download_time": "2026-03-15T16:28:18.664237",
+  "download_filename": "codexapi-0.12.4.tar.gz",
+  "download_time": "2026-03-23T11:17:02.694334",
   "package_url": "https://pypi.org/project/codexapi/"
 }

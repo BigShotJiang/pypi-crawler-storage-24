@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk-constructs",
+  "version": "2.44.3",
+  "summary": "AWS CDK constructs",
+  "author": "author",
+  "license": null,
+  "home_page": "https://bitbucket.org/cioapps/aws-cdk-constructs",
+  "download_filename": "aws_cdk_constructs-2.44.3.tar.gz",
+  "download_time": "2026-03-23T11:16:27.641118",
+  "package_url": "https://pypi.org/project/aws-cdk-constructs/"
+}

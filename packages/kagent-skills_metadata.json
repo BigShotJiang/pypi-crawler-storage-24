@@ -1,11 +1,11 @@
 {
   "name": "kagent-skills",
-  "version": "0.7.23",
+  "version": "0.8.0",
   "summary": "Core library for discovering and loading KAgent skills.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagent_skills-0.7.23.tar.gz",
-  "download_time": "2026-03-11T18:35:25.231857",
+  "download_filename": "kagent_skills-0.8.0.tar.gz",
+  "download_time": "2026-03-23T11:16:54.408500",
   "package_url": "https://pypi.org/project/kagent-skills/"
 }
