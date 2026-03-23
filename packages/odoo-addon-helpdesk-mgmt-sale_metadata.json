@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-mgmt-sale",
+  "version": "18.0.2.1.0",
+  "summary": "Add the option to select project in the sale orders.",
+  "author": "Tecnativa,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_mgmt_sale-18.0.2.1.0-py3-none-any.whl",
+  "download_time": "2026-03-23T16:23:18.026997",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-mgmt-sale/"
+}

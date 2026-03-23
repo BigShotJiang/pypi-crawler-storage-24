@@ -1,0 +1,11 @@
+{
+  "name": "databricks-labs-lsql",
+  "version": "0.17.0",
+  "summary": "Lightweight stateless SQL execution for Databricks with minimal dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databricks_labs_lsql-0.17.0.tar.gz",
+  "download_time": "2026-03-23T16:23:38.136583",
+  "package_url": "https://pypi.org/project/databricks-labs-lsql/"
+}

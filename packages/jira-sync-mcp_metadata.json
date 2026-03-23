@@ -1,0 +1,11 @@
+{
+  "name": "jira-sync-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Jira Sync App — exposes Jira issues from a local PostgreSQL mirror via FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jira_sync_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-23T16:23:45.795456",
+  "package_url": "https://pypi.org/project/jira-sync-mcp/"
+}

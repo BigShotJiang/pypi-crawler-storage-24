@@ -1,0 +1,11 @@
+{
+  "name": "EBC-Measurements",
+  "version": "1.3.0",
+  "summary": "All-in-One Toolbox for Measurement Data Acquisition and Data Logging",
+  "author": "RWTH Aachen University, E.ON Energy Research Center, Institute for Energy Efficient Buildings and Indoor Climate",
+  "license": "MIT",
+  "home_page": "https://github.com/RWTH-EBC/EBC_Measurements",
+  "download_filename": "ebc_measurements-1.3.0.tar.gz",
+  "download_time": "2026-03-23T16:23:31.469039",
+  "package_url": "https://pypi.org/project/EBC-Measurements/"
+}

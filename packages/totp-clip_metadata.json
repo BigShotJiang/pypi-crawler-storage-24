@@ -1,0 +1,11 @@
+{
+  "name": "totp-clip",
+  "version": "0.9.3",
+  "summary": "Create TOTP authentication code for 2FA and copy it to the clipboard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "totp_clip-0.9.3.tar.gz",
+  "download_time": "2026-03-23T16:23:22.759063",
+  "package_url": "https://pypi.org/project/totp-clip/"
+}

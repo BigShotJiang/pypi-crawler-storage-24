@@ -1,0 +1,11 @@
+{
+  "name": "pttechnologies",
+  "version": "0.0.41",
+  "summary": "Testing tool for identifying technologies used by web applications",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "pttechnologies-0.0.41.tar.gz",
+  "download_time": "2026-03-23T16:23:42.740797",
+  "package_url": "https://pypi.org/project/pttechnologies/"
+}

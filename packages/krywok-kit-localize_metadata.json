@@ -1,0 +1,11 @@
+{
+  "name": "krywok-kit-localize",
+  "version": "1.0.0",
+  "summary": "Krywok Kit Localize provides thread-safe locale management using context variables. It enables concurrent execution with different locale settings per context.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "krywok_kit_localize-1.0.0.tar.gz",
+  "download_time": "2026-03-23T16:23:24.818142",
+  "package_url": "https://pypi.org/project/krywok-kit-localize/"
+}

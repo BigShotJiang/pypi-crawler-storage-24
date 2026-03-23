@@ -1,0 +1,11 @@
+{
+  "name": "codesentry",
+  "version": "1.0.2",
+  "summary": "AI code security scanner - 18 patterns",
+  "author": "Jenish.J",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codesentry-1.0.2.tar.gz",
+  "download_time": "2026-03-23T16:23:44.266149",
+  "package_url": "https://pypi.org/project/codesentry/"
+}

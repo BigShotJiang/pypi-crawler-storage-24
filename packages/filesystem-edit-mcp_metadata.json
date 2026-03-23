@@ -1,11 +1,11 @@
 {
   "name": "filesystem-edit-mcp",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "MCP server for filesystem operations with encoding support and umlaut fixing",
   "author": "Jonathan Harder",
   "license": null,
   "home_page": null,
-  "download_filename": "filesystem_edit_mcp-1.2.0.tar.gz",
-  "download_time": "2026-03-23T15:22:49.134109",
+  "download_filename": "filesystem_edit_mcp-1.2.2.tar.gz",
+  "download_time": "2026-03-23T16:23:25.330562",
   "package_url": "https://pypi.org/project/filesystem-edit-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "krywok-pipeline-plugin-i18n",
+  "version": "1.0.0",
+  "summary": "Krywok Pipeline Plugin I18n is a plugin for Krywok Pipeline that provides i18n support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "krywok_pipeline_plugin_i18n-1.0.0.tar.gz",
+  "download_time": "2026-03-23T16:23:16.418437",
+  "package_url": "https://pypi.org/project/krywok-pipeline-plugin-i18n/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vpn-mcp",
-  "version": "0.2.6",
+  "version": "0.3.1",
   "summary": "VPN MCP server — transparent proxy for Claude Code via xray exit nodes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vpn_mcp-0.2.6.tar.gz",
-  "download_time": "2026-03-22T19:43:16.333518",
+  "download_filename": "vpn_mcp-0.3.1.tar.gz",
+  "download_time": "2026-03-23T16:23:17.515590",
   "package_url": "https://pypi.org/project/vpn-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nicopal",
-  "version": "0.3.4",
+  "version": "0.4.4",
   "summary": "Nicopal: colour palettes designed by a protanopic student.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nicopal-0.3.4.tar.gz",
-  "download_time": "2026-03-13T18:09:33.301079",
+  "download_filename": "nicopal-0.4.4.tar.gz",
+  "download_time": "2026-03-23T16:23:48.346822",
   "package_url": "https://pypi.org/project/nicopal/"
 }
