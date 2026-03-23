@@ -1,0 +1,11 @@
+{
+  "name": "heckler",
+  "version": "1.0.0",
+  "summary": "Detect dangerous invisible Unicode characters in source code and dependencies",
+  "author": "heckler contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "heckler-1.0.0.tar.gz",
+  "download_time": "2026-03-23T23:05:02.844276",
+  "package_url": "https://pypi.org/project/heckler/"
+}

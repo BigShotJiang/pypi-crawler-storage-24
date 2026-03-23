@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-ultravox",
-  "version": "1.4.5",
+  "version": "1.5.1",
   "summary": "Agent Framework plugin for services from Ultravox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_ultravox-1.4.5.tar.gz",
-  "download_time": "2026-03-11T07:13:15.542768",
+  "download_filename": "livekit_plugins_ultravox-1.5.1.tar.gz",
+  "download_time": "2026-03-23T23:05:15.303797",
   "package_url": "https://pypi.org/project/livekit-plugins-ultravox/"
 }

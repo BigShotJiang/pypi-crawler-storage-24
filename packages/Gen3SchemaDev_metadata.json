@@ -1,11 +1,11 @@
 {
   "name": "Gen3SchemaDev",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "summary": "Tool for data modelling in Gen3",
   "author": "JoshuaHarris391",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "gen3schemadev-2.3.4.tar.gz",
-  "download_time": "2026-03-23T04:30:33.875673",
+  "download_filename": "gen3schemadev-2.3.5.tar.gz",
+  "download_time": "2026-03-23T23:05:06.658379",
   "package_url": "https://pypi.org/project/Gen3SchemaDev/"
 }

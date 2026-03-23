@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-groq",
+  "version": "1.5.1",
+  "summary": "Groq inference plugin for LiveKit Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_groq-1.5.1.tar.gz",
+  "download_time": "2026-03-23T23:05:35.430565",
+  "package_url": "https://pypi.org/project/livekit-plugins-groq/"
+}

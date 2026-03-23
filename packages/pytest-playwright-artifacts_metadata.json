@@ -1,0 +1,11 @@
+{
+  "name": "pytest-playwright-artifacts",
+  "version": "0.3.1",
+  "summary": "Capture screenshots, HTML, and console logs on Playwright test failures",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_playwright_artifacts-0.3.1.tar.gz",
+  "download_time": "2026-03-23T23:04:58.023880",
+  "package_url": "https://pypi.org/project/pytest-playwright-artifacts/"
+}

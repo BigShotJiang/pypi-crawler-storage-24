@@ -1,11 +1,11 @@
 {
   "name": "parsl",
-  "version": "2026.3.9",
+  "version": "2026.3.23",
   "summary": "Simple data dependent workflows in Python",
   "author": "The Parsl Team",
   "license": "Apache 2.0",
   "home_page": "https://github.com/Parsl/parsl",
-  "download_filename": "parsl-2026.3.9.tar.gz",
-  "download_time": "2026-03-09T22:54:29.961417",
+  "download_filename": "parsl-2026.3.23.tar.gz",
+  "download_time": "2026-03-23T23:05:13.708966",
   "package_url": "https://pypi.org/project/parsl/"
 }

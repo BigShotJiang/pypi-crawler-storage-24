@@ -1,0 +1,11 @@
+{
+  "name": "daz-agent-sdk",
+  "version": "0.2.7",
+  "summary": "Provider-agnostic AI library with tier-based routing and automatic fallback.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daz_agent_sdk-0.2.7.tar.gz",
+  "download_time": "2026-03-23T23:05:03.921533",
+  "package_url": "https://pypi.org/project/daz-agent-sdk/"
+}

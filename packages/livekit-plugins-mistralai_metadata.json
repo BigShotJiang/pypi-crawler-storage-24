@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-mistralai",
+  "version": "1.5.1",
+  "summary": "LiveKit Agents Plugin for services from AWS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_mistralai-1.5.1.tar.gz",
+  "download_time": "2026-03-23T23:05:28.030635",
+  "package_url": "https://pypi.org/project/livekit-plugins-mistralai/"
+}

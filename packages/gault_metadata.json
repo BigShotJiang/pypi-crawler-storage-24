@@ -1,0 +1,11 @@
+{
+  "name": "gault",
+  "version": "0.14.0",
+  "summary": "A lightweight Object Document Mapper for MongoDB",
+  "author": "Xavier Barbosa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gault-0.14.0.tar.gz",
+  "download_time": "2026-03-23T23:05:00.181284",
+  "package_url": "https://pypi.org/project/gault/"
+}

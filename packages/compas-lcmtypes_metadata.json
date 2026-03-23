@@ -1,0 +1,11 @@
+{
+  "name": "compas-lcmtypes",
+  "version": "0.4.0",
+  "summary": "CoMPAS LCM types",
+  "author": "CoMPAS Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "compas_lcmtypes-0.4.0.tar.gz",
+  "download_time": "2026-03-23T23:04:51.187546",
+  "package_url": "https://pypi.org/project/compas-lcmtypes/"
+}

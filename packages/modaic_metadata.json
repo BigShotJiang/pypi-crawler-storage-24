@@ -1,11 +1,11 @@
 {
   "name": "modaic",
-  "version": "0.24.1",
+  "version": "0.25.0",
   "summary": "Modaic, a python framework for packaging and reproducing DSPy programs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "modaic-0.24.1.tar.gz",
-  "download_time": "2026-03-14T22:54:18.674235",
+  "download_filename": "modaic-0.25.0.tar.gz",
+  "download_time": "2026-03-23T23:05:08.250955",
   "package_url": "https://pypi.org/project/modaic/"
 }

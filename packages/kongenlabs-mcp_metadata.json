@@ -1,0 +1,11 @@
+{
+  "name": "kongenlabs-mcp",
+  "version": "1.0.3",
+  "summary": "MCP server for Kongen Labs SCI Pattern Intelligence API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kongenlabs_mcp-1.0.3.tar.gz",
+  "download_time": "2026-03-23T23:04:52.984431",
+  "package_url": "https://pypi.org/project/kongenlabs-mcp/"
+}

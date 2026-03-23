@@ -1,11 +1,11 @@
 {
   "name": "langchain-ai-skills-framework",
-  "version": "1.0.8",
+  "version": "1.0.11",
   "summary": "ai-skills-framework",
   "author": "Imran Qureshi",
   "license": null,
   "home_page": "https://github.com/icanbwell/ai-skills",
-  "download_filename": "langchain_ai_skills_framework-1.0.8.tar.gz",
-  "download_time": "2026-03-23T14:19:38.740871",
+  "download_filename": "langchain_ai_skills_framework-1.0.11.tar.gz",
+  "download_time": "2026-03-23T23:05:07.186931",
   "package_url": "https://pypi.org/project/langchain-ai-skills-framework/"
 }
