@@ -1,0 +1,11 @@
+{
+  "name": "hisend",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Hisend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hisend-1.0.0.tar.gz",
+  "download_time": "2026-03-24T22:11:46.226801",
+  "package_url": "https://pypi.org/project/hisend/"
+}

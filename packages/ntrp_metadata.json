@@ -1,11 +1,11 @@
 {
   "name": "ntrp",
-  "version": "0.16.5",
+  "version": "0.17.1",
   "summary": "Personal AI assistant with persistent memory and multi-source knowledge integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ntrp-0.16.5.tar.gz",
-  "download_time": "2026-03-20T19:02:37.977737",
+  "download_filename": "ntrp-0.17.1.tar.gz",
+  "download_time": "2026-03-24T22:11:50.297191",
   "package_url": "https://pypi.org/project/ntrp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "suitable-loop",
+  "version": "0.1.1",
+  "summary": "Local production engineering platform — semantic code analysis, git risk scoring, and log correlation via MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "suitable_loop-0.1.1.tar.gz",
+  "download_time": "2026-03-24T22:11:45.583493",
+  "package_url": "https://pypi.org/project/suitable-loop/"
+}
