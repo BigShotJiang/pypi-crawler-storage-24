@@ -1,0 +1,11 @@
+{
+  "name": "langchain-hyperspace",
+  "version": "3.0.5",
+  "summary": "LangChain integration for HyperspaceDB - Hyperbolic Vector Database with Edge-Cloud Federation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_hyperspace-3.0.5.tar.gz",
+  "download_time": "2026-03-24T21:45:17.583977",
+  "package_url": "https://pypi.org/project/langchain-hyperspace/"
+}

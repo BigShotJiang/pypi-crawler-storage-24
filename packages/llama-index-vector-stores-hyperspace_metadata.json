@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-hyperspace",
+  "version": "3.0.5",
+  "summary": "LlamaIndex integration for HyperspaceDB - Hyperbolic Vector Database",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_hyperspace-3.0.5.tar.gz",
+  "download_time": "2026-03-24T21:45:17.068861",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-hyperspace/"
+}

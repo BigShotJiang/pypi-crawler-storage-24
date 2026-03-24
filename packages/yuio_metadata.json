@@ -1,11 +1,11 @@
 {
   "name": "yuio",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "summary": "Lite and user-friendly CLI library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yuio-2.4.0.tar.gz",
-  "download_time": "2026-03-22T18:35:00.969617",
+  "download_filename": "yuio-2.5.0.tar.gz",
+  "download_time": "2026-03-24T21:45:22.749011",
   "package_url": "https://pypi.org/project/yuio/"
 }

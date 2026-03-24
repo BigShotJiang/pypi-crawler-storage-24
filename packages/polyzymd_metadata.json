@@ -1,11 +1,11 @@
 {
   "name": "polyzymd",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "Molecular dynamics simulation toolkit for enzyme-polymer systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polyzymd-1.1.1.tar.gz",
-  "download_time": "2026-03-23T17:16:53.678334",
+  "download_filename": "polyzymd-1.2.0.tar.gz",
+  "download_time": "2026-03-24T21:45:25.325768",
   "package_url": "https://pypi.org/project/polyzymd/"
 }

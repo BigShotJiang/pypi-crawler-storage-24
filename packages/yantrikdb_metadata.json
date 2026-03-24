@@ -1,11 +1,11 @@
 {
   "name": "yantrikdb",
-  "version": "0.3.1",
+  "version": "0.4.2",
   "summary": "A Cognitive Memory Engine for Persistent AI Systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yantrikdb-0.3.1.tar.gz",
-  "download_time": "2026-03-21T17:27:03.290527",
+  "download_filename": "yantrikdb-0.4.2.tar.gz",
+  "download_time": "2026-03-24T21:44:51.164772",
   "package_url": "https://pypi.org/project/yantrikdb/"
 }

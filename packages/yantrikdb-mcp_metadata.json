@@ -1,11 +1,11 @@
 {
   "name": "yantrikdb-mcp",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "YantrikDB MCP Server — Cognitive memory for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yantrikdb_mcp-0.4.0.tar.gz",
-  "download_time": "2026-03-21T18:35:30.990111",
+  "download_filename": "yantrikdb_mcp-0.4.3.tar.gz",
+  "download_time": "2026-03-24T21:45:28.944447",
   "package_url": "https://pypi.org/project/yantrikdb-mcp/"
 }

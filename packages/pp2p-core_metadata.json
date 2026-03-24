@@ -1,11 +1,11 @@
 {
   "name": "pp2p-core",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Python ctypes SDK for the PP2P Rust core",
   "author": "PP2P",
   "license": null,
   "home_page": null,
-  "download_filename": "pp2p_core-0.1.1.tar.gz",
-  "download_time": "2026-03-24T21:04:39.064722",
+  "download_filename": "pp2p_core-0.2.1.tar.gz",
+  "download_time": "2026-03-24T21:45:03.296701",
   "package_url": "https://pypi.org/project/pp2p-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-admin-list-charts",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Super simple bar charts for django admin list views visualizing the number of objects based on date_hierarchy using Chart.js.",
   "author": "foorilla LLC",
   "license": "MIT",
   "home_page": "https://github.com/foorilla/django-admin-list-charts",
-  "download_filename": "django_admin_list_charts-0.2.0.tar.gz",
-  "download_time": "2026-03-16T12:00:32.193137",
+  "download_filename": "django_admin_list_charts-0.3.1.tar.gz",
+  "download_time": "2026-03-24T21:45:16.011936",
   "package_url": "https://pypi.org/project/django-admin-list-charts/"
 }
