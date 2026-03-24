@@ -1,0 +1,11 @@
+{
+  "name": "arrlp",
+  "version": "0.1.18",
+  "summary": "A library that provides tools for arrays on CPU & GPU [any shape].",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arrlp-0.1.18.tar.gz",
+  "download_time": "2026-03-24T18:45:41.995492",
+  "package_url": "https://pypi.org/project/arrlp/"
+}

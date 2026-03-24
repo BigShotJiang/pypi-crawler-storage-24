@@ -1,11 +1,11 @@
 {
   "name": "zeroth-learn",
-  "version": "0.1.6",
+  "version": "0.1.11",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zeroth_learn-0.1.6.tar.gz",
-  "download_time": "2026-03-18T15:02:48.028074",
+  "download_filename": "zeroth_learn-0.1.11.tar.gz",
+  "download_time": "2026-03-24T18:45:14.267030",
   "package_url": "https://pypi.org/project/zeroth-learn/"
 }

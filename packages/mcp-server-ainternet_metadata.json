@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-ainternet",
+  "version": "0.2.0",
+  "summary": "DEPRECATED — Use tibet-ainternet-mcp instead. This package now redirects to tibet-ainternet-mcp.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_ainternet-0.2.0.tar.gz",
+  "download_time": "2026-03-24T18:45:05.840563",
+  "package_url": "https://pypi.org/project/mcp-server-ainternet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "model-garage",
+  "version": "0.1.0",
+  "summary": "Open the hood on neural networks. Component-level model surgery, analysis, and composition.",
+  "author": "Model Garage Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_garage-0.1.0.tar.gz",
+  "download_time": "2026-03-24T18:45:12.713940",
+  "package_url": "https://pypi.org/project/model-garage/"
+}

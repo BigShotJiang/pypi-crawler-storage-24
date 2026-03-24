@@ -1,11 +1,11 @@
 {
   "name": "etld",
-  "version": "1.1.0",
-  "summary": "Official Python SDK for the ETL-D API - Stateless Data Middleware for AI Agents.",
-  "author": "ETL-D Team",
+  "version": "3.2.0",
+  "summary": "ETL-D API",
+  "author": "ETL-D",
   "license": null,
-  "home_page": "https://github.com/pablixnieto2/enrichermagic",
-  "download_filename": "etld-1.1.0.tar.gz",
-  "download_time": "2026-03-10T11:41:12.703706",
+  "home_page": "https://api.etl-d.net",
+  "download_filename": "etld-3.2.0.tar.gz",
+  "download_time": "2026-03-24T18:44:57.471297",
   "package_url": "https://pypi.org/project/etld/"
 }

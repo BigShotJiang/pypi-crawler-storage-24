@@ -1,0 +1,11 @@
+{
+  "name": "docto-trace-storage",
+  "version": "0.2.3",
+  "summary": "Deep storage auditing for Google Drive — part of the Docto Trace suite.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "docto_trace_storage-0.2.3.tar.gz",
+  "download_time": "2026-03-24T18:44:57.991167",
+  "package_url": "https://pypi.org/project/docto-trace-storage/"
+}
