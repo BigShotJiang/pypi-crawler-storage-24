@@ -1,11 +1,11 @@
 {
   "name": "justx",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A TUI command launcher built on top of just. Define recipes once, run them anywhere.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "justx-0.5.2.tar.gz",
-  "download_time": "2026-03-17T20:06:28.863996",
+  "download_filename": "justx-0.5.3.tar.gz",
+  "download_time": "2026-03-24T15:25:49.297039",
   "package_url": "https://pypi.org/project/justx/"
 }

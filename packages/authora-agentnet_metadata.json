@@ -1,0 +1,11 @@
+{
+  "name": "authora-agentnet",
+  "version": "0.1.4",
+  "summary": "Official Python SDK for AgentNet -- AI engineering work as a service.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "authora_agentnet-0.1.4.tar.gz",
+  "download_time": "2026-03-24T15:25:37.039968",
+  "package_url": "https://pypi.org/project/authora-agentnet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spectroflat",
+  "version": "2.1.1",
+  "summary": "Flat field and smile correction spectro-polarimetric solar images.",
+  "author": "Johannes Hoelken",
+  "license": null,
+  "home_page": "https://gitlab.gwdg.de/hoelken/spectroflat",
+  "download_filename": "spectroflat-2.1.1.tar.gz",
+  "download_time": "2026-03-24T15:25:38.690167",
+  "package_url": "https://pypi.org/project/spectroflat/"
+}

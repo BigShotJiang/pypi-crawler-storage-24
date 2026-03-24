@@ -1,11 +1,11 @@
 {
   "name": "robotmem",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Robot Memory - Persistent memory system for robotic AI agents",
   "author": "robotmem",
   "license": null,
   "home_page": null,
-  "download_filename": "robotmem-0.1.0.tar.gz",
-  "download_time": "2026-03-09T09:03:03.674946",
+  "download_filename": "robotmem-0.1.3.tar.gz",
+  "download_time": "2026-03-24T15:25:42.136774",
   "package_url": "https://pypi.org/project/robotmem/"
 }

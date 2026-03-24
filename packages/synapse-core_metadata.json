@@ -1,11 +1,11 @@
 {
   "name": "synapse-core",
-  "version": "0.5.3",
+  "version": "1.1.1",
   "summary": "Local RAG library — ingest files and SQLite, query semantically, pipe results into any AI agent",
   "author": "adm-crow",
   "license": null,
   "home_page": null,
-  "download_filename": "synapse_core-0.5.3.tar.gz",
-  "download_time": "2026-03-13T14:41:38.526074",
+  "download_filename": "synapse_core-1.1.1.tar.gz",
+  "download_time": "2026-03-24T15:26:15.111095",
   "package_url": "https://pypi.org/project/synapse-core/"
 }

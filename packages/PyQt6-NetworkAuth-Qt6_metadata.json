@@ -1,0 +1,11 @@
+{
+  "name": "PyQt6-NetworkAuth-Qt6",
+  "version": "6.11.0",
+  "summary": "The subset of a Qt installation needed by PyQt6-NetworkAuth.",
+  "author": "Riverbank Computing Limited",
+  "license": "GPL v3",
+  "home_page": "https://www.riverbankcomputing.com/software/pyqt/",
+  "download_filename": "pyqt6_networkauth_qt6-6.11.0-py3-none-macosx_10_14_x86_64.whl",
+  "download_time": "2026-03-24T15:26:19.511130",
+  "package_url": "https://pypi.org/project/PyQt6-NetworkAuth-Qt6/"
+}

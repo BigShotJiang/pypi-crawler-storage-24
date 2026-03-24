@@ -1,11 +1,11 @@
 {
   "name": "exgentic",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Exgentic - General agent evaluation",
   "author": "Exgentic Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exgentic-0.1.1.tar.gz",
-  "download_time": "2026-03-15T19:52:04.209659",
+  "download_filename": "exgentic-0.2.0.tar.gz",
+  "download_time": "2026-03-24T15:25:58.069537",
   "package_url": "https://pypi.org/project/exgentic/"
 }

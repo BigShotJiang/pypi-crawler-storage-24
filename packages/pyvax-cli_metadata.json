@@ -1,11 +1,11 @@
 {
   "name": "pyvax-cli",
-  "version": "1.0.0",
-  "summary": "PyVax — Python to EVM transpiler for Avalanche smart contracts",
+  "version": "1.2.0",
+  "summary": "PyVax — Python to EVM transpiler and Project Classified Web3 AI Agent framework",
   "author": "PyVax Team",
   "license": "MIT",
   "home_page": "https://github.com/ShahiTechnovation/pyvax-rebrand",
-  "download_filename": "pyvax_cli-1.0.0.tar.gz",
-  "download_time": "2026-03-08T18:58:18.754329",
+  "download_filename": "pyvax_cli-1.2.0.tar.gz",
+  "download_time": "2026-03-24T15:26:17.286611",
   "package_url": "https://pypi.org/project/pyvax-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "intel-cmplr-lib-ur",
+  "version": "2025.3.3",
+  "summary": "Intel® oneAPI Unified Runtime Libraries package",
+  "author": "Intel Corporation",
+  "license": "Intel End User License Agreement for Developer Tools",
+  "home_page": "https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html",
+  "download_filename": "intel_cmplr_lib_ur-2025.3.3-py2.py3-none-win_amd64.whl",
+  "download_time": "2026-03-24T15:26:23.370361",
+  "package_url": "https://pypi.org/project/intel-cmplr-lib-ur/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "genesis-notification",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "The Platform Notification summary",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "genesis_notification-1.0.0.tar.gz",
-  "download_time": "2026-03-23T20:42:48.840522",
+  "download_filename": "genesis_notification-1.1.0.tar.gz",
+  "download_time": "2026-03-24T15:26:14.045093",
   "package_url": "https://pypi.org/project/genesis-notification/"
 }

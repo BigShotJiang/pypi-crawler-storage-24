@@ -1,0 +1,11 @@
+{
+  "name": "metabase-mcp-api",
+  "version": "0.1.1",
+  "summary": "MCP server for Metabase — create and manage questions/dashboards from an LLM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metabase_mcp_api-0.1.1.tar.gz",
+  "download_time": "2026-03-24T15:26:13.495352",
+  "package_url": "https://pypi.org/project/metabase-mcp-api/"
+}
