@@ -1,0 +1,11 @@
+{
+  "name": "115cli",
+  "version": "0.1.0",
+  "summary": "An unofficial CLI tool and higher-level Python API client for 115.com cloud storage service",
+  "author": "Xavier-Lam",
+  "license": "MIT",
+  "home_page": "https://github.com/Xavier-Lam/115cli",
+  "download_filename": "115cli-0.1.0.tar.gz",
+  "download_time": "2026-03-24T16:42:31.821798",
+  "package_url": "https://pypi.org/project/115cli/"
+}

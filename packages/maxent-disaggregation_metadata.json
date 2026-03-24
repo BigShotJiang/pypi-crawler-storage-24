@@ -1,0 +1,11 @@
+{
+  "name": "maxent-disaggregation",
+  "version": "1.2.0",
+  "summary": "Package to help with the propagation of uncertainty when disaggregating data, using the maximum entropy principle.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maxent_disaggregation-1.2.0.tar.gz",
+  "download_time": "2026-03-24T16:42:06.353403",
+  "package_url": "https://pypi.org/project/maxent-disaggregation/"
+}

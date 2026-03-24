@@ -1,0 +1,11 @@
+{
+  "name": "crondb-driver",
+  "version": "1.0.3",
+  "summary": "The official Python ORM and connection driver for the CronDB temporal database.",
+  "author": "Michael Tal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crondb_driver-1.0.3.tar.gz",
+  "download_time": "2026-03-24T16:42:47.009800",
+  "package_url": "https://pypi.org/project/crondb-driver/"
+}

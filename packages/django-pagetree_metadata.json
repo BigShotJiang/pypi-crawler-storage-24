@@ -1,0 +1,11 @@
+{
+  "name": "django-pagetree",
+  "version": "1.6.1",
+  "summary": "Tree of Pages helper application",
+  "author": "Anders Pearson",
+  "license": "BSD",
+  "home_page": "https://github.com/ccnmtl/django-pagetree",
+  "download_filename": "django_pagetree-1.6.1.tar.gz",
+  "download_time": "2026-03-24T16:42:44.867007",
+  "package_url": "https://pypi.org/project/django-pagetree/"
+}

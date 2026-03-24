@@ -1,11 +1,11 @@
 {
   "name": "agent-ros-bridge",
-  "version": "0.6.2",
+  "version": "0.6.5",
   "summary": "Universal interface for AI agents to control ROS robots via natural language",
   "author": "Agent ROS Bridge Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_ros_bridge-0.6.2.tar.gz",
-  "download_time": "2026-03-18T08:33:01.707226",
+  "download_filename": "agent_ros_bridge-0.6.5-py3-none-any.whl",
+  "download_time": "2026-03-24T16:42:11.441772",
   "package_url": "https://pypi.org/project/agent-ros-bridge/"
 }

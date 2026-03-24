@@ -1,0 +1,11 @@
+{
+  "name": "infrabaseline-audit",
+  "version": "0.1.0",
+  "summary": "HIPAA & SOC2 compliance scanner for AWS — with direct fix mapping to Infrabaseline Terraform modules.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "infrabaseline_audit-0.1.0.tar.gz",
+  "download_time": "2026-03-24T16:42:27.904679",
+  "package_url": "https://pypi.org/project/infrabaseline-audit/"
+}

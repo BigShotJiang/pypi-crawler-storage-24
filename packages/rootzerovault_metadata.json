@@ -1,11 +1,11 @@
 {
   "name": "rootzerovault",
-  "version": "3.8.1",
+  "version": "3.8.2",
   "summary": "Root Zero Vault — Constitutional AI Governance SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rootzerovault-3.8.1.tar.gz",
-  "download_time": "2026-03-24T07:06:37.259841",
+  "download_filename": "rootzerovault-3.8.2.tar.gz",
+  "download_time": "2026-03-24T16:42:25.721800",
   "package_url": "https://pypi.org/project/rootzerovault/"
 }

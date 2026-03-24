@@ -1,0 +1,11 @@
+{
+  "name": "fal-client",
+  "version": "0.13.2",
+  "summary": "Python client for fal.ai",
+  "author": "Features & Labels <support@fal.ai>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fal_client-0.13.2.tar.gz",
+  "download_time": "2026-03-24T16:42:30.129475",
+  "package_url": "https://pypi.org/project/fal-client/"
+}

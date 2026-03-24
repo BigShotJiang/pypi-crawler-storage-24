@@ -1,11 +1,11 @@
 {
   "name": "ibis-profiling",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Ultra-high-performance data profiling natively for Ibis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ibis_profiling-0.1.6.tar.gz",
-  "download_time": "2026-03-22T20:26:12.099786",
+  "download_filename": "ibis_profiling-0.1.8.tar.gz",
+  "download_time": "2026-03-24T16:42:14.700796",
   "package_url": "https://pypi.org/project/ibis-profiling/"
 }

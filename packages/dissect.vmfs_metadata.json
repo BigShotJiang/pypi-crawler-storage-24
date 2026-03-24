@@ -1,0 +1,11 @@
+{
+  "name": "dissect.vmfs",
+  "version": "3.13",
+  "summary": "A Dissect module implementing a parser for the VMFS file system, used by VMware virtualization software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissect_vmfs-3.13.tar.gz",
+  "download_time": "2026-03-24T16:42:49.195919",
+  "package_url": "https://pypi.org/project/dissect.vmfs/"
+}

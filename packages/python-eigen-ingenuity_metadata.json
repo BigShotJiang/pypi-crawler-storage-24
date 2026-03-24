@@ -1,0 +1,11 @@
+{
+  "name": "python-eigen-ingenuity",
+  "version": "0.5.24",
+  "summary": "A python library used to query data from the Eigen Ingenuity system",
+  "author": "Murray Callander",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.eigen.co/",
+  "download_filename": "python_eigen_ingenuity-0.5.24.tar.gz",
+  "download_time": "2026-03-24T16:42:03.979354",
+  "package_url": "https://pypi.org/project/python-eigen-ingenuity/"
+}

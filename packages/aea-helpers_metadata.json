@@ -1,11 +1,11 @@
 {
   "name": "aea-helpers",
-  "version": "0.1.0",
+  "version": "0.21.15",
   "summary": "CLI helpers for CI and dependency management in AEA-based projects.",
   "author": "Valory AG",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aea_helpers-0.1.0.tar.gz",
-  "download_time": "2026-03-24T15:25:53.662623",
+  "download_filename": "aea_helpers-0.21.15.tar.gz",
+  "download_time": "2026-03-24T16:42:17.429844",
   "package_url": "https://pypi.org/project/aea-helpers/"
 }

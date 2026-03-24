@@ -1,11 +1,11 @@
 {
   "name": "umarise-core-sdk",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "summary": "Anchor any file to Bitcoin with one API call. Hash-in, proof-out. Zero dependencies.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "umarise_core_sdk-1.1.3.tar.gz",
-  "download_time": "2026-03-09T12:48:44.901380",
+  "download_filename": "umarise_core_sdk-1.1.5.tar.gz",
+  "download_time": "2026-03-24T16:42:13.601197",
   "package_url": "https://pypi.org/project/umarise-core-sdk/"
 }
