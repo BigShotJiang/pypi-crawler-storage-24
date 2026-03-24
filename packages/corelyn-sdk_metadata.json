@@ -1,0 +1,11 @@
+{
+  "name": "corelyn-sdk",
+  "version": "0.2.1",
+  "summary": "Python SDK for Corelyn AI API",
+  "author": "Cory Jame",
+  "license": "MIT",
+  "home_page": "https://github.com/corelyn/corelyn-sdk",
+  "download_filename": "corelyn_sdk-0.2.1.tar.gz",
+  "download_time": "2026-03-24T14:10:35.478214",
+  "package_url": "https://pypi.org/project/corelyn-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dissect.util",
+  "version": "3.24",
+  "summary": "A Dissect module implementing various utility functions for the other Dissect modules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissect_util-3.24.tar.gz",
+  "download_time": "2026-03-24T14:10:48.031520",
+  "package_url": "https://pypi.org/project/dissect.util/"
+}

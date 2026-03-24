@@ -1,0 +1,11 @@
+{
+  "name": "pysmoke",
+  "version": "0.1.0",
+  "summary": "Small Molecule Octet/BLI Kinetics Experiment",
+  "author": "Xiaojun Li, James C Sacchettini",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysmoke-0.1.0.tar.gz",
+  "download_time": "2026-03-24T14:10:57.839290",
+  "package_url": "https://pypi.org/project/pysmoke/"
+}

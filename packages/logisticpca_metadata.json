@@ -1,0 +1,11 @@
+{
+  "name": "logisticpca",
+  "version": "0.3.3",
+  "summary": "Logistic PCA: Dimensionality reduction for binary data via MM algorithm.",
+  "author": "Reda Abouzaid",
+  "license": null,
+  "home_page": "https://github.com/azaidr/logisticpca",
+  "download_filename": "logisticpca-0.3.3.tar.gz",
+  "download_time": "2026-03-24T14:11:00.952174",
+  "package_url": "https://pypi.org/project/logisticpca/"
+}

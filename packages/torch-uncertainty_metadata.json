@@ -1,0 +1,11 @@
+{
+  "name": "torch-uncertainty",
+  "version": "0.11.0",
+  "summary": "Uncertainty quantification in PyTorch",
+  "author": "Adrien Lafage, Olivier Laurent",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_uncertainty-0.11.0.tar.gz",
+  "download_time": "2026-03-24T14:11:04.082837",
+  "package_url": "https://pypi.org/project/torch-uncertainty/"
+}

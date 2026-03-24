@@ -1,0 +1,11 @@
+{
+  "name": "fundzwatch",
+  "version": "1.0.2",
+  "summary": "Python SDK for FundzWatch.ai - Real-time business event intelligence for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fundzwatch-1.0.2.tar.gz",
+  "download_time": "2026-03-24T14:10:53.181150",
+  "package_url": "https://pypi.org/project/fundzwatch/"
+}

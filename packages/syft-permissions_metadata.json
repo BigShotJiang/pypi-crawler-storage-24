@@ -1,11 +1,11 @@
 {
   "name": "syft-permissions",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Permission system for Syft datasites",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "syft_permissions-0.1.2.tar.gz",
-  "download_time": "2026-03-19T11:54:38.538810",
+  "download_filename": "syft_permissions-0.1.4.tar.gz",
+  "download_time": "2026-03-24T14:11:15.887147",
   "package_url": "https://pypi.org/project/syft-permissions/"
 }

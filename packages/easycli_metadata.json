@@ -1,0 +1,11 @@
+{
+  "name": "easycli",
+  "version": "1.9.7",
+  "summary": "Easily define your Command line and sub-commands using argparse.",
+  "author": "Vahid Mardani",
+  "license": "MIT",
+  "home_page": "http://github.com/pylover/easycli",
+  "download_filename": "easycli-1.9.7.tar.gz",
+  "download_time": "2026-03-24T14:10:32.334446",
+  "package_url": "https://pypi.org/project/easycli/"
+}

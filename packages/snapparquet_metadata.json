@@ -1,11 +1,11 @@
 {
   "name": "snapparquet",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Small helpers for fast Parquet/CSV: column pruning, optional integer range filters with PyArrow pushdown, footer-only schema.",
   "author": "snapparquet contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "snapparquet-0.1.2.tar.gz",
-  "download_time": "2026-03-24T12:40:45.926838",
+  "download_filename": "snapparquet-0.1.3.tar.gz",
+  "download_time": "2026-03-24T14:10:31.314347",
   "package_url": "https://pypi.org/project/snapparquet/"
 }

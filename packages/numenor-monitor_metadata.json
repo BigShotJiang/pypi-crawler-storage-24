@@ -1,0 +1,11 @@
+{
+  "name": "numenor-monitor",
+  "version": "0.0.1",
+  "summary": "A Django middleware application for monitoring and logging HTTP requests with asynchronous processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numenor_monitor-0.0.1.tar.gz",
+  "download_time": "2026-03-24T14:11:07.161497",
+  "package_url": "https://pypi.org/project/numenor-monitor/"
+}

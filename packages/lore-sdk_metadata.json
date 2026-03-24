@@ -1,11 +1,11 @@
 {
   "name": "lore-sdk",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "Cross-agent semantic memory with knowledge graphs, fact extraction, and MCP integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lore_sdk-1.1.1.tar.gz",
-  "download_time": "2026-03-22T06:36:14.331007",
+  "download_filename": "lore_sdk-1.2.0.tar.gz",
+  "download_time": "2026-03-24T14:11:01.984207",
   "package_url": "https://pypi.org/project/lore-sdk/"
 }
