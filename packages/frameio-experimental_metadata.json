@@ -1,11 +1,11 @@
 {
   "name": "frameio-experimental",
-  "version": "1.1.0",
+  "version": "2.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frameio_experimental-1.1.0.tar.gz",
-  "download_time": "2026-03-09T16:13:19.022864",
+  "download_filename": "frameio_experimental-2.2.0.tar.gz",
+  "download_time": "2026-03-24T21:04:52.087283",
   "package_url": "https://pypi.org/project/frameio-experimental/"
 }

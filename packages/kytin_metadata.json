@@ -1,0 +1,11 @@
+{
+  "name": "kytin",
+  "version": "0.1.0",
+  "summary": "Run Kali tools without installing Kali Linux",
+  "author": "Ankush Kumar Mohapatra",
+  "license": null,
+  "home_page": "https://github.com/yourusername/kytin",
+  "download_filename": "kytin-0.1.0.tar.gz",
+  "download_time": "2026-03-24T21:04:13.805037",
+  "package_url": "https://pypi.org/project/kytin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "oz-agent-sdk",
+  "version": "0.10.1",
+  "summary": "The official Python library for the oz-api API",
+  "author": "Oz API",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oz_agent_sdk-0.10.1.tar.gz",
+  "download_time": "2026-03-24T21:04:34.443670",
+  "package_url": "https://pypi.org/project/oz-agent-sdk/"
+}

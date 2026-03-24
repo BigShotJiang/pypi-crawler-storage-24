@@ -1,0 +1,11 @@
+{
+  "name": "mike-chess",
+  "version": "0.2.1",
+  "summary": "Play chess against Stockfish in your terminal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mike_chess-0.2.1.tar.gz",
+  "download_time": "2026-03-24T21:04:53.655944",
+  "package_url": "https://pypi.org/project/mike-chess/"
+}

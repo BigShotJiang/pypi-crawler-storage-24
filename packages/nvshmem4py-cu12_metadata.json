@@ -1,0 +1,11 @@
+{
+  "name": "nvshmem4py-cu12",
+  "version": "0.3.0",
+  "summary": "Python bindings for NVSHMEM",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvshmem4py_cu12-0.3.0-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_34_aarch64.whl",
+  "download_time": "2026-03-24T21:04:45.361154",
+  "package_url": "https://pypi.org/project/nvshmem4py-cu12/"
+}

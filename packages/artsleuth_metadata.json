@@ -1,0 +1,11 @@
+{
+  "name": "artsleuth",
+  "version": "0.2.0",
+  "summary": "Computational Art Analysis Framework — Brushstroke analysis, style attribution, anomaly screening, and interpretable visual explanations powered by vision transformers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "artsleuth-0.2.0-py3-none-any.whl",
+  "download_time": "2026-03-24T21:04:35.467175",
+  "package_url": "https://pypi.org/project/artsleuth/"
+}

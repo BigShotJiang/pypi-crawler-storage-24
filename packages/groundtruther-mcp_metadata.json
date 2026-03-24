@@ -1,11 +1,11 @@
 {
   "name": "groundtruther-mcp",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "MCP server for GroundTruther — hire humans to complete real-world missions from your AI agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "groundtruther_mcp-0.5.0.tar.gz",
-  "download_time": "2026-03-24T19:46:50.029224",
+  "download_filename": "groundtruther_mcp-0.5.2.tar.gz",
+  "download_time": "2026-03-24T21:04:37.018967",
   "package_url": "https://pypi.org/project/groundtruther-mcp/"
 }

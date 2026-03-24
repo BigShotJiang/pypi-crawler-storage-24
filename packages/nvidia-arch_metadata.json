@@ -1,11 +1,11 @@
 {
   "name": "nvidia-arch",
-  "version": "4.0.1",
+  "version": "6.0.0",
   "summary": "A lightweight tool for detecting and querying NVIDIA GPU architectures (SM/CC), and generating `-gencode` flags for CUDA builds",
   "author": "Ratha SIV",
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_arch-4.0.1.tar.gz",
-  "download_time": "2026-03-23T01:54:07.087822",
+  "download_filename": "nvidia_arch-6.0.0.tar.gz",
+  "download_time": "2026-03-24T21:04:08.645457",
   "package_url": "https://pypi.org/project/nvidia-arch/"
 }

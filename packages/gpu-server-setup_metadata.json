@@ -1,0 +1,11 @@
+{
+  "name": "gpu-server-setup",
+  "version": "0.4.1",
+  "summary": "Один клик — удалённый GPU-сервер с Ollama + VS Code Remote",
+  "author": "The Fool",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpu_server_setup-0.4.1.tar.gz",
+  "download_time": "2026-03-24T21:04:52.620929",
+  "package_url": "https://pypi.org/project/gpu-server-setup/"
+}

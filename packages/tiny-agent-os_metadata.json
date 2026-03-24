@@ -1,11 +1,11 @@
 {
   "name": "tiny-agent-os",
-  "version": "1.2.15",
+  "version": "1.2.26",
   "summary": "Python agent loop",
   "author": "Fabian",
   "license": null,
   "home_page": null,
-  "download_filename": "tiny_agent_os-1.2.15.tar.gz",
-  "download_time": "2026-03-22T21:53:53.593298",
+  "download_filename": "tiny_agent_os-1.2.26-cp310-abi3-macosx_11_0_universal2.whl",
+  "download_time": "2026-03-24T21:04:32.887014",
   "package_url": "https://pypi.org/project/tiny-agent-os/"
 }

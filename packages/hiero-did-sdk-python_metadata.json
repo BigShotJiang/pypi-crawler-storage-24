@@ -1,0 +1,11 @@
+{
+  "name": "hiero-did-sdk-python",
+  "version": "0.1.7",
+  "summary": "The repository contains the Python SDK for managing DID Documents and Anoncreds Verifiable Credentials registry using Hedera Consensus Service.",
+  "author": "Alexander Shenshin",
+  "license": null,
+  "home_page": "https://github.com/hiero-ledger/hiero-did-sdk-python",
+  "download_filename": "hiero_did_sdk_python-0.1.7.tar.gz",
+  "download_time": "2026-03-24T21:04:15.955456",
+  "package_url": "https://pypi.org/project/hiero-did-sdk-python/"
+}
