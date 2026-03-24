@@ -1,11 +1,11 @@
 {
   "name": "cloud-audit",
-  "version": "0.9.1",
-  "summary": "Open-source AWS security scanner with Attack Chains. 47 checks, 16 attack chain rules, copy-paste remediation (CLI + Terraform). The first CLI tool that correlates findings into exploitable attack paths.",
+  "version": "1.0.2",
+  "summary": "Open-source AWS security scanner with Attack Chains, Breach Cost Estimation, and MCP Server for AI agents. 47 checks, copy-paste remediation, dollar-risk per finding. First free standalone AWS security MCP server.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloud_audit-0.9.1.tar.gz",
-  "download_time": "2026-03-19T11:05:27.706705",
+  "download_filename": "cloud_audit-1.0.2.tar.gz",
+  "download_time": "2026-03-24T22:57:31.650148",
   "package_url": "https://pypi.org/project/cloud-audit/"
 }

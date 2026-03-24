@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-audio",
+  "version": "1.1.0",
+  "summary": "A Python library for audio processing with FFmpeg, designed for streaming and segment reading",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpeg_audio-1.1.0.tar.gz",
+  "download_time": "2026-03-24T22:56:42.693880",
+  "package_url": "https://pypi.org/project/ffmpeg-audio/"
+}

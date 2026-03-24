@@ -1,0 +1,11 @@
+{
+  "name": "kdrive-proxy",
+  "version": "0.0.2",
+  "summary": "Micro proxy for uploading to kDrive drop boxes with a simple POST call",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdrive_proxy-0.0.2.tar.gz",
+  "download_time": "2026-03-24T22:57:02.749461",
+  "package_url": "https://pypi.org/project/kdrive-proxy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hyperscaled",
+  "version": "0.1.0",
+  "summary": "CLI & SDK for the Hyperscaled funded trading platform on Hyperliquid",
+  "author": "Hyperscaled",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperscaled-0.1.0.tar.gz",
+  "download_time": "2026-03-24T22:57:25.470775",
+  "package_url": "https://pypi.org/project/hyperscaled/"
+}

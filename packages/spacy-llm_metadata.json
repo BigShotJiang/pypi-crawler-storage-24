@@ -1,0 +1,11 @@
+{
+  "name": "spacy-llm",
+  "version": "0.7.4",
+  "summary": "Integrating LLMs into structured NLP pipelines",
+  "author": "Explosion",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spacy_llm-0.7.4.tar.gz",
+  "download_time": "2026-03-24T22:57:27.645956",
+  "package_url": "https://pypi.org/project/spacy-llm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentnova",
-  "version": "0.2.6",
-  "summary": "A minimal, hackable agentic framework for Ollama and BitNet - local-first AI agent toolkit",
+  "version": "0.3.0",
+  "summary": "⚛️ AgentNova - A minimal, hackable agentic framework for local LLM inference",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentnova-0.2.6.tar.gz",
-  "download_time": "2026-03-23T15:22:10.246112",
+  "download_filename": "agentnova-0.3.0.tar.gz",
+  "download_time": "2026-03-24T22:56:44.882671",
   "package_url": "https://pypi.org/project/agentnova/"
 }

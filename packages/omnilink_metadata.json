@@ -1,0 +1,11 @@
+{
+  "name": "omnilink",
+  "version": "0.1.0",
+  "summary": "OmniLink natural language engine and integration bridges",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnilink-0.1.0.tar.gz",
+  "download_time": "2026-03-24T22:57:21.675684",
+  "package_url": "https://pypi.org/project/omnilink/"
+}

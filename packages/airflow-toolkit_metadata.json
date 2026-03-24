@@ -1,11 +1,11 @@
 {
   "name": "airflow-toolkit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A toolkit of operators, hooks and utilities for Apache Airflow 2 and 3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airflow_toolkit-1.0.2.tar.gz",
-  "download_time": "2026-03-23T11:16:43.436573",
+  "download_filename": "airflow_toolkit-1.0.3.tar.gz",
+  "download_time": "2026-03-24T22:56:43.803938",
   "package_url": "https://pypi.org/project/airflow-toolkit/"
 }

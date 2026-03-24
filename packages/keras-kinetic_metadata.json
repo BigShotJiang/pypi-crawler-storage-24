@@ -1,0 +1,11 @@
+{
+  "name": "keras-kinetic",
+  "version": "0.0.1",
+  "summary": "Run Keras models remotely on TPU seamlessly.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keras_kinetic-0.0.1.tar.gz",
+  "download_time": "2026-03-24T22:57:17.880398",
+  "package_url": "https://pypi.org/project/keras-kinetic/"
+}

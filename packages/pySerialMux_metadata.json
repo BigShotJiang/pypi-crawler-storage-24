@@ -1,0 +1,11 @@
+{
+  "name": "pySerialMux",
+  "version": "0.1.2",
+  "summary": "Drop-in 1-to-N multiplexer for pySerial hardware serial interfaces",
+  "author": "KilianSen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyserialmux-0.1.2.tar.gz",
+  "download_time": "2026-03-24T22:57:07.087083",
+  "package_url": "https://pypi.org/project/pySerialMux/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "api-shield",
-  "version": "0.3.0",
+  "version": "0.8.1",
   "summary": "Route lifecycle management for APIs — maintenance mode, env gating, deprecation, and more",
   "author": "Richard Quaicoe",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "api_shield-0.3.0.tar.gz",
-  "download_time": "2026-03-16T23:31:42.429195",
+  "download_filename": "api_shield-0.8.1.tar.gz",
+  "download_time": "2026-03-24T22:57:21.138670",
   "package_url": "https://pypi.org/project/api-shield/"
 }

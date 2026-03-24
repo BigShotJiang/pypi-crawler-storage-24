@@ -1,0 +1,11 @@
+{
+  "name": "probe-ai",
+  "version": "0.2.0",
+  "summary": "Chaos engineering for AI agents — generate failure scenarios, inject them into tool calls, and see what breaks",
+  "author": "IrisDataLabs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "probe_ai-0.2.0.tar.gz",
+  "download_time": "2026-03-24T22:57:32.723880",
+  "package_url": "https://pypi.org/project/probe-ai/"
+}

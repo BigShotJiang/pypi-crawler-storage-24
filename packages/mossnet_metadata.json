@@ -1,0 +1,11 @@
+{
+  "name": "mossnet",
+  "version": "0.0.18",
+  "summary": "A Python package for performing network analyses on MOSS results",
+  "author": "Niema Moshiri",
+  "license": null,
+  "home_page": "https://github.com/niemasd/MossNet",
+  "download_filename": "mossnet-0.0.18.tar.gz",
+  "download_time": "2026-03-24T22:56:44.342044",
+  "package_url": "https://pypi.org/project/mossnet/"
+}

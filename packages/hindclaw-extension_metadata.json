@@ -1,11 +1,11 @@
 {
   "name": "hindclaw-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Hindclaw access control extensions for Hindsight API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hindclaw_extension-0.1.1.tar.gz",
-  "download_time": "2026-03-24T19:46:48.992620",
+  "download_filename": "hindclaw_extension-0.1.2.tar.gz",
+  "download_time": "2026-03-24T22:56:45.954593",
   "package_url": "https://pypi.org/project/hindclaw-extension/"
 }
