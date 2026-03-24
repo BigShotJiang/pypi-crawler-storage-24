@@ -1,0 +1,11 @@
+{
+  "name": "aiq-quivers",
+  "version": "1.1.0",
+  "summary": "Impact Automata on Quivers (AIQ) — An algebraic framework for modeling dynamics on complex systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiq_quivers-1.1.0.tar.gz",
+  "download_time": "2026-03-24T02:52:58.890670",
+  "package_url": "https://pypi.org/project/aiq-quivers/"
+}

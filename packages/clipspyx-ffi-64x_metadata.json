@@ -1,11 +1,11 @@
 {
   "name": "clipspyx-ffi-64x",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "summary": "CLIPS 6.4x CFFI extension for clipspyx",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clipspyx_ffi_64x-0.6.0-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2026-03-22T21:54:02.271552",
+  "download_filename": "clipspyx_ffi_64x-0.7.1-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-03-24T02:52:56.796327",
   "package_url": "https://pypi.org/project/clipspyx-ffi-64x/"
 }

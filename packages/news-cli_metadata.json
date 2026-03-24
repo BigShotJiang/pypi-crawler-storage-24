@@ -1,0 +1,11 @@
+{
+  "name": "news-cli",
+  "version": "2.0.1",
+  "summary": "A CLI app to get news snapshots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "news_cli-2.0.1.tar.gz",
+  "download_time": "2026-03-24T02:52:58.362154",
+  "package_url": "https://pypi.org/project/news-cli/"
+}

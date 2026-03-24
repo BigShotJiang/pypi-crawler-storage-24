@@ -1,11 +1,11 @@
 {
   "name": "clipspyx-ffi",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "summary": "Shared CFFI build infrastructure for clipspyx",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clipspyx_ffi-0.6.0.tar.gz",
-  "download_time": "2026-03-22T21:54:02.805524",
+  "download_filename": "clipspyx_ffi-0.7.1.tar.gz",
+  "download_time": "2026-03-24T02:52:57.315935",
   "package_url": "https://pypi.org/project/clipspyx-ffi/"
 }

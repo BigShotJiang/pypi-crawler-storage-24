@@ -1,11 +1,11 @@
 {
   "name": "sitemap-verify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Validate sitemap XML files and inspect their discovered URLs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sitemap_verify-0.1.0.tar.gz",
-  "download_time": "2026-03-19T07:48:23.014800",
+  "download_filename": "sitemap_verify-0.1.1.tar.gz",
+  "download_time": "2026-03-24T02:53:06.258597",
   "package_url": "https://pypi.org/project/sitemap-verify/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "universal-shop-scraper",
+  "version": "0.1.0",
+  "summary": "A resilient e-commerce scraper using JSON-LD metadata. Works with VTEX, Shopify, and major retail platforms.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "universal_shop_scraper-0.1.0.tar.gz",
+  "download_time": "2026-03-24T02:53:04.708104",
+  "package_url": "https://pypi.org/project/universal-shop-scraper/"
+}

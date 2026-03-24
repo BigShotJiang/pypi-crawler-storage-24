@@ -1,11 +1,11 @@
 {
   "name": "mcp-pool",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Async connection pool for Model Context Protocol (MCP) client sessions — keep sessions warm, reuse across requests, auto-reconnect on failure.",
   "author": "Goutam Adwant",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_pool-0.2.0.tar.gz",
-  "download_time": "2026-03-22T19:43:04.853701",
+  "download_filename": "mcp_pool-0.3.0.tar.gz",
+  "download_time": "2026-03-24T02:53:07.307272",
   "package_url": "https://pypi.org/project/mcp-pool/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "protectrag",
+  "version": "0.4.0",
+  "summary": "Evals and observability for RAG: prompt-injection screening on stored documents",
+  "author": "ProtectRAG contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "protectrag-0.4.0.tar.gz",
+  "download_time": "2026-03-24T02:53:03.680103",
+  "package_url": "https://pypi.org/project/protectrag/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "arandu",
-  "version": "0.6.25",
+  "version": "0.6.29",
   "summary": "Long-term memory for AI agents — wisdom acquired through experience. Extraction, entity resolution, reconciliation, and retrieval.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arandu-0.6.25.tar.gz",
-  "download_time": "2026-03-23T21:26:21.124445",
+  "download_filename": "arandu-0.6.29.tar.gz",
+  "download_time": "2026-03-24T02:53:10.049809",
   "package_url": "https://pypi.org/project/arandu/"
 }

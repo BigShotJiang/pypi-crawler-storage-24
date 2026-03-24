@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-supermemory",
+  "version": "0.2.0",
+  "summary": "Local-first AI memory engine with relational versioning and temporal grounding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openclaw_supermemory-0.2.0.tar.gz",
+  "download_time": "2026-03-24T02:53:00.536558",
+  "package_url": "https://pypi.org/project/openclaw-supermemory/"
+}

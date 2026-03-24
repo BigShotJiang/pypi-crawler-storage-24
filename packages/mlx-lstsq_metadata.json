@@ -1,0 +1,11 @@
+{
+  "name": "mlx-lstsq",
+  "version": "0.1.1",
+  "summary": "Least-squares solvers for MLX with Apple MPS native extensions.",
+  "author": null,
+  "license": "CC0-1.0",
+  "home_page": null,
+  "download_filename": "mlx_lstsq-0.1.1.tar.gz",
+  "download_time": "2026-03-24T02:53:30.690830",
+  "package_url": "https://pypi.org/project/mlx-lstsq/"
+}
