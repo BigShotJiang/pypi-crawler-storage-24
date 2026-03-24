@@ -1,0 +1,11 @@
+{
+  "name": "mcp-coder",
+  "version": "0.1.7",
+  "summary": "AI-powered software development automation toolkit using Claude Code CLI and MCP servers for intelligent code analysis, testing, and implementation workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_coder-0.1.7.tar.gz",
+  "download_time": "2026-03-24T08:03:50.738410",
+  "package_url": "https://pypi.org/project/mcp-coder/"
+}

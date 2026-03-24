@@ -1,0 +1,11 @@
+{
+  "name": "loqedAPI",
+  "version": "2.1.11",
+  "summary": "Python package to use the Loqed Smart Door Lock APIs in a local network. To be used by Home Assistant.",
+  "author": "Casper Polhout",
+  "license": "BSD 2-clause",
+  "home_page": "https://github.com/cpolhout/loqedAPI",
+  "download_filename": "loqedapi-2.1.11.tar.gz",
+  "download_time": "2026-03-24T08:03:57.423412",
+  "package_url": "https://pypi.org/project/loqedAPI/"
+}

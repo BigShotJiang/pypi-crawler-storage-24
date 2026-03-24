@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-storage",
+  "version": "24.0.1",
+  "summary": "Microsoft Azure Storage Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_storage-24.0.1.tar.gz",
+  "download_time": "2026-03-24T08:03:18.859897",
+  "package_url": "https://pypi.org/project/azure-mgmt-storage/"
+}

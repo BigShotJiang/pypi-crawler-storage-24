@@ -1,11 +1,11 @@
 {
   "name": "appstore-review-cli",
-  "version": "0.1.1",
-  "summary": "Scrape App Store and Google Play reviews. Filter the noise. Feed the signal to your coding agent.",
+  "version": "0.1.4",
+  "summary": "Scrape iOS App Store and Google Play reviews. Filter the noise. Feed the signal to your coding agent.",
   "author": "Volkan Kayatas",
   "license": null,
   "home_page": null,
-  "download_filename": "appstore_review_cli-0.1.1.tar.gz",
-  "download_time": "2026-03-23T12:00:49.696339",
+  "download_filename": "appstore_review_cli-0.1.4.tar.gz",
+  "download_time": "2026-03-24T08:03:48.131421",
   "package_url": "https://pypi.org/project/appstore-review-cli/"
 }

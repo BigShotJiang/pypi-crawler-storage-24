@@ -1,0 +1,11 @@
+{
+  "name": "transcriptify",
+  "version": "0.1.0",
+  "summary": "Pluggable transcription library with audio device abstraction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transcriptify-0.1.0.tar.gz",
+  "download_time": "2026-03-24T08:04:03.105173",
+  "package_url": "https://pypi.org/project/transcriptify/"
+}

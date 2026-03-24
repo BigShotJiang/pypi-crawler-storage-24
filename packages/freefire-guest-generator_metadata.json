@@ -1,0 +1,11 @@
+{
+  "name": "freefire-guest-generator",
+  "version": "1.0.0",
+  "summary": "Generate Free Fire guest accounts with full details",
+  "author": "UNKNOWN666",
+  "license": null,
+  "home_page": null,
+  "download_filename": "freefire_guest_generator-1.0.0.tar.gz",
+  "download_time": "2026-03-24T08:03:37.352133",
+  "package_url": "https://pypi.org/project/freefire-guest-generator/"
+}

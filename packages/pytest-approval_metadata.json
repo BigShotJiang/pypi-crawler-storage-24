@@ -1,0 +1,11 @@
+{
+  "name": "pytest-approval",
+  "version": "0.15.1",
+  "summary": "A simple approval test library utilizing external diff programs such as PyCharm and Visual Studio Code to compare approved and received output.",
+  "author": "HeiGIT ohsome team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_approval-0.15.1.tar.gz",
+  "download_time": "2026-03-24T08:03:52.271156",
+  "package_url": "https://pypi.org/project/pytest-approval/"
+}

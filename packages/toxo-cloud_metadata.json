@@ -1,0 +1,11 @@
+{
+  "name": "toxo-cloud",
+  "version": "0.1.0",
+  "summary": "Lightweight TOXO Cloud client and CLI for .toxo layers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toxo_cloud-0.1.0.tar.gz",
+  "download_time": "2026-03-24T08:03:56.913512",
+  "package_url": "https://pypi.org/project/toxo-cloud/"
+}

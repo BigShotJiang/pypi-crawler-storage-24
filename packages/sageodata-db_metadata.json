@@ -1,0 +1,11 @@
+{
+  "name": "sageodata-db",
+  "version": "0.48",
+  "summary": "SA Geodata database querying tool/wrapper/library",
+  "author": "DEW Water Science (Kent Inverarity)",
+  "license": "All rights reserved",
+  "home_page": "https://github.com/dew-waterscience/sageodata_db",
+  "download_filename": "sageodata_db-0.48.tar.gz",
+  "download_time": "2026-03-24T08:03:45.053883",
+  "package_url": "https://pypi.org/project/sageodata-db/"
+}

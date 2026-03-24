@@ -1,11 +1,11 @@
 {
   "name": "mcp-toolz",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Get feedback from ChatGPT, Claude, Gemini, and DeepSeek via MCP tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_toolz-0.4.0.tar.gz",
-  "download_time": "2026-03-11T08:09:23.658513",
+  "download_filename": "mcp_toolz-0.5.0.tar.gz",
+  "download_time": "2026-03-24T08:03:37.867185",
   "package_url": "https://pypi.org/project/mcp-toolz/"
 }

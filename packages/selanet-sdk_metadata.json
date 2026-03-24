@@ -1,11 +1,11 @@
 {
   "name": "selanet-sdk",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Selanet Python SDK - HTTP client for browser automation agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "selanet_sdk-0.2.4-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-23T06:01:16.047515",
+  "download_filename": "selanet_sdk-0.2.6-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-24T08:03:56.403916",
   "package_url": "https://pypi.org/project/selanet-sdk/"
 }

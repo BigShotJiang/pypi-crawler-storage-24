@@ -1,0 +1,11 @@
+{
+  "name": "llama-video",
+  "version": "0.1.1",
+  "summary": "Temporal video support for llama.cpp — frame extraction, preprocessing, and captioning service for Qwen3.5 GGUF models",
+  "author": "Cobdog",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llama_video-0.1.1.tar.gz",
+  "download_time": "2026-03-24T08:04:03.615689",
+  "package_url": "https://pypi.org/project/llama-video/"
+}

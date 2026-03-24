@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-xmlvalidator",
+  "version": "2.1.0",
+  "summary": "A Robot Framework test library for validating XML files against XSD schemas",
+  "author": "Michael Hallik",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotframework_xmlvalidator-2.1.0.tar.gz",
+  "download_time": "2026-03-24T08:03:38.901696",
+  "package_url": "https://pypi.org/project/robotframework-xmlvalidator/"
+}
