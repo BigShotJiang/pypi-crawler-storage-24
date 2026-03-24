@@ -1,0 +1,11 @@
+{
+  "name": "apysource",
+  "version": "0.3.1",
+  "summary": "Verify that your sources still say what you think they say",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apysource-0.3.1.tar.gz",
+  "download_time": "2026-03-24T12:40:20.910309",
+  "package_url": "https://pypi.org/project/apysource/"
+}

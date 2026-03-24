@@ -1,0 +1,11 @@
+{
+  "name": "finasys",
+  "version": "0.1.2",
+  "summary": "Financial data processing, feature engineering and AI agent toolkit for Python",
+  "author": "Ahsan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finasys-0.1.2.tar.gz",
+  "download_time": "2026-03-24T12:40:37.208665",
+  "package_url": "https://pypi.org/project/finasys/"
+}

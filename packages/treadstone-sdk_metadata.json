@@ -1,11 +1,11 @@
 {
   "name": "treadstone-sdk",
-  "version": "0.3.4",
+  "version": "0.3.8",
   "summary": "A client library for accessing treadstone",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "treadstone_sdk-0.3.4.tar.gz",
-  "download_time": "2026-03-24T08:58:34.818822",
+  "download_filename": "treadstone_sdk-0.3.8.tar.gz",
+  "download_time": "2026-03-24T12:40:54.056005",
   "package_url": "https://pypi.org/project/treadstone-sdk/"
 }

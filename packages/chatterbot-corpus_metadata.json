@@ -1,0 +1,11 @@
+{
+  "name": "chatterbot-corpus",
+  "version": "1.3.3",
+  "summary": "A machine readable multilingual dialog corpus.",
+  "author": "Gunther Cox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatterbot_corpus-1.3.3.tar.gz",
+  "download_time": "2026-03-24T12:40:35.576973",
+  "package_url": "https://pypi.org/project/chatterbot-corpus/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cygnus-ssh-mcp",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "summary": "MCP server for SSH remote server management",
-  "author": "Peter Ritter",
+  "author": "Cygnus Systems",
   "license": null,
   "home_page": null,
-  "download_filename": "cygnus_ssh_mcp-1.0.0.tar.gz",
-  "download_time": "2026-03-23T14:19:47.555757",
+  "download_filename": "cygnus_ssh_mcp-1.2.1.tar.gz",
+  "download_time": "2026-03-24T12:40:41.547632",
   "package_url": "https://pypi.org/project/cygnus-ssh-mcp/"
 }

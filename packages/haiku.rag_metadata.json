@@ -1,11 +1,11 @@
 {
   "name": "haiku.rag",
-  "version": "0.34.0",
+  "version": "0.35.0",
   "summary": "Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "haiku_rag-0.34.0.tar.gz",
-  "download_time": "2026-03-13T11:30:56.648879",
+  "download_filename": "haiku_rag-0.35.0.tar.gz",
+  "download_time": "2026-03-24T12:40:44.810461",
   "package_url": "https://pypi.org/project/haiku.rag/"
 }

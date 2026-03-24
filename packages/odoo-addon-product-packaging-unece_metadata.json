@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-packaging-unece",
+  "version": "16.0.1.0.0.2",
+  "summary": "UNECE nomenclature for product packaging",
+  "author": "ACSONE SA/NV, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/community-data-files",
+  "download_filename": "odoo_addon_product_packaging_unece-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-24T12:41:00.608434",
+  "package_url": "https://pypi.org/project/odoo-addon-product-packaging-unece/"
+}
