@@ -1,11 +1,11 @@
 {
   "name": "python-code-quality",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Python Code Quality Analysis Tool - feed the results from 11 CQ tools straight into an LLM. Minimal tokens.",
-  "author": null,
+  "author": "Chris Kilner",
   "license": null,
   "home_page": null,
-  "download_filename": "python_code_quality-0.1.9.tar.gz",
-  "download_time": "2026-03-08T12:36:19.734539",
+  "download_filename": "python_code_quality-0.1.10.tar.gz",
+  "download_time": "2026-03-24T07:06:20.072546",
   "package_url": "https://pypi.org/project/python-code-quality/"
 }

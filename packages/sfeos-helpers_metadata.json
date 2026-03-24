@@ -1,0 +1,11 @@
+{
+  "name": "sfeos-helpers",
+  "version": "6.14.1",
+  "summary": "Helper library for the Elasticsearch and Opensearch stac-fastapi backends.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sfeos_helpers-6.14.1.tar.gz",
+  "download_time": "2026-03-24T07:06:12.863104",
+  "package_url": "https://pypi.org/project/sfeos-helpers/"
+}

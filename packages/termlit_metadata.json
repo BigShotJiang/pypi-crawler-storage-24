@@ -1,0 +1,11 @@
+{
+  "name": "termlit",
+  "version": "0.4.0",
+  "summary": "Termlit is a small Python tool that provides an SSH server interface. It makes it easy to expose interactive applications over SSH — for example, to host AI-powered conversational services that users can connect to with an SSH client.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "termlit-0.4.0.tar.gz",
+  "download_time": "2026-03-24T07:06:39.417768",
+  "package_url": "https://pypi.org/project/termlit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "infiagent",
-  "version": "3.0.5",
+  "version": "3.1.0",
   "summary": "InfiAgent multi-agent framework for long-running task automation",
   "author": "Chenglin Yu",
   "license": "MIT",
   "home_page": "https://github.com/ChenglinPoly/Multi-Level-Agent",
-  "download_filename": "infiagent-3.0.5.tar.gz",
-  "download_time": "2026-03-20T08:39:25.493712",
+  "download_filename": "infiagent-3.1.0.tar.gz",
+  "download_time": "2026-03-24T07:06:35.669011",
   "package_url": "https://pypi.org/project/infiagent/"
 }

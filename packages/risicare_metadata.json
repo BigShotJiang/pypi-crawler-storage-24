@@ -1,11 +1,11 @@
 {
   "name": "risicare",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Risicare SDK - Observability and self-healing for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "risicare-0.1.9.tar.gz",
-  "download_time": "2026-03-22T09:54:15.414939",
+  "download_filename": "risicare-0.1.10.tar.gz",
+  "download_time": "2026-03-24T07:06:15.119070",
   "package_url": "https://pypi.org/project/risicare/"
 }

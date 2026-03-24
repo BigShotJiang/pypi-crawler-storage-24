@@ -1,11 +1,11 @@
 {
   "name": "deepsearcheath",
-  "version": "3.3.5",
+  "version": "3.3.9",
   "summary": "Heath taylored DeepSearch api.",
   "author": "Heath",
   "license": null,
   "home_page": "https://github.com/htaehpeed/deepsearcheath",
-  "download_filename": "deepsearcheath-3.3.5-py3-none-any.whl",
-  "download_time": "2026-03-24T06:02:06.276191",
+  "download_filename": "deepsearcheath-3.3.9-py3-none-any.whl",
+  "download_time": "2026-03-24T07:06:13.988619",
   "package_url": "https://pypi.org/project/deepsearcheath/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "floeval",
+  "version": "0.2.0b1",
+  "summary": "A multi-backend evaluation framework for LLM, RAG, and agentic systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "floeval-0.2.0b1.tar.gz",
+  "download_time": "2026-03-24T07:06:34.550343",
+  "package_url": "https://pypi.org/project/floeval/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pipecat-wavix",
+  "version": "1.0.1",
+  "summary": "Wavix WebSocket serializer for Pipecat",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipecat_wavix-1.0.1.tar.gz",
+  "download_time": "2026-03-24T07:06:00.973862",
+  "package_url": "https://pypi.org/project/pipecat-wavix/"
+}

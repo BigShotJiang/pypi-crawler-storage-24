@@ -1,11 +1,11 @@
 {
   "name": "py-sse",
-  "version": "0.0.5",
+  "version": "0.0.11",
   "summary": "Minimal Async implementation for sse",
   "author": "Deufel",
   "license": null,
   "home_page": null,
-  "download_filename": "py_sse-0.0.5.tar.gz",
-  "download_time": "2026-03-22T22:26:27.800750",
+  "download_filename": "py_sse-0.0.11.tar.gz",
+  "download_time": "2026-03-24T07:06:24.383303",
   "package_url": "https://pypi.org/project/py-sse/"
 }
