@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-yandex",
+  "version": "4.4.0",
+  "summary": "Provider package apache-airflow-providers-yandex for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_yandex-4.4.0.tar.gz",
+  "download_time": "2026-03-24T23:33:48.653232",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-yandex/"
+}

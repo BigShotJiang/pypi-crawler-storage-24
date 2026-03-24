@@ -1,0 +1,11 @@
+{
+  "name": "carbon-black-cloud-sdk",
+  "version": "1.5.10",
+  "summary": "Carbon Black Cloud Python SDK",
+  "author": "Carbon Black",
+  "license": "MIT",
+  "home_page": "https://github.com/carbonblack/carbon-black-cloud-sdk-python",
+  "download_filename": "carbon_black_cloud_sdk-1.5.10.tar.gz",
+  "download_time": "2026-03-24T23:33:34.478684",
+  "package_url": "https://pypi.org/project/carbon-black-cloud-sdk/"
+}

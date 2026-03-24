@@ -1,11 +1,11 @@
 {
   "name": "vibe-rag",
-  "version": "0.0.30",
-  "summary": "Semantic code search and persistent memory MCP server for Mistral Vibe",
+  "version": "0.2.0",
+  "summary": "Semantic repo search and persistent memory MCP server for coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vibe_rag-0.0.30.tar.gz",
-  "download_time": "2026-03-23T22:32:43.484260",
+  "download_filename": "vibe_rag-0.2.0.tar.gz",
+  "download_time": "2026-03-24T23:33:37.111714",
   "package_url": "https://pypi.org/project/vibe-rag/"
 }

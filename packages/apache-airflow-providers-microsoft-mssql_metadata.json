@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-microsoft-mssql",
+  "version": "4.5.0",
+  "summary": "Provider package apache-airflow-providers-microsoft-mssql for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_microsoft_mssql-4.5.0.tar.gz",
+  "download_time": "2026-03-24T23:34:09.509510",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-microsoft-mssql/"
+}

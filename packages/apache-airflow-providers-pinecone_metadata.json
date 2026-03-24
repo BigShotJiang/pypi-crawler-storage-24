@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-pinecone",
+  "version": "2.4.2",
+  "summary": "Provider package apache-airflow-providers-pinecone for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_pinecone-2.4.2.tar.gz",
+  "download_time": "2026-03-24T23:34:00.636282",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-pinecone/"
+}

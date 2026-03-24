@@ -1,0 +1,11 @@
+{
+  "name": "kronaxis",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Kronaxis Panel Studio API",
+  "author": "Kronaxis Limited",
+  "license": null,
+  "home_page": "https://github.com/kronaxis/kronaxis-python-sdk",
+  "download_filename": "kronaxis-0.1.0.tar.gz",
+  "download_time": "2026-03-24T23:33:27.623515",
+  "package_url": "https://pypi.org/project/kronaxis/"
+}

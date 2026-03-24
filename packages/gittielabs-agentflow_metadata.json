@@ -1,11 +1,11 @@
 {
   "name": "gittielabs-agentflow",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Context engineering framework for multi-agent systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gittielabs_agentflow-0.5.0.tar.gz",
-  "download_time": "2026-03-24T21:44:49.616038",
+  "download_filename": "gittielabs_agentflow-0.5.1.tar.gz",
+  "download_time": "2026-03-24T23:33:33.950079",
   "package_url": "https://pypi.org/project/gittielabs-agentflow/"
 }

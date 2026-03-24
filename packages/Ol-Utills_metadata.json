@@ -1,0 +1,11 @@
+{
+  "name": "Ol-Utills",
+  "version": "0.6.0",
+  "summary": "A lightweight Flask utility library providing validation, authentication decorators, and database helpers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ol_utills-0.6.0.tar.gz",
+  "download_time": "2026-03-24T23:33:41.825581",
+  "package_url": "https://pypi.org/project/Ol-Utills/"
+}
