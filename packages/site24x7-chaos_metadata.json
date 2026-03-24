@@ -1,0 +1,11 @@
+{
+  "name": "site24x7-chaos",
+  "version": "1.1.0",
+  "summary": "Site24x7 Labs Chaos SDK for Python — inject realistic faults into Flask and FastAPI applications",
+  "author": "Site24x7 Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "site24x7_chaos-1.1.0.tar.gz",
+  "download_time": "2026-03-24T10:53:31.110592",
+  "package_url": "https://pypi.org/project/site24x7-chaos/"
+}

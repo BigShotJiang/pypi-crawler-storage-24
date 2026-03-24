@@ -1,0 +1,11 @@
+{
+  "name": "hyperlink-button",
+  "version": "0.1.3",
+  "summary": "Streamlit custom component: hyperlink-like button with stock button API",
+  "author": "OpenCode",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperlink_button-0.1.3.tar.gz",
+  "download_time": "2026-03-24T10:53:33.658246",
+  "package_url": "https://pypi.org/project/hyperlink-button/"
+}

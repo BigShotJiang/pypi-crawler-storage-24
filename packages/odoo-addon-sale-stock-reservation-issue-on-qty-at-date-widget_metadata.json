@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-stock-reservation-issue-on-qty-at-date-widget",
+  "version": "18.0.1.0.2",
+  "summary": "Warn user when a reservation issue will happen when confirming an order",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_stock_reservation_issue_on_qty_at_date_widget-18.0.1.0.2-py3-none-any.whl",
+  "download_time": "2026-03-24T10:53:19.848777",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-stock-reservation-issue-on-qty-at-date-widget/"
+}

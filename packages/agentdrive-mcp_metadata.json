@@ -1,0 +1,11 @@
+{
+  "name": "agentdrive-mcp",
+  "version": "0.1.1",
+  "summary": "Agent Drive MCP server for Claude Code",
+  "author": "Agent Drive",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentdrive_mcp-0.1.1.tar.gz",
+  "download_time": "2026-03-24T10:53:16.786329",
+  "package_url": "https://pypi.org/project/agentdrive-mcp/"
+}

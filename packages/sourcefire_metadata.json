@@ -1,11 +1,11 @@
 {
   "name": "sourcefire",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Get instant context on any codebase. One command to index, ask questions in plain English, get answers grounded in actual code.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sourcefire-0.3.6.tar.gz",
-  "download_time": "2026-03-24T08:58:27.430798",
+  "download_filename": "sourcefire-0.3.7.tar.gz",
+  "download_time": "2026-03-24T10:53:02.744080",
   "package_url": "https://pypi.org/project/sourcefire/"
 }

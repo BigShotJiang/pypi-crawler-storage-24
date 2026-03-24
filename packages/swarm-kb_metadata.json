@@ -1,11 +1,11 @@
 {
   "name": "swarm-kb",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Shared knowledge base for the Swarm suite (ReviewSwarm, FixSwarm, DocSwarm, ArchSwarm)",
-  "author": "fozzfut",
+  "author": "Ilya Sidorov",
   "license": null,
   "home_page": null,
-  "download_filename": "swarm_kb-0.1.1.tar.gz",
-  "download_time": "2026-03-22T19:43:44.252431",
+  "download_filename": "swarm_kb-0.2.1.tar.gz",
+  "download_time": "2026-03-24T10:52:53.408901",
   "package_url": "https://pypi.org/project/swarm-kb/"
 }

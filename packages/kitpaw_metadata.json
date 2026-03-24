@@ -1,11 +1,11 @@
 {
   "name": "kitpaw",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python implementation of paw agents and AI integrations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kitpaw-0.1.1.tar.gz",
-  "download_time": "2026-03-24T07:06:14.554894",
+  "download_filename": "kitpaw-0.1.2.tar.gz",
+  "download_time": "2026-03-24T10:53:35.193234",
   "package_url": "https://pypi.org/project/kitpaw/"
 }

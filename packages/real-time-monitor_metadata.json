@@ -1,0 +1,11 @@
+{
+  "name": "real-time-monitor",
+  "version": "0.3.0",
+  "summary": "A probe and a monitor to investigate your application real time behavior.",
+  "author": null,
+  "license": "CeCILL-C",
+  "home_page": null,
+  "download_filename": "real_time_monitor-0.3.0-cp310-cp310-macosx_10_15_universal2.whl",
+  "download_time": "2026-03-24T10:52:58.099491",
+  "package_url": "https://pypi.org/project/real-time-monitor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ProFed",
+  "version": "0.7.5",
+  "summary": "A benchmark for proximity-based non-IID Federated Learning",
+  "author": "Davide Domini",
+  "license": "MIT",
+  "home_page": "https://github.com/davidedomini/ProFed",
+  "download_filename": "profed-0.7.5.tar.gz",
+  "download_time": "2026-03-24T10:53:13.187548",
+  "package_url": "https://pypi.org/project/ProFed/"
+}

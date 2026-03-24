@@ -1,11 +1,11 @@
 {
   "name": "hype-defense",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "HyPE: Hyperbolic Prompt Espial (ICLR 2026)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hype_defense-0.1.3.tar.gz",
-  "download_time": "2026-03-24T09:57:40.478384",
+  "download_filename": "hype_defense-0.1.5.tar.gz",
+  "download_time": "2026-03-24T10:53:19.338862",
   "package_url": "https://pypi.org/project/hype-defense/"
 }

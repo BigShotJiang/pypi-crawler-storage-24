@@ -1,0 +1,11 @@
+{
+  "name": "django-config-models",
+  "version": "3.0.0",
+  "summary": "Configuration models for Django allowing config management with auditing.",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/django-config-models",
+  "download_filename": "django_config_models-3.0.0.tar.gz",
+  "download_time": "2026-03-24T10:53:21.382852",
+  "package_url": "https://pypi.org/project/django-config-models/"
+}

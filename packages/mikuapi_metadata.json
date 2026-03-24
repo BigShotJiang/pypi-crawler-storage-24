@@ -1,0 +1,11 @@
+{
+  "name": "mikuapi",
+  "version": "0.1.0",
+  "summary": "MikuAPI: A modern lightweight Python web framework",
+  "author": "Qwanwin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mikuapi-0.1.0.tar.gz",
+  "download_time": "2026-03-24T10:53:18.829817",
+  "package_url": "https://pypi.org/project/mikuapi/"
+}

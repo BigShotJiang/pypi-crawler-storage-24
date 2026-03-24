@@ -1,11 +1,11 @@
 {
   "name": "taskito",
-  "version": "0.9.0",
+  "version": "0.10.1",
   "summary": "Rust-powered task queue for Python. No broker required.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "taskito-0.9.0.tar.gz",
-  "download_time": "2026-03-22T06:36:47.274019",
+  "download_filename": "taskito-0.10.1.tar.gz",
+  "download_time": "2026-03-24T10:53:22.916294",
   "package_url": "https://pypi.org/project/taskito/"
 }

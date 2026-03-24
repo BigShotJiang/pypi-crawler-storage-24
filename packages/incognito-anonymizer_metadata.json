@@ -1,11 +1,11 @@
 {
   "name": "incognito-anonymizer",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "A module to anonymize french text data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "incognito_anonymizer-1.4.4.tar.gz",
-  "download_time": "2026-03-24T09:58:10.298083",
+  "download_filename": "incognito_anonymizer-1.4.5.tar.gz",
+  "download_time": "2026-03-24T10:52:52.896384",
   "package_url": "https://pypi.org/project/incognito-anonymizer/"
 }

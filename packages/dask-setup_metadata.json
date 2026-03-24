@@ -1,0 +1,11 @@
+{
+  "name": "dask-setup",
+  "version": "2.0.0",
+  "summary": "HPC-tuned Dask helpers for single-node runs on NCI Gadi.",
+  "author": "Sam Green",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dask_setup-2.0.0.tar.gz",
+  "download_time": "2026-03-24T10:52:55.000262",
+  "package_url": "https://pypi.org/project/dask-setup/"
+}

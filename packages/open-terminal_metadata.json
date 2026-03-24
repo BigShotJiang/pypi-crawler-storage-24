@@ -1,11 +1,11 @@
 {
   "name": "open-terminal",
-  "version": "0.11.26",
+  "version": "0.11.28",
   "summary": "A remote terminal API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "open_terminal-0.11.26.tar.gz",
-  "download_time": "2026-03-20T23:00:32.930643",
+  "download_filename": "open_terminal-0.11.28.tar.gz",
+  "download_time": "2026-03-24T10:53:25.973280",
   "package_url": "https://pypi.org/project/open-terminal/"
 }
