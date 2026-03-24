@@ -1,0 +1,11 @@
+{
+  "name": "wecom-bot-svr",
+  "version": "0.3.4",
+  "summary": "WeCom Bot Callback Server Simple Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wecom_bot_svr-0.3.4.tar.gz",
+  "download_time": "2026-03-24T09:57:42.525476",
+  "package_url": "https://pypi.org/project/wecom-bot-svr/"
+}

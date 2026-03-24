@@ -1,0 +1,11 @@
+{
+  "name": "shopcloud-serverless",
+  "version": "4.33.0",
+  "summary": "CLI tool for creating a serverles api with API Gateway and Cloud Functions",
+  "author": "Konstantin Stoldt",
+  "license": "MIT",
+  "home_page": "https://github.com/Talk-Point/shopcloud-serverless-cli",
+  "download_filename": "shopcloud_serverless-4.33.0.tar.gz",
+  "download_time": "2026-03-24T09:57:48.687122",
+  "package_url": "https://pypi.org/project/shopcloud-serverless/"
+}

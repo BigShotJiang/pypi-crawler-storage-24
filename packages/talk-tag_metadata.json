@@ -1,0 +1,11 @@
+{
+  "name": "talk-tag",
+  "version": "0.3.0",
+  "summary": "Transcript annotator for speaker-scoped CHAT corpus correction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "talk_tag-0.3.0.tar.gz",
+  "download_time": "2026-03-24T09:57:51.756931",
+  "package_url": "https://pypi.org/project/talk-tag/"
+}

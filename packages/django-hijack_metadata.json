@@ -1,0 +1,11 @@
+{
+  "name": "django-hijack",
+  "version": "3.7.7",
+  "summary": "Enable users to hijack (=login as) and work on behalf of another user.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_hijack-3.7.7.tar.gz",
+  "download_time": "2026-03-24T09:58:08.248300",
+  "package_url": "https://pypi.org/project/django-hijack/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "spark-advisor-rules",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "Deterministic rules engine for Spark job analysis",
   "author": "Pawel Stysz",
   "license": null,
   "home_page": null,
-  "download_filename": "spark_advisor_rules-0.1.17.tar.gz",
-  "download_time": "2026-03-23T10:20:49.172218",
+  "download_filename": "spark_advisor_rules-0.1.18.tar.gz",
+  "download_time": "2026-03-24T09:58:16.997944",
   "package_url": "https://pypi.org/project/spark-advisor-rules/"
 }

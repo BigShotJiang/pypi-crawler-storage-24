@@ -1,11 +1,11 @@
 {
   "name": "htmlgraph",
-  "version": "0.34.16",
+  "version": "0.34.27",
   "summary": "Local-first observability and coordination platform for AI-assisted development. Document-backed work items with SQLite-indexed runtime state, and multi-agent session tracking.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "htmlgraph-0.34.16.tar.gz",
-  "download_time": "2026-03-23T01:53:47.619883",
+  "download_filename": "htmlgraph-0.34.27.tar.gz",
+  "download_time": "2026-03-24T09:58:18.546901",
   "package_url": "https://pypi.org/project/htmlgraph/"
 }

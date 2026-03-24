@@ -1,0 +1,11 @@
+{
+  "name": "japhrase",
+  "version": "0.3.2",
+  "summary": "Pure-math text intelligence engine for Japanese — vocabulary richness, contamination detection, writing habit analysis, character voice fingerprinting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "japhrase-0.3.2.tar.gz",
+  "download_time": "2026-03-24T09:58:15.462515",
+  "package_url": "https://pypi.org/project/japhrase/"
+}

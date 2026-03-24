@@ -1,0 +1,11 @@
+{
+  "name": "pygeonlp",
+  "version": "1.2.5",
+  "summary": "A Python module for geotagging Japanese texts.",
+  "author": "GeoNLP Project Team",
+  "license": "2-Clause \"Simplified\" BSD License",
+  "home_page": "https://github.com/geonlp-platform/pygeonlp",
+  "download_filename": "pygeonlp-1.2.5.tar.gz",
+  "download_time": "2026-03-24T09:58:04.126223",
+  "package_url": "https://pypi.org/project/pygeonlp/"
+}

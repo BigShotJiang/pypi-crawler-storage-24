@@ -1,0 +1,11 @@
+{
+  "name": "panda-data-tools",
+  "version": "0.0.1",
+  "summary": "PandaAI 金融数据 API 的 LLM Tool 封装层，将 38 个数据查询方法封装为符合 function calling 规范的 tools。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "panda_data_tools-0.0.1.tar.gz",
+  "download_time": "2026-03-24T09:57:43.035727",
+  "package_url": "https://pypi.org/project/panda-data-tools/"
+}
