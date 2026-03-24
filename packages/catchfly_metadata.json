@@ -1,11 +1,11 @@
 {
   "name": "catchfly",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Catch the structured data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "catchfly-0.8.0.tar.gz",
-  "download_time": "2026-03-23T20:42:36.412082",
+  "download_filename": "catchfly-0.8.1.tar.gz",
+  "download_time": "2026-03-24T08:58:47.897879",
   "package_url": "https://pypi.org/project/catchfly/"
 }

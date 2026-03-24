@@ -1,0 +1,11 @@
+{
+  "name": "lgtm-cli",
+  "version": "1.3.0",
+  "summary": "Lightweight CLI for querying Loki, Prometheus/Mimir, and Tempo",
+  "author": "Aiman Ismail",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lgtm_cli-1.3.0.tar.gz",
+  "download_time": "2026-03-24T08:58:24.839349",
+  "package_url": "https://pypi.org/project/lgtm-cli/"
+}

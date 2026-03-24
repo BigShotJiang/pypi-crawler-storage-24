@@ -1,11 +1,11 @@
 {
   "name": "anusara",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "summary": "Deterministic execution engine with traceable, immutable history",
   "author": "Nataraj Narayana",
-  "license": "MIT",
+  "license": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n        SOFTWARE.",
   "home_page": null,
-  "download_filename": "anusara-1.1.1.tar.gz",
-  "download_time": "2026-03-23T08:14:47.911664",
+  "download_filename": "anusara-1.2.1.tar.gz",
+  "download_time": "2026-03-24T08:58:41.071183",
   "package_url": "https://pypi.org/project/anusara/"
 }

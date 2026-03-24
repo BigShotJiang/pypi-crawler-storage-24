@@ -1,0 +1,11 @@
+{
+  "name": "dna-segmentation-benchmark",
+  "version": "0.1.1",
+  "summary": "Metrics for nucleotide-level DNA segmentation benchmarking",
+  "author": "Benjamin Kroeger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dna_segmentation_benchmark-0.1.1.tar.gz",
+  "download_time": "2026-03-24T08:58:24.320609",
+  "package_url": "https://pypi.org/project/dna-segmentation-benchmark/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nubra-mcp",
+  "version": "0.1.0",
+  "summary": "Nubra MCP server for Codex and other MCP clients",
+  "author": "Nubra MCP Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nubra_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-24T08:58:26.394407",
+  "package_url": "https://pypi.org/project/nubra-mcp/"
+}

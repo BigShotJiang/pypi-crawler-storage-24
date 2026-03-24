@@ -1,0 +1,11 @@
+{
+  "name": "ramp-coreoperator",
+  "version": "0.0.3",
+  "summary": "Package for applying operations on cores from coremaker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ramp_coreoperator-0.0.3.tar.gz",
+  "download_time": "2026-03-24T08:58:42.682773",
+  "package_url": "https://pypi.org/project/ramp-coreoperator/"
+}

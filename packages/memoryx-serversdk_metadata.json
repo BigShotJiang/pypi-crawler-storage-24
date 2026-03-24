@@ -1,0 +1,11 @@
+{
+  "name": "memoryx-serversdk",
+  "version": "1.0.1",
+  "summary": "MemoryX ServerSDK - Server-side SDK for MemoryX API",
+  "author": "MemoryX Team",
+  "license": "MIT",
+  "home_page": "https://github.com/t0ken-ai/MemoryX",
+  "download_filename": "memoryx_serversdk-1.0.1.tar.gz",
+  "download_time": "2026-03-24T08:58:33.244985",
+  "package_url": "https://pypi.org/project/memoryx-serversdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bandcamp-explorer",
+  "version": "0.2.0",
+  "summary": "Python library and CLI for Bandcamp data",
+  "author": "Gabriel Jung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bandcamp_explorer-0.2.0.tar.gz",
+  "download_time": "2026-03-24T08:58:57.261567",
+  "package_url": "https://pypi.org/project/bandcamp-explorer/"
+}

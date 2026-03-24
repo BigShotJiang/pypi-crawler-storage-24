@@ -1,11 +1,11 @@
 {
   "name": "milady",
-  "version": "2.0.0a116",
+  "version": "2.0.0a119",
   "summary": "Dynamic loader for Milady — personal AI assistant built on elizaOS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "milady-2.0.0a116.tar.gz",
-  "download_time": "2026-03-22T05:39:52.574431",
+  "download_filename": "milady-2.0.0a119.tar.gz",
+  "download_time": "2026-03-24T08:58:46.338103",
   "package_url": "https://pypi.org/project/milady/"
 }

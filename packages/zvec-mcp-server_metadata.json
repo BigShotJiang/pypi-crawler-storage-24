@@ -1,0 +1,11 @@
+{
+  "name": "zvec-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP server for Zvec vector database",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zvec_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-03-24T08:58:25.357651",
+  "package_url": "https://pypi.org/project/zvec-mcp-server/"
+}

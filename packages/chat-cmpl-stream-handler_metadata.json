@@ -1,0 +1,11 @@
+{
+  "name": "chat-cmpl-stream-handler",
+  "version": "0.2.0",
+  "summary": "Chat Completion Stream Handler",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chat_cmpl_stream_handler-0.2.0.tar.gz",
+  "download_time": "2026-03-24T08:58:58.300034",
+  "package_url": "https://pypi.org/project/chat-cmpl-stream-handler/"
+}

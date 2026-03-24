@@ -1,0 +1,11 @@
+{
+  "name": "jira-extended-mcp",
+  "version": "0.1.0",
+  "summary": "Extended Jira MCP Server - Full CRUD, bulk ops, sprints, releases, and more",
+  "author": "Moobean Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jira_extended_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-24T08:58:52.578387",
+  "package_url": "https://pypi.org/project/jira-extended-mcp/"
+}
