@@ -1,0 +1,11 @@
+{
+  "name": "algotik-tse",
+  "version": "1.0.2",
+  "summary": "A comprehensive Python library for fetching Tehran Stock Exchange (TSETMC) and currency/coin market data.",
+  "author": "Mohsen Alipour",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/mohsenalipour/algotik_tse",
+  "download_filename": "algotik_tse-1.0.2-py3-none-any.whl",
+  "download_time": "2026-03-24T19:46:47.456437",
+  "package_url": "https://pypi.org/project/algotik-tse/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gitaid",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "AI-powered aid for Git",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitaid-0.4.1.tar.gz",
-  "download_time": "2026-03-24T17:44:17.963996",
+  "download_filename": "gitaid-0.4.2.tar.gz",
+  "download_time": "2026-03-24T19:47:03.452488",
   "package_url": "https://pypi.org/project/gitaid/"
 }

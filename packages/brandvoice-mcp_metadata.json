@@ -1,0 +1,11 @@
+{
+  "name": "brandvoice-mcp",
+  "version": "0.1.0",
+  "summary": "An MCP server that learns your writing style and makes every AI client sound like you",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brandvoice_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-24T19:46:23.704927",
+  "package_url": "https://pypi.org/project/brandvoice-mcp/"
+}

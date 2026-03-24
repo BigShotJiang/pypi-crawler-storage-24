@@ -1,0 +1,11 @@
+{
+  "name": "openedx-events",
+  "version": "11.0.0",
+  "summary": "Open edX events from the Hooks Extensions Framework",
+  "author": "edX",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/openedx/openedx-events",
+  "download_filename": "openedx_events-11.0.0.tar.gz",
+  "download_time": "2026-03-24T19:46:44.888971",
+  "package_url": "https://pypi.org/project/openedx-events/"
+}

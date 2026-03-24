@@ -1,0 +1,11 @@
+{
+  "name": "r-tcp",
+  "version": "2.6.8.4",
+  "summary": "HioSW R-TCP Protocol Stack: TnDM (SMS) & GSM Data System",
+  "author": "R-TCP Developer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "r_tcp-2.6.8.4.tar.gz",
+  "download_time": "2026-03-24T19:46:38.669209",
+  "package_url": "https://pypi.org/project/r-tcp/"
+}

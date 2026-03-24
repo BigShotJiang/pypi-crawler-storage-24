@@ -1,11 +1,11 @@
 {
   "name": "modaic-client",
-  "version": "0.25.0",
+  "version": "0.25.2",
   "summary": "Modaic client SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "modaic_client-0.25.0.tar.gz",
-  "download_time": "2026-03-23T23:05:07.714287",
+  "download_filename": "modaic_client-0.25.2.tar.gz",
+  "download_time": "2026-03-24T19:46:35.009959",
   "package_url": "https://pypi.org/project/modaic-client/"
 }

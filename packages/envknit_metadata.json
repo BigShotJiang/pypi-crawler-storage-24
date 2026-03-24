@@ -1,11 +1,11 @@
 {
   "name": "envknit",
-  "version": "0.1.1",
-  "summary": "Multi-environment package manager for Python with dependency isolation",
+  "version": "0.1.2",
+  "summary": "Multi-version Python package manager and dependency isolation tool",
   "author": "EnvKnit Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "envknit-0.1.1.tar.gz",
-  "download_time": "2026-03-16T22:54:58.538835",
+  "download_filename": "envknit-0.1.2.tar.gz",
+  "download_time": "2026-03-24T19:47:07.088868",
   "package_url": "https://pypi.org/project/envknit/"
 }
