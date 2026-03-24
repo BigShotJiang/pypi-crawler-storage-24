@@ -1,0 +1,11 @@
+{
+  "name": "aipop",
+  "version": "0.8.0",
+  "summary": "One CLI for AI security testing. Recon, scan, fuzz, chain, gate.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aipop-0.8.0.tar.gz",
+  "download_time": "2026-03-24T04:56:20.110784",
+  "package_url": "https://pypi.org/project/aipop/"
+}

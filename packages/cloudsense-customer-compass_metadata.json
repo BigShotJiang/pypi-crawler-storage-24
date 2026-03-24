@@ -1,11 +1,11 @@
 {
   "name": "cloudsense-customer-compass",
-  "version": "0.12.2",
+  "version": "0.14.0",
   "summary": "MCP server for CloudSense customer upgrade assessment, analysis, and impact verification.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloudsense_customer_compass-0.12.2.tar.gz",
-  "download_time": "2026-03-23T10:21:16.860792",
+  "download_filename": "cloudsense_customer_compass-0.14.0.tar.gz",
+  "download_time": "2026-03-24T04:56:25.336259",
   "package_url": "https://pypi.org/project/cloudsense-customer-compass/"
 }

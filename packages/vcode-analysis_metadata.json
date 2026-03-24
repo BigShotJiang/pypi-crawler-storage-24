@@ -1,11 +1,11 @@
 {
   "name": "vcode-analysis",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "基于大模型的智能代码分析工具，支持代码审查、文档生成、架构分析和安全扫描",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vcode_analysis-0.3.0.tar.gz",
-  "download_time": "2026-03-20T04:01:54.654357",
+  "download_filename": "vcode_analysis-0.4.0.tar.gz",
+  "download_time": "2026-03-24T04:56:26.892243",
   "package_url": "https://pypi.org/project/vcode-analysis/"
 }

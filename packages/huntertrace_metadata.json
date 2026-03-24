@@ -1,11 +1,11 @@
 {
   "name": "huntertrace",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Advanced phishing actor attribution using Bayesian inference and graph analysis",
   "author": "Akshay V",
   "license": "MIT",
   "home_page": "https://github.com/akshaydotweb/huntertrace",
-  "download_filename": "huntertrace-1.1.2.tar.gz",
-  "download_time": "2026-03-11T08:09:24.231634",
+  "download_filename": "huntertrace-1.2.0.tar.gz",
+  "download_time": "2026-03-24T04:56:27.934112",
   "package_url": "https://pypi.org/project/huntertrace/"
 }

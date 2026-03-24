@@ -1,11 +1,11 @@
 {
   "name": "insurance-analysis-mcp",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "MCP Tool for Insurance Customer Analysis with CoT Reasoning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "insurance_analysis_mcp-1.0.6.tar.gz",
-  "download_time": "2026-03-23T07:09:23.419529",
+  "download_filename": "insurance_analysis_mcp-1.0.7.tar.gz",
+  "download_time": "2026-03-24T04:55:56.122904",
   "package_url": "https://pypi.org/project/insurance-analysis-mcp/"
 }

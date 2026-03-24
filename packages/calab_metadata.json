@@ -1,11 +1,11 @@
 {
   "name": "calab",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "CaLab: calcium imaging analysis tools — deconvolution and data preparation",
   "author": "Daniel Aharoni",
   "license": null,
   "home_page": null,
-  "download_filename": "calab-0.2.2.tar.gz",
-  "download_time": "2026-03-22T20:26:28.890828",
+  "download_filename": "calab-0.2.3.tar.gz",
+  "download_time": "2026-03-24T04:56:28.451691",
   "package_url": "https://pypi.org/project/calab/"
 }

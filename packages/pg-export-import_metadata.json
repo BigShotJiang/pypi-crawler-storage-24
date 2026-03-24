@@ -1,11 +1,11 @@
 {
   "name": "pg-export-import",
-  "version": "0.1.0b1",
+  "version": "0.1.0b3",
   "summary": "Stream-export filtered PostgreSQL rows to CSV and bulk-import via COPY",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pg_export_import-0.1.0b1.tar.gz",
-  "download_time": "2026-03-23T17:17:13.364160",
+  "download_filename": "pg_export_import-0.1.0b3.tar.gz",
+  "download_time": "2026-03-24T04:56:00.820128",
   "package_url": "https://pypi.org/project/pg-export-import/"
 }

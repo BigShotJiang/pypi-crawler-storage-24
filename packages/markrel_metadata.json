@@ -1,0 +1,11 @@
+{
+  "name": "markrel",
+  "version": "0.1.0",
+  "summary": "🐟 markrel - Markov chain model for document relevance prediction",
+  "author": "markrel contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markrel-0.1.0.tar.gz",
+  "download_time": "2026-03-24T04:56:41.975398",
+  "package_url": "https://pypi.org/project/markrel/"
+}
