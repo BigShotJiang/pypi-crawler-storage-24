@@ -1,0 +1,11 @@
+{
+  "name": "girder-google-analytics",
+  "version": "3.2.12",
+  "summary": "Allow the tracking of page views via Google Analytics.",
+  "author": "Kitware, Inc.",
+  "license": "Apache 2.0",
+  "home_page": "http://girder.readthedocs.io/en/latest/plugins.html#google-analytics",
+  "download_filename": "girder_google_analytics-3.2.12.tar.gz",
+  "download_time": "2026-03-24T17:44:33.297026",
+  "package_url": "https://pypi.org/project/girder-google-analytics/"
+}

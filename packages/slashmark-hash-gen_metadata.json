@@ -1,0 +1,11 @@
+{
+  "name": "slashmark-hash-gen",
+  "version": "1.0.0",
+  "summary": "Generate MD5 and SHA256 hashes",
+  "author": "Slash Mark",
+  "license": null,
+  "home_page": "https://slashmark.in",
+  "download_filename": "slashmark_hash_gen-1.0.0.tar.gz",
+  "download_time": "2026-03-24T17:44:18.482121",
+  "package_url": "https://pypi.org/project/slashmark-hash-gen/"
+}

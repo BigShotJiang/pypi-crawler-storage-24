@@ -1,0 +1,11 @@
+{
+  "name": "scparadise",
+  "version": "1.0.0",
+  "summary": "Single-Cell RNA-seq data analysis.",
+  "author": "Vadim Chechekhin, Elizaveta Chechekhina",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "scparadise-1.0.0.tar.gz",
+  "download_time": "2026-03-24T17:44:45.918227",
+  "package_url": "https://pypi.org/project/scparadise/"
+}

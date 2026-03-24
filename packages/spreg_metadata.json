@@ -1,0 +1,11 @@
+{
+  "name": "spreg",
+  "version": "1.9.0",
+  "summary": "PySAL Spatial Econometric Regression in Python",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "spreg-1.9.0.tar.gz",
+  "download_time": "2026-03-24T17:44:45.399373",
+  "package_url": "https://pypi.org/project/spreg/"
+}

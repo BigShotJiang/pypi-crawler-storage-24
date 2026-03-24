@@ -1,0 +1,11 @@
+{
+  "name": "forgememory-enterprise",
+  "version": "1.0.0",
+  "summary": "Python SDK for ForgeMemory Enterprise — multi-tenant AI memory at scale",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "forgememory_enterprise-1.0.0.tar.gz",
+  "download_time": "2026-03-24T17:44:19.546420",
+  "package_url": "https://pypi.org/project/forgememory-enterprise/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aioitd",
+  "version": "0.4.0",
+  "summary": "Асинхронный клиент для итд.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aioitd-0.4.0-py3-none-any.whl",
+  "download_time": "2026-03-24T17:44:15.873497",
+  "package_url": "https://pypi.org/project/aioitd/"
+}

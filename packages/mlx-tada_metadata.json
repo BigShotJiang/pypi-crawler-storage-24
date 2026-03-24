@@ -1,0 +1,11 @@
+{
+  "name": "mlx-tada",
+  "version": "0.1.0",
+  "summary": "TADA speech synthesis on Apple Silicon via MLX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_tada-0.1.0.tar.gz",
+  "download_time": "2026-03-24T17:44:43.323419",
+  "package_url": "https://pypi.org/project/mlx-tada/"
+}

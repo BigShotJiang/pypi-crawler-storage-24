@@ -1,0 +1,11 @@
+{
+  "name": "bella-baxter",
+  "version": "0.1.1rc13",
+  "summary": "Python SDK for the Bella Baxter secret management platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bella_baxter-0.1.1rc13.tar.gz",
+  "download_time": "2026-03-24T17:44:10.150005",
+  "package_url": "https://pypi.org/project/bella-baxter/"
+}

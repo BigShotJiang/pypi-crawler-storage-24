@@ -1,0 +1,11 @@
+{
+  "name": "pact-platform",
+  "version": "0.3.0",
+  "summary": "PACT Platform — human judgment surface for governed AI operations. Org definition, approval UX, work management, dashboard, and deployment on top of kailash-pact governance primitives.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pact_platform-0.3.0.tar.gz",
+  "download_time": "2026-03-24T17:44:25.410606",
+  "package_url": "https://pypi.org/project/pact-platform/"
+}

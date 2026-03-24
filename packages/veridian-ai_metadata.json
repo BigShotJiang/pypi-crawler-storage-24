@@ -1,0 +1,11 @@
+{
+  "name": "veridian-ai",
+  "version": "0.1.0",
+  "summary": "Production-grade infrastructure for reliable long-running AI agents — verified, crash-safe, observable.",
+  "author": "Veridian contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "veridian_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-24T17:44:05.437721",
+  "package_url": "https://pypi.org/project/veridian-ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sigmund",
-  "version": "1.19.2",
+  "version": "1.20.0",
   "summary": "AI-based chatbot that provides sensible answers based on documentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sigmund-1.19.2.tar.gz",
-  "download_time": "2026-03-14T09:58:38.378442",
+  "download_filename": "sigmund-1.20.0.tar.gz",
+  "download_time": "2026-03-24T17:44:48.068590",
   "package_url": "https://pypi.org/project/sigmund/"
 }

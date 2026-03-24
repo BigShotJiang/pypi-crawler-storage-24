@@ -1,0 +1,11 @@
+{
+  "name": "exp_ory_kratos_client_async",
+  "version": "25.4.0",
+  "summary": "Ory Identities API",
+  "author": "OpenAPI Generator community",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/ory/sdk",
+  "download_filename": "exp_ory_kratos_client_async-25.4.0-py3-none-any.whl",
+  "download_time": "2026-03-24T17:44:16.921953",
+  "package_url": "https://pypi.org/project/exp_ory_kratos_client_async/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slashmark-json-validator",
+  "version": "1.0.0",
+  "summary": "Validate JSON from CLI",
+  "author": "Slash Mark",
+  "license": null,
+  "home_page": "https://slashmark.in",
+  "download_filename": "slashmark_json_validator-1.0.0.tar.gz",
+  "download_time": "2026-03-24T17:44:49.136390",
+  "package_url": "https://pypi.org/project/slashmark-json-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alexandria-project",
+  "version": "0.1.2",
+  "summary": "Unified CatPhan phantom analysis library - combining best features from multiple implementations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alexandria_project-0.1.2.tar.gz",
+  "download_time": "2026-03-24T17:44:40.726851",
+  "package_url": "https://pypi.org/project/alexandria-project/"
+}

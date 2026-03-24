@@ -1,11 +1,11 @@
 {
   "name": "busylight-core",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Busylight Core Implementation for Humans, presumably like you!",
   "author": "JnyJny",
   "license": null,
   "home_page": null,
-  "download_filename": "busylight_core-2.0.0.tar.gz",
-  "download_time": "2026-03-15T17:57:09.098776",
+  "download_filename": "busylight_core-2.1.0.tar.gz",
+  "download_time": "2026-03-24T17:44:09.630074",
   "package_url": "https://pypi.org/project/busylight-core/"
 }

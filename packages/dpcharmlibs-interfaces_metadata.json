@@ -1,0 +1,11 @@
+{
+  "name": "dpcharmlibs-interfaces",
+  "version": "1.0.0",
+  "summary": "The dpcharmlibs.interfaces package.",
+  "author": "The Data Platform team at Canonical Ltd.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dpcharmlibs_interfaces-1.0.0.tar.gz",
+  "download_time": "2026-03-24T17:44:21.721199",
+  "package_url": "https://pypi.org/project/dpcharmlibs-interfaces/"
+}

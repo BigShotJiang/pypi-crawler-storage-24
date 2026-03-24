@@ -1,11 +1,11 @@
 {
   "name": "geney",
-  "version": "2.1.1",
+  "version": "2.3.1",
   "summary": "Computational genomics pipeline for predicting functional impacts of mutations on gene expression.",
   "author": "Nicolas Lynn",
   "license": "Free for non-commercial use",
   "home_page": "https://github.com/nicolaslynn/geney",
-  "download_filename": "geney-2.1.1.tar.gz",
-  "download_time": "2026-03-23T22:01:55.292590",
+  "download_filename": "geney-2.3.1.tar.gz",
+  "download_time": "2026-03-24T17:44:44.368335",
   "package_url": "https://pypi.org/project/geney/"
 }

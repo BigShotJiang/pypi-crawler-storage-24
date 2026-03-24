@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-profiler",
+  "version": "1.5.0",
+  "summary": "A FastAPI Middleware of pyinstrument to check your service performance.",
+  "author": "sunhailin-Leo",
+  "license": "MIT",
+  "home_page": "https://github.com/sunhailin-Leo/fastapi_profiler",
+  "download_filename": "fastapi_profiler-1.5.0-py3-none-any.whl",
+  "download_time": "2026-03-24T17:44:37.492578",
+  "package_url": "https://pypi.org/project/fastapi-profiler/"
+}
