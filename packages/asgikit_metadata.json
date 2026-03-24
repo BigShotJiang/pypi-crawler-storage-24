@@ -1,0 +1,11 @@
+{
+  "name": "asgikit",
+  "version": "0.18.2",
+  "summary": "Toolkit for building ASGI applications and libraries",
+  "author": "Livio Ribeiro",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asgikit-0.18.2.tar.gz",
+  "download_time": "2026-03-24T11:41:00.929291",
+  "package_url": "https://pypi.org/project/asgikit/"
+}

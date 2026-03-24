@@ -1,11 +1,11 @@
 {
   "name": "opensandbox-server",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "FastAPI control plane for OpenSandbox that manages sandbox lifecycle on Docker (ready) and Kubernetes (planned) runtimes.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opensandbox_server-0.1.8.tar.gz",
-  "download_time": "2026-03-22T07:33:34.430745",
+  "download_filename": "opensandbox_server-0.1.9.tar.gz",
+  "download_time": "2026-03-24T11:40:59.861853",
   "package_url": "https://pypi.org/project/opensandbox-server/"
 }

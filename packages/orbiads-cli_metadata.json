@@ -1,11 +1,11 @@
 {
   "name": "orbiads-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "OrbiAds CLI — Google Ad Manager from the command line",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orbiads_cli-1.0.0.tar.gz",
-  "download_time": "2026-03-24T08:58:48.414965",
+  "download_filename": "orbiads_cli-1.0.1.tar.gz",
+  "download_time": "2026-03-24T11:40:47.512086",
   "package_url": "https://pypi.org/project/orbiads-cli/"
 }

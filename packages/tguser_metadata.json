@@ -1,0 +1,11 @@
+{
+  "name": "tguser",
+  "version": "1.0.0",
+  "summary": "Telegram username checker module - Check if a Telegram username is available or taken",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/telegram-username-checker",
+  "download_filename": "tguser-1.0.0.tar.gz",
+  "download_time": "2026-03-24T11:40:58.315534",
+  "package_url": "https://pypi.org/project/tguser/"
+}

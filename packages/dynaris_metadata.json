@@ -1,11 +1,11 @@
 {
   "name": "dynaris",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A JAX-powered Python library for Dynamic Linear Models (DLMs)",
   "author": "quantsci",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dynaris-0.1.0.tar.gz",
-  "download_time": "2026-03-24T02:53:20.146223",
+  "download_filename": "dynaris-0.1.1.tar.gz",
+  "download_time": "2026-03-24T11:40:55.755472",
   "package_url": "https://pypi.org/project/dynaris/"
 }

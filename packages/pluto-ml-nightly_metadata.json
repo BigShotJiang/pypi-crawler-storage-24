@@ -1,11 +1,11 @@
 {
   "name": "pluto-ml-nightly",
-  "version": "0.0.13.dev20260322105533",
+  "version": "0.0.14.dev20260324112615",
   "summary": "Pluto ML - Machine Learning Operations Framework",
   "author": "jqssun",
   "license": null,
   "home_page": null,
-  "download_filename": "pluto_ml_nightly-0.0.13.dev20260322105533.tar.gz",
-  "download_time": "2026-03-22T10:58:08.345100",
+  "download_filename": "pluto_ml_nightly-0.0.14.dev20260324112615.tar.gz",
+  "download_time": "2026-03-24T11:41:04.543986",
   "package_url": "https://pypi.org/project/pluto-ml-nightly/"
 }

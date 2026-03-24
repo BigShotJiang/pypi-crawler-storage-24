@@ -1,0 +1,11 @@
+{
+  "name": "mcp-google-gmail",
+  "version": "0.1.4",
+  "summary": "MCP server for Gmail API — list, read, send, draft, label, and trash emails",
+  "author": "MindMade D.O.O.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_google_gmail-0.1.4.tar.gz",
+  "download_time": "2026-03-24T11:40:40.783644",
+  "package_url": "https://pypi.org/project/mcp-google-gmail/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "praisonaippt",
-  "version": "1.4.11",
-  "summary": "PraisonAI PPT - Create beautiful PowerPoint presentations from Bible verses in JSON format",
+  "version": "1.4.15",
+  "summary": "PraisonAI PPT - Create beautiful PowerPoint presentations from Bible verses in JSON or YAML format",
   "author": "MervinPraison",
   "license": null,
   "home_page": "https://github.com/MervinPraison/PraisonAIPPT",
-  "download_filename": "praisonaippt-1.4.11.tar.gz",
-  "download_time": "2026-03-24T04:56:41.450727",
+  "download_filename": "praisonaippt-1.4.15.tar.gz",
+  "download_time": "2026-03-24T11:40:24.561677",
   "package_url": "https://pypi.org/project/praisonaippt/"
 }

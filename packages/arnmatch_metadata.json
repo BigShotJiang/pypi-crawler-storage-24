@@ -1,0 +1,11 @@
+{
+  "name": "arnmatch",
+  "version": "2026.3.1",
+  "summary": "Parse AWS ARNs into structured data (2000+ resource types)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arnmatch-2026.3.1.tar.gz",
+  "download_time": "2026-03-24T11:40:27.186040",
+  "package_url": "https://pypi.org/project/arnmatch/"
+}

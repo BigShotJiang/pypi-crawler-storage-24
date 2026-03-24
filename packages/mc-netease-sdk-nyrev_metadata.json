@@ -1,0 +1,11 @@
+{
+  "name": "mc-netease-sdk-nyrev",
+  "version": "3.7.0.70304",
+  "summary": "Netease ModSDK completion library revised version by Nuoyan",
+  "author": "Nuoyan",
+  "license": "MIT",
+  "home_page": "https://github.com/charminglee/mc-netease-sdk-nyrev",
+  "download_filename": "mc_netease_sdk_nyrev-3.7.0.70304.tar.gz",
+  "download_time": "2026-03-24T11:41:03.519302",
+  "package_url": "https://pypi.org/project/mc-netease-sdk-nyrev/"
+}

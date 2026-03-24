@@ -1,0 +1,11 @@
+{
+  "name": "ydb-mcp",
+  "version": "0.1.7",
+  "summary": "Model Context Protocol server for YDB DBMS",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ydb_mcp-0.1.7.tar.gz",
+  "download_time": "2026-03-24T11:40:56.781018",
+  "package_url": "https://pypi.org/project/ydb-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sa-openapi",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "SensorsData Analytics OpenAPI Python SDK and CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sa_openapi-0.1.7.tar.gz",
-  "download_time": "2026-03-24T08:03:45.565734",
+  "download_filename": "sa_openapi-0.1.8.tar.gz",
+  "download_time": "2026-03-24T11:40:49.049531",
   "package_url": "https://pypi.org/project/sa-openapi/"
 }
