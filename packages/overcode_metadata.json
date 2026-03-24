@@ -1,11 +1,11 @@
 {
   "name": "overcode",
-  "version": "0.2.5",
+  "version": "0.3.2",
   "summary": "A supervisor for managing multiple Claude Code instances in tmux",
   "author": "Mike Bond",
   "license": null,
   "home_page": null,
-  "download_filename": "overcode-0.2.5.tar.gz",
-  "download_time": "2026-03-09T23:51:13.069420",
+  "download_filename": "overcode-0.3.2.tar.gz",
+  "download_time": "2026-03-24T00:06:38.942125",
   "package_url": "https://pypi.org/project/overcode/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "litparser",
-  "version": "1.5.1",
-  "summary": "Lightweight Document Parser - 순수 Python으로 PDF, DOCX, PPTX, HWPX 파싱",
+  "version": "1.5.2",
+  "summary": "⚠️ Moved to GitHub. Install: pip install git+https://github.com/ironwung/litparser.git",
   "author": "ironwung",
-  "license": null,
+  "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/ironwung/litparser",
-  "download_filename": "litparser-1.5.1.tar.gz",
-  "download_time": "2026-03-23T06:00:58.315336",
+  "download_filename": "litparser-1.5.2.tar.gz",
+  "download_time": "2026-03-24T00:06:50.529832",
   "package_url": "https://pypi.org/project/litparser/"
 }

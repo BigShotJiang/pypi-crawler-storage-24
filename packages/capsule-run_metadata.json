@@ -1,11 +1,11 @@
 {
   "name": "capsule-run",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Secure WASM runtime to isolate and manage AI agent tasks",
   "author": "Capsule Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "capsule_run-0.7.0.tar.gz",
-  "download_time": "2026-03-23T09:19:25.978685",
+  "download_filename": "capsule_run-0.7.1.tar.gz",
+  "download_time": "2026-03-24T00:07:12.219032",
   "package_url": "https://pypi.org/project/capsule-run/"
 }

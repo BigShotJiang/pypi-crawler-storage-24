@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-mlp-sdk",
+  "version": "0.1.1",
+  "summary": "A Python wrapper library for SageMaker SDK v3 with configuration-driven defaults",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sagemaker_mlp_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-24T00:06:55.715179",
+  "package_url": "https://pypi.org/project/sagemaker-mlp-sdk/"
+}

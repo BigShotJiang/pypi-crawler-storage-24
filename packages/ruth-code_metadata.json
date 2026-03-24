@@ -1,11 +1,11 @@
 {
   "name": "ruth-code",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Interactive codebase topology visualizer — Google Maps for your repo",
   "author": "Electric Sheep Africa",
   "license": null,
   "home_page": null,
-  "download_filename": "ruth_code-0.1.5-py3-none-any.whl",
-  "download_time": "2026-03-23T23:05:27.503450",
+  "download_filename": "ruth_code-0.1.7-py3-none-any.whl",
+  "download_time": "2026-03-24T00:06:44.722686",
   "package_url": "https://pypi.org/project/ruth-code/"
 }

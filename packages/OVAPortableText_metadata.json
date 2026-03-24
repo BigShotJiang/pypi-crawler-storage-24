@@ -1,11 +1,11 @@
 {
   "name": "OVAPortableText",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python builder for generating OVAPortableText / Report Profile v1 JSON documents",
   "author": "FENG QU",
   "license": null,
   "home_page": null,
-  "download_filename": "ovaportabletext-0.1.0.tar.gz",
-  "download_time": "2026-03-21T01:30:12.945800",
+  "download_filename": "ovaportabletext-0.1.2.tar.gz",
+  "download_time": "2026-03-24T00:07:03.206126",
   "package_url": "https://pypi.org/project/OVAPortableText/"
 }

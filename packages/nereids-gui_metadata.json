@@ -1,11 +1,11 @@
 {
   "name": "nereids-gui",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "GUI application for NEREIDS neutron resonance imaging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nereids_gui-0.1.3-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-12T01:26:18.473727",
+  "download_filename": "nereids_gui-0.1.6-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-24T00:06:37.396909",
   "package_url": "https://pypi.org/project/nereids-gui/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pytest-flakemark",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "FLAKEMARK — Differential execution tracer that finds the exact file, line, and root cause of any flaky test.",
   "author": "Khushdeep Sharma",
   "license": null,
-  "home_page": "https://github.com/khushsharma509/flakemark",
-  "download_filename": "pytest_flakemark-1.0.0.tar.gz",
-  "download_time": "2026-03-23T22:32:55.552511",
+  "home_page": "https://github.com/itskhushsharma/flakemark",
+  "download_filename": "pytest_flakemark-1.0.2.tar.gz",
+  "download_time": "2026-03-24T00:06:47.949576",
   "package_url": "https://pypi.org/project/pytest-flakemark/"
 }

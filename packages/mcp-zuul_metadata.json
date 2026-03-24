@@ -1,11 +1,11 @@
 {
   "name": "mcp-zuul",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "MCP server for Zuul CI — read-only access to builds, logs, status, and jobs",
   "author": "Itay Matza",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_zuul-0.3.3.tar.gz",
-  "download_time": "2026-03-22T23:57:12.319094",
+  "download_filename": "mcp_zuul-0.3.4.tar.gz",
+  "download_time": "2026-03-24T00:07:10.622498",
   "package_url": "https://pypi.org/project/mcp-zuul/"
 }
