@@ -1,0 +1,11 @@
+{
+  "name": "torch-crps",
+  "version": "2.0.3",
+  "summary": "PyTorch-based implementations of the Continuously-Ranked Probability Score (CRPS) as well as its locally scale-invariant version (SCRPS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_crps-2.0.3.tar.gz",
+  "download_time": "2026-03-24T06:02:06.809131",
+  "package_url": "https://pypi.org/project/torch-crps/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pipeline-csv",
+  "version": "1.24",
+  "summary": "Pipeline inline inspection data as CSV file.",
+  "author": "Vitaly Bogomolov",
+  "license": null,
+  "home_page": "https://github.com/vb64/pipeline.csv",
+  "download_filename": "pipeline_csv-1.24.tar.gz",
+  "download_time": "2026-03-24T06:02:26.255774",
+  "package_url": "https://pypi.org/project/pipeline-csv/"
+}

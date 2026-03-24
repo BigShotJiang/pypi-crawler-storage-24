@@ -1,0 +1,11 @@
+{
+  "name": "house-search-mcp",
+  "version": "0.2.2",
+  "summary": "買屋快搜 — 房屋物件搜尋 MCP Server for Claude Desktop / Codex CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "house_search_mcp-0.2.2.tar.gz",
+  "download_time": "2026-03-24T06:01:55.118591",
+  "package_url": "https://pypi.org/project/house-search-mcp/"
+}

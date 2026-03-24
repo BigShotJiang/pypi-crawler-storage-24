@@ -1,11 +1,11 @@
 {
   "name": "sari",
-  "version": "2.0.37",
+  "version": "2.0.46",
   "summary": "Redesigned high-performance local search and indexing engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sari-2.0.37.tar.gz",
-  "download_time": "2026-03-23T06:01:00.363484",
+  "download_filename": "sari-2.0.46.tar.gz",
+  "download_time": "2026-03-24T06:02:02.777394",
   "package_url": "https://pypi.org/project/sari/"
 }

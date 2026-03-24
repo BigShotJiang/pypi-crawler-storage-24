@@ -1,11 +1,11 @@
 {
   "name": "mcp-keep-feedback",
-  "version": "0.1.2",
-  "summary": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility.",
+  "version": "0.1.8",
+  "summary": "Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring Web UI with intelligent environment detection and cross-platform compatibility.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_keep_feedback-0.1.2.tar.gz",
-  "download_time": "2026-03-09T12:48:53.748871",
+  "download_filename": "mcp_keep_feedback-0.1.8.tar.gz",
+  "download_time": "2026-03-24T06:02:28.405630",
   "package_url": "https://pypi.org/project/mcp-keep-feedback/"
 }

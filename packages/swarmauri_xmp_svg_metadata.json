@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_xmp_svg",
+  "version": "0.1.1.dev46",
+  "summary": "SVG handler for embedding and extracting XMP packets in Swarmauri runtimes.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_xmp_svg-0.1.1.dev46.tar.gz",
+  "download_time": "2026-03-24T06:01:48.405771",
+  "package_url": "https://pypi.org/project/swarmauri_xmp_svg/"
+}

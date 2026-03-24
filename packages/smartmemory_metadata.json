@@ -1,11 +1,11 @@
 {
   "name": "smartmemory",
-  "version": "1.0.30",
+  "version": "1.1.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smartmemory-1.0.30.tar.gz",
-  "download_time": "2026-03-23T09:19:29.643072",
+  "download_filename": "smartmemory-1.1.3.tar.gz",
+  "download_time": "2026-03-24T06:02:16.676873",
   "package_url": "https://pypi.org/project/smartmemory/"
 }

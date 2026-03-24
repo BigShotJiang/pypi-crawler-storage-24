@@ -1,11 +1,11 @@
 {
   "name": "senselab-cli",
-  "version": "0.1.38",
+  "version": "0.1.46",
   "summary": "SenseLab CLI for managing AI agents",
   "author": "SenseLab",
   "license": null,
   "home_page": null,
-  "download_filename": "senselab_cli-0.1.38.tar.gz",
-  "download_time": "2026-03-09T05:45:49.577853",
+  "download_filename": "senselab_cli-0.1.46-py3-none-any.whl",
+  "download_time": "2026-03-24T06:01:59.583553",
   "package_url": "https://pypi.org/project/senselab-cli/"
 }

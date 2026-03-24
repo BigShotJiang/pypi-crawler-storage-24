@@ -1,0 +1,11 @@
+{
+  "name": "CustomeLibrary",
+  "version": "0.0.5",
+  "summary": "CustomeLibrary for Robot Framework",
+  "author": "caiys",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/",
+  "download_filename": "customelibrary-0.0.5.tar.gz",
+  "download_time": "2026-03-24T06:02:21.997793",
+  "package_url": "https://pypi.org/project/CustomeLibrary/"
+}
