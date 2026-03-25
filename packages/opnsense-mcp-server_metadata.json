@@ -1,11 +1,11 @@
 {
   "name": "opnsense-mcp-server",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Secure MCP server for OPNsense firewall management via AI assistants",
   "author": "Luca Marien",
   "license": null,
   "home_page": null,
-  "download_filename": "opnsense_mcp_server-0.3.4.tar.gz",
-  "download_time": "2026-03-24T14:11:16.919020",
+  "download_filename": "opnsense_mcp_server-0.3.5.tar.gz",
+  "download_time": "2026-03-25T18:56:08.643568",
   "package_url": "https://pypi.org/project/opnsense-mcp-server/"
 }

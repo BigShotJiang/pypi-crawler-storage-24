@@ -1,0 +1,11 @@
+{
+  "name": "github-archive",
+  "version": "7.0.4",
+  "summary": "A powerful tool to concurrently clone, pull, or fork user and org repos and gists to create a GitHub archive.",
+  "author": "Justintime50",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "github_archive-7.0.4.tar.gz",
+  "download_time": "2026-03-25T18:56:42.393481",
+  "package_url": "https://pypi.org/project/github-archive/"
+}

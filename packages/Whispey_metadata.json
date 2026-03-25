@@ -1,0 +1,11 @@
+{
+  "name": "Whispey",
+  "version": "4.2.2",
+  "summary": "Voice Analytics SDK for AI Agents",
+  "author": "Whispey AI Voice Analytics",
+  "license": "MIT",
+  "home_page": "https://whispey.xyz/",
+  "download_filename": "whispey-4.2.2.tar.gz",
+  "download_time": "2026-03-25T18:56:15.452026",
+  "package_url": "https://pypi.org/project/Whispey/"
+}

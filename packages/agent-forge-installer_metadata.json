@@ -1,11 +1,11 @@
 {
   "name": "agent-forge-installer",
-  "version": "0.1.23",
+  "version": "0.2.2",
   "summary": "AgentForge — multi-agent Telegram bot framework powered by Claude Code",
   "author": "Martin Rancourt",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_forge_installer-0.1.23.tar.gz",
-  "download_time": "2026-03-25T01:52:13.055241",
+  "download_filename": "agent_forge_installer-0.2.2.tar.gz",
+  "download_time": "2026-03-25T18:56:38.104154",
   "package_url": "https://pypi.org/project/agent-forge-installer/"
 }

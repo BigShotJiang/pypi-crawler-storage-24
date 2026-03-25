@@ -1,11 +1,11 @@
 {
   "name": "fa",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Automation tool for locating symbols & structs in binary (primarily IDA focused)",
   "author": null,
   "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007",
   "home_page": null,
-  "download_filename": "fa-1.0.10.tar.gz",
-  "download_time": "2026-03-13T11:31:19.926380",
+  "download_filename": "fa-1.0.11.tar.gz",
+  "download_time": "2026-03-25T18:56:20.873875",
   "package_url": "https://pypi.org/project/fa/"
 }

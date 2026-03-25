@@ -1,0 +1,11 @@
+{
+  "name": "openbb-adanos",
+  "version": "1.2.2",
+  "summary": "Stock sentiment data from Reddit, X/Twitter, and Polymarket for OpenBB",
+  "author": "Alex Schneider",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openbb_adanos-1.2.2.tar.gz",
+  "download_time": "2026-03-25T18:56:36.501424",
+  "package_url": "https://pypi.org/project/openbb-adanos/"
+}

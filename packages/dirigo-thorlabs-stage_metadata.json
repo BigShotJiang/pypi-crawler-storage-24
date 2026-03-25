@@ -1,0 +1,11 @@
+{
+  "name": "dirigo-thorlabs-stage",
+  "version": "0.1.2",
+  "summary": "Plugin to use Thorlabs motorized stages (multiple versions) with Dirigo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dirigo_thorlabs_stage-0.1.2.tar.gz",
+  "download_time": "2026-03-25T18:56:21.409605",
+  "package_url": "https://pypi.org/project/dirigo-thorlabs-stage/"
+}
