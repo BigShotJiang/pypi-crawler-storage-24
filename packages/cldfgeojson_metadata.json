@@ -1,0 +1,11 @@
+{
+  "name": "cldfgeojson",
+  "version": "2.0.1",
+  "summary": "Functionality to access and curate GeoJSON in CLDF datasets",
+  "author": "Robert Forkel",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/cldf/cldfgeojson",
+  "download_filename": "cldfgeojson-2.0.1.tar.gz",
+  "download_time": "2026-03-25T13:11:40.302166",
+  "package_url": "https://pypi.org/project/cldfgeojson/"
+}

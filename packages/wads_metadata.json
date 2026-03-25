@@ -1,11 +1,11 @@
 {
   "name": "wads",
-  "version": "0.1.68",
+  "version": "0.1.70",
   "summary": "Tools for packaging and publishing to pypi for those who just do not want to deal with it",
   "author": "Thor Whalen",
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "wads-0.1.68.tar.gz",
-  "download_time": "2026-03-16T16:48:09.659462",
+  "download_filename": "wads-0.1.70.tar.gz",
+  "download_time": "2026-03-25T13:11:48.300513",
   "package_url": "https://pypi.org/project/wads/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "attmap",
+  "version": "0.14.0",
+  "summary": "Multiple access patterns for key-value reference",
+  "author": "Nathan Sheffield, Vince Reuter, Michal Stolarczyk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "attmap-0.14.0.tar.gz",
+  "download_time": "2026-03-25T13:11:40.877837",
+  "package_url": "https://pypi.org/project/attmap/"
+}

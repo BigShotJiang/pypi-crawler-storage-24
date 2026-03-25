@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-rpc",
+  "version": "0.0.14",
+  "summary": "Python async client for WhatsApp RPC WebSocket API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whatsapp_rpc-0.0.14.tar.gz",
+  "download_time": "2026-03-25T13:11:48.879916",
+  "package_url": "https://pypi.org/project/whatsapp-rpc/"
+}

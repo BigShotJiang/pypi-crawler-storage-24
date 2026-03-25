@@ -1,0 +1,11 @@
+{
+  "name": "starlyng-smart-reboot",
+  "version": "0.2.5",
+  "summary": "Manage servers by rebooting using BCM in case of crashes.",
+  "author": "Justin Sherwood",
+  "license": "MIT",
+  "home_page": "https://github.com/starlyngapp/smart-reboot",
+  "download_filename": "starlyng_smart_reboot-0.2.5.tar.gz",
+  "download_time": "2026-03-25T13:11:26.010011",
+  "package_url": "https://pypi.org/project/starlyng-smart-reboot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tuya-device-handlers",
-  "version": "0.0.12",
+  "version": "0.0.15",
   "summary": "Tuya quirks library",
   "author": "epenet",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tuya_device_handlers-0.0.12.tar.gz",
-  "download_time": "2026-03-13T14:42:07.998240",
+  "download_filename": "tuya_device_handlers-0.0.15.tar.gz",
+  "download_time": "2026-03-25T13:11:18.524669",
   "package_url": "https://pypi.org/project/tuya-device-handlers/"
 }

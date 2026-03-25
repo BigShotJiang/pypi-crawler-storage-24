@@ -1,0 +1,11 @@
+{
+  "name": "citeget",
+  "version": "0.1.1",
+  "summary": "Find, acquire, and manage academic references — for AI agents and humans.",
+  "author": "Thor Whalen",
+  "license": "apache-2.0",
+  "home_page": null,
+  "download_filename": "citeget-0.1.1.tar.gz",
+  "download_time": "2026-03-25T13:11:44.244971",
+  "package_url": "https://pypi.org/project/citeget/"
+}

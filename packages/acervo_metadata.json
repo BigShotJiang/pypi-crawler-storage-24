@@ -1,0 +1,11 @@
+{
+  "name": "acervo",
+  "version": "0.2.1",
+  "summary": "Context proxy for AI agents. Enriches LLM context from a knowledge graph, extracts knowledge from responses.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "acervo-0.2.1.tar.gz",
+  "download_time": "2026-03-25T13:12:06.081260",
+  "package_url": "https://pypi.org/project/acervo/"
+}

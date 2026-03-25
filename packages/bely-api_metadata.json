@@ -1,11 +1,11 @@
 {
   "name": "bely-api",
-  "version": "2026.3.dev5",
+  "version": "2026.3.0",
   "summary": "Python client API library used to communicate with BELY API.",
   "author": null,
   "license": "Copyright (c) UChicago Argonne, LLC. All rights reserved.",
   "home_page": "https://git.aps.anl.gov/controls/hla/bely",
-  "download_filename": "bely_api-2026.3.dev5.tar.gz",
-  "download_time": "2026-03-17T18:12:33.846799",
+  "download_filename": "bely_api-2026.3.0.tar.gz",
+  "download_time": "2026-03-25T13:11:14.514790",
   "package_url": "https://pypi.org/project/bely-api/"
 }

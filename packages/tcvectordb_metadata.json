@@ -1,0 +1,11 @@
+{
+  "name": "tcvectordb",
+  "version": "2.1.0",
+  "summary": "Tencent VectorDB Python SDK",
+  "author": "tencent vdb team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcvectordb-2.1.0.tar.gz",
+  "download_time": "2026-03-25T13:11:59.910089",
+  "package_url": "https://pypi.org/project/tcvectordb/"
+}

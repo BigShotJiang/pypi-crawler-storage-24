@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-riva-client",
+  "version": "2.25.1",
+  "summary": "Python implementation of the Riva Client API",
+  "author": "Anton Peganov",
+  "license": "MIT",
+  "home_page": "https://github.com/nvidia-riva/python-clients",
+  "download_filename": "nvidia_riva_client-2.25.1-py3-none-any.whl",
+  "download_time": "2026-03-25T13:11:27.740371",
+  "package_url": "https://pypi.org/project/nvidia-riva-client/"
+}

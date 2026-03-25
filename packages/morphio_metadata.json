@@ -1,0 +1,11 @@
+{
+  "name": "morphio",
+  "version": "3.4.2",
+  "summary": "A neuron morphology IO library",
+  "author": "Blue Brain Project, EPFL",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/openbraininstitute/MorphIO",
+  "download_filename": "morphio-3.4.2.tar.gz",
+  "download_time": "2026-03-25T13:11:46.569518",
+  "package_url": "https://pypi.org/project/morphio/"
+}

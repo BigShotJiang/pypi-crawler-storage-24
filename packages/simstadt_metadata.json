@@ -1,11 +1,11 @@
 {
   "name": "simstadt",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python library for using and testing SimStadt workflows.",
   "author": "Eric Duminil",
   "license": null,
   "home_page": null,
-  "download_filename": "simstadt-0.1.2.tar.gz",
-  "download_time": "2026-03-13T21:03:40.167013",
+  "download_filename": "simstadt-0.1.3.tar.gz",
+  "download_time": "2026-03-25T13:11:23.705693",
   "package_url": "https://pypi.org/project/simstadt/"
 }

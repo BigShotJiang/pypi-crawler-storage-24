@@ -1,0 +1,11 @@
+{
+  "name": "blissclient",
+  "version": "1.4.0",
+  "summary": "A python client library for the bliss REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blissclient-1.4.0.tar.gz",
+  "download_time": "2026-03-25T13:11:32.991498",
+  "package_url": "https://pypi.org/project/blissclient/"
+}
