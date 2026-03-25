@@ -1,11 +1,11 @@
 {
   "name": "loka-sdk",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "LOKA Python SDK — Session-based microVM execution for AI agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "loka_sdk-0.5.0.tar.gz",
-  "download_time": "2026-03-25T00:01:21.083295",
+  "download_filename": "loka_sdk-0.6.0.tar.gz",
+  "download_time": "2026-03-25T10:36:01.024344",
   "package_url": "https://pypi.org/project/loka-sdk/"
 }

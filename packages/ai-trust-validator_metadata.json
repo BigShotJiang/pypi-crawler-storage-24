@@ -1,0 +1,11 @@
+{
+  "name": "ai-trust-validator",
+  "version": "0.4.0",
+  "summary": "Validate AI-generated code for security vulnerabilities, hallucinations, and logic errors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_trust_validator-0.4.0.tar.gz",
+  "download_time": "2026-03-25T10:35:40.889783",
+  "package_url": "https://pypi.org/project/ai-trust-validator/"
+}

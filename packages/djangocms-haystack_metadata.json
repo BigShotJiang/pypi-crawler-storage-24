@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-haystack",
+  "version": "0.5.1",
+  "summary": "aldryn-search inspired Haystack index for djangoCMS projects",
+  "author": "Filip Weidemann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangocms_haystack-0.5.1.tar.gz",
+  "download_time": "2026-03-25T10:35:43.957264",
+  "package_url": "https://pypi.org/project/djangocms-haystack/"
+}

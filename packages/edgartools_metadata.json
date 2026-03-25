@@ -1,11 +1,11 @@
 {
   "name": "edgartools",
-  "version": "5.23.4",
+  "version": "5.26.0",
   "summary": "Python library to access and analyze SEC Edgar filings, XBRL financial statements, 10-K, 10-Q, and 8-K reports",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edgartools-5.23.4.tar.gz",
-  "download_time": "2026-03-16T22:55:19.202140",
+  "download_filename": "edgartools-5.26.0.tar.gz",
+  "download_time": "2026-03-25T10:36:05.141533",
   "package_url": "https://pypi.org/project/edgartools/"
 }

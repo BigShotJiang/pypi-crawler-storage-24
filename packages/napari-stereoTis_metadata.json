@@ -1,0 +1,11 @@
+{
+  "name": "napari-stereoTis",
+  "version": "1.0.0",
+  "summary": "Used to mask cells or tissues for spatial transcriptomes",
+  "author": "Qi Fang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "napari_stereotis-1.0.0.tar.gz",
+  "download_time": "2026-03-25T10:35:47.160436",
+  "package_url": "https://pypi.org/project/napari-stereoTis/"
+}

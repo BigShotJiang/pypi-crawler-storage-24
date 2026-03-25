@@ -1,0 +1,11 @@
+{
+  "name": "hasyutils",
+  "version": "2.13.0",
+  "summary": null,
+  "author": "Thorsten Kracht",
+  "license": null,
+  "home_page": "https://gitlab.desy.de/fs-ec/hasyutils",
+  "download_filename": "hasyutils-2.13.0.tar.gz",
+  "download_time": "2026-03-25T10:35:39.869359",
+  "package_url": "https://pypi.org/project/hasyutils/"
+}

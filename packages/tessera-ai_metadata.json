@@ -1,0 +1,11 @@
+{
+  "name": "tessera-ai",
+  "version": "2.0.1",
+  "summary": "OWASP AI Security Testing Framework — 32 automated tests for CV & LLM models",
+  "author": "Tessera Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tessera_ai-2.0.1.tar.gz",
+  "download_time": "2026-03-25T10:35:34.636654",
+  "package_url": "https://pypi.org/project/tessera-ai/"
+}

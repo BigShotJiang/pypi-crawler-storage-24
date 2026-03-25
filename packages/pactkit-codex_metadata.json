@@ -1,0 +1,11 @@
+{
+  "name": "pactkit-codex",
+  "version": "0.2.2",
+  "summary": "PactKit PDCA workflow framework adapted for OpenAI Codex CLI",
+  "author": "Slim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pactkit_codex-0.2.2.tar.gz",
+  "download_time": "2026-03-25T10:35:28.321466",
+  "package_url": "https://pypi.org/project/pactkit-codex/"
+}

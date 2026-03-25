@@ -1,0 +1,11 @@
+{
+  "name": "push-service",
+  "version": "0.1.1",
+  "summary": "A Python implementation of the Push API",
+  "author": "Andrea Esuli",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/aesuli/push_service",
+  "download_filename": "push_service-0.1.1.tar.gz",
+  "download_time": "2026-03-25T10:35:22.382465",
+  "package_url": "https://pypi.org/project/push-service/"
+}

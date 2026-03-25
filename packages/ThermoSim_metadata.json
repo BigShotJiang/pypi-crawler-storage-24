@@ -1,0 +1,11 @@
+{
+  "name": "ThermoSim",
+  "version": "3.0.0",
+  "summary": "A Python package for thermodynamic cycle modelling and analysis",
+  "author": "Md. Waheduzzaman Basunia Nouman",
+  "license": "MIT",
+  "home_page": "https://github.com/Nouman090/ThermoSim",
+  "download_filename": "thermosim-3.0.0.tar.gz",
+  "download_time": "2026-03-25T10:35:42.425267",
+  "package_url": "https://pypi.org/project/ThermoSim/"
+}

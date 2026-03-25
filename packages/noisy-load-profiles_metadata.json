@@ -1,0 +1,11 @@
+{
+  "name": "noisy-load-profiles",
+  "version": "0.1.20",
+  "summary": "A Python package for adding realistic noise to electrical load or current profiles. Useful for studying robustness to noise of algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "noisy_load_profiles-0.1.20.tar.gz",
+  "download_time": "2026-03-25T10:35:49.199516",
+  "package_url": "https://pypi.org/project/noisy-load-profiles/"
+}

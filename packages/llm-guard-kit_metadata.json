@@ -1,11 +1,11 @@
 {
   "name": "llm-guard-kit",
-  "version": "0.63.0",
-  "summary": "v0.63.0: Library reorganization — 69 modules into 11 domain subdirs, full unit test suite (1945 tests), module headers, exception narrowing.",
+  "version": "0.65.2",
+  "summary": "v0.65.2: README corrected — SC_OLD HP 0.817→0.625 (live chains), J5 Haiku fresh-holdout numbers, DomainRouter and cross-arch ensemble added to validated AUROC table.",
   "author": "Avighan Majumder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_guard_kit-0.63.0.tar.gz",
-  "download_time": "2026-03-24T11:40:41.815239",
+  "download_filename": "llm_guard_kit-0.65.2.tar.gz",
+  "download_time": "2026-03-25T10:36:04.103521",
   "package_url": "https://pypi.org/project/llm-guard-kit/"
 }

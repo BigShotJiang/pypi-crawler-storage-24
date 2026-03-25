@@ -1,11 +1,11 @@
 {
   "name": "openlit",
-  "version": "1.38.2",
+  "version": "1.39.0",
   "summary": "OpenTelemetry-native Auto instrumentation library for monitoring LLM Applications and GPUs, facilitating the integration of observability into your GenAI-driven projects",
   "author": "OpenLIT",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openlit-1.38.2.tar.gz",
-  "download_time": "2026-03-24T10:53:20.872869",
+  "download_filename": "openlit-1.39.0.tar.gz",
+  "download_time": "2026-03-25T10:35:50.739411",
   "package_url": "https://pypi.org/project/openlit/"
 }

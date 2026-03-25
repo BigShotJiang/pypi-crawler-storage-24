@@ -1,0 +1,11 @@
+{
+  "name": "paddle-python-sdk",
+  "version": "1.13.1",
+  "summary": "Paddle's Python SDK for Paddle Billing",
+  "author": "Paddle and contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://developer.paddle.com/api-reference/overview",
+  "download_filename": "paddle_python_sdk-1.13.1.tar.gz",
+  "download_time": "2026-03-25T10:35:26.162439",
+  "package_url": "https://pypi.org/project/paddle-python-sdk/"
+}

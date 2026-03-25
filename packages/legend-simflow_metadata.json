@@ -1,0 +1,11 @@
+{
+  "name": "legend-simflow",
+  "version": "1.0.0",
+  "summary": "Python package for processing LEGEND simulations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legend_simflow-1.0.0.tar.gz",
+  "download_time": "2026-03-25T10:35:29.475402",
+  "package_url": "https://pypi.org/project/legend-simflow/"
+}

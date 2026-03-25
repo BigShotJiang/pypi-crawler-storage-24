@@ -1,11 +1,11 @@
 {
   "name": "biapay",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "summary": "Official Python SDK for the BIAPAY Payment Gateway",
-  "author": "BIAPAY",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/biapay/biapay-python",
-  "download_filename": "biapay-4.0.3.tar.gz",
-  "download_time": "2026-03-24T19:47:05.009348",
+  "home_page": null,
+  "download_filename": "biapay-4.0.4.tar.gz",
+  "download_time": "2026-03-25T10:35:51.248838",
   "package_url": "https://pypi.org/project/biapay/"
 }

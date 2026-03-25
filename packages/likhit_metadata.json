@@ -1,0 +1,11 @@
+{
+  "name": "likhit",
+  "version": "0.1.1",
+  "summary": "Nepali PDF-to-Markdown converter powered by MarkItDown",
+  "author": "notashwinii",
+  "license": null,
+  "home_page": null,
+  "download_filename": "likhit-0.1.1.tar.gz",
+  "download_time": "2026-03-25T10:35:34.126975",
+  "package_url": "https://pypi.org/project/likhit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-ags4",
+  "version": "1.2.0",
+  "summary": "A library to read, write, and check AGS4 files using Pandas DataFrames",
+  "author": "Asitha Senanayake",
+  "license": null,
+  "home_page": "https://gitlab.com/ags-data-format-wg/ags-python-library",
+  "download_filename": "python_ags4-1.2.0.tar.gz",
+  "download_time": "2026-03-25T10:35:21.873776",
+  "package_url": "https://pypi.org/project/python-ags4/"
+}
