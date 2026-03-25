@@ -1,11 +1,11 @@
 {
   "name": "nulvec",
-  "version": "0.1.4",
-  "summary": "Perceptual AI security — scan images, PDFs, and web content for adversarial injections",
+  "version": "0.1.6",
+  "summary": "Agent supply chain security — scan packages, code, images, PDFs, and MCP payloads for adversarial attacks",
   "author": "Nulvec",
   "license": null,
   "home_page": null,
-  "download_filename": "nulvec-0.1.4.tar.gz",
-  "download_time": "2026-03-17T21:39:49.096542",
+  "download_filename": "nulvec-0.1.6.tar.gz",
+  "download_time": "2026-03-25T01:51:51.503977",
   "package_url": "https://pypi.org/project/nulvec/"
 }

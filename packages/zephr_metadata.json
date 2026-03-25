@@ -1,0 +1,11 @@
+{
+  "name": "zephr",
+  "version": "0.4.1",
+  "summary": "Secure one-time secret sharing with zero-knowledge encryption",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zephr-0.4.1.tar.gz",
+  "download_time": "2026-03-25T01:51:54.197785",
+  "package_url": "https://pypi.org/project/zephr/"
+}

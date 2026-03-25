@@ -1,11 +1,11 @@
 {
   "name": "tzamuncode",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "TzamunCode - AI Coding Assistant powered by local models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tzamuncode-0.1.1.tar.gz",
-  "download_time": "2026-03-10T23:50:36.742379",
+  "download_filename": "tzamuncode-0.1.4.tar.gz",
+  "download_time": "2026-03-25T01:52:06.485488",
   "package_url": "https://pypi.org/project/tzamuncode/"
 }

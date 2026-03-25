@@ -1,11 +1,11 @@
 {
   "name": "reviewd",
-  "version": "0.4.9",
+  "version": "0.6.0",
   "summary": "Local AI code reviewer for GitHub and BitBucket PRs — uses Claude, Gemini, or Codex CLI to review pull requests and post structured comments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reviewd-0.4.9.tar.gz",
-  "download_time": "2026-03-12T23:24:26.629194",
+  "download_filename": "reviewd-0.6.0.tar.gz",
+  "download_time": "2026-03-25T01:51:50.345782",
   "package_url": "https://pypi.org/project/reviewd/"
 }

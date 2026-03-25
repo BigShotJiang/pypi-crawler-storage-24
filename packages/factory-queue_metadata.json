@@ -1,0 +1,11 @@
+{
+  "name": "factory-queue",
+  "version": "0.1.8",
+  "summary": "流水线工厂模块，支持多节点、多工位、资源控制、磁盘溢出",
+  "author": "wyf",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/factory-queue",
+  "download_filename": "factory_queue-0.1.8.tar.gz",
+  "download_time": "2026-03-25T01:52:01.648550",
+  "package_url": "https://pypi.org/project/factory-queue/"
+}

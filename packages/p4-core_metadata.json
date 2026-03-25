@@ -1,0 +1,11 @@
+{
+  "name": "p4-core",
+  "version": "0.2.2",
+  "summary": "Python ctypes SDK for the P4 Rust core",
+  "author": "P4",
+  "license": null,
+  "home_page": null,
+  "download_filename": "p4_core-0.2.2.tar.gz",
+  "download_time": "2026-03-25T01:51:50.923109",
+  "package_url": "https://pypi.org/project/p4-core/"
+}

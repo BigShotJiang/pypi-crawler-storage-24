@@ -1,0 +1,11 @@
+{
+  "name": "pyadf",
+  "version": "0.3.2",
+  "summary": "A Python library for converting Atlassian Document Format (ADF) to Markdown",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyadf-0.3.2.tar.gz",
+  "download_time": "2026-03-25T01:52:08.684392",
+  "package_url": "https://pypi.org/project/pyadf/"
+}

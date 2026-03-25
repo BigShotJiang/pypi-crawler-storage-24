@@ -1,11 +1,11 @@
 {
   "name": "finsignals-api",
-  "version": "0.2.5",
-  "summary": "Python SDK for the FinSignals financial sentiment classification API",
+  "version": "0.3.0",
+  "summary": "Python SDK for the FinSignals API — Reddit sentiment classification and sector rotation analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finsignals_api-0.2.5.tar.gz",
-  "download_time": "2026-03-23T12:00:56.816874",
+  "download_filename": "finsignals_api-0.3.0.tar.gz",
+  "download_time": "2026-03-25T01:52:02.191622",
   "package_url": "https://pypi.org/project/finsignals-api/"
 }

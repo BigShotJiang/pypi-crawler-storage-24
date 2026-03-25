@@ -1,0 +1,11 @@
+{
+  "name": "pyimgano",
+  "version": "0.6.38",
+  "summary": "Enterprise-Grade Visual Anomaly Detection Toolkit with 120+ registry models and 80+ operations",
+  "author": "PyImgAno Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyimgano-0.6.38.tar.gz",
+  "download_time": "2026-03-25T01:52:00.060942",
+  "package_url": "https://pypi.org/project/pyimgano/"
+}

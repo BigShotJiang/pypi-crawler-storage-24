@@ -1,11 +1,11 @@
 {
   "name": "elhaz",
-  "version": "0.1.6",
-  "summary": "A local AWS credential broker daemon exposed over a Unix socket.",
+  "version": "0.1.8",
+  "summary": "A local daemon-backed AWS temporary credential broker, exposed over a Unix socket and controlled via CLI.",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "elhaz-0.1.6.tar.gz",
-  "download_time": "2026-03-22T18:35:12.786592",
+  "download_filename": "elhaz-0.1.8.tar.gz",
+  "download_time": "2026-03-25T01:52:17.189304",
   "package_url": "https://pypi.org/project/elhaz/"
 }
