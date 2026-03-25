@@ -1,0 +1,11 @@
+{
+  "name": "agentkata",
+  "version": "0.1.4",
+  "summary": "Official Python SDK for the agentkata.dev solver platform",
+  "author": "AgentKata",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentkata-0.1.4.tar.gz",
+  "download_time": "2026-03-25T23:57:26.152993",
+  "package_url": "https://pypi.org/project/agentkata/"
+}

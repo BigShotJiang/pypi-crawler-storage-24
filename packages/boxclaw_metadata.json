@@ -1,0 +1,11 @@
+{
+  "name": "boxclaw",
+  "version": "0.1.2",
+  "summary": "Lean-verified multi-agent sandboxing for OpenClaw and NemoClaw",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/paulinebourigault/boxclaw",
+  "download_filename": "boxclaw-0.1.2.tar.gz",
+  "download_time": "2026-03-25T23:58:03.153490",
+  "package_url": "https://pypi.org/project/boxclaw/"
+}

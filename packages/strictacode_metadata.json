@@ -1,11 +1,11 @@
 {
   "name": "strictacode",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Codebase health diagnostics",
   "author": null,
   "license": "BSD 3-Clause",
   "home_page": null,
-  "download_filename": "strictacode-0.0.3.tar.gz",
-  "download_time": "2026-03-23T18:10:34.848198",
+  "download_filename": "strictacode-0.0.5.tar.gz",
+  "download_time": "2026-03-25T23:57:34.548294",
   "package_url": "https://pypi.org/project/strictacode/"
 }

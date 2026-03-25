@@ -1,0 +1,11 @@
+{
+  "name": "lime-ndt",
+  "version": "0.1.6",
+  "summary": "Enhancing LIME through Neural Decision Trees",
+  "author": "Mohamed Aymen BOUYAHIA",
+  "license": null,
+  "home_page": "https://github.com/aymen20002005/lime_ndt/tree/main",
+  "download_filename": "lime_ndt-0.1.6.tar.gz",
+  "download_time": "2026-03-25T23:57:40.722724",
+  "package_url": "https://pypi.org/project/lime-ndt/"
+}

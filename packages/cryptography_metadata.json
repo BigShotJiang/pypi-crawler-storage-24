@@ -1,0 +1,11 @@
+{
+  "name": "cryptography",
+  "version": "46.0.6",
+  "summary": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptography-46.0.6.tar.gz",
+  "download_time": "2026-03-25T23:58:13.600727",
+  "package_url": "https://pypi.org/project/cryptography/"
+}

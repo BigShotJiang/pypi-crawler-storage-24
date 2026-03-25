@@ -1,0 +1,11 @@
+{
+  "name": "nextstrain-cli",
+  "version": "10.5.0",
+  "summary": "Nextstrain command-line tool",
+  "author": "Thomas Sibley",
+  "license": "MIT",
+  "home_page": "https://docs.nextstrain.org/projects/cli/",
+  "download_filename": "nextstrain_cli-10.5.0.tar.gz",
+  "download_time": "2026-03-25T23:57:35.064994",
+  "package_url": "https://pypi.org/project/nextstrain-cli/"
+}

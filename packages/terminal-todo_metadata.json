@@ -1,0 +1,11 @@
+{
+  "name": "terminal-todo",
+  "version": "1.0.0",
+  "summary": "A beautiful terminal-based todo app built with Textual",
+  "author": "Marco Diaz",
+  "license": null,
+  "home_page": "https://github.com/marcodiazz/terminal-todo",
+  "download_filename": "terminal_todo-1.0.0.tar.gz",
+  "download_time": "2026-03-25T23:58:02.640352",
+  "package_url": "https://pypi.org/project/terminal-todo/"
+}

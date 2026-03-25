@@ -1,11 +1,11 @@
 {
   "name": "codeyak",
-  "version": "0.0.18",
+  "version": "0.0.20",
   "summary": "A code review agent optimized for following strict guidelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codeyak-0.0.18.tar.gz",
-  "download_time": "2026-03-14T03:43:57.050671",
+  "download_filename": "codeyak-0.0.20.tar.gz",
+  "download_time": "2026-03-25T23:58:13.052271",
   "package_url": "https://pypi.org/project/codeyak/"
 }

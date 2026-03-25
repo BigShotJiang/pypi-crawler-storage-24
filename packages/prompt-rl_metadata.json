@@ -1,0 +1,11 @@
+{
+  "name": "prompt-rl",
+  "version": "1.0.0",
+  "summary": "Reinforcement learning framework for prompt refinement with LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_rl-1.0.0.tar.gz",
+  "download_time": "2026-03-25T23:57:57.485616",
+  "package_url": "https://pypi.org/project/prompt-rl/"
+}
