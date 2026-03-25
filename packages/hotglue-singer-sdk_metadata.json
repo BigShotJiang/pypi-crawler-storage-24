@@ -1,11 +1,11 @@
 {
   "name": "hotglue-singer-sdk",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "summary": "A framework for building Singer taps and targets",
   "author": "Hotglue Team and Contributors. Original work by Meltano Team and Contributors.",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "hotglue_singer_sdk-1.0.23.tar.gz",
-  "download_time": "2026-03-23T20:42:39.723421",
+  "download_filename": "hotglue_singer_sdk-1.0.24.tar.gz",
+  "download_time": "2026-03-25T22:38:35.217278",
   "package_url": "https://pypi.org/project/hotglue-singer-sdk/"
 }

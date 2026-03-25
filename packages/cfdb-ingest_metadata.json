@@ -1,11 +1,11 @@
 {
   "name": "cfdb-ingest",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "File format conversions to cfdb",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cfdb_ingest-0.2.1.tar.gz",
-  "download_time": "2026-03-21T07:51:42.580431",
+  "download_filename": "cfdb_ingest-0.2.3.tar.gz",
+  "download_time": "2026-03-25T22:38:17.918992",
   "package_url": "https://pypi.org/project/cfdb-ingest/"
 }

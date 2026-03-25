@@ -1,11 +1,11 @@
 {
   "name": "familiar-agent",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "summary": "Self-Hosted AI Companion Platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "familiar_agent-1.16.0.tar.gz",
-  "download_time": "2026-03-24T06:02:07.435305",
+  "download_filename": "familiar_agent-1.16.1.tar.gz",
+  "download_time": "2026-03-25T22:38:28.978284",
   "package_url": "https://pypi.org/project/familiar-agent/"
 }

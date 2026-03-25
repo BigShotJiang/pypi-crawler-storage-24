@@ -1,0 +1,11 @@
+{
+  "name": "rocketprops",
+  "version": "0.1.9",
+  "summary": "RocketProps models liquid rocket propellants.",
+  "author": "Charlie Taylor",
+  "license": "GPL-3",
+  "home_page": "http://rocketprops.readthedocs.org/en/latest/",
+  "download_filename": "rocketprops-0.1.9.tar.gz",
+  "download_time": "2026-03-25T22:38:25.815162",
+  "package_url": "https://pypi.org/project/rocketprops/"
+}

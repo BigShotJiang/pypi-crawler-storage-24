@@ -1,0 +1,11 @@
+{
+  "name": "agenticcalling",
+  "version": "0.1.0",
+  "summary": "Give your AI agent the ability to make real phone calls. Agent-to-agent voice capability — dial any number, have live conversations, extract structured data. One API call.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agenticcalling-0.1.0.tar.gz",
+  "download_time": "2026-03-25T22:38:56.942823",
+  "package_url": "https://pypi.org/project/agenticcalling/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-hydrosheds",
+  "version": "1.0.2",
+  "summary": "django-hydrosheds is a Django application for handling hydrosheds data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_hydrosheds-1.0.2.tar.gz",
+  "download_time": "2026-03-25T22:38:25.233954",
+  "package_url": "https://pypi.org/project/django-hydrosheds/"
+}

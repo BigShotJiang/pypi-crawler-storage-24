@@ -1,0 +1,11 @@
+{
+  "name": "powerbi-report-as-ontology",
+  "version": "0.4.2",
+  "summary": "Python library for Power BI report ontology parsing and DAX query generation",
+  "author": "viktorradu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "powerbi_report_as_ontology-0.4.2.tar.gz",
+  "download_time": "2026-03-25T22:38:38.884170",
+  "package_url": "https://pypi.org/project/powerbi-report-as-ontology/"
+}

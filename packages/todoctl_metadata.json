@@ -1,11 +1,11 @@
 {
   "name": "todoctl",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Encrypted monthly CLI todo manager with shell-session passphrase cache",
   "author": "Björn Becker",
   "license": null,
   "home_page": null,
-  "download_filename": "todoctl-1.0.8.tar.gz",
-  "download_time": "2026-03-24T11:40:28.740648",
+  "download_filename": "todoctl-1.0.9.tar.gz",
+  "download_time": "2026-03-25T22:38:41.445428",
   "package_url": "https://pypi.org/project/todoctl/"
 }

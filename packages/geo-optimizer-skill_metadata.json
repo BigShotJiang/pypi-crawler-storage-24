@@ -1,11 +1,11 @@
 {
   "name": "geo-optimizer-skill",
-  "version": "3.15.0",
+  "version": "3.15.1",
   "summary": "Generative Engine Optimization toolkit — make websites visible to AI search engines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geo_optimizer_skill-3.15.0.tar.gz",
-  "download_time": "2026-03-25T22:00:34.915064",
+  "download_filename": "geo_optimizer_skill-3.15.1.tar.gz",
+  "download_time": "2026-03-25T22:38:53.876536",
   "package_url": "https://pypi.org/project/geo-optimizer-skill/"
 }

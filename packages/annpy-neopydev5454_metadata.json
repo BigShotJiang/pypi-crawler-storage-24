@@ -1,11 +1,11 @@
 {
   "name": "annpy-neopydev5454",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "A light-weight Artificial Neural Network implementation from scratch",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "annpy_neopydev5454-0.1.5.tar.gz",
-  "download_time": "2026-03-15T20:56:22.202006",
+  "download_filename": "annpy_neopydev5454-0.1.9.tar.gz",
+  "download_time": "2026-03-25T22:38:34.706408",
   "package_url": "https://pypi.org/project/annpy-neopydev5454/"
 }

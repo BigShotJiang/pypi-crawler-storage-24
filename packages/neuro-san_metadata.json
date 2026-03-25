@@ -1,11 +1,11 @@
 {
   "name": "neuro-san",
-  "version": "0.6.41",
+  "version": "0.6.42",
   "summary": "NeuroAI data-driven System for multi-Agent Networks - client, library and server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neuro_san-0.6.41.tar.gz",
-  "download_time": "2026-03-24T22:56:58.984462",
+  "download_filename": "neuro_san-0.6.42.tar.gz",
+  "download_time": "2026-03-25T22:38:37.343906",
   "package_url": "https://pypi.org/project/neuro-san/"
 }

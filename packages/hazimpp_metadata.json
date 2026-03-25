@@ -1,0 +1,11 @@
+{
+  "name": "hazimpp",
+  "version": "3.0.0",
+  "summary": "مكتبة بايسون تظهر اسمك تلقائياً عند كل تشغيل",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hazimpp-3.0.0.tar.gz",
+  "download_time": "2026-03-25T22:38:55.919082",
+  "package_url": "https://pypi.org/project/hazimpp/"
+}

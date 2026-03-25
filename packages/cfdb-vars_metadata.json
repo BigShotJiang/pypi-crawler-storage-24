@@ -1,11 +1,11 @@
 {
   "name": "cfdb-vars",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "variable definitions for cfdb",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cfdb_vars-0.2.0.tar.gz",
-  "download_time": "2026-03-21T19:06:16.041943",
+  "download_filename": "cfdb_vars-0.2.1.tar.gz",
+  "download_time": "2026-03-25T22:38:23.571844",
   "package_url": "https://pypi.org/project/cfdb-vars/"
 }

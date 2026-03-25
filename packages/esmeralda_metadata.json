@@ -1,0 +1,11 @@
+{
+  "name": "esmeralda",
+  "version": "0.6.0",
+  "summary": "Queue request handling with key/value peristence layer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esmeralda-0.6.0.tar.gz",
+  "download_time": "2026-03-25T22:38:38.373967",
+  "package_url": "https://pypi.org/project/esmeralda/"
+}

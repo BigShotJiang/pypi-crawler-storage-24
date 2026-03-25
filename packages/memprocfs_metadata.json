@@ -1,0 +1,11 @@
+{
+  "name": "memprocfs",
+  "version": "5.17.4",
+  "summary": "MemProcFS for Python",
+  "author": "Ulf Frisk",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://github.com/ufrisk/MemProcFS",
+  "download_filename": "memprocfs-5.17.4.tar.gz",
+  "download_time": "2026-03-25T22:38:51.309845",
+  "package_url": "https://pypi.org/project/memprocfs/"
+}
