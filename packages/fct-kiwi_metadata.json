@@ -1,11 +1,11 @@
 {
   "name": "fct-kiwi",
-  "version": "1.18.1",
+  "version": "1.19.0",
   "summary": "Balena fleet management",
   "author": "Juan Pablo Castillo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fct_kiwi-1.18.1.tar.gz",
-  "download_time": "2026-03-13T20:30:17.632126",
+  "download_filename": "fct_kiwi-1.19.0.tar.gz",
+  "download_time": "2026-03-25T15:50:55.789847",
   "package_url": "https://pypi.org/project/fct-kiwi/"
 }

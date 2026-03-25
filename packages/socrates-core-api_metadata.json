@@ -1,11 +1,11 @@
 {
   "name": "socrates-core-api",
-  "version": "0.5.2",
+  "version": "0.5.5",
   "summary": "REST API server for Socrates AI with GitHub-ready project generation, export, and publishing capabilities",
   "author": "Socrates AI Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "socrates_core_api-0.5.2.tar.gz",
-  "download_time": "2026-03-25T13:11:53.401510",
+  "download_filename": "socrates_core_api-0.5.5.tar.gz",
+  "download_time": "2026-03-25T15:50:51.420339",
   "package_url": "https://pypi.org/project/socrates-core-api/"
 }

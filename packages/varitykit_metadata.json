@@ -1,11 +1,11 @@
 {
   "name": "varitykit",
-  "version": "1.1.8",
+  "version": "1.1.15",
   "summary": "Build, deploy, and monetize apps — faster and cheaper than AWS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "varitykit-1.1.8.tar.gz",
-  "download_time": "2026-03-09T23:51:02.124504",
+  "download_filename": "varitykit-1.1.15.tar.gz",
+  "download_time": "2026-03-25T15:50:57.969109",
   "package_url": "https://pypi.org/project/varitykit/"
 }

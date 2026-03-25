@@ -1,0 +1,11 @@
+{
+  "name": "venncy",
+  "version": "0.1.1",
+  "summary": "Area-proportional Venn diagrams for Python with multiple rendering backends",
+  "author": "Arne Robben",
+  "license": null,
+  "home_page": null,
+  "download_filename": "venncy-0.1.1.tar.gz",
+  "download_time": "2026-03-25T15:50:44.352645",
+  "package_url": "https://pypi.org/project/venncy/"
+}

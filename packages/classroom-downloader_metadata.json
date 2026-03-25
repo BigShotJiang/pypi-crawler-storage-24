@@ -1,11 +1,11 @@
 {
   "name": "classroom-downloader",
-  "version": "1.1.2",
+  "version": "1.2.3",
   "summary": "Download lecture PDFs from Google Classroom via the terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "classroom_downloader-1.1.2.tar.gz",
-  "download_time": "2026-03-24T08:03:32.226846",
+  "download_filename": "classroom_downloader-1.2.3.tar.gz",
+  "download_time": "2026-03-25T15:50:42.724521",
   "package_url": "https://pypi.org/project/classroom-downloader/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "HTtoHP",
+  "version": "1.0.0",
+  "summary": "A Python package that generates code templates for ML lab questions - HTtoHP",
+  "author": "ML Lab Generator Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/HTtoHP",
+  "download_filename": "httohp-1.0.0.tar.gz",
+  "download_time": "2026-03-25T15:50:54.704485",
+  "package_url": "https://pypi.org/project/HTtoHP/"
+}

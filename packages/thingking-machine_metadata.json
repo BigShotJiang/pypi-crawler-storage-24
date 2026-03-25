@@ -1,11 +1,11 @@
 {
   "name": "thingking-machine",
-  "version": "0.0.6",
-  "summary": "Machine description",
-  "author": "Machina Ratiocinatrix",
+  "version": "0.0.8",
+  "summary": "A Machine that thingks.",
+  "author": "Machina Ratiocinatrix, Alexander Fedotov",
   "license": null,
   "home_page": null,
-  "download_filename": "thingking_machine-0.0.6.tar.gz",
-  "download_time": "2026-03-22T22:25:43.210333",
+  "download_filename": "thingking_machine-0.0.8.tar.gz",
+  "download_time": "2026-03-25T15:50:56.877383",
   "package_url": "https://pypi.org/project/thingking-machine/"
 }

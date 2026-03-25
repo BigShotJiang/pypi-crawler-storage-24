@@ -1,11 +1,11 @@
 {
   "name": "isometric-calculation-library",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "isometric_calculation_library-0.19.0.tar.gz",
-  "download_time": "2026-03-24T10:53:23.425780",
+  "download_filename": "isometric_calculation_library-0.20.0.tar.gz",
+  "download_time": "2026-03-25T15:51:10.462188",
   "package_url": "https://pypi.org/project/isometric-calculation-library/"
 }

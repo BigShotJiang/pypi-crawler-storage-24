@@ -1,0 +1,11 @@
+{
+  "name": "umaxbot",
+  "version": "0.1.9",
+  "summary": "Async framework for building bots for MAX messenger (aiogram-style)",
+  "author": "werdset",
+  "license": null,
+  "home_page": "https://github.com/werdset/maxbot",
+  "download_filename": "umaxbot-0.1.9.tar.gz",
+  "download_time": "2026-03-25T15:51:17.545377",
+  "package_url": "https://pypi.org/project/umaxbot/"
+}

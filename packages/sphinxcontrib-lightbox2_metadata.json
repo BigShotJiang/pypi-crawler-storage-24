@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-lightbox2",
+  "version": "0.6.0",
+  "summary": "Sphinx extension to add lightbox2 to each figure and image added in HTML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxcontrib_lightbox2-0.6.0.tar.gz",
+  "download_time": "2026-03-25T15:50:40.002701",
+  "package_url": "https://pypi.org/project/sphinxcontrib-lightbox2/"
+}

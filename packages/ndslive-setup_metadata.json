@@ -1,0 +1,11 @@
+{
+  "name": "ndslive-setup",
+  "version": "0.1.0rc1.post7",
+  "summary": "Interactive setup wizard for NDS.Live development environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ndslive_setup-0.1.0rc1.post7.tar.gz",
+  "download_time": "2026-03-25T15:50:37.276665",
+  "package_url": "https://pypi.org/project/ndslive-setup/"
+}

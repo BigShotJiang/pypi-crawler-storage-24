@@ -1,11 +1,11 @@
 {
   "name": "cogent-ai",
-  "version": "1.17.4",
+  "version": "1.17.6",
   "summary": "Production AI agent framework with memory control and semantic caching",
   "author": "Milad Olad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cogent_ai-1.17.4.tar.gz",
-  "download_time": "2026-03-09T15:15:47.643073",
+  "download_filename": "cogent_ai-1.17.6.tar.gz",
+  "download_time": "2026-03-25T15:50:48.159701",
   "package_url": "https://pypi.org/project/cogent-ai/"
 }

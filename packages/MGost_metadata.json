@@ -1,0 +1,11 @@
+{
+  "name": "MGost",
+  "version": "0.5.4",
+  "summary": "MGost converter console app based on ArtichaAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mgost-0.5.4.tar.gz",
+  "download_time": "2026-03-25T15:51:18.635816",
+  "package_url": "https://pypi.org/project/MGost/"
+}

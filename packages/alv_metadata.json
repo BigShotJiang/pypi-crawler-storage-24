@@ -1,0 +1,11 @@
+{
+  "name": "alv",
+  "version": "1.8.2",
+  "summary": "A console-based sequence alignment viewer",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "alv-1.8.2.tar.gz",
+  "download_time": "2026-03-25T15:50:46.521591",
+  "package_url": "https://pypi.org/project/alv/"
+}
