@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-adapter-claweixin",
+  "version": "0.1.0",
+  "summary": "一个 nonebot 的 微信 clawbot 协议适配器",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_adapter_claweixin-0.1.0.tar.gz",
+  "download_time": "2026-03-25T05:45:28.279961",
+  "package_url": "https://pypi.org/project/nonebot-adapter-claweixin/"
+}

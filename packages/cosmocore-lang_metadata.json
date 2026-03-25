@@ -1,0 +1,11 @@
+{
+  "name": "cosmocore-lang",
+  "version": "25.0.0",
+  "summary": "CosmoCore AGI Swarm Language & Compiler (V25)",
+  "author": "Janio Gomes Ribeiro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cosmocore_lang-25.0.0.tar.gz",
+  "download_time": "2026-03-25T05:45:48.090602",
+  "package_url": "https://pypi.org/project/cosmocore-lang/"
+}

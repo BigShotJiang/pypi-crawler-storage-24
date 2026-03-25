@@ -1,0 +1,11 @@
+{
+  "name": "tv-scraper",
+  "version": "1.2.0",
+  "summary": "A powerful Python library for scraping real-time market data, indicators, and ideas from TradingView.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tv_scraper-1.2.0.tar.gz",
+  "download_time": "2026-03-25T05:45:06.489186",
+  "package_url": "https://pypi.org/project/tv-scraper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aqm",
-  "version": "1.2.5",
+  "version": "1.2.11",
   "summary": "AI agent orchestration framework — build, share, and run YAML pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aqm-1.2.5.tar.gz",
-  "download_time": "2026-03-24T12:40:22.540599",
+  "download_filename": "aqm-1.2.11.tar.gz",
+  "download_time": "2026-03-25T05:45:51.693790",
   "package_url": "https://pypi.org/project/aqm/"
 }

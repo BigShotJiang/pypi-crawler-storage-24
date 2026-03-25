@@ -1,0 +1,11 @@
+{
+  "name": "meowth",
+  "version": "0.3.2",
+  "summary": "GBA Pokemon ROM translation tool with CLI and GUI support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meowth-0.3.2.tar.gz",
+  "download_time": "2026-03-25T05:45:39.721716",
+  "package_url": "https://pypi.org/project/meowth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polars-nexpresso",
+  "version": "0.3.1",
+  "summary": "A utility library for generating Polars expressions to work with nested data structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polars_nexpresso-0.3.1.tar.gz",
+  "download_time": "2026-03-25T05:45:40.232768",
+  "package_url": "https://pypi.org/project/polars-nexpresso/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-webui",
-  "version": "0.1.23",
+  "version": "0.1.26",
   "summary": "Agent Web Interface for Pydantic AI Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_webui-0.1.23.tar.gz",
-  "download_time": "2026-03-18T05:49:32.827224",
+  "download_filename": "agent_webui-0.1.26.tar.gz",
+  "download_time": "2026-03-25T05:45:04.900324",
   "package_url": "https://pypi.org/project/agent-webui/"
 }

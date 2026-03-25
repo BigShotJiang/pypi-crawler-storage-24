@@ -1,0 +1,11 @@
+{
+  "name": "promptsafe",
+  "version": "1.0.0",
+  "summary": "Lightweight AI prompt injection and system prompt leakage shield for LLM apps. Zero dependencies, works offline.",
+  "author": "PromptSafe Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promptsafe-1.0.0.tar.gz",
+  "download_time": "2026-03-25T05:45:10.752542",
+  "package_url": "https://pypi.org/project/promptsafe/"
+}

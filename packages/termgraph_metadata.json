@@ -1,0 +1,11 @@
+{
+  "name": "termgraph",
+  "version": "0.7.6",
+  "summary": "A command-line tool that draws basic graphs in the terminal.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "termgraph-0.7.6.tar.gz",
+  "download_time": "2026-03-25T05:45:40.768831",
+  "package_url": "https://pypi.org/project/termgraph/"
+}

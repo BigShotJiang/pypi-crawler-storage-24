@@ -1,0 +1,11 @@
+{
+  "name": "council-engine",
+  "version": "0.3.1",
+  "summary": "A structured deliberation protocol across diverse AI models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "council_engine-0.3.1.tar.gz",
+  "download_time": "2026-03-25T05:45:26.226784",
+  "package_url": "https://pypi.org/project/council-engine/"
+}

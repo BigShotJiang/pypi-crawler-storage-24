@@ -1,0 +1,11 @@
+{
+  "name": "wgpeer",
+  "version": "0.3.0",
+  "summary": "Manage WireGuard peers on a Debian VPS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wgpeer-0.3.0.tar.gz",
+  "download_time": "2026-03-25T05:45:04.283387",
+  "package_url": "https://pypi.org/project/wgpeer/"
+}

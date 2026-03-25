@@ -1,0 +1,11 @@
+{
+  "name": "feedloop",
+  "version": "0.1.2",
+  "summary": "The fastest way to collect human preference data for LLMs",
+  "author": "Turing Spark",
+  "license": null,
+  "home_page": null,
+  "download_filename": "feedloop-0.1.2.tar.gz",
+  "download_time": "2026-03-25T05:45:31.367327",
+  "package_url": "https://pypi.org/project/feedloop/"
+}

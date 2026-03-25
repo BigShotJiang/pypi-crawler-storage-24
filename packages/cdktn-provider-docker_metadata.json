@@ -1,0 +1,11 @@
+{
+  "name": "cdktn-provider-docker",
+  "version": "13.1.0",
+  "summary": "Prebuilt docker Provider for CDK Terrain (cdktn)",
+  "author": "CDK Terrain Maintainers",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktn-io/cdktn-provider-docker.git",
+  "download_filename": "cdktn_provider_docker-13.1.0.tar.gz",
+  "download_time": "2026-03-25T05:45:38.131004",
+  "package_url": "https://pypi.org/project/cdktn-provider-docker/"
+}

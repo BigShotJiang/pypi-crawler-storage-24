@@ -1,0 +1,11 @@
+{
+  "name": "awspss",
+  "version": "0.3.0",
+  "summary": "AWS Identity Center Permission Sets Switcher",
+  "author": "boseung-code",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "awspss-0.3.0.tar.gz",
+  "download_time": "2026-03-25T05:45:35.998314",
+  "package_url": "https://pypi.org/project/awspss/"
+}

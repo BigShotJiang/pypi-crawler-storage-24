@@ -1,0 +1,11 @@
+{
+  "name": "aa-drifters",
+  "version": "0.5.1",
+  "summary": "Drifter wormhole tracker/manager plugin for Alliance Auth.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aa_drifters-0.5.1.tar.gz",
+  "download_time": "2026-03-25T05:45:38.640622",
+  "package_url": "https://pypi.org/project/aa-drifters/"
+}

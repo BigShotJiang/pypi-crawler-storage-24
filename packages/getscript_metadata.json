@@ -1,0 +1,11 @@
+{
+  "name": "getscript",
+  "version": "0.14.1",
+  "summary": "Fast, Unix-friendly CLI for fetching transcripts from Apple Podcasts",
+  "author": "Voxly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "getscript-0.14.1.tar.gz",
+  "download_time": "2026-03-25T05:45:14.865958",
+  "package_url": "https://pypi.org/project/getscript/"
+}

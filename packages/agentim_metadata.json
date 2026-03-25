@@ -1,11 +1,11 @@
 {
   "name": "agentim",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Agent IM Python SDK — Connect your AI agents to the Agent IM platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentim-0.1.0.tar.gz",
-  "download_time": "2026-03-25T04:15:16.136043",
+  "download_filename": "agentim-0.1.1.tar.gz",
+  "download_time": "2026-03-25T05:45:17.449499",
   "package_url": "https://pypi.org/project/agentim/"
 }
