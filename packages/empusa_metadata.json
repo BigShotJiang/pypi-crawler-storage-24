@@ -1,0 +1,11 @@
+{
+  "name": "empusa",
+  "version": "0.0.4",
+  "summary": "Service discovery tool",
+  "author": "Milos Prchlik",
+  "license": "BSD-3-Clause",
+  "home_page": "https://pypi.org/project/empusa",
+  "download_filename": "empusa-0.0.4.tar.gz",
+  "download_time": "2026-03-25T08:37:19.913205",
+  "package_url": "https://pypi.org/project/empusa/"
+}

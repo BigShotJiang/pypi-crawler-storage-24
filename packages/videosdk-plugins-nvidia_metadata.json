@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-nvidia",
-  "version": "0.0.70",
+  "version": "0.0.73",
   "summary": "VideoSDK Agent Framework plugin for nvidia",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_nvidia-0.0.70.tar.gz",
-  "download_time": "2026-03-14T15:10:34.402250",
+  "download_filename": "videosdk_plugins_nvidia-0.0.73.tar.gz",
+  "download_time": "2026-03-25T08:37:07.273400",
   "package_url": "https://pypi.org/project/videosdk-plugins-nvidia/"
 }

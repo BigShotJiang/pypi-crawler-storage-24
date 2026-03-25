@@ -1,11 +1,11 @@
 {
   "name": "towow-mcp",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "通爻网络 MCP Server — Agent 协作协议的 MCP 接入层",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "towow_mcp-0.3.2.tar.gz",
-  "download_time": "2026-03-19T05:50:34.995568",
+  "download_filename": "towow_mcp-0.4.0.tar.gz",
+  "download_time": "2026-03-25T08:37:32.371083",
   "package_url": "https://pypi.org/project/towow-mcp/"
 }

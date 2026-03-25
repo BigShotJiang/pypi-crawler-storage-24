@@ -1,0 +1,11 @@
+{
+  "name": "mini-cognit-cli",
+  "version": "0.2.1",
+  "summary": "The AI coding agent you can read in an afternoon. ~2000 lines of Python, fully hackable.",
+  "author": "gxPan1006",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mini_cognit_cli-0.2.1.tar.gz",
+  "download_time": "2026-03-25T08:37:35.557567",
+  "package_url": "https://pypi.org/project/mini-cognit-cli/"
+}

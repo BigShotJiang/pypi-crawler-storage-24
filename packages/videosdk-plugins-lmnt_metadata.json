@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-lmnt",
-  "version": "0.0.70",
+  "version": "0.0.73",
   "summary": "VideoSDK Agent Framework plugin for LMNT AI Text-to-Speech services",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_lmnt-0.0.70.tar.gz",
-  "download_time": "2026-03-14T15:10:37.394377",
+  "download_filename": "videosdk_plugins_lmnt-0.0.73.tar.gz",
+  "download_time": "2026-03-25T08:37:11.024520",
   "package_url": "https://pypi.org/project/videosdk-plugins-lmnt/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-gladia",
-  "version": "0.0.70",
+  "version": "0.0.73",
   "summary": "VideoSDK Agent Framework plugin for Gladia Speech-to-Text (STT)",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_gladia-0.0.70.tar.gz",
-  "download_time": "2026-03-14T15:10:39.636836",
+  "download_filename": "videosdk_plugins_gladia-0.0.73.tar.gz",
+  "download_time": "2026-03-25T08:37:12.588168",
   "package_url": "https://pypi.org/project/videosdk-plugins-gladia/"
 }

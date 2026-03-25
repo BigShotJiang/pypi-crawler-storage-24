@@ -1,0 +1,11 @@
+{
+  "name": "autoresearch-prompt-manager",
+  "version": "0.1.1",
+  "summary": "Versioned prompt CRUD, A/B experiments, metrics, and LLM optimization API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoresearch_prompt_manager-0.1.1.tar.gz",
+  "download_time": "2026-03-25T08:37:37.647744",
+  "package_url": "https://pypi.org/project/autoresearch-prompt-manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goh-music",
+  "version": "0.1.0",
+  "summary": "Music effects library with 3 built-in effects",
+  "author": "devdox-del",
+  "license": null,
+  "home_page": "https://github.com/devdox-del/Goh-Music",
+  "download_filename": "goh_music-0.1.0.tar.gz",
+  "download_time": "2026-03-25T08:37:38.686261",
+  "package_url": "https://pypi.org/project/goh-music/"
+}

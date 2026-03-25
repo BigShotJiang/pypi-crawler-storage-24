@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-google",
-  "version": "0.0.70",
+  "version": "0.0.73",
   "summary": "VideoSDK Agent Framework plugin for google services",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_google-0.0.70.tar.gz",
-  "download_time": "2026-03-14T15:10:52.614528",
+  "download_filename": "videosdk_plugins_google-0.0.73.tar.gz",
+  "download_time": "2026-03-25T08:37:14.153526",
   "package_url": "https://pypi.org/project/videosdk-plugins-google/"
 }

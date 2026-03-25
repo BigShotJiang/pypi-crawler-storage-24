@@ -1,11 +1,11 @@
 {
   "name": "pytheory",
-  "version": "0.6.1",
+  "version": "0.9.0",
   "summary": "Music Theory for Humans",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytheory-0.6.1.tar.gz",
-  "download_time": "2026-03-23T13:01:18.836131",
+  "download_filename": "pytheory-0.9.0.tar.gz",
+  "download_time": "2026-03-25T08:37:28.224589",
   "package_url": "https://pypi.org/project/pytheory/"
 }
