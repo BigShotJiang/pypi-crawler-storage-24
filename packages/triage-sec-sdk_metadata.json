@@ -1,0 +1,11 @@
+{
+  "name": "triage-sec-sdk",
+  "version": "0.1.1",
+  "summary": "Triage AI security SDK — prompt injection detection and tool-call safety",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "triage_sec_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-25T07:47:40.797645",
+  "package_url": "https://pypi.org/project/triage-sec-sdk/"
+}

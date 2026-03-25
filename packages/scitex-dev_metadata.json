@@ -1,11 +1,11 @@
 {
   "name": "scitex-dev",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Shared developer utilities for the SciTeX ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scitex_dev-0.4.0.tar.gz",
-  "download_time": "2026-03-25T06:50:19.000652",
+  "download_filename": "scitex_dev-0.4.1.tar.gz",
+  "download_time": "2026-03-25T07:47:54.494709",
   "package_url": "https://pypi.org/project/scitex-dev/"
 }

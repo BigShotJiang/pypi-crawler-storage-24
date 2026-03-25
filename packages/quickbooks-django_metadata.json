@@ -1,0 +1,11 @@
+{
+  "name": "quickbooks-django",
+  "version": "0.1.0",
+  "summary": "QuickBooks Online Django integration server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quickbooks_django-0.1.0.tar.gz",
+  "download_time": "2026-03-25T07:47:27.787081",
+  "package_url": "https://pypi.org/project/quickbooks-django/"
+}

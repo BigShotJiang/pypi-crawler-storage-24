@@ -1,0 +1,11 @@
+{
+  "name": "nimbie-shell",
+  "version": "0.0.2.dev0",
+  "summary": "Lightweight agent loop and context manager (standalone)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nimbie_shell-0.0.2.dev0.tar.gz",
+  "download_time": "2026-03-25T07:48:13.693187",
+  "package_url": "https://pypi.org/project/nimbie-shell/"
+}

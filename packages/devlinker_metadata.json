@@ -1,11 +1,11 @@
 {
   "name": "devlinker",
-  "version": "1.2.1",
+  "version": "1.2.4",
   "summary": "AI-powered linking and automation tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devlinker-1.2.1.tar.gz",
-  "download_time": "2026-03-25T06:50:39.065517",
+  "download_filename": "devlinker-1.2.4.tar.gz",
+  "download_time": "2026-03-25T07:47:37.650097",
   "package_url": "https://pypi.org/project/devlinker/"
 }

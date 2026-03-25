@@ -1,11 +1,11 @@
 {
   "name": "slimtsf",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Sliding-window multivariate time-series feature extraction and classification",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slimtsf-1.2.0.tar.gz",
-  "download_time": "2026-03-21T07:51:45.691873",
+  "download_filename": "slimtsf-1.2.1.tar.gz",
+  "download_time": "2026-03-25T07:47:40.147615",
   "package_url": "https://pypi.org/project/slimtsf/"
 }

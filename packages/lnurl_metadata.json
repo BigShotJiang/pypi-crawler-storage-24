@@ -1,0 +1,11 @@
+{
+  "name": "lnurl",
+  "version": "2.0.0",
+  "summary": "LNURL implementation for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lnurl-2.0.0.tar.gz",
+  "download_time": "2026-03-25T07:47:45.764124",
+  "package_url": "https://pypi.org/project/lnurl/"
+}

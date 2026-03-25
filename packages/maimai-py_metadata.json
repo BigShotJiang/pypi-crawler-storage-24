@@ -1,0 +1,11 @@
+{
+  "name": "maimai-py",
+  "version": "1.4.1",
+  "summary": "The definitive python wrapper for MaimaiCN.",
+  "author": "Usagi no Niku",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maimai_py-1.4.1.tar.gz",
+  "download_time": "2026-03-25T07:47:44.481669",
+  "package_url": "https://pypi.org/project/maimai-py/"
+}

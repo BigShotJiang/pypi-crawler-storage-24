@@ -1,0 +1,11 @@
+{
+  "name": "casts-down",
+  "version": "2.1.8",
+  "summary": "Cross-platform CLI for downloading and transcribing podcasts with local Whisper speech-to-text",
+  "author": "Casts Down Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "casts_down-2.1.8.tar.gz",
+  "download_time": "2026-03-25T07:48:17.293238",
+  "package_url": "https://pypi.org/project/casts-down/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rosud-harness",
+  "version": "0.1.0",
+  "summary": "rosud-harness Python SDK — AI Agent Harness with Model Gateway, Memory Bank, and Guardrails",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rosud_harness-0.1.0-py3-none-any.whl",
+  "download_time": "2026-03-25T07:47:52.552063",
+  "package_url": "https://pypi.org/project/rosud-harness/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "auto-yes",
-  "version": "0.16.0",
-  "summary": "Automatically respond 'yes' to interactive CLI prompts via PTY proxy",
-  "author": "auto-yes contributors",
+  "version": "1.2.1",
+  "summary": "Auto-respond to AI CLI prompts (Claude Code, Cursor, Codex, Copilot, Gemini, Aider). PTY proxy that auto-answers yes/no dialogs so your automation never blocks.",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "auto_yes-0.16.0.tar.gz",
-  "download_time": "2026-03-19T08:30:23.694042",
+  "download_filename": "auto_yes-1.2.1-py3-none-any.whl",
+  "download_time": "2026-03-25T07:48:20.303950",
   "package_url": "https://pypi.org/project/auto-yes/"
 }

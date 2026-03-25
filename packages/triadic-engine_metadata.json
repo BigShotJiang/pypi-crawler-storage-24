@@ -1,0 +1,11 @@
+{
+  "name": "triadic-engine",
+  "version": "0.3.0",
+  "summary": "Deterministic AI auditing and semantic validation via prime factorization — 28.4x faster than cosine, fully explainable",
+  "author": null,
+  "license": "BUSL-1.1",
+  "home_page": null,
+  "download_filename": "triadic_engine-0.3.0.tar.gz",
+  "download_time": "2026-03-25T07:48:05.054898",
+  "package_url": "https://pypi.org/project/triadic-engine/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "red-roving-rascal",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A lightweight API testing and evaluation toolkit",
   "author": "dboyd13",
   "license": null,
   "home_page": null,
-  "download_filename": "red_roving_rascal-0.1.2.tar.gz",
-  "download_time": "2026-03-25T05:45:17.959489",
+  "download_filename": "red_roving_rascal-0.1.5.tar.gz",
+  "download_time": "2026-03-25T07:48:09.240551",
   "package_url": "https://pypi.org/project/red-roving-rascal/"
 }
