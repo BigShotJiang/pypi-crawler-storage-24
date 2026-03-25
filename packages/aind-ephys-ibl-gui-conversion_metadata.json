@@ -1,0 +1,11 @@
+{
+  "name": "aind-ephys-ibl-gui-conversion",
+  "version": "0.2.2",
+  "summary": "Convert ephys data for use in IBL GUI",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aind_ephys_ibl_gui_conversion-0.2.2.tar.gz",
+  "download_time": "2026-03-25T00:01:18.999123",
+  "package_url": "https://pypi.org/project/aind-ephys-ibl-gui-conversion/"
+}

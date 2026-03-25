@@ -1,0 +1,11 @@
+{
+  "name": "vobjectx",
+  "version": "0.3.2",
+  "summary": "A full-featured Python3 package for parsing and creating \"iCalendar and vCard files\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vobjectx-0.3.2.tar.gz",
+  "download_time": "2026-03-25T00:01:22.126325",
+  "package_url": "https://pypi.org/project/vobjectx/"
+}

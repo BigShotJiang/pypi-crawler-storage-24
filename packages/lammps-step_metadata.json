@@ -1,11 +1,11 @@
 {
   "name": "lammps-step",
-  "version": "2026.3.22.1",
+  "version": "2026.3.24",
   "summary": "A SEAMM plug-in for LAMMPS, a forcefield-based molecular dynamics code.",
   "author": "MolSSI @ Virginia Tech",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/molssi-seamm/lammps_step",
-  "download_filename": "lammps_step-2026.3.22.1.tar.gz",
-  "download_time": "2026-03-22T23:56:42.210709",
+  "download_filename": "lammps_step-2026.3.24.tar.gz",
+  "download_time": "2026-03-25T00:01:28.551594",
   "package_url": "https://pypi.org/project/lammps-step/"
 }

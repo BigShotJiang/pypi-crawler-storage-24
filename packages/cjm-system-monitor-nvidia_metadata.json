@@ -1,0 +1,11 @@
+{
+  "name": "cjm-system-monitor-nvidia",
+  "version": "0.0.6",
+  "summary": "An NVIDIA GPU monitoring plugin for the cjm-plugin-system that provides real-time hardware telemetry via nvitop.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-system-monitor-nvidia",
+  "download_filename": "cjm_system_monitor_nvidia-0.0.6.tar.gz",
+  "download_time": "2026-03-25T00:01:55.891556",
+  "package_url": "https://pypi.org/project/cjm-system-monitor-nvidia/"
+}

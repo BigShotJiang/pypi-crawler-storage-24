@@ -1,11 +1,11 @@
 {
   "name": "myt-cli",
-  "version": "0.2.1",
+  "version": "0.5.0",
   "summary": "myt - My Task Manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myt_cli-0.2.1.tar.gz",
-  "download_time": "2026-03-23T22:01:50.551151",
+  "download_filename": "myt_cli-0.5.0.tar.gz",
+  "download_time": "2026-03-25T00:01:15.327200",
   "package_url": "https://pypi.org/project/myt-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "openintent",
+  "version": "0.17.0",
+  "summary": "Python SDK and Server for the OpenIntent Coordination Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openintent-0.17.0.tar.gz",
+  "download_time": "2026-03-25T00:01:45.896261",
+  "package_url": "https://pypi.org/project/openintent/"
+}

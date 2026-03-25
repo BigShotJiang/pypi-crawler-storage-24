@@ -1,0 +1,11 @@
+{
+  "name": "memoryrelay",
+  "version": "0.3.0",
+  "summary": "Official Python SDK for MemoryRelay - persistent memory for AI agents with v2 async API support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memoryrelay-0.3.0.tar.gz",
+  "download_time": "2026-03-25T00:01:29.076485",
+  "package_url": "https://pypi.org/project/memoryrelay/"
+}

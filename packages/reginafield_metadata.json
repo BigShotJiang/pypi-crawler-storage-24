@@ -1,0 +1,11 @@
+{
+  "name": "reginafield",
+  "version": "1.0.0",
+  "summary": "Toolkit for analyzing, scoring, and visualizing structural features of the Regina Field prime distribution model.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reginafield-1.0.0.tar.gz",
+  "download_time": "2026-03-25T00:01:30.122129",
+  "package_url": "https://pypi.org/project/reginafield/"
+}

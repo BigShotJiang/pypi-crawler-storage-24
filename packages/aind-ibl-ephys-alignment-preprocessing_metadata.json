@@ -1,11 +1,11 @@
 {
   "name": "aind-ibl-ephys-alignment-preprocessing",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Library to prepare histology and ephys for the IBL ephys alignment GUI",
   "author": "Allen Institute for Neural Dynamics",
   "license": null,
   "home_page": null,
-  "download_filename": "aind_ibl_ephys_alignment_preprocessing-0.1.1.tar.gz",
-  "download_time": "2026-03-24T21:45:22.233151",
+  "download_filename": "aind_ibl_ephys_alignment_preprocessing-0.1.3.tar.gz",
+  "download_time": "2026-03-25T00:01:13.759112",
   "package_url": "https://pypi.org/project/aind-ibl-ephys-alignment-preprocessing/"
 }

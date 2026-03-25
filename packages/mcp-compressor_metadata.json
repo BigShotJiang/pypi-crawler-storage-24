@@ -1,0 +1,11 @@
+{
+  "name": "mcp-compressor",
+  "version": "0.1.2",
+  "summary": "An MCP server wrapper for reducing tokens consumed by MCP tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_compressor-0.1.2.tar.gz",
+  "download_time": "2026-03-25T00:01:08.831786",
+  "package_url": "https://pypi.org/project/mcp-compressor/"
+}

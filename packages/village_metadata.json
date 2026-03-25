@@ -1,11 +1,11 @@
 {
   "name": "village",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "The official Python library for the village API",
   "author": "Village",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "village-0.5.0.tar.gz",
-  "download_time": "2026-03-14T22:54:34.364914",
+  "download_filename": "village-0.5.2.tar.gz",
+  "download_time": "2026-03-25T00:01:48.500691",
   "package_url": "https://pypi.org/project/village/"
 }

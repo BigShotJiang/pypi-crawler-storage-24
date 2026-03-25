@@ -1,11 +1,11 @@
 {
   "name": "oi-tools",
-  "version": "0.1.5",
-  "summary": "Add your description here",
+  "version": "0.1.7",
+  "summary": "Python package for Opportunity Insights.",
   "author": "The Opportunity Insights Team, Alistair Pattison",
   "license": null,
   "home_page": null,
-  "download_filename": "oi_tools-0.1.5.tar.gz",
-  "download_time": "2026-03-13T21:50:39.065315",
+  "download_filename": "oi_tools-0.1.7.tar.gz",
+  "download_time": "2026-03-25T00:01:46.942766",
   "package_url": "https://pypi.org/project/oi-tools/"
 }

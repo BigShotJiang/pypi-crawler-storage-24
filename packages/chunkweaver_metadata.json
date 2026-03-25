@@ -1,11 +1,11 @@
 {
   "name": "chunkweaver",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Structure-aware text chunking for RAG. Zero dependencies.",
   "author": "Metawake",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chunkweaver-0.2.0.tar.gz",
-  "download_time": "2026-03-24T23:33:24.899499",
+  "download_filename": "chunkweaver-0.2.3.tar.gz",
+  "download_time": "2026-03-25T00:01:26.360002",
   "package_url": "https://pypi.org/project/chunkweaver/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pywcl",
-  "version": "0.2.7a1",
+  "version": "0.3.0a1",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pywcl-0.2.7a1.tar.gz",
-  "download_time": "2026-03-22T10:58:20.225020",
+  "download_filename": "pywcl-0.3.0a1.tar.gz",
+  "download_time": "2026-03-25T00:01:55.368147",
   "package_url": "https://pypi.org/project/pywcl/"
 }

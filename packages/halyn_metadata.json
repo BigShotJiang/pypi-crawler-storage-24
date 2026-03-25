@@ -1,11 +1,11 @@
 {
   "name": "halyn",
-  "version": "2.0.0",
-  "summary": "Halyn — AAP in action. AI agents that can prove what they did.",
+  "version": "2.1.2",
+  "summary": "Halyn — The governance layer for AI agents. Every action intercepted. Every decision auditable.",
   "author": null,
-  "license": "MIT",
+  "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "halyn-2.0.0.tar.gz",
-  "download_time": "2026-03-19T18:08:17.476560",
+  "download_filename": "halyn-2.1.2.tar.gz",
+  "download_time": "2026-03-25T00:01:16.367852",
   "package_url": "https://pypi.org/project/halyn/"
 }

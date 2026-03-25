@@ -1,11 +1,11 @@
 {
   "name": "wallaroo",
-  "version": "2025.2.4",
+  "version": "2025.2.5",
   "summary": "Wallaroo.ai model management API client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wallaroo-2025.2.4.tar.gz",
-  "download_time": "2026-03-20T19:02:51.245980",
+  "download_filename": "wallaroo-2025.2.5.tar.gz",
+  "download_time": "2026-03-25T00:01:34.885830",
   "package_url": "https://pypi.org/project/wallaroo/"
 }

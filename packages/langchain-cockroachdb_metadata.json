@@ -1,0 +1,11 @@
+{
+  "name": "langchain-cockroachdb",
+  "version": "0.2.1",
+  "summary": "LangChain integration for CockroachDB with native vector support",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_cockroachdb-0.2.1.tar.gz",
+  "download_time": "2026-03-25T00:01:29.603306",
+  "package_url": "https://pypi.org/project/langchain-cockroachdb/"
+}

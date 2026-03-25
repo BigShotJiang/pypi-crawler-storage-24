@@ -1,11 +1,11 @@
 {
   "name": "megane",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "A fast, beautiful molecular viewer",
   "author": "hodakamori",
   "license": null,
   "home_page": null,
-  "download_filename": "megane-0.5.0.tar.gz",
-  "download_time": "2026-03-17T10:36:56.564787",
+  "download_filename": "megane-0.6.0.tar.gz",
+  "download_time": "2026-03-25T00:01:46.420023",
   "package_url": "https://pypi.org/project/megane/"
 }
