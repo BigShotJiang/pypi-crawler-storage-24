@@ -1,0 +1,11 @@
+{
+  "name": "qalitydeep",
+  "version": "0.2.0",
+  "summary": "Pre-deploy CI/CD QA dashboard for evaluating LLM and AI-agent outputs",
+  "author": "QAlityDeep Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qalitydeep-0.2.0.tar.gz",
+  "download_time": "2026-03-25T22:00:26.126078",
+  "package_url": "https://pypi.org/project/qalitydeep/"
+}

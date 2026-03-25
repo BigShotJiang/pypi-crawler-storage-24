@@ -1,0 +1,11 @@
+{
+  "name": "PyBRAID",
+  "version": "1.0.2",
+  "summary": "Block Resolution and Annotation of Integrated DNA",
+  "author": "Yuefan Huang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pybraid-1.0.2.tar.gz",
+  "download_time": "2026-03-25T22:00:36.977730",
+  "package_url": "https://pypi.org/project/PyBRAID/"
+}

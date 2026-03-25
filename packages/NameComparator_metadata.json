@@ -1,0 +1,11 @@
+{
+  "name": "NameComparator",
+  "version": "1.0.21",
+  "summary": "This is a library used to make fuzzy name comparisons across census records.",
+  "author": "Record Linking Lab",
+  "license": null,
+  "home_page": "https://github.com/byuawsfhtl/NameComparator.git",
+  "download_filename": "namecomparator-1.0.21.tar.gz",
+  "download_time": "2026-03-25T22:00:31.806721",
+  "package_url": "https://pypi.org/project/NameComparator/"
+}

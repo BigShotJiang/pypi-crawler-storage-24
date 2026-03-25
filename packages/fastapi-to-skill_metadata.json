@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-to-skill",
+  "version": "0.1.6",
+  "summary": "Convert FastAPI apps and OpenAPI specs into CLI tools and AI agent skills (SKILL.md)",
+  "author": "Dmitrii Galkin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_to_skill-0.1.6.tar.gz",
+  "download_time": "2026-03-25T22:00:50.914843",
+  "package_url": "https://pypi.org/project/fastapi-to-skill/"
+}

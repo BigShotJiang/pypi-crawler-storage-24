@@ -1,11 +1,11 @@
 {
   "name": "entropymon",
-  "version": "2.0.0",
+  "version": "2.2.1",
   "summary": "Terminal system monitor with GPU support, process management, and multi-language UI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "entropymon-2.0.0.tar.gz",
-  "download_time": "2026-03-25T15:50:30.180345",
+  "download_filename": "entropymon-2.2.1.tar.gz",
+  "download_time": "2026-03-25T22:00:52.978605",
   "package_url": "https://pypi.org/project/entropymon/"
 }

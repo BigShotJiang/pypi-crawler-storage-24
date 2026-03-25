@@ -1,11 +1,11 @@
 {
   "name": "ai-parrot",
-  "version": "0.24.6",
+  "version": "0.24.7",
   "summary": "Framework for building AI agents for Navigator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_parrot-0.24.6.tar.gz",
-  "download_time": "2026-03-25T19:50:26.820218",
+  "download_filename": "ai_parrot-0.24.7.tar.gz",
+  "download_time": "2026-03-25T22:00:31.286779",
   "package_url": "https://pypi.org/project/ai-parrot/"
 }

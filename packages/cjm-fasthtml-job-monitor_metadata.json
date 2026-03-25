@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-job-monitor",
+  "version": "0.0.2",
+  "summary": "A FastHTML component library for monitoring plugin job execution with progress tracking, log tailing, resource usage, and cancellation via a tabbed modal with content overlay.",
+  "author": "Christian J. Mills",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-job-monitor",
+  "download_filename": "cjm_fasthtml_job_monitor-0.0.2.tar.gz",
+  "download_time": "2026-03-25T22:00:25.102152",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-job-monitor/"
+}

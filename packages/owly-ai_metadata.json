@@ -1,0 +1,11 @@
+{
+  "name": "owly-ai",
+  "version": "0.1.0",
+  "summary": "Streaming-first LLM runtime for real-time systems",
+  "author": "Owly Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "owly_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-25T22:00:22.999401",
+  "package_url": "https://pypi.org/project/owly-ai/"
+}

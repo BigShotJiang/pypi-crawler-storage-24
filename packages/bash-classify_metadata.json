@@ -1,11 +1,11 @@
 {
   "name": "bash-classify",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Classify bash commands as READONLY, WRITE, DANGEROUS, or UNKNOWN",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bash_classify-0.2.0.tar.gz",
-  "download_time": "2026-03-25T18:03:48.816533",
+  "download_filename": "bash_classify-0.2.2.tar.gz",
+  "download_time": "2026-03-25T22:00:12.644670",
   "package_url": "https://pypi.org/project/bash-classify/"
 }

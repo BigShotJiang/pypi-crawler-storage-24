@@ -1,0 +1,11 @@
+{
+  "name": "mongoforge",
+  "version": "1.0.0",
+  "summary": "Magic filters for MongoDB",
+  "author": "Fsoky",
+  "license": null,
+  "home_page": "https://github.com/Fsoky/mongoforge",
+  "download_filename": "mongoforge-1.0.0.tar.gz",
+  "download_time": "2026-03-25T22:00:40.057872",
+  "package_url": "https://pypi.org/project/mongoforge/"
+}
