@@ -1,0 +1,11 @@
+{
+  "name": "typeclass-core",
+  "version": "1.0.3",
+  "summary": "A symbolic, law-aware algebraic framework for compositional computation in Python.",
+  "author": "Jacob Vartuli-Schonberg",
+  "license": "Copyright (c) 2026 Jacob Vartuli-Schonberg\n        \n        All rights reserved.\n        \n        This software is provided for viewing purposes only.\n        No permission is granted to use, copy, modify, distribute,\n        or create derivative works without explicit written consent\n        from the author.\n        ",
+  "home_page": null,
+  "download_filename": "typeclass_core-1.0.3.tar.gz",
+  "download_time": "2026-03-25T04:15:05.672037",
+  "package_url": "https://pypi.org/project/typeclass-core/"
+}

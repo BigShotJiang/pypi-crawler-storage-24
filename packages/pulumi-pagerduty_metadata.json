@@ -1,11 +1,11 @@
 {
   "name": "pulumi-pagerduty",
-  "version": "4.30.4",
+  "version": "4.31.0",
   "summary": "A Pulumi package for creating and managing pagerduty cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_pagerduty-4.30.4.tar.gz",
-  "download_time": "2026-03-17T06:47:14.035881",
+  "download_filename": "pulumi_pagerduty-4.31.0.tar.gz",
+  "download_time": "2026-03-25T04:15:08.265628",
   "package_url": "https://pypi.org/project/pulumi-pagerduty/"
 }

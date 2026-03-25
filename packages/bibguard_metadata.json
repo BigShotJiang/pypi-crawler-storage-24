@@ -1,0 +1,11 @@
+{
+  "name": "bibguard",
+  "version": "0.3.0",
+  "summary": "Detect hallucinated and broken citations in academic papers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bibguard-0.3.0.tar.gz",
+  "download_time": "2026-03-25T04:15:03.608499",
+  "package_url": "https://pypi.org/project/bibguard/"
+}

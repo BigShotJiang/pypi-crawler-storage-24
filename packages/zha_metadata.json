@@ -1,0 +1,11 @@
+{
+  "name": "zha",
+  "version": "1.1.0",
+  "summary": "Library implementing ZHA for Home Assistant",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zha-1.1.0.tar.gz",
+  "download_time": "2026-03-25T04:15:19.368945",
+  "package_url": "https://pypi.org/project/zha/"
+}

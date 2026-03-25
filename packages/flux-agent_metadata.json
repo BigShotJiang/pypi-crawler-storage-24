@@ -1,0 +1,11 @@
+{
+  "name": "flux-agent",
+  "version": "0.1.0",
+  "summary": "基于 LangGraph + LLM 的通用 Agent 编排框架",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flux_agent-0.1.0.tar.gz",
+  "download_time": "2026-03-25T04:15:35.464429",
+  "package_url": "https://pypi.org/project/flux-agent/"
+}

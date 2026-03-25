@@ -1,11 +1,11 @@
 {
   "name": "insurance-gam",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Interpretable GAM toolkit for insurance pricing — EBM, Neural Additive Models, and Pairwise Interaction Networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "insurance_gam-0.1.7.tar.gz",
-  "download_time": "2026-03-22T10:58:16.646149",
+  "download_filename": "insurance_gam-0.1.8.tar.gz",
+  "download_time": "2026-03-25T04:15:41.473593",
   "package_url": "https://pypi.org/project/insurance-gam/"
 }

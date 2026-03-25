@@ -1,0 +1,11 @@
+{
+  "name": "ff-decoder",
+  "version": "1.0.1",
+  "summary": "Decode Free Fire encrypted payloads (hex/base64) with automatic decryption and expansion.",
+  "author": "UNKNOWN666",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ff_decoder-1.0.1.tar.gz",
+  "download_time": "2026-03-25T04:14:59.309110",
+  "package_url": "https://pypi.org/project/ff-decoder/"
+}
