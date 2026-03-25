@@ -1,0 +1,11 @@
+{
+  "name": "helix-agent-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for Helix — self-healing infrastructure for AI agent payments",
+  "author": "Helix Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "helix_agent_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-25T19:49:53.344914",
+  "package_url": "https://pypi.org/project/helix-agent-sdk/"
+}

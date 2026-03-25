@@ -1,11 +1,11 @@
 {
   "name": "my-dev-team",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "An autonomous, LangGraph-powered AI development agency.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "my_dev_team-0.6.0.tar.gz",
-  "download_time": "2026-03-23T18:10:48.525082",
+  "download_filename": "my_dev_team-0.7.0.tar.gz",
+  "download_time": "2026-03-25T19:50:09.477534",
   "package_url": "https://pypi.org/project/my-dev-team/"
 }

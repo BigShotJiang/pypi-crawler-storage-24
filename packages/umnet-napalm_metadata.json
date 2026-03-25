@@ -1,0 +1,11 @@
+{
+  "name": "umnet-napalm",
+  "version": "1.2.5",
+  "summary": "A custom version of NAPALM for UMnet",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umnet_napalm-1.2.5.tar.gz",
+  "download_time": "2026-03-25T19:50:01.422795",
+  "package_url": "https://pypi.org/project/umnet-napalm/"
+}

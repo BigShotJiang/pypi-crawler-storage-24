@@ -1,0 +1,11 @@
+{
+  "name": "meta-package-manager",
+  "version": "6.2.0",
+  "summary": "🎁 wraps all package managers with a unifying CLI",
+  "author": "Kevin Deldycke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meta_package_manager-6.2.0.tar.gz",
+  "download_time": "2026-03-25T19:49:59.821875",
+  "package_url": "https://pypi.org/project/meta-package-manager/"
+}

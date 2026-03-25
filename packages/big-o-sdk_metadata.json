@@ -1,0 +1,11 @@
+{
+  "name": "big-o-sdk",
+  "version": "1.1.0",
+  "summary": "Python SDK for the Big-O LLM Gateway — OpenAI-compatible access to AWS Bedrock and Azure OpenAI with LlamaIndex and Haystack integrations",
+  "author": "Virtuele Gemeente Assistent",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "big_o_sdk-1.1.0.tar.gz",
+  "download_time": "2026-03-25T19:49:42.281413",
+  "package_url": "https://pypi.org/project/big-o-sdk/"
+}
