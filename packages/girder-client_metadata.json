@@ -1,11 +1,11 @@
 {
   "name": "girder-client",
-  "version": "3.2.12",
+  "version": "3.2.13",
   "summary": "Python client for interacting with Girder servers",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "http://girder.readthedocs.org/en/latest/python-client.html",
-  "download_filename": "girder_client-3.2.12.tar.gz",
-  "download_time": "2026-03-24T17:44:15.352761",
+  "download_filename": "girder_client-3.2.13.tar.gz",
+  "download_time": "2026-03-25T16:58:41.382577",
   "package_url": "https://pypi.org/project/girder-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spyder-kernels",
+  "version": "3.1.4",
+  "summary": "Jupyter kernels for Spyder's console",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spyder_kernels-3.1.4.tar.gz",
+  "download_time": "2026-03-25T16:58:22.558077",
+  "package_url": "https://pypi.org/project/spyder-kernels/"
+}

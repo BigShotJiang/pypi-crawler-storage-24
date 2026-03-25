@@ -1,0 +1,11 @@
+{
+  "name": "sense-energy",
+  "version": "0.14.0",
+  "summary": "API for the Sense Energy Monitor",
+  "author": "scottbonline",
+  "license": null,
+  "home_page": "https://github.com/scottbonline/sense",
+  "download_filename": "sense_energy-0.14.0.tar.gz",
+  "download_time": "2026-03-25T16:58:56.738156",
+  "package_url": "https://pypi.org/project/sense-energy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "girder-ldap",
-  "version": "3.2.12",
+  "version": "3.2.13",
   "summary": "Authenticate user credentials against LDAP or Active Directory servers.",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "girder_ldap-3.2.12.tar.gz",
-  "download_time": "2026-03-24T17:44:27.538568",
+  "download_filename": "girder_ldap-3.2.13.tar.gz",
+  "download_time": "2026-03-25T16:58:46.695199",
   "package_url": "https://pypi.org/project/girder-ldap/"
 }

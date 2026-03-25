@@ -1,0 +1,11 @@
+{
+  "name": "Avular.GPIO",
+  "version": "3.3.1",
+  "summary": "A module to control Jetson GPIO channels",
+  "author": "Avular",
+  "license": "MIT",
+  "home_page": "https://github.com/avular-robotics/avular-gpio",
+  "download_filename": "avular_gpio-3.3.1.tar.gz",
+  "download_time": "2026-03-25T16:58:30.759388",
+  "package_url": "https://pypi.org/project/Avular.GPIO/"
+}

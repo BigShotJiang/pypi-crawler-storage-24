@@ -1,0 +1,11 @@
+{
+  "name": "llama-github",
+  "version": "0.4.0",
+  "summary": "GitHub retrieval and context generation utilities for coding assistants and AI developer workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_github-0.4.0.tar.gz",
+  "download_time": "2026-03-25T16:58:21.114514",
+  "package_url": "https://pypi.org/project/llama-github/"
+}

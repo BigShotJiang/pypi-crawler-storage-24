@@ -1,0 +1,11 @@
+{
+  "name": "diplomat-agent",
+  "version": "0.2.0",
+  "summary": "Scan your agentic codebase for unguarded tool calls with real-world side effects",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "diplomat_agent-0.2.0.tar.gz",
+  "download_time": "2026-03-25T16:58:59.518424",
+  "package_url": "https://pypi.org/project/diplomat-agent/"
+}

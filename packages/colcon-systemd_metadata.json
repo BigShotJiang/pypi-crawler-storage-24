@@ -1,0 +1,11 @@
+{
+  "name": "colcon-systemd",
+  "version": "0.1.0",
+  "summary": "Colcon plugin that generates systemd service units for opted-in packages during colcon build",
+  "author": "CraigBuilds",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "colcon_systemd-0.1.0.tar.gz",
+  "download_time": "2026-03-25T16:59:06.869640",
+  "package_url": "https://pypi.org/project/colcon-systemd/"
+}

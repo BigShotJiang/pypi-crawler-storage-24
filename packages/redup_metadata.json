@@ -1,11 +1,11 @@
 {
   "name": "redup",
-  "version": "0.3.23",
+  "version": "0.4.7",
   "summary": "Code duplication analyzer and refactoring planner for LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redup-0.3.23.tar.gz",
-  "download_time": "2026-03-23T19:19:44.328093",
+  "download_filename": "redup-0.4.7.tar.gz",
+  "download_time": "2026-03-25T16:58:19.289323",
   "package_url": "https://pypi.org/project/redup/"
 }

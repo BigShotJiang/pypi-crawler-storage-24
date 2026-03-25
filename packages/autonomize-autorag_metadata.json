@@ -1,0 +1,11 @@
+{
+  "name": "autonomize-autorag",
+  "version": "0.1.87",
+  "summary": "AutoRAG is a flexible and scalable solution for building Retrieval-Augmented Generation (RAG) systems.",
+  "author": "Varun",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "autonomize_autorag-0.1.87.tar.gz",
+  "download_time": "2026-03-25T16:58:33.511562",
+  "package_url": "https://pypi.org/project/autonomize-autorag/"
+}
