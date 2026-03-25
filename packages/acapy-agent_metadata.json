@@ -1,0 +1,11 @@
+{
+  "name": "acapy-agent",
+  "version": "1.5.1",
+  "summary": "(ACA-Py) A Cloud Agent Python is a foundation for building decentralized identity applications and services running in non-mobile environments. ",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "acapy_agent-1.5.1.tar.gz",
+  "download_time": "2026-03-25T21:07:48.754618",
+  "package_url": "https://pypi.org/project/acapy-agent/"
+}

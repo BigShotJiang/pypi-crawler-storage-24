@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-schemes",
+  "version": "10.8.2",
+  "summary": "passagemath: Schemes, varieties, elliptic curves, algebraic Riemann surfaces, modular forms, arithmetic dynamics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_schemes-10.8.2.tar.gz",
+  "download_time": "2026-03-25T21:07:40.625786",
+  "package_url": "https://pypi.org/project/passagemath-schemes/"
+}

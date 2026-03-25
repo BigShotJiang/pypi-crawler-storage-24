@@ -1,11 +1,11 @@
 {
   "name": "hvac-pressure",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "HVAC static pressure loss calculator using Darcy-Weisbach and ASHRAE fitting coefficients.",
   "author": "Jeremy Simonneau",
   "license": null,
   "home_page": null,
-  "download_filename": "hvac_pressure-0.1.0.tar.gz",
-  "download_time": "2026-03-24T19:46:31.424893",
+  "download_filename": "hvac_pressure-0.1.3.tar.gz",
+  "download_time": "2026-03-25T21:08:23.670782",
   "package_url": "https://pypi.org/project/hvac-pressure/"
 }

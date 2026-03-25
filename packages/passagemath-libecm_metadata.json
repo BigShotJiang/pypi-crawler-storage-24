@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-libecm",
+  "version": "10.8.2",
+  "summary": "passagemath: Elliptic curve method for integer factorization using GMP-ECM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_libecm-10.8.2.tar.gz",
+  "download_time": "2026-03-25T21:08:04.133169",
+  "package_url": "https://pypi.org/project/passagemath-libecm/"
+}

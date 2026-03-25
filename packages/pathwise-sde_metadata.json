@@ -1,0 +1,11 @@
+{
+  "name": "pathwise-sde",
+  "version": "0.2.0",
+  "summary": "High-performance SDE simulation: Rust core, Python API",
+  "author": "Alejandro Soto Franco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pathwise_sde-0.2.0.tar.gz",
+  "download_time": "2026-03-25T21:08:10.025357",
+  "package_url": "https://pypi.org/project/pathwise-sde/"
+}

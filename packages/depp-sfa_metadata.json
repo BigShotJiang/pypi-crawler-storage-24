@@ -1,0 +1,11 @@
+{
+  "name": "depp-sfa",
+  "version": "0.1.2",
+  "summary": "A  Stochastic Frontier Analysis (SFA) library featuring MLE and Bayesian (PyMC) estimations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "depp_sfa-0.1.2.tar.gz",
+  "download_time": "2026-03-25T21:08:27.323990",
+  "package_url": "https://pypi.org/project/depp-sfa/"
+}

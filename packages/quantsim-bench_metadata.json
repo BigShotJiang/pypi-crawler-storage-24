@@ -1,0 +1,11 @@
+{
+  "name": "quantsim-bench",
+  "version": "0.1.0",
+  "summary": "Which quantization should I use? One command benchmarks every quant level on YOUR GPU.",
+  "author": "back2matching",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "quantsim_bench-0.1.0.tar.gz",
+  "download_time": "2026-03-25T21:08:20.594512",
+  "package_url": "https://pypi.org/project/quantsim-bench/"
+}

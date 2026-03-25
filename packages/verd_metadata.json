@@ -1,11 +1,11 @@
 {
   "name": "verd",
-  "version": "0.2.4",
+  "version": "0.2.7",
   "summary": "Multi-LLM debate engine — verdicts everywhere",
   "author": "Manas Karra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "verd-0.2.4.tar.gz",
-  "download_time": "2026-03-25T11:20:39.958849",
+  "download_filename": "verd-0.2.7.tar.gz",
+  "download_time": "2026-03-25T21:07:44.995587",
   "package_url": "https://pypi.org/project/verd/"
 }

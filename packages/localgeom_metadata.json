@@ -1,0 +1,11 @@
+{
+  "name": "localgeom",
+  "version": "0.1.1",
+  "summary": "A JAX-based framework for differential geometry computations on Riemannian manifolds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "localgeom-0.1.1.tar.gz",
+  "download_time": "2026-03-25T21:07:42.255452",
+  "package_url": "https://pypi.org/project/localgeom/"
+}

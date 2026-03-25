@@ -1,0 +1,11 @@
+{
+  "name": "top-seismo",
+  "version": "2.1.7",
+  "summary": "Python package for Two-dimensional Oscillation Program (TOP)",
+  "author": "D. Reese et al.",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "top_seismo-2.1.7-py3-none-any.whl",
+  "download_time": "2026-03-25T21:07:54.085646",
+  "package_url": "https://pypi.org/project/top-seismo/"
+}

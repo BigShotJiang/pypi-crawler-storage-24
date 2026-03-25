@@ -1,0 +1,11 @@
+{
+  "name": "genmedia",
+  "version": "0.1.1",
+  "summary": "Multimodal media generation CLI for Google GenAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genmedia-0.1.1.tar.gz",
+  "download_time": "2026-03-25T21:08:06.778277",
+  "package_url": "https://pypi.org/project/genmedia/"
+}

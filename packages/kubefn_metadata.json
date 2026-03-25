@@ -1,0 +1,11 @@
+{
+  "name": "kubefn",
+  "version": "0.6.0",
+  "summary": "KubeFn Python Runtime — Live Application Fabric for Memory-Continuous Architecture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kubefn-0.6.0.tar.gz",
+  "download_time": "2026-03-25T21:07:40.035430",
+  "package_url": "https://pypi.org/project/kubefn/"
+}

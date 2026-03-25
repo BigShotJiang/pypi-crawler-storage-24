@@ -1,11 +1,11 @@
 {
   "name": "gitgalaxy",
-  "version": "1.0.8",
-  "summary": "Visualizes codebase complexity as explorable 3D galaxies.",
+  "version": "1.1.2",
+  "summary": "A high-speed static analysis engine that sequences source code like DNA to map architectural risk and security threats.",
   "author": "Joe Esquibel",
   "license": "PolyForm Noncommercial License 1.0.0",
   "home_page": null,
-  "download_filename": "gitgalaxy-1.0.8.tar.gz",
-  "download_time": "2026-03-25T16:58:25.306079",
+  "download_filename": "gitgalaxy-1.1.2.tar.gz",
+  "download_time": "2026-03-25T21:07:58.800690",
   "package_url": "https://pypi.org/project/gitgalaxy/"
 }
