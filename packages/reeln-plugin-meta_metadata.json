@@ -1,11 +1,11 @@
 {
   "name": "reeln-plugin-meta",
-  "version": "0.7.0",
+  "version": "0.9.0",
   "summary": "reeln-cli plugin for Meta platform integration (Facebook Live, Instagram, Threads)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reeln_plugin_meta-0.7.0.tar.gz",
-  "download_time": "2026-03-16T04:39:45.486415",
+  "download_filename": "reeln_plugin_meta-0.9.0.tar.gz",
+  "download_time": "2026-03-25T23:11:44.339041",
   "package_url": "https://pypi.org/project/reeln-plugin-meta/"
 }

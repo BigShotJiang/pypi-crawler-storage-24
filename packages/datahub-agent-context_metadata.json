@@ -1,11 +1,11 @@
 {
   "name": "datahub-agent-context",
-  "version": "1.4.0.8",
+  "version": "1.5.0",
   "summary": "DataHub Agent Context - MCP Tools for AI Agents",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": "https://datahub.io/",
-  "download_filename": "datahub_agent_context-1.4.0.8.tar.gz",
-  "download_time": "2026-03-17T19:24:24.724042",
+  "download_filename": "datahub_agent_context-1.5.0.tar.gz",
+  "download_time": "2026-03-25T23:11:43.181278",
   "package_url": "https://pypi.org/project/datahub-agent-context/"
 }

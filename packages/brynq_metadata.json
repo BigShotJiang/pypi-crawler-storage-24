@@ -1,11 +1,11 @@
 {
   "name": "brynq",
-  "version": "0.3.9",
+  "version": "0.4.2",
   "summary": "The operating system for AI workforces. Orchestrate Claude, Gemini, GPT, Llama and 2,600+ tools.",
   "author": "Gurjeet Grewal",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "brynq-0.3.9.tar.gz",
-  "download_time": "2026-03-25T22:38:27.869974",
+  "download_filename": "brynq-0.4.2.tar.gz",
+  "download_time": "2026-03-25T23:11:45.476403",
   "package_url": "https://pypi.org/project/brynq/"
 }

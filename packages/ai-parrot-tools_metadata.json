@@ -1,11 +1,11 @@
 {
   "name": "ai-parrot-tools",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Tools and toolkits for AI-Parrot agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_parrot_tools-0.1.6.tar.gz",
-  "download_time": "2026-03-25T22:00:29.722468",
+  "download_filename": "ai_parrot_tools-0.1.8.tar.gz",
+  "download_time": "2026-03-25T23:12:17.188577",
   "package_url": "https://pypi.org/project/ai-parrot-tools/"
 }

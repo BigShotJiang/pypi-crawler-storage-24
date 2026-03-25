@@ -1,11 +1,11 @@
 {
   "name": "readcon",
-  "version": "0.5.2",
+  "version": "0.7.0",
   "summary": "Python bindings for readcon-core CON/convel file parser",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "readcon-0.5.2.tar.gz",
-  "download_time": "2026-03-25T12:03:27.346974",
+  "download_filename": "readcon-0.7.0.tar.gz",
+  "download_time": "2026-03-25T23:12:02.906706",
   "package_url": "https://pypi.org/project/readcon/"
 }

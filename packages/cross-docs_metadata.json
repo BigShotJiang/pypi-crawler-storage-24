@@ -1,0 +1,11 @@
+{
+  "name": "cross-docs",
+  "version": "0.15.0",
+  "summary": "Documentation framework built on Cross-Inertia",
+  "author": "Patrick Arminio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cross_docs-0.15.0.tar.gz",
+  "download_time": "2026-03-25T23:12:16.029992",
+  "package_url": "https://pypi.org/project/cross-docs/"
+}

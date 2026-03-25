@@ -1,0 +1,11 @@
+{
+  "name": "envman-cli",
+  "version": "1.0.3",
+  "summary": "Secure environment variable manager with encryption and team sharing",
+  "author": "Ahmad Bilal",
+  "license": null,
+  "home_page": "https://github.com/ahmad0303/envman",
+  "download_filename": "envman_cli-1.0.3.tar.gz",
+  "download_time": "2026-03-25T23:11:37.253400",
+  "package_url": "https://pypi.org/project/envman-cli/"
+}

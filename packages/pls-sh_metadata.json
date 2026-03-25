@@ -1,11 +1,11 @@
 {
   "name": "pls-sh",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Terminal in natural language. Just say what you want.",
   "author": "salvy9978",
   "license": null,
   "home_page": null,
-  "download_filename": "pls_sh-0.1.1.tar.gz",
-  "download_time": "2026-03-21T16:58:33.068725",
+  "download_filename": "pls_sh-0.2.0.tar.gz",
+  "download_time": "2026-03-25T23:12:16.606321",
   "package_url": "https://pypi.org/project/pls-sh/"
 }

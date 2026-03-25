@@ -1,0 +1,11 @@
+{
+  "name": "robot-resources-router",
+  "version": "2.1.2",
+  "summary": "Intelligent LLM routing proxy — cost optimization via local proxy",
+  "author": "Robot Resources Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robot_resources_router-2.1.2.tar.gz",
+  "download_time": "2026-03-25T23:12:04.643338",
+  "package_url": "https://pypi.org/project/robot-resources-router/"
+}

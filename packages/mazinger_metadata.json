@@ -1,0 +1,11 @@
+{
+  "name": "mazinger",
+  "version": "1.8.2",
+  "summary": "End-to-end video dubbing pipeline: transcribe, translate, and voice-clone.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mazinger-1.8.2.tar.gz",
+  "download_time": "2026-03-25T23:11:36.038488",
+  "package_url": "https://pypi.org/project/mazinger/"
+}

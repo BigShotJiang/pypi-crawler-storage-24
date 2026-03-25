@@ -1,11 +1,11 @@
 {
   "name": "murm",
-  "version": "0.2.0",
-  "summary": "Multi-agent Uncertainty Resolution Machine: predict public opinion with local-first swarm intelligence",
-  "author": "Akhilesh M",
+  "version": "0.4.1",
+  "summary": "Multi-agent Uncertainty Resolution Machine - predict public opinion with local-first swarm intelligence",
+  "author": "Akhilesh Magotra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "murm-0.2.0.tar.gz",
-  "download_time": "2026-03-21T09:01:23.431795",
+  "download_filename": "murm-0.4.1.tar.gz",
+  "download_time": "2026-03-25T23:11:39.746456",
   "package_url": "https://pypi.org/project/murm/"
 }

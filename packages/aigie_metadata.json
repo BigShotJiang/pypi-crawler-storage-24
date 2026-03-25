@@ -1,11 +1,11 @@
 {
   "name": "aigie",
-  "version": "0.2.31",
+  "version": "0.2.36",
   "summary": "Enterprise-grade AI agent reliability monitoring and autonomous remediation",
   "author": "Aigie",
   "license": null,
   "home_page": "https://github.com/Kytte-AI/kytte-python-sdk",
-  "download_filename": "aigie-0.2.31.tar.gz",
-  "download_time": "2026-03-22T13:02:11.074966",
+  "download_filename": "aigie-0.2.36.tar.gz",
+  "download_time": "2026-03-25T23:11:53.006246",
   "package_url": "https://pypi.org/project/aigie/"
 }

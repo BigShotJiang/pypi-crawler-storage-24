@@ -1,0 +1,11 @@
+{
+  "name": "airportsdata",
+  "version": "20260315",
+  "summary": "Extensive database of location and timezone data for nearly every airport and landing strip in the world.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airportsdata-20260315.tar.gz",
+  "download_time": "2026-03-25T23:11:29.090032",
+  "package_url": "https://pypi.org/project/airportsdata/"
+}

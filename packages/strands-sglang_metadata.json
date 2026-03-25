@@ -1,11 +1,11 @@
 {
   "name": "strands-sglang",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "SGLang model provider for Strands Agents SDK with Token-in/Token-out support for agentic RL training.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "strands_sglang-0.3.4.tar.gz",
-  "download_time": "2026-03-13T05:13:51.842961",
+  "download_filename": "strands_sglang-0.3.5.tar.gz",
+  "download_time": "2026-03-25T23:11:32.005420",
   "package_url": "https://pypi.org/project/strands-sglang/"
 }
