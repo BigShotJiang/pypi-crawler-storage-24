@@ -1,0 +1,11 @@
+{
+  "name": "dependaman",
+  "version": "1.0.0",
+  "summary": "Understand your Python dependencies. Find cycles, dead modules, and architecture problems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dependaman-1.0.0.tar.gz",
+  "download_time": "2026-03-25T06:50:21.091697",
+  "package_url": "https://pypi.org/project/dependaman/"
+}

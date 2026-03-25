@@ -1,0 +1,11 @@
+{
+  "name": "an-web",
+  "version": "0.3.0",
+  "summary": "AN-Web: AI-Native Web Browser Engine — executes the web as an actionable state machine for AI agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "an_web-0.3.0.tar.gz",
+  "download_time": "2026-03-25T06:50:01.500658",
+  "package_url": "https://pypi.org/project/an-web/"
+}

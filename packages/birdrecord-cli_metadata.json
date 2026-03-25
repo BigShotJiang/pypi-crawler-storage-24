@@ -1,0 +1,11 @@
+{
+  "name": "birdrecord-cli",
+  "version": "0.1.1",
+  "summary": "CLI for China Bird Record (birdreport.cn); default API host weixin.birdrecord.cn.",
+  "author": "yoshino-s",
+  "license": null,
+  "home_page": null,
+  "download_filename": "birdrecord_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-25T06:50:44.717499",
+  "package_url": "https://pypi.org/project/birdrecord-cli/"
+}

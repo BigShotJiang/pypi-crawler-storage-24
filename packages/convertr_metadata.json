@@ -1,11 +1,11 @@
 {
   "name": "convertr",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A universal media converter CLI using FFmpeg",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "convertr-0.1.3.tar.gz",
-  "download_time": "2026-03-08T17:49:07.695394",
+  "download_filename": "convertr-0.1.4.tar.gz",
+  "download_time": "2026-03-25T06:50:31.366570",
   "package_url": "https://pypi.org/project/convertr/"
 }

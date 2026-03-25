@@ -1,0 +1,11 @@
+{
+  "name": "rag-retrieval-mcp",
+  "version": "0.2.0",
+  "summary": "A generic RAG MCP server with pluggable embedding providers and vector stores",
+  "author": "MaryamZi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rag_retrieval_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-25T06:50:25.722154",
+  "package_url": "https://pypi.org/project/rag-retrieval-mcp/"
+}

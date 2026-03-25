@@ -1,11 +1,11 @@
 {
   "name": "sqlh",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A lightweight SQL lineage analysis library for tracking table dependencies in data pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlh-0.2.6.tar.gz",
-  "download_time": "2026-03-24T15:25:44.896803",
+  "download_filename": "sqlh-0.2.7.tar.gz",
+  "download_time": "2026-03-25T06:50:20.581987",
   "package_url": "https://pypi.org/project/sqlh/"
 }

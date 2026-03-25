@@ -1,0 +1,11 @@
+{
+  "name": "park-it",
+  "version": "0.1.0",
+  "summary": "A framework for rapidly building parking space monitor web apps using parked car sensors. Built on Mkdocs-Material, implemented as a Mkdocs plugin.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "park_it-0.1.0.tar.gz",
+  "download_time": "2026-03-25T06:50:16.407322",
+  "package_url": "https://pypi.org/project/park-it/"
+}

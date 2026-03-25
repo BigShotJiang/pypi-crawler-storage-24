@@ -1,0 +1,11 @@
+{
+  "name": "neonprint",
+  "version": "0.1.0",
+  "summary": "Chainable colored and styled text printing for Python",
+  "author": "Samarth Chugh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neonprint-0.1.0.tar.gz",
+  "download_time": "2026-03-25T06:50:42.665780",
+  "package_url": "https://pypi.org/project/neonprint/"
+}

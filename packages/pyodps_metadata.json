@@ -1,0 +1,11 @@
+{
+  "name": "pyodps",
+  "version": "0.12.6",
+  "summary": "ODPS Python SDK and data analysis framework",
+  "author": "Wu Wei",
+  "license": "Apache License 2.0",
+  "home_page": "http://github.com/aliyun/aliyun-odps-python-sdk",
+  "download_filename": "pyodps-0.12.6.tar.gz",
+  "download_time": "2026-03-25T06:50:41.640702",
+  "package_url": "https://pypi.org/project/pyodps/"
+}

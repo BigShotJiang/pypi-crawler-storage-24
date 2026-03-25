@@ -1,0 +1,11 @@
+{
+  "name": "litmus-trace",
+  "version": "0.1.0",
+  "summary": "Record and deterministically replay AI agent executions",
+  "author": "Romir Jain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "litmus_trace-0.1.0.tar.gz",
+  "download_time": "2026-03-25T06:50:41.109138",
+  "package_url": "https://pypi.org/project/litmus-trace/"
+}

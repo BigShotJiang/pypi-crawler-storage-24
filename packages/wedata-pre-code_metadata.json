@@ -1,0 +1,11 @@
+{
+  "name": "wedata-pre-code",
+  "version": "1.0.24",
+  "summary": "WeData平台的预执行代码库，为机器学习实验提供与MLflow的深度集成",
+  "author": "WeData Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wedata_pre_code-1.0.24.tar.gz",
+  "download_time": "2026-03-25T06:50:02.011606",
+  "package_url": "https://pypi.org/project/wedata-pre-code/"
+}

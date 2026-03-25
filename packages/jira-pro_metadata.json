@@ -1,0 +1,11 @@
+{
+  "name": "jira-pro",
+  "version": "0.1.0",
+  "summary": "Jira Cloud client for AI agents and automation",
+  "author": "Henrique Bastos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jira_pro-0.1.0.tar.gz",
+  "download_time": "2026-03-25T06:50:30.342839",
+  "package_url": "https://pypi.org/project/jira-pro/"
+}

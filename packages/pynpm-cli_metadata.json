@@ -1,11 +1,11 @@
 {
   "name": "pynpm-cli",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "An npm-like package manager for Python that uses pip under the hood",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pynpm_cli-0.1.0.tar.gz",
-  "download_time": "2026-03-25T05:45:23.674455",
+  "download_filename": "pynpm_cli-0.1.3.tar.gz",
+  "download_time": "2026-03-25T06:50:38.555410",
   "package_url": "https://pypi.org/project/pynpm-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sds-mng",
-  "version": "0.1.0",
+  "version": "0.1.202",
   "summary": "sds system management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sds_mng-0.1.0.tar.gz",
-  "download_time": "2026-03-24T10:53:30.601230",
+  "download_filename": "sds_mng-0.1.202.tar.gz",
+  "download_time": "2026-03-25T06:50:45.737503",
   "package_url": "https://pypi.org/project/sds-mng/"
 }

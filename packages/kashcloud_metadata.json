@@ -1,0 +1,11 @@
+{
+  "name": "kashcloud",
+  "version": "0.3.0",
+  "summary": "KashCloud CLI -- AI terminal + agent infrastructure. Like Claude Code, but yours.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kashcloud-0.3.0.tar.gz",
+  "download_time": "2026-03-25T06:50:39.575486",
+  "package_url": "https://pypi.org/project/kashcloud/"
+}

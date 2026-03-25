@@ -1,11 +1,11 @@
 {
   "name": "gdep",
-  "version": "0.1.10",
+  "version": "0.1.17",
   "summary": "Game Engine Dependency & AI Analysis Tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gdep-0.1.10.tar.gz",
-  "download_time": "2026-03-23T15:22:09.732678",
+  "download_filename": "gdep-0.1.17.tar.gz",
+  "download_time": "2026-03-25T06:50:19.555866",
   "package_url": "https://pypi.org/project/gdep/"
 }

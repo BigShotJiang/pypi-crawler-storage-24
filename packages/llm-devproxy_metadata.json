@@ -1,11 +1,11 @@
 {
   "name": "llm-devproxy",
-  "version": "0.1.0",
-  "summary": "LLM development debug layer - every API call recorded, nothing lost",
+  "version": "0.3.0",
+  "summary": "LLM development debug layer - every API call recorded, nothing lost. Reasoning tokens, alerts, export, streaming.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_devproxy-0.1.0.tar.gz",
-  "download_time": "2026-03-13T07:58:04.656392",
+  "download_filename": "llm_devproxy-0.3.0.tar.gz",
+  "download_time": "2026-03-25T06:50:31.876802",
   "package_url": "https://pypi.org/project/llm-devproxy/"
 }

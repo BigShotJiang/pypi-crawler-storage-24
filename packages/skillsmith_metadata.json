@@ -1,11 +1,11 @@
 {
   "name": "skillsmith",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "summary": "The premier operating system for AI coding agents — standardize, compose, and scale skills-as-code.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skillsmith-1.0.0.tar.gz",
-  "download_time": "2026-03-24T21:04:54.681997",
+  "download_filename": "skillsmith-1.0.9.tar.gz",
+  "download_time": "2026-03-25T06:50:12.298415",
   "package_url": "https://pypi.org/project/skillsmith/"
 }
