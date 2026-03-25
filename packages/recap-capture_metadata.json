@@ -1,11 +1,11 @@
 {
   "name": "recap-capture",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Headless screen and audio capture library and CLI for Windows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "recap_capture-0.2.0.tar.gz",
-  "download_time": "2026-03-25T18:03:25.886181",
+  "download_filename": "recap_capture-0.2.2.tar.gz",
+  "download_time": "2026-03-25T20:29:14.462556",
   "package_url": "https://pypi.org/project/recap-capture/"
 }

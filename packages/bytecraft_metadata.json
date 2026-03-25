@@ -1,11 +1,11 @@
 {
   "name": "bytecraft",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "A lightweight DSL for scaffolding files and folders",
   "author": "Sourasish Das",
   "license": "SOCL-1.0",
   "home_page": null,
-  "download_filename": "bytecraft-0.5.1.tar.gz",
-  "download_time": "2026-03-23T13:01:51.962432",
+  "download_filename": "bytecraft-0.6.0.tar.gz",
+  "download_time": "2026-03-25T20:29:58.712967",
   "package_url": "https://pypi.org/project/bytecraft/"
 }

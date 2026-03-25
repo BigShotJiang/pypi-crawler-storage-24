@@ -1,0 +1,11 @@
+{
+  "name": "smol-clang",
+  "version": "0.0.9",
+  "summary": "Smol hermetic LLVM clang+lld toolchain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smol_clang-0.0.9-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-25T20:29:24.623118",
+  "package_url": "https://pypi.org/project/smol-clang/"
+}

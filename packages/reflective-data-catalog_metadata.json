@@ -1,11 +1,11 @@
 {
   "name": "reflective-data-catalog",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Reflective's Unified SAI Data Catalog",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reflective_data_catalog-0.0.3.tar.gz",
-  "download_time": "2026-03-24T22:57:09.245684",
+  "download_filename": "reflective_data_catalog-0.0.4.tar.gz",
+  "download_time": "2026-03-25T20:29:58.170800",
   "package_url": "https://pypi.org/project/reflective-data-catalog/"
 }

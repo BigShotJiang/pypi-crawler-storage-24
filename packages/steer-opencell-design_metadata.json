@@ -1,11 +1,11 @@
 {
   "name": "steer-opencell-design",
-  "version": "1.0.34",
+  "version": "1.0.37",
   "summary": "STEER OpenCell Design - A Python package for designing and modeling battery cells.",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "steer_opencell_design-1.0.34.tar.gz",
-  "download_time": "2026-03-17T23:41:10.300224",
+  "download_filename": "steer_opencell_design-1.0.37.tar.gz",
+  "download_time": "2026-03-25T20:29:15.043306",
   "package_url": "https://pypi.org/project/steer-opencell-design/"
 }

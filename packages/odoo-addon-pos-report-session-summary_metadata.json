@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-report-session-summary",
+  "version": "18.0.1.0.0.2",
+  "summary": "Adds a Session Summary PDF report on the POS session",
+  "author": "Akretion, Odoo SA, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_report_session_summary-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-25T20:29:50.561520",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-report-session-summary/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "turboquant-vectors",
+  "version": "0.1.0b1",
+  "summary": "Compress embeddings 8x instantly with TurboQuant. No training needed. Up to +8pp recall vs FAISS PQ at matched storage.",
+  "author": "back2matching",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "turboquant_vectors-0.1.0b1.tar.gz",
+  "download_time": "2026-03-25T20:29:21.349660",
+  "package_url": "https://pypi.org/project/turboquant-vectors/"
+}

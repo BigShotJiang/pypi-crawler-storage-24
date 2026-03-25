@@ -1,11 +1,11 @@
 {
   "name": "cupidone",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "CLI to-do list manager",
   "author": "Kirill Vinogradov",
   "license": "MIT",
   "home_page": "https://github.com/vikian050194/cupidone",
-  "download_filename": "cupidone-0.6.0.tar.gz",
-  "download_time": "2026-03-08T14:49:54.192532",
+  "download_filename": "cupidone-0.7.0.tar.gz",
+  "download_time": "2026-03-25T20:29:22.444966",
   "package_url": "https://pypi.org/project/cupidone/"
 }

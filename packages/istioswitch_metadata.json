@@ -1,11 +1,11 @@
 {
   "name": "istioswitch",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "CLI tool to switch between multiple versions of istioctl",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "istioswitch-0.3.1.tar.gz",
-  "download_time": "2026-03-20T16:49:47.001311",
+  "download_filename": "istioswitch-0.4.0.tar.gz",
+  "download_time": "2026-03-25T20:29:19.661809",
   "package_url": "https://pypi.org/project/istioswitch/"
 }

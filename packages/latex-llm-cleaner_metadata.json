@@ -1,11 +1,11 @@
 {
   "name": "latex-llm-cleaner",
-  "version": "0.2.1",
+  "version": "0.6.0",
   "summary": "Flatten and clean LaTeX files for LLM consumption",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "latex_llm_cleaner-0.2.1.tar.gz",
-  "download_time": "2026-03-21T21:24:44.847716",
+  "download_filename": "latex_llm_cleaner-0.6.0.tar.gz",
+  "download_time": "2026-03-25T20:29:13.890115",
   "package_url": "https://pypi.org/project/latex-llm-cleaner/"
 }
