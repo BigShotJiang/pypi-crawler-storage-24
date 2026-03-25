@@ -1,11 +1,11 @@
 {
   "name": "alyx-local",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "summary": "Local database for experimental neuroscience laboratories",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alyx_local-3.1.3.tar.gz",
-  "download_time": "2026-03-25T09:37:27.795399",
+  "download_filename": "alyx_local-3.1.4.tar.gz",
+  "download_time": "2026-03-25T14:29:45.675489",
   "package_url": "https://pypi.org/project/alyx-local/"
 }

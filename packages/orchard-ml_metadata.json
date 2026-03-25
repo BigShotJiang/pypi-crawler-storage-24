@@ -1,11 +1,11 @@
 {
   "name": "orchard-ml",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Type-Safe Deep Learning Framework for Computer Vision",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orchard_ml-0.2.3.tar.gz",
-  "download_time": "2026-03-22T09:09:14.725827",
+  "download_filename": "orchard_ml-0.2.4.tar.gz",
+  "download_time": "2026-03-25T14:30:20.174586",
   "package_url": "https://pypi.org/project/orchard-ml/"
 }

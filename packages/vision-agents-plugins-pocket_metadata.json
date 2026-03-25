@@ -1,0 +1,11 @@
+{
+  "name": "vision-agents-plugins-pocket",
+  "version": "0.4.5",
+  "summary": "Pocket TTS integration for Vision Agents - lightweight CPU-based text-to-speech",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vision_agents_plugins_pocket-0.4.5.tar.gz",
+  "download_time": "2026-03-25T14:30:11.950014",
+  "package_url": "https://pypi.org/project/vision-agents-plugins-pocket/"
+}

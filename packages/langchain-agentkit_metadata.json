@@ -1,11 +1,11 @@
 {
   "name": "langchain-agentkit",
-  "version": "0.7.0",
+  "version": "0.9.0",
   "summary": "Composable middleware framework for LangGraph agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_agentkit-0.7.0.tar.gz",
-  "download_time": "2026-03-15T21:53:38.708612",
+  "download_filename": "langchain_agentkit-0.9.0.tar.gz",
+  "download_time": "2026-03-25T14:30:02.145930",
   "package_url": "https://pypi.org/project/langchain-agentkit/"
 }

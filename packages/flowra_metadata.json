@@ -1,11 +1,11 @@
 {
   "name": "flowra",
-  "version": "0.0.22",
+  "version": "0.0.26",
   "summary": "Flowra — flow infrastructure for building stateful LLM agents",
   "author": "Ivan Dashkevich",
   "license": null,
   "home_page": null,
-  "download_filename": "flowra-0.0.22.tar.gz",
-  "download_time": "2026-03-23T22:33:11.924311",
+  "download_filename": "flowra-0.0.26.tar.gz",
+  "download_time": "2026-03-25T14:29:46.708695",
   "package_url": "https://pypi.org/project/flowra/"
 }

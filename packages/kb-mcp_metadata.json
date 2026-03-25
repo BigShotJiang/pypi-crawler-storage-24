@@ -1,11 +1,11 @@
 {
   "name": "kb-mcp",
-  "version": "0.5.1",
+  "version": "0.7.0",
   "summary": "AI cross-context synchronization layer — shared knowledge base MCP server for Claude Code, Copilot, and Codex",
   "author": "okash1n",
   "license": null,
   "home_page": null,
-  "download_filename": "kb_mcp-0.5.1.tar.gz",
-  "download_time": "2026-03-25T04:15:40.863337",
+  "download_filename": "kb_mcp-0.7.0.tar.gz",
+  "download_time": "2026-03-25T14:29:50.304480",
   "package_url": "https://pypi.org/project/kb-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dltype",
+  "version": "0.13.2",
+  "summary": "An extremely lightweight and typing library for torch tensors, jax arrays, and numpy arrays. Supports runtime shape checking and data type validation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dltype-0.13.2.tar.gz",
+  "download_time": "2026-03-25T14:29:39.488131",
+  "package_url": "https://pypi.org/project/dltype/"
+}

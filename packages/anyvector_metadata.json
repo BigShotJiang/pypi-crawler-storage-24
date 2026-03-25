@@ -1,0 +1,11 @@
+{
+  "name": "anyvector",
+  "version": "0.0.1a1",
+  "summary": "Unified Python interface for vector databases.",
+  "author": "AnyVector Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "anyvector-0.0.1a1.tar.gz",
+  "download_time": "2026-03-25T14:29:49.276934",
+  "package_url": "https://pypi.org/project/anyvector/"
+}

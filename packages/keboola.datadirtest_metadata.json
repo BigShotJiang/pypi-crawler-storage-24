@@ -1,11 +1,11 @@
 {
   "name": "keboola.datadirtest",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Functional testing framework for Keboola components with VCR support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keboola_datadirtest-2.1.0.tar.gz",
-  "download_time": "2026-03-17T07:45:21.862921",
+  "download_filename": "keboola_datadirtest-2.1.1.tar.gz",
+  "download_time": "2026-03-25T14:29:47.740605",
   "package_url": "https://pypi.org/project/keboola.datadirtest/"
 }

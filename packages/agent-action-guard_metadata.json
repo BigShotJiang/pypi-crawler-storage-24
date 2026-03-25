@@ -1,11 +1,11 @@
 {
   "name": "agent-action-guard",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "summary": "Runtime classifier for screening AI agent actions as safe, harmful, or unethical.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_action_guard-1.0.4.tar.gz",
-  "download_time": "2026-03-17T05:08:55.233633",
+  "download_filename": "agent_action_guard-1.0.7.tar.gz",
+  "download_time": "2026-03-25T14:29:59.572130",
   "package_url": "https://pypi.org/project/agent-action-guard/"
 }
