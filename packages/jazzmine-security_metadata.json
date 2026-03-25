@@ -1,0 +1,11 @@
+{
+  "name": "jazzmine-security",
+  "version": "0.1.12",
+  "summary": "Security and moderation tools for the Jazzmine AI ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jazzmine_security-0.1.12.tar.gz",
+  "download_time": "2026-03-25T18:03:43.551259",
+  "package_url": "https://pypi.org/project/jazzmine-security/"
+}

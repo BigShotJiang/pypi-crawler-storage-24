@@ -1,0 +1,11 @@
+{
+  "name": "physical_ai_av",
+  "version": "0.2.2",
+  "summary": "Developer kit for working with the NVIDIA Physical AI Autonomous Vehicles Dataset",
+  "author": "NVIDIA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "physical_ai_av-0.2.2.tar.gz",
+  "download_time": "2026-03-25T18:04:06.218357",
+  "package_url": "https://pypi.org/project/physical_ai_av/"
+}

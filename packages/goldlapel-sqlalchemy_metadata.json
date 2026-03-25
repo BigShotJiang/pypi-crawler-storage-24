@@ -1,11 +1,11 @@
 {
   "name": "goldlapel-sqlalchemy",
-  "version": "0.1.0rc8",
+  "version": "0.1.0rc10",
   "summary": "Gold Lapel plugin for SQLAlchemy — automatic Postgres query optimization",
   "author": "Stephen Gibson",
-  "license": "Proprietary",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "goldlapel_sqlalchemy-0.1.0rc8.tar.gz",
-  "download_time": "2026-03-23T21:26:38.134844",
+  "download_filename": "goldlapel_sqlalchemy-0.1.0rc10.tar.gz",
+  "download_time": "2026-03-25T18:03:47.666350",
   "package_url": "https://pypi.org/project/goldlapel-sqlalchemy/"
 }

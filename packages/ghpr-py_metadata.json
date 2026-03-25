@@ -1,0 +1,11 @@
+{
+  "name": "ghpr-py",
+  "version": "0.1.9",
+  "summary": "GitHub PR/Issue management: clone, edit, and push PR/issue descriptions and comments, with gist mirroring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ghpr_py-0.1.9.tar.gz",
+  "download_time": "2026-03-25T18:04:08.856576",
+  "package_url": "https://pypi.org/project/ghpr-py/"
+}

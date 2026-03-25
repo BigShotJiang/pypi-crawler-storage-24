@@ -1,0 +1,11 @@
+{
+  "name": "tdscha",
+  "version": "1.6.1",
+  "summary": "Time Dependent Self Consistent Harmonic Approximation",
+  "author": "Lorenzo Monacelli",
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "tdscha-1.6.1.tar.gz",
+  "download_time": "2026-03-25T18:04:00.586785",
+  "package_url": "https://pypi.org/project/tdscha/"
+}

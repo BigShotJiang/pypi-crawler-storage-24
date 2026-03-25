@@ -1,0 +1,11 @@
+{
+  "name": "xwr",
+  "version": "0.4.1",
+  "summary": "Linux-Compatible Real-Time Raw Data Capture for TI mmWave Radars.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xwr-0.4.1.tar.gz",
+  "download_time": "2026-03-25T18:03:21.630189",
+  "package_url": "https://pypi.org/project/xwr/"
+}

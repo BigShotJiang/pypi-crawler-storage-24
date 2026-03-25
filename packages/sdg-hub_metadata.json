@@ -1,0 +1,11 @@
+{
+  "name": "sdg-hub",
+  "version": "0.9.0",
+  "summary": "Synthetic Data Generation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sdg_hub-0.9.0.tar.gz",
+  "download_time": "2026-03-25T18:04:12.604536",
+  "package_url": "https://pypi.org/project/sdg-hub/"
+}

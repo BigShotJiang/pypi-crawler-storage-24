@@ -1,0 +1,11 @@
+{
+  "name": "stcal",
+  "version": "1.18.0",
+  "summary": "STScI tools and algorithms used in calibration pipelines",
+  "author": "STScI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stcal-1.18.0.tar.gz",
+  "download_time": "2026-03-25T18:03:50.420243",
+  "package_url": "https://pypi.org/project/stcal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dvt-pro",
+  "version": "0.2.0",
+  "summary": "DVT Pro — cross-engine data transformation tool (premium edition).",
+  "author": "Hesham Badawi",
+  "license": null,
+  "home_page": "https://github.com/heshamh96/dvt-ce",
+  "download_filename": "dvt_pro-0.2.0.tar.gz",
+  "download_time": "2026-03-25T18:03:31.282532",
+  "package_url": "https://pypi.org/project/dvt-pro/"
+}

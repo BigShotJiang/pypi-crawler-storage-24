@@ -1,11 +1,11 @@
 {
   "name": "django-goldlapel",
-  "version": "0.1.0rc8",
+  "version": "0.1.0rc10",
   "summary": "Django database backend for Gold Lapel — self-optimizing Postgres proxy",
   "author": "Stephen Gibson",
-  "license": "Proprietary",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "django_goldlapel-0.1.0rc8.tar.gz",
-  "download_time": "2026-03-23T21:26:36.022837",
+  "download_filename": "django_goldlapel-0.1.0rc10.tar.gz",
+  "download_time": "2026-03-25T18:03:45.774737",
   "package_url": "https://pypi.org/project/django-goldlapel/"
 }

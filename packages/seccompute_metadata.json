@@ -1,0 +1,11 @@
+{
+  "name": "seccompute",
+  "version": "3.0.3",
+  "summary": "Seccomp profile hardening score engine",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "seccompute-3.0.3.tar.gz",
+  "download_time": "2026-03-25T18:03:28.906979",
+  "package_url": "https://pypi.org/project/seccompute/"
+}

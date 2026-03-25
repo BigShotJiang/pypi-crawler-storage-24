@@ -1,0 +1,11 @@
+{
+  "name": "w3-mcp-server-lsp",
+  "version": "0.1.2",
+  "summary": "MCP server wrapping TypeScript Language Server for JavaScript/TypeScript",
+  "author": "W3 Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "w3_mcp_server_lsp-0.1.2.tar.gz",
+  "download_time": "2026-03-25T18:03:53.619765",
+  "package_url": "https://pypi.org/project/w3-mcp-server-lsp/"
+}

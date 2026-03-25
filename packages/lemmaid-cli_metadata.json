@@ -1,0 +1,11 @@
+{
+  "name": "lemmaid-cli",
+  "version": "0.1.1",
+  "summary": "Lemma.id integration CLI",
+  "author": "Lemma.id Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lemmaid_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-25T18:03:57.461437",
+  "package_url": "https://pypi.org/project/lemmaid-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyvista-wasm",
+  "version": "0.1.1",
+  "summary": "PyVista-like API for VTK.wasm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvista_wasm-0.1.1.tar.gz",
+  "download_time": "2026-03-25T18:04:10.527423",
+  "package_url": "https://pypi.org/project/pyvista-wasm/"
+}
