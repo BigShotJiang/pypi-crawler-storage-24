@@ -1,11 +1,11 @@
 {
   "name": "intermap",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Accelerated Detection of Interaction  Fingerprints on Large-Scale Molecular Ensembles",
   "author": "Roy González Alemán",
   "license": "MIT",
   "home_page": "https://delta-research-team.github.io/intermap/",
-  "download_filename": "intermap-1.0.3.tar.gz",
-  "download_time": "2026-03-25T09:37:01.402798",
+  "download_filename": "intermap-1.0.4.tar.gz",
+  "download_time": "2026-03-25T11:20:04.065415",
   "package_url": "https://pypi.org/project/intermap/"
 }

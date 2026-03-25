@@ -1,0 +1,11 @@
+{
+  "name": "mcp-news",
+  "version": "1.0.0",
+  "summary": "MCP server that collects articles from 1100+ RSS feeds across 150+ countries",
+  "author": "Benjamin MARCHAND",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_news-1.0.0.tar.gz",
+  "download_time": "2026-03-25T11:20:34.080657",
+  "package_url": "https://pypi.org/project/mcp-news/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pycdstar",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A python wrapper for the CDStar API",
   "author": "Robert Forkel",
   "license": "Apache 2.0",
   "home_page": "https://github.com/dlce-eva/pycdstar",
-  "download_filename": "pycdstar-1.2.0.tar.gz",
-  "download_time": "2026-03-08T09:51:49.195308",
+  "download_filename": "pycdstar-1.2.1.tar.gz",
+  "download_time": "2026-03-25T11:20:25.005972",
   "package_url": "https://pypi.org/project/pycdstar/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "socrates-cli",
+  "version": "0.1.1",
+  "summary": "Command-line interface for Socrates AI tutoring system with GitHub-ready project generation, export, and publishing capabilities",
+  "author": "Socrates AI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "socrates_cli-0.1.1.tar.gz",
+  "download_time": "2026-03-25T11:20:06.169288",
+  "package_url": "https://pypi.org/project/socrates-cli/"
+}

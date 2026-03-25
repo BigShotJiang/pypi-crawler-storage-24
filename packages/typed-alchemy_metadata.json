@@ -1,0 +1,11 @@
+{
+  "name": "typed-alchemy",
+  "version": "0.1.0",
+  "summary": "A fully typed, validated async client for the Alchemy API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_alchemy-0.1.0.tar.gz",
+  "download_time": "2026-03-25T11:20:13.069964",
+  "package_url": "https://pypi.org/project/typed-alchemy/"
+}

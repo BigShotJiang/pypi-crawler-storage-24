@@ -1,0 +1,11 @@
+{
+  "name": "diskcomp",
+  "version": "1.0.0",
+  "summary": "Compare two drives and find duplicate files. Zero dependencies, cross-platform, with undo.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "diskcomp-1.0.0.tar.gz",
+  "download_time": "2026-03-25T11:20:46.929817",
+  "package_url": "https://pypi.org/project/diskcomp/"
+}

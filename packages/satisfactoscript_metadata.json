@@ -1,11 +1,11 @@
 {
   "name": "satisfactoscript",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "An Enterprise-Ready, Declarative Data Engineering Framework for Databricks Lakehouse.",
   "author": "julhouba",
   "license": null,
   "home_page": null,
-  "download_filename": "satisfactoscript-0.5.1.tar.gz",
-  "download_time": "2026-03-20T10:08:04.020104",
+  "download_filename": "satisfactoscript-0.5.2.tar.gz",
+  "download_time": "2026-03-25T11:20:38.902908",
   "package_url": "https://pypi.org/project/satisfactoscript/"
 }

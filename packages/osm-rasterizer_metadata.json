@@ -1,0 +1,11 @@
+{
+  "name": "osm-rasterizer",
+  "version": "0.1.0",
+  "summary": "Rasterize OpenStreetMap vector features into GeoTIFF rasters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osm_rasterizer-0.1.0.tar.gz",
+  "download_time": "2026-03-25T11:20:08.293673",
+  "package_url": "https://pypi.org/project/osm-rasterizer/"
+}

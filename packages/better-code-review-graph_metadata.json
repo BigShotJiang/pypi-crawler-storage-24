@@ -1,11 +1,11 @@
 {
   "name": "better-code-review-graph",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "Knowledge graph for token-efficient code reviews — fixed search, configurable embeddings, qualified call resolution",
   "author": "n24q02m",
   "license": null,
   "home_page": null,
-  "download_filename": "better_code_review_graph-3.0.0.tar.gz",
-  "download_time": "2026-03-25T08:37:37.129079",
+  "download_filename": "better_code_review_graph-3.1.0.tar.gz",
+  "download_time": "2026-03-25T11:20:26.063200",
   "package_url": "https://pypi.org/project/better-code-review-graph/"
 }

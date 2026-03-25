@@ -1,11 +1,11 @@
 {
   "name": "contradish",
-  "version": "0.2.4",
-  "summary": "Contradish is an open-source reasoning stability testing library for LLM applications. It detects contradictions, measures consistency, and catches regressions before they ship.",
+  "version": "0.3.0",
+  "summary": "CAI testing for LLM apps. Detects CAI failures — when your app gives contradictory answers to semantically equivalent inputs. Returns a CAI score per rule.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contradish-0.2.4.tar.gz",
-  "download_time": "2026-03-20T22:28:51.229158",
+  "download_filename": "contradish-0.3.0.tar.gz",
+  "download_time": "2026-03-25T11:20:21.795428",
   "package_url": "https://pypi.org/project/contradish/"
 }

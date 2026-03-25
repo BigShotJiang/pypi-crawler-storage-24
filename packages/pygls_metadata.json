@@ -1,0 +1,11 @@
+{
+  "name": "pygls",
+  "version": "2.1.1",
+  "summary": "A pythonic generic language server (pronounced like 'pie glass')",
+  "author": "Open Law Library",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygls-2.1.1.tar.gz",
+  "download_time": "2026-03-25T11:20:05.124859",
+  "package_url": "https://pypi.org/project/pygls/"
+}

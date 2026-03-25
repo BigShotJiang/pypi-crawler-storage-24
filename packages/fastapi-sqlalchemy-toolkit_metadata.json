@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-sqlalchemy-toolkit",
+  "version": "0.7.18",
+  "summary": "FastAPI SQLAlchemy Toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_sqlalchemy_toolkit-0.7.18.tar.gz",
+  "download_time": "2026-03-25T11:20:10.952213",
+  "package_url": "https://pypi.org/project/fastapi-sqlalchemy-toolkit/"
+}

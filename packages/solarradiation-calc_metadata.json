@@ -1,0 +1,11 @@
+{
+  "name": "solarradiation-calc",
+  "version": "0.1.1",
+  "summary": "A Python package for calculating solar radiation on tilted surfaces with atmospheric effects modeling",
+  "author": "Kurzanov S.",
+  "license": "MIT",
+  "home_page": "https://gitverse.ru/Sergei100/SolarRadiation.git",
+  "download_filename": "solarradiation_calc-0.1.1.tar.gz",
+  "download_time": "2026-03-25T11:20:23.398297",
+  "package_url": "https://pypi.org/project/solarradiation-calc/"
+}
