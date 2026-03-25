@@ -1,11 +1,11 @@
 {
   "name": "openjiuwen-studio",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "OpenJiuwen Studio offers an all-in-one AI Agent development platform",
   "author": null,
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "openjiuwen_studio-0.1.5.tar.gz",
-  "download_time": "2026-03-19T04:40:08.453017",
+  "download_filename": "openjiuwen_studio-0.1.6.tar.gz",
+  "download_time": "2026-03-25T09:37:16.314270",
   "package_url": "https://pypi.org/project/openjiuwen-studio/"
 }

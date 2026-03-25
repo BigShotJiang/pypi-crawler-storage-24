@@ -1,11 +1,11 @@
 {
   "name": "shellflow",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A minimal shell script orchestrator with SSH support",
   "author": "Bob Liu",
   "license": null,
   "home_page": null,
-  "download_filename": "shellflow-0.2.3.tar.gz",
-  "download_time": "2026-03-25T06:50:32.898565",
+  "download_filename": "shellflow-0.2.4.tar.gz",
+  "download_time": "2026-03-25T09:37:05.024323",
   "package_url": "https://pypi.org/project/shellflow/"
 }

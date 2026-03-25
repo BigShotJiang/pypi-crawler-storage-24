@@ -1,11 +1,11 @@
 {
   "name": "qig-core",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "summary": "Fisher-Rao geometry, coordizer, purity gate, consciousness subsystems, and constants for QIG architecture",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qig_core-2.6.0.tar.gz",
-  "download_time": "2026-03-25T08:37:00.462756",
+  "download_filename": "qig_core-2.6.1.tar.gz",
+  "download_time": "2026-03-25T09:37:36.513425",
   "package_url": "https://pypi.org/project/qig-core/"
 }

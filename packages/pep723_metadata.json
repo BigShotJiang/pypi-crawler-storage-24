@@ -1,0 +1,11 @@
+{
+  "name": "pep723",
+  "version": "0.0.2",
+  "summary": "Implementation of PEP 723 (inline script metadata)",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "pep723-0.0.2.tar.gz",
+  "download_time": "2026-03-25T09:36:56.720132",
+  "package_url": "https://pypi.org/project/pep723/"
+}

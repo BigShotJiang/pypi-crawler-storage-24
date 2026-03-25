@@ -1,0 +1,11 @@
+{
+  "name": "desilang",
+  "version": "1.2.0",
+  "summary": "India's first Hinglish programming language for Data Science 🇮🇳",
+  "author": "Avinash Walton",
+  "license": null,
+  "home_page": "https://github.com/avinashwalton/DesiLang",
+  "download_filename": "desilang-1.2.0.tar.gz",
+  "download_time": "2026-03-25T09:37:11.164519",
+  "package_url": "https://pypi.org/project/desilang/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "research-skills-installer",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Installer/upgrader CLI for research-skills (Codex / Claude Code / Gemini) without requiring a git fork.",
   "author": "Jiaxin Peng",
   "license": null,
   "home_page": null,
-  "download_filename": "research_skills_installer-0.2.0.tar.gz",
-  "download_time": "2026-03-24T14:10:55.736009",
+  "download_filename": "research_skills_installer-0.3.0.tar.gz",
+  "download_time": "2026-03-25T09:36:53.122534",
   "package_url": "https://pypi.org/project/research-skills-installer/"
 }

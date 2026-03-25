@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-security",
-  "version": "1.6.0b1",
+  "version": "1.6.0b2",
   "summary": "Subpackage for security and red-team interfaces in NVIDIA NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_security-1.6.0b1-py3-none-any.whl",
-  "download_time": "2026-03-09T22:23:56.306886",
+  "download_filename": "nvidia_nat_security-1.6.0b2-py3-none-any.whl",
+  "download_time": "2026-03-25T09:37:38.045109",
   "package_url": "https://pypi.org/project/nvidia-nat-security/"
 }

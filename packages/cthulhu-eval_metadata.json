@@ -1,0 +1,11 @@
+{
+  "name": "cthulhu-eval",
+  "version": "0.3.0",
+  "summary": "HTR / OCR models evaluation agnostic Python package.",
+  "author": "Lucas Terriel, Alix Chagué",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cthulhu_eval-0.3.0.tar.gz",
+  "download_time": "2026-03-25T09:37:33.437884",
+  "package_url": "https://pypi.org/project/cthulhu-eval/"
+}

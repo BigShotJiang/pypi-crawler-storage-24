@@ -1,11 +1,11 @@
 {
   "name": "etld",
-  "version": "3.2.0",
+  "version": "3.2.3",
   "summary": "ETL-D API",
   "author": "ETL-D",
   "license": null,
   "home_page": "https://api.etl-d.net",
-  "download_filename": "etld-3.2.0.tar.gz",
-  "download_time": "2026-03-24T18:44:57.471297",
+  "download_filename": "etld-3.2.3.tar.gz",
+  "download_time": "2026-03-25T09:37:19.605898",
   "package_url": "https://pypi.org/project/etld/"
 }

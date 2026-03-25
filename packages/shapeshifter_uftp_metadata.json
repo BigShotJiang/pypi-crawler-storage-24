@@ -1,0 +1,11 @@
+{
+  "name": "shapeshifter_uftp",
+  "version": "2.2.1",
+  "summary": "Implementation of the Shapeshifter (UFTP) protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shapeshifter_uftp-2.2.1.tar.gz",
+  "download_time": "2026-03-25T09:36:52.611331",
+  "package_url": "https://pypi.org/project/shapeshifter_uftp/"
+}

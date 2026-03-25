@@ -1,11 +1,11 @@
 {
   "name": "picsellia-cv-engine",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "picsellia_cv_engine-0.6.1-py3-none-any.whl",
-  "download_time": "2026-03-24T17:44:05.959932",
+  "download_filename": "picsellia_cv_engine-0.6.3-py3-none-any.whl",
+  "download_time": "2026-03-25T09:37:30.348905",
   "package_url": "https://pypi.org/project/picsellia-cv-engine/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "klayout-mcp",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Observer-first MCP server for KLayout layout inspection.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "klayout_mcp-0.2.1.tar.gz",
-  "download_time": "2026-03-07T13:26:35.298367",
+  "download_filename": "klayout_mcp-0.2.3.tar.gz",
+  "download_time": "2026-03-25T09:36:58.765761",
   "package_url": "https://pypi.org/project/klayout-mcp/"
 }

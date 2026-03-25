@@ -1,11 +1,11 @@
 {
   "name": "fluid-forge",
-  "version": "0.7.1",
+  "version": "0.7.4",
   "summary": "FLUID Build System: plan/apply/visualize data products across providers (GCP, Snowflake, Local) with policy & contract tests.",
   "author": "Agentics Transformation Pty Ltd",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fluid_forge-0.7.1.tar.gz",
-  "download_time": "2026-03-12T18:36:47.027163",
+  "download_filename": "fluid_forge-0.7.4.tar.gz",
+  "download_time": "2026-03-25T09:37:02.938929",
   "package_url": "https://pypi.org/project/fluid-forge/"
 }
