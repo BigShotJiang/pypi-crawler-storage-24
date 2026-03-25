@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-parent-task-filter",
+  "version": "19.0.1.0.0.2",
+  "summary": "Add a filter to show the parent tasks",
+  "author": "C2i Change 2 improve, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_parent_task_filter-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-25T12:03:34.195374",
+  "package_url": "https://pypi.org/project/odoo-addon-project-parent-task-filter/"
+}

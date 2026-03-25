@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-public-transport",
+  "version": "0.1.3",
+  "summary": "An MCP-compatible server for querying public transport data in Europe (UK, CH, BE, NO).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_public_transport-0.1.3.tar.gz",
+  "download_time": "2026-03-25T12:03:48.988713",
+  "package_url": "https://pypi.org/project/mcp-server-public-transport/"
+}

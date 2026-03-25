@@ -1,11 +1,11 @@
 {
   "name": "iqlabs-solana-sdk",
-  "version": "0.1.9",
+  "version": "0.1.13",
   "summary": "IQLabs Solana SDK for Python — on-chain data storage, database tables, and connections",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iqlabs_solana_sdk-0.1.9.tar.gz",
-  "download_time": "2026-03-13T10:58:42.195921",
+  "download_filename": "iqlabs_solana_sdk-0.1.13.tar.gz",
+  "download_time": "2026-03-25T12:03:46.442336",
   "package_url": "https://pypi.org/project/iqlabs-solana-sdk/"
 }

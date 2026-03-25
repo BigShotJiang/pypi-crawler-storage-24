@@ -1,0 +1,11 @@
+{
+  "name": "sumtree",
+  "version": "0.2.8",
+  "summary": "Fast and simple SumTree implementation in Rust with Python bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sumtree-0.2.8.tar.gz",
+  "download_time": "2026-03-25T12:04:11.754142",
+  "package_url": "https://pypi.org/project/sumtree/"
+}

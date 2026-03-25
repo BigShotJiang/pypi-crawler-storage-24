@@ -1,11 +1,11 @@
 {
   "name": "will0w-musicdl",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "CLI music downloader with playlist provider support and source fallbacks",
   "author": "musicdl contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "will0w_musicdl-0.1.0.tar.gz",
-  "download_time": "2026-03-25T11:20:39.431393",
+  "download_filename": "will0w_musicdl-0.2.0.tar.gz",
+  "download_time": "2026-03-25T12:03:24.269017",
   "package_url": "https://pypi.org/project/will0w-musicdl/"
 }

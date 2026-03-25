@@ -1,0 +1,11 @@
+{
+  "name": "codac4matlab",
+  "version": "2.0.0.dev26",
+  "summary": "Codac is a library providing tools for constraint programming over reals and trajectories.",
+  "author": "Simon Rohou, Benoit Desrochers, Fabrice Le Bars",
+  "license": "LGPLv3+",
+  "home_page": "http://codac.io",
+  "download_filename": "codac4matlab-2.0.0.dev26-cp310-cp310-macosx_10_16_x86_64.whl",
+  "download_time": "2026-03-25T12:04:07.969780",
+  "package_url": "https://pypi.org/project/codac4matlab/"
+}

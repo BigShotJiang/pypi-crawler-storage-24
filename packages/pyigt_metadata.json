@@ -1,0 +1,11 @@
+{
+  "name": "pyigt",
+  "version": "2.3.0",
+  "summary": "A Python library for handling inter-linear-glossed text.",
+  "author": "Johann-Mattis List and Robert Forkel",
+  "license": "GPL",
+  "home_page": "https://github.com/cldf/pyigt",
+  "download_filename": "pyigt-2.3.0.tar.gz",
+  "download_time": "2026-03-25T12:03:31.120664",
+  "package_url": "https://pypi.org/project/pyigt/"
+}

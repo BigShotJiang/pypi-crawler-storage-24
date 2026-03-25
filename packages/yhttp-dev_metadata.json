@@ -1,0 +1,11 @@
+{
+  "name": "yhttp-dev",
+  "version": "3.4.0",
+  "summary": "yhttp development utilities",
+  "author": "pylover",
+  "license": null,
+  "home_page": "https://github.com/yhttp/yhttp-dev",
+  "download_filename": "yhttp_dev-3.4.0.tar.gz",
+  "download_time": "2026-03-25T12:04:08.611975",
+  "package_url": "https://pypi.org/project/yhttp-dev/"
+}

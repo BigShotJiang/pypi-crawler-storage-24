@@ -1,0 +1,11 @@
+{
+  "name": "dapr-ext-langgraph-dev",
+  "version": "1.17.0.dev94",
+  "summary": "The developmental release for the Dapr Checkpointer extension for LangGraph",
+  "author": "Dapr Authors",
+  "license": "Apache",
+  "home_page": "https://dapr.io/",
+  "download_filename": "dapr_ext_langgraph_dev-1.17.0.dev94.tar.gz",
+  "download_time": "2026-03-25T12:04:00.636807",
+  "package_url": "https://pypi.org/project/dapr-ext-langgraph-dev/"
+}

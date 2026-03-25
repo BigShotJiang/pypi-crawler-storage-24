@@ -1,11 +1,11 @@
 {
   "name": "lookyloo-models",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "All the Pydantic models used across Lookyloo",
   "author": "Raphaël Vinot",
   "license": null,
   "home_page": null,
-  "download_filename": "lookyloo_models-0.1.4.tar.gz",
-  "download_time": "2026-03-24T11:40:22.417451",
+  "download_filename": "lookyloo_models-0.1.6.tar.gz",
+  "download_time": "2026-03-25T12:04:01.923357",
   "package_url": "https://pypi.org/project/lookyloo-models/"
 }

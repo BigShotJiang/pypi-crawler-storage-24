@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-package-manager",
+  "version": "1.3.1",
+  "summary": "A JupyterLab extension to list, remove and install python packages from pip.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyter_package_manager-1.3.1-py3-none-any.whl",
+  "download_time": "2026-03-25T12:03:44.601151",
+  "package_url": "https://pypi.org/project/jupyter-package-manager/"
+}

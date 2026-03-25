@@ -1,11 +1,11 @@
 {
   "name": "gisweb-tenants",
-  "version": "0.2.4",
-  "summary": "Gestione multi tenant",
+  "version": "0.2.7",
+  "summary": "Gestione multi tenant db e oidc",
   "author": "Roberto Starnini",
   "license": null,
   "home_page": null,
-  "download_filename": "gisweb_tenants-0.2.4.tar.gz",
-  "download_time": "2026-03-22T10:28:39.810114",
+  "download_filename": "gisweb_tenants-0.2.7.tar.gz",
+  "download_time": "2026-03-25T12:03:49.628709",
   "package_url": "https://pypi.org/project/gisweb-tenants/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "planit",
+  "version": "0.8.2",
+  "summary": "The PLANetary Impact Toolkit provides tools for accessing, manipulating, and analysing smoothed particle hydrodynamcis (SPH) impact simulation data, and creating planets for SPH impact simulations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "planit-0.8.2.tar.gz",
+  "download_time": "2026-03-25T12:03:39.408255",
+  "package_url": "https://pypi.org/project/planit/"
+}

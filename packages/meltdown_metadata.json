@@ -1,0 +1,11 @@
+{
+  "name": "meltdown",
+  "version": "0.0.7",
+  "summary": "A markdown parser",
+  "author": "flofriday",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meltdown-0.0.7.tar.gz",
+  "download_time": "2026-03-25T12:03:21.190800",
+  "package_url": "https://pypi.org/project/meltdown/"
+}

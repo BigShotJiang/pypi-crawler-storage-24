@@ -1,11 +1,11 @@
 {
   "name": "leashd",
-  "version": "0.8.0",
+  "version": "0.11.0",
   "summary": "Safety-first agentic coding framework with pluggable runtimes. Run Claude Code or Codex as a governed daemon — sandbox, YAML policies, human-in-the-loop approval",
   "author": "Vladyslav Mehera",
   "license": null,
   "home_page": null,
-  "download_filename": "leashd-0.8.0.tar.gz",
-  "download_time": "2026-03-16T23:55:26.874523",
+  "download_filename": "leashd-0.11.0.tar.gz",
+  "download_time": "2026-03-25T12:03:16.899696",
   "package_url": "https://pypi.org/project/leashd/"
 }

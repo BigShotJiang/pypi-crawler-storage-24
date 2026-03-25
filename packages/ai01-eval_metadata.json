@@ -1,11 +1,11 @@
 {
   "name": "ai01-eval",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Benchmark your AI agent / RAG pipeline on the AI01 leaderboard.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai01_eval-0.1.0.tar.gz",
-  "download_time": "2026-03-09T11:49:57.192745",
+  "download_filename": "ai01_eval-0.2.0.tar.gz",
+  "download_time": "2026-03-25T12:03:24.911640",
   "package_url": "https://pypi.org/project/ai01-eval/"
 }
