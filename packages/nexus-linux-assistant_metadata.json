@@ -1,0 +1,11 @@
+{
+  "name": "nexus-linux-assistant",
+  "version": "0.1.0",
+  "summary": "An intelligent, terminal-based AI Linux assistant.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_linux_assistant-0.1.0.tar.gz",
+  "download_time": "2026-03-26T16:18:50.127172",
+  "package_url": "https://pypi.org/project/nexus-linux-assistant/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sapiens-sdk",
+  "version": "1.0.3",
+  "summary": null,
+  "author": "SAPIENS TECHNOLOGY",
+  "license": "Proprietary Software",
+  "home_page": "https://github.com/sapiens-technology/SapiensSDK",
+  "download_filename": "sapiens_sdk-1.0.3.tar.gz",
+  "download_time": "2026-03-26T16:18:44.456105",
+  "package_url": "https://pypi.org/project/sapiens-sdk/"
+}

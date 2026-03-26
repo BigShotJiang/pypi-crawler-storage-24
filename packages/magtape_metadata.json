@@ -1,0 +1,11 @@
+{
+  "name": "magtape",
+  "version": "0.3.0",
+  "summary": "Kubernetes admission controller for policy enforcement",
+  "author": "T-Mobile OSS",
+  "license": null,
+  "home_page": "https://github.com/tmobile/magtape",
+  "download_filename": "magtape-0.3.0.tar.gz",
+  "download_time": "2026-03-26T16:18:47.832244",
+  "package_url": "https://pypi.org/project/magtape/"
+}

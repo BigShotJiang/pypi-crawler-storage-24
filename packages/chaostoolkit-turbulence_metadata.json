@@ -1,0 +1,11 @@
+{
+  "name": "chaostoolkit-turbulence",
+  "version": "0.2.1",
+  "summary": "Chaos Toolkit extension for BOSH Turbulence",
+  "author": "T-Mobile OSS",
+  "license": null,
+  "home_page": "https://github.com/tmobile/chaostoolkit-turbulence",
+  "download_filename": "chaostoolkit_turbulence-0.2.1.tar.gz",
+  "download_time": "2026-03-26T16:18:49.554069",
+  "package_url": "https://pypi.org/project/chaostoolkit-turbulence/"
+}

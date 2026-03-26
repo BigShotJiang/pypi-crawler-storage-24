@@ -1,0 +1,11 @@
+{
+  "name": "help-tokens",
+  "version": "4.0.0",
+  "summary": "Django app for linking to help pages with short tokens",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/help-tokens",
+  "download_filename": "help_tokens-4.0.0.tar.gz",
+  "download_time": "2026-03-26T16:18:58.831420",
+  "package_url": "https://pypi.org/project/help-tokens/"
+}

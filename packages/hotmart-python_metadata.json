@@ -1,0 +1,11 @@
+{
+  "name": "hotmart-python",
+  "version": "1.0.0",
+  "summary": "Python SDK for the Hotmart API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hotmart_python-1.0.0.tar.gz",
+  "download_time": "2026-03-26T16:19:27.212269",
+  "package_url": "https://pypi.org/project/hotmart-python/"
+}

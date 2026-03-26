@@ -1,0 +1,11 @@
+{
+  "name": "agenthelm-sdk",
+  "version": "0.3.0",
+  "summary": "Python SDK for AgentHelm — AI Agent Control Plane",
+  "author": "AgentHelm Team",
+  "license": null,
+  "home_page": "https://agenthelm.vercel.app",
+  "download_filename": "agenthelm_sdk-0.3.0.tar.gz",
+  "download_time": "2026-03-26T16:18:53.450028",
+  "package_url": "https://pypi.org/project/agenthelm-sdk/"
+}

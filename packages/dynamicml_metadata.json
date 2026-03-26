@@ -1,0 +1,11 @@
+{
+  "name": "dynamicml",
+  "version": "1.1.3",
+  "summary": "A lightweight binary image classification system built with scikit‑learn, focusing on k‑Nearest Neighbors (kNN) and classical ML models. It features dynamic, model‑aware image preprocessing (HOG, scaling, PCA) that adapts automatically to image characteristics, enabling efficient training and reliable inference for custom datasets.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dynamicml-1.1.3.tar.gz",
+  "download_time": "2026-03-26T16:19:00.428252",
+  "package_url": "https://pypi.org/project/dynamicml/"
+}

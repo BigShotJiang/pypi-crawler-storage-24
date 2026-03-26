@@ -1,11 +1,11 @@
 {
   "name": "prajnyavan",
-  "version": "0.1.8",
+  "version": "0.2.5",
   "summary": "Persistent, emotionally-weighted memory for any LLM",
   "author": "Prajnyavan Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prajnyavan-0.1.8.tar.gz",
-  "download_time": "2026-03-16T19:56:23.380090",
+  "download_filename": "prajnyavan-0.2.5.tar.gz",
+  "download_time": "2026-03-26T16:19:21.484338",
   "package_url": "https://pypi.org/project/prajnyavan/"
 }
