@@ -1,0 +1,11 @@
+{
+  "name": "theaios-guardrails",
+  "version": "0.1.0",
+  "summary": "Declarative YAML-based policy engine for AI agent guardrails",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "theaios_guardrails-0.1.0.tar.gz",
+  "download_time": "2026-03-26T20:59:16.943230",
+  "package_url": "https://pypi.org/project/theaios-guardrails/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dworshak",
+  "version": "1.2.26",
+  "summary": "Configuration and credential waterfall with user-in-the-loop prompting and CLI access.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dworshak-1.2.26.tar.gz",
+  "download_time": "2026-03-26T20:59:04.518779",
+  "package_url": "https://pypi.org/project/dworshak/"
+}

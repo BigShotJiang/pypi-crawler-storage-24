@@ -1,0 +1,11 @@
+{
+  "name": "aiapy",
+  "version": "0.12.0",
+  "summary": "Python library for AIA data analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiapy-0.12.0.tar.gz",
+  "download_time": "2026-03-26T20:58:58.804114",
+  "package_url": "https://pypi.org/project/aiapy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fluxrate",
+  "version": "0.4.0",
+  "summary": "Lightweight, thread-safe rate limiting for Python — token bucket, sliding window, fixed window, leaky bucket",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluxrate-0.4.0.tar.gz",
+  "download_time": "2026-03-26T20:59:11.825237",
+  "package_url": "https://pypi.org/project/fluxrate/"
+}

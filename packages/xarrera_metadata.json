@@ -1,0 +1,11 @@
+{
+  "name": "xarrera",
+  "version": "0.0.5",
+  "summary": "Schema validation for Xarray objects",
+  "author": "Peter A. I. Forsyth, Oriana Chegwidden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xarrera-0.0.5.tar.gz",
+  "download_time": "2026-03-26T20:59:30.446805",
+  "package_url": "https://pypi.org/project/xarrera/"
+}

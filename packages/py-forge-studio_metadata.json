@@ -1,11 +1,11 @@
 {
   "name": "py-forge-studio",
-  "version": "0.1.0a2",
+  "version": "0.1.0a3",
   "summary": "Python client for the Forge Studio API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_forge_studio-0.1.0a2.tar.gz",
-  "download_time": "2026-03-26T20:15:21.064765",
+  "download_filename": "py_forge_studio-0.1.0a3.tar.gz",
+  "download_time": "2026-03-26T20:59:05.090284",
   "package_url": "https://pypi.org/project/py-forge-studio/"
 }

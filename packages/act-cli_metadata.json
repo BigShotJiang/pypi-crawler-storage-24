@@ -1,0 +1,11 @@
+{
+  "name": "act-cli",
+  "version": "0.3.1",
+  "summary": "CLI host for ACT (Agent Component Tools) WebAssembly components",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://actcore.dev",
+  "download_filename": "act_cli-0.3.1.tar.gz",
+  "download_time": "2026-03-26T20:58:57.777853",
+  "package_url": "https://pypi.org/project/act-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "glacis-autoredteam",
+  "version": "0.1.2",
+  "summary": "Closed-loop adversarial red-teaming and hardening for AI systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glacis_autoredteam-0.1.2.tar.gz",
+  "download_time": "2026-03-26T20:59:00.420826",
+  "package_url": "https://pypi.org/project/glacis-autoredteam/"
+}

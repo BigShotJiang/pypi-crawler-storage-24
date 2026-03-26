@@ -1,0 +1,11 @@
+{
+  "name": "django-google-places-autocomplete",
+  "version": "0.1.1",
+  "summary": "Django widget and field for Google Places Autocomplete (address autofill)",
+  "author": "FlavienLouis",
+  "license": null,
+  "home_page": "https://github.com/FlavienLouis/django-google-places-autocomplete",
+  "download_filename": "django_google_places_autocomplete-0.1.1.tar.gz",
+  "download_time": "2026-03-26T20:59:21.549836",
+  "package_url": "https://pypi.org/project/django-google-places-autocomplete/"
+}

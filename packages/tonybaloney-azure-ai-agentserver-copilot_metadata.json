@@ -1,0 +1,11 @@
+{
+  "name": "tonybaloney-azure-ai-agentserver-copilot",
+  "version": "1.0.0b2",
+  "summary": "GitHub Copilot SDK adapter for Azure AI Agent Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tonybaloney_azure_ai_agentserver_copilot-1.0.0b2.tar.gz",
+  "download_time": "2026-03-26T20:59:21.040211",
+  "package_url": "https://pypi.org/project/tonybaloney-azure-ai-agentserver-copilot/"
+}

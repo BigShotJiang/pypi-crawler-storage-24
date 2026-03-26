@@ -1,11 +1,11 @@
 {
   "name": "langchain-insumer",
-  "version": "0.10.4",
-  "summary": "LangChain tools for InsumerAPI — on-chain verification, wallet trust profiles, EAS attestations, Gitcoin Passport, Farcaster ID, staking positions, compliance templates, ACP/UCP commerce protocol integration, domain verification, merchant onboarding, USDC key purchase, and credit management across 32 blockchains. ECDSA-signed booleans, optional Merkle proofs, 26 tools. Used by DJD Agent Score (Coinbase x402).",
+  "version": "0.10.5",
+  "summary": "LangChain tools for InsumerAPI — on-chain verification, wallet trust profiles, EAS attestations, Gitcoin Passport, Farcaster ID, staking positions, compliance templates, ACP/UCP commerce protocol integration, domain verification, merchant onboarding, USDC key purchase, and credit management across 33 blockchains. ECDSA-signed booleans, optional Merkle proofs, 26 tools. Used by DJD Agent Score (Coinbase x402).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_insumer-0.10.4.tar.gz",
-  "download_time": "2026-03-24T12:40:45.385850",
+  "download_filename": "langchain_insumer-0.10.5.tar.gz",
+  "download_time": "2026-03-26T20:59:22.635989",
   "package_url": "https://pypi.org/project/langchain-insumer/"
 }

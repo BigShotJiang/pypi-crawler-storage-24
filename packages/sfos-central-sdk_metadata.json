@@ -1,11 +1,11 @@
 {
   "name": "sfos-central-sdk",
-  "version": "0.9.1",
+  "version": "0.9.8",
   "summary": "CLI and Python API for Sophos Central (firewalls, licenses, alerts, firmware)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sfos_central_sdk-0.9.1.tar.gz",
-  "download_time": "2026-03-19T19:21:57.442890",
+  "download_filename": "sfos_central_sdk-0.9.8.tar.gz",
+  "download_time": "2026-03-26T20:59:10.225429",
   "package_url": "https://pypi.org/project/sfos-central-sdk/"
 }

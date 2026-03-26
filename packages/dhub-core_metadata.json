@@ -1,11 +1,11 @@
 {
   "name": "dhub-core",
-  "version": "0.2.7",
+  "version": "0.2.9",
   "summary": "Shared domain models and manifest parsing for Decision Hub",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dhub_core-0.2.7.tar.gz",
-  "download_time": "2026-03-23T20:06:57.601098",
+  "download_filename": "dhub_core-0.2.9.tar.gz",
+  "download_time": "2026-03-26T20:59:08.694432",
   "package_url": "https://pypi.org/project/dhub-core/"
 }

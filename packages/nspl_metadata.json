@@ -1,0 +1,11 @@
+{
+  "name": "nspl",
+  "version": "0.1.0",
+  "summary": "Non-Stochastic Protection Layer: Deterministic verification and guardrails for agentic AI",
+  "author": "Aaron Storey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nspl-0.1.0.tar.gz",
+  "download_time": "2026-03-26T20:58:56.750933",
+  "package_url": "https://pypi.org/project/nspl/"
+}
