@@ -1,11 +1,11 @@
 {
   "name": "tentacletk",
-  "version": "0.10.21",
+  "version": "0.10.38",
   "summary": "A multi-application marking menu and UI framework for Maya, 3ds Max, and Blender.",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "tentacletk-0.10.21-py3-none-any.whl",
-  "download_time": "2026-03-10T19:10:20.752782",
+  "download_filename": "tentacletk-0.10.38-py3-none-any.whl",
+  "download_time": "2026-03-26T19:40:56.216050",
   "package_url": "https://pypi.org/project/tentacletk/"
 }

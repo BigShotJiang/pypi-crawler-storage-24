@@ -1,11 +1,11 @@
 {
   "name": "linkup-cli",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Official CLI for Linkup - AI-powered web search",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linkup_cli-0.5.0.tar.gz",
-  "download_time": "2026-03-19T20:35:29.791603",
+  "download_filename": "linkup_cli-0.5.2.tar.gz",
+  "download_time": "2026-03-26T19:41:19.708880",
   "package_url": "https://pypi.org/project/linkup-cli/"
 }

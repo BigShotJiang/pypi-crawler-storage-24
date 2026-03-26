@@ -1,0 +1,11 @@
+{
+  "name": "mhcflurry",
+  "version": "2.2.0",
+  "summary": "MHC Binding Predictor",
+  "author": "Tim O'Donnell and Alex Rubinsteyn",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/openvax/mhcflurry",
+  "download_filename": "mhcflurry-2.2.0.tar.gz",
+  "download_time": "2026-03-26T19:41:17.054186",
+  "package_url": "https://pypi.org/project/mhcflurry/"
+}

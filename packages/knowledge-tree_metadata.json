@@ -1,11 +1,11 @@
 {
   "name": "knowledge-tree",
-  "version": "0.2.8",
+  "version": "0.3.1",
   "summary": "A crowdsourced knowledge management system for AI agent context",
   "author": "Kulvinder Bisla",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "knowledge_tree-0.2.8.tar.gz",
-  "download_time": "2026-03-19T08:30:22.128728",
+  "download_filename": "knowledge_tree-0.3.1.tar.gz",
+  "download_time": "2026-03-26T19:41:07.933097",
   "package_url": "https://pypi.org/project/knowledge-tree/"
 }

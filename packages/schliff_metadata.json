@@ -1,11 +1,11 @@
 {
   "name": "schliff",
-  "version": "6.2.0",
-  "summary": "Deterministic skill linter and scoring engine for Claude Code. 7-dimension scoring, anti-gaming detection, autoresearch-style autonomous improvement.",
+  "version": "7.0.0",
+  "summary": "Deterministic quality scorer for AI agent instruction files. Multi-format (SKILL.md, CLAUDE.md, .cursorrules, AGENTS.md), 8-dimension scoring with security, anti-gaming detection, zero dependencies.",
   "author": "Franz Paul",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "schliff-6.2.0.tar.gz",
-  "download_time": "2026-03-25T15:51:07.194996",
+  "download_filename": "schliff-7.0.0.tar.gz",
+  "download_time": "2026-03-26T19:40:47.691627",
   "package_url": "https://pypi.org/project/schliff/"
 }

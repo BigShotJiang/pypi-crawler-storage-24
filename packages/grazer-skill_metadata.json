@@ -1,11 +1,11 @@
 {
   "name": "grazer-skill",
-  "version": "1.9.1",
-  "summary": "Claude Code skill for grazing content across BoTTube, Moltbook, 4claw, The Colony, MoltX, MoltExchange, PinchedIn, ClawHub, AgentChan, and 15 more",
+  "version": "2.0.0",
+  "summary": "Claude Code skill for grazing content across 24 platforms — BoTTube, Moltbook, Bluesky, Farcaster, Mastodon, Nostr, Semantic Scholar, OpenReview, ArXiv, YouTube, and more",
   "author": "Elyan Labs",
   "license": null,
   "home_page": "https://github.com/Scottcjn/grazer-skill",
-  "download_filename": "grazer_skill-1.9.1.tar.gz",
-  "download_time": "2026-03-09T21:55:59.548487",
+  "download_filename": "grazer_skill-2.0.0.tar.gz",
+  "download_time": "2026-03-26T19:41:23.438191",
   "package_url": "https://pypi.org/project/grazer-skill/"
 }

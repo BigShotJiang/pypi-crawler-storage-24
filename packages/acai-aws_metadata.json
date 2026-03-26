@@ -1,11 +1,11 @@
 {
   "name": "acai-aws",
-  "version": "2.3.4",
+  "version": "2.3.7",
   "summary": "DRY, configurable, declarative framework for building AWS Lambda APIs and event processors",
   "author": "Paul Cruse III",
   "license": "Apache 2.0",
   "home_page": "https://github.com/syngenta/acai-python",
-  "download_filename": "acai_aws-2.3.4.tar.gz",
-  "download_time": "2026-03-17T21:00:29.141771",
+  "download_filename": "acai_aws-2.3.7.tar.gz",
+  "download_time": "2026-03-26T19:40:54.092420",
   "package_url": "https://pypi.org/project/acai-aws/"
 }

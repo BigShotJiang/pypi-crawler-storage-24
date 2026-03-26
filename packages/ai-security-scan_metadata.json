@@ -1,11 +1,11 @@
 {
   "name": "ai-security-scan",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Static security scanner for AI-generated web app code. Finds hardcoded secrets, injection risks, CORS misconfigs and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_security_scan-0.1.1.tar.gz",
-  "download_time": "2026-03-23T20:42:43.453130",
+  "download_filename": "ai_security_scan-0.1.2.tar.gz",
+  "download_time": "2026-03-26T19:40:51.416689",
   "package_url": "https://pypi.org/project/ai-security-scan/"
 }

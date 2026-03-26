@@ -1,11 +1,11 @@
 {
   "name": "manus-to-supabase",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "One-command migration for Manus AI projects: add Supabase auth and switch Drizzle from MySQL to PostgreSQL.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "manus_to_supabase-0.1.1.tar.gz",
-  "download_time": "2026-03-23T20:42:41.853707",
+  "download_filename": "manus_to_supabase-0.1.2.tar.gz",
+  "download_time": "2026-03-26T19:40:50.366190",
   "package_url": "https://pypi.org/project/manus-to-supabase/"
 }

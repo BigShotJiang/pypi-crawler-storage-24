@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ccc20200701",
+  "version": "2.34.0",
+  "summary": "Alibaba Cloud cloud call center (20200701) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ccc20200701-2.34.0.tar.gz",
+  "download_time": "2026-03-26T19:41:19.179487",
+  "package_url": "https://pypi.org/project/alibabacloud-ccc20200701/"
+}

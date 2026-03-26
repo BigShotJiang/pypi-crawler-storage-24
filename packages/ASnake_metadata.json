@@ -1,0 +1,11 @@
+{
+  "name": "ASnake",
+  "version": "0.13.44",
+  "summary": "Python optimizing compiler for the ASnake programming language.",
+  "author": "Ahri Fox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "asnake-0.13.44.tar.gz",
+  "download_time": "2026-03-26T19:41:23.970681",
+  "package_url": "https://pypi.org/project/ASnake/"
+}

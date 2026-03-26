@@ -1,11 +1,11 @@
 {
   "name": "async-lambda-unstable",
-  "version": "0.6.10",
+  "version": "0.6.11",
   "summary": "A framework for creating AWS Lambda Async Workflows. - Unstable Branch",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "async_lambda_unstable-0.6.10.tar.gz",
-  "download_time": "2026-03-24T02:52:49.651350",
+  "download_filename": "async_lambda_unstable-0.6.11.tar.gz",
+  "download_time": "2026-03-26T19:40:58.360402",
   "package_url": "https://pypi.org/project/async-lambda-unstable/"
 }

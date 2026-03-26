@@ -1,0 +1,11 @@
+{
+  "name": "signalvault",
+  "version": "0.3.0",
+  "summary": "SignalVault Python SDK — AI audit logs and guardrails for OpenAI and Anthropic applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "signalvault-0.3.0.tar.gz",
+  "download_time": "2026-03-26T19:41:06.354846",
+  "package_url": "https://pypi.org/project/signalvault/"
+}

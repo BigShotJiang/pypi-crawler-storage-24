@@ -1,11 +1,11 @@
 {
   "name": "yhttp",
-  "version": "7.7.0",
+  "version": "7.10.0",
   "summary": "A very micro http framework.",
   "author": "Vahid Mardani",
   "license": "MIT",
   "home_page": "http://github.com/yhttp/yhttp",
-  "download_filename": "yhttp-7.7.0.tar.gz",
-  "download_time": "2026-03-22T15:27:02.494095",
+  "download_filename": "yhttp-7.10.0.tar.gz",
+  "download_time": "2026-03-26T19:40:36.056462",
   "package_url": "https://pypi.org/project/yhttp/"
 }

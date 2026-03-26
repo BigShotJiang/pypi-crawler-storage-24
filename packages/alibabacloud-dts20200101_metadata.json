@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dts20200101",
+  "version": "5.11.2",
+  "summary": "Alibaba Cloud Data Transmission (20200101) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_dts20200101-5.11.2.tar.gz",
+  "download_time": "2026-03-26T19:41:03.150464",
+  "package_url": "https://pypi.org/project/alibabacloud-dts20200101/"
+}
