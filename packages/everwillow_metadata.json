@@ -1,0 +1,11 @@
+{
+  "name": "everwillow",
+  "version": "0.0.1",
+  "summary": "Statistical inference steps for high-energy physics analyses with JAX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "everwillow-0.0.1.tar.gz",
+  "download_time": "2026-03-26T10:20:01.519206",
+  "package_url": "https://pypi.org/project/everwillow/"
+}

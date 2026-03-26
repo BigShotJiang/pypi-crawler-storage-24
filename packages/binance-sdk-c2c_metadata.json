@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-c2c",
+  "version": "3.6.0",
+  "summary": "Official Binance C2C SDK - A lightweight library that provides a convenient interface to Binance's C2C REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_c2c-3.6.0.tar.gz",
+  "download_time": "2026-03-26T10:19:53.267421",
+  "package_url": "https://pypi.org/project/binance-sdk-c2c/"
+}

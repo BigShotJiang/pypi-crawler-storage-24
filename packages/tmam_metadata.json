@@ -1,0 +1,11 @@
+{
+  "name": "tmam",
+  "version": "1.6.1",
+  "summary": "OpenTelemetry-native Auto instrumentation library for monitoring LLM Applications and GPUs, facilitating the integration of observability into your GenAI-driven projects",
+  "author": "Tmam",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tmam-1.6.1.tar.gz",
+  "download_time": "2026-03-26T10:19:58.431288",
+  "package_url": "https://pypi.org/project/tmam/"
+}

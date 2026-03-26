@@ -1,0 +1,11 @@
+{
+  "name": "kubemarine",
+  "version": "0.44.3",
+  "summary": "Management tool for Kubernetes cluster deployment and maintenance",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Netcracker/KubeMarine",
+  "download_filename": "kubemarine-0.44.3.tar.gz",
+  "download_time": "2026-03-26T10:20:15.913934",
+  "package_url": "https://pypi.org/project/kubemarine/"
+}

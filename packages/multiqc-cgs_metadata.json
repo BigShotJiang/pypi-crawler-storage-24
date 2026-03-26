@@ -1,0 +1,11 @@
+{
+  "name": "multiqc-cgs",
+  "version": "2.0.0",
+  "summary": "MultiQC plugin to add extra columns to the General Statistics table",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "multiqc_cgs-2.0.0.tar.gz",
+  "download_time": "2026-03-26T10:20:15.385038",
+  "package_url": "https://pypi.org/project/multiqc-cgs/"
+}

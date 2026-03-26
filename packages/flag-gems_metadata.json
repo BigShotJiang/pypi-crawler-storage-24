@@ -1,0 +1,11 @@
+{
+  "name": "flag-gems",
+  "version": "5.0.0",
+  "summary": "FlagGems is a function library written in Triton.",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "flag_gems-5.0.0-py3-none-any.whl",
+  "download_time": "2026-03-26T10:19:56.382108",
+  "package_url": "https://pypi.org/project/flag-gems/"
+}

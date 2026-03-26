@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-copy-trading",
+  "version": "2.6.0",
+  "summary": "Official Binance CopyTrading Connector - A lightweight library that provides a convenient interface to Binance's CopyTrading REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_copy_trading-2.6.0.tar.gz",
+  "download_time": "2026-03-26T10:19:50.671241",
+  "package_url": "https://pypi.org/project/binance-sdk-copy-trading/"
+}

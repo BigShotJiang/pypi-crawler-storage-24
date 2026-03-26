@@ -1,11 +1,11 @@
 {
   "name": "binance-sdk-rebate",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "summary": "Official Binance Rebate SDK - A lightweight library that provides a convenient interface to Binance's Rebate REST API",
   "author": "Binance",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "binance_sdk_rebate-2.5.0.tar.gz",
-  "download_time": "2026-03-16T11:05:40.980125",
+  "download_filename": "binance_sdk_rebate-2.6.0.tar.gz",
+  "download_time": "2026-03-26T10:19:31.614555",
   "package_url": "https://pypi.org/project/binance-sdk-rebate/"
 }

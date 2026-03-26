@@ -1,0 +1,11 @@
+{
+  "name": "xgo-blockly-cm4",
+  "version": "1.0.0.3",
+  "summary": "XGO Blockly CM4 - 图形化和 AI 编程 Web 服务器 (CM4精简版)",
+  "author": "陆吾科技",
+  "license": "MIT",
+  "home_page": "https://github.com/xgo-robotics/xgo-blockly",
+  "download_filename": "xgo_blockly_cm4-1.0.0.3.tar.gz",
+  "download_time": "2026-03-26T10:20:10.764919",
+  "package_url": "https://pypi.org/project/xgo-blockly-cm4/"
+}

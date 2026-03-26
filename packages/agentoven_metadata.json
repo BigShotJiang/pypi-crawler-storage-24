@@ -1,0 +1,11 @@
+{
+  "name": "agentoven",
+  "version": "0.5.2",
+  "summary": "AgentOven Python SDK — enterprise agent orchestration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentoven-0.5.2.tar.gz",
+  "download_time": "2026-03-26T10:20:00.492505",
+  "package_url": "https://pypi.org/project/agentoven/"
+}

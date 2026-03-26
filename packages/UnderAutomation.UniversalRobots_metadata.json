@@ -1,0 +1,11 @@
+{
+  "name": "UnderAutomation.UniversalRobots",
+  "version": "9.3.0.0",
+  "summary": "Quickly create applications that communicate with your Universal Robots cobot",
+  "author": "UnderAutomation",
+  "license": null,
+  "home_page": "https://underautomation.com/universal-robots",
+  "download_filename": "underautomation_universalrobots-9.3.0.0.tar.gz",
+  "download_time": "2026-03-26T10:19:57.920870",
+  "package_url": "https://pypi.org/project/UnderAutomation.UniversalRobots/"
+}

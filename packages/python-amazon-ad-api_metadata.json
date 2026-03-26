@@ -1,11 +1,11 @@
 {
   "name": "python-amazon-ad-api",
-  "version": "0.7.10",
+  "version": "0.8.0",
   "summary": "Python wrapper for the Amazon Advertising API",
   "author": "Daniel Alvaro",
   "license": "MIT",
   "home_page": "https://github.com/denisneuf/python-amazon-ad-api",
-  "download_filename": "python_amazon_ad_api-0.7.10.tar.gz",
-  "download_time": "2026-03-15T15:28:23.527222",
+  "download_filename": "python_amazon_ad_api-0.8.0.tar.gz",
+  "download_time": "2026-03-26T10:19:49.648505",
   "package_url": "https://pypi.org/project/python-amazon-ad-api/"
 }
