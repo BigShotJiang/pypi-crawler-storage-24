@@ -1,0 +1,11 @@
+{
+  "name": "ytml-toolkit",
+  "version": "0.2.10",
+  "summary": "Turn .ytml scripts into production-ready videos — code-driven video automation.",
+  "author": "Fahad Arsal",
+  "license": null,
+  "home_page": "https://ytml.mergeconflict.tech/",
+  "download_filename": "ytml_toolkit-0.2.10.tar.gz",
+  "download_time": "2026-03-26T09:21:03.990374",
+  "package_url": "https://pypi.org/project/ytml-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wlbs-scan",
+  "version": "0.6.3",
+  "summary": "WLBS Behavior Graph Scanner - static + dynamic curvature analysis for Python/JS codebases",
+  "author": "Zhongchang Huang (黄中常)",
+  "license": null,
+  "home_page": "https://github.com/val1813/wlbs-cli",
+  "download_filename": "wlbs_scan-0.6.3-py3-none-any.whl",
+  "download_time": "2026-03-26T09:20:33.015544",
+  "package_url": "https://pypi.org/project/wlbs-scan/"
+}

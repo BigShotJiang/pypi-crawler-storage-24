@@ -1,0 +1,11 @@
+{
+  "name": "param",
+  "version": "2.3.2",
+  "summary": "Declarative parameters for robust Python classes and a rich API for reactive programming",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "param-2.3.2.tar.gz",
+  "download_time": "2026-03-26T09:20:29.359221",
+  "package_url": "https://pypi.org/project/param/"
+}

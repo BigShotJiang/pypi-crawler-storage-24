@@ -1,0 +1,11 @@
+{
+  "name": "sfrbox-api",
+  "version": "0.1.1",
+  "summary": "SFR Box API",
+  "author": "epenet",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sfrbox_api-0.1.1.tar.gz",
+  "download_time": "2026-03-26T09:20:57.707261",
+  "package_url": "https://pypi.org/project/sfrbox-api/"
+}

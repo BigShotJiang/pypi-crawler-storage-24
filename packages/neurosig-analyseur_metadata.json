@@ -1,0 +1,11 @@
+{
+  "name": "neurosig-analyseur",
+  "version": "0.0.3",
+  "summary": "Module (Library) for analyzing models (CBGTC, rBCBG) outputs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neurosig_analyseur-0.0.3.tar.gz",
+  "download_time": "2026-03-26T09:20:40.834223",
+  "package_url": "https://pypi.org/project/neurosig-analyseur/"
+}

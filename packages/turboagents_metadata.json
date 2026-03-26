@@ -1,0 +1,11 @@
+{
+  "name": "turboagents",
+  "version": "0.1.0a0",
+  "summary": "Independent TurboQuant-style compression infrastructure for KV cache and RAG.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "turboagents-0.1.0a0.tar.gz",
+  "download_time": "2026-03-26T09:20:33.601498",
+  "package_url": "https://pypi.org/project/turboagents/"
+}

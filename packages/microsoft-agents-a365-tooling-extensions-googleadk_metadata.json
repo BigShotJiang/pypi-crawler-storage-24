@@ -1,11 +1,11 @@
 {
   "name": "microsoft-agents-a365-tooling-extensions-googleadk",
-  "version": "0.2.1.dev44",
+  "version": "0.2.1.dev45",
   "summary": "Google ADK integration for Agent 365 Tooling SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microsoft_agents_a365_tooling_extensions_googleadk-0.2.1.dev44.tar.gz",
-  "download_time": "2026-03-21T09:33:09.075628",
+  "download_filename": "microsoft_agents_a365_tooling_extensions_googleadk-0.2.1.dev45.tar.gz",
+  "download_time": "2026-03-26T09:20:49.564984",
   "package_url": "https://pypi.org/project/microsoft-agents-a365-tooling-extensions-googleadk/"
 }

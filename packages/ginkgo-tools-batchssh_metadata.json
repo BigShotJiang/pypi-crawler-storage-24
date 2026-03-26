@@ -1,11 +1,11 @@
 {
   "name": "ginkgo-tools-batchssh",
-  "version": "0.1.5",
+  "version": "0.1.6.2",
   "summary": "批量SSH操作和文件传输工具包，提升了解码兼容能力",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ginkgo_tools_batchssh-0.1.5.tar.gz",
-  "download_time": "2026-03-09T09:03:21.941877",
+  "download_filename": "ginkgo_tools_batchssh-0.1.6.2.tar.gz",
+  "download_time": "2026-03-26T09:20:48.037653",
   "package_url": "https://pypi.org/project/ginkgo-tools-batchssh/"
 }

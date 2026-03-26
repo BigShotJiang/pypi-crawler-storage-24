@@ -1,11 +1,11 @@
 {
   "name": "act-kernel",
-  "version": "1.1.1",
-  "summary": "ACT Kernel – Deterministic Execution Kernel for AI Agents",
+  "version": "1.2.0",
+  "summary": "Deterministic execution layer for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "act_kernel-1.1.1.tar.gz",
-  "download_time": "2026-03-26T04:37:09.118010",
+  "download_filename": "act_kernel-1.2.0.tar.gz",
+  "download_time": "2026-03-26T09:20:28.337351",
   "package_url": "https://pypi.org/project/act-kernel/"
 }

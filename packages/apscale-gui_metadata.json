@@ -1,0 +1,11 @@
+{
+  "name": "apscale-gui",
+  "version": "3.2.3",
+  "summary": "Advanced Pipeline for Simple yet Comprehensive AnaLysEs of DNA metabarcoding data - Graphical User Interface",
+  "author": "Till-Hendrik Macher",
+  "license": "MIT",
+  "home_page": "https://github.com/TillMacher/apscale_gui",
+  "download_filename": "apscale_gui-3.2.3.tar.gz",
+  "download_time": "2026-03-26T09:20:57.196087",
+  "package_url": "https://pypi.org/project/apscale-gui/"
+}

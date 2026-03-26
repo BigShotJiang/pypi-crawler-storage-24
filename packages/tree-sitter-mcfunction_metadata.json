@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-mcfunction",
+  "version": "0.3.9",
+  "summary": "Tree-sitter for the latest version of Minecraft mcfunction syntax",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "tree_sitter_mcfunction-0.3.9.tar.gz",
+  "download_time": "2026-03-26T09:20:47.007116",
+  "package_url": "https://pypi.org/project/tree-sitter-mcfunction/"
+}

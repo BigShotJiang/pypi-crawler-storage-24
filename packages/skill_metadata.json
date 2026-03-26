@@ -1,0 +1,11 @@
+{
+  "name": "skill",
+  "version": "0.1.1",
+  "summary": "AI Agent Skill Search and Management",
+  "author": "Thor Whalen",
+  "license": "mit",
+  "home_page": null,
+  "download_filename": "skill-0.1.1.tar.gz",
+  "download_time": "2026-03-26T09:20:44.957014",
+  "package_url": "https://pypi.org/project/skill/"
+}

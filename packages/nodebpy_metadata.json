@@ -1,11 +1,11 @@
 {
   "name": "nodebpy",
-  "version": "0.7.1",
+  "version": "0.9.0",
   "summary": "Build nodes trees in Blender more elegantly with code",
   "author": "Brady Johnston",
   "license": null,
   "home_page": null,
-  "download_filename": "nodebpy-0.7.1.tar.gz",
-  "download_time": "2026-03-14T01:28:52.176340",
+  "download_filename": "nodebpy-0.9.0.tar.gz",
+  "download_time": "2026-03-26T09:20:56.685140",
   "package_url": "https://pypi.org/project/nodebpy/"
 }

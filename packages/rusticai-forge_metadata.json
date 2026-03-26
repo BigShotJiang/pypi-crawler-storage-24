@@ -1,11 +1,11 @@
 {
   "name": "rusticai-forge",
-  "version": "0.2.13",
+  "version": "0.2.18",
   "summary": "Python agent wrapper and execution engine for Forge",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rusticai_forge-0.2.13.tar.gz",
-  "download_time": "2026-03-19T22:59:28.033512",
+  "download_filename": "rusticai_forge-0.2.18.tar.gz",
+  "download_time": "2026-03-26T09:21:00.854568",
   "package_url": "https://pypi.org/project/rusticai-forge/"
 }

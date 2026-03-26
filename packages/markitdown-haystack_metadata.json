@@ -1,0 +1,11 @@
+{
+  "name": "markitdown-haystack",
+  "version": "1.0.0",
+  "summary": "Haystack integration for MarkItDown — Microsoft's multi-format to Markdown converter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markitdown_haystack-1.0.0.tar.gz",
+  "download_time": "2026-03-26T09:21:10.740794",
+  "package_url": "https://pypi.org/project/markitdown-haystack/"
+}
