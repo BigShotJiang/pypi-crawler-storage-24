@@ -1,0 +1,11 @@
+{
+  "name": "poseidon-py",
+  "version": "0.2.0",
+  "summary": "Python implementation of Poseidon hash",
+  "author": "drknzz",
+  "license": null,
+  "home_page": "https://github.com/drknzz/poseidon-py.git",
+  "download_filename": "poseidon_py-0.2.0.tar.gz",
+  "download_time": "2026-03-26T18:31:08.382337",
+  "package_url": "https://pypi.org/project/poseidon-py/"
+}

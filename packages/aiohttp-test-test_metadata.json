@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-test-test",
+  "version": "4.0.0a2.dev0",
+  "summary": "Async http client/server framework (asyncio)",
+  "author": null,
+  "license": "Apache-2.0 AND MIT",
+  "home_page": null,
+  "download_filename": "aiohttp_test_test-4.0.0a2.dev0.tar.gz",
+  "download_time": "2026-03-26T18:30:30.284108",
+  "package_url": "https://pypi.org/project/aiohttp-test-test/"
+}

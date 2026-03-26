@@ -1,0 +1,11 @@
+{
+  "name": "dmdm",
+  "version": "3.2.0",
+  "summary": "Django MarkDown Mails",
+  "author": "Guilhem Saurel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dmdm-3.2.0.tar.gz",
+  "download_time": "2026-03-26T18:30:43.912470",
+  "package_url": "https://pypi.org/project/dmdm/"
+}

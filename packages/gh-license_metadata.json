@@ -1,0 +1,11 @@
+{
+  "name": "gh-license",
+  "version": "0.4.0",
+  "summary": "Scan github, bitbucket or other providers repositories for missing license files and add them",
+  "author": "Mte90",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Mte90/GH-License",
+  "download_filename": "gh_license-0.4.0.tar.gz",
+  "download_time": "2026-03-26T18:30:42.742612",
+  "package_url": "https://pypi.org/project/gh-license/"
+}

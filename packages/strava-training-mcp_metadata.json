@@ -1,11 +1,11 @@
 {
   "name": "strava-training-mcp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "MCP server for Strava — training load analysis, weekly plans, and activity insights",
   "author": "Arjan",
   "license": null,
   "home_page": null,
-  "download_filename": "strava_training_mcp-0.3.0-py3-none-any.whl",
-  "download_time": "2026-03-24T08:03:17.818749",
+  "download_filename": "strava_training_mcp-0.3.1-py3-none-any.whl",
+  "download_time": "2026-03-26T18:30:36.497781",
   "package_url": "https://pypi.org/project/strava-training-mcp/"
 }

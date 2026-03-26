@@ -1,0 +1,11 @@
+{
+  "name": "videoscan-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for comprehensive video analysis — transcription, AI-powered visual frame analysis, and metadata extraction",
+  "author": "Lee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videoscan_mcp-0.1.2.tar.gz",
+  "download_time": "2026-03-26T18:30:54.426612",
+  "package_url": "https://pypi.org/project/videoscan-mcp/"
+}

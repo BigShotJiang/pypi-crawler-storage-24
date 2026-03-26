@@ -1,11 +1,11 @@
 {
   "name": "sysdock",
-  "version": "1.1.0",
-  "summary": "SysDock — Linux / EC2 monitoring agent with live terminal dashboard and Docker metrics",
-  "author": null,
+  "version": "1.4.6",
+  "summary": "SysDock — Modern cross-platform monitoring agent (Linux, macOS, Windows) with live terminal dashboard, GPU metrics and Docker support",
+  "author": "Kavy Vachhani",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "sysdock-1.1.0.tar.gz",
-  "download_time": "2026-03-12T08:40:31.083683",
+  "home_page": "https://github.com/Kavyvachhani/SysDock",
+  "download_filename": "sysdock-1.4.6.tar.gz",
+  "download_time": "2026-03-26T18:30:35.926187",
   "package_url": "https://pypi.org/project/sysdock/"
 }

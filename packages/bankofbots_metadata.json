@@ -1,11 +1,11 @@
 {
   "name": "bankofbots",
-  "version": "0.32.0",
+  "version": "0.35.0",
   "summary": "Python SDK for Bank of Bots — economic infrastructure for autonomous agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bankofbots-0.32.0.tar.gz",
-  "download_time": "2026-03-26T04:37:34.207518",
+  "download_filename": "bankofbots-0.35.0.tar.gz",
+  "download_time": "2026-03-26T18:30:31.943611",
   "package_url": "https://pypi.org/project/bankofbots/"
 }

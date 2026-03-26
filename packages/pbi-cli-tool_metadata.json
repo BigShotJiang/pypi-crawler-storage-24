@@ -1,11 +1,11 @@
 {
   "name": "pbi-cli-tool",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "CLI for Power BI semantic models - wraps the Power BI MCP server for token-efficient AI agent usage",
   "author": "pbi-cli contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pbi_cli_tool-1.0.1.tar.gz",
-  "download_time": "2026-03-26T17:33:27.670169",
+  "download_filename": "pbi_cli_tool-1.0.4.tar.gz",
+  "download_time": "2026-03-26T18:30:25.823002",
   "package_url": "https://pypi.org/project/pbi-cli-tool/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ob-auth",
+  "version": "0.2.0",
+  "summary": "Lightweight, zero-dependency auth client for Outerbounds platform APIs.",
+  "author": "Outerbounds, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ob_auth-0.2.0.tar.gz",
+  "download_time": "2026-03-26T18:30:44.997288",
+  "package_url": "https://pypi.org/project/ob-auth/"
+}

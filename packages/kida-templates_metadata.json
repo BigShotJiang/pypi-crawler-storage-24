@@ -1,11 +1,11 @@
 {
   "name": "kida-templates",
-  "version": "0.2.6",
-  "summary": "Modern template engine for Python 3.14t — AST-native, free-threading ready. Works for static sites (Bengal), dynamic web (Chirp), streaming, and framework integration.",
+  "version": "0.3.0",
+  "summary": "Python template engine for HTML, terminal, and streaming — with framework integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kida_templates-0.2.6.tar.gz",
-  "download_time": "2026-03-09T21:56:37.279224",
+  "download_filename": "kida_templates-0.3.0.tar.gz",
+  "download_time": "2026-03-26T18:31:10.389039",
   "package_url": "https://pypi.org/project/kida-templates/"
 }

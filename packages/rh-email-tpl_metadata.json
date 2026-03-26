@@ -1,0 +1,11 @@
+{
+  "name": "rh-email-tpl",
+  "version": "0.5.0",
+  "summary": "Internal RegioHelden tool for building styled html emails",
+  "author": "RegioHelden <entwicklung@regiohelden.de>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rh_email_tpl-0.5.0.tar.gz",
+  "download_time": "2026-03-26T18:30:40.938649",
+  "package_url": "https://pypi.org/project/rh-email-tpl/"
+}

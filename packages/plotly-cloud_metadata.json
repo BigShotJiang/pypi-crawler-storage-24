@@ -1,0 +1,11 @@
+{
+  "name": "plotly-cloud",
+  "version": "0.2.1",
+  "summary": "Python extension for Plotly Cloud with CLI and Dash dev tools integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plotly_cloud-0.2.1.tar.gz",
+  "download_time": "2026-03-26T18:31:03.539127",
+  "package_url": "https://pypi.org/project/plotly-cloud/"
+}

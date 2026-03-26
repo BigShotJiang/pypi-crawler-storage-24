@@ -1,11 +1,11 @@
 {
   "name": "inscript",
-  "version": "0.3.0",
+  "version": "0.8.0",
   "summary": "Universal agent activity ledger. Records what AI agents do.",
   "author": "Andrew Park",
   "license": null,
   "home_page": null,
-  "download_filename": "inscript-0.3.0.tar.gz",
-  "download_time": "2026-03-17T22:56:30.474845",
+  "download_filename": "inscript-0.8.0.tar.gz",
+  "download_time": "2026-03-26T18:31:14.663097",
   "package_url": "https://pypi.org/project/inscript/"
 }
