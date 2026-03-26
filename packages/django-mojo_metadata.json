@@ -1,11 +1,11 @@
 {
   "name": "django-mojo",
-  "version": "1.0.73",
+  "version": "1.0.78",
   "summary": "A REST framework for Django with secure DB-backed settings, REST/WebSocket support, jobs, auth, and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_mojo-1.0.73.tar.gz",
-  "download_time": "2026-03-23T04:30:37.628627",
+  "download_filename": "django_mojo-1.0.78.tar.gz",
+  "download_time": "2026-03-26T21:37:02.760564",
   "package_url": "https://pypi.org/project/django-mojo/"
 }

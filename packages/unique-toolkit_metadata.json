@@ -1,11 +1,11 @@
 {
   "name": "unique-toolkit",
-  "version": "1.62.3",
+  "version": "1.64.4",
   "summary": null,
   "author": "Cedric Klinkert, Martin Fadler, Sadique Sheik, Fabian Schläpfer, Pascal Hauri, Ejiroghene Oki-Peter, Rami Azouz, Ricardo Visini, Sanzio Monti",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "unique_toolkit-1.62.3.tar.gz",
-  "download_time": "2026-03-24T12:40:29.045641",
+  "download_filename": "unique_toolkit-1.64.4.tar.gz",
+  "download_time": "2026-03-26T21:37:06.940555",
   "package_url": "https://pypi.org/project/unique-toolkit/"
 }

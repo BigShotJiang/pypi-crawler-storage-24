@@ -1,11 +1,11 @@
 {
   "name": "uv-release-monorepo",
-  "version": "0.6.1",
+  "version": "0.8.2",
   "summary": "Lazy monorepo wheel builder — only rebuilds what changed.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uv_release_monorepo-0.6.1-py3-none-any.whl",
-  "download_time": "2026-03-25T22:00:40.570525",
+  "download_filename": "uv_release_monorepo-0.8.2-py3-none-any.whl",
+  "download_time": "2026-03-26T21:37:27.709509",
   "package_url": "https://pypi.org/project/uv-release-monorepo/"
 }

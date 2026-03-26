@@ -1,11 +1,11 @@
 {
   "name": "hecvec",
-  "version": "6.1.1",
+  "version": "6.6.0",
   "summary": "List directories (safe root), filter .txt/.md files, read as text, chunk, embed, and push to Chroma.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hecvec-6.1.1.tar.gz",
-  "download_time": "2026-03-19T02:47:41.033913",
+  "download_filename": "hecvec-6.6.0.tar.gz",
+  "download_time": "2026-03-26T21:36:45.623044",
   "package_url": "https://pypi.org/project/hecvec/"
 }

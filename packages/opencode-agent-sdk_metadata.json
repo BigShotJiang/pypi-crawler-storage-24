@@ -1,11 +1,11 @@
 {
   "name": "opencode-agent-sdk",
-  "version": "0.4.10",
+  "version": "0.4.12",
   "summary": "Open-source Agent SDK backed by OpenCode ACP (drop-in replacement for claude_agent_sdk)",
   "author": "OpenCode",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opencode_agent_sdk-0.4.10.tar.gz",
-  "download_time": "2026-03-26T07:14:08.319012",
+  "download_filename": "opencode_agent_sdk-0.4.12.tar.gz",
+  "download_time": "2026-03-26T21:37:20.463299",
   "package_url": "https://pypi.org/project/opencode-agent-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "humanbound-cli",
-  "version": "0.7.0",
+  "version": "0.9.1",
   "summary": "Humanbound CLI - command line interface for AI agent security testing.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "humanbound_cli-0.7.0.tar.gz",
-  "download_time": "2026-03-22T11:50:19.239199",
+  "download_filename": "humanbound_cli-0.9.1.tar.gz",
+  "download_time": "2026-03-26T21:37:01.123476",
   "package_url": "https://pypi.org/project/humanbound-cli/"
 }

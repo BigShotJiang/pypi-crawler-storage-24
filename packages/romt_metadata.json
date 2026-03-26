@@ -1,0 +1,11 @@
+{
+  "name": "romt",
+  "version": "0.10.2",
+  "summary": "Romt (Rust Offline Mirror Tool) enables mirroring of Rust programming language tools and crates for use in an offline context.",
+  "author": "Michael Henry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "romt-0.10.2.tar.gz",
+  "download_time": "2026-03-26T21:36:56.910975",
+  "package_url": "https://pypi.org/project/romt/"
+}

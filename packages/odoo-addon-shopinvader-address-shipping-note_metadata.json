@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-address-shipping-note",
+  "version": "18.0.1.0.0.2",
+  "summary": "Adds a field shipping note on res.partner",
+  "author": "ACSONE SA/NV",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_shopinvader_address_shipping_note-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-26T21:36:55.838032",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-address-shipping-note/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "s2and",
+  "version": "0.47.0",
+  "summary": "S2AND",
+  "author": "Sergey Feldman, Daniel King, Shivashankar Subramanian",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "s2and-0.47.0.tar.gz",
+  "download_time": "2026-03-26T21:37:19.431204",
+  "package_url": "https://pypi.org/project/s2and/"
+}

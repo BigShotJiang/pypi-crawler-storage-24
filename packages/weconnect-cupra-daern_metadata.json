@@ -1,0 +1,11 @@
+{
+  "name": "weconnect-cupra-daern",
+  "version": "0.50.16",
+  "summary": "Python API for the Cupra Born online services",
+  "author": "Till Steinbach / Alan Gibson / Stuart Hall",
+  "license": "MIT",
+  "home_page": "https://github.com/daernsinstantfortress/WeConnect-Cupra-python",
+  "download_filename": "weconnect_cupra_daern-0.50.16.tar.gz",
+  "download_time": "2026-03-26T21:37:15.238275",
+  "package_url": "https://pypi.org/project/weconnect-cupra-daern/"
+}

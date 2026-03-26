@@ -1,11 +1,11 @@
 {
   "name": "braingeneers",
-  "version": "0.3.1.11",
+  "version": "0.3.1.13",
   "summary": "Braingeneers Python utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "braingeneers-0.3.1.11.tar.gz",
-  "download_time": "2026-03-11T22:50:38.813823",
+  "download_filename": "braingeneers-0.3.1.13.tar.gz",
+  "download_time": "2026-03-26T21:36:40.431434",
   "package_url": "https://pypi.org/project/braingeneers/"
 }

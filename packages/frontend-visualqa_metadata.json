@@ -1,11 +1,11 @@
 {
   "name": "frontend-visualqa",
-  "version": "0.3.6",
+  "version": "0.3.13",
   "summary": "Gives coding agents eyes for frontend work — visual QA and verification powered by Yutori n1.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frontend_visualqa-0.3.6.tar.gz",
-  "download_time": "2026-03-21T22:25:02.347678",
+  "download_filename": "frontend_visualqa-0.3.13.tar.gz",
+  "download_time": "2026-03-26T21:37:12.674946",
   "package_url": "https://pypi.org/project/frontend-visualqa/"
 }
