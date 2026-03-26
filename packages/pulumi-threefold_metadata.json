@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-threefold",
+  "version": "0.8.4",
+  "summary": "The Pulumi Resource Provider for the Threefold Grid.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://www.pulumi.com",
+  "download_filename": "pulumi_threefold-0.8.4.tar.gz",
+  "download_time": "2026-03-26T13:49:49.494410",
+  "package_url": "https://pypi.org/project/pulumi-threefold/"
+}

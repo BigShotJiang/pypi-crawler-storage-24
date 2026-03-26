@@ -1,0 +1,11 @@
+{
+  "name": "deephaven-plugin-plotly-express",
+  "version": "0.19.1",
+  "summary": "Deephaven Chart Plugin",
+  "author": "Devin Smith, Vlad Babich, Joe Numainville",
+  "license": null,
+  "home_page": "https://github.com/deephaven/deephaven-plugins",
+  "download_filename": "deephaven_plugin_plotly_express-0.19.1.tar.gz",
+  "download_time": "2026-03-26T13:49:51.094340",
+  "package_url": "https://pypi.org/project/deephaven-plugin-plotly-express/"
+}

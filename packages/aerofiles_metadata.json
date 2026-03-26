@@ -1,0 +1,11 @@
+{
+  "name": "aerofiles",
+  "version": "1.5.5",
+  "summary": "waypoint, task, tracklog readers and writers for aviation",
+  "author": "Tobias Bieniek",
+  "license": "MIT",
+  "home_page": "https://github.com/Turbo87/aerofiles/",
+  "download_filename": "aerofiles-1.5.5.tar.gz",
+  "download_time": "2026-03-26T13:49:47.769394",
+  "package_url": "https://pypi.org/project/aerofiles/"
+}

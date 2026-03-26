@@ -1,0 +1,11 @@
+{
+  "name": "mcp-codebase-oracle",
+  "version": "0.1.0",
+  "summary": "🔮 MCP sunucusu — Herhangi bir codebase'i analiz et, mimariyi çıkar, etki analizi yap",
+  "author": "MCP Codebase Oracle Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_codebase_oracle-0.1.0.tar.gz",
+  "download_time": "2026-03-26T13:49:59.203275",
+  "package_url": "https://pypi.org/project/mcp-codebase-oracle/"
+}

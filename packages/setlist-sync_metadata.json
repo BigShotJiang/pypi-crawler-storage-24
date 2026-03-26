@@ -1,0 +1,11 @@
+{
+  "name": "setlist-sync",
+  "version": "0.2.0",
+  "summary": "Match streaming playlists to your DJ library",
+  "author": "Mathias Spiessens",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "setlist_sync-0.2.0.tar.gz",
+  "download_time": "2026-03-26T13:50:14.195796",
+  "package_url": "https://pypi.org/project/setlist-sync/"
+}

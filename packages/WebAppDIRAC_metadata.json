@@ -1,0 +1,11 @@
+{
+  "name": "WebAppDIRAC",
+  "version": "6.0.1",
+  "summary": "WebAppDIRAC is a portal for the DIRAC software.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/DIRACGrid/WebAppDIRAC/",
+  "download_filename": "webappdirac-6.0.1.tar.gz",
+  "download_time": "2026-03-26T13:49:44.219726",
+  "package_url": "https://pypi.org/project/WebAppDIRAC/"
+}

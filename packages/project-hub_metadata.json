@@ -1,11 +1,11 @@
 {
   "name": "project-hub",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "summary": "Multi-repo workspace manager with MCP server + web dashboard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "project_hub-0.3.0.tar.gz",
-  "download_time": "2026-03-25T15:51:01.219221",
+  "download_filename": "project_hub-0.6.0.tar.gz",
+  "download_time": "2026-03-26T13:50:10.070541",
   "package_url": "https://pypi.org/project/project-hub/"
 }

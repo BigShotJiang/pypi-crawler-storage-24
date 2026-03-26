@@ -1,11 +1,11 @@
 {
   "name": "orion-v2-compiler",
-  "version": "2.0.1",
+  "version": "2.1.2",
   "summary": "Orion FHE compiler — traces, fits, and compiles PyTorch neural networks for encrypted inference",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orion_v2_compiler-2.0.1.tar.gz",
-  "download_time": "2026-03-14T20:25:17.514719",
+  "download_filename": "orion_v2_compiler-2.1.2.tar.gz",
+  "download_time": "2026-03-26T13:50:13.685989",
   "package_url": "https://pypi.org/project/orion-v2-compiler/"
 }

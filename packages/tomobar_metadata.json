@@ -1,0 +1,11 @@
+{
+  "name": "tomobar",
+  "version": "2026.3.0.0",
+  "summary": "TOmographic MOdel-BAsed Reconstruction (ToMoBAR) software",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "tomobar-2026.3.0.0.tar.gz",
+  "download_time": "2026-03-26T13:49:58.183313",
+  "package_url": "https://pypi.org/project/tomobar/"
+}

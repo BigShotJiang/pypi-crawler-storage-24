@@ -1,11 +1,11 @@
 {
   "name": "hier-config",
-  "version": "3.5.1",
+  "version": "3.6.0",
   "summary": "A network configuration query and comparison library, used to build remediation configurations.",
   "author": "Andrew Edwards",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hier_config-3.5.1.tar.gz",
-  "download_time": "2026-03-20T14:12:31.210235",
+  "download_filename": "hier_config-3.6.0.tar.gz",
+  "download_time": "2026-03-26T13:50:01.816752",
   "package_url": "https://pypi.org/project/hier-config/"
 }

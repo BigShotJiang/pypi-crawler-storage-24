@@ -1,0 +1,11 @@
+{
+  "name": "noteshift",
+  "version": "0.2.0",
+  "summary": "Export Notion pages and databases to Obsidian-friendly Markdown.",
+  "author": "Fragment256",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "noteshift-0.2.0.tar.gz",
+  "download_time": "2026-03-26T13:50:05.964107",
+  "package_url": "https://pypi.org/project/noteshift/"
+}

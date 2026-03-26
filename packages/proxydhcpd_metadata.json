@@ -1,0 +1,11 @@
+{
+  "name": "proxydhcpd",
+  "version": "0.3.1",
+  "summary": "A proxy DHCP server in pure Python 3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "proxydhcpd-0.3.1.tar.gz",
+  "download_time": "2026-03-26T13:50:25.543759",
+  "package_url": "https://pypi.org/project/proxydhcpd/"
+}

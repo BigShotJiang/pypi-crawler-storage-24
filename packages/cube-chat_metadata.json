@@ -1,0 +1,11 @@
+{
+  "name": "cube-chat",
+  "version": "0.1.0",
+  "summary": "Concrete chat session implementations for cube-standard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cube_chat-0.1.0.tar.gz",
+  "download_time": "2026-03-26T13:50:04.435680",
+  "package_url": "https://pypi.org/project/cube-chat/"
+}
