@@ -1,0 +1,11 @@
+{
+  "name": "google-maps-mapsplatformdatasets",
+  "version": "0.7.0",
+  "summary": "Google Maps Mapsplatformdatasets API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-maps-mapsplatformdatasets",
+  "download_filename": "google_maps_mapsplatformdatasets-0.7.0.tar.gz",
+  "download_time": "2026-03-26T22:30:04.736130",
+  "package_url": "https://pypi.org/project/google-maps-mapsplatformdatasets/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-webrisk",
+  "version": "1.21.0",
+  "summary": "Google Cloud Webrisk API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-webrisk",
+  "download_filename": "google_cloud_webrisk-1.21.0.tar.gz",
+  "download_time": "2026-03-26T22:30:06.446057",
+  "package_url": "https://pypi.org/project/google-cloud-webrisk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "steinbock",
+  "version": "0.16.5",
+  "summary": "A toolkit for processing multiplexed tissue images",
+  "author": "Jonas Windhager",
+  "license": "MIT",
+  "home_page": "https://github.com/BodenmillerGroup/steinbock",
+  "download_filename": "steinbock-0.16.5.tar.gz",
+  "download_time": "2026-03-26T22:29:39.806966",
+  "package_url": "https://pypi.org/project/steinbock/"
+}

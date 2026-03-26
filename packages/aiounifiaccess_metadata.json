@@ -1,11 +1,11 @@
 {
   "name": "aiounifiaccess",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Async Python client for the UniFi Access API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiounifiaccess-0.2.0.tar.gz",
-  "download_time": "2026-03-26T22:00:56.707349",
+  "download_filename": "aiounifiaccess-0.2.1.tar.gz",
+  "download_time": "2026-03-26T22:29:22.740652",
   "package_url": "https://pypi.org/project/aiounifiaccess/"
 }

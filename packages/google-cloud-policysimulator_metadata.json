@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-policysimulator",
+  "version": "0.4.0",
+  "summary": "Google Cloud Policysimulator API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-policysimulator",
+  "download_filename": "google_cloud_policysimulator-0.4.0.tar.gz",
+  "download_time": "2026-03-26T22:29:52.126921",
+  "package_url": "https://pypi.org/project/google-cloud-policysimulator/"
+}

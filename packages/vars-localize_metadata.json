@@ -1,0 +1,11 @@
+{
+  "name": "vars-localize",
+  "version": "0.4.0",
+  "summary": "Tool for creating localization with VARS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vars_localize-0.4.0.tar.gz",
+  "download_time": "2026-03-26T22:29:43.363866",
+  "package_url": "https://pypi.org/project/vars-localize/"
+}

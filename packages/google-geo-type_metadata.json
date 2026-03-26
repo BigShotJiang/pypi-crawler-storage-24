@@ -1,0 +1,11 @@
+{
+  "name": "google-geo-type",
+  "version": "0.6.0",
+  "summary": "Google Geo Type API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-geo-type",
+  "download_filename": "google_geo_type-0.6.0.tar.gz",
+  "download_time": "2026-03-26T22:29:53.272078",
+  "package_url": "https://pypi.org/project/google-geo-type/"
+}

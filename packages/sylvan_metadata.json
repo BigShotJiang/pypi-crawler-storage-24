@@ -1,11 +1,11 @@
 {
   "name": "sylvan",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "Unified code + documentation retrieval MCP server",
   "author": "darki73",
   "license": "Custom Non-Commercial",
   "home_page": null,
-  "download_filename": "sylvan-1.4.1.tar.gz",
-  "download_time": "2026-03-26T20:59:15.920040",
+  "download_filename": "sylvan-1.4.2.tar.gz",
+  "download_time": "2026-03-26T22:30:10.956087",
   "package_url": "https://pypi.org/project/sylvan/"
 }

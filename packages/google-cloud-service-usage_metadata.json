@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-service-usage",
+  "version": "1.16.0",
+  "summary": "Google Cloud Service Usage API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-service-usage",
+  "download_filename": "google_cloud_service_usage-1.16.0.tar.gz",
+  "download_time": "2026-03-26T22:30:07.536320",
+  "package_url": "https://pypi.org/project/google-cloud-service-usage/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-private-ca",
+  "version": "1.18.0",
+  "summary": "Google Cloud Private Ca API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-private-ca",
+  "download_filename": "google_cloud_private_ca-1.18.0.tar.gz",
+  "download_time": "2026-03-26T22:30:09.333768",
+  "package_url": "https://pypi.org/project/google-cloud-private-ca/"
+}

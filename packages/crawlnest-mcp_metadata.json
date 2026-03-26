@@ -1,11 +1,11 @@
 {
   "name": "crawlnest-mcp",
-  "version": "0.4.1",
-  "summary": "CrawlNest MCP server for web scraping, Twitter, Reddit, Hacker News, YC directory, video download, image download, and transcription. Use with Claude Code, Claude Desktop, Cursor, and other MCP clients.",
+  "version": "0.5.0",
+  "summary": "CrawlNest MCP server for web scraping, Twitter, Reddit, GitHub, Hacker News, YC directory, video download, image download, and transcription. Use with Claude Code, Claude Desktop, Cursor, and other MCP clients.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crawlnest_mcp-0.4.1.tar.gz",
-  "download_time": "2026-03-25T07:48:26.407138",
+  "download_filename": "crawlnest_mcp-0.5.0.tar.gz",
+  "download_time": "2026-03-26T22:29:36.259019",
   "package_url": "https://pypi.org/project/crawlnest-mcp/"
 }

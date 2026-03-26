@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-service-management",
+  "version": "1.16.0",
+  "summary": "Google Cloud Service Management API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-service-management",
+  "download_filename": "google_cloud_service_management-1.16.0.tar.gz",
+  "download_time": "2026-03-26T22:30:13.221547",
+  "package_url": "https://pypi.org/project/google-cloud-service-management/"
+}

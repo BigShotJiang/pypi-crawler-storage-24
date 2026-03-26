@@ -1,0 +1,11 @@
+{
+  "name": "google-shopping-merchant-quota",
+  "version": "1.4.0",
+  "summary": "Google Shopping Merchant Quota API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-shopping-merchant-quota",
+  "download_filename": "google_shopping_merchant_quota-1.4.0.tar.gz",
+  "download_time": "2026-03-26T22:30:05.281621",
+  "package_url": "https://pypi.org/project/google-shopping-merchant-quota/"
+}

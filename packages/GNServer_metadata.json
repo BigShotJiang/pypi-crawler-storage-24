@@ -1,11 +1,11 @@
 {
   "name": "GNServer",
-  "version": "0.0.140",
+  "version": "0.0.141",
   "summary": "GNServer",
   "author": "KeyisB",
   "license": "GN License v1.0",
   "home_page": "https://github.com/KeyisB/GNServer",
-  "download_filename": "gnserver-0.0.140.tar.gz",
-  "download_time": "2026-03-21T23:50:41.146694",
+  "download_filename": "gnserver-0.0.141.tar.gz",
+  "download_time": "2026-03-26T22:29:42.732566",
   "package_url": "https://pypi.org/project/GNServer/"
 }

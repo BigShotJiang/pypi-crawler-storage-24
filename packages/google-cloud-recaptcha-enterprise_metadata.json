@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-recaptcha-enterprise",
+  "version": "1.31.0",
+  "summary": "Google Cloud Recaptcha Enterprise API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-recaptcha-enterprise",
+  "download_filename": "google_cloud_recaptcha_enterprise-1.31.0.tar.gz",
+  "download_time": "2026-03-26T22:30:08.627963",
+  "package_url": "https://pypi.org/project/google-cloud-recaptcha-enterprise/"
+}

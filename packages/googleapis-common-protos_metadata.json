@@ -1,0 +1,11 @@
+{
+  "name": "googleapis-common-protos",
+  "version": "1.73.1",
+  "summary": "Common protobufs used in Google APIs",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "googleapis_common_protos-1.73.1.tar.gz",
+  "download_time": "2026-03-26T22:30:02.015338",
+  "package_url": "https://pypi.org/project/googleapis-common-protos/"
+}

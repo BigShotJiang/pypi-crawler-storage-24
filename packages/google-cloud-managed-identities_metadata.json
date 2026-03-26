@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-managed-identities",
+  "version": "1.15.0",
+  "summary": "Google Cloud Managed Identities API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-managed-identities",
+  "download_filename": "google_cloud_managed_identities-1.15.0.tar.gz",
+  "download_time": "2026-03-26T22:30:09.881916",
+  "package_url": "https://pypi.org/project/google-cloud-managed-identities/"
+}

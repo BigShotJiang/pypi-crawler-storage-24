@@ -1,11 +1,11 @@
 {
   "name": "pluraldo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "todo for plurals",
   "author": "Jamie Bliss",
   "license": null,
   "home_page": null,
-  "download_filename": "pluraldo-0.2.0.tar.gz",
-  "download_time": "2026-03-26T22:00:17.164155",
+  "download_filename": "pluraldo-0.2.1.tar.gz",
+  "download_time": "2026-03-26T22:29:22.197478",
   "package_url": "https://pypi.org/project/pluraldo/"
 }
