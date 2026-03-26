@@ -1,0 +1,11 @@
+{
+  "name": "seqa-py",
+  "version": "0.1.1",
+  "summary": "Python library for querying genomic files across cloud and local storage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seqa_py-0.1.1.tar.gz",
+  "download_time": "2026-03-26T22:00:58.383574",
+  "package_url": "https://pypi.org/project/seqa-py/"
+}

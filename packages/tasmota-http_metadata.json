@@ -1,0 +1,11 @@
+{
+  "name": "tasmota-http",
+  "version": "0.1.0",
+  "summary": "Small Python client for Tasmota HTTP command API",
+  "author": "Local API Docs Workspace",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tasmota_http-0.1.0.tar.gz",
+  "download_time": "2026-03-26T22:00:44.213060",
+  "package_url": "https://pypi.org/project/tasmota-http/"
+}

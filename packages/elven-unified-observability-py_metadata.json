@@ -1,11 +1,11 @@
 {
   "name": "elven-unified-observability-py",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Unified wrapper for Elven logs interception and OpenTelemetry instrumentation in Python.",
   "author": "Leonardo Zwirtes",
   "license": null,
   "home_page": null,
-  "download_filename": "elven_unified_observability_py-0.1.2.tar.gz",
-  "download_time": "2026-03-26T21:36:59.015612",
+  "download_filename": "elven_unified_observability_py-0.1.3.tar.gz",
+  "download_time": "2026-03-26T22:00:43.119118",
   "package_url": "https://pypi.org/project/elven-unified-observability-py/"
 }

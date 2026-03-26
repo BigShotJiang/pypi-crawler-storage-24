@@ -1,0 +1,11 @@
+{
+  "name": "openc3",
+  "version": "7.0.0",
+  "summary": "Python support for OpenC3 COSMOS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openc3-7.0.0.tar.gz",
+  "download_time": "2026-03-26T22:00:47.491718",
+  "package_url": "https://pypi.org/project/openc3/"
+}

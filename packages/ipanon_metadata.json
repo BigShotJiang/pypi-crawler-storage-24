@@ -1,11 +1,11 @@
 {
   "name": "ipanon",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "CIDR-aware IP anonymizer with prefix-preserving permutation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ipanon-0.2.1.tar.gz",
-  "download_time": "2026-03-25T23:12:08.210692",
+  "download_filename": "ipanon-0.3.0.tar.gz",
+  "download_time": "2026-03-26T22:00:21.278237",
   "package_url": "https://pypi.org/project/ipanon/"
 }

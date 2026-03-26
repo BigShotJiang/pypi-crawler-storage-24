@@ -1,0 +1,11 @@
+{
+  "name": "datasynth-py",
+  "version": "2.1.0",
+  "summary": "Python wrapper for DataSynth synthetic data generation",
+  "author": "Michael Ivertowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasynth_py-2.1.0.tar.gz",
+  "download_time": "2026-03-26T22:00:40.982810",
+  "package_url": "https://pypi.org/project/datasynth-py/"
+}

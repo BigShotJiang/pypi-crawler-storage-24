@@ -1,0 +1,11 @@
+{
+  "name": "storzandbickel-ble",
+  "version": "0.1.4",
+  "summary": "Python library for controlling Storz & Bickel devices via Bluetooth Low Energy (BLE)",
+  "author": "Storz & Bickel BLE Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "storzandbickel_ble-0.1.4.tar.gz",
+  "download_time": "2026-03-26T22:01:03.812801",
+  "package_url": "https://pypi.org/project/storzandbickel-ble/"
+}

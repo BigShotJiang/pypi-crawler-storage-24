@@ -1,0 +1,11 @@
+{
+  "name": "xmltodict-fast",
+  "version": "1.0.0",
+  "summary": "Rust-accelerated XML↔dict library — drop-in replacement for xmltodict",
+  "author": "Martin Blech, Andrei Voicu Tomuț",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmltodict_fast-1.0.0.tar.gz",
+  "download_time": "2026-03-26T22:01:04.883909",
+  "package_url": "https://pypi.org/project/xmltodict-fast/"
+}
