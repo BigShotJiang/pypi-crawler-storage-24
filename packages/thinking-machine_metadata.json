@@ -1,11 +1,11 @@
 {
   "name": "thinking-machine",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "A Machine that does thinking.",
-  "author": null,
+  "author": "Machina Ratiocinatrix, Alexander Fedotov",
   "license": null,
   "home_page": null,
-  "download_filename": "thinking_machine-0.0.14.tar.gz",
-  "download_time": "2026-03-13T23:53:46.193528",
+  "download_filename": "thinking_machine-0.0.15.tar.gz",
+  "download_time": "2026-03-26T20:15:11.193873",
   "package_url": "https://pypi.org/project/thinking-machine/"
 }

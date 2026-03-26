@@ -1,11 +1,11 @@
 {
   "name": "job-service-sdk",
-  "version": "1.0.0",
+  "version": "2.0.2",
   "summary": "Cliente y runtime para integrarse con job_service",
   "author": "Andrés",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "job_service_sdk-1.0.0.tar.gz",
-  "download_time": "2026-03-21T16:58:12.054807",
+  "download_filename": "job_service_sdk-2.0.2.tar.gz",
+  "download_time": "2026-03-26T20:15:20.555150",
   "package_url": "https://pypi.org/project/job-service-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-qfield",
+  "version": "0.2.0",
+  "summary": "A pytest plugin for testing QField qml plugins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_qfield-0.2.0.tar.gz",
+  "download_time": "2026-03-26T20:14:50.503895",
+  "package_url": "https://pypi.org/project/pytest-qfield/"
+}

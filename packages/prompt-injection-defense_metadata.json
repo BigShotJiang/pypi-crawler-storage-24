@@ -1,11 +1,11 @@
 {
   "name": "prompt-injection-defense",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "Lightweight prompt injection detection for LLM applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prompt_injection_defense-0.2.0.tar.gz",
-  "download_time": "2026-03-26T07:13:37.632081",
+  "download_filename": "prompt_injection_defense-0.5.0.tar.gz",
+  "download_time": "2026-03-26T20:15:16.852489",
   "package_url": "https://pypi.org/project/prompt-injection-defense/"
 }

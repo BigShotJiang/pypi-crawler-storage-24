@@ -1,11 +1,11 @@
 {
   "name": "rhesis-sdk",
-  "version": "0.6.10",
+  "version": "0.6.11",
   "summary": "SDK for testing and validating LLM applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rhesis_sdk-0.6.10.tar.gz",
-  "download_time": "2026-03-23T11:17:07.375738",
+  "download_filename": "rhesis_sdk-0.6.11.tar.gz",
+  "download_time": "2026-03-26T20:15:19.526676",
   "package_url": "https://pypi.org/project/rhesis-sdk/"
 }

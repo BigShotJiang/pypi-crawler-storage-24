@@ -1,11 +1,11 @@
 {
   "name": "saleshub-cli",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "SalesHub CLI — Command-line tool for managing SalesCode SalesHub deployments",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "saleshub_cli-0.1.8.tar.gz",
-  "download_time": "2026-03-26T09:21:05.015341",
+  "download_filename": "saleshub_cli-0.1.10.tar.gz",
+  "download_time": "2026-03-26T20:15:31.416209",
   "package_url": "https://pypi.org/project/saleshub-cli/"
 }

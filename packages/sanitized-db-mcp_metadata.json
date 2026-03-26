@@ -1,11 +1,11 @@
 {
   "name": "sanitized-db-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "MCP server that rewrites SQL to prevent PII/PHI exposure in AI agent queries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sanitized_db_mcp-0.1.1.tar.gz",
-  "download_time": "2026-03-20T19:40:50.233692",
+  "download_filename": "sanitized_db_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-26T20:14:57.930205",
   "package_url": "https://pypi.org/project/sanitized-db-mcp/"
 }

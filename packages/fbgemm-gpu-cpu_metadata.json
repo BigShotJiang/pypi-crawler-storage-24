@@ -1,0 +1,11 @@
+{
+  "name": "fbgemm-gpu-cpu",
+  "version": "1.6.0",
+  "summary": null,
+  "author": "FBGEMM Team",
+  "license": "BSD-3",
+  "home_page": "https://github.com/pytorch/fbgemm",
+  "download_filename": "fbgemm_gpu_cpu-1.6.0-cp310-cp310-manylinux_2_28_aarch64.whl",
+  "download_time": "2026-03-26T20:15:02.935137",
+  "package_url": "https://pypi.org/project/fbgemm-gpu-cpu/"
+}

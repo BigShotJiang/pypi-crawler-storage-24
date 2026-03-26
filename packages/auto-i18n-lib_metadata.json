@@ -1,0 +1,11 @@
+{
+  "name": "auto-i18n-lib",
+  "version": "0.2.3",
+  "summary": "File-cache HTML translation for Python projects with background page scanning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_i18n_lib-0.2.3.tar.gz",
+  "download_time": "2026-03-26T20:14:57.418887",
+  "package_url": "https://pypi.org/project/auto-i18n-lib/"
+}
