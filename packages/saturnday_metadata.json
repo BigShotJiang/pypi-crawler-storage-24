@@ -1,11 +1,11 @@
 {
   "name": "saturnday",
-  "version": "0.3.26",
+  "version": "0.3.29",
   "summary": "Execution governor for AI-generated code — Guard, Run, and Repair in one package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "saturnday-0.3.26.tar.gz",
-  "download_time": "2026-03-26T17:34:03.203947",
+  "download_filename": "saturnday-0.3.29.tar.gz",
+  "download_time": "2026-03-26T23:02:32.350880",
   "package_url": "https://pypi.org/project/saturnday/"
 }

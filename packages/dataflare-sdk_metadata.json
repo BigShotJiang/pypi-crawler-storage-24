@@ -1,11 +1,11 @@
 {
   "name": "dataflare-sdk",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "Official Python SDK for the DataFlare API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dataflare_sdk-0.1.4.tar.gz",
-  "download_time": "2026-03-21T15:06:04.895207",
+  "download_filename": "dataflare_sdk-0.1.7.tar.gz",
+  "download_time": "2026-03-26T23:02:42.241721",
   "package_url": "https://pypi.org/project/dataflare-sdk/"
 }

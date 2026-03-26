@@ -1,0 +1,11 @@
+{
+  "name": "MCGrad",
+  "version": "0.1.4",
+  "summary": "Production-ready multicalibration for machine learning",
+  "author": "Meta Platforms, Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcgrad-0.1.4.tar.gz",
+  "download_time": "2026-03-26T23:02:14.230327",
+  "package_url": "https://pypi.org/project/MCGrad/"
+}

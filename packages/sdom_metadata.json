@@ -1,0 +1,11 @@
+{
+  "name": "sdom",
+  "version": "0.1.1",
+  "summary": "A Python package for NREL open-source SDOM (Storage Deployment Optimization Model)",
+  "author": "Omar Jose Guerra Fernandez, Mariya Koleva, Sebastian de Jesus Manrique Machado",
+  "license": "To be filled.",
+  "home_page": null,
+  "download_filename": "sdom-0.1.1.tar.gz",
+  "download_time": "2026-03-26T23:02:46.386316",
+  "package_url": "https://pypi.org/project/sdom/"
+}

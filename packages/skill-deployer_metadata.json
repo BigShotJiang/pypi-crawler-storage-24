@@ -1,0 +1,11 @@
+{
+  "name": "skill-deployer",
+  "version": "0.1.1",
+  "summary": "Install AI coding CLI skills to Claude Code and Codex",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skill_deployer-0.1.1.tar.gz",
+  "download_time": "2026-03-26T23:02:34.979739",
+  "package_url": "https://pypi.org/project/skill-deployer/"
+}

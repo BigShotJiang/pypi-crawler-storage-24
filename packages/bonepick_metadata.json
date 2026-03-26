@@ -1,0 +1,11 @@
+{
+  "name": "bonepick",
+  "version": "0.5.0",
+  "summary": "CLI tool for training efficient CPU-based text quality classifiers and annotating data for distillation of classifiers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bonepick-0.5.0.tar.gz",
+  "download_time": "2026-03-26T23:02:39.152461",
+  "package_url": "https://pypi.org/project/bonepick/"
+}

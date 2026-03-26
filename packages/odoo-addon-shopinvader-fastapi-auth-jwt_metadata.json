@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-fastapi-auth-jwt",
+  "version": "18.0.1.0.0.2",
+  "summary": "Provide JWT and Anonymous Partner authentication to FastAPI routes.",
+  "author": "ACSONE SA/NV",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_shopinvader_fastapi_auth_jwt-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-26T23:02:39.663671",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-fastapi-auth-jwt/"
+}

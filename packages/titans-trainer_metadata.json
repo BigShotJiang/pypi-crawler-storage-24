@@ -1,0 +1,11 @@
+{
+  "name": "titans-trainer",
+  "version": "0.1.1",
+  "summary": "HuggingFace-style training framework for TITANS (Learning to Memorize at Test Time)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "titans_trainer-0.1.1.tar.gz",
+  "download_time": "2026-03-26T23:02:47.925411",
+  "package_url": "https://pypi.org/project/titans-trainer/"
+}

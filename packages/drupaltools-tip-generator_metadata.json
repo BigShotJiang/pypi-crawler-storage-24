@@ -1,11 +1,11 @@
 {
   "name": "drupaltools-tip-generator",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Generate static MD tip files for Drupal development tips using various LLM providers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "drupaltools_tip_generator-0.2.1.tar.gz",
-  "download_time": "2026-03-26T21:36:48.182907",
+  "download_filename": "drupaltools_tip_generator-0.2.2.tar.gz",
+  "download_time": "2026-03-26T23:02:36.522991",
   "package_url": "https://pypi.org/project/drupaltools-tip-generator/"
 }
