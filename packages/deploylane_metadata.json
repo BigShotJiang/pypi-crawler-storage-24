@@ -1,11 +1,11 @@
 {
   "name": "deploylane",
-  "version": "0.3.5",
-  "summary": "Deployment configs as code. GitLab CI variables as code. Reproducible deploys every time.",
+  "version": "0.3.7",
+  "summary": "Manage Docker Compose deployments and CI variables as code — GitLab & GitHub Actions",
   "author": "Ahmet Atakan",
   "license": null,
   "home_page": null,
-  "download_filename": "deploylane-0.3.5.tar.gz",
-  "download_time": "2026-03-20T07:18:30.540023",
+  "download_filename": "deploylane-0.3.7.tar.gz",
+  "download_time": "2026-03-26T07:13:38.675489",
   "package_url": "https://pypi.org/project/deploylane/"
 }

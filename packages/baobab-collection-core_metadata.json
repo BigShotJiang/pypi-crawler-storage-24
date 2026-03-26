@@ -1,0 +1,11 @@
+{
+  "name": "baobab-collection-core",
+  "version": "1.0.0",
+  "summary": "Noyau Python pour la gestion de collections (cartes, exemplaires, sync offline-first).",
+  "author": "Baobab Collection",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "baobab_collection_core-1.0.0.tar.gz",
+  "download_time": "2026-03-26T07:13:55.223378",
+  "package_url": "https://pypi.org/project/baobab-collection-core/"
+}

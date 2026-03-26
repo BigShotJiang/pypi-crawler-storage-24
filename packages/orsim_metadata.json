@@ -1,11 +1,11 @@
 {
   "name": "orsim",
-  "version": "0.3.9",
+  "version": "1.0.6",
   "summary": "Distributed Agent based Simulation Library",
   "author": "iora_dev_team",
   "license": "MIT",
   "home_page": "https://github.com/IORA-NUS/orsim",
-  "download_filename": "orsim-0.3.9.tar.gz",
-  "download_time": "2026-03-20T13:17:06.696107",
+  "download_filename": "orsim-1.0.6.tar.gz",
+  "download_time": "2026-03-26T07:14:03.099563",
   "package_url": "https://pypi.org/project/orsim/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "solomonai-backend-client-sdk",
-  "version": "1.66.11",
+  "version": "1.68.0",
   "summary": "Solomonai Backend Client SDK",
   "author": "Solomonai Engineering",
   "license": "Apache 2.0 License",
   "home_page": null,
-  "download_filename": "solomonai_backend_client_sdk-1.66.11.tar.gz",
-  "download_time": "2026-03-26T04:37:19.761614",
+  "download_filename": "solomonai_backend_client_sdk-1.68.0.tar.gz",
+  "download_time": "2026-03-26T07:14:00.998691",
   "package_url": "https://pypi.org/project/solomonai-backend-client-sdk/"
 }

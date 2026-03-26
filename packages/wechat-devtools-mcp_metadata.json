@@ -1,11 +1,11 @@
 {
   "name": "wechat-devtools-mcp",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "MCP Server for WeChat DevTools CLI - 微信开发者工具 MCP 服务",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wechat_devtools_mcp-0.3.1-py3-none-any.whl",
-  "download_time": "2026-03-25T08:36:51.546547",
+  "download_filename": "wechat_devtools_mcp-0.4.1-py3-none-any.whl",
+  "download_time": "2026-03-26T07:14:14.161047",
   "package_url": "https://pypi.org/project/wechat-devtools-mcp/"
 }

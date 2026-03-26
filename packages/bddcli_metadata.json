@@ -1,0 +1,11 @@
+{
+  "name": "bddcli",
+  "version": "2.10.0",
+  "summary": "Test any command line interface in BDD manner.",
+  "author": "Vahid Mardani",
+  "license": "MIT",
+  "home_page": "http://github.com/pylover/bddcli",
+  "download_filename": "bddcli-2.10.0.tar.gz",
+  "download_time": "2026-03-26T07:13:40.247604",
+  "package_url": "https://pypi.org/project/bddcli/"
+}

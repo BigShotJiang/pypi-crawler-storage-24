@@ -1,0 +1,11 @@
+{
+  "name": "reflow-hpc",
+  "version": "2604.0.0",
+  "summary": "Decorator-based HPC workflow engine with Result-based data wiring, reusable Flows, and an auto-generated CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reflow_hpc-2604.0.0.tar.gz",
+  "download_time": "2026-03-26T07:14:18.875082",
+  "package_url": "https://pypi.org/project/reflow-hpc/"
+}

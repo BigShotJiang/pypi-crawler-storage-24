@@ -1,0 +1,11 @@
+{
+  "name": "repo-control-suite-kit",
+  "version": "0.6.0",
+  "summary": "Agent-first repository control-plane suite",
+  "author": "Repo Control Suite Kit contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repo_control_suite_kit-0.6.0.tar.gz",
+  "download_time": "2026-03-26T07:14:17.830115",
+  "package_url": "https://pypi.org/project/repo-control-suite-kit/"
+}

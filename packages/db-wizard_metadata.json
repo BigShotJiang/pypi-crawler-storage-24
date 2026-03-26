@@ -1,0 +1,11 @@
+{
+  "name": "db-wizard",
+  "version": "2.1.1",
+  "summary": "Advanced database copy and migration tool - supports MongoDB, MySQL, PostgreSQL, Redis",
+  "author": "Sathia Musso",
+  "license": null,
+  "home_page": null,
+  "download_filename": "db_wizard-2.1.1.tar.gz",
+  "download_time": "2026-03-26T07:13:39.198666",
+  "package_url": "https://pypi.org/project/db-wizard/"
+}

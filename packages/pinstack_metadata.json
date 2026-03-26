@@ -1,0 +1,11 @@
+{
+  "name": "pinstack",
+  "version": "0.1.5",
+  "summary": "Supply-chain dependency pinning enforcement for every ecosystem",
+  "author": "smthmlk",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pinstack-0.1.5.tar.gz",
+  "download_time": "2026-03-26T07:14:04.164500",
+  "package_url": "https://pypi.org/project/pinstack/"
+}

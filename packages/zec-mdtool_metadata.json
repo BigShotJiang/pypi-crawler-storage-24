@@ -1,0 +1,11 @@
+{
+  "name": "zec-mdtool",
+  "version": "0.1.0",
+  "summary": "一个强大的 Markdown 转换工具库",
+  "author": "Zheng EnCi",
+  "license": null,
+  "home_page": "https://github.com/Zheng-Enci/mdtool",
+  "download_filename": "zec_mdtool-0.1.0.tar.gz",
+  "download_time": "2026-03-26T07:13:41.283080",
+  "package_url": "https://pypi.org/project/zec-mdtool/"
+}

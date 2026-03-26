@@ -1,0 +1,11 @@
+{
+  "name": "dnallm",
+  "version": "0.4.0",
+  "summary": "A comprehensive toolkit for fine-tuning and inference with DNA Language Models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dnallm-0.4.0.tar.gz",
+  "download_time": "2026-03-26T07:13:45.708715",
+  "package_url": "https://pypi.org/project/dnallm/"
+}
