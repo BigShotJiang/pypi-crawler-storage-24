@@ -1,11 +1,11 @@
 {
   "name": "aind-metadata-upgrader",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "Generated from aind-library-template",
   "author": "Allen Institute for Neural Dynamics",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aind_metadata_upgrader-0.8.2.tar.gz",
-  "download_time": "2026-03-21T03:40:42.513442",
+  "download_filename": "aind_metadata_upgrader-0.8.3.tar.gz",
+  "download_time": "2026-03-26T01:58:16.474801",
   "package_url": "https://pypi.org/project/aind-metadata-upgrader/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "state-pattern-py",
+  "version": "0.1.0",
+  "summary": "State Pattern for Python -- port of the Ruby state_pattern gem",
+  "author": "Daniel Cadenas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "state_pattern_py-0.1.0.tar.gz",
+  "download_time": "2026-03-26T01:57:31.684154",
+  "package_url": "https://pypi.org/project/state-pattern-py/"
+}

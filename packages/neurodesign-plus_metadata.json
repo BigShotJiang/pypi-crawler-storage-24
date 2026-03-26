@@ -1,0 +1,11 @@
+{
+  "name": "neurodesign-plus",
+  "version": "1.0.2",
+  "summary": "Extended and maintained fork of the neurodesign package for fMRI experimental design optimisation",
+  "author": "Joke Durnez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neurodesign_plus-1.0.2.tar.gz",
+  "download_time": "2026-03-26T01:57:58.174213",
+  "package_url": "https://pypi.org/project/neurodesign-plus/"
+}

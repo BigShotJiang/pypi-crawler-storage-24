@@ -1,0 +1,11 @@
+{
+  "name": "square_authentication_helper",
+  "version": "4.3.0",
+  "summary": "helper to access the authentication layer for my personal server.",
+  "author": "Parth Mukesh Mangtani",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "square_authentication_helper-4.3.0.tar.gz",
+  "download_time": "2026-03-26T01:58:10.419320",
+  "package_url": "https://pypi.org/project/square_authentication_helper/"
+}

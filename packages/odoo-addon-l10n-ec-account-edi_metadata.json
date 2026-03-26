@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ec-account-edi",
+  "version": "17.0.1.1.3",
+  "summary": "Electronic data interchange adapted Ecuadorian localization",
+  "author": "Odoo Community Association (OCA), Carlos Lopez, Renan Nazate, Yazber Romero, Luis Romero, Jorge Quiguango",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-ecuador",
+  "download_filename": "odoo_addon_l10n_ec_account_edi-17.0.1.1.3-py3-none-any.whl",
+  "download_time": "2026-03-26T01:58:29.709333",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ec-account-edi/"
+}

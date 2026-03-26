@@ -1,11 +1,11 @@
 {
   "name": "afterlife",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Precision astrological chart engine with a terminal CLI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "afterlife-0.0.6.tar.gz",
-  "download_time": "2026-03-25T23:57:28.231661",
+  "download_filename": "afterlife-0.0.7.tar.gz",
+  "download_time": "2026-03-26T01:58:21.173109",
   "package_url": "https://pypi.org/project/afterlife/"
 }

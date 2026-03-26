@@ -1,0 +1,11 @@
+{
+  "name": "llama-agentic",
+  "version": "0.3.4",
+  "summary": "Local agentic AI CLI powered by llama.cpp",
+  "author": "Muhaimin Rahim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llama_agentic-0.3.4.tar.gz",
+  "download_time": "2026-03-26T01:58:01.827464",
+  "package_url": "https://pypi.org/project/llama-agentic/"
+}

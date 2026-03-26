@@ -1,11 +1,11 @@
 {
   "name": "bussdcc-device-manager",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "bussdcc device manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bussdcc_device_manager-0.8.0.tar.gz",
-  "download_time": "2026-03-25T18:56:30.014296",
+  "download_filename": "bussdcc_device_manager-0.9.0.tar.gz",
+  "download_time": "2026-03-26T01:57:55.152007",
   "package_url": "https://pypi.org/project/bussdcc-device-manager/"
 }

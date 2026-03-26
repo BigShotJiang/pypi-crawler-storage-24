@@ -1,11 +1,11 @@
 {
   "name": "rom-runtime",
-  "version": "0.0.15",
+  "version": "0.0.19",
   "summary": "Python wrapper for the ROM browser-like runtime",
   "author": "Rxflex",
   "license": "MIT",
   "home_page": "https://github.com/Rxflex/rom",
-  "download_filename": "rom_runtime-0.0.15.tar.gz",
-  "download_time": "2026-03-24T22:11:33.973179",
+  "download_filename": "rom_runtime-0.0.19.tar.gz",
+  "download_time": "2026-03-26T01:58:25.848341",
   "package_url": "https://pypi.org/project/rom-runtime/"
 }
