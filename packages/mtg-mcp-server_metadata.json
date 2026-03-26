@@ -1,0 +1,11 @@
+{
+  "name": "mtg-mcp-server",
+  "version": "1.2.1",
+  "summary": "Unified MCP server providing Magic: The Gathering data to AI assistants",
+  "author": "Justin Forth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtg_mcp_server-1.2.1.tar.gz",
+  "download_time": "2026-03-26T04:37:31.586106",
+  "package_url": "https://pypi.org/project/mtg-mcp-server/"
+}

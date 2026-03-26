@@ -1,0 +1,11 @@
+{
+  "name": "mossy-prompt",
+  "version": "0.1.1",
+  "summary": "A robust, resumable quote crawler for Goodreads using Python, Scrapy, and SQLite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mossy_prompt-0.1.1.tar.gz",
+  "download_time": "2026-03-26T04:37:37.374813",
+  "package_url": "https://pypi.org/project/mossy-prompt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sphero-unsw",
+  "version": "0.1.11",
+  "summary": "Extensions and patches for spherov2 to support Sphero BOLT+ (UNSW Canberra fork)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphero_unsw-0.1.11.tar.gz",
+  "download_time": "2026-03-26T04:37:43.925503",
+  "package_url": "https://pypi.org/project/sphero-unsw/"
+}

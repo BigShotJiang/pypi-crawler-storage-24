@@ -1,11 +1,11 @@
 {
   "name": "agentmesh-platform",
-  "version": "2.1.0",
+  "version": "2.3.0",
   "summary": "Community Edition — The Secure Nervous System for Cloud-Native Agent Ecosystems - Identity, Trust, Reward, Governance",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentmesh_platform-2.1.0.tar.gz",
-  "download_time": "2026-03-15T20:55:51.840648",
+  "download_filename": "agentmesh_platform-2.3.0.tar.gz",
+  "download_time": "2026-03-26T04:37:24.529930",
   "package_url": "https://pypi.org/project/agentmesh-platform/"
 }

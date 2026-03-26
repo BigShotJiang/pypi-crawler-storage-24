@@ -1,11 +1,11 @@
 {
   "name": "resume-resume",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "Post-crash Claude Code session recovery TUI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "resume_resume-0.1.7.tar.gz",
-  "download_time": "2026-03-20T07:18:44.223184",
+  "download_filename": "resume_resume-0.2.0.tar.gz",
+  "download_time": "2026-03-26T04:37:08.034790",
   "package_url": "https://pypi.org/project/resume-resume/"
 }

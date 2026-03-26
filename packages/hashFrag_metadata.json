@@ -1,0 +1,11 @@
+{
+  "name": "hashFrag",
+  "version": "1.0.0",
+  "summary": "A command-line tool to mitigate homology-based data leakage in sequence-to-expression models",
+  "author": "Abdul Muntakim Rafi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hashfrag-1.0.0.tar.gz",
+  "download_time": "2026-03-26T04:37:11.258110",
+  "package_url": "https://pypi.org/project/hashFrag/"
+}

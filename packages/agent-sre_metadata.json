@@ -1,11 +1,11 @@
 {
   "name": "agent-sre",
-  "version": "2.1.0",
-  "summary": "Reliability Engineering for AI Agent Systems",
+  "version": "2.3.0",
+  "summary": "Community Edition — Reliability Engineering for AI Agent Systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_sre-2.1.0.tar.gz",
-  "download_time": "2026-03-15T20:55:51.303547",
+  "download_filename": "agent_sre-2.3.0.tar.gz",
+  "download_time": "2026-03-26T04:37:22.930006",
   "package_url": "https://pypi.org/project/agent-sre/"
 }

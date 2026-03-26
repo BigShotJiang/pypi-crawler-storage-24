@@ -1,0 +1,11 @@
+{
+  "name": "wrapica",
+  "version": "2.43.0",
+  "summary": "Secondary level functions for ICAv2 based off libica",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wrapica-2.43.0.tar.gz",
+  "download_time": "2026-03-26T04:37:05.910989",
+  "package_url": "https://pypi.org/project/wrapica/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lojack-api",
+  "version": "0.7.2",
+  "summary": "An async Python client library for the LoJack API, designed for Home Assistant integrations.",
+  "author": "Devin Slick",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lojack_api-0.7.2.tar.gz",
+  "download_time": "2026-03-26T04:37:20.341362",
+  "package_url": "https://pypi.org/project/lojack-api/"
+}

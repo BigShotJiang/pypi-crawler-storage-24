@@ -1,11 +1,11 @@
 {
   "name": "orbiLib",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "summary": "The package that most of the Team Orbi programs rely on",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orbilib-0.1.2.tar.gz",
-  "download_time": "2026-03-19T04:40:08.983054",
+  "download_filename": "orbilib-0.1.6.tar.gz",
+  "download_time": "2026-03-26T04:37:41.806588",
   "package_url": "https://pypi.org/project/orbiLib/"
 }

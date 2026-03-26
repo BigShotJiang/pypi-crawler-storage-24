@@ -1,11 +1,11 @@
 {
   "name": "harness0",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "Layer 0 of agent reliability — the framework-agnostic harness that makes any AI agent stable.",
   "author": "seekcontext",
   "license": null,
   "home_page": null,
-  "download_filename": "harness0-0.0.2.tar.gz",
-  "download_time": "2026-03-25T13:11:28.315581",
+  "download_filename": "harness0-0.0.5.tar.gz",
+  "download_time": "2026-03-26T04:37:33.166846",
   "package_url": "https://pypi.org/project/harness0/"
 }

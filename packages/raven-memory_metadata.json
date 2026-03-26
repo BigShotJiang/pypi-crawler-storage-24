@@ -1,0 +1,11 @@
+{
+  "name": "raven-memory",
+  "version": "1.0.0",
+  "summary": "Persistent causal memory for AI agents. Records decisions, tool calls, and parallel work as a causal DAG. OpenClaw and MCP compatible.",
+  "author": "hahmed9800",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "raven_memory-1.0.0.tar.gz",
+  "download_time": "2026-03-26T04:37:32.649949",
+  "package_url": "https://pypi.org/project/raven-memory/"
+}
