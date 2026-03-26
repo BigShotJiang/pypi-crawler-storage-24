@@ -1,11 +1,11 @@
 {
   "name": "opendeviationbar",
-  "version": "13.51.0",
+  "version": "13.56.0",
   "summary": "Python bindings for opendeviationbar: Non-lookahead open deviation bar construction for cryptocurrency trading",
   "author": "Terry Li",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opendeviationbar-13.51.0.tar.gz",
-  "download_time": "2026-03-24T08:03:44.541522",
+  "download_filename": "opendeviationbar-13.56.0.tar.gz",
+  "download_time": "2026-03-26T08:16:02.225623",
   "package_url": "https://pypi.org/project/opendeviationbar/"
 }

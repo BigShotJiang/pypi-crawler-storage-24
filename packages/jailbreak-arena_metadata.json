@@ -1,0 +1,11 @@
+{
+  "name": "jailbreak-arena",
+  "version": "0.1.0",
+  "summary": "Adversarial RL security testing for LLM applications. An attacker agent learns to break chatbots while a defender patches the system prompt in real time.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jailbreak_arena-0.1.0.tar.gz",
+  "download_time": "2026-03-26T08:15:30.266415",
+  "package_url": "https://pypi.org/project/jailbreak-arena/"
+}

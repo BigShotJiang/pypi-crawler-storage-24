@@ -1,0 +1,11 @@
+{
+  "name": "sanpy",
+  "version": "0.13.0",
+  "summary": "Package for Santiment API access with python",
+  "author": "Santiment",
+  "license": "MIT",
+  "home_page": "https://github.com/santiment/sanpy",
+  "download_filename": "sanpy-0.13.0.tar.gz",
+  "download_time": "2026-03-26T08:15:29.748623",
+  "package_url": "https://pypi.org/project/sanpy/"
+}

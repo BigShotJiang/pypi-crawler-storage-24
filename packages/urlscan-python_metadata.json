@@ -1,11 +1,11 @@
 {
   "name": "urlscan-python",
-  "version": "2026.3.10",
+  "version": "2026.3.26",
   "summary": "The official Python API client for urlscan.io",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "urlscan_python-2026.3.10.tar.gz",
-  "download_time": "2026-03-10T08:36:14.859439",
+  "download_filename": "urlscan_python-2026.3.26.tar.gz",
+  "download_time": "2026-03-26T08:15:31.306455",
   "package_url": "https://pypi.org/project/urlscan-python/"
 }

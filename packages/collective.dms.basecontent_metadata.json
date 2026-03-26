@@ -1,0 +1,11 @@
+{
+  "name": "collective.dms.basecontent",
+  "version": "2.0.3",
+  "summary": "Base content types for document management system",
+  "author": "Ecreall, Entrouvert, IMIO",
+  "license": "gpl",
+  "home_page": "https://github.com/collective/collective.dms.basecontent",
+  "download_filename": "collective_dms_basecontent-2.0.3.tar.gz",
+  "download_time": "2026-03-26T08:15:47.111429",
+  "package_url": "https://pypi.org/project/collective.dms.basecontent/"
+}

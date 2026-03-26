@@ -1,11 +1,11 @@
 {
   "name": "naturo",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Windows desktop automation engine — see, click, type, automate.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "naturo-0.2.0.tar.gz",
-  "download_time": "2026-03-22T15:27:03.521031",
+  "download_filename": "naturo-0.3.0.tar.gz",
+  "download_time": "2026-03-26T08:15:25.528947",
   "package_url": "https://pypi.org/project/naturo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyhierarchicaltsetlinmachinecuda",
+  "version": "0.2.0",
+  "summary": "Hierarchical Tsetlin Machine Architecture.",
+  "author": "Ole-Christoffer Granmo",
+  "license": "MIT",
+  "home_page": "https://github.com/cair/PyHierarchicalTsetlinMachineCUDA/",
+  "download_filename": "pyhierarchicaltsetlinmachinecuda-0.2.0.tar.gz",
+  "download_time": "2026-03-26T08:15:51.770695",
+  "package_url": "https://pypi.org/project/pyhierarchicaltsetlinmachinecuda/"
+}

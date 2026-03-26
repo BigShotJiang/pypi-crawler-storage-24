@@ -1,0 +1,11 @@
+{
+  "name": "exlsql",
+  "version": "0.1.2",
+  "summary": "SQL-like queries for Excel files",
+  "author": "royal-egoh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exlsql-0.1.2.tar.gz",
+  "download_time": "2026-03-26T08:15:20.806846",
+  "package_url": "https://pypi.org/project/exlsql/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "memnexus",
+  "version": "0.2.1",
+  "summary": "Code Memory for AI Programming Tools - Persistent memory for Kimi CLI, Claude Code, and other AI coding assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memnexus-0.2.1.tar.gz",
+  "download_time": "2026-03-26T08:15:51.253974",
+  "package_url": "https://pypi.org/project/memnexus/"
+}

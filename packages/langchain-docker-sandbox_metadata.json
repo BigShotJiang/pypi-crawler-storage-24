@@ -1,0 +1,11 @@
+{
+  "name": "langchain-docker-sandbox",
+  "version": "0.1.1",
+  "summary": "Custom Docker sandbox backend for Deep Agents framework, providing isolated code execution environments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_docker_sandbox-0.1.1.tar.gz",
+  "download_time": "2026-03-26T08:15:28.144858",
+  "package_url": "https://pypi.org/project/langchain-docker-sandbox/"
+}

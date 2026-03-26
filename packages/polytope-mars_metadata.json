@@ -1,0 +1,11 @@
+{
+  "name": "polytope-mars",
+  "version": "0.3.9",
+  "summary": "High level meteorological feature extraction interface to Polytope",
+  "author": "ECMWF",
+  "license": null,
+  "home_page": "https://github.com/ecmwf/polytope-mars",
+  "download_filename": "polytope_mars-0.3.9.tar.gz",
+  "download_time": "2026-03-26T08:15:22.364253",
+  "package_url": "https://pypi.org/project/polytope-mars/"
+}

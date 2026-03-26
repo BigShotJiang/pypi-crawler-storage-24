@@ -1,0 +1,11 @@
+{
+  "name": "futu-api",
+  "version": "10.2.6208",
+  "summary": "Futu Quantitative Trading API",
+  "author": "Futu, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/FutunnOpen/py-futu-api",
+  "download_filename": "futu_api-10.2.6208.tar.gz",
+  "download_time": "2026-03-26T08:15:41.313121",
+  "package_url": "https://pypi.org/project/futu-api/"
+}

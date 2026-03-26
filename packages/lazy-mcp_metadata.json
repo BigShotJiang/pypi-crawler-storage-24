@@ -1,11 +1,11 @@
 {
   "name": "lazy-mcp",
-  "version": "2.1.21",
+  "version": "2.2.4",
   "summary": "A proxy tool that converts normal MCP servers to use lazy-loading pattern with meta-tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lazy_mcp-2.1.21.tar.gz",
-  "download_time": "2026-03-19T14:10:03.077183",
+  "download_filename": "lazy_mcp-2.2.4.tar.gz",
+  "download_time": "2026-03-26T08:15:40.226557",
   "package_url": "https://pypi.org/project/lazy-mcp/"
 }

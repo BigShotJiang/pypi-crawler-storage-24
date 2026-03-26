@@ -1,0 +1,11 @@
+{
+  "name": "gw-cli",
+  "version": "0.12.10",
+  "summary": "Git Worktree Workspace Orchestrator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gw_cli-0.12.10.tar.gz",
+  "download_time": "2026-03-26T08:15:23.443704",
+  "package_url": "https://pypi.org/project/gw-cli/"
+}
