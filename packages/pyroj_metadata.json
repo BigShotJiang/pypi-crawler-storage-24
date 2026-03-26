@@ -1,11 +1,11 @@
 {
   "name": "pyroj",
-  "version": "1.2.1",
+  "version": "1.3.1",
   "summary": "Kurdish solar calendar and conversions (Gregorian, Persian/Jalali, tabular Islamic) using the Python standard library only.",
   "author": "Dolan Hêriş",
-  "license": "AGPL-3.0-only",
+  "license": null,
   "home_page": null,
-  "download_filename": "pyroj-1.2.1.tar.gz",
-  "download_time": "2026-03-24T06:01:54.587341",
+  "download_filename": "pyroj-1.3.1.tar.gz",
+  "download_time": "2026-03-26T06:06:09.436289",
   "package_url": "https://pypi.org/project/pyroj/"
 }

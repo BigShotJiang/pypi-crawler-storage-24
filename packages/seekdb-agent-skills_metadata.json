@@ -1,11 +1,11 @@
 {
   "name": "seekdb-agent-skills",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Install seekdb Agent Skills to various AI coding tools (Claude Code, GitHub Copilot, Codex, Cursor, etc.)",
   "author": "David Zhang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "seekdb_agent_skills-0.2.1.tar.gz",
-  "download_time": "2026-03-16T06:13:27.055529",
+  "download_filename": "seekdb_agent_skills-0.2.4.tar.gz",
+  "download_time": "2026-03-26T06:05:46.707549",
   "package_url": "https://pypi.org/project/seekdb-agent-skills/"
 }

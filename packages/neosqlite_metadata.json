@@ -1,11 +1,11 @@
 {
   "name": "neosqlite",
-  "version": "1.13.5",
+  "version": "1.13.9",
   "summary": "NoSQL for SQLite with PyMongo-like API",
   "author": "Chaiwat Suttipongsakul",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neosqlite-1.13.5.tar.gz",
-  "download_time": "2026-03-22T20:00:17.287495",
+  "download_filename": "neosqlite-1.13.9.tar.gz",
+  "download_time": "2026-03-26T06:05:58.615705",
   "package_url": "https://pypi.org/project/neosqlite/"
 }

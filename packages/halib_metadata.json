@@ -1,11 +1,11 @@
 {
   "name": "halib",
-  "version": "0.2.45",
+  "version": "0.2.50",
   "summary": "Small library for common tasks",
   "author": "Hoang Van Ha",
   "license": null,
   "home_page": null,
-  "download_filename": "halib-0.2.45.tar.gz",
-  "download_time": "2026-03-19T10:38:31.858916",
+  "download_filename": "halib-0.2.50.tar.gz",
+  "download_time": "2026-03-26T06:05:39.371619",
   "package_url": "https://pypi.org/project/halib/"
 }

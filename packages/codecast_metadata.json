@@ -1,11 +1,11 @@
 {
   "name": "codecast",
-  "version": "0.2.17",
+  "version": "0.2.20",
   "summary": "Bot-based system to interact with Claude CLI on remote machines",
   "author": "Chivier Humber",
   "license": null,
   "home_page": null,
-  "download_filename": "codecast-0.2.17.tar.gz",
-  "download_time": "2026-03-20T11:35:54.219237",
+  "download_filename": "codecast-0.2.20.tar.gz",
+  "download_time": "2026-03-26T06:06:05.831971",
   "package_url": "https://pypi.org/project/codecast/"
 }

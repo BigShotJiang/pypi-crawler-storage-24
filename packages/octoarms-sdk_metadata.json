@@ -1,0 +1,11 @@
+{
+  "name": "octoarms-sdk",
+  "version": "0.1.1",
+  "summary": "Python collector SDK for Chainbase task runtime",
+  "author": "CoinSummer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "octoarms_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-26T06:05:56.547941",
+  "package_url": "https://pypi.org/project/octoarms-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autoupb",
+  "version": "1.0.0",
+  "summary": "A professional tool for U-Pb geochronology data processing.",
+  "author": "peng yu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoupb-1.0.0.tar.gz",
+  "download_time": "2026-03-26T06:06:01.184073",
+  "package_url": "https://pypi.org/project/autoupb/"
+}

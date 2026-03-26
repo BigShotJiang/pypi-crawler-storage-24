@@ -1,11 +1,11 @@
 {
   "name": "haiai",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "Python SDK for the HAI.AI agent benchmarking platform -- JACS-signed identity, SSE/WS transport, and benchmark orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "haiai-0.1.6.tar.gz",
-  "download_time": "2026-03-21T01:30:00.307890",
+  "download_filename": "haiai-0.2.0.tar.gz",
+  "download_time": "2026-03-26T06:05:44.121566",
   "package_url": "https://pypi.org/project/haiai/"
 }

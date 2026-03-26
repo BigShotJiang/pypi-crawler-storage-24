@@ -1,0 +1,11 @@
+{
+  "name": "tcptune",
+  "version": "1.1.0",
+  "summary": "Tune Linux TCP/sysctl, detect bottlenecks, adjust buffers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tcptune-1.1.0.tar.gz",
+  "download_time": "2026-03-26T06:06:17.698701",
+  "package_url": "https://pypi.org/project/tcptune/"
+}

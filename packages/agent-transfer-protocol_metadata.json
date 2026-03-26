@@ -1,0 +1,11 @@
+{
+  "name": "agent-transfer-protocol",
+  "version": "1.0.0a3",
+  "summary": "Agent Transfer Protocol (ATP): secure agent-to-agent communication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_transfer_protocol-1.0.0a3.tar.gz",
+  "download_time": "2026-03-26T06:05:44.644840",
+  "package_url": "https://pypi.org/project/agent-transfer-protocol/"
+}

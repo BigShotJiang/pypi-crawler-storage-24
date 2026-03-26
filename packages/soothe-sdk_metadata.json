@@ -1,0 +1,11 @@
+{
+  "name": "soothe-sdk",
+  "version": "0.1.1",
+  "summary": "SDK for building Soothe plugins with decorator-based API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "soothe_sdk-0.1.1.tar.gz",
+  "download_time": "2026-03-26T06:05:48.762459",
+  "package_url": "https://pypi.org/project/soothe-sdk/"
+}

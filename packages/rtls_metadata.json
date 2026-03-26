@@ -1,0 +1,11 @@
+{
+  "name": "rtls",
+  "version": "2026.3.26",
+  "summary": "A drop-in replacement for Python's ssl module, backed by rustls",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/jawah/rtls",
+  "download_filename": "rtls-2026.3.26.tar.gz",
+  "download_time": "2026-03-26T06:05:49.335681",
+  "package_url": "https://pypi.org/project/rtls/"
+}

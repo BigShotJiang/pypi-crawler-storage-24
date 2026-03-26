@@ -1,11 +1,11 @@
 {
   "name": "sessionfs",
-  "version": "0.4.0",
+  "version": "0.8.0",
   "summary": "Capture, sync, and resume AI coding sessions across 8 tools — Claude Code, Codex, Gemini, Copilot, Cursor, Amp, Cline, and Roo Code.",
   "author": "SessionFS Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sessionfs-0.4.0.tar.gz",
-  "download_time": "2026-03-24T23:33:36.049099",
+  "download_filename": "sessionfs-0.8.0.tar.gz",
+  "download_time": "2026-03-26T06:05:52.925726",
   "package_url": "https://pypi.org/project/sessionfs/"
 }

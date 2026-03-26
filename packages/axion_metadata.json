@@ -1,11 +1,11 @@
 {
   "name": "axion",
-  "version": "4.6.2",
+  "version": "4.6.4",
   "summary": "project description",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axion-4.6.2-cp312-abi3-macosx_10_13_universal2.whl",
-  "download_time": "2026-03-26T04:37:01.058217",
+  "download_filename": "axion-4.6.4-cp312-abi3-macosx_10_13_universal2.whl",
+  "download_time": "2026-03-26T06:06:11.497011",
   "package_url": "https://pypi.org/project/axion/"
 }
