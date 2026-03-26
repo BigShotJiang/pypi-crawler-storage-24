@@ -1,0 +1,11 @@
+{
+  "name": "k8smith",
+  "version": "0.6.0",
+  "summary": "A transparent, lightweight Kubernetes manifest generator",
+  "author": "Pavel Eliminyro (eliminyro)",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "k8smith-0.6.0.tar.gz",
+  "download_time": "2026-03-26T11:19:06.662140",
+  "package_url": "https://pypi.org/project/k8smith/"
+}

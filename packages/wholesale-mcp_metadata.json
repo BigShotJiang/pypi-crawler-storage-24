@@ -1,11 +1,11 @@
 {
   "name": "wholesale-mcp",
-  "version": "1.6.7",
+  "version": "1.7.0",
   "summary": "MCP server for wholesale pharmacy site automation - login, search, cart, sales ledger",
   "author": "symphonyno10",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wholesale_mcp-1.6.7.tar.gz",
-  "download_time": "2026-03-26T07:14:12.531893",
+  "download_filename": "wholesale_mcp-1.7.0.tar.gz",
+  "download_time": "2026-03-26T11:19:13.954809",
   "package_url": "https://pypi.org/project/wholesale-mcp/"
 }

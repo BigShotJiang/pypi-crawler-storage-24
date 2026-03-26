@@ -1,0 +1,11 @@
+{
+  "name": "yhttp-mako",
+  "version": "1.0.0",
+  "summary": "A very micro http framework.",
+  "author": "Vahid Mardani",
+  "license": "MIT",
+  "home_page": "http://github.com/yhttp/yhttp-mako",
+  "download_filename": "yhttp_mako-1.0.0.tar.gz",
+  "download_time": "2026-03-26T11:19:12.881784",
+  "package_url": "https://pypi.org/project/yhttp-mako/"
+}
