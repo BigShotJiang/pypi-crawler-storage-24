@@ -1,11 +1,11 @@
 {
   "name": "syntactical",
-  "version": "3.4.0",
+  "version": "4.0.1",
   "summary": "The Syntactical programming language's compiler and runner.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syntactical-3.4.0.tar.gz",
-  "download_time": "2026-03-15T22:57:01.141010",
+  "download_filename": "syntactical-4.0.1.tar.gz",
+  "download_time": "2026-03-26T23:34:47.137896",
   "package_url": "https://pypi.org/project/syntactical/"
 }

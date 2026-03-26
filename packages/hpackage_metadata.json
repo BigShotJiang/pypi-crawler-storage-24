@@ -1,11 +1,11 @@
 {
   "name": "hpackage",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "Houdini package manager command-line tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hpackage-0.4.5.tar.gz",
-  "download_time": "2026-03-26T21:36:58.441759",
+  "download_filename": "hpackage-0.4.6.tar.gz",
+  "download_time": "2026-03-26T23:34:43.052121",
   "package_url": "https://pypi.org/project/hpackage/"
 }

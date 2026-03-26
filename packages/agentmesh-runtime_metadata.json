@@ -1,11 +1,11 @@
 {
   "name": "agentmesh-runtime",
-  "version": "2.3.0",
-  "summary": "Community Edition — AgentMesh Runtime: Execution supervisor for multi-agent sessions with privilege rings, saga orchestration, and audit trails",
+  "version": "3.0.0",
+  "summary": "Public Preview — AgentMesh Runtime: Execution supervisor for multi-agent sessions with privilege rings, saga orchestration, and audit trails",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentmesh_runtime-2.3.0.tar.gz",
-  "download_time": "2026-03-26T04:37:21.894427",
+  "download_filename": "agentmesh_runtime-3.0.0.tar.gz",
+  "download_time": "2026-03-26T23:35:08.003455",
   "package_url": "https://pypi.org/project/agentmesh-runtime/"
 }

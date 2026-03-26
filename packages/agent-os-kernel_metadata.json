@@ -1,11 +1,11 @@
 {
   "name": "agent-os-kernel",
-  "version": "2.3.0",
-  "summary": "Community Edition — A kernel architecture for governing autonomous AI agents with Nexus Trust Exchange",
+  "version": "3.0.0",
+  "summary": "Public Preview — A kernel architecture for governing autonomous AI agents with Nexus Trust Exchange",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_os_kernel-2.3.0.tar.gz",
-  "download_time": "2026-03-26T04:37:25.121281",
+  "download_filename": "agent_os_kernel-3.0.0.tar.gz",
+  "download_time": "2026-03-26T23:35:09.621569",
   "package_url": "https://pypi.org/project/agent-os-kernel/"
 }

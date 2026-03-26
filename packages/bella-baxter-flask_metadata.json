@@ -1,11 +1,11 @@
 {
   "name": "bella-baxter-flask",
-  "version": "0.1.1rc24",
+  "version": "0.1.1rc25",
   "summary": "Flask integration for the Bella Baxter secret management SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bella_baxter_flask-0.1.1rc24.tar.gz",
-  "download_time": "2026-03-26T20:59:25.808964",
+  "download_filename": "bella_baxter_flask-0.1.1rc25.tar.gz",
+  "download_time": "2026-03-26T23:34:37.812059",
   "package_url": "https://pypi.org/project/bella-baxter-flask/"
 }

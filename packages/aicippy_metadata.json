@@ -1,11 +1,11 @@
 {
   "name": "aicippy",
-  "version": "3.5.8",
+  "version": "3.5.10",
   "summary": "Enterprise-grade multi-agent CLI for Vibe Coding",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aicippy-3.5.8.tar.gz",
-  "download_time": "2026-03-26T23:02:41.730611",
+  "download_filename": "aicippy-3.5.10.tar.gz",
+  "download_time": "2026-03-26T23:34:49.690879",
   "package_url": "https://pypi.org/project/aicippy/"
 }

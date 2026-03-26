@@ -1,11 +1,11 @@
 {
   "name": "markdown-os",
-  "version": "0.7.1",
+  "version": "0.9.6",
   "summary": "Developer-focused markdown editor served from a local CLI.",
   "author": "Elena Cabrera",
   "license": null,
   "home_page": null,
-  "download_filename": "markdown_os-0.7.1.tar.gz",
-  "download_time": "2026-03-18T09:33:11.627937",
+  "download_filename": "markdown_os-0.9.6-py3-none-any.whl",
+  "download_time": "2026-03-26T23:35:11.557667",
   "package_url": "https://pypi.org/project/markdown-os/"
 }

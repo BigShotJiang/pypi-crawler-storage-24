@@ -1,11 +1,11 @@
 {
   "name": "fabric-automation-bundles",
-  "version": "0.5.1",
+  "version": "1.0.1",
   "summary": "Declarative project definitions for Microsoft Fabric",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fabric_automation_bundles-0.5.1.tar.gz",
-  "download_time": "2026-03-25T14:29:46.192887",
+  "download_filename": "fabric_automation_bundles-1.0.1.tar.gz",
+  "download_time": "2026-03-26T23:34:42.541670",
   "package_url": "https://pypi.org/project/fabric-automation-bundles/"
 }

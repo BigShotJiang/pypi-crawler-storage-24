@@ -1,11 +1,11 @@
 {
   "name": "accelforge",
-  "version": "1.0.252",
+  "version": "1.0.291",
   "summary": "AccelForge",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "accelforge-1.0.252.tar.gz",
-  "download_time": "2026-03-17T22:56:39.980273",
+  "download_filename": "accelforge-1.0.291.tar.gz",
+  "download_time": "2026-03-26T23:35:00.807342",
   "package_url": "https://pypi.org/project/accelforge/"
 }

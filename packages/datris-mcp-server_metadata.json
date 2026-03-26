@@ -1,0 +1,11 @@
+{
+  "name": "datris-mcp-server",
+  "version": "1.4.1",
+  "summary": "MCP server for the Datris AI Agent-Native Data Platform",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datris_mcp_server-1.4.1.tar.gz",
+  "download_time": "2026-03-26T23:34:44.582783",
+  "package_url": "https://pypi.org/project/datris-mcp-server/"
+}

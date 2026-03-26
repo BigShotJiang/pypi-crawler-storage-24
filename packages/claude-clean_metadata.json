@@ -1,0 +1,11 @@
+{
+  "name": "claude-clean",
+  "version": "0.1.0",
+  "summary": "CLI for selectively purging Claude Code project data — history, settings, metadata, or everything at once.",
+  "author": "j-about",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_clean-0.1.0.tar.gz",
+  "download_time": "2026-03-26T23:34:35.586605",
+  "package_url": "https://pypi.org/project/claude-clean/"
+}

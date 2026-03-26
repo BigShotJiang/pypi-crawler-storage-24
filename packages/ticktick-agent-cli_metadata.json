@@ -1,0 +1,11 @@
+{
+  "name": "ticktick-agent-cli",
+  "version": "0.1.0",
+  "summary": "Agent-native CLI for TickTick task management — full API coverage via V1 + V2",
+  "author": "Oleksandr Tsepukh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ticktick_agent_cli-0.1.0.tar.gz",
+  "download_time": "2026-03-26T23:35:09.094438",
+  "package_url": "https://pypi.org/project/ticktick-agent-cli/"
+}

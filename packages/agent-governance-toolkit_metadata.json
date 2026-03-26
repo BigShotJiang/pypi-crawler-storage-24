@@ -1,11 +1,11 @@
 {
   "name": "agent-governance-toolkit",
-  "version": "2.3.0",
-  "summary": "Community Edition — Unified installer and runtime policy enforcement for the Agent Governance Toolkit",
+  "version": "3.0.0",
+  "summary": "Public Preview — Unified installer and runtime policy enforcement for the Agent Governance Toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_governance_toolkit-2.3.0.tar.gz",
-  "download_time": "2026-03-26T04:37:22.414913",
+  "download_filename": "agent_governance_toolkit-3.0.0.tar.gz",
+  "download_time": "2026-03-26T23:35:12.067017",
   "package_url": "https://pypi.org/project/agent-governance-toolkit/"
 }

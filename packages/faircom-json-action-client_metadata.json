@@ -1,0 +1,11 @@
+{
+  "name": "faircom-json-action-client",
+  "version": "0.0.4",
+  "summary": "A helper client for FairCom JSON Action API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faircom_json_action_client-0.0.4.tar.gz",
+  "download_time": "2026-03-26T23:34:35.015838",
+  "package_url": "https://pypi.org/project/faircom-json-action-client/"
+}
