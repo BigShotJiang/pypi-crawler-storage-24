@@ -1,11 +1,11 @@
 {
   "name": "dbqm",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Multi-database interactive query tool with fullscreen TUI",
   "author": "Ricardo",
   "license": null,
   "home_page": null,
-  "download_filename": "dbqm-1.4.0.tar.gz",
-  "download_time": "2026-03-26T16:18:43.945737",
+  "download_filename": "dbqm-1.5.0.tar.gz",
+  "download_time": "2026-03-26T17:34:08.964478",
   "package_url": "https://pypi.org/project/dbqm/"
 }

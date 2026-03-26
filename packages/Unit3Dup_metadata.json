@@ -1,11 +1,11 @@
 {
   "name": "Unit3Dup",
-  "version": "0.9.12",
+  "version": "0.9.14",
   "summary": "An uploader for the Unit3D torrent tracker",
   "author": "Parzival",
   "license": null,
   "home_page": null,
-  "download_filename": "unit3dup-0.9.12.tar.gz",
-  "download_time": "2026-03-24T18:44:59.555331",
+  "download_filename": "unit3dup-0.9.14.tar.gz",
+  "download_time": "2026-03-26T17:33:46.929512",
   "package_url": "https://pypi.org/project/Unit3Dup/"
 }

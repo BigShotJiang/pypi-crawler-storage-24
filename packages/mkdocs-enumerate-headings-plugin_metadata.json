@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-enumerate-headings-plugin",
+  "version": "0.7.0",
+  "summary": "MkDocs Plugin to enumerate the headings (h1-h6) across site pages",
+  "author": "timvink",
+  "license": "MIT",
+  "home_page": "https://github.com/timvink/mkdocs-enumerate-headings-plugin.git",
+  "download_filename": "mkdocs_enumerate_headings_plugin-0.7.0.tar.gz",
+  "download_time": "2026-03-26T17:33:42.742110",
+  "package_url": "https://pypi.org/project/mkdocs-enumerate-headings-plugin/"
+}
