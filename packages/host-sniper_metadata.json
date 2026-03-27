@@ -1,0 +1,11 @@
+{
+  "name": "host-sniper",
+  "version": "0.1.2",
+  "summary": "Combined security scanning and reconnaissance tool",
+  "author": "malwaredot",
+  "license": "MIT",
+  "home_page": "https://github.com/malwaredot/host-sniper",
+  "download_filename": "host_sniper-0.1.2.tar.gz",
+  "download_time": "2026-03-27T12:59:49.198893",
+  "package_url": "https://pypi.org/project/host-sniper/"
+}

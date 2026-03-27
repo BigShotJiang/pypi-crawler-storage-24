@@ -1,11 +1,11 @@
 {
   "name": "chain-listener",
-  "version": "0.2.3",
+  "version": "0.2.9",
   "summary": "Universal multi-chain distributed blockchain listener SDK",
   "author": "Chain Listener Team",
   "license": "MIT",
   "home_page": "https://github.com/chain-listener/chain-listener",
-  "download_filename": "chain_listener-0.2.3.tar.gz",
-  "download_time": "2026-03-23T04:30:34.408580",
+  "download_filename": "chain_listener-0.2.9.tar.gz",
+  "download_time": "2026-03-27T12:59:54.855546",
   "package_url": "https://pypi.org/project/chain-listener/"
 }

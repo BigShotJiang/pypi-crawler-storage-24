@@ -1,11 +1,11 @@
 {
   "name": "hive-builder",
-  "version": "3.9.10",
+  "version": "3.9.11",
   "summary": "Building docker swarm environment",
   "author": "Mitsuru Nakakawaj",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hive_builder-3.9.10.tar.gz",
-  "download_time": "2026-03-25T01:52:14.088570",
+  "download_filename": "hive_builder-3.9.11.tar.gz",
+  "download_time": "2026-03-27T12:59:06.989673",
   "package_url": "https://pypi.org/project/hive-builder/"
 }

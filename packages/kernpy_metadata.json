@@ -1,0 +1,11 @@
+{
+  "name": "kernpy",
+  "version": "1.6.2",
+  "summary": "Python Humdrum **kern and **mens utilities",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "kernpy-1.6.2.tar.gz",
+  "download_time": "2026-03-27T12:59:15.443196",
+  "package_url": "https://pypi.org/project/kernpy/"
+}

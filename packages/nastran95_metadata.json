@@ -1,0 +1,11 @@
+{
+  "name": "nastran95",
+  "version": "0.2",
+  "summary": "NASTRAN-95 finite element analysis with Python wrapper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nastran95-0.2.tar.gz",
+  "download_time": "2026-03-27T12:59:38.855742",
+  "package_url": "https://pypi.org/project/nastran95/"
+}

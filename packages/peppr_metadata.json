@@ -1,0 +1,11 @@
+{
+  "name": "peppr",
+  "version": "0.13.1",
+  "summary": "It's a package for evaluation of predicted poses, right?",
+  "author": "The pepp'r contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peppr-0.13.1.tar.gz",
+  "download_time": "2026-03-27T12:59:08.030794",
+  "package_url": "https://pypi.org/project/peppr/"
+}

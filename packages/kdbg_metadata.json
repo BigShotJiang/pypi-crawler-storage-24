@@ -1,0 +1,11 @@
+{
+  "name": "kdbg",
+  "version": "0.4.0",
+  "summary": "Interactive CLI to launch privileged debug containers against running Kubernetes pods.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdbg-0.4.0.tar.gz",
+  "download_time": "2026-03-27T12:59:29.042902",
+  "package_url": "https://pypi.org/project/kdbg/"
+}

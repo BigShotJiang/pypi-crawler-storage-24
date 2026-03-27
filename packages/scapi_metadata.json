@@ -1,0 +1,11 @@
+{
+  "name": "scapi",
+  "version": "3.2.2",
+  "summary": "非同期なScratchAPIモジュール",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scapi-3.2.2.tar.gz",
+  "download_time": "2026-03-27T12:59:19.049840",
+  "package_url": "https://pypi.org/project/scapi/"
+}

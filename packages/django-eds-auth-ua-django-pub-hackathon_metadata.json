@@ -1,0 +1,11 @@
+{
+  "name": "django-eds-auth-ua-django-pub-hackathon",
+  "version": "0.1.2",
+  "summary": "Django authentication backend using DSTU 4145 electronic digital signature",
+  "author": "Selector0073, Mov4un72, Nanochka",
+  "license": "MIT",
+  "home_page": "https://github.com/Selector0073/Hackathon2026",
+  "download_filename": "django_eds_auth_ua_django_pub_hackathon-0.1.2.tar.gz",
+  "download_time": "2026-03-27T12:59:39.368049",
+  "package_url": "https://pypi.org/project/django-eds-auth-ua-django-pub-hackathon/"
+}

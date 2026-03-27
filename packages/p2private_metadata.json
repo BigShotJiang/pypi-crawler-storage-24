@@ -1,0 +1,11 @@
+{
+  "name": "p2private",
+  "version": "1.0.4",
+  "summary": "Python to Private Executable Converter - Encrypt Python scripts to standalone executables",
+  "author": "addy",
+  "license": "MIT",
+  "home_page": "https://github.com/pooraddy/p2private",
+  "download_filename": "p2private-1.0.4.tar.gz",
+  "download_time": "2026-03-27T12:59:13.318692",
+  "package_url": "https://pypi.org/project/p2private/"
+}

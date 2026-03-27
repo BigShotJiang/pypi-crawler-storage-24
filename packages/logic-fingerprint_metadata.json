@@ -1,0 +1,11 @@
+{
+  "name": "logic-fingerprint",
+  "version": "0.1.0",
+  "summary": "Execution safety layer for functions, APIs, and LLMs.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logic_fingerprint-0.1.0.tar.gz",
+  "download_time": "2026-03-27T12:59:52.270683",
+  "package_url": "https://pypi.org/project/logic-fingerprint/"
+}

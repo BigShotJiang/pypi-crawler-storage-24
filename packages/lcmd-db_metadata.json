@@ -1,0 +1,11 @@
+{
+  "name": "lcmd-db",
+  "version": "0.3.2",
+  "summary": "Python client for the LCMD molecular database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lcmd_db-0.3.2.tar.gz",
+  "download_time": "2026-03-27T12:59:51.758014",
+  "package_url": "https://pypi.org/project/lcmd-db/"
+}

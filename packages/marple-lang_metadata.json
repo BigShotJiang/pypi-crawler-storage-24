@@ -1,11 +1,11 @@
 {
   "name": "marple-lang",
-  "version": "0.4.0",
+  "version": "0.4.14",
   "summary": "Mini APL in Python Language Experiment. Uses numpy arrays with Python list fallback.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "marple_lang-0.4.0.tar.gz",
-  "download_time": "2026-03-23T15:22:45.511261",
+  "download_filename": "marple_lang-0.4.14.tar.gz",
+  "download_time": "2026-03-27T12:59:52.785512",
   "package_url": "https://pypi.org/project/marple-lang/"
 }

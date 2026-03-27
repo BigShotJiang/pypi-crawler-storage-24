@@ -1,0 +1,11 @@
+{
+  "name": "mirelo-sdk",
+  "version": "1.0.0",
+  "summary": "Official Mirelo API SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mirelo_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-27T12:59:47.632781",
+  "package_url": "https://pypi.org/project/mirelo-sdk/"
+}
