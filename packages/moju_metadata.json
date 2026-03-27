@@ -1,11 +1,11 @@
 {
   "name": "moju",
-  "version": "0.4.0",
-  "summary": "Supervised Physics scaling and modeling for SciML.",
+  "version": "0.6.0",
+  "summary": "Physics-informed machine learning framework for enforcing governing equations, and auditing physical consistency across PINNs, CFD surrogates, and other state predictors",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moju-0.4.0.tar.gz",
-  "download_time": "2026-03-19T05:51:17.435143",
+  "download_filename": "moju-0.6.0.tar.gz",
+  "download_time": "2026-03-27T06:15:26.800281",
   "package_url": "https://pypi.org/project/moju/"
 }

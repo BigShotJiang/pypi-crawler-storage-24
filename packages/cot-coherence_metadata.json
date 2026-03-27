@@ -1,0 +1,11 @@
+{
+  "name": "cot-coherence",
+  "version": "0.2.0",
+  "summary": "Detect silent incoherence in AI chain-of-thought reasoning",
+  "author": "Richmond Owusu Duah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cot_coherence-0.2.0.tar.gz",
+  "download_time": "2026-03-27T06:15:01.312920",
+  "package_url": "https://pypi.org/project/cot-coherence/"
+}

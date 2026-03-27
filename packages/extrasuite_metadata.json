@@ -1,0 +1,11 @@
+{
+  "name": "extrasuite",
+  "version": "0.8.1",
+  "summary": "Client library for ExtraSuite - secure OAuth token exchange for CLI tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "extrasuite-0.8.1.tar.gz",
+  "download_time": "2026-03-27T06:14:56.661032",
+  "package_url": "https://pypi.org/project/extrasuite/"
+}

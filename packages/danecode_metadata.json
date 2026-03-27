@@ -1,0 +1,11 @@
+{
+  "name": "danecode",
+  "version": "0.3.0",
+  "summary": "A simple util to get dane codes by department and municipality",
+  "author": "santiagofep",
+  "license": null,
+  "home_page": null,
+  "download_filename": "danecode-0.3.0.tar.gz",
+  "download_time": "2026-03-27T06:15:31.496781",
+  "package_url": "https://pypi.org/project/danecode/"
+}

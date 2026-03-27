@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-pari-seadata",
+  "version": "10.8.2",
+  "summary": "passagemath: Computational Number Theory with PARI/GP: Galois group data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_pari_seadata-10.8.2.tar.gz",
+  "download_time": "2026-03-27T06:15:19.273442",
+  "package_url": "https://pypi.org/project/passagemath-pari-seadata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "token-metrics",
+  "version": "0.1.0",
+  "summary": "A simple token utilization tracking library for LLM APIs",
+  "author": "Monica P",
+  "license": null,
+  "home_page": null,
+  "download_filename": "token_metrics-0.1.0.tar.gz",
+  "download_time": "2026-03-27T06:15:04.528850",
+  "package_url": "https://pypi.org/project/token-metrics/"
+}

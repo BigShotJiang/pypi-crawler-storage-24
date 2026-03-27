@@ -1,0 +1,11 @@
+{
+  "name": "odoo-mcp-multi",
+  "version": "0.3.21",
+  "summary": "MCP Server for connecting Claude/Cursor to multiple Odoo instances",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "odoo_mcp_multi-0.3.21.tar.gz",
+  "download_time": "2026-03-27T06:15:11.490013",
+  "package_url": "https://pypi.org/project/odoo-mcp-multi/"
+}
