@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-component",
+  "version": "18.0.1.0.1",
+  "summary": "Add capabilities to register and use decoupled components, as an alternative to model classes",
+  "author": "Camptocamp,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/connector",
+  "download_filename": "odoo_addon_component-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-27T07:42:05.703753",
+  "package_url": "https://pypi.org/project/odoo-addon-component/"
+}

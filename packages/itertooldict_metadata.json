@@ -1,11 +1,11 @@
 {
   "name": "itertooldict",
-  "version": "0.1.2",
+  "version": "0.3.2",
   "summary": "A missing feature of itertools: labeled product of multiple choices from a dictionary.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "itertooldict-0.1.2.tar.gz",
-  "download_time": "2026-03-09T05:45:45.298128",
+  "download_filename": "itertooldict-0.3.2.tar.gz",
+  "download_time": "2026-03-27T07:42:26.049724",
   "package_url": "https://pypi.org/project/itertooldict/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xiaoshiai-hub",
+  "version": "1.2.2",
+  "summary": "Python SDK for XiaoShi AI Hub - Upload, download, and manage AI models and datasets with xpai-enc encryption support",
+  "author": "XiaoShi AI",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/poxiaoyun/moha-sdk",
+  "download_filename": "xiaoshiai_hub-1.2.2.tar.gz",
+  "download_time": "2026-03-27T07:41:58.408034",
+  "package_url": "https://pypi.org/project/xiaoshiai-hub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "symbolic-alpine",
+  "version": "8.0.4",
+  "summary": "Symbolic library for Alpine Linux - A python library for dealing with symbol files and more.",
+  "author": "tekintian",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "symbolic_alpine-8.0.4.tar.gz",
+  "download_time": "2026-03-27T07:42:30.271360",
+  "package_url": "https://pypi.org/project/symbolic-alpine/"
+}

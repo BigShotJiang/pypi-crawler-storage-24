@@ -1,11 +1,11 @@
 {
   "name": "churnkit",
-  "version": "0.99.7a9",
+  "version": "0.99.8a1",
   "summary": "Structured ML framework for customer churn prediction -- from exploration notebooks to production pipelines, locally or on Databricks.",
   "author": "Customer Retention Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "churnkit-0.99.7a9.tar.gz",
-  "download_time": "2026-03-27T06:15:44.354917",
+  "download_filename": "churnkit-0.99.8a1.tar.gz",
+  "download_time": "2026-03-27T07:41:58.938820",
   "package_url": "https://pypi.org/project/churnkit/"
 }

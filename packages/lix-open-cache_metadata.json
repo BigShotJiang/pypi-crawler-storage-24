@@ -1,0 +1,11 @@
+{
+  "name": "lix-open-cache",
+  "version": "2.1.6",
+  "summary": "Multi-layer Redis caching + Huffman disk archival for conversational AI — session memory, semantic deduplication, and compressed storage",
+  "author": "Ayushman Bhattacharya",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lix_open_cache-2.1.6.tar.gz",
+  "download_time": "2026-03-27T07:42:28.638044",
+  "package_url": "https://pypi.org/project/lix-open-cache/"
+}

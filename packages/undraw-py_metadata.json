@@ -1,11 +1,11 @@
 {
   "name": "undraw-py",
-  "version": "1.0.27",
+  "version": "1.0.31",
   "summary": "A minimalist CLI for unDraw illustrations (Python port)",
   "author": null,
   "license": "Unlicense",
   "home_page": null,
-  "download_filename": "undraw_py-1.0.27.tar.gz",
-  "download_time": "2026-03-26T22:29:28.293207",
+  "download_filename": "undraw_py-1.0.31.tar.gz",
+  "download_time": "2026-03-27T07:42:01.025535",
   "package_url": "https://pypi.org/project/undraw-py/"
 }

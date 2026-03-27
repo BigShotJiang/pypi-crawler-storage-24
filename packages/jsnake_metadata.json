@@ -1,0 +1,11 @@
+{
+  "name": "jsnake",
+  "version": "0.1.0",
+  "summary": "A professional-grade CLI Snake game built with Textual",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsnake-0.1.0.tar.gz",
+  "download_time": "2026-03-27T07:41:45.757531",
+  "package_url": "https://pypi.org/project/jsnake/"
+}

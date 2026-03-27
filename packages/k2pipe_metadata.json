@@ -1,11 +1,11 @@
 {
   "name": "k2pipe",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "k2pipe",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "k2pipe-0.3.1.tar.gz",
-  "download_time": "2026-03-27T04:49:09.351784",
+  "download_filename": "k2pipe-0.3.3.tar.gz",
+  "download_time": "2026-03-27T07:41:46.880851",
   "package_url": "https://pypi.org/project/k2pipe/"
 }

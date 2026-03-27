@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-ai-news",
+  "version": "0.1.1",
+  "summary": "NoneBot2 plugin that collects AI news (models, tools, tech) from RSS feeds and pushes to subscribed groups on schedule.",
+  "author": "hacchiroku",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_ai_news-0.1.1.tar.gz",
+  "download_time": "2026-03-27T07:41:57.888437",
+  "package_url": "https://pypi.org/project/nonebot-plugin-ai-news/"
+}

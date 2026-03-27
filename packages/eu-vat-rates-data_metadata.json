@@ -1,0 +1,11 @@
+{
+  "name": "eu-vat-rates-data",
+  "version": "2026.3.27",
+  "summary": "VAT rates for 44 European countries — EU-27 plus Norway, Switzerland, UK, and more. Updated daily from EC TEDB, published automatically when rates change.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eu_vat_rates_data-2026.3.27.tar.gz",
+  "download_time": "2026-03-27T07:42:15.635593",
+  "package_url": "https://pypi.org/project/eu-vat-rates-data/"
+}

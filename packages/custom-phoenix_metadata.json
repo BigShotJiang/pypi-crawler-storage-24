@@ -1,11 +1,11 @@
 {
   "name": "custom-phoenix",
-  "version": "13.15.0.dev21",
+  "version": "13.15.0.dev35",
   "summary": "AI Observability and Evaluation",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "custom_phoenix-13.15.0.dev21.tar.gz",
-  "download_time": "2026-03-23T08:14:47.369053",
+  "download_filename": "custom_phoenix-13.15.0.dev35.tar.gz",
+  "download_time": "2026-03-27T07:41:54.713139",
   "package_url": "https://pypi.org/project/custom-phoenix/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "headless-oracle-crewai",
+  "version": "1.0.0",
+  "summary": "CrewAI tools for Headless Oracle market state verification. SMA = Signed Market Attestation (not Simple Moving Average).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "headless_oracle_crewai-1.0.0.tar.gz",
+  "download_time": "2026-03-27T07:42:17.192131",
+  "package_url": "https://pypi.org/project/headless-oracle-crewai/"
+}
