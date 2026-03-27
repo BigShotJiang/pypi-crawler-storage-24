@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-unreserve-button",
+  "version": "18.0.1.0.0.3",
+  "summary": "Stock Picking Unreserve Button",
+  "author": "ForgeFlow,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-reservation",
+  "download_filename": "odoo_addon_stock_picking_unreserve_button-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-03-27T04:49:28.695160",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-unreserve-button/"
+}

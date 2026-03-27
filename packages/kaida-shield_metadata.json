@@ -1,11 +1,11 @@
 {
   "name": "kaida-shield",
-  "version": "0.3.3",
+  "version": "0.3.7",
   "summary": "The secure runtime for AI agents",
   "author": "Kaida Security",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kaida_shield-0.3.3-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-18T01:51:03.474939",
+  "download_filename": "kaida_shield-0.3.7-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-27T04:48:52.088059",
   "package_url": "https://pypi.org/project/kaida-shield/"
 }

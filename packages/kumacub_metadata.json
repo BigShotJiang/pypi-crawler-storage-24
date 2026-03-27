@@ -1,11 +1,11 @@
 {
   "name": "kumacub",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "Run local Nagios-compatible checks; push results to Uptime Kuma",
   "author": "Steve Jibson",
   "license": null,
   "home_page": null,
-  "download_filename": "kumacub-0.6.1.tar.gz",
-  "download_time": "2026-03-21T09:01:28.098014",
+  "download_filename": "kumacub-0.7.0.tar.gz",
+  "download_time": "2026-03-27T04:48:49.367053",
   "package_url": "https://pypi.org/project/kumacub/"
 }

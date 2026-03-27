@@ -1,0 +1,11 @@
+{
+  "name": "egune",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the Egune LLM API Gateway",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "egune-1.0.0.tar.gz",
+  "download_time": "2026-03-27T04:49:05.554198",
+  "package_url": "https://pypi.org/project/egune/"
+}

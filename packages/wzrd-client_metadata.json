@@ -1,11 +1,11 @@
 {
   "name": "wzrd-client",
-  "version": "0.5.8",
+  "version": "1.2.0",
   "summary": "Python client for the WZRD velocity oracle. Reads AI model adoption signals from 4 platforms. Agents stream CCM on Solana by reporting picks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wzrd_client-0.5.8.tar.gz",
-  "download_time": "2026-03-23T22:33:20.389134",
+  "download_filename": "wzrd_client-1.2.0.tar.gz",
+  "download_time": "2026-03-27T04:48:51.535312",
   "package_url": "https://pypi.org/project/wzrd-client/"
 }

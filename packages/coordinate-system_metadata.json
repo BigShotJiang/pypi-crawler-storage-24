@@ -1,11 +1,11 @@
 {
   "name": "coordinate-system",
-  "version": "11.0.0",
+  "version": "12.0.0",
   "summary": "High-performance 3D coordinate system, differential geometry, and CFUT topological physics library with universal validation framework",
   "author": "Pan Guojun",
   "license": "MIT",
   "home_page": "https://github.com/panguojun/Coordinate-System",
-  "download_filename": "coordinate_system-11.0.0.tar.gz",
-  "download_time": "2026-03-23T07:08:54.458043",
+  "download_filename": "coordinate_system-12.0.0.tar.gz",
+  "download_time": "2026-03-27T04:48:47.761259",
   "package_url": "https://pypi.org/project/coordinate-system/"
 }

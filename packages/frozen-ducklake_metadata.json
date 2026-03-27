@@ -1,11 +1,11 @@
 {
   "name": "frozen-ducklake",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Frozen Data Lake - DuckLake catalog management CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frozen_ducklake-0.3.0.tar.gz",
-  "download_time": "2026-03-26T09:20:47.524373",
+  "download_filename": "frozen_ducklake-0.4.0.tar.gz",
+  "download_time": "2026-03-27T04:49:22.204304",
   "package_url": "https://pypi.org/project/frozen-ducklake/"
 }

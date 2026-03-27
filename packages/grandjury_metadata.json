@@ -1,11 +1,11 @@
 {
   "name": "grandjury",
-  "version": "1.2.0",
+  "version": "2.1.1",
   "summary": "GrandJury SDK — submit LLM traces for human evaluation + analytics client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "grandjury-1.2.0.tar.gz",
-  "download_time": "2026-03-23T17:17:02.460287",
+  "download_filename": "grandjury-2.1.1.tar.gz",
+  "download_time": "2026-03-27T04:49:10.945119",
   "package_url": "https://pypi.org/project/grandjury/"
 }

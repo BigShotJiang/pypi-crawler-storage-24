@@ -1,0 +1,11 @@
+{
+  "name": "trammel",
+  "version": "3.8.1",
+  "summary": "Dependency-aware planning, incremental verification, and recipe memory for LLM-assisted coding (stdlib-only core).",
+  "author": "IronAdamant",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trammel-3.8.1.tar.gz",
+  "download_time": "2026-03-27T04:48:45.073525",
+  "package_url": "https://pypi.org/project/trammel/"
+}

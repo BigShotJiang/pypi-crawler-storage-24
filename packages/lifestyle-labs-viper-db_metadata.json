@@ -1,11 +1,11 @@
 {
   "name": "lifestyle-labs-viper-db",
-  "version": "0.3.0",
+  "version": "0.3.6",
   "summary": "Shared database layer for Viper services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lifestyle_labs_viper_db-0.3.0.tar.gz",
-  "download_time": "2026-03-23T04:30:39.268694",
+  "download_filename": "lifestyle_labs_viper_db-0.3.6.tar.gz",
+  "download_time": "2026-03-27T04:48:43.152479",
   "package_url": "https://pypi.org/project/lifestyle-labs-viper-db/"
 }

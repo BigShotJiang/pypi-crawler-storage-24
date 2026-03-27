@@ -1,11 +1,11 @@
 {
   "name": "pptagent",
-  "version": "1.1.26",
+  "version": "1.1.31",
   "summary": "An Agentic Framework for Reflective PowerPoint Generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pptagent-1.1.26.tar.gz",
-  "download_time": "2026-03-20T08:00:33.253166",
+  "download_filename": "pptagent-1.1.31.tar.gz",
+  "download_time": "2026-03-27T04:49:04.472704",
   "package_url": "https://pypi.org/project/pptagent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pipen-cli-require",
+  "version": "1.0.3",
+  "summary": "A pipen cli plugin to check requirements for processes of a pipeline",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipen_cli_require-1.0.3.tar.gz",
+  "download_time": "2026-03-27T04:48:59.592419",
+  "package_url": "https://pypi.org/project/pipen-cli-require/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lsystems-core",
+  "version": "0.1.2",
+  "summary": "A compositional L-system framework for generative structures and symbolic rewriting in Python.",
+  "author": "Jacob Vartuli-Schonberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsystems_core-0.1.2.tar.gz",
+  "download_time": "2026-03-27T04:49:09.883315",
+  "package_url": "https://pypi.org/project/lsystems-core/"
+}

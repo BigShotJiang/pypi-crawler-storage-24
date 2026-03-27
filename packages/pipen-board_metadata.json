@@ -1,0 +1,11 @@
+{
+  "name": "pipen-board",
+  "version": "1.1.2",
+  "summary": "Visualization configuration and running of pipen pipelines on the web",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipen_board-1.1.2.tar.gz",
+  "download_time": "2026-03-27T04:49:18.988154",
+  "package_url": "https://pypi.org/project/pipen-board/"
+}

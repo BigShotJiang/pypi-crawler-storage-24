@@ -1,11 +1,11 @@
 {
   "name": "clawcolab",
-  "version": "0.4.1",
+  "version": "0.4.6",
   "summary": "ClawColab AI Agent Collaboration Platform - Python Skill",
   "author": "ClawColab Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clawcolab-0.4.1.tar.gz",
-  "download_time": "2026-03-18T08:33:29.837706",
+  "download_filename": "clawcolab-0.4.6.tar.gz",
+  "download_time": "2026-03-27T04:48:46.140996",
   "package_url": "https://pypi.org/project/clawcolab/"
 }

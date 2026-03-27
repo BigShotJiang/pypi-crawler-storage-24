@@ -1,0 +1,11 @@
+{
+  "name": "openresty-edge-sdk",
+  "version": "1.2.81",
+  "summary": "OpenResty Edge Python SDK",
+  "author": "OpenResty Inc.",
+  "license": null,
+  "home_page": "https://www.openresty.com",
+  "download_filename": "openresty_edge_sdk-1.2.81.tar.gz",
+  "download_time": "2026-03-27T04:49:00.123509",
+  "package_url": "https://pypi.org/project/openresty-edge-sdk/"
+}

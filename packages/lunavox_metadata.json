@@ -1,0 +1,11 @@
+{
+  "name": "lunavox",
+  "version": "2.1.1",
+  "summary": "LunaVox tooling CLI for model setup, conversion, quantization, and build workflows.",
+  "author": "LunaVox Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lunavox-2.1.1.tar.gz",
+  "download_time": "2026-03-27T04:49:03.881582",
+  "package_url": "https://pypi.org/project/lunavox/"
+}
