@@ -1,11 +1,11 @@
 {
   "name": "cupel",
-  "version": "0.1.41",
+  "version": "0.1.45",
   "summary": "separates precious LLMs from base LLMs. works with any OpenAI/Anthropic compatible API",
   "author": "tolitius",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cupel-0.1.41.tar.gz",
-  "download_time": "2026-03-27T21:26:37.464567",
+  "download_filename": "cupel-0.1.45.tar.gz",
+  "download_time": "2026-03-27T22:04:53.793676",
   "package_url": "https://pypi.org/project/cupel/"
 }

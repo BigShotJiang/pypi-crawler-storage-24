@@ -1,11 +1,11 @@
 {
   "name": "theaios-trustgate",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "summary": "Black-box AI reliability certification via self-consistency sampling and conformal calibration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "theaios_trustgate-0.3.6.tar.gz",
-  "download_time": "2026-03-27T17:17:05.007623",
+  "download_filename": "theaios_trustgate-0.3.8.tar.gz",
+  "download_time": "2026-03-27T22:04:26.802273",
   "package_url": "https://pypi.org/project/theaios-trustgate/"
 }

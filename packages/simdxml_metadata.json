@@ -1,0 +1,11 @@
+{
+  "name": "simdxml",
+  "version": "0.3.0",
+  "summary": "SIMD-accelerated XML parser with full XPath 1.0 support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simdxml-0.3.0.tar.gz",
+  "download_time": "2026-03-27T22:04:56.441180",
+  "package_url": "https://pypi.org/project/simdxml/"
+}

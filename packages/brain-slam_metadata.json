@@ -1,0 +1,11 @@
+{
+  "name": "brain-slam",
+  "version": "0.1.1",
+  "summary": "Surface anaLysis And Modeling",
+  "author": "Guillaume Auzias",
+  "license": "MIT",
+  "home_page": "https://github.com/brain-slam/slam",
+  "download_filename": "brain_slam-0.1.1.tar.gz",
+  "download_time": "2026-03-27T22:04:19.744555",
+  "package_url": "https://pypi.org/project/brain-slam/"
+}

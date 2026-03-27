@@ -1,0 +1,11 @@
+{
+  "name": "levraiberet-discord-interactions",
+  "version": "0.2.1",
+  "summary": "Toolkit moderne pour discord.py: composants, containers V2 et modales Discord API",
+  "author": "levraiberet (Discord/GitHub: levraiberet)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "levraiberet_discord_interactions-0.2.1.tar.gz",
+  "download_time": "2026-03-27T22:04:45.538130",
+  "package_url": "https://pypi.org/project/levraiberet-discord-interactions/"
+}

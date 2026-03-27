@@ -1,11 +1,11 @@
 {
   "name": "ainb",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ainb-0.2.14.tar.gz",
-  "download_time": "2026-03-25T23:11:38.990036",
+  "download_filename": "ainb-0.2.15.tar.gz",
+  "download_time": "2026-03-27T22:04:47.072505",
   "package_url": "https://pypi.org/project/ainb/"
 }

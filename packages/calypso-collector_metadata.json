@@ -1,0 +1,11 @@
+{
+  "name": "calypso-collector",
+  "version": "1.0.2",
+  "summary": "Oracle database data collector - exports to DuckDB, JSON, and Parquet",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "calypso_collector-1.0.2.tar.gz",
+  "download_time": "2026-03-27T22:04:50.200057",
+  "package_url": "https://pypi.org/project/calypso-collector/"
+}

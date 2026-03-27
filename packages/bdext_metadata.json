@@ -1,11 +1,11 @@
 {
   "name": "bdext",
-  "version": "0.1.83",
+  "version": "0.1.85",
   "summary": "Estimation of BDEISS-CT parameters from phylogenetic trees.",
   "author": "Anna Zhukova",
   "license": null,
   "home_page": "https://github.com/modpath/bdeissct",
-  "download_filename": "bdext-0.1.83.tar.gz",
-  "download_time": "2026-03-26T21:37:07.962015",
+  "download_filename": "bdext-0.1.85.tar.gz",
+  "download_time": "2026-03-27T22:04:33.023680",
   "package_url": "https://pypi.org/project/bdext/"
 }

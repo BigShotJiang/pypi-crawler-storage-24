@@ -1,0 +1,11 @@
+{
+  "name": "mssm",
+  "version": "1.2.0",
+  "summary": "Toolbox for estimating Generalized Additive Mixed Models (GAMMs), Generalized Additive Mixed Models of Location Scale and Shape (GAMMLSS), and more general smooth models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mssm-1.2.0.tar.gz",
+  "download_time": "2026-03-27T22:04:48.143553",
+  "package_url": "https://pypi.org/project/mssm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "codeguard-pro",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Inline security gate for AI coding agents: secrets, supply chain, OWASP, and MiniMax-assisted deep analysis.",
   "author": "Miles",
   "license": null,
   "home_page": "https://github.com/Miles0sage/codeguard-mcp",
-  "download_filename": "codeguard_pro-0.3.3.tar.gz",
-  "download_time": "2026-03-27T21:26:47.939763",
+  "download_filename": "codeguard_pro-0.3.4.tar.gz",
+  "download_time": "2026-03-27T22:04:54.886901",
   "package_url": "https://pypi.org/project/codeguard-pro/"
 }

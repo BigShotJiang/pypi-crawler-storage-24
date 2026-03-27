@@ -1,0 +1,11 @@
+{
+  "name": "wpt-gen",
+  "version": "0.3.0",
+  "summary": "A CLI Tool for AI-Powered Web Platform Test Generation",
+  "author": "Google LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wpt_gen-0.3.0.tar.gz",
+  "download_time": "2026-03-27T22:04:52.761269",
+  "package_url": "https://pypi.org/project/wpt-gen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mds-exporter",
+  "version": "0.2.0",
+  "summary": "A CLI tool for bulk downloading from museum data service API with rich progress tracking.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mds_exporter-0.2.0.tar.gz",
+  "download_time": "2026-03-27T22:04:55.928181",
+  "package_url": "https://pypi.org/project/mds-exporter/"
+}
