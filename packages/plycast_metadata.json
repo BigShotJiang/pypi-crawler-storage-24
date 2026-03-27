@@ -1,0 +1,11 @@
+{
+  "name": "plycast",
+  "version": "0.1.0",
+  "summary": "Ingest text (txt/md/pdf/docx/images), translate, and synthesize audio.",
+  "author": "plycast contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plycast-0.1.0.tar.gz",
+  "download_time": "2026-03-27T21:26:43.753142",
+  "package_url": "https://pypi.org/project/plycast/"
+}

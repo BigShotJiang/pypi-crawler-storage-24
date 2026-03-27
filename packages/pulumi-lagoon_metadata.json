@@ -1,11 +1,11 @@
 {
   "name": "pulumi-lagoon",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Manage Lagoon hosting platform resources as infrastructure-as-code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pulumi_lagoon-0.2.6.tar.gz",
-  "download_time": "2026-03-26T23:02:40.176493",
+  "download_filename": "pulumi_lagoon-0.2.7.tar.gz",
+  "download_time": "2026-03-27T21:26:42.187271",
   "package_url": "https://pypi.org/project/pulumi-lagoon/"
 }

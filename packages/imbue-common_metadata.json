@@ -1,11 +1,11 @@
 {
   "name": "imbue-common",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Core libraries for Imbue projects",
   "author": "Imbue, Josh Albrecht",
   "license": null,
   "home_page": null,
-  "download_filename": "imbue_common-0.1.8.tar.gz",
-  "download_time": "2026-03-23T22:02:06.757668",
+  "download_filename": "imbue_common-0.1.9.tar.gz",
+  "download_time": "2026-03-27T21:26:36.937065",
   "package_url": "https://pypi.org/project/imbue-common/"
 }

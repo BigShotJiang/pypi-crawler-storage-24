@@ -1,11 +1,11 @@
 {
   "name": "clawed",
-  "version": "1.0.13",
+  "version": "2.0.0",
   "summary": "Claw-ED — personal AI teaching agent. Learns your voice, works while you sleep.",
   "author": "Jon Maccarello & Claw-ED contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "clawed-1.0.13.tar.gz",
-  "download_time": "2026-03-27T19:23:16.484731",
+  "download_filename": "clawed-2.0.0.tar.gz",
+  "download_time": "2026-03-27T21:26:55.332641",
   "package_url": "https://pypi.org/project/clawed/"
 }

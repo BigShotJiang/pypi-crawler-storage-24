@@ -1,11 +1,11 @@
 {
   "name": "mng-kanpan",
-  "version": "0.1.3",
-  "summary": "All-seeing agent tracker",
+  "version": "0.1.4",
+  "summary": "Renamed to imbue-mngr-kanpan. Install imbue-mngr-kanpan instead.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mng_kanpan-0.1.3.tar.gz",
-  "download_time": "2026-03-23T22:02:05.142930",
+  "download_filename": "mng_kanpan-0.1.4.tar.gz",
+  "download_time": "2026-03-27T21:26:19.731401",
   "package_url": "https://pypi.org/project/mng-kanpan/"
 }

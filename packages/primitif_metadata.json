@@ -1,11 +1,11 @@
 {
   "name": "primitif",
-  "version": "0.0.7",
+  "version": "0.0.12",
   "summary": "Primitif Python SDK — Mail, Approval, and Audit APIs for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "primitif-0.0.7.tar.gz",
-  "download_time": "2026-03-16T10:03:29.293348",
+  "download_filename": "primitif-0.0.12.tar.gz",
+  "download_time": "2026-03-27T21:26:12.914565",
   "package_url": "https://pypi.org/project/primitif/"
 }

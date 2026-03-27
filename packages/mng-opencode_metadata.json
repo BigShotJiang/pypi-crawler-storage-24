@@ -1,11 +1,11 @@
 {
   "name": "mng-opencode",
-  "version": "0.1.4",
-  "summary": "OpenCode agent type plugin for mng",
+  "version": "0.1.5",
+  "summary": "Renamed to imbue-mngr-opencode. Install imbue-mngr-opencode instead.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mng_opencode-0.1.4.tar.gz",
-  "download_time": "2026-03-23T22:01:40.777801",
+  "download_filename": "mng_opencode-0.1.5.tar.gz",
+  "download_time": "2026-03-27T21:26:18.693828",
   "package_url": "https://pypi.org/project/mng-opencode/"
 }

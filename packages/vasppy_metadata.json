@@ -1,0 +1,11 @@
+{
+  "name": "vasppy",
+  "version": "0.7.2.0",
+  "summary": "Python utilities for working with VASP inputs and outputs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vasppy-0.7.2.0.tar.gz",
+  "download_time": "2026-03-27T21:26:08.546460",
+  "package_url": "https://pypi.org/project/vasppy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dreadnode",
-  "version": "2.0.4",
+  "version": "2.0.7",
   "summary": "Dreadnode SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dreadnode-2.0.4.tar.gz",
-  "download_time": "2026-03-24T17:44:36.457879",
+  "download_filename": "dreadnode-2.0.7.tar.gz",
+  "download_time": "2026-03-27T21:26:41.147445",
   "package_url": "https://pypi.org/project/dreadnode/"
 }

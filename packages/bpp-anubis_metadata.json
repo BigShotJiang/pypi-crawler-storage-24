@@ -1,0 +1,11 @@
+{
+  "name": "bpp-anubis",
+  "version": "2026.3.27",
+  "summary": "Run behave tests in parallel",
+  "author": "matthew bahloul",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/blueprintprep/bpp-qa/utilities/anubis",
+  "download_filename": "bpp_anubis-2026.3.27.tar.gz",
+  "download_time": "2026-03-27T21:26:48.460613",
+  "package_url": "https://pypi.org/project/bpp-anubis/"
+}

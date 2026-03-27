@@ -1,11 +1,11 @@
 {
   "name": "pimp-my-repo",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "✨ Enhance your Python repository by adding cutting-edge development tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pimp_my_repo-0.2.10.tar.gz",
-  "download_time": "2026-03-07T22:18:02.255988",
+  "download_filename": "pimp_my_repo-0.2.11.tar.gz",
+  "download_time": "2026-03-27T21:26:31.713167",
   "package_url": "https://pypi.org/project/pimp-my-repo/"
 }

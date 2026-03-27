@@ -1,0 +1,11 @@
+{
+  "name": "pcp-check",
+  "version": "1.0.0",
+  "summary": "Real-time CLI to detect TeamPCP and other active supply chain attacks in your Python dependencies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pcp_check-1.0.0.tar.gz",
+  "download_time": "2026-03-27T21:26:23.369213",
+  "package_url": "https://pypi.org/project/pcp-check/"
+}
