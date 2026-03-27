@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-market-data",
+  "version": "0.1.16",
+  "summary": "Shared models and interfaces for finance datasources",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_market_data-0.1.16.tar.gz",
+  "download_time": "2026-03-27T18:10:46.815244",
+  "package_url": "https://pypi.org/project/pydantic-market-data/"
+}

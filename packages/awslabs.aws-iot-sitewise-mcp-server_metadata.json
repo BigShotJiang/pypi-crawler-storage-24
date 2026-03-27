@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aws-iot-sitewise-mcp-server",
+  "version": "11.0.14",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for aws-iot-sitewise",
+  "author": "Amazon Web Services, Yuri Chamarelli",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_aws_iot_sitewise_mcp_server-11.0.14.tar.gz",
+  "download_time": "2026-03-27T18:11:31.331405",
+  "package_url": "https://pypi.org/project/awslabs.aws-iot-sitewise-mcp-server/"
+}

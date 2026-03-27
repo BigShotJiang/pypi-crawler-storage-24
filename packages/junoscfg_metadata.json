@@ -1,0 +1,11 @@
+{
+  "name": "junoscfg",
+  "version": "0.5.8",
+  "summary": "Convert Junos configurations between XML, JSON, structured, and display set formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "junoscfg-0.5.8.tar.gz",
+  "download_time": "2026-03-27T18:11:21.145008",
+  "package_url": "https://pypi.org/project/junoscfg/"
+}

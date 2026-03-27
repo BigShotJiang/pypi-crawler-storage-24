@@ -1,0 +1,11 @@
+{
+  "name": "gelato-ner",
+  "version": "0.1.1",
+  "summary": "CLI for the GELATO Dataset for Legislative NER",
+  "author": "Matthew Flynn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gelato_ner-0.1.1.tar.gz",
+  "download_time": "2026-03-27T18:11:13.530293",
+  "package_url": "https://pypi.org/project/gelato-ner/"
+}

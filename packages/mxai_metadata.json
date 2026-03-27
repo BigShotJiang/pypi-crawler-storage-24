@@ -1,0 +1,11 @@
+{
+  "name": "mxai",
+  "version": "1.2.2",
+  "summary": "Connect AI CLI tools to Matrix as regular chat participants",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mxai-1.2.2.tar.gz",
+  "download_time": "2026-03-27T18:11:11.415701",
+  "package_url": "https://pypi.org/project/mxai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dagster-mcp",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "MCP server that wraps the Dagster GraphQL API — manage runs, assets, schedules, sensors, and backfills from any MCP client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dagster_mcp-0.3.0.tar.gz",
-  "download_time": "2026-03-25T12:03:38.127584",
+  "download_filename": "dagster_mcp-0.3.3.tar.gz",
+  "download_time": "2026-03-27T18:11:01.336793",
   "package_url": "https://pypi.org/project/dagster-mcp/"
 }

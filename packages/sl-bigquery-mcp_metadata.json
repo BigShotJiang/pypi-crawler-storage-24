@@ -1,0 +1,11 @@
+{
+  "name": "sl-bigquery-mcp",
+  "version": "0.1.9",
+  "summary": "A Model Context Protocol (MCP) server that provides access to BigQuery.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sl_bigquery_mcp-0.1.9.tar.gz",
+  "download_time": "2026-03-27T18:11:26.461058",
+  "package_url": "https://pypi.org/project/sl-bigquery-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cr_proc",
+  "version": "0.2.5",
+  "summary": "A tool for processing BYU CS code recording files.",
+  "author": "Ethan Dye",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cr_proc-0.2.5.tar.gz",
+  "download_time": "2026-03-27T18:11:18.149091",
+  "package_url": "https://pypi.org/project/cr_proc/"
+}

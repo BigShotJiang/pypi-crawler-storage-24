@@ -1,0 +1,11 @@
+{
+  "name": "epsilon-attestation-verifier",
+  "version": "1.1.0",
+  "summary": "Standalone tool to verify AWS Nitro Enclave attestation documents from Epsilon",
+  "author": "Epsilon Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epsilon_attestation_verifier-1.1.0.tar.gz",
+  "download_time": "2026-03-27T18:10:40.251794",
+  "package_url": "https://pypi.org/project/epsilon-attestation-verifier/"
+}

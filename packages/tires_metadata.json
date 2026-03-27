@@ -1,11 +1,11 @@
 {
   "name": "tires",
-  "version": "0.1.4",
+  "version": "0.1.9",
   "summary": "Install wheels in parallel",
   "author": "Arthur Lui",
   "license": null,
   "home_page": null,
-  "download_filename": "tires-0.1.4.tar.gz",
-  "download_time": "2026-03-27T17:17:06.150536",
+  "download_filename": "tires-0.1.9.tar.gz",
+  "download_time": "2026-03-27T18:11:04.840337",
   "package_url": "https://pypi.org/project/tires/"
 }

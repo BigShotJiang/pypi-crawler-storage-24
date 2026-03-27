@@ -1,0 +1,11 @@
+{
+  "name": "py-yfinance",
+  "version": "0.1.8",
+  "summary": "A structured Python interface for retrieving and validating market data using yfinance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_yfinance-0.1.8.tar.gz",
+  "download_time": "2026-03-27T18:11:14.106295",
+  "package_url": "https://pypi.org/project/py-yfinance/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cctl",
+  "version": "0.1.0",
+  "summary": "Universal cloud CLI — one command for AWS, Azure, and GCP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cctl-0.1.0.tar.gz",
+  "download_time": "2026-03-27T18:10:55.257400",
+  "package_url": "https://pypi.org/project/cctl/"
+}

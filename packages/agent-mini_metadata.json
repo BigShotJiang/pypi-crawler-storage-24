@@ -1,0 +1,11 @@
+{
+  "name": "agent-mini",
+  "version": "0.1.0",
+  "summary": "Ultra-lightweight personal AI agent — shell, files, web, memory — powered by local or cloud LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_mini-0.1.0.tar.gz",
+  "download_time": "2026-03-27T18:11:00.182508",
+  "package_url": "https://pypi.org/project/agent-mini/"
+}
