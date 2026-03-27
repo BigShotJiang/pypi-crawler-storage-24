@@ -1,0 +1,11 @@
+{
+  "name": "uppercaser-haystack",
+  "version": "1.0.0",
+  "summary": "A custom Haystack component that uppercases text",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uppercaser_haystack-1.0.0.tar.gz",
+  "download_time": "2026-03-27T16:13:29.393756",
+  "package_url": "https://pypi.org/project/uppercaser-haystack/"
+}

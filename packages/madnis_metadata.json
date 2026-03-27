@@ -1,0 +1,11 @@
+{
+  "name": "madnis",
+  "version": "1.0.0",
+  "summary": "Library for neural importance sampling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "madnis-1.0.0.tar.gz",
+  "download_time": "2026-03-27T16:13:07.740782",
+  "package_url": "https://pypi.org/project/madnis/"
+}

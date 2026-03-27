@@ -1,0 +1,11 @@
+{
+  "name": "guild-packs",
+  "version": "2.1.0",
+  "summary": "Proven workflows for AI agents — execution-proven, safety-scanned, feedback-improving",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "guild_packs-2.1.0.tar.gz",
+  "download_time": "2026-03-27T16:12:47.950354",
+  "package_url": "https://pypi.org/project/guild-packs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dataxid-profiling",
+  "version": "0.2.0",
+  "summary": "Fast, Polars-native data profiling with interactive HTML reports and data quality alerts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataxid_profiling-0.2.0.tar.gz",
+  "download_time": "2026-03-27T16:13:00.530646",
+  "package_url": "https://pypi.org/project/dataxid-profiling/"
+}

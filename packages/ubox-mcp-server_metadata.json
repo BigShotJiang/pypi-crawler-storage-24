@@ -1,0 +1,11 @@
+{
+  "name": "ubox-mcp-server",
+  "version": "0.1.5",
+  "summary": "UBox MCP服务器 - 通过Model Context Protocol暴露UBox设备自动化能力",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ubox_mcp_server-0.1.5.tar.gz",
+  "download_time": "2026-03-27T16:12:45.383352",
+  "package_url": "https://pypi.org/project/ubox-mcp-server/"
+}

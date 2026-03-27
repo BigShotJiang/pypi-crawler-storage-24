@@ -1,0 +1,11 @@
+{
+  "name": "tacoreader",
+  "version": "2.4.21",
+  "summary": "Query engine for AI-ready datasets.",
+  "author": "Cesar Aybar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tacoreader-2.4.21.tar.gz",
+  "download_time": "2026-03-27T16:12:54.859291",
+  "package_url": "https://pypi.org/project/tacoreader/"
+}

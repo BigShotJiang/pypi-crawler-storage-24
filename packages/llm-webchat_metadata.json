@@ -1,11 +1,11 @@
 {
   "name": "llm-webchat",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "A web chat interface plugin for llm",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_webchat-2.3.0.tar.gz",
-  "download_time": "2026-03-27T07:41:50.005311",
+  "download_filename": "llm_webchat-2.4.0.tar.gz",
+  "download_time": "2026-03-27T16:13:01.044620",
   "package_url": "https://pypi.org/project/llm-webchat/"
 }

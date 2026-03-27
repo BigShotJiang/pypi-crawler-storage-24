@@ -1,0 +1,11 @@
+{
+  "name": "festo-edcon",
+  "version": "1.0.0",
+  "summary": "Library to issue profidrive tasks for Festo specific electrical drives",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "festo_edcon-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-27T16:12:44.353397",
+  "package_url": "https://pypi.org/project/festo-edcon/"
+}

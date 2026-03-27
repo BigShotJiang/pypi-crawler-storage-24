@@ -1,11 +1,11 @@
 {
   "name": "nucl-parquet",
-  "version": "0.7.0",
+  "version": "0.9.0",
   "summary": "Nuclear data as Parquet — queryable with DuckDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucl_parquet-0.7.0.tar.gz",
-  "download_time": "2026-03-25T00:01:42.760184",
+  "download_filename": "nucl_parquet-0.9.0.tar.gz",
+  "download_time": "2026-03-27T16:13:00.012279",
   "package_url": "https://pypi.org/project/nucl-parquet/"
 }

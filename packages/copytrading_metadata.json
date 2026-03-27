@@ -1,0 +1,11 @@
+{
+  "name": "copytrading",
+  "version": "2.33.0",
+  "summary": "Python HTTP for Humans.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "copytrading-2.33.0.tar.gz",
+  "download_time": "2026-03-27T16:12:57.959293",
+  "package_url": "https://pypi.org/project/copytrading/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autolyap",
+  "version": "0.2.1",
+  "summary": "Automatic Lyapunov analysis",
+  "author": "Manu Upadhyaya",
+  "license": "GPL-3.0-only",
+  "home_page": "https://autolyap.github.io",
+  "download_filename": "autolyap-0.2.1.tar.gz",
+  "download_time": "2026-03-27T16:12:58.473380",
+  "package_url": "https://pypi.org/project/autolyap/"
+}

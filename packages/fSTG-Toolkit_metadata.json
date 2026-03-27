@@ -1,11 +1,11 @@
 {
   "name": "fSTG-Toolkit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Aan Open-Source Software for Spatio-Temporal Graph Analysis of fMRI data.",
   "author": "Julien PONTABRY",
-  "license": "CECILL-B",
+  "license": null,
   "home_page": null,
-  "download_filename": "fstg_toolkit-1.0.0.tar.gz",
-  "download_time": "2026-03-16T16:48:26.372463",
+  "download_filename": "fstg_toolkit-1.1.0.tar.gz",
+  "download_time": "2026-03-27T16:12:43.836102",
   "package_url": "https://pypi.org/project/fSTG-Toolkit/"
 }

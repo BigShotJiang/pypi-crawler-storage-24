@@ -1,11 +1,11 @@
 {
   "name": "prefact",
-  "version": "0.1.24",
+  "version": "0.1.26",
   "summary": "Python code quality tool with LLM-aware rules, plugin system, and enterprise features",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prefact-0.1.24.tar.gz",
-  "download_time": "2026-03-27T15:16:18.990366",
+  "download_filename": "prefact-0.1.26.tar.gz",
+  "download_time": "2026-03-27T16:13:29.907508",
   "package_url": "https://pypi.org/project/prefact/"
 }

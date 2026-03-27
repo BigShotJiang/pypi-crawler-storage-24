@@ -1,0 +1,11 @@
+{
+  "name": "tailestim",
+  "version": "0.7.0",
+  "summary": "A Python package for estimating tail parameters of heavy-tailed distributions, which is useful for analyzing power-law behavior in complex networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tailestim-0.7.0.tar.gz",
+  "download_time": "2026-03-27T16:13:08.773617",
+  "package_url": "https://pypi.org/project/tailestim/"
+}
