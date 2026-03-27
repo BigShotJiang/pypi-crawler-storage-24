@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-requests",
+  "version": "4.1.16",
+  "summary": "A requests-like library for web interfacing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_requests-4.1.16.tar.gz",
+  "download_time": "2026-03-27T19:23:36.523849",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-requests/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fast-hdbscan",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A fast multicore version of HDBSCAN and PLSCAN clustering algorithms.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_hdbscan-0.3.0.tar.gz",
-  "download_time": "2026-03-18T20:44:11.290789",
+  "download_filename": "fast_hdbscan-0.3.1.tar.gz",
+  "download_time": "2026-03-27T19:23:10.583135",
   "package_url": "https://pypi.org/project/fast-hdbscan/"
 }

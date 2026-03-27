@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-rgbled",
+  "version": "1.2.6",
+  "summary": "CircuitPython driver for RGB LEDs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_rgbled-1.2.6.tar.gz",
+  "download_time": "2026-03-27T19:23:36.009807",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-rgbled/"
+}

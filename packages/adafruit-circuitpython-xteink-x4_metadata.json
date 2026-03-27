@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-xteink-x4",
+  "version": "1.0.1",
+  "summary": "CircuitPython helper library to interface with the Xteink X4 eReader",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_xteink_x4-1.0.1.tar.gz",
+  "download_time": "2026-03-27T19:23:21.098489",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-xteink-x4/"
+}

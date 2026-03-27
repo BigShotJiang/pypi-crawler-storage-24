@@ -1,0 +1,11 @@
+{
+  "name": "jsm-transactional-ruler",
+  "version": "3.1.0",
+  "summary": "Lib to post user events on transactional topics",
+  "author": "Juntos Somos Mais",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsm_transactional_ruler-3.1.0.tar.gz",
+  "download_time": "2026-03-27T19:23:04.234273",
+  "package_url": "https://pypi.org/project/jsm-transactional-ruler/"
+}

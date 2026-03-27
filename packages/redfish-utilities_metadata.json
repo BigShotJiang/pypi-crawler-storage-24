@@ -1,0 +1,11 @@
+{
+  "name": "redfish-utilities",
+  "version": "3.4.6",
+  "summary": "Redfish Utilities",
+  "author": "DMTF, https://www.dmtf.org/standards/feedback",
+  "license": "BSD 3-clause \"New\" or \"Revised License\"",
+  "home_page": "https://github.com/DMTF/Redfish-Tacklebox",
+  "download_filename": "redfish_utilities-3.4.6.tar.gz",
+  "download_time": "2026-03-27T19:23:07.955047",
+  "package_url": "https://pypi.org/project/redfish-utilities/"
+}

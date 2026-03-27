@@ -1,0 +1,11 @@
+{
+  "name": "huzz",
+  "version": "0.3.2",
+  "summary": "A high-performance utility for managing and evaluating huzz.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "huzz-0.3.2.tar.gz",
+  "download_time": "2026-03-27T19:23:34.990737",
+  "package_url": "https://pypi.org/project/huzz/"
+}

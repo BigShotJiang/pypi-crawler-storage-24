@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-pathlib",
+  "version": "1.0.4",
+  "summary": "Subset of the CPython module pathlib",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_pathlib-1.0.4.tar.gz",
+  "download_time": "2026-03-27T19:23:48.365356",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-pathlib/"
+}

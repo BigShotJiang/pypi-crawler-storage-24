@@ -1,0 +1,11 @@
+{
+  "name": "pyglossary",
+  "version": "5.3.0",
+  "summary": "A tool for converting dictionary files aka glossaries.",
+  "author": "Saeed Rasooli",
+  "license": null,
+  "home_page": "https://github.com/ilius/pyglossary",
+  "download_filename": "pyglossary-5.3.0.tar.gz",
+  "download_time": "2026-03-27T19:23:37.548017",
+  "package_url": "https://pypi.org/project/pyglossary/"
+}

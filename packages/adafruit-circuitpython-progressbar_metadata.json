@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-progressbar",
+  "version": "2.3.21",
+  "summary": "Dynamic progress bar widget for CircuitPython displays",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_progressbar-2.3.21.tar.gz",
+  "download_time": "2026-03-27T19:23:41.685849",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-progressbar/"
+}

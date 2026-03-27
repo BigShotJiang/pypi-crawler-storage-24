@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-usb-host-descriptors",
+  "version": "0.5.2",
+  "summary": "Helpers for getting USB descriptors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_usb_host_descriptors-0.5.2.tar.gz",
+  "download_time": "2026-03-27T19:23:26.225884",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-usb-host-descriptors/"
+}

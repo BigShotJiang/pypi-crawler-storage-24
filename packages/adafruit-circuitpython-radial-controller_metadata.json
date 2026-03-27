@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-radial-controller",
+  "version": "1.0.18",
+  "summary": "HID Radial Controller device helper library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_radial_controller-1.0.18.tar.gz",
+  "download_time": "2026-03-27T19:23:39.133823",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-radial-controller/"
+}
