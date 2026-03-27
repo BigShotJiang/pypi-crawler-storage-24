@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-widget-bokeh-chart",
+  "version": "19.0.1.0.1.2",
+  "summary": "This widget allows to display charts using Bokeh library.",
+  "author": "ForgeFlow, Odoo Community Association (OCA), Creu Blanca",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_widget_bokeh_chart-19.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2026-03-27T08:36:56.410552",
+  "package_url": "https://pypi.org/project/odoo-addon-web-widget-bokeh-chart/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "async-firebase",
+  "version": "6.0.0",
+  "summary": "Async Firebase Client - a Python asyncio client to interact with Firebase Cloud Messaging in an easy way.",
+  "author": "Oleksandr Omyshev",
+  "license": "MIT",
+  "home_page": "https://github.com/healthjoy/async-firebase",
+  "download_filename": "async_firebase-6.0.0.tar.gz",
+  "download_time": "2026-03-27T08:36:45.069807",
+  "package_url": "https://pypi.org/project/async-firebase/"
+}

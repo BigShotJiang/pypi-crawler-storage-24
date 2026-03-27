@@ -1,0 +1,11 @@
+{
+  "name": "mspec-cli",
+  "version": "4.0.6",
+  "summary": "mspec-cli - 成员规范驱动开发工作流 CLI 工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mspec_cli-4.0.6.tar.gz",
+  "download_time": "2026-03-27T08:36:33.074141",
+  "package_url": "https://pypi.org/project/mspec-cli/"
+}

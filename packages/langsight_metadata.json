@@ -1,11 +1,11 @@
 {
   "name": "langsight",
-  "version": "0.8.7",
+  "version": "0.9.1",
   "summary": "Agent runtime reliability — prevent loops, enforce budgets, monitor MCP health, scan for CVEs",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "langsight-0.8.7.tar.gz",
-  "download_time": "2026-03-27T07:42:22.928530",
+  "download_filename": "langsight-0.9.1.tar.gz",
+  "download_time": "2026-03-27T08:36:36.781483",
   "package_url": "https://pypi.org/project/langsight/"
 }

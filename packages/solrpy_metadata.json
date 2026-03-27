@@ -1,11 +1,11 @@
 {
   "name": "solrpy",
-  "version": "1.12.0",
+  "version": "2.0.3",
   "summary": "Client for the Solr search service",
   "author": "Ed Summers",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "solrpy-1.12.0.tar.gz",
-  "download_time": "2026-03-27T07:42:18.742045",
+  "download_filename": "solrpy-2.0.3.tar.gz",
+  "download_time": "2026-03-27T08:36:54.330189",
   "package_url": "https://pypi.org/project/solrpy/"
 }

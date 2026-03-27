@@ -1,0 +1,11 @@
+{
+  "name": "beeos-device-agent",
+  "version": "0.2.0",
+  "summary": "BeeOS DeviceAgent — AI-powered device control agent with ACP, MQTT, and WebRTC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beeos_device_agent-0.2.0.tar.gz",
+  "download_time": "2026-03-27T08:36:39.901136",
+  "package_url": "https://pypi.org/project/beeos-device-agent/"
+}
