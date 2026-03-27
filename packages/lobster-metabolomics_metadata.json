@@ -1,11 +1,11 @@
 {
   "name": "lobster-metabolomics",
-  "version": "1.1.406",
+  "version": "1.1.411",
   "summary": "Metabolomics agent for Lobster AI (LC-MS, GC-MS, NMR untargeted metabolomics)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lobster_metabolomics-1.1.406.tar.gz",
-  "download_time": "2026-03-10T20:59:53.306060",
+  "download_filename": "lobster_metabolomics-1.1.411.tar.gz",
+  "download_time": "2026-03-27T15:16:59.210146",
   "package_url": "https://pypi.org/project/lobster-metabolomics/"
 }

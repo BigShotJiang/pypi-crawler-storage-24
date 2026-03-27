@@ -1,11 +1,11 @@
 {
   "name": "sap-cloud-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "SAP Cloud SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sap_cloud_sdk-0.2.0.tar.gz",
-  "download_time": "2026-03-24T12:40:19.838451",
+  "download_filename": "sap_cloud_sdk-0.3.0.tar.gz",
+  "download_time": "2026-03-27T15:16:47.127774",
   "package_url": "https://pypi.org/project/sap-cloud-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "girder-worker-utils",
+  "version": "0.9.6",
+  "summary": "Helper utilities for the Girder Worker",
+  "author": "Kitware, Inc.",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "girder_worker_utils-0.9.6.tar.gz",
+  "download_time": "2026-03-27T15:16:34.800453",
+  "package_url": "https://pypi.org/project/girder-worker-utils/"
+}

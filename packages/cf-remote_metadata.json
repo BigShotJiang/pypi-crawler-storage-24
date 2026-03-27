@@ -1,0 +1,11 @@
+{
+  "name": "cf-remote",
+  "version": "0.8.8",
+  "summary": "Tooling to deploy CFEngine (and much more)",
+  "author": "Northern.tech, Inc.",
+  "license": null,
+  "home_page": "https://github.com/cfengine/cf-remote",
+  "download_filename": "cf_remote-0.8.8.tar.gz",
+  "download_time": "2026-03-27T15:16:03.921323",
+  "package_url": "https://pypi.org/project/cf-remote/"
+}

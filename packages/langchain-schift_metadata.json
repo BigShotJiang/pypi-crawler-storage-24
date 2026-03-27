@@ -1,0 +1,11 @@
+{
+  "name": "langchain-schift",
+  "version": "0.2.0",
+  "summary": "An integration package connecting Schift and LangChain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_schift-0.2.0.tar.gz",
+  "download_time": "2026-03-27T15:16:58.574051",
+  "package_url": "https://pypi.org/project/langchain-schift/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prelude-sdk-beta",
+  "version": "1480",
+  "summary": "For interacting with the Prelude API",
+  "author": "Prelude Research",
+  "license": null,
+  "home_page": "https://github.com/preludeorg",
+  "download_filename": "prelude_sdk_beta-1480.tar.gz",
+  "download_time": "2026-03-27T15:16:25.288838",
+  "package_url": "https://pypi.org/project/prelude-sdk-beta/"
+}

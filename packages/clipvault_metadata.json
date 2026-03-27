@@ -1,0 +1,11 @@
+{
+  "name": "clipvault",
+  "version": "1.0.5",
+  "summary": "Windows-style clipboard manager for Ubuntu",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clipvault-1.0.5.tar.gz",
+  "download_time": "2026-03-27T15:16:22.781850",
+  "package_url": "https://pypi.org/project/clipvault/"
+}

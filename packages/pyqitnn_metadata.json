@@ -1,11 +1,11 @@
 {
   "name": "pyqitnn",
-  "version": "0.3.7",
+  "version": "0.4.0",
   "summary": "Quantum-inspired ternary neural network layers for PyTorch",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyqitnn-0.3.7.tar.gz",
-  "download_time": "2026-03-22T14:11:50.545459",
+  "download_filename": "pyqitnn-0.4.0.tar.gz",
+  "download_time": "2026-03-27T15:16:05.135797",
   "package_url": "https://pypi.org/project/pyqitnn/"
 }

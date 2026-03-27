@@ -1,0 +1,11 @@
+{
+  "name": "plotjs",
+  "version": "0.0.12",
+  "summary": "Turn static matplotlib charts into interactive web visualizations, and export them to HTML files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plotjs-0.0.12.tar.gz",
+  "download_time": "2026-03-27T15:16:05.861108",
+  "package_url": "https://pypi.org/project/plotjs/"
+}

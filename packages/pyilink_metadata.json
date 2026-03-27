@@ -1,0 +1,11 @@
+{
+  "name": "pyilink",
+  "version": "0.4.1",
+  "summary": "Alias package for weilink - Lightweight Python SDK for WeChat iLink Bot protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyilink-0.4.1.tar.gz",
+  "download_time": "2026-03-27T15:16:19.629261",
+  "package_url": "https://pypi.org/project/pyilink/"
+}

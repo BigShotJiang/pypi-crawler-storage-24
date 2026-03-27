@@ -1,0 +1,11 @@
+{
+  "name": "portal_tool",
+  "version": "0.2.4",
+  "summary": "Assortment of tools for the Portal project",
+  "author": "Jonatan Nevo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "portal_tool-0.2.4.tar.gz",
+  "download_time": "2026-03-27T15:16:25.936401",
+  "package_url": "https://pypi.org/project/portal_tool/"
+}

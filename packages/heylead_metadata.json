@@ -1,11 +1,11 @@
 {
   "name": "heylead",
-  "version": "0.10.145",
+  "version": "0.10.148",
   "summary": "MCP-native autonomous LinkedIn SDR. Your AI sales rep, one command to fill your pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "heylead-0.10.145.tar.gz",
-  "download_time": "2026-03-27T07:41:44.612914",
+  "download_filename": "heylead-0.10.148.tar.gz",
+  "download_time": "2026-03-27T15:16:41.473291",
   "package_url": "https://pypi.org/project/heylead/"
 }
