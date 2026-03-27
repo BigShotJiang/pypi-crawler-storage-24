@@ -1,0 +1,11 @@
+{
+  "name": "iapws",
+  "version": "1.5.5",
+  "summary": "Python implementation of standards from The InternationalAssociation for the Properties of Water and Steam",
+  "author": "jjgomera",
+  "license": "gpl v3",
+  "home_page": "https://github.com/jjgomera/iapws",
+  "download_filename": "iapws-1.5.5.tar.gz",
+  "download_time": "2026-03-27T20:40:23.423522",
+  "package_url": "https://pypi.org/project/iapws/"
+}

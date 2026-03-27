@@ -1,11 +1,11 @@
 {
   "name": "brakit",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Zero-config observability for Python web frameworks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brakit-0.1.1.tar.gz",
-  "download_time": "2026-03-17T22:27:02.694691",
+  "download_filename": "brakit-0.1.6.tar.gz",
+  "download_time": "2026-03-27T20:39:47.698145",
   "package_url": "https://pypi.org/project/brakit/"
 }

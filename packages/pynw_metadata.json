@@ -1,11 +1,11 @@
 {
   "name": "pynw",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Rust-accelerated Needleman-Wunsch global sequence alignment for precomputed score matrices.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pynw-0.1.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2026-03-23T22:32:41.371954",
+  "download_filename": "pynw-0.1.3.tar.gz",
+  "download_time": "2026-03-27T20:39:54.515112",
   "package_url": "https://pypi.org/project/pynw/"
 }

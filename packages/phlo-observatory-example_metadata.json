@@ -1,0 +1,11 @@
+{
+  "name": "phlo-observatory-example",
+  "version": "0.2.3",
+  "summary": "Example Observatory extension plugin",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_observatory_example-0.2.3.tar.gz",
+  "download_time": "2026-03-27T20:40:00.512470",
+  "package_url": "https://pypi.org/project/phlo-observatory-example/"
+}

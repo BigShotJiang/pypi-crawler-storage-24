@@ -1,0 +1,11 @@
+{
+  "name": "phlo-dagster",
+  "version": "0.2.3",
+  "summary": "Dagster service plugin for Phlo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_dagster-0.2.3.tar.gz",
+  "download_time": "2026-03-27T20:40:13.652547",
+  "package_url": "https://pypi.org/project/phlo-dagster/"
+}

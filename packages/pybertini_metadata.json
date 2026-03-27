@@ -1,0 +1,11 @@
+{
+  "name": "pybertini",
+  "version": "1.0.6",
+  "summary": "Software for numerical algebraic geometry",
+  "author": "Bertini Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybertini-1.0.6-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-03-27T20:39:40.529401",
+  "package_url": "https://pypi.org/project/pybertini/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phlo-clickstack",
+  "version": "0.2.3",
+  "summary": "clickstack service plugin for Phlo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_clickstack-0.2.3.tar.gz",
+  "download_time": "2026-03-27T20:40:11.578916",
+  "package_url": "https://pypi.org/project/phlo-clickstack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "illoominate",
+  "version": "1.0.0",
+  "summary": "A scalable library designed to compute data importance scores for interaction data in sequential kNN-based recommender systems.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "illoominate-1.0.0-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2026-03-27T20:40:21.333137",
+  "package_url": "https://pypi.org/project/illoominate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vatly",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for the Vatly VAT validation API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vatly-0.2.0.tar.gz",
+  "download_time": "2026-03-27T20:39:41.670486",
+  "package_url": "https://pypi.org/project/vatly/"
+}

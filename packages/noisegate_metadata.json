@@ -1,11 +1,11 @@
 {
   "name": "noisegate",
-  "version": "0.1.0rc4",
+  "version": "0.1.0rc6",
   "summary": "AI-powered bug bounty report triage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "noisegate-0.1.0rc4.tar.gz",
-  "download_time": "2026-03-27T20:00:02.403023",
+  "download_filename": "noisegate-0.1.0rc6.tar.gz",
+  "download_time": "2026-03-27T20:39:43.269376",
   "package_url": "https://pypi.org/project/noisegate/"
 }

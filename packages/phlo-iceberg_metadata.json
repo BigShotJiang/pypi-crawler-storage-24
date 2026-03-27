@@ -1,0 +1,11 @@
+{
+  "name": "phlo-iceberg",
+  "version": "0.2.3",
+  "summary": "Iceberg table-store capability plugin for Phlo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_iceberg-0.2.3.tar.gz",
+  "download_time": "2026-03-27T20:40:16.251285",
+  "package_url": "https://pypi.org/project/phlo-iceberg/"
+}

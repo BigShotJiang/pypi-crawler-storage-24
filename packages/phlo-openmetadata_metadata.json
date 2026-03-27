@@ -1,0 +1,11 @@
+{
+  "name": "phlo-openmetadata",
+  "version": "0.2.3",
+  "summary": "OpenMetadata integration for Phlo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_openmetadata-0.2.3.tar.gz",
+  "download_time": "2026-03-27T20:40:01.044234",
+  "package_url": "https://pypi.org/project/phlo-openmetadata/"
+}
