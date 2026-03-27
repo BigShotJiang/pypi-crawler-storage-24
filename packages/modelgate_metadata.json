@@ -1,11 +1,11 @@
 {
   "name": "modelgate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Type-safe, zero-SDK adapter layer that normalizes any LLM provider into one consistent interface.",
   "author": "Pavan Padala",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "modelgate-0.1.1.tar.gz",
-  "download_time": "2026-03-27T22:04:23.536796",
+  "download_filename": "modelgate-0.1.2.tar.gz",
+  "download_time": "2026-03-27T22:37:18.480175",
   "package_url": "https://pypi.org/project/modelgate/"
 }

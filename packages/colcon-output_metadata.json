@@ -1,0 +1,11 @@
+{
+  "name": "colcon-output",
+  "version": "0.2.14",
+  "summary": "Extension for colcon to customize the output in various ways.",
+  "author": "Dirk Thomas",
+  "license": "Apache-2.0",
+  "home_page": "https://colcon.readthedocs.io",
+  "download_filename": "colcon_output-0.2.14.tar.gz",
+  "download_time": "2026-03-27T22:37:08.286241",
+  "package_url": "https://pypi.org/project/colcon-output/"
+}

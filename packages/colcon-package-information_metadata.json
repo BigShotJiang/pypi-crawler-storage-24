@@ -1,0 +1,11 @@
+{
+  "name": "colcon-package-information",
+  "version": "0.4.1",
+  "summary": "Extension for colcon to output package information.",
+  "author": "Dirk Thomas",
+  "license": "Apache-2.0",
+  "home_page": "https://colcon.readthedocs.io",
+  "download_filename": "colcon_package_information-0.4.1.tar.gz",
+  "download_time": "2026-03-27T22:37:02.597728",
+  "package_url": "https://pypi.org/project/colcon-package-information/"
+}

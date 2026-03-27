@@ -1,11 +1,11 @@
 {
   "name": "nomnom-hugoawards",
-  "version": "2026.4.0",
+  "version": "2026.4.1",
   "summary": "The NomNom Hugo Awards voting package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nomnom_hugoawards-2026.4.0.tar.gz",
-  "download_time": "2026-03-27T20:39:46.630169",
+  "download_filename": "nomnom_hugoawards-2026.4.1.tar.gz",
+  "download_time": "2026-03-27T22:37:01.061274",
   "package_url": "https://pypi.org/project/nomnom-hugoawards/"
 }
