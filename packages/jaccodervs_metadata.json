@@ -1,11 +1,11 @@
 {
   "name": "jaccodervs",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "AI coding agent backend for Jac, powered by jac-byllm",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jaccodervs-0.2.0.tar.gz",
-  "download_time": "2026-03-27T19:23:18.543925",
+  "download_filename": "jaccodervs-0.2.1.tar.gz",
+  "download_time": "2026-03-27T20:00:15.496923",
   "package_url": "https://pypi.org/project/jaccodervs/"
 }

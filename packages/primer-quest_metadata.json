@@ -1,11 +1,11 @@
 {
   "name": "primer-quest",
-  "version": "1.2.0",
+  "version": "1.9.1",
   "summary": "A terminal adventure for young learners — phonics, math, science, kindness, geography, history, art, and coding.",
   "author": "thorski1",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "primer_quest-1.2.0.tar.gz",
-  "download_time": "2026-03-26T18:30:55.646534",
+  "download_filename": "primer_quest-1.9.1.tar.gz",
+  "download_time": "2026-03-27T20:00:08.625055",
   "package_url": "https://pypi.org/project/primer-quest/"
 }

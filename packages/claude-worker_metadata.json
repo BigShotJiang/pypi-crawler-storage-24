@@ -1,0 +1,11 @@
+{
+  "name": "claude-worker",
+  "version": "0.1.10",
+  "summary": "Launch and communicate with Claude Code subprocess workers via named FIFOs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_worker-0.1.10.tar.gz",
+  "download_time": "2026-03-27T20:00:42.600022",
+  "package_url": "https://pypi.org/project/claude-worker/"
+}

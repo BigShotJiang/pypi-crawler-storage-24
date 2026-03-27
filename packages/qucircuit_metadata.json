@@ -1,0 +1,11 @@
+{
+  "name": "qucircuit",
+  "version": "3.1",
+  "summary": "Quantum computer programming with circuits paradigm",
+  "author": "Atul Varshneya",
+  "license": "GPL",
+  "home_page": "https://github.com/atulvarshneya/quantum-computing",
+  "download_filename": "qucircuit-3.1.tar.gz",
+  "download_time": "2026-03-27T20:00:31.243502",
+  "package_url": "https://pypi.org/project/qucircuit/"
+}

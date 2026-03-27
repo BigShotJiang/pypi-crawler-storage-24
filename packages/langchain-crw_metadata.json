@@ -1,0 +1,11 @@
+{
+  "name": "langchain-crw",
+  "version": "0.1.0",
+  "summary": "LangChain integration for CRW — high-performance web scraping document loader",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_crw-0.1.0.tar.gz",
+  "download_time": "2026-03-27T20:00:11.821395",
+  "package_url": "https://pypi.org/project/langchain-crw/"
+}

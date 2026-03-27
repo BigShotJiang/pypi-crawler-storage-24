@@ -1,0 +1,11 @@
+{
+  "name": "succulent",
+  "version": "0.4.4",
+  "summary": "A lightweight framework for collecting and processing data from HTTP POST requests",
+  "author": "Iztok Fister Jr.",
+  "license": "MIT",
+  "home_page": "https://github.com/firefly-cpp/succulent",
+  "download_filename": "succulent-0.4.4.tar.gz",
+  "download_time": "2026-03-27T19:59:59.275091",
+  "package_url": "https://pypi.org/project/succulent/"
+}

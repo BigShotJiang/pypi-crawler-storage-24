@@ -1,0 +1,11 @@
+{
+  "name": "transit-access-nci",
+  "version": "1.0.0",
+  "summary": "Accessible Public Transit Trip Planner Utilities",
+  "author": "Rakesh Kunchala",
+  "license": null,
+  "home_page": "https://github.com/rakeshkunchala06/CPP_project",
+  "download_filename": "transit_access_nci-1.0.0.tar.gz",
+  "download_time": "2026-03-27T20:00:23.286613",
+  "package_url": "https://pypi.org/project/transit-access-nci/"
+}

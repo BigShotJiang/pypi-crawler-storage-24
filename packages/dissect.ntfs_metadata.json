@@ -1,0 +1,11 @@
+{
+  "name": "dissect.ntfs",
+  "version": "3.16",
+  "summary": "A Dissect module implementing a parser for the NTFS file system, used by the Windows operating system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissect_ntfs-3.16.tar.gz",
+  "download_time": "2026-03-27T20:00:29.690450",
+  "package_url": "https://pypi.org/project/dissect.ntfs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autonomica",
+  "version": "0.1.0",
+  "summary": "Runtime adaptive governance for AI agents — score, gate, adapt.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "autonomica-0.1.0.tar.gz",
+  "download_time": "2026-03-27T20:00:20.720249",
+  "package_url": "https://pypi.org/project/autonomica/"
+}

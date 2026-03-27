@@ -1,11 +1,11 @@
 {
   "name": "edgymeow",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "summary": "Python async client for EdgyMeow WebSocket API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "edgymeow-0.0.17.tar.gz",
-  "download_time": "2026-03-27T19:23:06.862696",
+  "download_filename": "edgymeow-0.0.18.tar.gz",
+  "download_time": "2026-03-27T20:00:33.930296",
   "package_url": "https://pypi.org/project/edgymeow/"
 }
