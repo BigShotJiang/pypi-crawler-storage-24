@@ -1,0 +1,11 @@
+{
+  "name": "araxne",
+  "version": "0.0.3",
+  "summary": "A simple algorithm for quantifying how much two strings rhyme in Polish.",
+  "author": "Tytus Dunin",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/tytusdunin/araxne",
+  "download_filename": "araxne-0.0.3.tar.gz",
+  "download_time": "2026-03-27T17:17:02.167895",
+  "package_url": "https://pypi.org/project/araxne/"
+}

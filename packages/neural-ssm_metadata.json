@@ -1,0 +1,11 @@
+{
+  "name": "neural-ssm",
+  "version": "0.39",
+  "summary": "Neural robust state space models in PyTorch",
+  "author": "Leonardo Massai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neural_ssm-0.39.tar.gz",
+  "download_time": "2026-03-27T17:17:21.022025",
+  "package_url": "https://pypi.org/project/neural-ssm/"
+}

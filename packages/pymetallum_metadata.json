@@ -1,11 +1,11 @@
 {
   "name": "pymetallum",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "An interactive CLI and Python library for browsing Metal Archives from the terminal.",
   "author": "Gabriel Jung",
   "license": null,
   "home_page": null,
-  "download_filename": "pymetallum-0.3.0.tar.gz",
-  "download_time": "2026-03-24T08:58:54.140847",
+  "download_filename": "pymetallum-0.4.1.tar.gz",
+  "download_time": "2026-03-27T17:17:13.997363",
   "package_url": "https://pypi.org/project/pymetallum/"
 }

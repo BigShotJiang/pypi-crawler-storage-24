@@ -1,11 +1,11 @@
 {
   "name": "refren",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Scientific manuscript PDF file renamer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "refren-0.4.0.tar.gz",
-  "download_time": "2026-03-26T04:37:27.778579",
+  "download_filename": "refren-0.6.0.tar.gz",
+  "download_time": "2026-03-27T17:17:23.399662",
   "package_url": "https://pypi.org/project/refren/"
 }

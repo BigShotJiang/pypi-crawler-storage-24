@@ -1,0 +1,11 @@
+{
+  "name": "dash-fn-form",
+  "version": "0.0.2",
+  "summary": "Introspection-based UI engine for Plotly Dash — transform type-hinted Python functions into reactive Dash forms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dash_fn_form-0.0.2.tar.gz",
+  "download_time": "2026-03-27T17:17:33.496663",
+  "package_url": "https://pypi.org/project/dash-fn-form/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mecha",
+  "version": "0.103.0",
+  "summary": "A powerful Minecraft command library",
+  "author": "Valentin Berlier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mecha-0.103.0.tar.gz",
+  "download_time": "2026-03-27T17:17:34.674280",
+  "package_url": "https://pypi.org/project/mecha/"
+}

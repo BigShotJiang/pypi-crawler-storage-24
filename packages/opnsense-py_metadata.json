@@ -1,0 +1,11 @@
+{
+  "name": "opnsense-py",
+  "version": "0.1.1",
+  "summary": "Python wrapper for the OPNsense REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opnsense_py-0.1.1.tar.gz",
+  "download_time": "2026-03-27T17:17:29.211936",
+  "package_url": "https://pypi.org/project/opnsense-py/"
+}

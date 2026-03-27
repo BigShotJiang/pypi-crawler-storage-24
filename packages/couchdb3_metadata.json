@@ -1,0 +1,11 @@
+{
+  "name": "couchdb3",
+  "version": "3.0.0",
+  "summary": "A wrapper around the CouchDB API.",
+  "author": "Nikolai Vlahovic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "couchdb3-3.0.0.tar.gz",
+  "download_time": "2026-03-27T17:16:56.894245",
+  "package_url": "https://pypi.org/project/couchdb3/"
+}

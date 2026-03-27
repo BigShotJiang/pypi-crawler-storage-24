@@ -1,0 +1,11 @@
+{
+  "name": "crewai-browserless",
+  "version": "1.0.0",
+  "summary": "A CrewAI tool for smart web scraping via the Browserless /smart-scrape API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crewai_browserless-1.0.0.tar.gz",
+  "download_time": "2026-03-27T17:17:40.327411",
+  "package_url": "https://pypi.org/project/crewai-browserless/"
+}

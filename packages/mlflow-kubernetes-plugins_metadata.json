@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-kubernetes-plugins",
+  "version": "1.0.0",
+  "summary": "Kubernetes-backed WorkspaceProvider implementation and Kubernetes authorization plugin for MLflow workspaces.",
+  "author": "Red Hat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlflow_kubernetes_plugins-1.0.0.tar.gz",
+  "download_time": "2026-03-27T17:17:11.742785",
+  "package_url": "https://pypi.org/project/mlflow-kubernetes-plugins/"
+}

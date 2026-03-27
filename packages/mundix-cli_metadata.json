@@ -1,11 +1,11 @@
 {
   "name": "mundix-cli",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "AI-Powered Cybersecurity Copilot for Kali Linux — Think Claude Code, but built for hackers.",
   "author": "MundiX",
   "license": "MIT",
   "home_page": "https://github.com/k0k4/mundix-cli",
-  "download_filename": "mundix_cli-1.0.3.tar.gz",
-  "download_time": "2026-03-27T15:16:48.573495",
+  "download_filename": "mundix_cli-1.0.5.tar.gz",
+  "download_time": "2026-03-27T17:17:14.561836",
   "package_url": "https://pypi.org/project/mundix-cli/"
 }

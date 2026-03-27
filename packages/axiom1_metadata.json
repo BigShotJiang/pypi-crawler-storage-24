@@ -1,11 +1,11 @@
 {
   "name": "axiom1",
-  "version": "1.0.6",
+  "version": "1.0.11",
   "summary": "AXIOM-1: The first EGen Core language model by EGen Labs / ErebusTN",
   "author": "ErebusTN",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axiom1-1.0.6.tar.gz",
-  "download_time": "2026-03-24T17:44:07.002052",
+  "download_filename": "axiom1-1.0.11.tar.gz",
+  "download_time": "2026-03-27T17:17:19.889958",
   "package_url": "https://pypi.org/project/axiom1/"
 }

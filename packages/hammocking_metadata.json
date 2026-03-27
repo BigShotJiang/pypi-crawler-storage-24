@@ -1,0 +1,11 @@
+{
+  "name": "hammocking",
+  "version": "0.11.0",
+  "summary": "Create mocks for c-code automatically",
+  "author": "Avengineers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hammocking-0.11.0.tar.gz",
+  "download_time": "2026-03-27T17:17:36.904948",
+  "package_url": "https://pypi.org/project/hammocking/"
+}

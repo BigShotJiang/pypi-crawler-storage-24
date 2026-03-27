@@ -1,0 +1,11 @@
+{
+  "name": "napari-sediment",
+  "version": "0.5.1",
+  "summary": "A plugin to process hyperspectral images of sediments",
+  "author": "Guillaume Witz",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/guiwitz/napari-sediment",
+  "download_filename": "napari_sediment-0.5.1-py3-none-any.whl",
+  "download_time": "2026-03-27T17:17:47.987785",
+  "package_url": "https://pypi.org/project/napari-sediment/"
+}
