@@ -1,0 +1,11 @@
+{
+  "name": "flowing-os",
+  "version": "0.1.8",
+  "summary": "Interoperability and observability layer for multi-agent AI systems",
+  "author": "Joaquín Gabriel Arias",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yourusername/flowing-os",
+  "download_filename": "flowing_os-0.1.8.tar.gz",
+  "download_time": "2026-03-27T02:14:28.883262",
+  "package_url": "https://pypi.org/project/flowing-os/"
+}

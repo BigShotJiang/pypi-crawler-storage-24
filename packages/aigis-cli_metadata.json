@@ -1,0 +1,11 @@
+{
+  "name": "aigis-cli",
+  "version": "1.0.0",
+  "summary": "AI governance guardrails for coding agents. Framework-aligned security and compliance patterns from NIST AI RMF, OWASP Top 10 for LLMs, and ISO/IEC 42001.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aigis_cli-1.0.0.tar.gz",
+  "download_time": "2026-03-27T02:14:38.165869",
+  "package_url": "https://pypi.org/project/aigis-cli/"
+}

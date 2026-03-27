@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-bilibili-live-notify",
+  "version": "0.2.0",
+  "summary": "NoneBot2 plugin for Bilibili live group subscriptions powered by nonebot-adapter-bilibili-live.",
+  "author": "hacchiroku",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_bilibili_live_notify-0.2.0.tar.gz",
+  "download_time": "2026-03-27T02:14:48.729340",
+  "package_url": "https://pypi.org/project/nonebot-plugin-bilibili-live-notify/"
+}

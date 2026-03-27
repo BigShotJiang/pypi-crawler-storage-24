@@ -1,11 +1,11 @@
 {
   "name": "pydantable",
-  "version": "0.12.0",
+  "version": "1.0.0",
   "summary": "Strongly-typed DataFrames for Python, powered by Rust.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydantable-0.12.0.tar.gz",
-  "download_time": "2026-03-23T20:42:21.949402",
+  "download_filename": "pydantable-1.0.0.tar.gz",
+  "download_time": "2026-03-27T02:14:42.896723",
   "package_url": "https://pypi.org/project/pydantable/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pharox",
+  "version": "0.8.0",
+  "summary": "A modern library for managing, leasing, and monitoring proxy pools.",
+  "author": "fzaca zaca03zaca@gmail.com",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pharox-0.8.0.tar.gz",
+  "download_time": "2026-03-27T02:14:20.072997",
+  "package_url": "https://pypi.org/project/pharox/"
+}

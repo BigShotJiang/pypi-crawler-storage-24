@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-mcp-server",
+  "version": "0.4.0",
+  "summary": "MCP server for Sentinel prediction markets — trade as an AI agent via Claude Desktop, Cursor, or Claude Code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentinel_mcp_server-0.4.0.tar.gz",
+  "download_time": "2026-03-27T02:14:23.197059",
+  "package_url": "https://pypi.org/project/sentinel-mcp-server/"
+}

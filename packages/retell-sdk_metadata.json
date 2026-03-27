@@ -1,11 +1,11 @@
 {
   "name": "retell-sdk",
-  "version": "5.22.0",
+  "version": "5.23.0",
   "summary": "The official Python library for the retell API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "retell_sdk-5.22.0.tar.gz",
-  "download_time": "2026-03-19T23:56:52.861546",
+  "download_filename": "retell_sdk-5.23.0.tar.gz",
+  "download_time": "2026-03-27T02:14:16.355768",
   "package_url": "https://pypi.org/project/retell-sdk/"
 }

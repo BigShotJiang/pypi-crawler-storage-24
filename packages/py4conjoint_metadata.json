@@ -1,0 +1,11 @@
+{
+  "name": "py4conjoint",
+  "version": "0.1.0",
+  "summary": "Google Forms の回答CSVを評点型コンジョイント分析用のlong形式DataFrameに変換するツール",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py4conjoint-0.1.0.tar.gz",
+  "download_time": "2026-03-27T02:14:26.283025",
+  "package_url": "https://pypi.org/project/py4conjoint/"
+}

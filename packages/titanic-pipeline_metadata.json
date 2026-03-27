@@ -1,0 +1,11 @@
+{
+  "name": "titanic-pipeline",
+  "version": "0.1.9",
+  "summary": "A classical ML pipeline for the Titanic survival dataset — EDA, preprocessing, feature engineering, model selection, evaluation, and hyperparameter tuning.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "titanic_pipeline-0.1.9.tar.gz",
+  "download_time": "2026-03-27T02:14:47.691801",
+  "package_url": "https://pypi.org/project/titanic-pipeline/"
+}

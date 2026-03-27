@@ -1,0 +1,11 @@
+{
+  "name": "seiswave",
+  "version": "0.1.12",
+  "summary": "A comprehensive Python framework for seismic surface wave forward modeling and inversion.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seiswave-0.1.12.tar.gz",
+  "download_time": "2026-03-27T02:14:06.594925",
+  "package_url": "https://pypi.org/project/seiswave/"
+}
