@@ -1,0 +1,11 @@
+{
+  "name": "clipbox",
+  "version": "0.4.1",
+  "summary": "Shared clipboard across devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clipbox-0.4.1.tar.gz",
+  "download_time": "2026-03-27T23:09:28.051271",
+  "package_url": "https://pypi.org/project/clipbox/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "safepyrun",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "Safe(ish) running of python code",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "safepyrun-0.0.18.tar.gz",
-  "download_time": "2026-03-26T07:13:46.787378",
+  "download_filename": "safepyrun-0.0.19.tar.gz",
+  "download_time": "2026-03-27T23:09:49.930316",
   "package_url": "https://pypi.org/project/safepyrun/"
 }

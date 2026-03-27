@@ -1,11 +1,11 @@
 {
   "name": "creditriskengine",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Production-grade open-source credit risk analytics: Basel III/CRR3 RWA, IFRS 9/CECL ECL, IRB modeling, and model validation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "creditriskengine-0.3.0.tar.gz",
-  "download_time": "2026-03-24T22:57:26.012832",
+  "download_filename": "creditriskengine-0.4.0.tar.gz",
+  "download_time": "2026-03-27T23:09:22.336859",
   "package_url": "https://pypi.org/project/creditriskengine/"
 }

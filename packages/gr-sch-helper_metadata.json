@@ -1,0 +1,11 @@
+{
+  "name": "gr-sch-helper",
+  "version": "0.1.6",
+  "summary": "A library for writing scripts to help with organising a Greek public school and interfacing with myschool.sch.gr - UNOFFICIAL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gr_sch_helper-0.1.6.tar.gz",
+  "download_time": "2026-03-27T23:09:34.620840",
+  "package_url": "https://pypi.org/project/gr-sch-helper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-hubspot",
-  "version": "0.15.125",
+  "version": "0.15.126",
   "summary": "Airbyte Hubspot Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_hubspot-0.15.125.tar.gz",
-  "download_time": "2026-03-26T23:02:13.693966",
+  "download_filename": "airbyte_agent_hubspot-0.15.126.tar.gz",
+  "download_time": "2026-03-27T23:09:51.926819",
   "package_url": "https://pypi.org/project/airbyte-agent-hubspot/"
 }

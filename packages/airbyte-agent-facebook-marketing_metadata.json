@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-facebook-marketing",
-  "version": "0.1.60",
+  "version": "0.1.62",
   "summary": "Airbyte Facebook-Marketing Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_facebook_marketing-0.1.60.tar.gz",
-  "download_time": "2026-03-26T20:15:28.860939",
+  "download_filename": "airbyte_agent_facebook_marketing-0.1.62.tar.gz",
+  "download_time": "2026-03-27T23:09:56.600715",
   "package_url": "https://pypi.org/project/airbyte-agent-facebook-marketing/"
 }

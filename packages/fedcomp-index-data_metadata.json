@@ -1,0 +1,11 @@
+{
+  "name": "fedcomp-index-data",
+  "version": "2026.3.4",
+  "summary": "Pre-scored federal contractor datasets with FedComp Index scores and posture class assignments. Updated monthly.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fedcomp_index_data-2026.3.4.tar.gz",
+  "download_time": "2026-03-27T23:09:14.743455",
+  "package_url": "https://pypi.org/project/fedcomp-index-data/"
+}

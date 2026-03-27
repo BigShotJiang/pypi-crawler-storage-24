@@ -1,0 +1,11 @@
+{
+  "name": "openlifu-sdk",
+  "version": "1.0.0",
+  "summary": "Openwater LIFU SDK — hardware I/O interface library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openlifu_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-27T23:09:44.719533",
+  "package_url": "https://pypi.org/project/openlifu-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "finguard",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "FinGuard — Open-source LLM safety layer for financial AI",
   "author": "FinGuard Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finguard-0.2.0.tar.gz",
-  "download_time": "2026-03-27T12:59:32.667754",
+  "download_filename": "finguard-0.3.0.tar.gz",
+  "download_time": "2026-03-27T23:09:42.919670",
   "package_url": "https://pypi.org/project/finguard/"
 }

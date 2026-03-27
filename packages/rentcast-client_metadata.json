@@ -1,0 +1,11 @@
+{
+  "name": "rentcast-client",
+  "version": "2.1.0",
+  "summary": "Python client for the Rentcast API",
+  "author": "Cody Hutchens",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rentcast_client-2.1.0.tar.gz",
+  "download_time": "2026-03-27T23:09:31.747801",
+  "package_url": "https://pypi.org/project/rentcast-client/"
+}

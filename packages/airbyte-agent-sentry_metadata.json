@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-sentry",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "Airbyte Sentry Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_sentry-0.1.4.tar.gz",
-  "download_time": "2026-03-23T23:44:23.939087",
+  "download_filename": "airbyte_agent_sentry-0.1.8.tar.gz",
+  "download_time": "2026-03-27T23:09:55.953103",
   "package_url": "https://pypi.org/project/airbyte-agent-sentry/"
 }

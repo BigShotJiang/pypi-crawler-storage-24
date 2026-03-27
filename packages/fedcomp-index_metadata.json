@@ -1,0 +1,11 @@
+{
+  "name": "fedcomp-index",
+  "version": "2026.3.4",
+  "summary": "Federal contractor competitive intelligence. Posture scoring, posture classes, and scored datasets for every federal contractor.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fedcomp_index-2026.3.4.tar.gz",
+  "download_time": "2026-03-27T23:09:14.094160",
+  "package_url": "https://pypi.org/project/fedcomp-index/"
+}

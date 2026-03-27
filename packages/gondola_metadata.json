@@ -1,11 +1,11 @@
 {
   "name": "gondola",
-  "version": "0.12.13",
+  "version": "0.12.15",
   "summary": "GAPS Online and Offline Analysis software",
   "author": null,
   "license": "GPLV3",
   "home_page": null,
-  "download_filename": "gondola-0.12.13-cp311-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2026-03-19T17:18:17.607380",
+  "download_filename": "gondola-0.12.15-cp311-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-03-27T23:09:20.354830",
   "package_url": "https://pypi.org/project/gondola/"
 }
