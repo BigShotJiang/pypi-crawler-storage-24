@@ -1,11 +1,11 @@
 {
   "name": "splent-framework",
-  "version": "1.1.1",
+  "version": "1.2.5",
   "summary": "SPLENT-FRAMEWORK is a set of libraries for agile product development within SPLENT.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "splent_framework-1.1.1.tar.gz",
-  "download_time": "2026-03-21T20:25:39.575935",
+  "download_filename": "splent_framework-1.2.5.tar.gz",
+  "download_time": "2026-03-27T00:04:03.984144",
   "package_url": "https://pypi.org/project/splent-framework/"
 }

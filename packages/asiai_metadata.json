@@ -1,11 +1,11 @@
 {
   "name": "asiai",
-  "version": "1.0.1",
+  "version": "1.3.0",
   "summary": "Multi-engine LLM benchmark & monitoring CLI for Apple Silicon",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asiai-1.0.1.tar.gz",
-  "download_time": "2026-03-14T23:25:06.570799",
+  "download_filename": "asiai-1.3.0-py3-none-any.whl",
+  "download_time": "2026-03-27T00:04:06.594988",
   "package_url": "https://pypi.org/project/asiai/"
 }

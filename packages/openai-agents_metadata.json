@@ -1,11 +1,11 @@
 {
   "name": "openai-agents",
-  "version": "0.12.2",
+  "version": "0.13.2",
   "summary": "OpenAI Agents SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openai_agents-0.12.2.tar.gz",
-  "download_time": "2026-03-14T01:28:42.721623",
+  "download_filename": "openai_agents-0.13.2.tar.gz",
+  "download_time": "2026-03-27T00:04:04.526558",
   "package_url": "https://pypi.org/project/openai-agents/"
 }

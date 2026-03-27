@@ -1,11 +1,11 @@
 {
   "name": "dazzle-dz",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Alias for dazzlecmd -- unified CLI for the DazzleTools collection",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "dazzle_dz-0.4.0.tar.gz",
-  "download_time": "2026-03-23T10:21:03.852332",
+  "download_filename": "dazzle_dz-0.4.1.tar.gz",
+  "download_time": "2026-03-27T00:04:13.940184",
   "package_url": "https://pypi.org/project/dazzle-dz/"
 }

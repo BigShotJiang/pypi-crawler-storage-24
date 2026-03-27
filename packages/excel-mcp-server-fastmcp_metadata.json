@@ -1,11 +1,11 @@
 {
   "name": "excel-mcp-server-fastmcp",
-  "version": "1.0.28",
+  "version": "1.0.32",
   "summary": "Excel MCP Server based on FastMCP and openpyxl",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "excel_mcp_server_fastmcp-1.0.28.tar.gz",
-  "download_time": "2026-03-26T19:41:20.244062",
+  "download_filename": "excel_mcp_server_fastmcp-1.0.32.tar.gz",
+  "download_time": "2026-03-27T00:04:30.434271",
   "package_url": "https://pypi.org/project/excel-mcp-server-fastmcp/"
 }

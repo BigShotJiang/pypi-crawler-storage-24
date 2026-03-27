@@ -1,11 +1,11 @@
 {
   "name": "landpyre",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "LANDFIRE data discovery, search, and download SDK + CLI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "landpyre-0.2.1.tar.gz",
-  "download_time": "2026-03-26T23:02:23.082840",
+  "download_filename": "landpyre-0.2.2.tar.gz",
+  "download_time": "2026-03-27T00:04:24.259944",
   "package_url": "https://pypi.org/project/landpyre/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "openpx",
+  "version": "0.1.6",
+  "summary": "Python SDK for OpenPX prediction markets",
+  "author": "Milind Pathiyal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openpx-0.1.6.tar.gz",
+  "download_time": "2026-03-27T00:04:16.530410",
+  "package_url": "https://pypi.org/project/openpx/"
+}

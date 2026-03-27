@@ -1,0 +1,11 @@
+{
+  "name": "tileget",
+  "version": "1.0.2",
+  "summary": "Tile download utility - easily download xyz-tile data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tileget-1.0.2.tar.gz",
+  "download_time": "2026-03-27T00:04:08.249637",
+  "package_url": "https://pypi.org/project/tileget/"
+}

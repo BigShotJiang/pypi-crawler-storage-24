@@ -1,0 +1,11 @@
+{
+  "name": "hanfei-fa",
+  "version": "0.2.0",
+  "summary": "法 — ML model weight integrity verification via hierarchical Merkle trees. O(1) root check, O(k log C) layer-aware diff, incremental sync.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hanfei_fa-0.2.0.tar.gz",
+  "download_time": "2026-03-27T00:03:56.757117",
+  "package_url": "https://pypi.org/project/hanfei-fa/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ucgen",
+  "version": "0.2.0",
+  "summary": "CLI tool to generate Cockburn-style use case documents from natural language — works with Ollama, Anthropic, Groq, and OpenAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ucgen-0.2.0.tar.gz",
+  "download_time": "2026-03-27T00:03:56.242286",
+  "package_url": "https://pypi.org/project/ucgen/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gunicorn",
-  "version": "25.2.0",
+  "version": "25.3.0",
   "summary": "WSGI HTTP Server for UNIX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gunicorn-25.2.0.tar.gz",
-  "download_time": "2026-03-24T22:56:56.251874",
+  "download_filename": "gunicorn-25.3.0.tar.gz",
+  "download_time": "2026-03-27T00:03:54.688616",
   "package_url": "https://pypi.org/project/gunicorn/"
 }

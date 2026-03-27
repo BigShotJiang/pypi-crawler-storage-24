@@ -1,0 +1,11 @@
+{
+  "name": "merkle-weight-verify",
+  "version": "0.2.0",
+  "summary": "ML model weight verification via hierarchical Merkle trees — O(1) integrity check, layer-aware diff, incremental sync. The missing verification layer for safetensors, PyTorch, and HuggingFace Hub.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "merkle_weight_verify-0.2.0.tar.gz",
+  "download_time": "2026-03-27T00:04:32.489832",
+  "package_url": "https://pypi.org/project/merkle-weight-verify/"
+}
