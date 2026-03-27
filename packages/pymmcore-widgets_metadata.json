@@ -1,0 +1,11 @@
+{
+  "name": "pymmcore-widgets",
+  "version": "0.12.1",
+  "summary": "A set of Qt-based widgets onto the pymmcore-plus model",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "pymmcore_widgets-0.12.1.tar.gz",
+  "download_time": "2026-03-27T23:53:48.119030",
+  "package_url": "https://pypi.org/project/pymmcore-widgets/"
+}

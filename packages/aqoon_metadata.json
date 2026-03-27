@@ -1,0 +1,11 @@
+{
+  "name": "aqoon",
+  "version": "0.1.1",
+  "summary": "Python SDK for aqoon — make your knowledge available to any AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aqoon-0.1.1.tar.gz",
+  "download_time": "2026-03-27T23:53:26.891360",
+  "package_url": "https://pypi.org/project/aqoon/"
+}

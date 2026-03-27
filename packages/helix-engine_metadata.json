@@ -1,0 +1,11 @@
+{
+  "name": "helix-engine",
+  "version": "0.1.1",
+  "summary": "Evolutionary prompt optimization engine inspired by Mind Evolution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "helix_engine-0.1.1.tar.gz",
+  "download_time": "2026-03-27T23:53:58.994976",
+  "package_url": "https://pypi.org/project/helix-engine/"
+}

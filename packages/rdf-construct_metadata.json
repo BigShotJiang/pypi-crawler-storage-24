@@ -1,0 +1,11 @@
+{
+  "name": "rdf-construct",
+  "version": "0.4.6",
+  "summary": "Semantic RDF manipulation toolkit - order, serialize, and diff RDF ontologies",
+  "author": "Dave Dyke",
+  "license": null,
+  "home_page": "https://github.com/aigora-de/rdf-construct",
+  "download_filename": "rdf_construct-0.4.6.tar.gz",
+  "download_time": "2026-03-27T23:53:28.477091",
+  "package_url": "https://pypi.org/project/rdf-construct/"
+}

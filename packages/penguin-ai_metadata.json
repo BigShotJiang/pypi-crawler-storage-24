@@ -1,11 +1,11 @@
 {
   "name": "penguin-ai",
-  "version": "0.6.1",
+  "version": "0.6.2.2",
   "summary": "Penguin: A modular, extensible AI coding agent and software engineer with its own execution environment.",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "penguin_ai-0.6.1.tar.gz",
-  "download_time": "2026-03-24T06:02:20.424042",
+  "download_filename": "penguin_ai-0.6.2.2.tar.gz",
+  "download_time": "2026-03-27T23:53:30.015823",
   "package_url": "https://pypi.org/project/penguin-ai/"
 }

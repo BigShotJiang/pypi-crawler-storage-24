@@ -1,11 +1,11 @@
 {
   "name": "director-ai",
-  "version": "3.11.0",
+  "version": "3.11.1",
   "summary": "Real-time LLM hallucination guardrail — NLI + RAG fact-checking with token-level streaming halt",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "director_ai-3.11.0.tar.gz",
-  "download_time": "2026-03-27T02:14:10.879312",
+  "download_filename": "director_ai-3.11.1.tar.gz",
+  "download_time": "2026-03-27T23:54:01.603522",
   "package_url": "https://pypi.org/project/director-ai/"
 }

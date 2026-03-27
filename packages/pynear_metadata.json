@@ -1,0 +1,11 @@
+{
+  "name": "pynear",
+  "version": "2.1.1",
+  "summary": "Fast exact KNN search with Vantage Point Trees — L2, L1, Chebyshev and Hamming, SIMD-accelerated",
+  "author": "Pablo Carneiro Elias",
+  "license": null,
+  "home_page": "https://github.com/pablocael/pynear",
+  "download_filename": "pynear-2.1.1.tar.gz",
+  "download_time": "2026-03-27T23:53:37.770311",
+  "package_url": "https://pypi.org/project/pynear/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "helix-evolve",
+  "version": "0.1.2",
+  "summary": "CLI for Helix evolutionary prompt optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "helix_evolve-0.1.2.tar.gz",
+  "download_time": "2026-03-27T23:53:43.979069",
+  "package_url": "https://pypi.org/project/helix-evolve/"
+}

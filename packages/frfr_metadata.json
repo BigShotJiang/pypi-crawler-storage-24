@@ -1,0 +1,11 @@
+{
+  "name": "frfr",
+  "version": "0.1.1",
+  "summary": "Lightweight runtime type validation for Python. For real.",
+  "author": "Joshua Greaves, William Myers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "frfr-0.1.1.tar.gz",
+  "download_time": "2026-03-27T23:54:01.084857",
+  "package_url": "https://pypi.org/project/frfr/"
+}

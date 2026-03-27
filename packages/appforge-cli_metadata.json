@@ -1,11 +1,11 @@
 {
   "name": "appforge-cli",
-  "version": "1.0.9",
+  "version": "1.6.0",
   "summary": "Convert web, Flutter, and native apps into Android/iOS apps automatically using cloud builds.",
   "author": "AppForge Team",
   "license": null,
   "home_page": null,
-  "download_filename": "appforge_cli-1.0.9.tar.gz",
-  "download_time": "2026-03-10T17:31:23.934557",
+  "download_filename": "appforge_cli-1.6.0.tar.gz",
+  "download_time": "2026-03-27T23:54:03.173133",
   "package_url": "https://pypi.org/project/appforge-cli/"
 }
