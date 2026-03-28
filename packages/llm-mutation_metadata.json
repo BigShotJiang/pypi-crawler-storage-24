@@ -1,0 +1,11 @@
+{
+  "name": "llm-mutation",
+  "version": "0.1.0",
+  "summary": "Mutation testing for LLM prompts. Find the gaps in your eval suite before production does.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_mutation-0.1.0.tar.gz",
+  "download_time": "2026-03-28T01:51:31.559670",
+  "package_url": "https://pypi.org/project/llm-mutation/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "model-parity",
+  "version": "0.1.0",
+  "summary": "Certify your replacement LLM is behaviorally equivalent before you migrate. 7 dimensions. YAML test suites. Parity certificate. CI gate.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "model_parity-0.1.0.tar.gz",
+  "download_time": "2026-03-28T01:51:34.832071",
+  "package_url": "https://pypi.org/project/model-parity/"
+}

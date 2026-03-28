@@ -1,11 +1,11 @@
 {
   "name": "academic-refchecker",
-  "version": "3.0.45",
+  "version": "3.0.47",
   "summary": "A comprehensive tool for validating reference accuracy in academic papers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "academic_refchecker-3.0.45.tar.gz",
-  "download_time": "2026-03-27T23:09:39.668507",
+  "download_filename": "academic_refchecker-3.0.47.tar.gz",
+  "download_time": "2026-03-28T01:51:40.518149",
   "package_url": "https://pypi.org/project/academic-refchecker/"
 }

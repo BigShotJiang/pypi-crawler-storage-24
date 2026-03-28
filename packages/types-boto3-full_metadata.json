@@ -1,11 +1,11 @@
 {
   "name": "types-boto3-full",
-  "version": "1.42.77",
-  "summary": "All-in-one type annotations for boto3 1.42.77 generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.78",
+  "summary": "All-in-one type annotations for boto3 1.42.78 generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_boto3_full-1.42.77.tar.gz",
-  "download_time": "2026-03-27T02:14:36.564729",
+  "download_filename": "types_boto3_full-1.42.78.tar.gz",
+  "download_time": "2026-03-28T01:52:12.963738",
   "package_url": "https://pypi.org/project/types-boto3-full/"
 }

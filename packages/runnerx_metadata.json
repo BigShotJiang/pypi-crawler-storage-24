@@ -1,0 +1,11 @@
+{
+  "name": "runnerx",
+  "version": "1.0.0",
+  "summary": "RunnerX: a simple Python command runner library.",
+  "author": "tutuf0012",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "runnerx-1.0.0.tar.gz",
+  "download_time": "2026-03-28T01:51:41.097457",
+  "package_url": "https://pypi.org/project/runnerx/"
+}

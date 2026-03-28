@@ -1,11 +1,11 @@
 {
   "name": "nagents",
-  "version": "0.2.22",
+  "version": "0.2.29",
   "summary": "A lightweight, dependency-free LLM agent framework with direct HTTP-based provider integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nagents-0.2.22.tar.gz",
-  "download_time": "2026-03-27T02:14:11.399525",
+  "download_filename": "nagents-0.2.29.tar.gz",
+  "download_time": "2026-03-28T01:51:41.744283",
   "package_url": "https://pypi.org/project/nagents/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "llm-contract",
+  "version": "0.1.0",
+  "summary": "Define, version, and enforce behavioral contracts on LLM function calls",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_contract-0.1.0.tar.gz",
+  "download_time": "2026-03-28T01:51:23.947619",
+  "package_url": "https://pypi.org/project/llm-contract/"
+}

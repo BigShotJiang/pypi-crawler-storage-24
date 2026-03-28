@@ -1,0 +1,11 @@
+{
+  "name": "iwx-manifest-builder",
+  "version": "0.0.264",
+  "summary": "Validates data used in building an iwx manifest file.",
+  "author": "Michael Mohamed",
+  "license": "MIT",
+  "home_page": "https://github.com/fsai-dev/fsai-cli-tools",
+  "download_filename": "iwx_manifest_builder-0.0.264.tar.gz",
+  "download_time": "2026-03-28T01:51:29.637872",
+  "package_url": "https://pypi.org/project/iwx-manifest-builder/"
+}

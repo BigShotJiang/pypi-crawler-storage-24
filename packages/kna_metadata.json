@@ -1,11 +1,11 @@
 {
   "name": "kna",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Comprehensive CLI for the Korean National Assembly: bills, lifecycle, votes, ideal points, and bill texts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kna-0.2.0-py3-none-any.whl",
-  "download_time": "2026-03-26T17:34:06.895533",
+  "download_filename": "kna-0.2.1-py3-none-any.whl",
+  "download_time": "2026-03-28T01:51:53.209964",
   "package_url": "https://pypi.org/project/kna/"
 }

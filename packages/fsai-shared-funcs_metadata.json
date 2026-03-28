@@ -1,0 +1,11 @@
+{
+  "name": "fsai-shared-funcs",
+  "version": "0.0.264",
+  "summary": "Simple functions shared across fsai apps.",
+  "author": "Michael Mohamed",
+  "license": "MIT",
+  "home_page": "https://github.com/fsai-dev/fsai-cli-tools",
+  "download_filename": "fsai_shared_funcs-0.0.264.tar.gz",
+  "download_time": "2026-03-28T01:51:27.044042",
+  "package_url": "https://pypi.org/project/fsai-shared-funcs/"
+}

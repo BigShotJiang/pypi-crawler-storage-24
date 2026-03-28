@@ -1,11 +1,11 @@
 {
   "name": "icdev",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "summary": "ICDEV™ — Intelligent Certified Development Platform. AI-powered SDLC with NIST 800-53 RMF compliance, multi-agent orchestration, FORGE framework, and ANVIL build workflow.",
   "author": "Sovanna Chuon",
   "license": null,
   "home_page": null,
-  "download_filename": "icdev-1.2.1.tar.gz",
-  "download_time": "2026-03-26T23:35:25.478091",
+  "download_filename": "icdev-1.2.3.tar.gz",
+  "download_time": "2026-03-28T01:52:16.405644",
   "package_url": "https://pypi.org/project/icdev/"
 }

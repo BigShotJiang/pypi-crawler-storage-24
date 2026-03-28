@@ -1,0 +1,11 @@
+{
+  "name": "varsha-preprocess",
+  "version": "0.2.1",
+  "summary": "Custom preprocessing pipeline library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "varsha_preprocess-0.2.1.tar.gz",
+  "download_time": "2026-03-28T01:52:07.956505",
+  "package_url": "https://pypi.org/project/varsha-preprocess/"
+}

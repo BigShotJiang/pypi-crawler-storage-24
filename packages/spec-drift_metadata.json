@@ -1,0 +1,11 @@
+{
+  "name": "spec-drift",
+  "version": "0.1.0",
+  "summary": "Semantic specification drift detector for LLM outputs — catches semantic violations Pydantic cannot see.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spec_drift-0.1.0.tar.gz",
+  "download_time": "2026-03-28T01:51:25.230302",
+  "package_url": "https://pypi.org/project/spec-drift/"
+}
